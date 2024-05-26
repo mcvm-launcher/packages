@@ -3,6 +3,8 @@
 	"config_dir": "configs",
 	"output_dir": "../std/api/mcvm/pkg",
 	"global_config": {
+		"make_fabriclike": true,
+		"make_forgelike": true,
 		"merge": {
 			"meta": {
 				"package_maintainers": [

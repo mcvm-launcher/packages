@@ -4,8 +4,12 @@
 			"kind": "mod",
 			"versions": [
 				{
-					"minecraft_versions": "24w20a",
-					"modloaders": "fabric",
+					"minecraft_versions": [
+						"24w20a",
+						"24w21a",
+						"24w21b"
+					],
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -39,7 +43,7 @@
 						"1.17",
 						"1.17.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -53,7 +57,7 @@
 						"1.17.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -89,7 +93,7 @@
 						"24w19a",
 						"24w19b"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -151,7 +155,7 @@
 						"1.20.3",
 						"1.20.4"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -167,7 +171,7 @@
 						"1.20.3",
 						"1.20.4"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -203,7 +207,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -213,7 +217,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -249,7 +253,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -259,7 +263,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -303,7 +307,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -317,7 +321,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -357,7 +361,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -371,7 +375,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -392,7 +396,7 @@
 						"1.17",
 						"1.17.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -406,7 +410,7 @@
 						"1.17.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -426,7 +430,7 @@
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -440,7 +444,7 @@
 						"1.16.5"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -475,7 +479,7 @@
 						"1.20.5-rc2",
 						"1.20.5-rc3"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -537,7 +541,7 @@
 						"1.20.3",
 						"1.20.4"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -553,7 +557,7 @@
 						"1.20.3",
 						"1.20.4"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -589,7 +593,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -599,7 +603,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -635,7 +639,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -645,7 +649,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -689,7 +693,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -703,7 +707,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -743,7 +747,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -757,7 +761,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -778,7 +782,7 @@
 						"1.17",
 						"1.17.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -792,7 +796,7 @@
 						"1.17.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -812,7 +816,7 @@
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -823,7 +827,7 @@
 				{
 					"minecraft_versions": "1.16.5",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -848,7 +852,7 @@
 						"1.15.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -872,7 +876,7 @@
 						"1.14.4"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -936,7 +940,7 @@
 						"1.20.3",
 						"1.20.4"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -952,7 +956,7 @@
 						"1.20.3",
 						"1.20.4"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -988,7 +992,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -998,7 +1002,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -1034,7 +1038,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1044,7 +1048,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -1088,7 +1092,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1102,7 +1106,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -1142,7 +1146,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1156,7 +1160,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -1177,7 +1181,7 @@
 						"1.17",
 						"1.17.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1191,7 +1195,7 @@
 						"1.17.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1211,7 +1215,7 @@
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1222,7 +1226,7 @@
 				{
 					"minecraft_versions": "1.16.5",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1286,7 +1290,7 @@
 						"1.20.3",
 						"1.20.4"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1302,7 +1306,7 @@
 						"1.20.3",
 						"1.20.4"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -1338,7 +1342,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1348,7 +1352,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -1384,7 +1388,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1394,7 +1398,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -1438,7 +1442,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1452,7 +1456,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -1492,7 +1496,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1506,7 +1510,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
 						"recommendations": [
@@ -1527,7 +1531,7 @@
 						"1.17",
 						"1.17.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1541,7 +1545,7 @@
 						"1.17.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1561,7 +1565,7 @@
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "cloth-config"
 					},
@@ -1572,7 +1576,7 @@
 				{
 					"minecraft_versions": "1.16.5",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1599,7 +1603,7 @@
 						"1.20.4"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1620,7 +1624,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1641,7 +1645,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1666,7 +1670,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1694,7 +1698,7 @@
 						"1.18.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1721,7 +1725,7 @@
 						"1.20.4"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1742,7 +1746,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1763,7 +1767,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1788,7 +1792,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1816,7 +1820,7 @@
 						"1.18.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1843,7 +1847,7 @@
 						"1.20.4"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1864,7 +1868,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1885,7 +1889,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1910,7 +1914,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1938,7 +1942,7 @@
 						"1.18.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1965,7 +1969,7 @@
 						"1.20.4"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1986,7 +1990,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2007,7 +2011,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2032,7 +2036,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2060,7 +2064,7 @@
 						"1.18.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2088,7 +2092,7 @@
 						"1.18.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2115,7 +2119,7 @@
 						"1.20.4"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2136,7 +2140,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2157,7 +2161,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2182,7 +2186,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2207,7 +2211,7 @@
 						"1.20.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2228,7 +2232,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2254,7 +2258,7 @@
 						"1.19.3"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2278,7 +2282,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2299,7 +2303,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2325,7 +2329,7 @@
 						"1.19.3"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2349,7 +2353,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2370,7 +2374,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2396,7 +2400,7 @@
 						"1.19.3"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2417,7 +2421,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2441,7 +2445,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2467,7 +2471,7 @@
 						"1.19.3"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2491,7 +2495,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2515,7 +2519,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2542,7 +2546,7 @@
 						"1.19.4"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2567,7 +2571,7 @@
 						"1.19"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2591,7 +2595,7 @@
 						"1.18"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2612,7 +2616,7 @@
 				{
 					"minecraft_versions": "1.17.1",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2631,7 +2635,7 @@
 						"1.17.1-pre1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2647,7 +2651,7 @@
 				{
 					"minecraft_versions": "1.16.5",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2679,7 +2683,7 @@
 						"21w03a"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2710,7 +2714,7 @@
 						"1.16.5"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2744,7 +2748,7 @@
 						"20w51a"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2855,7 +2859,9 @@
 			"24w18a",
 			"24w19a",
 			"24w19b",
-			"24w20a"
+			"24w20a",
+			"24w21a",
+			"24w21b"
 		]
 	}
 }

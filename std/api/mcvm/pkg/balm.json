@@ -4,6 +4,78 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/ui9UH4JU/balm-neoforge-1.20.6-10.1.1.jar",
+					"version": "ui9UH4JU"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/JWCXyAFI/balm-forge-1.20.6-10.1.1.jar",
+					"version": "JWCXyAFI"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Bb8wmAjY/balm-fabric-1.20.6-10.1.1.jar",
+					"version": "Bb8wmAjY"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/8wgOo6Ga/balm-neoforge-1.20.6-10.0.2.jar",
+					"version": "8wgOo6Ga"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/OYyizALG/balm-forge-1.20.6-10.0.2.jar",
+					"version": "OYyizALG"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/nw61Pdsu/balm-fabric-1.20.6-10.0.2.jar",
+					"version": "nw61Pdsu"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/vDreKB60/balm-neoforge-1.20.6-10.0.1%2B1.20.6.jar",
+					"version": "vDreKB60"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/huCbvMtN/balm-forge-10.0.1%2B1.20.6.jar",
+					"version": "huCbvMtN"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/GAFne6x4/balm-fabric-10.0.1%2B1.20.6.jar",
+					"version": "GAFne6x4"
+				},
+				{
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
 					"stability": "stable",
@@ -12,14 +84,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/WYvcCUer/balm-forge-1.20.4-9.0.9.jar",
 					"version": "WYvcCUer"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -36,14 +108,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/StgsQbVh/balm-forge-1.20.4-9.0.8.jar",
 					"version": "StgsQbVh"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -60,14 +132,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/OjHYTM4n/balm-forge-1.20.4-9.0.7.jar",
 					"version": "OjHYTM4n"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -80,7 +152,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/fzqus8s0/balm-forge-1.20.1-7.2.2.jar",
 					"version": "fzqus8s0"
@@ -90,7 +162,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -107,14 +179,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/tC2vMFuQ/balm-forge-1.20.4-9.0.6.jar",
 					"version": "tC2vMFuQ"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -131,14 +203,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/2OHf9GyZ/balm-forge-1.20.4-9.0.5.jar",
 					"version": "2OHf9GyZ"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -155,7 +227,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -165,7 +237,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/ZuihLitZ/balm-forge-1.20.4-9.0.4.jar",
 					"version": "ZuihLitZ"
@@ -179,14 +251,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/uZyJkfxk/balm-forge-1.20.4-9.0.3.jar",
 					"version": "uZyJkfxk"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -203,14 +275,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Q0xpW61Y/balm-forge-1.20.4-9.0.2.jar",
 					"version": "Q0xpW61Y"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -227,14 +299,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/VH4LTqFp/balm-forge-1.20.4-9.0.1.jar",
 					"version": "VH4LTqFp"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -251,14 +323,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/TGc6wvHK/balm-forge-1.20.2-8.0.5.jar",
 					"version": "TGc6wvHK"
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -278,7 +350,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/JUrMdJP1/balm-forge-1.20.1-7.2.1.jar",
 					"version": "JUrMdJP1"
@@ -288,7 +360,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -312,14 +384,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/jPAtAJcJ/balm-forge-1.20.2-8.0.2.jar",
 					"version": "jPAtAJcJ"
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -329,14 +401,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/YL5MVHnr/balm-forge-1.20.2-8.0.1.jar",
 					"version": "YL5MVHnr"
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -349,7 +421,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/fFosgnEu/balm-forge-1.20.1-7.1.4.jar",
 					"version": "fFosgnEu"
@@ -359,7 +431,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -372,7 +444,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/sBs7NeXN/balm-forge-1.20.1-7.1.3.jar",
 					"version": "sBs7NeXN"
@@ -382,7 +454,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -395,7 +467,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -408,7 +480,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/ffUlrjOr/balm-forge-1.20.1-7.1.2.jar",
 					"version": "ffUlrjOr"
@@ -418,7 +490,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/CO57SmJl/balm-forge-1.20-7.1.1.jar",
 					"version": "CO57SmJl"
@@ -428,7 +500,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -441,7 +513,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/l551HLmO/balm-forge-1.20-7.1.0.jar",
 					"version": "l551HLmO"
@@ -452,7 +524,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/d7a0S3hj/balm-forge-1.19.2-4.6.0.jar",
 					"version": "d7a0S3hj"
@@ -462,7 +534,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -476,7 +548,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -489,7 +561,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/NRF4uKO7/balm-forge-1.20-7.0.7.jar",
 					"version": "NRF4uKO7"
@@ -499,7 +571,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -512,7 +584,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/i8CwYuCi/balm-forge-1.20-7.0.4.jar",
 					"version": "i8CwYuCi"
@@ -522,7 +594,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -535,7 +607,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/wiayzjLV/balm-forge-1.20-7.0.3.jar",
 					"version": "wiayzjLV"
@@ -545,7 +617,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -558,7 +630,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/VYTPVkW0/balm-forge-1.20-7.0.2.jar",
 					"version": "VYTPVkW0"
@@ -568,7 +640,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -581,7 +653,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/o7IqP6Td/balm-forge-1.20-7.0.1.jar",
 					"version": "o7IqP6Td"
@@ -591,7 +663,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -601,7 +673,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -614,7 +686,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/lRKNKP0w/balm-forge-1.19.3-5.0.4.jar",
 					"version": "lRKNKP0w"
@@ -625,7 +697,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -638,14 +710,14 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/RAATKbAN/balm-3.2.6.jar",
 					"version": "RAATKbAN"
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -658,7 +730,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/XNus763a/balm-forge-1.19.4-6.0.2.jar",
 					"version": "XNus763a"
@@ -669,7 +741,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -683,14 +755,14 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/C60k8eYK/balm-forge-1.19.2-4.5.7.jar",
 					"version": "C60k8eYK"
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -703,7 +775,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/TbFmWuAA/balm-forge-1.19.4-6.0.1.jar",
 					"version": "TbFmWuAA"
@@ -714,7 +786,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -728,7 +800,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/NhlpDRNn/balm-forge-1.19.2-4.5.6.jar",
 					"version": "NhlpDRNn"
@@ -739,7 +811,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/nFs2ZvOR/balm-3.2.5.jar",
 					"version": "nFs2ZvOR"
@@ -750,7 +822,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -763,7 +835,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -776,7 +848,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/840UhUoL/balm-forge-1.19.3-5.0.3.jar",
 					"version": "840UhUoL"
@@ -787,7 +859,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -804,7 +876,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -818,7 +890,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/nErKcTp9/balm-forge-1.19.2-4.5.4.jar",
 					"version": "nErKcTp9"
@@ -829,7 +901,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/DENsCzBf/balm-3.2.3%2B0.jar",
 					"version": "DENsCzBf"
@@ -840,7 +912,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -857,14 +929,14 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/AhzvhBQj/balm-3.2.2%2B0.jar",
 					"version": "AhzvhBQj"
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -877,14 +949,14 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/ZI4feWbU/balm-forge-1.19.3-5.0.2.jar",
 					"version": "ZI4feWbU"
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -897,14 +969,14 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/i5Q1d7Pr/balm-forge-1.19.3-5.0.1.jar",
 					"version": "i5Q1d7Pr"
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "balm"
 					},
@@ -918,7 +990,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -935,7 +1007,7 @@
 						"1.18.1",
 						"1.18.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/rLFLPShY/balm-3.2.0%2B0.jar",
 					"version": "rLFLPShY"
@@ -946,7 +1018,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4.5.3%2Bforge-1.19/balm-4.5.3.jar",
 					"version": "HaskpkVN"
@@ -957,7 +1029,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
 							"cloth-config",
@@ -970,35 +1042,35 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4.5.2%2Bforge-1.19/balm-4.5.2.jar",
 					"version": "yCm0MvD8"
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4.5.0%2Bforge-1.19/balm-4.5.0.jar",
 					"version": "3gG05xht"
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4.4.0%2Bforge-1.19/balm-4.4.0.jar",
 					"version": "KGco8pn9"
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4.3.0%2Bforge-1.19/balm-4.3.0.jar",
 					"version": "U6WiexwY"
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -1008,14 +1080,14 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4.2.0%2Bforge-1.19/balm-4.2.0.jar",
 					"version": "pLCLIILr"
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -1025,14 +1097,14 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4.1.0%2Bforge-1.19/balm-4.1.0.jar",
 					"version": "DIjNWWDQ"
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -1042,14 +1114,14 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4.0.0%2B0/balm-4.0.0%2B0.jar",
 					"version": "C0Q1coDV"
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -1104,7 +1176,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.2",
-			"1.20.4"
+			"1.20.4",
+			"1.20.6"
 		]
 	}
 }

@@ -12,7 +12,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.6",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -29,7 +29,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.6",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -46,7 +46,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.5",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -69,7 +69,7 @@
 						"1.20.5",
 						"1.20.6"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -86,7 +86,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.5",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -96,7 +96,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.5-pre1",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -106,7 +106,7 @@
 				},
 				{
 					"minecraft_versions": "24w14a",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -116,7 +116,7 @@
 				},
 				{
 					"minecraft_versions": "24w14potato",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -126,7 +126,7 @@
 				},
 				{
 					"minecraft_versions": "24w12a",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -143,14 +143,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uo9eXNGR/architectury-10.1.20-minecraftforge.jar",
 					"version": "uo9eXNGR"
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -167,14 +167,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZFDazCA3/architectury-11.1.17-minecraftforge.jar",
 					"version": "ZFDazCA3"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -184,7 +184,7 @@
 				},
 				{
 					"minecraft_versions": "24w09a",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -194,7 +194,7 @@
 				},
 				{
 					"minecraft_versions": "24w09a",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -204,7 +204,7 @@
 				},
 				{
 					"minecraft_versions": "24w09a",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -221,14 +221,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZBYAOSc6/architectury-11.1.13-minecraftforge.jar",
 					"version": "ZBYAOSc6"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -245,14 +245,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ioqQQnil/architectury-10.1.19-minecraftforge.jar",
 					"version": "ioqQQnil"
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -262,7 +262,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/96L7fC9l/architectury-6.6.92-forge.jar",
 					"version": "96L7fC9l"
@@ -270,7 +270,7 @@
 				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -285,7 +285,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
 					"version": "1MKTLiiG"
@@ -296,7 +296,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -308,7 +308,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/3ChyUkZQ/architectury-4.12.94-forge.jar",
 					"version": "3ChyUkZQ"
@@ -316,7 +316,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -335,14 +335,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/VojERyZc/architectury-11.0.12-minecraftforge.jar",
 					"version": "VojERyZc"
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -359,14 +359,14 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/dSE4T7Xl/architectury-10.0.18-minecraftforge.jar",
 					"version": "dSE4T7Xl"
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -379,7 +379,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/tBWqtdBO/architectury-9.1.13-forge.jar",
 					"version": "tBWqtdBO"
@@ -390,7 +390,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -402,7 +402,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/RDKM6Ne0/architectury-8.2.91-forge.jar",
 					"version": "RDKM6Ne0"
@@ -410,7 +410,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -422,7 +422,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/NNgyZexI/architectury-6.5.90-forge.jar",
 					"version": "NNgyZexI"
@@ -430,7 +430,7 @@
 				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -449,7 +449,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/R5RNBeku/architectury-11.0.11-minecraftforge.jar",
 					"version": "R5RNBeku"
@@ -457,7 +457,7 @@
 				{
 					"minecraft_versions": "1.20.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -476,7 +476,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Vd2WmEGD/architectury-11.0.10-minecraftforge.jar",
 					"version": "Vd2WmEGD"
@@ -484,7 +484,7 @@
 				{
 					"minecraft_versions": "1.20.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -503,7 +503,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/GASUTIWF/architectury-11.0.9-minecraftforge.jar",
 					"version": "GASUTIWF"
@@ -511,7 +511,7 @@
 				{
 					"minecraft_versions": "1.20.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -530,7 +530,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/iqtq80D9/architectury-11.0.8-minecraftforge.jar",
 					"version": "iqtq80D9"
@@ -538,7 +538,7 @@
 				{
 					"minecraft_versions": "1.20.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -557,7 +557,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/m1ZNYMdO/architectury-11.0.7-minecraftforge.jar",
 					"version": "m1ZNYMdO"
@@ -565,7 +565,7 @@
 				{
 					"minecraft_versions": "1.20.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -584,7 +584,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5Df4To3D/architectury-10.0.17-minecraftforge.jar",
 					"version": "5Df4To3D"
@@ -592,7 +592,7 @@
 				{
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -611,7 +611,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WpILW4lU/architectury-10.0.16-minecraftforge.jar",
 					"version": "WpILW4lU"
@@ -619,7 +619,7 @@
 				{
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -632,7 +632,7 @@
 				{
 					"minecraft_versions": "1.20.3-pre1",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -651,7 +651,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/DRIeZqaG/architectury-10.0.15-minecraftforge.jar",
 					"version": "DRIeZqaG"
@@ -659,7 +659,7 @@
 				{
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -678,7 +678,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/AIDo0TBH/architectury-10.0.14-minecraftforge.jar",
 					"version": "AIDo0TBH"
@@ -686,7 +686,7 @@
 				{
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -705,7 +705,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/tcThoSyZ/architectury-10.0.13-minecraftforge.jar",
 					"version": "tcThoSyZ"
@@ -713,7 +713,7 @@
 				{
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -732,7 +732,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/hPS5IgBx/architectury-10.0.12-minecraftforge.jar",
 					"version": "hPS5IgBx"
@@ -740,7 +740,7 @@
 				{
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -759,7 +759,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/BD9Sr6TL/architectury-10.0.11-minecraftforge.jar",
 					"version": "BD9Sr6TL"
@@ -767,7 +767,7 @@
 				{
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -779,7 +779,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Hwb5NUwj/architectury-10.0.9-forge.jar",
 					"version": "Hwb5NUwj"
@@ -787,7 +787,7 @@
 				{
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -800,7 +800,7 @@
 				{
 					"minecraft_versions": "23w41a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -813,7 +813,7 @@
 				{
 					"minecraft_versions": "23w40a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -825,7 +825,7 @@
 				},
 				{
 					"minecraft_versions": "1.20.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/RbSwgJzj/architectury-10.0.8-forge.jar",
 					"version": "RbSwgJzj"
@@ -833,7 +833,7 @@
 				{
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -849,7 +849,7 @@
 						"1.20.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -862,7 +862,7 @@
 				{
 					"minecraft_versions": "1.20.2-pre2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -875,7 +875,7 @@
 				{
 					"minecraft_versions": "1.20.2-pre1",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -888,7 +888,7 @@
 				{
 					"minecraft_versions": "23w35a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -901,7 +901,7 @@
 				{
 					"minecraft_versions": "23w33a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -914,7 +914,7 @@
 				{
 					"minecraft_versions": "23w32a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -927,7 +927,7 @@
 				{
 					"minecraft_versions": "23w31a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -942,7 +942,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/gyJ7kDpb/architectury-9.1.12-forge.jar",
 					"version": "gyJ7kDpb"
@@ -953,7 +953,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -968,7 +968,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Xisp7QmU/architectury-9.1.11-forge.jar",
 					"version": "Xisp7QmU"
@@ -978,7 +978,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5VA4z5O5/architectury-9.1.10-forge.jar",
 					"version": "5VA4z5O5"
@@ -989,7 +989,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1001,7 +1001,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/8y4xVR6z/architectury-8.2.89-forge.jar",
 					"version": "8y4xVR6z"
@@ -1009,7 +1009,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1024,7 +1024,7 @@
 						"1.20",
 						"1.20.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ON7CwM6M/architectury-9.0.8-forge.jar",
 					"version": "ON7CwM6M"
@@ -1035,7 +1035,7 @@
 						"1.20.1"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1047,7 +1047,7 @@
 				},
 				{
 					"minecraft_versions": "1.20",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/7SbYSIdC/architectury-9.0.7-forge.jar",
 					"version": "7SbYSIdC"
@@ -1055,7 +1055,7 @@
 				{
 					"minecraft_versions": "1.20",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1067,7 +1067,7 @@
 				},
 				{
 					"minecraft_versions": "1.20",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/jSGDiM9H/architectury-9.0.6-forge.jar",
 					"version": "jSGDiM9H"
@@ -1075,7 +1075,7 @@
 				{
 					"minecraft_versions": "1.20",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1087,14 +1087,14 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/lReYANwU/architectury-7.1.86-forge.jar",
 					"version": "lReYANwU"
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/NxbWyaxs/architectury-5.14.84-forge.jar",
 					"version": "NxbWyaxs"
@@ -1102,7 +1102,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1115,7 +1115,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1127,7 +1127,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/62fhHjWH/architectury-8.1.87-forge.jar",
 					"version": "62fhHjWH"
@@ -1135,7 +1135,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1147,7 +1147,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ns7Xs1B6/architectury-6.5.85-forge.jar",
 					"version": "ns7Xs1B6"
@@ -1155,7 +1155,7 @@
 				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1168,7 +1168,7 @@
 				{
 					"minecraft_versions": "1.20-pre5",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1181,7 +1181,7 @@
 				{
 					"minecraft_versions": "1.20-pre1",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1194,7 +1194,7 @@
 				{
 					"minecraft_versions": "23w18a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1206,7 +1206,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/o069zrDa/architectury-4.11.93-forge.jar",
 					"version": "o069zrDa"
@@ -1214,7 +1214,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1226,14 +1226,14 @@
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Zw57dVyl/architectury-1.32.68.jar",
 					"version": "Zw57dVyl"
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -1244,7 +1244,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1256,7 +1256,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/w5Kw8FAN/architectury-6.5.82-forge.jar",
 					"version": "w5Kw8FAN"
@@ -1264,7 +1264,7 @@
 				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1276,7 +1276,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/a9f986RP/architectury-5.14.83-forge.jar",
 					"version": "a9f986RP"
@@ -1284,7 +1284,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1296,7 +1296,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/jHxM99iS/architectury-7.1.81-forge.jar",
 					"version": "jHxM99iS"
@@ -1304,7 +1304,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1316,7 +1316,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/oGBEjb15/architectury-8.1.80-forge.jar",
 					"version": "oGBEjb15"
@@ -1324,7 +1324,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1336,7 +1336,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ppDF7bGm/architectury-4.11.92-forge.jar",
 					"version": "ppDF7bGm"
@@ -1344,7 +1344,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1356,7 +1356,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/lh8TNghT/architectury-5.14.76-forge.jar",
 					"version": "lh8TNghT"
@@ -1364,7 +1364,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1376,14 +1376,14 @@
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/MDMnIYXn/architectury-1.32.67.jar",
 					"version": "MDMnIYXn"
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -1393,7 +1393,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/gP2XH9Oe/architectury-7.1.78-forge.jar",
 					"version": "gP2XH9Oe"
@@ -1401,7 +1401,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1413,7 +1413,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/LjNaLvHD/architectury-8.1.79-forge.jar",
 					"version": "LjNaLvHD"
@@ -1421,7 +1421,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1433,7 +1433,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Kwuu4O4w/architectury-6.5.77-forge.jar",
 					"version": "Kwuu4O4w"
@@ -1441,7 +1441,7 @@
 				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1453,14 +1453,14 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/SWry8g5q/architectury-4.11.90-forge.jar",
 					"version": "SWry8g5q"
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/XZrvAVVY/architectury-4.11.91-forge.jar",
 					"version": "XZrvAVVY"
@@ -1468,7 +1468,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1481,7 +1481,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1494,7 +1494,7 @@
 				{
 					"minecraft_versions": "23w13a_or_b",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1507,7 +1507,7 @@
 				{
 					"minecraft_versions": "23w13a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1519,7 +1519,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/YxX289mS/architectury-8.1.75-forge.jar",
 					"version": "YxX289mS"
@@ -1527,7 +1527,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1539,7 +1539,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.4",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/YiYBpQpv/architectury-8.1.73-forge.jar",
 					"version": "YiYBpQpv"
@@ -1547,7 +1547,7 @@
 				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1560,7 +1560,7 @@
 				{
 					"minecraft_versions": "1.19.4-pre3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1572,7 +1572,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ketja3QP/architectury-7.1.70-forge.jar",
 					"version": "ketja3QP"
@@ -1580,7 +1580,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1592,7 +1592,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1hOCMZsg/architectury-6.5.69-forge.jar",
 					"version": "1hOCMZsg"
@@ -1600,7 +1600,7 @@
 				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1613,7 +1613,7 @@
 				{
 					"minecraft_versions": "23w03a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1625,7 +1625,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/xXsDyf0B/architectury-5.14.68-forge.jar",
 					"version": "xXsDyf0B"
@@ -1633,7 +1633,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1645,7 +1645,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/v3rn2fDT/architectury-4.11.89-forge.jar",
 					"version": "v3rn2fDT"
@@ -1653,7 +1653,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1666,7 +1666,7 @@
 				{
 					"minecraft_versions": "23w03a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1678,7 +1678,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uhEeGdaK/architectury-7.0.66-forge.jar",
 					"version": "uhEeGdaK"
@@ -1686,7 +1686,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1698,7 +1698,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/s1gmP0Q3/architectury-7.0.65-forge.jar",
 					"version": "s1gmP0Q3"
@@ -1706,7 +1706,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1718,7 +1718,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WFvj4t0k/architectury-7.0.64-forge.jar",
 					"version": "WFvj4t0k"
@@ -1726,7 +1726,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1738,7 +1738,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.3",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/dcM46wLr/architectury-7.0.63-forge.jar",
 					"version": "dcM46wLr"
@@ -1746,7 +1746,7 @@
 				{
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1758,7 +1758,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Hl08ZTHo/architectury-6.4.62-forge.jar",
 					"version": "Hl08ZTHo"
@@ -1766,7 +1766,7 @@
 				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1778,7 +1778,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/sylbo6YH/architectury-6.4.61-forge.jar",
 					"version": "sylbo6YH"
@@ -1786,7 +1786,7 @@
 				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1798,7 +1798,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/9yZyQCYh/architectury-5.13.60-forge.jar",
 					"version": "9yZyQCYh"
@@ -1806,7 +1806,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1818,7 +1818,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/PEKDmPIQ/architectury-4.10.88-forge.jar",
 					"version": "PEKDmPIQ"
@@ -1826,7 +1826,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1839,7 +1839,7 @@
 				{
 					"minecraft_versions": "1.19.3-pre2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1854,7 +1854,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/d5oFBHkM/architectury-6.3.56-forge.jar",
 					"version": "d5oFBHkM"
@@ -1865,7 +1865,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1877,7 +1877,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/PbE00gCi/architectury-5.13.55-forge.jar",
 					"version": "PbE00gCi"
@@ -1885,7 +1885,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1898,7 +1898,7 @@
 				{
 					"minecraft_versions": "22w44a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1911,7 +1911,7 @@
 				{
 					"minecraft_versions": "22w43a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1924,7 +1924,7 @@
 				{
 					"minecraft_versions": "22w42a",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1939,7 +1939,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/tXIP7YPz/architectury-6.3.49-forge.jar",
 					"version": "tXIP7YPz"
@@ -1950,7 +1950,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1962,7 +1962,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/hFLxuJ0N/architectury-5.13.48-forge.jar",
 					"version": "hFLxuJ0N"
@@ -1970,7 +1970,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -1982,7 +1982,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/FkwCidMg/architectury-4.10.86-forge.jar",
 					"version": "FkwCidMg"
@@ -1990,7 +1990,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2005,7 +2005,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/cH9PCvfY/architectury-6.2.46-forge.jar",
 					"version": "cH9PCvfY"
@@ -2016,7 +2016,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2028,7 +2028,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/yaTUjhVv/architectury-5.12.45-forge.jar",
 					"version": "yaTUjhVv"
@@ -2036,7 +2036,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2048,7 +2048,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/TZRm0P23/architectury-4.9.84-forge.jar",
 					"version": "TZRm0P23"
@@ -2056,7 +2056,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2068,7 +2068,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Qg9loogH/architectury-5.12.44-forge.jar",
 					"version": "Qg9loogH"
@@ -2076,7 +2076,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2088,7 +2088,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.9.83%2Bforge/architectury-4.9.83-forge.jar",
 					"version": "GCR7RG35"
@@ -2096,7 +2096,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2108,7 +2108,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.12.42%2Bforge/architectury-5.12.42-forge.jar",
 					"version": "76Z4FAQ0"
@@ -2116,7 +2116,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2131,7 +2131,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.2.43%2Bforge/architectury-6.2.43-forge.jar",
 					"version": "HINkYiBY"
@@ -2142,7 +2142,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2154,7 +2154,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.8.82%2Bforge/architectury-4.8.82-forge.jar",
 					"version": "JzXLfsj6"
@@ -2162,7 +2162,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2177,7 +2177,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.1.41%2Bforge/architectury-6.1.41-forge.jar",
 					"version": "SvFEBbXa"
@@ -2188,7 +2188,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2200,7 +2200,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.11.40%2Bforge/architectury-5.11.40-forge.jar",
 					"version": "yayVtVT2"
@@ -2208,7 +2208,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2220,7 +2220,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.8.81%2Bforge/architectury-4.8.81-forge.jar",
 					"version": "99U08qrM"
@@ -2230,7 +2230,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.1.39%2Bforge/architectury-6.1.39-forge.jar",
 					"version": "mYz4gdHP"
@@ -2241,7 +2241,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2254,7 +2254,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2266,7 +2266,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.11.38%2Bforge/architectury-5.11.38-forge.jar",
 					"version": "DDO8yQYm"
@@ -2274,7 +2274,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2286,7 +2286,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.8.80%2Bforge/architectury-4.8.80-forge.jar",
 					"version": "MJMK72lb"
@@ -2294,7 +2294,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2306,7 +2306,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.8.79%2Bforge/architectury-4.8.79-forge.jar",
 					"version": "Vfjfgr3q"
@@ -2314,7 +2314,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2329,7 +2329,7 @@
 						"1.19.1",
 						"1.19.2"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.0.37%2Bforge/architectury-6.0.37-forge.jar",
 					"version": "m9TL0O0B"
@@ -2340,7 +2340,7 @@
 						"1.19.2"
 					],
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2352,7 +2352,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.10.36%2Bforge/architectury-5.10.36-forge.jar",
 					"version": "fuvw3iT3"
@@ -2360,7 +2360,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2372,7 +2372,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.1",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.0.35%2Bforge/architectury-6.0.35-forge.jar",
 					"version": "I0bwxQis"
@@ -2380,7 +2380,7 @@
 				{
 					"minecraft_versions": "1.19.1",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2392,7 +2392,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.7.78%2Bforge/architectury-4.7.78-forge.jar",
 					"version": "AqHbhvJG"
@@ -2400,7 +2400,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2412,7 +2412,7 @@
 				},
 				{
 					"minecraft_versions": "1.19.1",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.0.34%2Bforge/architectury-6.0.34-forge.jar",
 					"version": "Vx9peY9q"
@@ -2420,7 +2420,7 @@
 				{
 					"minecraft_versions": "1.19.1",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2432,7 +2432,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.6.77%2Bforge/architectury-4.6.77-forge.jar",
 					"version": "fgbaICgI"
@@ -2440,7 +2440,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2452,7 +2452,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.10.33%2Bforge/architectury-5.10.33-forge.jar",
 					"version": "QdSI5Jqt"
@@ -2460,7 +2460,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2472,7 +2472,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.10.32%2Bforge/architectury-5.10.32-forge.jar",
 					"version": "e5A7iji0"
@@ -2480,7 +2480,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2492,7 +2492,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.9.31%2Bforge/architectury-5.9.31-forge.jar",
 					"version": "cRQNpVkN"
@@ -2500,7 +2500,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2512,7 +2512,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.9.30%2Bforge/architectury-5.9.30-forge.jar",
 					"version": "ZTaMrj4V"
@@ -2520,7 +2520,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2532,7 +2532,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.8.29%2Bforge/architectury-5.8.29-forge.jar",
 					"version": "Abuha336"
@@ -2540,7 +2540,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2552,14 +2552,14 @@
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1.32.66%2Bforge/architectury-1.32.66.jar",
 					"version": "M2TFuKCj"
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -2569,7 +2569,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.76%2Bforge/architectury-4.5.76-forge.jar",
 					"version": "4QsePUaY"
@@ -2577,7 +2577,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2589,7 +2589,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.7.28%2Bforge/architectury-5.7.28-forge.jar",
 					"version": "4EmMThpo"
@@ -2597,7 +2597,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2609,7 +2609,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.75%2Bforge/architectury-4.5.75-forge.jar",
 					"version": "syUiA6EY"
@@ -2617,7 +2617,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2629,7 +2629,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.7.27%2Bforge/architectury-5.7.27-forge.jar",
 					"version": "7tOt6yBe"
@@ -2637,7 +2637,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2649,7 +2649,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.74%2Bforge/architectury-4.5.74-forge.jar",
 					"version": "PnEz49HI"
@@ -2657,7 +2657,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2669,7 +2669,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.7.26%2Bforge/architectury-5.7.26.jar",
 					"version": "2nlsuqT0"
@@ -2677,7 +2677,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2689,7 +2689,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.73%2Bforge/architectury-4.5.73.jar",
 					"version": "dQVFn0lZ"
@@ -2697,7 +2697,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2709,7 +2709,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.6.24%2Bforge/architectury-5.6.24.jar",
 					"version": "k5Vk58yE"
@@ -2717,7 +2717,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2729,7 +2729,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.4.71%2Bforge/architectury-4.4.71.jar",
 					"version": "nEcl9mv3"
@@ -2737,7 +2737,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2749,7 +2749,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.6.22%2Bforge/architectury-5.6.22.jar",
 					"version": "TytFoW0P"
@@ -2757,7 +2757,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2769,7 +2769,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.6.21%2Bforge/architectury-5.6.21.jar",
 					"version": "uwTqwrar"
@@ -2777,7 +2777,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2789,7 +2789,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.4.70%2Bforge/architectury-4.4.70.jar",
 					"version": "6rv0zlku"
@@ -2797,7 +2797,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2809,7 +2809,7 @@
 				},
 				{
 					"minecraft_versions": "1.19",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.5.16%2Bforge/architectury-5.5.16.jar",
 					"version": "PNRrEweK"
@@ -2817,7 +2817,7 @@
 				{
 					"minecraft_versions": "1.19",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2830,7 +2830,7 @@
 				{
 					"minecraft_versions": "1.19-pre1",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2843,7 +2843,7 @@
 				{
 					"minecraft_versions": "1.19-pre1",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2855,7 +2855,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.4.68%2Bforge/architectury-4.4.68.jar",
 					"version": "JKUpiAOI"
@@ -2863,7 +2863,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2875,7 +2875,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.4.67%2Bforge/architectury-4.4.67.jar",
 					"version": "G6roBkfe"
@@ -2883,7 +2883,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2895,14 +2895,14 @@
 				},
 				{
 					"minecraft_versions": "1.17.1",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/2.10.12%2Bforge/architectury-2.10.12.jar",
 					"version": "kuKyhx4a"
 				},
 				{
 					"minecraft_versions": "1.17.1",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -2915,7 +2915,7 @@
 						"1.18",
 						"1.18.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/3.9.66%2Bforge/architectury-3.9.66.jar",
 					"version": "xUSAkGXZ"
@@ -2925,7 +2925,7 @@
 						"1.18",
 						"1.18.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -2935,7 +2935,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.4.65%2Bforge/architectury-4.4.65.jar",
 					"version": "Uw4OUIpO"
@@ -2943,7 +2943,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2955,7 +2955,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.4.64%2Bforge/architectury-4.4.64.jar",
 					"version": "qFpMNY9p"
@@ -2963,7 +2963,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
@@ -2975,14 +2975,14 @@
 				},
 				{
 					"minecraft_versions": "1.17.1",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/2.10.10%2Bforge/architectury-2.10.10.jar",
 					"version": "YLbgW3at"
 				},
 				{
 					"minecraft_versions": "1.17.1",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -2992,7 +2992,7 @@
 				},
 				{
 					"minecraft_versions": "1.19-pre1",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -3005,7 +3005,7 @@
 						"1.18",
 						"1.18.1"
 					],
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/3.9.62%2Bforge/architectury-3.9.62.jar",
 					"version": "y6rBiuLE"
@@ -3015,7 +3015,7 @@
 						"1.18",
 						"1.18.1"
 					],
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -3025,14 +3025,14 @@
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1.32.63%2Bforge/architectury-1.32.63.jar",
 					"version": "5KJz05dn"
 				},
 				{
 					"minecraft_versions": "1.16.5",
-					"modloaders": "fabric",
+					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
 					},
@@ -3042,7 +3042,7 @@
 				},
 				{
 					"minecraft_versions": "1.18.2",
-					"modloaders": "forge",
+					"modloaders": "forgelike",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.4.61%2Bforge/architectury-4.4.61.jar",
 					"version": "gyNUAhlG"
@@ -3050,7 +3050,7 @@
 				{
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
-						"fabric",
+						"fabriclike",
 						"quilt"
 					],
 					"relations": {
