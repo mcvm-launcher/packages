@@ -1,0 +1,34 @@
+{
+	"source": "modrinth",
+	"id": "BVzZfTc1",
+	"relation_substitutions": {
+		"mOgUt4GM": "mod-menu",
+		"9s6osm5g": "cloth-config",
+		"P7dR8mSH": "fabriclike-api",
+		"BVzZfTc1": "entity-texture-features"
+	},
+	"merge": {
+		"meta": {
+			"keywords": [
+				"entity",
+				"textures"
+			],
+			"categories": [
+				"graphics",
+				"technical"
+			]
+		},
+		"properties": {
+			"open_source": true,
+			"supported_modloaders": [
+				"fabriclike",
+				"forgelike"
+			]
+		},
+		"relations": {
+			"dependencies": [
+				"fabric-rendering-api"
+			]
+		}
+	}
+}

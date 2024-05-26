@@ -1,0 +1,31 @@
+{
+	"source": "modrinth",
+	"id": "4I1XuqiY",
+	"relation_substitutions": {
+		"BVzZfTc1": "entity-texture-features"
+	},
+	"merge": {
+		"meta": {
+			"keywords": [
+				"entity",
+				"models"
+			],
+			"categories": [
+				"graphics",
+				"technical"
+			]
+		},
+		"properties": {
+			"open_source": true,
+			"supported_modloaders": [
+				"fabriclike",
+				"forgelike"
+			]
+		},
+		"relations": {
+			"dependencies": [
+				"fabric-rendering-api"
+			]
+		}
+	}
+}

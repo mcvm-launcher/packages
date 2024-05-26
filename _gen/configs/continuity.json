@@ -1,0 +1,30 @@
+{
+	"source": "modrinth",
+	"id": "1IjD5062",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabriclike-api"
+	},
+	"merge": {
+		"meta": {
+			"keywords": [
+				"connected",
+				"textures"
+			],
+			"categories": [
+				"graphics",
+				"technical"
+			]
+		},
+		"properties": {
+			"open_source": true,
+			"supported_modloaders": [
+				"fabriclike"
+			]
+		},
+		"relations": {
+			"dependencies": [
+				"fabric-rendering-api"
+			]
+		}
+	}
+}

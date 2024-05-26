@@ -1,0 +1,30 @@
+{
+	"source": "modrinth",
+	"id": "lhGA9TYQ",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabriclike-api"
+	},
+	"merge": {
+		"meta": {
+			"authors": [
+				"architectury",
+				"MaxNeedsSnacks",
+				"Juuz"
+			],
+			"keywords": [
+				"api"
+			],
+			"categories": [
+				"library",
+				"technical"
+			]
+		},
+		"properties": {
+			"open_source": true,
+			"supported_modloaders": [
+				"fabriclike",
+				"forgelike"
+			]
+		}
+	}
+}

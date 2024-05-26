@@ -1,0 +1,28 @@
+{
+	"source": "modrinth",
+	"id": "qvIfYCYJ",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabric-api"
+	},
+	"merge": {
+		"meta": {
+			"keywords": [
+				"quilt",
+				"api"
+			],
+			"categories": [
+				"api",
+				"technical"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"quilt"
+			],
+			"open_source": true
+		},
+		"relations": {
+			"conflicts": "fabric-api"
+		}
+	}
+}

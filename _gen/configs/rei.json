@@ -1,0 +1,27 @@
+{
+	"source": "modrinth",
+	"id": "nfn13YXA",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabriclike-api",
+		"qvIfYCYJ": "fabriclike-api",
+		"9s6osm5g": "cloth-config",
+		"lhGA9TYQ": "architectury-api"
+	},
+	"merge": {
+		"meta": {
+			"keywords": [
+				"graphics"
+			],
+			"categories": [
+				"library"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"fabriclike",
+				"forgelike",
+				"rift"
+			]
+		}
+	}
+}

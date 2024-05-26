@@ -1,0 +1,27 @@
+{
+	"source": "modrinth",
+	"id": "Orvt0mRa",
+	"relation_substitutions": {
+		"AANobbMI": "sodium"
+	},
+	"force_extensions": [
+		"sodium"
+	],
+	"merge": {
+		"meta": {
+			"keywords": [
+				"graphics"
+			],
+			"categories": [
+				"compatability",
+				"technical"
+			]
+		},
+		"properties": {
+			"open_source": true,
+			"supported_modloaders": [
+				"fabriclike"
+			]
+		}
+	}
+}

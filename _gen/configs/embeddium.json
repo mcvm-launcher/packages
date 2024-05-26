@@ -1,0 +1,29 @@
+{
+	"source": "modrinth",
+	"id": "sk9rgfiA",
+	"relation_substitutions": {
+		"AANobbMI": "sodium",
+		"Orvt0mRa": "indium",
+		"4ZqxOvjD": "rubidium",
+		"Bh37bMuy": "sodium-extra",
+		"S1tndFDa": "textrues-embeddium-options"
+	},
+	"merge": {
+		"meta": {
+			"keywords": [
+				"graphics"
+			],
+			"categories": [
+				"optimization",
+				"technical"
+			]
+		},
+		"properties": {
+			"open_source": true,
+			"supported_modloaders": [
+				"forgelike",
+				"fabriclike"
+			]
+		}
+	}
+}

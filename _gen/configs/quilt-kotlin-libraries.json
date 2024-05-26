@@ -1,0 +1,31 @@
+{
+	"source": "modrinth",
+	"id": "lwVhp9o5",
+	"relation_substitutions": {
+		"qvIfYCYJ": "qfapi-qsl",
+		"Ha28R6CL": "fabric-language-kotlin"
+	},
+	"merge": {
+		"meta": {
+			"keywords": [
+				"quilt",
+				"api",
+				"kotlin"
+			],
+			"categories": [
+				"api",
+				"technical"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"quilt"
+			],
+			"open_source": true
+		},
+		"relations": {
+			"conflicts": "fabric-language-kotlin",
+			"dependencies": "qfapi-qsl"
+		}
+	}
+}

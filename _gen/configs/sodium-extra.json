@@ -1,0 +1,30 @@
+{
+	"source": "modrinth",
+	"id": "PtjYWJkn",
+	"relation_substitutions": {
+		"AANobbMI": "sodium",
+		"YL57xq9U": "iris",
+		"qvIfYCYJ": "fabriclike-api",
+		"P7dR8mSH": "fabriclike-api",
+		"Bh37bMuy": "reeses-sodium-options"
+	},
+	"force_extensions": [
+		"sodium"
+	],
+	"merge": {
+		"meta": {
+			"keywords": [
+				"sodium"
+			],
+			"categories": [
+				"addon"
+			]
+		},
+		"properties": {
+			"open_source": true,
+			"supported_modloaders": [
+				"fabriclike"
+			]
+		}
+	}
+}

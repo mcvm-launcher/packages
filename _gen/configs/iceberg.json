@@ -1,0 +1,22 @@
+{
+	"source": "modrinth",
+	"id": "5faXoLqX",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabriclike-api",
+		"4ZqxOvjD": "rubidium"
+	},
+	"merge": {
+		"meta": {
+			"categories": [
+				"library",
+				"technical"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"forgelike",
+				"fabriclike"
+			]
+		}
+	}
+}

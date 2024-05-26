@@ -1,0 +1,26 @@
+{
+	"source": "modrinth",
+	"id": "P7dR8mSH",
+	"relation_substitutions": {},
+	"merge": {
+		"meta": {
+			"keywords": [
+				"fabric",
+				"api"
+			],
+			"categories": [
+				"api",
+				"technical"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"fabric"
+			],
+			"open_source": true
+		},
+		"relations": {
+			"conflicts": "qfapi-qsl"
+		}
+	}
+}

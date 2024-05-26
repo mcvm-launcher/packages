@@ -1,0 +1,25 @@
+{
+	"source": "modrinth",
+	"id": "gF3BGWvG",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabriclike-api",
+		"ohNO6lps": "forge-config-api-port"
+	},
+	"merge": {
+		"meta": {
+			"keywords": [
+				"claim",
+				"party"
+			],
+			"categories": [
+				"tool"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"fabriclike",
+				"forgelike"
+			]
+		}
+	}
+}
