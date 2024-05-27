@@ -1,0 +1,24 @@
+@meta {
+	name "Optifine";
+	description "A Minecraft optimization mod";
+	website "https://optifine.net";
+	license "All Rights Reserved";
+}
+
+@properties {
+	supported_modloaders forge;
+}
+
+@install {
+	set url "https://optifine.net/downloads";
+
+	if version "1.20.4" {
+		set url "http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=OptiFine_1.20.4_HD_U_I7.jar&x=765a";
+	}
+
+	if version "1.20.1" {
+		set url "http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=765a";
+	}
+
+	notice "Make sure to download Optifine manually from $url";
+}
