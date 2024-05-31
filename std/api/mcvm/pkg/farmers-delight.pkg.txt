@@ -1,0 +1,21 @@
+@meta {
+	name "Farmer's Delight";
+	description "A cozy expansion to farming and cooking!";
+	authors "vectorwing";
+	license "MIT";
+}
+
+@install {
+	if modloader fabriclike {
+		if version "1.20.1+" {
+			require "farmers-delight-refabricated";
+		} else {
+			require "farmers-delight-fabric";
+		}
+		finish;
+	}
+	if modloader forgelike {
+		require "farmers-delight-forge";
+		finish;
+	}
+}

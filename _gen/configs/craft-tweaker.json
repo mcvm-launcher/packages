@@ -1,0 +1,22 @@
+{
+	"source": "modrinth",
+	"id": "Xg35A4rS",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabriclike-api",
+		"E7ZFR7qk": "faux-custom-entity-data",
+		"ykQv0RVc": "ingredient-extension-api"
+	},
+	"merge": {
+		"meta": {
+			"categories": [
+				"technical"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"fabriclike",
+				"forgelike"
+			]
+		}
+	}
+}
