@@ -4,6 +4,24 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21-pre1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/jeq5Pk2P/dynamic-fps-3.4.3%2Bminecraft-1.21.0-fabric.jar",
+					"version": "jeq5Pk2P"
+				},
+				{
 					"minecraft_versions": [
 						"24w20a",
 						"24w21a",
@@ -2861,7 +2879,8 @@
 			"24w19b",
 			"24w20a",
 			"24w21a",
-			"24w21b"
+			"24w21b",
+			"1.21-pre1"
 		]
 	}
 }
