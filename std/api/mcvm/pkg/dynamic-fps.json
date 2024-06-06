@@ -4,7 +4,11 @@
 			"kind": "mod",
 			"versions": [
 				{
-					"minecraft_versions": "1.21-pre1",
+					"minecraft_versions": [
+						"1.21-pre1",
+						"1.21-pre2",
+						"1.21-pre3"
+					],
 					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
@@ -2800,7 +2804,7 @@
 			"fps"
 		],
 		"license": "MIT",
-		"long_description": "# Dynamic FPS\n\nReduce resource usage while Minecraft is in the background or idle.\n\n## Features\n\nDynamic FPS will detect whether the Minecraft window is currently active, being hovered over, unfocused, or invisible.  \nFor each of these states you're able to adjust the frame rate, volume, and whether [toast notifications](https://minecraft.wiki/w/Toasts) are temporarily paused.\n\nThere's also an option to enter an idle state while the window is active but hasn't received any input in a certain amount of time.\n\n---\n\nIn addition to this Dynamic FPS fixes a vanilla bug causing higher-than-necessary background CPU usage and stops \nrendering the world while it's being obscured by opaque screens or the resource loading overlay, helping especially on low-end systems.\n\n## Installation\n\nDynamic FPS is available for download on [GitHub](https://github.com/juliand665/Dynamic-FPS/releases), [Modrinth](https://modrinth.com/mod/dynamic-fps), and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps).  \nTo access the in-game config screen you'll also need to install [Mod Menu](https://modrinth.com/mod/modmenu) and [Cloth Config](https://modrinth.com/mod/cloth-config).\n\n## Frequently Asked Questions\n\n- Why is Minecraft still running at 15 FPS?\n\nDynamic FPS will only reduce the client / render loop to a minimum of 15 cycles per second.\nLower frame rates are achieved by then cancelling the rendering of all superfluous frames, e.g. 14 out of 15 frames are cancelled for 1 FPS.\n\nThis lets you resume playing almost instantly after switching back to the game:\nInstead of having to wait for up to a second until the next rendered frame comes along, the game checks back within 1/15th of a second.\n",
+		"long_description": "# Dynamic FPS\n\nReduce resource usage while Minecraft is in the background or idle.\n\n## Features\n\nDynamic FPS will detect whether the Minecraft window is currently active, being hovered over, unfocused, or invisible.  \nFor each of these states you're able to adjust the frame rate, volume, and whether [toast notifications](https://minecraft.wiki/w/Toasts) are temporarily paused.\n\nThere's also an option to enter an idle state while the window is active but hasn't received any input in a certain amount of time.\n\n---\n\nIn addition to this Dynamic FPS fixes a vanilla bug causing higher-than-necessary background CPU usage and stops \nrendering the world while it's being obscured by opaque screens or the resource loading overlay, helping especially on low-end systems.\n\n## Installation\n\nDynamic FPS is available for download on [GitHub](https://github.com/juliand665/Dynamic-FPS/releases), [Modrinth](https://modrinth.com/mod/dynamic-fps), and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps).  \nTo access the in-game config screen you'll also need to install [Mod Menu](https://modrinth.com/mod/modmenu) and [Cloth Config](https://modrinth.com/mod/cloth-config).\n\n## Frequently Asked Questions\n\n- Why is Minecraft still running at 15 FPS?\n\nDynamic FPS will only slow the client render loop to a minimum of 15 cycles per second.\nLower frame rates are achieved by then cancelling the rendering of all superfluous frames, e.g. 14 out of 15 frames are cancelled for 1 FPS.\n\nThis lets you resume playing almost instantly after switching back to the game:\nInstead of having to wait for up to a second until the next rendered frame comes along, the game checks back within 1/15th of a second.\n",
 		"name": "Dynamic FPS",
 		"package_maintainers": [
 			"mcvm"
@@ -2880,7 +2884,9 @@
 			"24w20a",
 			"24w21a",
 			"24w21b",
-			"1.21-pre1"
+			"1.21-pre1",
+			"1.21-pre2",
+			"1.21-pre3"
 		]
 	}
 }

@@ -4,6 +4,125 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/9Qk4WhfP/CraftTweaker-neoforge-1.20.6-19.0.7.jar",
+					"version": "9Qk4WhfP"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"faux-custom-entity-data"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/MR0BB87B/CraftTweaker-fabric-1.20.6-19.0.7.jar",
+					"version": "MR0BB87B"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/G9sZ2IST/CraftTweaker-neoforge-1.20.6-19.0.6.jar",
+					"version": "G9sZ2IST"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"faux-custom-entity-data"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/cGjaDDOg/CraftTweaker-fabric-1.20.6-19.0.6.jar",
+					"version": "cGjaDDOg"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/4AlFvAkF/CraftTweaker-neoforge-1.20.6-19.0.5.jar",
+					"version": "4AlFvAkF"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"faux-custom-entity-data"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/nQ1XJ7jE/CraftTweaker-fabric-1.20.6-19.0.5.jar",
+					"version": "nQ1XJ7jE"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"faux-custom-entity-data"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/tUwhc0wm/CraftTweaker-fabric-1.20.6-19.0.4.jar",
+					"version": "tUwhc0wm"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"faux-custom-entity-data"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/WucrrzPj/CraftTweaker-fabric-1.20.6-19.0.3.jar",
+					"version": "WucrrzPj"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"faux-custom-entity-data"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/kqrHc2EZ/CraftTweaker-fabric-1.20.6-19.0.2.jar",
+					"version": "kqrHc2EZ"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/sleLSIVL/CraftTweaker-neoforge-1.20.5-18.0.1.jar",
+					"version": "sleLSIVL"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"faux-custom-entity-data"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Xg35A4rS/versions/Zgo92rFd/CraftTweaker-fabric-1.20.5-18.0.1.jar",
+					"version": "Zgo92rFd"
+				},
+				{
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -12907,7 +13026,9 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
 		]
 	}
 }

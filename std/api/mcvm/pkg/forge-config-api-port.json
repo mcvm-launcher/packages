@@ -5,6 +5,43 @@
 			"versions": [
 				{
 					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/3CoAOP6V/ForgeConfigAPIPort-v20.6.1-1.20.6-NeoForge.jar",
+					"version": "3CoAOP6V"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/Xm6O1nBK/ForgeConfigAPIPort-v20.6.1-1.20.6-Forge.jar",
+					"version": "Xm6O1nBK"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/LDpciQaD/ForgeConfigAPIPort-v20.6.1-1.20.6-Fabric.jar",
+					"version": "LDpciQaD"
+				},
+				{
+					"minecraft_versions": "1.20.6",
 					"modloaders": "forgelike",
 					"relations": {
 						"recommendations": {

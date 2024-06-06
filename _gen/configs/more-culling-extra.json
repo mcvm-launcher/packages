@@ -1,0 +1,28 @@
+{
+	"source": "modrinth",
+	"id": "dFKMFBrn",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabriclike-api",
+		"49lwdlH0": "none",
+		"9s6osm5g": "cloth-config",
+		"AANobbMI": "sodium",
+		"NRjRiSSD": "memory-leak-fix",
+		"51shyZVL": "more-culling",
+		"7Jaxgqip": "carpet-fixes"
+	},
+	"force_extensions": [
+		"more-culling"
+	],
+	"merge": {
+		"meta": {
+			"keywords": [
+				"graphics"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"fabriclike"
+			]
+		}
+	}
+}

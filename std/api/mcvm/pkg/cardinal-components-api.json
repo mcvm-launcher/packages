@@ -4,6 +4,29 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21-pre2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/quTFtjka/cardinal-components-api-6.1.0.jar",
+					"version": "quTFtjka"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+					"version": "YdQa8zdn"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -310,7 +333,8 @@
 			"1.20.4",
 			"1.20.5-rc2",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21-pre2"
 		]
 	}
 }

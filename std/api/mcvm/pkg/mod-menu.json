@@ -4,6 +4,16 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21-pre2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/9FL4cmP7/modmenu-11.0.0-beta.1.jar",
+					"version": "9FL4cmP7"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5-rc3",
 						"1.20.5",
@@ -1512,7 +1522,8 @@
 			"1.20.5",
 			"1.20.6-rc1",
 			"1.20.6",
-			"24w18a"
+			"24w18a",
+			"1.21-pre2"
 		]
 	}
 }

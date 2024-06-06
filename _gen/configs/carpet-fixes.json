@@ -1,0 +1,23 @@
+{
+	"source": "modrinth",
+	"id": "7Jaxgqip",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabriclike-api",
+		"TQTTVgYE": "carpet"
+	},
+	"force_extensions": [
+		"carpet"
+	],
+	"merge": {
+		"meta": {
+			"keywords": [
+				"fix"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"fabriclike"
+			]
+		}
+	}
+}

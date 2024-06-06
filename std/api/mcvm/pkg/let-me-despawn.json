@@ -5,6 +5,34 @@
 			"versions": [
 				{
 					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/Z136Eles/letmedespawn-forge-1.20.1-1.20.4-1.2.1.jar",
+					"version": "Z136Eles"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/CCOsRL93/letmedespawn-fabric-1.20.x-1.2.1.jar",
+					"version": "CCOsRL93"
+				},
+				{
+					"minecraft_versions": [
 						"1.20.2",
 						"1.20.3-pre1",
 						"1.20.3-pre2",
@@ -49,125 +77,6 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/26Uop8I8/letmedespawn-neoforge-1.20.2-1.2.0.jar",
 					"version": "26Uop8I8"
-				},
-				{
-					"minecraft_versions": [
-						"1.20.1",
-						"1.20.2",
-						"23w40a",
-						"23w41a",
-						"23w42a",
-						"23w43a",
-						"23w43b",
-						"23w44a",
-						"23w45a",
-						"23w46a",
-						"1.20.3-pre1",
-						"1.20.3-pre2",
-						"1.20.3-pre3",
-						"1.20.3-pre4",
-						"1.20.3-rc1",
-						"1.20.3",
-						"1.20.4-rc1",
-						"1.20.4",
-						"23w51a",
-						"23w51b",
-						"24w03a",
-						"24w03b",
-						"24w04a",
-						"24w05a",
-						"24w05b",
-						"24w06a",
-						"24w07a",
-						"24w09a",
-						"24w10a",
-						"24w11a",
-						"24w12a",
-						"24w13a",
-						"24w14potato",
-						"24w14a",
-						"1.20.5-pre1",
-						"1.20.5-pre2",
-						"1.20.5-pre3",
-						"1.20.5-pre4",
-						"1.20.5-rc1",
-						"1.20.5-rc2",
-						"1.20.5-rc3",
-						"1.20.5",
-						"1.20.6-rc1",
-						"1.20.6",
-						"24w18a",
-						"24w19a",
-						"24w19b",
-						"24w20a"
-					],
-					"modloaders": [
-						"forgelike",
-						"neoforged"
-					],
-					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/a1JZWhla/letmedespawn-forge-1.20.x-1.2.0.jar",
-					"version": "a1JZWhla"
-				},
-				{
-					"minecraft_versions": [
-						"1.20",
-						"1.20.1",
-						"1.20.2",
-						"23w40a",
-						"23w41a",
-						"23w42a",
-						"23w43a",
-						"23w43b",
-						"23w44a",
-						"23w45a",
-						"23w46a",
-						"1.20.3-pre1",
-						"1.20.3-pre2",
-						"1.20.3-pre3",
-						"1.20.3-pre4",
-						"1.20.3-rc1",
-						"1.20.3",
-						"1.20.4-rc1",
-						"1.20.4",
-						"23w51a",
-						"23w51b",
-						"24w03a",
-						"24w03b",
-						"24w04a",
-						"24w05a",
-						"24w05b",
-						"24w06a",
-						"24w07a",
-						"24w09a",
-						"24w10a",
-						"24w11a",
-						"24w12a",
-						"24w13a",
-						"24w14potato",
-						"24w14a",
-						"1.20.5-pre1",
-						"1.20.5-pre2",
-						"1.20.5-pre3",
-						"1.20.5-pre4",
-						"1.20.5-rc1",
-						"1.20.5-rc2",
-						"1.20.5-rc3",
-						"1.20.5",
-						"1.20.6-rc1",
-						"1.20.6",
-						"24w18a",
-						"24w19a",
-						"24w19b",
-						"24w20a"
-					],
-					"modloaders": [
-						"fabriclike",
-						"quilt"
-					],
-					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/qpC0XlcW/letmedespawn-fabric-1.20.x-1.2.0.jar",
-					"version": "qpC0XlcW"
 				},
 				{
 					"minecraft_versions": "1.20",
@@ -252,6 +161,50 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/GxiQF9u0/letmedespawn-1.18.x-1.19.x-fabric-1.0.2.jar",
 					"version": "GxiQF9u0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/fxsM7yPK/letmedespawn-fabric-1.20.5-1.20.6-1.2.1.jar",
+					"version": "fxsM7yPK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/a1JZWhla/letmedespawn-forge-1.20.x-1.2.0.jar",
+					"version": "a1JZWhla"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/qpC0XlcW/letmedespawn-fabric-1.20.x-1.2.0.jar",
+					"version": "qpC0XlcW"
 				},
 				{
 					"minecraft_versions": "1.20.1",
@@ -361,7 +314,7 @@
 			"despawn"
 		],
 		"license": "LGPL-3.0-only",
-		"long_description": "<center><img src=\"https://media1.tenor.com/images/1a283f70cc1b64b97658c7cf6c16b6cb/tenor.gif?itemid=26530918\"></center>\n<br>\n<center>\n<hr>\n<h3>LET ME DESPAWN</h3> \n<hr>\nWhen a mob is given an item and the mob equips or picks it up it becomes persistent in the world and will not despawn naturally.\nOne of the largest contributor to entity lag in minecraft are persistent mobs, and modded makes it worse by adding and spawning more mobs.\n<br>\n<br>\nLMD tweaks the despawn check to allow mobs that pick up or equip items from the ground to naturally despawn like any other mob. Any picked up or equipped item is dropped back on the ground when the entity despawns to make sure you don't lose your items incase the mob picks them up after your death.\n<br>\n<br>\nYou can still prevent mobs from naturally despawning by naming them with a name tag.\n<br>\n<br>\nThanks to Batdogduke64 for inspiration for the icon.\n<br>\n<br>\n</center>",
+		"long_description": "<center><img src=\"https://media1.tenor.com/images/1a283f70cc1b64b97658c7cf6c16b6cb/tenor.gif?itemid=26530918\"></center>\n<br>\n<center>\n<hr>\n<h3>LET ME DESPAWN</h3> \n<hr>\nWhen a mob is given an item and the mob equips or picks it up it becomes persistent in the world and will not despawn naturally.\nOne of the largest contributor to entity lag in minecraft are persistent mobs, and modded makes it worse by adding and spawning more mobs.\n<br>\n<br>\nLMD tweaks the despawn check to allow mobs that pick up or equip items from the ground to naturally despawn like any other mob. Any picked up or equipped item is dropped back on the ground when the entity despawns to make sure you don't lose your items incase the mob picks them up after your death.\n<br>\n<br>\nYou can still prevent mobs from naturally despawning by naming them with a name tag.\n<br>\n<br>\nAdded a config : <h2><code>config/letmedespawn.json</code></h2>\n\n```\n/lmd reload\n```\nTo reload the config ingame after editing.\n```\n/lmd add <mobName>\n```\nTo add mobs to the config.\n```\n/lmd remove <mobName>\n```\nTo remove mobs from the config.\n\nAll the commands update the mob list in realtime you dont need to run \"/lmd reload\" or restart the game after adding or removing mobs. \"**/lmd reload**\" is there incase you want to edit the config outside the game.\n<br>\n<br>\nThanks to Batdogduke64 for inspiration for the icon.\n<br>\n<br>\n</center>",
 		"name": "Let Me Despawn",
 		"package_maintainers": [
 			"mcvm"
@@ -397,14 +350,6 @@
 			"1.20",
 			"1.20.1",
 			"1.20.2",
-			"23w40a",
-			"23w41a",
-			"23w42a",
-			"23w43a",
-			"23w43b",
-			"23w44a",
-			"23w45a",
-			"23w46a",
 			"1.20.3-pre1",
 			"1.20.3-pre2",
 			"1.20.3-pre3",

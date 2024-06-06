@@ -4,6 +4,32 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/xQlCfB1N/supplementaries-1.20-2.8.12.jar",
+					"version": "xQlCfB1N"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/AiCIrNns/supplementaries-1.20-2.8.12.jar",
+					"version": "AiCIrNns"
+				},
+				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
 					"relations": {

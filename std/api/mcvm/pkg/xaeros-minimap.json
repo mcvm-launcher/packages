@@ -5,6 +5,305 @@
 			"versions": [
 				{
 					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/z3OgNpRJ/Xaeros_Minimap_24.2.1_Forge_1.16.5.jar",
+					"version": "z3OgNpRJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/pfjda4sr/Xaeros_Minimap_24.2.0_Fabric_1.20.6.jar",
+					"version": "pfjda4sr"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/lygDaDx8/Xaeros_Minimap_24.2.0_NeoForge_1.20.6.jar",
+					"version": "lygDaDx8"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/e1SKPr5a/Xaeros_Minimap_24.2.0_Forge_1.20.6.jar",
+					"version": "e1SKPr5a"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ebLQ6HBv/Xaeros_Minimap_24.2.0_Fabric_1.20.4.jar",
+					"version": "ebLQ6HBv"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/HQSFfCfA/Xaeros_Minimap_24.2.0_NeoForge_1.20.4.jar",
+					"version": "HQSFfCfA"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/IDSgysLe/Xaeros_Minimap_24.2.0_Forge_1.20.4.jar",
+					"version": "IDSgysLe"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/1PbPiCss/Xaeros_Minimap_24.2.0_Fabric_1.20.2.jar",
+					"version": "1PbPiCss"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/BSzbgv5g/Xaeros_Minimap_24.2.0_NeoForge_1.20.2.jar",
+					"version": "BSzbgv5g"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/vGHr0KR9/Xaeros_Minimap_24.2.0_Forge_1.20.2.jar",
+					"version": "vGHr0KR9"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/WQEX096d/Xaeros_Minimap_24.2.0_Fabric_1.20.jar",
+					"version": "WQEX096d"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/zst4834Y/Xaeros_Minimap_24.2.0_Forge_1.20.jar",
+					"version": "zst4834Y"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/LsUG4Ee3/Xaeros_Minimap_24.2.0_Fabric_1.19.4.jar",
+					"version": "LsUG4Ee3"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sc6Vb5o3/Xaeros_Minimap_24.2.0_Forge_1.19.4.jar",
+					"version": "Sc6Vb5o3"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/73eENOzt/Xaeros_Minimap_24.2.0_Fabric_1.19.1.jar",
+					"version": "73eENOzt"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/5b9ZhxJB/Xaeros_Minimap_24.2.0_Forge_1.19.1.jar",
+					"version": "5b9ZhxJB"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/terogn4c/Xaeros_Minimap_24.2.0_Fabric_1.18.2.jar",
+					"version": "terogn4c"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/RQjoN86f/Xaeros_Minimap_24.2.0_Forge_1.18.2.jar",
+					"version": "RQjoN86f"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/AZoazJZ9/Xaeros_Minimap_24.2.0_Fabric_1.16.5.jar",
+					"version": "AZoazJZ9"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CXxfovCE/Xaeros_Minimap_24.2.0_Forge_1.16.5.jar",
+					"version": "CXxfovCE"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/quthv9KV/Xaeros_Minimap_24.2.0_Forge_1.12.jar",
+					"version": "quthv9KV"
+				},
+				{
+					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
 					],

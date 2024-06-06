@@ -1,0 +1,3481 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/v5S7Gsd5/libIPN-forge-1.20.2-4.0.2.jar",
+					"version": "v5S7Gsd5"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pdAXmKcS/libIPN-forge-1.20-4.0.2.jar",
+					"version": "pdAXmKcS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/OYEDRRp8/libIPN-fabric-1.20.3-4.0.2.jar",
+					"version": "OYEDRRp8"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/afnOcsI2/libIPN-forge-1.18.2-4.0.2.jar",
+					"version": "afnOcsI2"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Wvr1TddI/libIPN-forge-1.19-4.0.2.jar",
+					"version": "Wvr1TddI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ubXMmBwm/libIPN-fabric-1.20.2-4.0.2.jar",
+					"version": "ubXMmBwm"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Uygzs3iI/libIPN-fabric-1.20-4.0.2.jar",
+					"version": "Uygzs3iI"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/mM0sz712/libIPN-fabric-1.19-4.0.2.jar",
+					"version": "mM0sz712"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/x3Inot0O/libIPN-fabric-1.18.2-4.0.2.jar",
+					"version": "x3Inot0O"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3-pre2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/2EisczBm/libIPN-fabric-1.20.3-4.0.1.jar",
+					"version": "2EisczBm"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/TwafbniX/libIPN-forge-1.19-4.0.1.jar",
+					"version": "TwafbniX"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Dq4WH4PL/libIPN-forge-1.20.2-4.0.1.jar",
+					"version": "Dq4WH4PL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/yCix4jRh/libIPN-forge-1.20-4.0.1.jar",
+					"version": "yCix4jRh"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Z3keOWWQ/libIPN-forge-1.18.2-4.0.1.jar",
+					"version": "Z3keOWWQ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/G56kkkNT/libIPN-fabric-1.20.2-4.0.1.jar",
+					"version": "G56kkkNT"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/n7RHn1mT/libIPN-fabric-1.20-4.0.1.jar",
+					"version": "n7RHn1mT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/W6QleXiv/libIPN-fabric-1.18.2-4.0.1.jar",
+					"version": "W6QleXiv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/rCmlkOZL/libIPN-fabric-1.19-4.0.1.jar",
+					"version": "rCmlkOZL"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/qntQPlfj/libIPN-forge-1.20.2-4.0.0.jar",
+					"version": "qntQPlfj"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/9nOJu1y9/libIPN-forge-1.20-4.0.0.jar",
+					"version": "9nOJu1y9"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/JflnY9yN/libIPN-forge-1.19-4.0.0.jar",
+					"version": "JflnY9yN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/faiSBRTl/libIPN-forge-1.18.2-4.0.0.jar",
+					"version": "faiSBRTl"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/z9Z37Q2H/libIPN-fabric-1.20.2-4.0.0.jar",
+					"version": "z9Z37Q2H"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/KN2S7BJS/libIPN-fabric-1.19-4.0.0.jar",
+					"version": "KN2S7BJS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/2erlupYB/libIPN-fabric-1.20-4.0.0.jar",
+					"version": "2erlupYB"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/gUTfRvyG/libIPN-fabric-1.18.2-4.0.0.jar",
+					"version": "gUTfRvyG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Wtx0D8oE/libIPN-forge-1.20-3.0.2.jar",
+					"version": "Wtx0D8oE"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/R8cssvoN/libIPN-fabric-1.20-3.0.2.jar",
+					"version": "R8cssvoN"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/6odJCQJl/libIPN-forge-1.19.4-3.0.2.jar",
+					"version": "6odJCQJl"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/3OMoW1ep/libIPN-forge-1.19-3.0.2.jar",
+					"version": "3OMoW1ep"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ID0JNGKs/libIPN-forge-1.16-3.0.2.jar",
+					"version": "ID0JNGKs"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Ik3GkvZi/libIPN-forge-1.18.2-3.0.2.jar",
+					"version": "Ik3GkvZi"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Bf647qvA/libIPN-fabric-1.19.4-3.0.2.jar",
+					"version": "Bf647qvA"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Tbvv0fRT/libIPN-fabric-1.19-3.0.2.jar",
+					"version": "Tbvv0fRT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/EBQ6dBqJ/libIPN-fabric-1.18.2-3.0.2.jar",
+					"version": "EBQ6dBqJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/CC4bM0dB/libIPN-fabric-1.16-3.0.2.jar",
+					"version": "CC4bM0dB"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/1zDSZRYj/libIPN-forge-1.19.4-3.0.1.jar",
+					"version": "1zDSZRYj"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/37PUzFkT/libIPN-forge-1.19-3.0.1.jar",
+					"version": "37PUzFkT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/v0MnbiV2/libIPN-forge-1.18.2-3.0.1.jar",
+					"version": "v0MnbiV2"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/auvkUb1L/libIPN-fabric-1.19.4-3.0.1.jar",
+					"version": "auvkUb1L"
+				},
+				{
+					"minecraft_versions": [
+						"1.20-pre1",
+						"1.20-pre2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/jrtn0IC7/libIPN-fabric-1.20-3.0.1.jar",
+					"version": "jrtn0IC7"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/UIfcY6vv/libIPN-forge-1.16-3.0.1.jar",
+					"version": "UIfcY6vv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/lkqbNIKw/libIPN-fabric-1.19-3.0.1.jar",
+					"version": "lkqbNIKw"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/VCIgVU07/libIPN-fabric-1.16-3.0.1.jar",
+					"version": "VCIgVU07"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/3Zqr4nHs/libIPN-fabric-1.18.2-3.0.1.jar",
+					"version": "3Zqr4nHs"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/AOmUIQmf/libIPN-forge-1.19.4-3.0.0.jar",
+					"version": "AOmUIQmf"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/yfxqGzZF/libIPN-forge-1.19-3.0.0.jar",
+					"version": "yfxqGzZF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/UbcTepsS/libIPN-forge-1.18.2-3.0.0.jar",
+					"version": "UbcTepsS"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/jJhKp3dd/libIPN-forge-1.16-3.0.0.jar",
+					"version": "jJhKp3dd"
+				},
+				{
+					"minecraft_versions": [
+						"1.20-pre1",
+						"1.20-pre2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/sFEM3Cu5/libIPN-fabric-1.20-3.0.0.jar",
+					"version": "sFEM3Cu5"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ktQS6YPN/libIPN-fabric-1.19.4-3.0.0.jar",
+					"version": "ktQS6YPN"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Rl00q8i6/libIPN-fabric-1.19-3.0.0.jar",
+					"version": "Rl00q8i6"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/I3RMKrRo/libIPN-fabric-1.18.2-3.0.0.jar",
+					"version": "I3RMKrRo"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/aL0z2Bc3/libIPN-fabric-1.16-3.0.0.jar",
+					"version": "aL0z2Bc3"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/yZ7GXub0/libIPN-forge-1.19.4-2.0.7.jar",
+					"version": "yZ7GXub0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/eJg2WaBQ/libIPN-forge-1.19-2.0.7.jar",
+					"version": "eJg2WaBQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ccFPl3QC/libIPN-forge-1.16-2.0.7.jar",
+					"version": "ccFPl3QC"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/kd7D5ITc/libIPN-forge-1.18.2-2.0.7.jar",
+					"version": "kd7D5ITc"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/lrTo7on9/libIPN-fabric-1.19.4-2.0.7.jar",
+					"version": "lrTo7on9"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/r7dyzqCT/libIPN-fabric-1.19-2.0.7.jar",
+					"version": "r7dyzqCT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/JJ7mPGht/libIPN-fabric-1.18.2-2.0.7.jar",
+					"version": "JJ7mPGht"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ILMpfvts/libIPN-fabric-1.16-2.0.7.jar",
+					"version": "ILMpfvts"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/SiMDsInW/libIPN-forge-1.19.4-2.0.6.jar",
+					"version": "SiMDsInW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pXP0fbuE/libIPN-forge-1.19-2.0.6.jar",
+					"version": "pXP0fbuE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/zOxUsCK5/libIPN-forge-1.18.2-2.0.6.jar",
+					"version": "zOxUsCK5"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/wxgEnYqa/libIPN-fabric-1.19.4-2.0.6.jar",
+					"version": "wxgEnYqa"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/NiEklyqR/libIPN-forge-1.16-2.0.6.jar",
+					"version": "NiEklyqR"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/SoNeufv0/libIPN-fabric-1.19-2.0.6.jar",
+					"version": "SoNeufv0"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/cbKZu9iW/libIPN-fabric-1.18.2-2.0.6.jar",
+					"version": "cbKZu9iW"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/eoQVjwk5/libIPN-fabric-1.16-2.0.6.jar",
+					"version": "eoQVjwk5"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/NALYChKS/libIPN-forge-1.19.4-2.0.5.jar",
+					"version": "NALYChKS"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/K928Mk3Y/libIPN-forge-1.19-2.0.5.jar",
+					"version": "K928Mk3Y"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/QR2MwVNy/libIPN-forge-1.18.2-2.0.5.jar",
+					"version": "QR2MwVNy"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ENorkbVK/libIPN-forge-1.16-2.0.5.jar",
+					"version": "ENorkbVK"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/MAp4owvN/libIPN-fabric-1.19.4-2.0.5.jar",
+					"version": "MAp4owvN"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/YLM8vv6K/libIPN-fabric-1.19-2.0.5.jar",
+					"version": "YLM8vv6K"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/r31q4oNB/libIPN-fabric-1.18.2-2.0.5.jar",
+					"version": "r31q4oNB"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/gWtpLFPZ/libIPN-fabric-1.16-2.0.5.jar",
+					"version": "gWtpLFPZ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/xG7rdQCg/libIPN-forge-1.19.4-2.0.4.jar",
+					"version": "xG7rdQCg"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/NA43e2je/libIPN-forge-1.19.3-2.0.4.jar",
+					"version": "NA43e2je"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/dWEoLelA/libIPN-forge-1.19-2.0.4.jar",
+					"version": "dWEoLelA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/zkTm9nta/libIPN-forge-1.18.2-2.0.4.jar",
+					"version": "zkTm9nta"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/AD9p7Ru9/libIPN-forge-1.16-2.0.4.jar",
+					"version": "AD9p7Ru9"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/agKJ7V3L/libIPN-fabric-1.19.4-2.0.4.jar",
+					"version": "agKJ7V3L"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Qj0mJ81k/libIPN-fabric-1.19.3-2.0.4.jar",
+					"version": "Qj0mJ81k"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/gaxJGZee/libIPN-fabric-1.19-2.0.4.jar",
+					"version": "gaxJGZee"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/6vHgBO3g/libIPN-fabric-1.18.2-2.0.4.jar",
+					"version": "6vHgBO3g"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/UKb5Suqa/libIPN-fabric-1.16-2.0.4.jar",
+					"version": "UKb5Suqa"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/u2zVY3Wv/libIPN-forge-1.19.3-2.0.3.jar",
+					"version": "u2zVY3Wv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/sAVQLMRc/libIPN-forge-1.19-2.0.3.jar",
+					"version": "sAVQLMRc"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/YRleNC0s/libIPN-forge-1.18.2-2.0.3.jar",
+					"version": "YRleNC0s"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/xctObNns/libIPN-fabric-1.19.4-2.0.3.jar",
+					"version": "xctObNns"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/FuDMGFaZ/libIPN-forge-1.16-2.0.3.jar",
+					"version": "FuDMGFaZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/3QwlCGYz/libIPN-fabric-1.19-2.0.3.jar",
+					"version": "3QwlCGYz"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/5eHHJKIj/libIPN-fabric-1.19.3-2.0.3.jar",
+					"version": "5eHHJKIj"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ItqBu87J/libIPN-fabric-1.18.2-2.0.3.jar",
+					"version": "ItqBu87J"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/brxnAXjh/libIPN-fabric-1.16-2.0.3.jar",
+					"version": "brxnAXjh"
+				},
+				{
+					"minecraft_versions": "23w06a",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/P1d6zZKI/libIPN-fabric-1.19.4-2.0.2.jar",
+					"version": "P1d6zZKI"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/A1gwuIUE/libIPN-forge-1.19.3-2.0.2.jar",
+					"version": "A1gwuIUE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/mddViQMm/libIPN-forge-1.18.2-2.0.2.jar",
+					"version": "mddViQMm"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/oOeZU7D6/libIPN-forge-1.19-2.0.2.jar",
+					"version": "oOeZU7D6"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/GHsmfPIw/libIPN-forge-1.16-2.0.2.jar",
+					"version": "GHsmfPIw"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/hbNaUkMv/libIPN-fabric-1.19.3-2.0.2.jar",
+					"version": "hbNaUkMv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/KiaYgRoc/libIPN-fabric-1.19-2.0.2.jar",
+					"version": "KiaYgRoc"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/o3vpcXx2/libIPN-fabric-1.18.2-2.0.2.jar",
+					"version": "o3vpcXx2"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/JmOF40Xk/libIPN-fabric-1.16-2.0.2.jar",
+					"version": "JmOF40Xk"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/O2CTz9Xk/libIPN-forge-1.19-2.0.1.jar",
+					"version": "O2CTz9Xk"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/1K8gy4kv/libIPN-forge-1.19.3-2.0.1.jar",
+					"version": "1K8gy4kv"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/2MVDPqcL/libIPN-forge-1.18.2-2.0.1.jar",
+					"version": "2MVDPqcL"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/q4qLqxkc/libIPN-forge-1.16-2.0.1.jar",
+					"version": "q4qLqxkc"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ML5KhzCK/libIPN-fabric-1.19.3-2.0.1.jar",
+					"version": "ML5KhzCK"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/dVdbAriE/libIPN-fabric-1.19-2.0.1.jar",
+					"version": "dVdbAriE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/nTD1EgHT/libIPN-fabric-1.18.2-2.0.1.jar",
+					"version": "nTD1EgHT"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/G63hLm0l/libIPN-fabric-1.16-2.0.1.jar",
+					"version": "G63hLm0l"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ijD7pT4H/libIPN-forge-1.19.3-2.0.0.jar",
+					"version": "ijD7pT4H"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/MYBgx7os/libIPN-forge-1.19-2.0.0.jar",
+					"version": "MYBgx7os"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/dMbcZIi1/libIPN-forge-1.18.2-2.0.0.jar",
+					"version": "dMbcZIi1"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Uu0O6Rk2/libIPN-forge-1.16-2.0.0.jar",
+					"version": "Uu0O6Rk2"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/yenqfAzR/libIPN-fabric-1.19-2.0.0.jar",
+					"version": "yenqfAzR"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/6poxWCgD/libIPN-fabric-1.19.3-2.0.0.jar",
+					"version": "6poxWCgD"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/QNjfoY95/libIPN-fabric-1.18.2-2.0.0.jar",
+					"version": "QNjfoY95"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pssj81E0/libIPN-fabric-1.16-2.0.0.jar",
+					"version": "pssj81E0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/5DjnPCXm/libIPN-forge-1.19-1.0.8.jar",
+					"version": "5DjnPCXm"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/qmbAid7M/libIPN-forge-1.18.2-1.0.8.jar",
+					"version": "qmbAid7M"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/7nEveuJB/libIPN-forge-1.18-1.0.8.jar",
+					"version": "7nEveuJB"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/YC9c3TZo/libIPN-forge-1.17-1.0.8.jar",
+					"version": "YC9c3TZo"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/TF73RS2y/libIPN-forge-1.16-1.0.8.jar",
+					"version": "TF73RS2y"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/1OqBDuH9/libIPN-forge-1.14-1.0.8.jar",
+					"version": "1OqBDuH9"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/FLzlGjHZ/libIPN-forge-1.15-1.0.8.jar",
+					"version": "FLzlGjHZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3-rc1",
+						"1.19.3-rc2",
+						"1.19.3-rc3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Pr1u4Tb4/libIPN-fabric-1.19.3-1.0.8.jar",
+					"version": "Pr1u4Tb4"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pQ0ccb6q/libIPN-fabric-1.19-1.0.8.jar",
+					"version": "pQ0ccb6q"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Rl0p7f2w/libIPN-fabric-1.18.2-1.0.8.jar",
+					"version": "Rl0p7f2w"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/MzOjv5M6/libIPN-fabric-1.18-1.0.8.jar",
+					"version": "MzOjv5M6"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/WZKonwzM/libIPN-fabric-1.17-1.0.8.jar",
+					"version": "WZKonwzM"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/UJwH137Y/libIPN-fabric-1.16-1.0.8.jar",
+					"version": "UJwH137Y"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/qIzQaGuQ/libIPN-fabric-1.15-1.0.8.jar",
+					"version": "qIzQaGuQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ZptU8VFM/libIPN-fabric-1.14-1.0.8.jar",
+					"version": "ZptU8VFM"
+				},
+				{
+					"minecraft_versions": "1.19.3-pre3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/po3Wa7PL/libIPN-fabric-1.19.3-1.0.7.jar",
+					"version": "po3Wa7PL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/nEsgJfGM/libIPN-forge-1.19-1.0.7.jar",
+					"version": "nEsgJfGM"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/IwlA9nPp/libIPN-forge-1.18.2-1.0.7.jar",
+					"version": "IwlA9nPp"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/m8kvQ7rP/libIPN-forge-1.18-1.0.7.jar",
+					"version": "m8kvQ7rP"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/H2z1i3JW/libIPN-forge-1.17-1.0.7.jar",
+					"version": "H2z1i3JW"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/S0Svn5CL/libIPN-forge-1.16-1.0.7.jar",
+					"version": "S0Svn5CL"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/iV0UkVbx/libIPN-forge-1.15-1.0.7.jar",
+					"version": "iV0UkVbx"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/VyXqQxp8/libIPN-forge-1.14-1.0.7.jar",
+					"version": "VyXqQxp8"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/aM6pYRik/libIPN-fabric-1.19-1.0.7.jar",
+					"version": "aM6pYRik"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Awhg4cHc/libIPN-fabric-1.18.2-1.0.7.jar",
+					"version": "Awhg4cHc"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/FyDQp4el/libIPN-fabric-1.18-1.0.7.jar",
+					"version": "FyDQp4el"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/tBLGnBjG/libIPN-fabric-1.17-1.0.7.jar",
+					"version": "tBLGnBjG"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/7jMD6117/libIPN-fabric-1.16-1.0.7.jar",
+					"version": "7jMD6117"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Fhfwkh09/libIPN-fabric-1.15-1.0.7.jar",
+					"version": "Fhfwkh09"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/T5LzR0BW/libIPN-fabric-1.14-1.0.7.jar",
+					"version": "T5LzR0BW"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/9Fc7O8ST/libIPN-forge-1.18.2-1.0.6.jar",
+					"version": "9Fc7O8ST"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/dQAhTuCQ/libIPN-forge-1.19-1.0.6.jar",
+					"version": "dQAhTuCQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/nc18hMRH/libIPN-forge-1.17-1.0.6.jar",
+					"version": "nc18hMRH"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/gwNsziqp/libIPN-forge-1.18-1.0.6.jar",
+					"version": "gwNsziqp"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/rrSO0wUG/libIPN-forge-1.15-1.0.6.jar",
+					"version": "rrSO0wUG"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/6ZlHy6Wx/libIPN-forge-1.16-1.0.6.jar",
+					"version": "6ZlHy6Wx"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/BR4p8CN1/libIPN-forge-1.14-1.0.6.jar",
+					"version": "BR4p8CN1"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/HCF4Dwrf/libIPN-fabric-1.19-1.0.6.jar",
+					"version": "HCF4Dwrf"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/2RPwws58/libIPN-fabric-1.18.2-1.0.6.jar",
+					"version": "2RPwws58"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/uu8tw41q/libIPN-fabric-1.18-1.0.6.jar",
+					"version": "uu8tw41q"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/FtvoNaxe/libIPN-fabric-1.17-1.0.6.jar",
+					"version": "FtvoNaxe"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/zxmI2nP5/libIPN-fabric-1.16-1.0.6.jar",
+					"version": "zxmI2nP5"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/TKEslVT4/libIPN-fabric-1.15-1.0.6.jar",
+					"version": "TKEslVT4"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ZP5RFILP/libIPN-fabric-1.14-1.0.6.jar",
+					"version": "ZP5RFILP"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/VGeqgpG9/libIPN-forge-1.19-1.0.5.jar",
+					"version": "VGeqgpG9"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/koV5w2Qr/libIPN-forge-1.18.2-1.0.5.jar",
+					"version": "koV5w2Qr"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Ar2W0iRT/libIPN-forge-1.18-1.0.5.jar",
+					"version": "Ar2W0iRT"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ocUsU2fd/libIPN-forge-1.17-1.0.5.jar",
+					"version": "ocUsU2fd"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Njxg0XaK/libIPN-forge-1.16-1.0.5.jar",
+					"version": "Njxg0XaK"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/WHNglN49/libIPN-forge-1.15-1.0.5.jar",
+					"version": "WHNglN49"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/1S2flFuE/libIPN-forge-1.14-1.0.5.jar",
+					"version": "1S2flFuE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/7hTASt3X/libIPN-fabric-1.19-1.0.5.jar",
+					"version": "7hTASt3X"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/PrxiVT3L/libIPN-fabric-1.18.2-1.0.5.jar",
+					"version": "PrxiVT3L"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/J8ATnMxC/libIPN-fabric-1.18-1.0.5.jar",
+					"version": "J8ATnMxC"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/h7jxCFje/libIPN-fabric-1.17-1.0.5.jar",
+					"version": "h7jxCFje"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/iUHIhzwG/libIPN-fabric-1.16-1.0.5.jar",
+					"version": "iUHIhzwG"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/xffzirGX/libIPN-fabric-1.15-1.0.5.jar",
+					"version": "xffzirGX"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/FXd99VFY/libIPN-fabric-1.14-1.0.5.jar",
+					"version": "FXd99VFY"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/79JE3zqT/libIPN-forge-1.19-1.0.4.jar",
+					"version": "79JE3zqT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/sG58ZFws/libIPN-forge-1.18.2-1.0.4.jar",
+					"version": "sG58ZFws"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/BxFlZISM/libIPN-forge-1.18-1.0.4.jar",
+					"version": "BxFlZISM"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/knI0LTGK/libIPN-forge-1.17-1.0.4.jar",
+					"version": "knI0LTGK"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/cxBXyXkN/libIPN-forge-1.16-1.0.4.jar",
+					"version": "cxBXyXkN"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/AH1bJDHK/libIPN-forge-1.14-1.0.4.jar",
+					"version": "AH1bJDHK"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/mHp49cCo/libIPN-forge-1.15-1.0.4.jar",
+					"version": "mHp49cCo"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/tGao6hUm/libIPN-fabric-1.19-1.0.4.jar",
+					"version": "tGao6hUm"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/6ogPRqu6/libIPN-fabric-1.18-1.0.4.jar",
+					"version": "6ogPRqu6"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/COKgzExi/libIPN-fabric-1.18.2-1.0.4.jar",
+					"version": "COKgzExi"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/HRjVGpJV/libIPN-fabric-1.16-1.0.4.jar",
+					"version": "HRjVGpJV"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/mXfefKf3/libIPN-fabric-1.17-1.0.4.jar",
+					"version": "mXfefKf3"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/n7LtD0Aq/libIPN-fabric-1.15-1.0.4.jar",
+					"version": "n7LtD0Aq"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/AIxDsbPe/libIPN-fabric-1.14-1.0.4.jar",
+					"version": "AIxDsbPe"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/luGKpt3O/libIPN-forge-1.19-1.0.3.jar",
+					"version": "luGKpt3O"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/JHjihdPp/libIPN-forge-1.18.2-1.0.3.jar",
+					"version": "JHjihdPp"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/mq7DwRp2/libIPN-forge-1.18-1.0.3.jar",
+					"version": "mq7DwRp2"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/xPUj815z/libIPN-forge-1.16-1.0.3.jar",
+					"version": "xPUj815z"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/mdI6TjbP/libIPN-forge-1.17-1.0.3.jar",
+					"version": "mdI6TjbP"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/xPIUoGan/libIPN-forge-1.15-1.0.3.jar",
+					"version": "xPIUoGan"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/sNHw0Fym/libIPN-fabric-1.19-1.0.3.jar",
+					"version": "sNHw0Fym"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/4VE8JLNZ/libIPN-forge-1.14-1.0.3.jar",
+					"version": "4VE8JLNZ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/9f7JYLk7/libIPN-fabric-1.18.2-1.0.3.jar",
+					"version": "9f7JYLk7"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/c56AIjNj/libIPN-fabric-1.17-1.0.3.jar",
+					"version": "c56AIjNj"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/xrV5enKS/libIPN-fabric-1.18-1.0.3.jar",
+					"version": "xrV5enKS"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/gkjy5WaJ/libIPN-fabric-1.16-1.0.3.jar",
+					"version": "gkjy5WaJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/7vhlPm9y/libIPN-fabric-1.15-1.0.3.jar",
+					"version": "7vhlPm9y"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Rmt64BvJ/libIPN-fabric-1.14-1.0.3.jar",
+					"version": "Rmt64BvJ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/iFvFOE46/libIPN-forge-1.18.2-1.0.1.jar",
+					"version": "iFvFOE46"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/UxujXiv0/libIPN-forge-1.18-1.0.1.jar",
+					"version": "UxujXiv0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/jOV2600i/libIPN-forge-1.19-1.0.1.jar",
+					"version": "jOV2600i"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/99LhD4OF/libIPN-forge-1.17-1.0.1.jar",
+					"version": "99LhD4OF"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/MzabS4Pu/libIPN-forge-1.16-1.0.1.jar",
+					"version": "MzabS4Pu"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ja2WruZW/libIPN-forge-1.15-1.0.1.jar",
+					"version": "ja2WruZW"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/dyOw2Of1/libIPN-forge-1.14-1.0.1.jar",
+					"version": "dyOw2Of1"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ztIxnsL7/libIPN-fabric-1.18-1.0.1.jar",
+					"version": "ztIxnsL7"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/jFvNUVTN/libIPN-fabric-1.18.2-1.0.1.jar",
+					"version": "jFvNUVTN"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/htIKi4Us/libIPN-fabric-1.17-1.0.1.jar",
+					"version": "htIKi4Us"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/eKKEfzqI/libIPN-fabric-1.15-1.0.1.jar",
+					"version": "eKKEfzqI"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/IjVD5aBT/libIPN-fabric-1.19-1.0.1.jar",
+					"version": "IjVD5aBT"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/9rRRaQXu/libIPN-fabric-1.16-1.0.1.jar",
+					"version": "9rRRaQXu"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/GrDqVLdx/libIPN-fabric-1.14-1.0.1.jar",
+					"version": "GrDqVLdx"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/FpwdPzPg/libIPN-forge-1.18-1.0.0.jar",
+					"version": "FpwdPzPg"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/CNemjRAe/libIPN-forge-1.19-1.0.0.jar",
+					"version": "CNemjRAe"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/jhhorLfg/libIPN-forge-1.18.2-1.0.0.jar",
+					"version": "jhhorLfg"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/V5tejt94/libIPN-forge-1.17-1.0.0.jar",
+					"version": "V5tejt94"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ivECtNFG/libIPN-forge-1.16-1.0.0.jar",
+					"version": "ivECtNFG"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ReZRVndn/libIPN-forge-1.14-1.0.0.jar",
+					"version": "ReZRVndn"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Zu71jdwM/libIPN-forge-1.15-1.0.0.jar",
+					"version": "Zu71jdwM"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/GMPPhih8/libIPN-fabric-1.18-1.0.0.jar",
+					"version": "GMPPhih8"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Y6LxsQLK/libIPN-fabric-1.17-1.0.0.jar",
+					"version": "Y6LxsQLK"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/DuGevTnx/libIPN-fabric-1.18.2-1.0.0.jar",
+					"version": "DuGevTnx"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ZpVR7riT/libIPN-fabric-1.19-1.0.0.jar",
+					"version": "ZpVR7riT"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/gg12Q7Ve/libIPN-fabric-1.15-1.0.0.jar",
+					"version": "gg12Q7Ve"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ubkzZQSe/libIPN-fabric-1.16-1.0.0.jar",
+					"version": "ubkzZQSe"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/iblieVmb/libIPN-fabric-1.14-1.0.0.jar",
+					"version": "iblieVmb"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"blackd"
+		],
+		"community": "https://discord.gg/23YCxmveUM",
+		"description": "Inventory Profiles Next GUI/Config library",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/onSQdWhM/5f9116f2d79dd5767fd936f1786262b54edac0ec.png",
+		"issues": "https://github.com/blackd/libIPNissues",
+		"license": "AGPL-3.0-or-later",
+		"long_description": "## Description \nThis is the GUI/Config library used by Inventory Profiles Next \n\nThis lib will be shared between IPN and Any future mod I make\n\n## FAQ\n\nCan I use it in my mods?\n\nFeel free to use it, but at this point there is no documentation or examples. And the code is not that clear.",
+		"name": "libIPN",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/blackd/libIPN"
+	},
+	"properties": {
+		"modrinth_id": "onSQdWhM",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.14.1",
+			"1.14.2",
+			"1.14.3",
+			"1.14.4",
+			"1.15",
+			"1.15.1",
+			"1.15.2",
+			"1.16",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3-pre3",
+			"1.19.3-rc1",
+			"1.19.3-rc2",
+			"1.19.3-rc3",
+			"1.19.3",
+			"23w06a",
+			"1.19.4",
+			"1.20-pre1",
+			"1.20-pre2",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3-pre2",
+			"1.20.3",
+			"1.20.4"
+		]
+	}
+}

@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/fy89ff5i/Bookshelf-Fabric-1.20.1-20.1.11.jar",
+					"version": "fy89ff5i"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/exZ1SlS5/Bookshelf-Forge-1.20.1-20.1.11.jar",
+					"version": "exZ1SlS5"
+				},
+				{
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
 					"relations": {

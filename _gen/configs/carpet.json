@@ -1,0 +1,22 @@
+{
+	"source": "modrinth",
+	"id": "TQTTVgYE",
+	"relation_substitutions": {
+		"P7dR8mSH": "fabriclike-api"
+	},
+	"make_extensions": [
+		"more-culling"
+	],
+	"merge": {
+		"meta": {
+			"keywords": [
+				"carpet"
+			]
+		},
+		"properties": {
+			"supported_modloaders": [
+				"fabriclike"
+			]
+		}
+	}
+}

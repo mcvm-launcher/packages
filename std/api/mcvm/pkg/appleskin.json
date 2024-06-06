@@ -1,0 +1,611 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/Mr9bRvmn/appleskin-neoforge-mc1.20.5-3.0.2.jar",
+					"version": "Mr9bRvmn"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/FX8a9ln5/appleskin-fabric-mc1.20.5-3.0.2.jar",
+					"version": "FX8a9ln5"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/FupqKtcB/appleskin-neoforge-mc1.20.4-2.5.1.jar",
+					"version": "FupqKtcB"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/pmFyu3Sz/appleskin-fabric-mc1.20.3-2.5.1.jar",
+					"version": "pmFyu3Sz"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/tpQpTIMn/appleskin-fabric-mc1.19.2-2.5.1.jar",
+					"version": "tpQpTIMn"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/O6Swxqrh/appleskin-neoforge-mc1.20.2-2.5.1.jar",
+					"version": "O6Swxqrh"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/JNKPokGG/appleskin-fabric-mc1.20.2-2.5.1.jar",
+					"version": "JNKPokGG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/pyRMqaEV/appleskin-forge-mc1.20.2-2.5.1.jar",
+					"version": "pyRMqaEV"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar",
+					"version": "xcauwnEB"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
+					"version": "XdXDExVF"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/aIpOZwoo/appleskin-fabric-mc1.19.4-2.5.1.jar",
+					"version": "aIpOZwoo"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/LAwakjdi/appleskin-forge-mc1.19.4-2.5.1.jar",
+					"version": "LAwakjdi"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/3wbLqeIN/appleskin-fabric-mc1.18.2-2.5.1.jar",
+					"version": "3wbLqeIN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/1ZaL0ACn/appleskin-forge-mc1.18.2-2.5.1.jar",
+					"version": "1ZaL0ACn"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/8N1HVFeQ/appleskin-fabric-mc1.16.5-2.5.1.jar",
+					"version": "8N1HVFeQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/633NTwhH/appleskin-forge-mc1.16.x-2.5.1.jar",
+					"version": "633NTwhH"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/Tsz4BT2X/AppleSkin-mc1.12-1.0.14.jar",
+					"version": "Tsz4BT2X"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/K0zVnDfL/AppleSkin-mc1.10.2-1.0.14.jar",
+					"version": "K0zVnDfL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.19-2.4.2/appleskin-forge-mc1.19-2.4.2.jar",
+					"version": "YRzksfaH"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/TsA3zcZj/appleskin-neoforge-mc1.20.5-3.0.1.jar",
+					"version": "TsA3zcZj"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/8FulBxPD/appleskin-neoforge-mc1.20.5-3.0.0.jar",
+					"version": "8FulBxPD"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/DjDtWjB4/appleskin-fabric-mc1.20.5-3.0.0.jar",
+					"version": "DjDtWjB4"
+				},
+				{
+					"minecraft_versions": "24w14potato",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/A5tg1xFz/appleskin-fabric-mc24w14potato-2.5.1.jar",
+					"version": "A5tg1xFz"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/3hKtTn8d/appleskin-fabric-mc1.17.1-2.5.1.jar",
+					"version": "3hKtTn8d"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/I5z4tUkM/appleskin-forge-mc1.17.1-2.5.1.jar",
+					"version": "I5z4tUkM"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/7y3uLKYp/appleskin-mc1.15-fabric-1.0.11.jar",
+					"version": "7y3uLKYp"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/6c22LUR7/AppleSkin-mc1.15.2-forge-1.0.14.jar",
+					"version": "6c22LUR7"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/YRYMfgWI/appleskin-mc1.14-fabric-1.0.11.jar",
+					"version": "YRYMfgWI"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fH3zbigW/AppleSkin-mc1.14.4-forge-1.0.14.jar",
+					"version": "fH3zbigW"
+				},
+				{
+					"minecraft_versions": "1.13.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/6Pv3U3lw/AppleSkin-mc1.13.2-1.0.14.jar",
+					"version": "6Pv3U3lw"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/FeAwEvfD/AppleSkin-mc1.11-1.0.14.jar",
+					"version": "FeAwEvfD"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/lH9KEmGA/appleskin-forge-mc1.20.1-2.5.0.jar",
+					"version": "lH9KEmGA"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/CxnVG86Y/appleskin-fabric-mc1.20-2.5.0.jar",
+					"version": "CxnVG86Y"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/qB7KLPo6/appleskin-fabric-mc1.19.4-2.4.4.jar",
+					"version": "qB7KLPo6"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/sLboyqjL/appleskin-fabric-mc1.19.4-2.4.3.jar",
+					"version": "sLboyqjL"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/qfsuYsle/appleskin-forge-mc1.19.4-2.4.3.jar",
+					"version": "qfsuYsle"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/ntsDU1AP/appleskin-fabric-mc1.19.3-2.4.2.jar",
+					"version": "ntsDU1AP"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.19-2.4.1/appleskin-fabric-mc1.19-2.4.1.jar",
+					"version": "pIFVoWvG"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.1/appleskin-fabric-mc1.18.2-2.4.1.jar",
+					"version": "T7UGls0O"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.18.2-2.4.1/appleskin-forge-mc1.18.2-2.4.1.jar",
+					"version": "1P1AwANB"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.19-2.4.1/appleskin-forge-mc1.19-2.4.1.jar",
+					"version": "NWcpA54i"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.19-2.4.0/appleskin-forge-mc1.19-2.4.0.jar",
+					"version": "PMBeXRiD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.19-2.4.0/appleskin-fabric-mc1.19-2.4.0.jar",
+					"version": "tgIEZKLw"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.0/appleskin-fabric-mc1.18.2-2.4.0.jar",
+					"version": "gQRJj49P"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.18-2.4.0/appleskin-forge-mc1.18-2.4.0.jar",
+					"version": "eZRpJhZ6"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.17.1-2.4.0/appleskin-fabric-mc1.17.1-2.4.0.jar",
+					"version": "Y6USHBSW"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.17.1-2.4.0/appleskin-forge-mc1.17.1-2.4.0.jar",
+					"version": "A7345mvq"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.16.5-2.4.0/appleskin-fabric-mc1.16.5-2.4.0.jar",
+					"version": "h1EXW3QN"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.16.x-2.4.0/appleskin-forge-mc1.16.x-2.4.0.jar",
+					"version": "u6qqzTJC"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.1-2.3.0/appleskin-fabric-mc1.18.1-2.3.0.jar",
+					"version": "1l8O9vUa"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.18-2.3.0/appleskin-forge-mc1.18-2.3.0.jar",
+					"version": "FuDL4moO"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.16.5-2.3.0/appleskin-fabric-mc1.16.5-2.3.0.jar",
+					"version": "Qz9mmQwX"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.16.x-2.3.0/appleskin-forge-mc1.16.x-2.3.0.jar",
+					"version": "mwyXyx9M"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.18-2.2.0/appleskin-forge-mc1.18-2.2.0.jar",
+					"version": "cz40J4Tk"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18-2.2.0/appleskin-fabric-mc1.18-2.2.0.jar",
+					"version": "c3j4Q3qi"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.16.x-2.2.0/appleskin-forge-mc1.16.x-2.2.0.jar",
+					"version": "uQP6F9A6"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.17.1-2.2.0/appleskin-forge-mc1.17.1-2.2.0.jar",
+					"version": "FJe7NwOr"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.16.x-2.2.0/appleskin-fabric-mc1.16.x-2.2.0.jar",
+					"version": "cLs3ccZw"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.17.1-2.2.0/appleskin-fabric-mc1.17.1-2.2.0.jar",
+					"version": "tqCi5b3L"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"squeek502"
+		],
+		"categories": [
+			"tools"
+		],
+		"description": "Food/hunger-related HUD improvements",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/EsAfCjCV/icon.png",
+		"issues": "https://github.com/squeek502/AppleSkin/issues",
+		"keywords": [
+			"graphics"
+		],
+		"license": "Unlicense",
+		"long_description": "Adds various food-related HUD improvements. This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.\n\n---\n\n*Note: AppleSkin provides information about some mechanics that are invisible by default (it does not add or change any mechanics). To read about Minecraft's exhaustion and saturation mechanics, see the [Minecraft wiki article on Hunger](https://minecraft.wiki/w/Hunger#Mechanics)*\n\n---\n\n### Features\n\n* Adds food value information to tooltips:\n\n![](https://i.imgur.com/YksBaUx.png)\n\n* Adds a visualization of saturation and exhaustion to the HUD:\n\n![](https://i.imgur.com/tmImVqo.gif)\n\n* Adds a visualization of potential hunger/saturation restored while holding food:\n\n![](https://i.imgur.com/aHf1QxQ.gif)\n\n* Adds a visualization of potential health restored while holding food:\n\n![](https://i.imgur.com/jUOKFUl.gif)\n\n* Adds hunger/saturation/exhaustion info to the debug overlay (F3)\n* Syncs the value of saturation and exhaustion to the client.\n\n---\n\n### Misc\nYou are welcome to add this mod to any modpack you'd like.\n\n---\n\n### Use on vanilla servers\n\nOne of the following plugins can be used to get the saturation/exhaustion to work when connecting to vanilla Minecraft servers:\n\n- https://github.com/jmattingley23/AppleSkinSpigot\n- https://www.curseforge.com/minecraft/bukkit-plugins/paperapple\n",
+		"name": "AppleSkin",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/squeek502/AppleSkin",
+		"support_link": "https://github.com/sponsors/squeek502"
+	},
+	"properties": {
+		"modrinth_id": "EsAfCjCV",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.10.2",
+			"1.11.2",
+			"1.12.2",
+			"1.13.2",
+			"1.14.4",
+			"1.15.2",
+			"1.16.4",
+			"1.16.5",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"24w14potato",
+			"1.20.5",
+			"1.20.6"
+		]
+	}
+}

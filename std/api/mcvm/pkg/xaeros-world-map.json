@@ -1,0 +1,6005 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/o7mEAkNb/XaerosWorldMap_1.38.8_Fabric_1.20.6.jar",
+					"version": "o7mEAkNb"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wz5E39j6/XaerosWorldMap_1.38.8_NeoForge_1.20.6.jar",
+					"version": "wz5E39j6"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/YQeKG80h/XaerosWorldMap_1.38.8_Forge_1.20.6.jar",
+					"version": "YQeKG80h"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/jEhoJmNF/XaerosWorldMap_1.38.8_Fabric_1.20.4.jar",
+					"version": "jEhoJmNF"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/crPAx75v/XaerosWorldMap_1.38.8_NeoForge_1.20.4.jar",
+					"version": "crPAx75v"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5b38pJEY/XaerosWorldMap_1.38.8_Forge_1.20.4.jar",
+					"version": "5b38pJEY"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SMSdfLOQ/XaerosWorldMap_1.38.8_Fabric_1.20.2.jar",
+					"version": "SMSdfLOQ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/AbWgvZZP/XaerosWorldMap_1.38.8_NeoForge_1.20.2.jar",
+					"version": "AbWgvZZP"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/7GXAUIxr/XaerosWorldMap_1.38.8_Forge_1.20.2.jar",
+					"version": "7GXAUIxr"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/szULGs3b/XaerosWorldMap_1.38.8_Fabric_1.20.jar",
+					"version": "szULGs3b"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/3t3qLyne/XaerosWorldMap_1.38.8_Forge_1.20.jar",
+					"version": "3t3qLyne"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bId5K1EM/XaerosWorldMap_1.38.8_Fabric_1.19.4.jar",
+					"version": "bId5K1EM"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UjH1bY5n/XaerosWorldMap_1.38.8_Forge_1.19.4.jar",
+					"version": "UjH1bY5n"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zpobQtXe/XaerosWorldMap_1.38.8_Fabric_1.19.1.jar",
+					"version": "zpobQtXe"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/BAn3pfXW/XaerosWorldMap_1.38.8_Forge_1.19.1.jar",
+					"version": "BAn3pfXW"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/3gmYeL8R/XaerosWorldMap_1.38.8_Fabric_1.18.2.jar",
+					"version": "3gmYeL8R"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/I7KNlIg7/XaerosWorldMap_1.38.8_Fabric_1.16.5.jar",
+					"version": "I7KNlIg7"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fccjP3vg/XaerosWorldMap_1.38.8_Forge_1.18.2.jar",
+					"version": "fccjP3vg"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/M8lZ4YIm/XaerosWorldMap_1.38.8_Forge_1.16.5.jar",
+					"version": "M8lZ4YIm"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/3vzQ401W/XaerosWorldMap_1.38.8_Forge_1.12.jar",
+					"version": "3vzQ401W"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/s7fGI5DL/XaerosWorldMap_1.38.7_Forge_1.20.6.jar",
+					"version": "s7fGI5DL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/aWXGiFVe/XaerosWorldMap_1.38.6_Fabric_1.20.5.jar",
+					"version": "aWXGiFVe"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4fHhiA9l/XaerosWorldMap_1.38.6_NeoForge_1.20.5.jar",
+					"version": "4fHhiA9l"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Jm03NtYN/XaerosWorldMap_1.38.5_Fabric_1.20.5.jar",
+					"version": "Jm03NtYN"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/evqhhzq1/XaerosWorldMap_1.38.5_NeoForge_1.20.5.jar",
+					"version": "evqhhzq1"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ciwrnpWQ/XaerosWorldMap_1.38.4_Fabric_1.20.4.jar",
+					"version": "ciwrnpWQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ExBGHO1W/XaerosWorldMap_1.38.4_NeoForge_1.20.4.jar",
+					"version": "ExBGHO1W"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Hr1YuotO/XaerosWorldMap_1.38.4_Forge_1.20.4.jar",
+					"version": "Hr1YuotO"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vtaHEcnA/XaerosWorldMap_1.38.4_Fabric_1.20.2.jar",
+					"version": "vtaHEcnA"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XkNgPSrY/XaerosWorldMap_1.38.4_NeoForge_1.20.2.jar",
+					"version": "XkNgPSrY"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/J9mEyGH5/XaerosWorldMap_1.38.4_Forge_1.20.2.jar",
+					"version": "J9mEyGH5"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/GOh0fFoJ/XaerosWorldMap_1.38.4_Fabric_1.20.jar",
+					"version": "GOh0fFoJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/oE23WzAY/XaerosWorldMap_1.38.4_Forge_1.20.jar",
+					"version": "oE23WzAY"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/cWnkuNpP/XaerosWorldMap_1.38.4_Fabric_1.19.4.jar",
+					"version": "cWnkuNpP"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/RsuHrSG8/XaerosWorldMap_1.38.4_Forge_1.19.4.jar",
+					"version": "RsuHrSG8"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/AFdUAvnz/XaerosWorldMap_1.38.4_Fabric_1.19.1.jar",
+					"version": "AFdUAvnz"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/x7A0grqn/XaerosWorldMap_1.38.4_Forge_1.19.1.jar",
+					"version": "x7A0grqn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/n9H74LC6/XaerosWorldMap_1.38.4_Fabric_1.18.2.jar",
+					"version": "n9H74LC6"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6SatxhGZ/XaerosWorldMap_1.38.4_Forge_1.18.2.jar",
+					"version": "6SatxhGZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/mTb5Uwa7/XaerosWorldMap_1.38.4_Fabric_1.16.5.jar",
+					"version": "mTb5Uwa7"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/r6XMA06U/XaerosWorldMap_1.38.4_Forge_1.16.5.jar",
+					"version": "r6XMA06U"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/TyOkVRGf/XaerosWorldMap_1.38.4_Forge_1.12.jar",
+					"version": "TyOkVRGf"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xoWyMT9q/XaerosWorldMap_1.38.3_Fabric_1.20.4.jar",
+					"version": "xoWyMT9q"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/dg8z2kP4/XaerosWorldMap_1.38.3_NeoForge_1.20.4.jar",
+					"version": "dg8z2kP4"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/iKOa7p2o/XaerosWorldMap_1.38.3_Forge_1.20.4.jar",
+					"version": "iKOa7p2o"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/RVSNzF7P/XaerosWorldMap_1.38.3_Fabric_1.20.2.jar",
+					"version": "RVSNzF7P"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vafIGO2B/XaerosWorldMap_1.38.3_NeoForge_1.20.2.jar",
+					"version": "vafIGO2B"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/VyOfCLta/XaerosWorldMap_1.38.3_Forge_1.20.2.jar",
+					"version": "VyOfCLta"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/1ZFOZLG2/XaerosWorldMap_1.38.3_Fabric_1.20.jar",
+					"version": "1ZFOZLG2"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zkV9MzSO/XaerosWorldMap_1.38.3_Forge_1.20.jar",
+					"version": "zkV9MzSO"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/U7wvj4vx/XaerosWorldMap_1.38.3_Fabric_1.19.4.jar",
+					"version": "U7wvj4vx"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XAHaH8pE/XaerosWorldMap_1.38.3_Forge_1.19.4.jar",
+					"version": "XAHaH8pE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HvnvVG2s/XaerosWorldMap_1.38.3_Fabric_1.19.1.jar",
+					"version": "HvnvVG2s"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/w2I1xBkt/XaerosWorldMap_1.38.3_Forge_1.19.1.jar",
+					"version": "w2I1xBkt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bQjVTElj/XaerosWorldMap_1.38.3_Fabric_1.18.2.jar",
+					"version": "bQjVTElj"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/if8HUfC3/XaerosWorldMap_1.38.3_Forge_1.18.2.jar",
+					"version": "if8HUfC3"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bgYKlna4/XaerosWorldMap_1.38.3_Fabric_1.16.5.jar",
+					"version": "bgYKlna4"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qI7epCX8/XaerosWorldMap_1.38.3_Forge_1.16.5.jar",
+					"version": "qI7epCX8"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/pFoenNHf/XaerosWorldMap_1.38.3_Forge_1.12.jar",
+					"version": "pFoenNHf"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/St8x5BIB/XaerosWorldMap_1.38.2_NeoForge_1.20.4.jar",
+					"version": "St8x5BIB"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IhXA8B6k/XaerosWorldMap_1.38.2_NeoForge_1.20.2.jar",
+					"version": "IhXA8B6k"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/2lbtkEPK/XaerosWorldMap_1.38.1_Fabric_1.20.4.jar",
+					"version": "2lbtkEPK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/EEi7fSTX/XaerosWorldMap_1.38.1_NeoForge_1.20.4.jar",
+					"version": "EEi7fSTX"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Us1KN3KZ/XaerosWorldMap_1.38.1_Forge_1.20.4.jar",
+					"version": "Us1KN3KZ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bNTafyGZ/XaerosWorldMap_1.38.1_Fabric_1.20.2.jar",
+					"version": "bNTafyGZ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/e4KxqQmi/XaerosWorldMap_1.38.1_NeoForge_1.20.2.jar",
+					"version": "e4KxqQmi"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/FfOlqaAa/XaerosWorldMap_1.38.1_Forge_1.20.2.jar",
+					"version": "FfOlqaAa"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/RtG1V19k/XaerosWorldMap_1.38.1_Fabric_1.20.jar",
+					"version": "RtG1V19k"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/O8WpvCPU/XaerosWorldMap_1.38.1_Forge_1.20.jar",
+					"version": "O8WpvCPU"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/J3gWZ9Y7/XaerosWorldMap_1.38.1_Fabric_1.19.4.jar",
+					"version": "J3gWZ9Y7"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XjvUIj7a/XaerosWorldMap_1.38.1_Forge_1.19.4.jar",
+					"version": "XjvUIj7a"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/q81YjdCr/XaerosWorldMap_1.38.1_Fabric_1.19.1.jar",
+					"version": "q81YjdCr"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/WRAhRsV0/XaerosWorldMap_1.38.1_Forge_1.19.1.jar",
+					"version": "WRAhRsV0"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/RWQIMBFG/XaerosWorldMap_1.38.1_Fabric_1.18.2.jar",
+					"version": "RWQIMBFG"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bmskYajG/XaerosWorldMap_1.38.1_Forge_1.18.2.jar",
+					"version": "bmskYajG"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Nl5li4IQ/XaerosWorldMap_1.38.1_Fabric_1.16.5.jar",
+					"version": "Nl5li4IQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/GtKdDJ5k/XaerosWorldMap_1.38.1_Forge_1.16.5.jar",
+					"version": "GtKdDJ5k"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/cBiMvAnH/XaerosWorldMap_1.38.1_Forge_1.12.jar",
+					"version": "cBiMvAnH"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/JPaMO5d0/XaerosWorldMap_1.38.0_NeoForge_1.20.4.jar",
+					"version": "JPaMO5d0"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/iGtiHsDe/XaerosWorldMap_1.38.0_NeoForge_1.20.2.jar",
+					"version": "iGtiHsDe"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4PRqBjBF/XaerosWorldMap_1.37.8_Fabric_1.19.4.jar",
+					"version": "4PRqBjBF"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/1ikSvyiV/XaerosWorldMap_1.37.8_Forge_1.19.4.jar",
+					"version": "1ikSvyiV"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/p3T8tHy4/XaerosWorldMap_1.37.8_Fabric_1.19.3.jar",
+					"version": "p3T8tHy4"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5srNwTQr/XaerosWorldMap_1.37.8_Forge_1.19.3.jar",
+					"version": "5srNwTQr"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Kh1mGgGA/XaerosWorldMap_1.37.8_Fabric_1.20.4.jar",
+					"version": "Kh1mGgGA"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/BtByX33T/XaerosWorldMap_1.37.8_Forge_1.20.4.jar",
+					"version": "BtByX33T"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MtYKhP1z/XaerosWorldMap_1.37.8_Fabric_1.20.2.jar",
+					"version": "MtYKhP1z"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Q2LjAXwj/XaerosWorldMap_1.37.8_Forge_1.20.2.jar",
+					"version": "Q2LjAXwj"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/RR2qcEow/XaerosWorldMap_1.37.8_Fabric_1.20.jar",
+					"version": "RR2qcEow"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/iIHx8eFi/XaerosWorldMap_1.37.8_Forge_1.20.jar",
+					"version": "iIHx8eFi"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MGnsRoAP/XaerosWorldMap_1.37.8_Fabric_1.19.1.jar",
+					"version": "MGnsRoAP"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Uh6rOrCb/XaerosWorldMap_1.37.8_Forge_1.19.1.jar",
+					"version": "Uh6rOrCb"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/YEqpZsUQ/XaerosWorldMap_1.37.8_Fabric_1.18.2.jar",
+					"version": "YEqpZsUQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/NmoZgLkN/XaerosWorldMap_1.37.8_Forge_1.18.2.jar",
+					"version": "NmoZgLkN"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/X5l3pEeo/XaerosWorldMap_1.37.8_Fabric_1.17.1.jar",
+					"version": "X5l3pEeo"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/pJR2Fqwm/XaerosWorldMap_1.37.8_Forge_1.17.1.jar",
+					"version": "pJR2Fqwm"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/7jiibugv/XaerosWorldMap_1.37.8_Fabric_1.16.5.jar",
+					"version": "7jiibugv"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ABCY32pi/XaerosWorldMap_1.37.8_Forge_1.16.5.jar",
+					"version": "ABCY32pi"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/H8LUoNB8/XaerosWorldMap_1.37.8_Forge_1.12.jar",
+					"version": "H8LUoNB8"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IwNGlfAn/XaerosWorldMap_1.37.7_Fabric_1.20.4.jar",
+					"version": "IwNGlfAn"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/TlqcsW0P/XaerosWorldMap_1.37.7_Forge_1.20.4.jar",
+					"version": "TlqcsW0P"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/CpzbT4d9/XaerosWorldMap_1.37.7_Fabric_1.20.2.jar",
+					"version": "CpzbT4d9"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/DuHuZP6A/XaerosWorldMap_1.37.7_Forge_1.20.2.jar",
+					"version": "DuHuZP6A"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/sldtuPfE/XaerosWorldMap_1.37.7_Fabric_1.20.jar",
+					"version": "sldtuPfE"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/PPNXdlNm/XaerosWorldMap_1.37.7_Forge_1.20.jar",
+					"version": "PPNXdlNm"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/dOXO1ekR/XaerosWorldMap_1.37.7_Fabric_1.19.4.jar",
+					"version": "dOXO1ekR"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/U2fOYiyl/XaerosWorldMap_1.37.7_Forge_1.19.4.jar",
+					"version": "U2fOYiyl"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IALYw1J1/XaerosWorldMap_1.37.7_Fabric_1.19.3.jar",
+					"version": "IALYw1J1"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/WM0TXybx/XaerosWorldMap_1.37.7_Forge_1.19.3.jar",
+					"version": "WM0TXybx"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/jJPQdz1d/XaerosWorldMap_1.37.7_Fabric_1.19.1.jar",
+					"version": "jJPQdz1d"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/s8cocuZd/XaerosWorldMap_1.37.7_Forge_1.19.1.jar",
+					"version": "s8cocuZd"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ZjP3Pq4E/XaerosWorldMap_1.37.7_Fabric_1.18.2.jar",
+					"version": "ZjP3Pq4E"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/npXTx5pr/XaerosWorldMap_1.37.7_Forge_1.18.2.jar",
+					"version": "npXTx5pr"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yvmI3XeP/XaerosWorldMap_1.37.7_Fabric_1.17.1.jar",
+					"version": "yvmI3XeP"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QfdogwsK/XaerosWorldMap_1.37.7_Forge_1.17.1.jar",
+					"version": "QfdogwsK"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ExJndpW1/XaerosWorldMap_1.37.7_Fabric_1.16.5.jar",
+					"version": "ExJndpW1"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ePZhBAIZ/XaerosWorldMap_1.37.7_Forge_1.16.5.jar",
+					"version": "ePZhBAIZ"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6OGNVOoZ/XaerosWorldMap_1.29.17_Forge_1.15.2.jar",
+					"version": "6OGNVOoZ"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/3FwkAdEs/XaerosWorldMap_1.29.17_Forge_1.14.4.jar",
+					"version": "3FwkAdEs"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/j5uMM0Wj/XaerosWorldMap_1.37.7_Forge_1.12.jar",
+					"version": "j5uMM0Wj"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HQ3gb7de/XaerosWorldMap_1.14.1.31_Forge_1.8.9.jar",
+					"version": "HQ3gb7de"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Je9Rk4Cx/XaerosWorldMap_1.14.1.31_Forge_1.7.10.jar",
+					"version": "Je9Rk4Cx"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UXPdKH9b/XaerosWorldMap_1.37.6_Fabric_1.20.4.jar",
+					"version": "UXPdKH9b"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/CFdDfVmy/XaerosWorldMap_1.37.6_Forge_1.20.4.jar",
+					"version": "CFdDfVmy"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/77dzlHmz/XaerosWorldMap_1.37.5_Fabric_1.20.4.jar",
+					"version": "77dzlHmz"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Ryqih9p9/XaerosWorldMap_1.37.5_Forge_1.20.4.jar",
+					"version": "Ryqih9p9"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MCZrzmFk/XaerosWorldMap_1.37.4_Fabric_1.20.4.jar",
+					"version": "MCZrzmFk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hRVLy1VO/XaerosWorldMap_1.37.4_Forge_1.20.4.jar",
+					"version": "hRVLy1VO"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/g3LVdy2b/XaerosWorldMap_1.37.4_Fabric_1.17.1.jar",
+					"version": "g3LVdy2b"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HZe0cLXw/XaerosWorldMap_1.37.4_Forge_1.17.1.jar",
+					"version": "HZe0cLXw"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/mWKcgDr7/XaerosWorldMap_1.37.4_Fabric_1.16.5.jar",
+					"version": "mWKcgDr7"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ICOE9Jsf/XaerosWorldMap_1.37.4_Forge_1.16.5.jar",
+					"version": "ICOE9Jsf"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/jZxGCO8l/XaerosWorldMap_1.37.3_Fabric_1.18.2.jar",
+					"version": "jZxGCO8l"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/AJD2gqOd/XaerosWorldMap_1.37.3_Forge_1.18.2.jar",
+					"version": "AJD2gqOd"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/F61FCdMV/XaerosWorldMap_1.37.3_Fabric_1.17.1.jar",
+					"version": "F61FCdMV"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HuNUxJTs/XaerosWorldMap_1.37.3_Forge_1.17.1.jar",
+					"version": "HuNUxJTs"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SEcAUikr/XaerosWorldMap_1.37.3_Fabric_1.16.5.jar",
+					"version": "SEcAUikr"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/2DyPoOss/XaerosWorldMap_1.37.3_Forge_1.16.5.jar",
+					"version": "2DyPoOss"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QPu5GIcD/XaerosWorldMap_1.37.2_Fabric_1.20.3.jar",
+					"version": "QPu5GIcD"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/TiU9A6SF/XaerosWorldMap_1.37.2_Fabric_1.20.2.jar",
+					"version": "TiU9A6SF"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HAWkglLj/XaerosWorldMap_1.37.2_Forge_1.20.2.jar",
+					"version": "HAWkglLj"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/EKlLbMF8/XaerosWorldMap_1.37.2_Fabric_1.20.jar",
+					"version": "EKlLbMF8"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5I2xTj1b/XaerosWorldMap_1.37.2_Forge_1.20.jar",
+					"version": "5I2xTj1b"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fDOxFLoy/XaerosWorldMap_1.37.2_Fabric_1.19.4.jar",
+					"version": "fDOxFLoy"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/WcfeRtsW/XaerosWorldMap_1.37.2_Forge_1.19.4.jar",
+					"version": "WcfeRtsW"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/GVhMC0jF/XaerosWorldMap_1.37.2_Fabric_1.19.3.jar",
+					"version": "GVhMC0jF"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Psy5QyFF/XaerosWorldMap_1.37.2_Forge_1.19.3.jar",
+					"version": "Psy5QyFF"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/NPmEADqc/XaerosWorldMap_1.37.2_Fabric_1.19.1.jar",
+					"version": "NPmEADqc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KS3vBQ5i/XaerosWorldMap_1.37.2_Forge_1.19.1.jar",
+					"version": "KS3vBQ5i"
+				},
+				{
+					"minecraft_versions": "1.20.3-rc1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4Vb09gB8/XaerosWorldMap_1.37.1_Fabric_1.20.3.jar",
+					"version": "4Vb09gB8"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/GjpvNeP5/XaerosWorldMap_1.37.1_Fabric_1.20.2.jar",
+					"version": "GjpvNeP5"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8kyPSsV3/XaerosWorldMap_1.37.1_Forge_1.20.2.jar",
+					"version": "8kyPSsV3"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/2xFoqT9G/XaerosWorldMap_1.37.1_Fabric_1.20.jar",
+					"version": "2xFoqT9G"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QZQIip0l/XaerosWorldMap_1.37.1_Forge_1.20.jar",
+					"version": "QZQIip0l"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/2OrOlxct/XaerosWorldMap_1.37.1_Fabric_1.19.4.jar",
+					"version": "2OrOlxct"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KzNPPRKZ/XaerosWorldMap_1.37.1_Forge_1.19.4.jar",
+					"version": "KzNPPRKZ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/FbRcjoyo/XaerosWorldMap_1.37.1_Fabric_1.19.3.jar",
+					"version": "FbRcjoyo"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/JTWdwJAT/XaerosWorldMap_1.37.1_Forge_1.19.3.jar",
+					"version": "JTWdwJAT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/uUqFPVSu/XaerosWorldMap_1.37.1_Fabric_1.19.1.jar",
+					"version": "uUqFPVSu"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/1HegG6vB/XaerosWorldMap_1.37.1_Forge_1.19.1.jar",
+					"version": "1HegG6vB"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5IAIDmsq/XaerosWorldMap_1.37.1_Fabric_1.18.2.jar",
+					"version": "5IAIDmsq"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yDfrbwvP/XaerosWorldMap_1.37.1_Forge_1.18.2.jar",
+					"version": "yDfrbwvP"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/87qG0mcP/XaerosWorldMap_1.37.1_Fabric_1.17.1.jar",
+					"version": "87qG0mcP"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/OnC2mDuc/XaerosWorldMap_1.37.1_Forge_1.17.1.jar",
+					"version": "OnC2mDuc"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HVD97oSC/XaerosWorldMap_1.37.1_Fabric_1.16.5.jar",
+					"version": "HVD97oSC"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/d0SZkNdX/XaerosWorldMap_1.37.1_Forge_1.16.5.jar",
+					"version": "d0SZkNdX"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hcqJ2uM8/XaerosWorldMap_1.37.1_Forge_1.12.jar",
+					"version": "hcqJ2uM8"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/z6UXt0JA/XaerosWorldMap_1.37.0_Fabric_1.20.2.jar",
+					"version": "z6UXt0JA"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/L1Msjf2g/XaerosWorldMap_1.37.0_Forge_1.20.2.jar",
+					"version": "L1Msjf2g"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/upEWzPL7/XaerosWorldMap_1.37.0_Fabric_1.20.jar",
+					"version": "upEWzPL7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5T11KDuL/XaerosWorldMap_1.37.0_Forge_1.20.jar",
+					"version": "5T11KDuL"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/uL35xaJ6/XaerosWorldMap_1.37.0_Fabric_1.19.4.jar",
+					"version": "uL35xaJ6"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/gqWWu2WE/XaerosWorldMap_1.37.0_Forge_1.19.4.jar",
+					"version": "gqWWu2WE"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/kDPMXqXY/XaerosWorldMap_1.37.0_Fabric_1.19.3.jar",
+					"version": "kDPMXqXY"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/euUlUJpL/XaerosWorldMap_1.37.0_Forge_1.19.3.jar",
+					"version": "euUlUJpL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/pdz4XbYo/XaerosWorldMap_1.37.0_Fabric_1.19.1.jar",
+					"version": "pdz4XbYo"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MoJ7DlPb/XaerosWorldMap_1.37.0_Forge_1.19.1.jar",
+					"version": "MoJ7DlPb"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4VrpnEqL/XaerosWorldMap_1.37.0_Fabric_1.18.2.jar",
+					"version": "4VrpnEqL"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/85zESh2n/XaerosWorldMap_1.37.0_Forge_1.18.2.jar",
+					"version": "85zESh2n"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zNVieoBv/XaerosWorldMap_1.37.0_Fabric_1.17.1.jar",
+					"version": "zNVieoBv"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/tvv1p8UB/XaerosWorldMap_1.37.0_Forge_1.17.1.jar",
+					"version": "tvv1p8UB"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/JaxVlPsg/XaerosWorldMap_1.37.0_Fabric_1.16.5.jar",
+					"version": "JaxVlPsg"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/sa3FXIiF/XaerosWorldMap_1.37.0_Forge_1.16.5.jar",
+					"version": "sa3FXIiF"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/JUuQgvs3/XaerosWorldMap_1.29.16_Forge_1.15.2.jar",
+					"version": "JUuQgvs3"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Gt0oFz5j/XaerosWorldMap_1.29.16_Forge_1.14.4.jar",
+					"version": "Gt0oFz5j"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9bIsTbhi/XaerosWorldMap_1.37.0_Forge_1.12.jar",
+					"version": "9bIsTbhi"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Ddl7ujqW/XaerosWorldMap_1.14.1.30_Forge_1.8.9.jar",
+					"version": "Ddl7ujqW"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Iv9NE033/XaerosWorldMap_1.14.1.30_Forge_1.7.10.jar",
+					"version": "Iv9NE033"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IWg1Z5mJ/XaerosWorldMap_1.36.0_Fabric_1.20.2.jar",
+					"version": "IWg1Z5mJ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ieGewWWJ/XaerosWorldMap_1.36.0_Forge_1.20.2.jar",
+					"version": "ieGewWWJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/s974wWCK/XaerosWorldMap_1.36.0_Fabric_1.20.jar",
+					"version": "s974wWCK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/lsh7rZ8c/XaerosWorldMap_1.36.0_Forge_1.20.jar",
+					"version": "lsh7rZ8c"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/gwxBAfOC/XaerosWorldMap_1.36.0_Fabric_1.19.4.jar",
+					"version": "gwxBAfOC"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UqlV90K2/XaerosWorldMap_1.36.0_Forge_1.19.4.jar",
+					"version": "UqlV90K2"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/O4jmfApS/XaerosWorldMap_1.36.0_Fabric_1.19.3.jar",
+					"version": "O4jmfApS"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/40ySYXm7/XaerosWorldMap_1.36.0_Forge_1.19.3.jar",
+					"version": "40ySYXm7"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nzTSf2JK/XaerosWorldMap_1.36.0_Fabric_1.19.1.jar",
+					"version": "nzTSf2JK"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/x4c779Gp/XaerosWorldMap_1.36.0_Forge_1.19.1.jar",
+					"version": "x4c779Gp"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/l3AnBhDH/XaerosWorldMap_1.36.0_Fabric_1.18.2.jar",
+					"version": "l3AnBhDH"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/uMnSnV0V/XaerosWorldMap_1.36.0_Forge_1.18.2.jar",
+					"version": "uMnSnV0V"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6QJf3buJ/XaerosWorldMap_1.36.0_Fabric_1.17.1.jar",
+					"version": "6QJf3buJ"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/1hNBoopU/XaerosWorldMap_1.36.0_Forge_1.17.1.jar",
+					"version": "1hNBoopU"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/kl5ajjgu/XaerosWorldMap_1.36.0_Fabric_1.16.5.jar",
+					"version": "kl5ajjgu"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/aKH41jFn/XaerosWorldMap_1.36.0_Forge_1.16.5.jar",
+					"version": "aKH41jFn"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QplwCTjy/XaerosWorldMap_1.36.0_Forge_1.12.jar",
+					"version": "QplwCTjy"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/lfPTckFu/XaerosWorldMap_1.35.0_Forge_1.12.jar",
+					"version": "lfPTckFu"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/oN97q1bh/XaerosWorldMap_1.35.0_Fabric_1.20.2.jar",
+					"version": "oN97q1bh"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IZjA414Z/XaerosWorldMap_1.35.0_Forge_1.20.2.jar",
+					"version": "IZjA414Z"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Qdu4Ovks/XaerosWorldMap_1.35.0_Fabric_1.20.jar",
+					"version": "Qdu4Ovks"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xq92bHt9/XaerosWorldMap_1.35.0_Forge_1.20.jar",
+					"version": "xq92bHt9"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/oTjgUXpl/XaerosWorldMap_1.35.0_Fabric_1.19.4.jar",
+					"version": "oTjgUXpl"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hs87cQxS/XaerosWorldMap_1.35.0_Forge_1.19.4.jar",
+					"version": "hs87cQxS"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HuhuMQWY/XaerosWorldMap_1.35.0_Fabric_1.19.3.jar",
+					"version": "HuhuMQWY"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Z4GCDEhd/XaerosWorldMap_1.35.0_Forge_1.19.3.jar",
+					"version": "Z4GCDEhd"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/TVqZB00s/XaerosWorldMap_1.35.0_Fabric_1.19.1.jar",
+					"version": "TVqZB00s"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/3wGicfCz/XaerosWorldMap_1.35.0_Forge_1.19.1.jar",
+					"version": "3wGicfCz"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/dvJ1c1nB/XaerosWorldMap_1.35.0_Fabric_1.18.2.jar",
+					"version": "dvJ1c1nB"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/StYfRS5U/XaerosWorldMap_1.35.0_Forge_1.18.2.jar",
+					"version": "StYfRS5U"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ltXk1K5K/XaerosWorldMap_1.35.0_Fabric_1.17.1.jar",
+					"version": "ltXk1K5K"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Cay35u2J/XaerosWorldMap_1.35.0_Forge_1.17.1.jar",
+					"version": "Cay35u2J"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/PRpy2It3/XaerosWorldMap_1.35.0_Fabric_1.16.5.jar",
+					"version": "PRpy2It3"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6xmgf5vv/XaerosWorldMap_1.35.0_Forge_1.16.5.jar",
+					"version": "6xmgf5vv"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/1osfTlLs/XaerosWorldMap_1.29.15_Forge_1.15.2.jar",
+					"version": "1osfTlLs"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/VmrZJY6Y/XaerosWorldMap_1.29.15_Forge_1.14.4.jar",
+					"version": "VmrZJY6Y"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/uiSJusOM/XaerosWorldMap_1.34.1_Forge_1.20.2.jar",
+					"version": "uiSJusOM"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6SwHv13Z/XaerosWorldMap_1.34.1_Fabric_1.20.2.jar",
+					"version": "6SwHv13Z"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KNjZUbV2/XaerosWorldMap_1.34.1_Forge_1.20.jar",
+					"version": "KNjZUbV2"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/L8OA3xGI/XaerosWorldMap_1.34.1_Fabric_1.20.jar",
+					"version": "L8OA3xGI"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/sxZdfXgX/XaerosWorldMap_1.34.1_Forge_1.19.4.jar",
+					"version": "sxZdfXgX"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hGDx5zLv/XaerosWorldMap_1.34.1_Fabric_1.19.4.jar",
+					"version": "hGDx5zLv"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/uUljlh4i/XaerosWorldMap_1.34.1_Forge_1.19.3.jar",
+					"version": "uUljlh4i"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/brFplhUj/XaerosWorldMap_1.34.1_Fabric_1.19.3.jar",
+					"version": "brFplhUj"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8T5rJSHX/XaerosWorldMap_1.34.1_Forge_1.19.1.jar",
+					"version": "8T5rJSHX"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ZXboExuA/XaerosWorldMap_1.34.1_Fabric_1.19.1.jar",
+					"version": "ZXboExuA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/L8dZ06qE/XaerosWorldMap_1.34.1_Forge_1.18.2.jar",
+					"version": "L8dZ06qE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zspa7tIH/XaerosWorldMap_1.34.1_Fabric_1.18.2.jar",
+					"version": "zspa7tIH"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bXAJZFnX/XaerosWorldMap_1.34.1_Forge_1.17.1.jar",
+					"version": "bXAJZFnX"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/jd9dVlUv/XaerosWorldMap_1.34.1_Fabric_1.17.1.jar",
+					"version": "jd9dVlUv"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/LhxmKjwV/XaerosWorldMap_1.34.1_Forge_1.16.5.jar",
+					"version": "LhxmKjwV"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/X7q6wKAa/XaerosWorldMap_1.34.1_Fabric_1.16.5.jar",
+					"version": "X7q6wKAa"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/barq59Fe/XaerosWorldMap_1.29.14_Forge_1.15.2.jar",
+					"version": "barq59Fe"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fqMxbyZW/XaerosWorldMap_1.29.14_Forge_1.14.4.jar",
+					"version": "fqMxbyZW"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/d4huXt8W/XaerosWorldMap_1.34.1_Forge_1.12.jar",
+					"version": "d4huXt8W"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/BiotZhgQ/XaerosWorldMap_1.34.0_Forge_1.20.jar",
+					"version": "BiotZhgQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qwwKbodF/XaerosWorldMap_1.34.0_Fabric_1.20.jar",
+					"version": "qwwKbodF"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qBDuRkrp/XaerosWorldMap_1.34.0_Forge_1.19.4.jar",
+					"version": "qBDuRkrp"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/LAQjDJ8V/XaerosWorldMap_1.34.0_Fabric_1.19.4.jar",
+					"version": "LAQjDJ8V"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/meCK7hiK/XaerosWorldMap_1.34.0_Forge_1.19.3.jar",
+					"version": "meCK7hiK"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/BwjsEkNB/XaerosWorldMap_1.34.0_Fabric_1.19.3.jar",
+					"version": "BwjsEkNB"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/B7LODzZb/XaerosWorldMap_1.34.0_Forge_1.19.1.jar",
+					"version": "B7LODzZb"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MXSnuNhR/XaerosWorldMap_1.34.0_Fabric_1.19.1.jar",
+					"version": "MXSnuNhR"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KIkNJRts/XaerosWorldMap_1.34.0_Forge_1.18.2.jar",
+					"version": "KIkNJRts"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/sGllzk9n/XaerosWorldMap_1.34.0_Fabric_1.18.2.jar",
+					"version": "sGllzk9n"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yR1boAvN/XaerosWorldMap_1.34.0_Forge_1.17.1.jar",
+					"version": "yR1boAvN"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/cADC7mM3/XaerosWorldMap_1.34.0_Fabric_1.17.1.jar",
+					"version": "cADC7mM3"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/oaiGf0Cu/XaerosWorldMap_1.34.0_Forge_1.16.5.jar",
+					"version": "oaiGf0Cu"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/s3sEjbJu/XaerosWorldMap_1.34.0_Fabric_1.16.5.jar",
+					"version": "s3sEjbJu"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/FdU3tGYq/XaerosWorldMap_1.34.0_Forge_1.12.jar",
+					"version": "FdU3tGYq"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9MHP5TQr/XaerosWorldMap_1.33.1_Forge_1.20.jar",
+					"version": "9MHP5TQr"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4PJpJJKj/XaerosWorldMap_1.33.1_Fabric_1.20.jar",
+					"version": "4PJpJJKj"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Gt36xu4p/XaerosWorldMap_1.33.1_Forge_1.19.4.jar",
+					"version": "Gt36xu4p"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/meEp9J6P/XaerosWorldMap_1.33.1_Fabric_1.19.4.jar",
+					"version": "meEp9J6P"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IcOoY3Fd/XaerosWorldMap_1.33.1_Forge_1.19.3.jar",
+					"version": "IcOoY3Fd"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Ewl9bPOE/XaerosWorldMap_1.33.1_Fabric_1.19.3.jar",
+					"version": "Ewl9bPOE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ya5ZYXkT/XaerosWorldMap_1.33.1_Forge_1.19.1.jar",
+					"version": "ya5ZYXkT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UsGIMJ2a/XaerosWorldMap_1.33.1_Fabric_1.19.1.jar",
+					"version": "UsGIMJ2a"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/AY8nPexE/XaerosWorldMap_1.33.1_Forge_1.18.2.jar",
+					"version": "AY8nPexE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zf7etcWk/XaerosWorldMap_1.33.1_Fabric_1.18.2.jar",
+					"version": "zf7etcWk"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hpfgHHVi/XaerosWorldMap_1.33.1_Forge_1.17.1.jar",
+					"version": "hpfgHHVi"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/LRc3Y10v/XaerosWorldMap_1.33.1_Fabric_1.17.1.jar",
+					"version": "LRc3Y10v"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MPK4lZDY/XaerosWorldMap_1.33.1_Forge_1.16.5.jar",
+					"version": "MPK4lZDY"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/VigDSi15/XaerosWorldMap_1.33.1_Fabric_1.16.5.jar",
+					"version": "VigDSi15"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/EbUwI0Ci/XaerosWorldMap_1.29.13_Forge_1.15.2.jar",
+					"version": "EbUwI0Ci"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/RTD3td7Z/XaerosWorldMap_1.29.13_Forge_1.14.4.jar",
+					"version": "RTD3td7Z"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9TpOEnGQ/XaerosWorldMap_1.33.1_Forge_1.12.jar",
+					"version": "9TpOEnGQ"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9AvZZulC/XaerosWorldMap_1.14.1.29_Forge_1.8.9.jar",
+					"version": "9AvZZulC"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/LYmDkdJa/XaerosWorldMap_1.14.1.29_Forge_1.7.10.jar",
+					"version": "LYmDkdJa"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/1sOYFhej/XaerosWorldMap_1.33.0_Forge_1.20.jar",
+					"version": "1sOYFhej"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/VTlrn9zn/XaerosWorldMap_1.33.0_Fabric_1.20.jar",
+					"version": "VTlrn9zn"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6fAtl7y7/XaerosWorldMap_1.33.0_Forge_1.19.4.jar",
+					"version": "6fAtl7y7"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IO0epD4H/XaerosWorldMap_1.33.0_Fabric_1.19.4.jar",
+					"version": "IO0epD4H"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/x3Hz1Rw3/XaerosWorldMap_1.33.0_Forge_1.19.3.jar",
+					"version": "x3Hz1Rw3"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/GnVgI8Tc/XaerosWorldMap_1.33.0_Fabric_1.19.3.jar",
+					"version": "GnVgI8Tc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UK6zITLD/XaerosWorldMap_1.33.0_Forge_1.19.1.jar",
+					"version": "UK6zITLD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nWD5LilR/XaerosWorldMap_1.33.0_Fabric_1.19.1.jar",
+					"version": "nWD5LilR"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ky1LwLZC/XaerosWorldMap_1.33.0_Forge_1.18.2.jar",
+					"version": "ky1LwLZC"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4qJUjLux/XaerosWorldMap_1.33.0_Fabric_1.18.2.jar",
+					"version": "4qJUjLux"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vyF7iBYu/XaerosWorldMap_1.33.0_Forge_1.17.1.jar",
+					"version": "vyF7iBYu"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/o5C0YrDg/XaerosWorldMap_1.33.0_Fabric_1.17.1.jar",
+					"version": "o5C0YrDg"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/H401c3Kn/XaerosWorldMap_1.33.0_Forge_1.16.5.jar",
+					"version": "H401c3Kn"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/cHNqHQ7K/XaerosWorldMap_1.33.0_Fabric_1.16.5.jar",
+					"version": "cHNqHQ7K"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/VSR9iCm0/XaerosWorldMap_1.29.12_Forge_1.15.2.jar",
+					"version": "VSR9iCm0"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rxl7TQQN/XaerosWorldMap_1.29.12_Forge_1.14.4.jar",
+					"version": "rxl7TQQN"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/haB4dNPc/XaerosWorldMap_1.33.0_Forge_1.12.jar",
+					"version": "haB4dNPc"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wgv5h06j/XaerosWorldMap_1.14.1.28_Forge_1.8.9.jar",
+					"version": "wgv5h06j"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/h3VxD6Wb/XaerosWorldMap_1.14.1.28_Forge_1.7.10.jar",
+					"version": "h3VxD6Wb"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zQO1LQVm/XaerosWorldMap_1.32.0_Forge_1.20.jar",
+					"version": "zQO1LQVm"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/RBZYvZJ4/XaerosWorldMap_1.32.0_Fabric_1.20.jar",
+					"version": "RBZYvZJ4"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/YdjlQoKs/XaerosWorldMap_1.32.0_Forge_1.19.4.jar",
+					"version": "YdjlQoKs"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/d44dMHzw/XaerosWorldMap_1.32.0_Fabric_1.19.4.jar",
+					"version": "d44dMHzw"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rdajsfZG/XaerosWorldMap_1.32.0_Forge_1.19.3.jar",
+					"version": "rdajsfZG"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/m1xFZhrl/XaerosWorldMap_1.32.0_Fabric_1.19.3.jar",
+					"version": "m1xFZhrl"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/G0OJfwAN/XaerosWorldMap_1.32.0_Forge_1.19.1.jar",
+					"version": "G0OJfwAN"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/FX41W6zb/XaerosWorldMap_1.32.0_Fabric_1.19.1.jar",
+					"version": "FX41W6zb"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/DaJpdk7q/XaerosWorldMap_1.32.0_Forge_1.18.2.jar",
+					"version": "DaJpdk7q"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svlAeqb1/XaerosWorldMap_1.32.0_Fabric_1.18.2.jar",
+					"version": "svlAeqb1"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/F8rp5v60/XaerosWorldMap_1.32.0_Forge_1.17.1.jar",
+					"version": "F8rp5v60"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/lxyt26N7/XaerosWorldMap_1.32.0_Fabric_1.17.1.jar",
+					"version": "lxyt26N7"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/X8DXecL3/XaerosWorldMap_1.32.0_Forge_1.16.5.jar",
+					"version": "X8DXecL3"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4uIcYzMT/XaerosWorldMap_1.32.0_Fabric_1.16.5.jar",
+					"version": "4uIcYzMT"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ZRTN6l4r/XaerosWorldMap_1.29.11_Forge_1.15.2.jar",
+					"version": "ZRTN6l4r"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/JGA2cBTv/XaerosWorldMap_1.29.11_Forge_1.14.4.jar",
+					"version": "JGA2cBTv"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/1CrVR9hT/XaerosWorldMap_1.32.0_Forge_1.12.jar",
+					"version": "1CrVR9hT"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/FKfWhnDZ/XaerosWorldMap_1.14.1.27_Forge_1.8.9.jar",
+					"version": "FKfWhnDZ"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/BEDFycdT/XaerosWorldMap_1.14.1.27_Forge_1.7.10.jar",
+					"version": "BEDFycdT"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5VvnuOEf/XaerosWorldMap_1.31.0_Forge_1.20.jar",
+					"version": "5VvnuOEf"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hZzMR1av/XaerosWorldMap_1.31.0_Fabric_1.20.jar",
+					"version": "hZzMR1av"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UmvLwPCn/XaerosWorldMap_1.31.0_Forge_1.19.4.jar",
+					"version": "UmvLwPCn"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IbQ6bv6m/XaerosWorldMap_1.31.0_Fabric_1.19.4.jar",
+					"version": "IbQ6bv6m"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8THHR0Ih/XaerosWorldMap_1.31.0_Forge_1.19.3.jar",
+					"version": "8THHR0Ih"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zWRFHFoD/XaerosWorldMap_1.31.0_Fabric_1.19.3.jar",
+					"version": "zWRFHFoD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/TKPBR9FG/XaerosWorldMap_1.31.0_Forge_1.19.1.jar",
+					"version": "TKPBR9FG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/st6Yi8FJ/XaerosWorldMap_1.31.0_Fabric_1.19.1.jar",
+					"version": "st6Yi8FJ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yQ4ly7jG/XaerosWorldMap_1.31.0_Forge_1.18.2.jar",
+					"version": "yQ4ly7jG"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bkG41Vbj/XaerosWorldMap_1.31.0_Fabric_1.18.2.jar",
+					"version": "bkG41Vbj"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KWSdBt0q/XaerosWorldMap_1.31.0_Forge_1.17.1.jar",
+					"version": "KWSdBt0q"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rIiXRyJC/XaerosWorldMap_1.31.0_Fabric_1.17.1.jar",
+					"version": "rIiXRyJC"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/lKakfRVC/XaerosWorldMap_1.31.0_Forge_1.16.5.jar",
+					"version": "lKakfRVC"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/3fqf56PV/XaerosWorldMap_1.31.0_Fabric_1.16.5.jar",
+					"version": "3fqf56PV"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/WiGXwduw/XaerosWorldMap_1.31.0_Forge_1.12.jar",
+					"version": "WiGXwduw"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QWYwBuvt/XaerosWorldMap_1.30.6_Forge_1.20.jar",
+					"version": "QWYwBuvt"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/J5hmblFo/XaerosWorldMap_1.30.6_Fabric_1.20.jar",
+					"version": "J5hmblFo"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/WGbmlzYS/XaerosWorldMap_1.30.6_Forge_1.19.4.jar",
+					"version": "WGbmlzYS"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/tT8MXEmG/XaerosWorldMap_1.30.6_Fabric_1.19.4.jar",
+					"version": "tT8MXEmG"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/jSmDzqpB/XaerosWorldMap_1.30.6_Forge_1.19.3.jar",
+					"version": "jSmDzqpB"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/mIAzcHM5/XaerosWorldMap_1.30.6_Fabric_1.19.3.jar",
+					"version": "mIAzcHM5"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ikX4JmdG/XaerosWorldMap_1.30.6_Forge_1.19.1.jar",
+					"version": "ikX4JmdG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ZZRvmbyH/XaerosWorldMap_1.30.6_Fabric_1.19.1.jar",
+					"version": "ZZRvmbyH"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/u81MmI6X/XaerosWorldMap_1.30.6_Forge_1.18.2.jar",
+					"version": "u81MmI6X"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/3nAnz7eN/XaerosWorldMap_1.30.6_Fabric_1.18.2.jar",
+					"version": "3nAnz7eN"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/l7jJ8edR/XaerosWorldMap_1.30.5_Forge_1.20.jar",
+					"version": "l7jJ8edR"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/jZqjpEV5/XaerosWorldMap_1.30.5_Fabric_1.20.jar",
+					"version": "jZqjpEV5"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/tCkajzyq/XaerosWorldMap_1.30.5_Forge_1.19.4.jar",
+					"version": "tCkajzyq"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KWRX7go3/XaerosWorldMap_1.30.5_Fabric_1.19.4.jar",
+					"version": "KWRX7go3"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/L388v7RA/XaerosWorldMap_1.30.5_Forge_1.19.3.jar",
+					"version": "L388v7RA"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SgTgAga6/XaerosWorldMap_1.30.5_Fabric_1.19.3.jar",
+					"version": "SgTgAga6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/dkhcYs7u/XaerosWorldMap_1.30.5_Forge_1.19.1.jar",
+					"version": "dkhcYs7u"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wFjQVyYW/XaerosWorldMap_1.30.5_Fabric_1.19.1.jar",
+					"version": "wFjQVyYW"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/L7CkxPe9/XaerosWorldMap_1.30.5_Forge_1.18.2.jar",
+					"version": "L7CkxPe9"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9YZGdfjd/XaerosWorldMap_1.30.5_Fabric_1.18.2.jar",
+					"version": "9YZGdfjd"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ZmnidKjr/XaerosWorldMap_1.30.5_Forge_1.17.1.jar",
+					"version": "ZmnidKjr"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ka6W06WC/XaerosWorldMap_1.30.5_Fabric_1.17.1.jar",
+					"version": "ka6W06WC"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/k2nQBeEG/XaerosWorldMap_1.30.5_Forge_1.16.5.jar",
+					"version": "k2nQBeEG"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qSeRup3d/XaerosWorldMap_1.30.5_Fabric_1.16.5.jar",
+					"version": "qSeRup3d"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/owGOq3Vv/XaerosWorldMap_1.29.10_Forge_1.15.2.jar",
+					"version": "owGOq3Vv"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ulDBKKjw/XaerosWorldMap_1.29.10_Forge_1.14.4.jar",
+					"version": "ulDBKKjw"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yCMEGaHO/XaerosWorldMap_1.30.5_Forge_1.12.jar",
+					"version": "yCMEGaHO"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/7jQ7gDOY/XaerosWorldMap_1.14.1.26_Forge_1.8.9.jar",
+					"version": "7jQ7gDOY"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/S8ykUljl/XaerosWorldMap_1.14.1.26_Forge_1.7.10.jar",
+					"version": "S8ykUljl"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/uB3mOur8/XaerosWorldMap_1.30.4_Forge_1.20.jar",
+					"version": "uB3mOur8"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rCAbt1s2/XaerosWorldMap_1.30.4_Fabric_1.20.jar",
+					"version": "rCAbt1s2"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/S9UoAZsm/XaerosWorldMap_1.30.3_Forge_1.20.jar",
+					"version": "S9UoAZsm"
+				},
+				{
+					"minecraft_versions": [
+						"1.20-rc1",
+						"1.20"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/oOy5ndJf/XaerosWorldMap_1.30.3_Fabric_1.20.jar",
+					"version": "oOy5ndJf"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/tpVsp7bd/XaerosWorldMap_1.30.3_Forge_1.19.4.jar",
+					"version": "tpVsp7bd"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/16lBdJRZ/XaerosWorldMap_1.30.3_Fabric_1.19.4.jar",
+					"version": "16lBdJRZ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/pt74IfTL/XaerosWorldMap_1.30.3_Forge_1.19.3.jar",
+					"version": "pt74IfTL"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/LKz8LFts/XaerosWorldMap_1.30.3_Fabric_1.19.3.jar",
+					"version": "LKz8LFts"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/AuVUfdfe/XaerosWorldMap_1.30.3_Forge_1.19.1.jar",
+					"version": "AuVUfdfe"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xrQzeBh0/XaerosWorldMap_1.30.3_Fabric_1.19.1.jar",
+					"version": "xrQzeBh0"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/JVLFrAlD/XaerosWorldMap_1.30.3_Forge_1.18.2.jar",
+					"version": "JVLFrAlD"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/2CLZEyLl/XaerosWorldMap_1.30.3_Fabric_1.18.2.jar",
+					"version": "2CLZEyLl"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/E41Rgx07/XaerosWorldMap_1.30.3_Forge_1.17.1.jar",
+					"version": "E41Rgx07"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IYdHD4ew/XaerosWorldMap_1.30.3_Fabric_1.17.1.jar",
+					"version": "IYdHD4ew"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/YuRNFnq7/XaerosWorldMap_1.30.3_Forge_1.16.5.jar",
+					"version": "YuRNFnq7"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vhVUuszi/XaerosWorldMap_1.30.3_Fabric_1.16.5.jar",
+					"version": "vhVUuszi"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/tgCUTXi6/XaerosWorldMap_1.29.9_Forge_1.15.2.jar",
+					"version": "tgCUTXi6"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zmckWzCk/XaerosWorldMap_1.29.9_Forge_1.14.4.jar",
+					"version": "zmckWzCk"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/maJOw1H4/XaerosWorldMap_1.30.3_Forge_1.12.jar",
+					"version": "maJOw1H4"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UuHzKSkv/XaerosWorldMap_1.14.1.25_Forge_1.8.9.jar",
+					"version": "UuHzKSkv"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/pMIMCf1G/XaerosWorldMap_1.14.1.25_Forge_1.7.10.jar",
+					"version": "pMIMCf1G"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/U63RC8MZ/XaerosWorldMap_1.30.2_Forge_1.19.4.jar",
+					"version": "U63RC8MZ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/kIscoBGn/XaerosWorldMap_1.30.2_Fabric_1.19.4.jar",
+					"version": "kIscoBGn"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4tuhFGgl/XaerosWorldMap_1.30.2_Forge_1.19.3.jar",
+					"version": "4tuhFGgl"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yTrargyD/XaerosWorldMap_1.30.2_Fabric_1.19.3.jar",
+					"version": "yTrargyD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vaunHDVN/XaerosWorldMap_1.30.2_Forge_1.19.1.jar",
+					"version": "vaunHDVN"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/lSgnePcA/XaerosWorldMap_1.30.2_Fabric_1.19.1.jar",
+					"version": "lSgnePcA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/lobkeTkB/XaerosWorldMap_1.30.2_Forge_1.18.2.jar",
+					"version": "lobkeTkB"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/tsUJqXDi/XaerosWorldMap_1.30.2_Fabric_1.18.2.jar",
+					"version": "tsUJqXDi"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/JPclNzVu/XaerosWorldMap_1.30.2_Forge_1.17.1.jar",
+					"version": "JPclNzVu"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qPxvfkdp/XaerosWorldMap_1.30.2_Fabric_1.17.1.jar",
+					"version": "qPxvfkdp"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/jugM0Ovw/XaerosWorldMap_1.30.2_Forge_1.16.5.jar",
+					"version": "jugM0Ovw"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/f4lwNpJy/XaerosWorldMap_1.30.2_Fabric_1.16.5.jar",
+					"version": "f4lwNpJy"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9eIlzDjA/XaerosWorldMap_1.29.8_Forge_1.15.2.jar",
+					"version": "9eIlzDjA"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UWmPDmNV/XaerosWorldMap_1.29.8_Forge_1.14.4.jar",
+					"version": "UWmPDmNV"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/GnQS252L/XaerosWorldMap_1.30.2_Forge_1.12.jar",
+					"version": "GnQS252L"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nTYOCaJr/XaerosWorldMap_1.30.1_Forge_1.19.4.jar",
+					"version": "nTYOCaJr"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UsAkUS2z/XaerosWorldMap_1.30.1_Fabric_1.19.4.jar",
+					"version": "UsAkUS2z"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/F5Gr1zAz/XaerosWorldMap_1.30.1_Forge_1.19.3.jar",
+					"version": "F5Gr1zAz"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/YSvtDiDJ/XaerosWorldMap_1.30.1_Fabric_1.19.3.jar",
+					"version": "YSvtDiDJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Hwoxn6jb/XaerosWorldMap_1.30.1_Forge_1.19.1.jar",
+					"version": "Hwoxn6jb"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Tfe1ecMx/XaerosWorldMap_1.30.1_Fabric_1.19.1.jar",
+					"version": "Tfe1ecMx"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vhY17uSv/XaerosWorldMap_1.30.1_Forge_1.18.2.jar",
+					"version": "vhY17uSv"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/OWbYG8pN/XaerosWorldMap_1.30.1_Fabric_1.18.2.jar",
+					"version": "OWbYG8pN"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/iRRYeaXC/XaerosWorldMap_1.30.1_Forge_1.17.1.jar",
+					"version": "iRRYeaXC"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6YRIXrfW/XaerosWorldMap_1.30.1_Fabric_1.17.1.jar",
+					"version": "6YRIXrfW"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qYCKTHyZ/XaerosWorldMap_1.30.1_Forge_1.16.5.jar",
+					"version": "qYCKTHyZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/eIXI4OHk/XaerosWorldMap_1.30.1_Fabric_1.16.5.jar",
+					"version": "eIXI4OHk"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KK99goJD/XaerosWorldMap_1.29.7_Forge_1.15.2.jar",
+					"version": "KK99goJD"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/WHjpeO1f/XaerosWorldMap_1.29.7_Forge_1.14.4.jar",
+					"version": "WHjpeO1f"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/j8XCNctd/XaerosWorldMap_1.30.1_Forge_1.12.jar",
+					"version": "j8XCNctd"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wVJY9O6J/XaerosWorldMap_1.14.1.24_Forge_1.8.9.jar",
+					"version": "wVJY9O6J"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/tfnnfyhI/XaerosWorldMap_1.14.1.24_Forge_1.7.10.jar",
+					"version": "tfnnfyhI"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/gkVIeUFw/XaerosWorldMap_1.30.0_Forge_1.19.4.jar",
+					"version": "gkVIeUFw"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/PrBF6EyY/XaerosWorldMap_1.30.0_Fabric_1.19.4.jar",
+					"version": "PrBF6EyY"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/g3VW8AT2/XaerosWorldMap_1.30.0_Forge_1.19.3.jar",
+					"version": "g3VW8AT2"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zjxfdYdF/XaerosWorldMap_1.30.0_Fabric_1.19.3.jar",
+					"version": "zjxfdYdF"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/p3dZW7fr/XaerosWorldMap_1.30.0_Forge_1.19.1.jar",
+					"version": "p3dZW7fr"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/gyPsXrJn/XaerosWorldMap_1.30.0_Fabric_1.19.1.jar",
+					"version": "gyPsXrJn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xTm3FQw4/XaerosWorldMap_1.30.0_Forge_1.18.2.jar",
+					"version": "xTm3FQw4"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wSGK3o4I/XaerosWorldMap_1.30.0_Fabric_1.18.2.jar",
+					"version": "wSGK3o4I"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/EDmj5NvH/XaerosWorldMap_1.30.0_Forge_1.17.1.jar",
+					"version": "EDmj5NvH"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XAQBPZpW/XaerosWorldMap_1.30.0_Fabric_1.17.1.jar",
+					"version": "XAQBPZpW"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SEkYCdVo/XaerosWorldMap_1.30.0_Forge_1.16.5.jar",
+					"version": "SEkYCdVo"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8jDTpHjY/XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
+					"version": "8jDTpHjY"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rvZ5A3tX/XaerosWorldMap_1.29.6_Forge_1.15.2.jar",
+					"version": "rvZ5A3tX"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XVjzdnhG/XaerosWorldMap_1.29.6_Forge_1.14.4.jar",
+					"version": "XVjzdnhG"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/WxlvhTaW/XaerosWorldMap_1.30.0_Forge_1.12.jar",
+					"version": "WxlvhTaW"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5uRQHkZl/XaerosWorldMap_1.14.1.23_Forge_1.8.9.jar",
+					"version": "5uRQHkZl"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/sjR1qU6w/XaerosWorldMap_1.14.1.23_Forge_1.7.10.jar",
+					"version": "sjR1qU6w"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"thexaero"
+		],
+		"description": "Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/NcUtCpym/80eb00784e250b99fb1789da35869387d14d5637.png",
+		"issues": "https://curseforge.com/minecraft/mc-mods/xaeros-world-map/issues",
+		"keywords": [
+			"map"
+		],
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "<p><img src=\"https://chocolateminecraft.com/images/worldmapbanner.png\" width=\"965\" height=\"643\" /></p>\n\n### Do not use XaeroPlus with this mod! It is not affiliated with me and causes critical untrackable bugs/crashes.\n\n<p>Xaero's World Map mod adds a self-writing fullscreen map to your Minecraft client. Works as a separate mod but is a lot better with Xaero's Minimap. The reason why it's available separately is to keep Xaero's Minimap as light-weight as possible. <strong>This mod is mostly client-sided. Installing it on the server side is optional for some additional features like world identification.</strong></p>\n<p>The mod is still in development! Please report any bugs that you encounter or otherwise they probably won't get fixed.&nbsp;</p>\n<p><strong>Make sure your world is optimized (<em>Singleplayer - Edit - Optimize World</em>) for the Minecraft version you're playing (repeat after every Minecraft update). It takes A LOT longer to generate singleplayer maps from unoptimized world saves.</strong></p>\n\n### Follow me on Mastodon (Twitter alternative)?&nbsp;<a href=\"https://mas.to/@xaero96\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">mas.to/@xaero96</a>\n\n### Support me on Patreon?&nbsp;<a href=\"https://bit.ly/PatreonXaero96\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span style=\"text-decoration: underline;\">patreon.com/xaero96</span></a>\n\n<p>Thank you!</p>\n\n### Features\n\n<ul>\n<li>A self-writing world map (as opposed to manual paper maps). You can create multiple maps on the same server address and switch between them either manually or automatically.</li>\n<li>Works in Singleplayer, Multiplayer and on Realms.</li>\n<li>Intuitive interface. Open the map screen by&nbsp;<strong class=\"bbc\">pressing M</strong>. Move the map around with your mouse and zoom in/out using the&nbsp;<strong class=\"bbc\">mouse wheel</strong>, similar to Google Maps. All relevant controls are listed in a tooltip on the map screen and you can customize a lot of them.</li>\n<li>Optional automatic multiple world detection on servers.</li>\n<li>Displays chunk claims and ally players from the <a href=\"https://modrinth.com/mod/open-parties-and-claims\" target=\"_blank\" rel=\"noopener noreferrer\">Open Parties and Claims</a> mod. Lets you claim or forceload chunks directly from the map.</li>\n<li>Resource pack support. Changing the resource packs causes the whole world map to regenerate.</li>\n<li>Cave dimensions support (for example the Nether).</li>\n<li>Optional vanilla maps mode, which makes the world map look like the vanilla paper maps.</li>\n<li>Terrain shading customization.</li>\n<li>\"Footsteps\" that show you your most recent path taken.</li>\n<li>Settings that can help improve the performance of the mod when necessary. Although in most cases the mod should perform great by default.</li>\n<li><a href=\"https://modrinth.com/mod/xaeros-minimap\" target=\"_blank\" rel=\"noopener noreferrer\">Xaero's Minimap</a>&nbsp;integration. The minimap mod will display chunks provided by the world map. The world map mod will display waypoints from the Xaero's Minimap mod. Also works with the&nbsp;<a href=\"https://www.planetminecraft.com/mod/164-better-pvp-v10/\" target=\"_blank\" rel=\"noopener noreferrer\">Better PVP mod</a>. You can create, edit and&nbsp;<strong class=\"bbc\">teleport to the waypoints</strong>&nbsp;without leaving the map interface.</li>\n<li>Potion effects to control the usage of the world map for the players on your server/map. The following potion effects exist as of writing this:&nbsp;<em class=\"bbc\">xaeroworldmap:no_world_map.&nbsp;</em>The effects are of the neutral type by default, but you can also specify a harmful type by appending&nbsp;<em class=\"bbc\">_harmful</em>&nbsp;to the end of the effect ID, for example&nbsp;<em class=\"bbc\">xaeroworldmap:no_world_map_harmful</em>.</li>\n<li><strong class=\"bbc\">Since version 1.14.0</strong>&nbsp;of the mod, you can open an on-map waypoint menu by clicking the icon in the bottom right corner of the map screen. In the waypoint menu, you can see a list of all your map waypoints from the rendered sets, interact with them with the mouse cursor, filter them by name in a text field. The menu also lets you toggle the visibility of disabled waypoints, toggle rendering all sets and change the current waypoint set. Hovering over the waypoints in the menu also acts as hovering over them on the map: they are highlighted on the map and you can use the right-click or hover controls to interact with them.</li>\n<li>An option to export a map as a PNG image file. The mod tries to export the whole map, so it might not work, if the map is millions of blocks in length. I'm planning to give more options for exporting the map in the future!</li>\n<li>Option to limit your map access by binding it to an item required in your hotbar or to be equipped. For example, add&nbsp;<em>mapItemId:minecraft:compass&nbsp;</em>anywhere in the config file to bind it to the compass item. This way the map will not work unless you have the compass in your hotbar or equipped.&nbsp;</li>\n</ul>\n<p><a href=\"https://modrinth.com/mod/xaeros-minimap\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"font-size: 24px; text-decoration: underline;\">Get Xaero's Minimap</span></a></p>\n\n## FAQ\n\n### How do I restore pre 1.30 update Nether maps in multiplayer to be displayed in the \"full\" cave mode type?\n\n<p>First, exit the server and locate the Minecraft game directory that you're using to play on the server. In the game directory, go into&nbsp;<em>XaeroWorldMap/Multiplayer_[server_address]/DIM-1/[map_folder]</em>. If such doesn't exist already, create a folder called \"<strong>caves</strong>\", without the quotation marks, and go into it. Inside the caves folder, create a folder called \"<strong>-2147483648</strong>\", without the quotation marks, if such doesn't exist already. Go back into the folder that contains the \"<strong>caves</strong>\" folder and move all \"<strong>.zip</strong>\" files to the&nbsp;<strong><em>caves/-2147483648</em></strong>&nbsp;folder. Feel free to delete the cache folders or also move them with the \"<strong>.zip</strong>\" files.</p>\n\n### How do I set up cave mode to behave like it used to pre 1.30 before cave mode was introduced?\n\n<p>You can fully achieve this only when using the normal version of the minimap or no minimap at all. The fair-play version of the minimap now disables world map cave mode in the Nether and you can't toggle that, so it won't be exactly like it used to be.</p>\n<p>If you have Nether map data from before 1.30, please start by moving it in the correct folder as explained under \"<em>How do I restore pre 1.30 update Nether maps in multiplayer to be displayed in the \"full\" cave mode type?</em>\" on this page.<br />After you're done with that, join a world/server and open the world map settings. Locate \"Default Cave Mode Type\" and set it to OFF and then set \"Legible Cave Maps\" to ON. Next, open the world map screen and click the cave icon in the bottom left of the screen. In the menu that opens, set the \"Cave Mode Top Y\" to absolutely any number. If you are in the overworld, set the \"Cave Mode Type\" to OFF. When you are in the Nether later, set&nbsp;\"Cave Mode Type\" to Full. The cave mode type is stored per dimension, so you can set it to Full for any nether-like dimension and keep it on OFF for anything else. You can also switch between displaying below and above bedrock roof by toggling it.</p>\n\n### Why does right-click teleportation not work for me?\n\nThe mod sends a chat command to teleport you to specific coordinates, which is _/tp @s x y z_ by default, so appropriate permission is necessary. The vanilla /tp command requires OP status (cheats enabled) but it's possible to have separate permissions for commands on a non-vanilla server with certain plugins installed. The used command can be changed in the world map settings with \"Map Teleport Command\". Non-vanilla teleportation commands often don't support the selectors such as @s, so you might have to remove it from the configured command. There is also an option called \"Player Teleport Command\" which is used when you right click tracked players (e.g. your party from Open Parties and Claims). Teleportation to waypoints uses its own setting in the minimap mod. You can read about it on the minimap description page under FAQ.\n\n### How do I discover the map without manually walking?\n\n<p>In singleplayer, the map is loaded directly from the world save. This means that you can pregenerate the world using whatever tools you prefer, relog and use the \"Reload Regions\" option in the world map settings to fix any conflicts in the map cache. In multiplayer, it isn't as simple. However, if you can download the server world save and enter the world in singleplayer, then you can pregenerate the world using a method of your choice, relog and then use the \"Convert All Regions\" in the world map settings to convert the whole world save to a multiplayer-compatible map instance saved to <i>XaeroWorldMap->World->null->cm$converted</i>. You can copy/move that map instance folder to your server map instances in the XaeroWorldMap folder.</p>\n\n### Why are multiple worlds on the same server address/IP using and writing to the same map?\n\n<p>This mod lets you have multiple maps on the same server address. You can freely switch between maps and create new ones at any time. Map overwriting can be prevented by choosing the right \"Map Selection\" mode for the type of server that you are playing on. Map selection is done in a special menu by clicking the bottom left icon on the world map screen (if the menu isn't open by default). In the menu you can switch between <em>Manual</em>, <em>World Spawn</em> and <em>Single</em> modes and select/create maps by using the top-center dropdown menu. If you hover over the <em>Map Selection</em> option, you can read everything you need to know about each map selection mode, including <em>Server</em> mode. <em>World Spawn </em>mode is the equivalent of what was used by the world map pre 1.6. So you don't have to downgrade the mod to still use it. <em>Server&nbsp;</em>mode is the best option for most cases because the server automatically controls your map selection based on server-side level IDs. It requires the mod to be installed on the server side. If changing the map selection mode switches your map to an empty one, you can always rebind the map that you want to be used by selecting it from the dropdown menu and confirming.&nbsp;</p>\n\n### Why does the world map ask for confirmation?\n\n<p>A single server address can have multiple overworlds, nethers etc. It can be due to multiple sub-servers or just multiple world saves, for example a \"Lobby\" world and a \"Game\" world. Different worlds don't have any unique identifiers on the client side, which makes it impossible to reliably differentiate between them. Because of this, the world map mod lets you have multiple world maps for each dimension on the same server address. In older mod versions, by default, map selection is <em>Manual</em>, which means that you are asked to confirm which map to use every time you switch dimensions/worlds/sub-servers. You can also choose one of the 2 automatic modes. Map selection is done in a special menu by clicking the bottom left icon on the world map screen (if the menu isn't open by default). In the menu you can switch between <em>Manual</em>, <em>World Spawn</em> and <em>Single</em> modes and select/create maps by using the top-center dropdown menu. If you hover over the <em>Map Selection</em> option, you can read everything you need to know about each map selection mode, including <em>Server</em> mode. <em>World Spawn </em>mode is the equivalent of what was used by the world map pre 1.6. So you <span style=\"text-decoration: underline;\">don't</span> have to downgrade the mod to still use it. <em>Server&nbsp;</em>mode is the best option for most cases because the server automatically controls your map selection based on server-side level IDs. It requires the mod to be installed on the server side. If changing the map selection mode switches your map to an empty one, you can always rebind the map that you want to be used by selecting it from the dropdown menu and confirming.&nbsp;</p>\n\n### Why can't I see my minimap waypoints on a server after the installation of the world map?\n\n<p>Your currently confirmed map affects which waypoints sub-world in the minimap mod is considered automatic. This allows each created map to have separate waypoints data. At any point in time, you can select and view any non-automatic waypoints sub-world by going to the waypoints menu (press U) and selecting it from top-right dropdown menu. You can make any sub-world automatic for your currently confirmed map by selecting <em>Options -&gt; Make Sub-World Auto</em>.</p>\n\n### Why has my world map \"reset\" for a specific server?\n\n<p>Do not panic. It's almost certainly not actually deleted. Old world map versions use a world spawn-based system to separate a server into multiple maps. This system often breaks because of servers adding custom functionality to the vanilla compass item by sending fake world spawn coordinates to your game client.&nbsp;<strong class=\"bbc\">Make sure you update the mod to the latest version.</strong>&nbsp;There are now multiple map selection modes you can choose between,&nbsp;<em class=\"bbc\">Manual</em>&nbsp;being the default one. You can now view any world map you have on the current server address. Click the bottom left icon on the world map to open the map selection menu, if it's not open by default. <strong>The top center dropdown menu allows you to select existing or create new world maps.</strong> You can hover over the map selection mode setting (bottom left) to read about how each mode works. <em>Server </em>mode is the best option for most cases because the server controls your map selection based on server-side level IDs. It requires the mod to be installed on the server side.&nbsp;<em class=\"bbc\">Manual</em>&nbsp;mode is the safest alternative and should work on every other server. There are also 2 additional automatic map selection modes when <em>Server</em> mode isn't an option. Read more about them in the tooltip of the setting.</p>\n<p><u><strong class=\"bbc\"><em class=\"bbc\">Old map is not in the map menu?&nbsp;</em></strong></u>This can mean 2 things: the server address has changed or the dimension IDs have changed.</p>\n<p>Let's start with the&nbsp;<u><strong class=\"bbc\">dimension ID change</strong></u>. Each dimension on the server has a separate directory in the&nbsp;<em class=\"bbc\">game directory -&gt; XaeroWorldMap</em>&nbsp;directory.&nbsp;<strong class=\"bbc\">Please backup the&nbsp;<em class=\"bbc\">XaeroWorldMap</em>&nbsp;directory before you begin doing anything with it.</strong>&nbsp;In older mod versions, the dimension directory name contains the server address and the dimension key, for example&nbsp;<em>XaeroWorldMap/</em><em class=\"bbc\">Multiplayer_127.0.0.1_DIM1</em>. In newer versions the dimension directory is a sub-directory, so something like&nbsp;<em>XaeroWorldMap/</em><em class=\"bbc\">Multiplayer_127.0.0.1/DIM1.</em> For compatibility reasons, default&nbsp;<em class=\"bbc\">overworld, nether and the end</em>&nbsp;dimensions are named&nbsp;<em class=\"bbc\">null, DIM-1 and DIM1</em>. Other dimensions should have their name be based on the original dimension ID, for example&nbsp;<em class=\"bbc\">Multiplayer_127.0.0.1/minecraft$overworld_creative</em>. In 1.16+, you can see your current dimension ID on the&nbsp;<em class=\"bbc\">F3 screen ingame</em>&nbsp;to figure out which directory is meant for which dimension (for example \"minecraft:overworld\").&nbsp;<em class=\"bbc\">Please exit to the game title screen or close the game before editing files/directories.</em><br />Each dimension directory contains sub-directories, one for each map that you have in the dimension (for example&nbsp;<em class=\"bbc\">mw$default</em>&nbsp;or&nbsp;<em class=\"bbc\">mw-4,0,-4</em>) as well as a file named&nbsp;<em class=\"bbc\">dimension_config.txt&nbsp;</em>that contains the actual display names of the maps. You can use the file to help you find a specific map directory that you want. Moving/copying a map directory between dimension directories should move/copy it between dimensions. You can give it a name later ingame.&nbsp;<strong class=\"bbc\"><em class=\"bbc\">The most common case would be&nbsp;</em></strong>something like moving a map from <strong class=\"bbc\"><em class=\"bbc\">/null</em></strong>&nbsp;to <strong class=\"bbc\"><em class=\"bbc\">/minecraft$overworld_survival</em></strong>. It is needed when a 1.16+ server starts using a unique dimension ID for each sub-world.</p>\n<p><u><strong class=\"bbc\">For server address changes</strong></u>, you would first have to remove all directories inside&nbsp;<em class=\"bbc\">game directory -&gt; XaeroWorldMap</em>&nbsp;that contain the new server address. There is usually only 1 such directory if you are using the latest mod version.&nbsp;<strong class=\"bbc\">Please backup the whole&nbsp;<em class=\"bbc\">XaeroWorldMap</em>&nbsp;directory before you do that. Also, exit the game at least to the title screen.&nbsp;</strong>Then you would have to rename each old server address directory (in XaeroWorldMap) to the new address, replacing ONLY the address part.</p>\n<p>Message me or leave a comment if you have questions!</p>\n<p><em class=\"bbc\">Here's the old explanation if you can't update the mod to 1.6.1 or newer:</em></p>\n<div class=\"spoiler\">\n<p>Do not panic. It's almost certainly not actually deleted (this has never happened as far as I know). It's likely caused by a server plugin changing the behavior of the vanilla compass item and interfering with the mod's \"multiworld\" detection. In most such cases the compass item points to your bed instead of the global spawn point. Sleeping in the right bed again should bring everything back for you if sleeping in another one was the cause of the map \"resetting\".<br />If the map \"reset\" because of a new plugin being added (and if removing it is not an option for you), then here's how you can restore your map (and hope the plugin doesn't do it again):</p>\n<p>Make sure Minecraft is&nbsp;<strong class=\"bbc\"><em class=\"bbc\">NOT RUNNING</em></strong>.</p>\n<p>1. Go to the game directory</p>\n<p>2. Go to the&nbsp;<em class=\"bbc\">XaeroWorldMap</em>&nbsp;directory</p>\n<p>3. Find directories that represent the dimensions you have visited on the server. These directories contain the address of the server in their name. The one that ends with&nbsp;<em class=\"bbc\">_null</em>&nbsp;is the overworld,&nbsp;<em class=\"bbc\">_dim-1</em>&nbsp;is Nether etc.</p>\n<p>4. Open the overworld directory (<em class=\"bbc\">_null</em>).</p>\n<p>5. You should see multiple directories that start with&nbsp;<em class=\"bbc\">mw</em>.</p>\n<p>6. Find the one that is the biggest in file size. Copy the name of it somewhere so you don't lose it.</p>\n<p>7. Now find the newest&nbsp;<em class=\"bbc\">mw</em>&nbsp;directory (likely the emptiest or just check the creation date). Move this directory somewhere else.&nbsp;<strong class=\"bbc\">Don't delete it just yet.</strong></p>\n<p>8. Rename the directory from step 6 to the name of the backed up directory from step 7.</p>\n<p>9. Open Minecraft and test if the overworld world map is back.</p>\n<p>10. If it's not, exit Minecraft and restore the old name of the directory that you have renamed + restore the backed up folder. Reread all the steps to make sure you're doing everything right.<br />If overworld is now fixed, proceed to step 11.</p>\n<p>11. Rename and backup the directories with the same names as overworld for every other dimension that you'd like to restore.</p>\n<p><em class=\"bbc\">Contact me if you have questions!</em></p>\n</div>\n\n### Why have my waypoints not restored after restoring the map?\n\n<p>Please read the&nbsp;<em class=\"bbc\">\"Why are my waypoints no longer shown for a specific server?\"</em>&nbsp;section on the&nbsp;<a href=\"https://modrinth.com/mod/xaeros-minimap\" target=\"_blank\" rel=\"noopener noreferrer\">minimap description</a>&nbsp;page. It should cover most cases. Contact me, if it doesn't help.</p>\n\n### How do I prohibit the use of cave mode on my server?\n\n<p>To do that, please install the mod on the server side (requires a Forge/Fabric/Quilt server as of writing this). When you start your server, a new \"common\" config file will be created directly in the server directory (not the world folder). In the config file, you get multiple options that let you disable certain mod features for your players. Changes require a server restart.</p>\n<p>Alternatively, if you have the minimap installed, you can include the following strings in a server/system message sent to players (on login), which do the following:</p>\n<p>(requires minimap to work)&nbsp;<strong>&sect;f&sect;a&sect;i&sect;r&sect;x&sect;a&sect;e&sect;r&sect;o</strong> - causes the minimap to disable cave mode (including world map) and entity radar (fair-play mode)</p>\n<p><strong>&sect;x&sect;a&sect;e&sect;r&sect;o&sect;w&sect;m&sect;n&sect;e&sect;t&sect;h&sect;e&sect;r&sect;i&sect;s&sect;f&sect;a&sect;i&sect;r</strong> - causes world map cave mode to work in the nether despite the minimap being fair-play</p>\n<p><strong>&sect;r&sect;e&sect;s&sect;e&sect;t&sect;x&sect;a&sect;e&sect;r&sect;o</strong> - reset all the system message flags</p>\n\n### How do I let vanilla client players join my server that has the mod installed?\n\n<p>Look for a \"common\" config file directly in your server directory (not the world folder). In the config file, you get multiple options that let you disable certain mod features for your players. One of the options lets you disable the registration of status effects, which is what prevents players from joining. Changes require a server restart. Do the same for the minimap mod.</p>\n<p><span style=\"color: #800080;\"><em><strong>You are allowed to make videos using this mod.</strong></em></span></p>\n<p><span style=\"color: #800080;\"><em><strong>Using it in your modpacks is allowed with the following conditions: </strong></em></span></p>\n<ul>\n<li><span style=\"color: #800080;\"><em><strong><b><i>Only monetization of the modpack through CurseForge or Modrinth is allowed (which includes sponsored links/banners in your modpack description), unless I have given you written permission to monetize it elsewhere. Feel free to private message me about it. I'm more likely to give you permission than not.</i></b></strong></em></span></li>\n<li><span style=\"color: #800080;\"><em><strong>If the modpack is distributed outside of CurseForge and Modrinth, then you must credit me by providing an easily accessible link to one of my official pages for the mod, to the users outside of CurseForge and Modrinth.&nbsp;</strong></em></span></li>\n<li><span style=\"color: #800080;\"><em><strong>The name and/or description of the modpack must not be easily confused with the names/descriptions of my mods.</strong></em></span></li>\n<li><span style=\"color: #800080;\"><em><strong>If I have given you written permission to monetize the modpack outside of CurseForge and Modrinth, then, if I request you to, you must remove monetization outside of CurseForge and Modrinth.&nbsp;</strong></em></span></li>\n</ul>",
+		"name": "Xaero's World Map",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"support_link": "https://www.patreon.com/xaero96"
+	},
+	"properties": {
+		"modrinth_id": "NcUtCpym",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.7.10",
+			"1.8.9",
+			"1.12.2",
+			"1.14.4",
+			"1.15.2",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18.2",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20-rc1",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3-rc1",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
+		]
+	}
+}

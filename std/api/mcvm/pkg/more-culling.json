@@ -1,0 +1,1322 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "sodium"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/yduz8IZo/moreculling-1.20.5-0.25.0.jar",
+					"version": "yduz8IZo"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "sodium"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/dOy4u1kk/moreculling-1.20.5-0.25.0-beta.1.jar",
+					"version": "dOy4u1kk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar",
+					"version": "3m5znPWm"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "more-culling-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/jv96n9er/moreculling-1.20.4-0.21.0.jar",
+					"version": "jv96n9er"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "more-culling-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/A9LKf67q/moreculling-1.19.4-0.17.0.jar",
+					"version": "A9LKf67q"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "more-culling-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/tPdgUkgf/moreculling-1.19.3-0.17.0.jar",
+					"version": "tPdgUkgf"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/5hjaMcPN/moreculling-1.19.1-0.17.0.jar",
+					"version": "5hjaMcPN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.2-1.18/moreculling-1.18.2-0.8.2.jar",
+					"version": "d2OS47y6"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/gZW2FlFT/moreculling-1.20.4-0.23.1.jar",
+					"version": "gZW2FlFT"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/KpriJ15b/moreculling-1.20.4-0.22.1.jar",
+					"version": "KpriJ15b"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/JTsfNvX1/moreculling-1.20.4-0.22.0.jar",
+					"version": "JTsfNvX1"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "more-culling-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/qLO5kLrO/moreculling-1.20.4-0.20.3.jar",
+					"version": "qLO5kLrO"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "more-culling-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/Bu5pCvCn/moreculling-1.20.1-0.19.0.jar",
+					"version": "Bu5pCvCn"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "more-culling-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/BbgZWSfa/moreculling-1.20-0.18.1.jar",
+					"version": "BbgZWSfa"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "more-culling-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ENUmMM2R/moreculling-1.19.3-0.16.0.jar",
+					"version": "ENUmMM2R"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ZVroNexd/moreculling-1.19.1-0.16.0.jar",
+					"version": "ZVroNexd"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/sOIFWpF5/moreculling-1.19.1-0.15.0.jar",
+					"version": "sOIFWpF5"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "more-culling-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/UNJJKrgF/moreculling-1.19.3-0.15.0.jar",
+					"version": "UNJJKrgF"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/9BKFQcLq/moreculling-1.19.1-0.14.0.jar",
+					"version": "9BKFQcLq"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/AbG6tNda/moreculling-1.19.3-0.14.0.jar",
+					"version": "AbG6tNda"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/kC2sSBvg/moreculling-1.19.3-0.13.0.jar",
+					"version": "kC2sSBvg"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/NviTtila/moreculling-1.19.1-0.13.0.jar",
+					"version": "NviTtila"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/95T8vcFd/moreculling-1.19.3-0.12.5.jar",
+					"version": "95T8vcFd"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/6XKdUnE1/moreculling-1.19.1-0.12.5.jar",
+					"version": "6XKdUnE1"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/6xlsq65Y/moreculling-1.19.1-0.12.4.jar",
+					"version": "6xlsq65Y"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/oOrYf7d8/moreculling-1.19.3-0.12.3.jar",
+					"version": "oOrYf7d8"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/dSbEt6xo/moreculling-1.19.1-0.12.3.jar",
+					"version": "dSbEt6xo"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/KWDCdA85/moreculling-1.19.1-0.12.2.jar",
+					"version": "KWDCdA85"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/zBfCFOON/moreculling-1.19.3-0.12.2.jar",
+					"version": "zBfCFOON"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/KtW0ZvNB/moreculling-1.19.3-0.12.1.jar",
+					"version": "KtW0ZvNB"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/BzBSulCD/moreculling-1.19.3-0.12.0.jar",
+					"version": "BzBSulCD"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/g6mKthcL/moreculling-1.19.3-0.11.1.jar",
+					"version": "g6mKthcL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/dMVy7Ytv/moreculling-1.19.1-0.10.1.jar",
+					"version": "dMVy7Ytv"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/cUqay68d/moreculling-1.19.3-0.11.0.jar",
+					"version": "cUqay68d"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.10.0/moreculling-1.19.1-0.10.0.jar",
+					"version": "xO1K8c7X"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.9.1/moreculling-1.19.1-0.9.1.jar",
+					"version": "8XHBUEiZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.9.0/moreculling-1.19.1-0.9.0.jar",
+					"version": "m8mZfvhU"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.2/moreculling-1.19.1-0.8.2.jar",
+					"version": "2eqHJxYv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.1/moreculling-1.19.1-0.8.1.jar",
+					"version": "rfjlSVxg"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.0/moreculling-1.19.1-0.8.0.jar",
+					"version": "dwBNCszT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.7.0/moreculling-1.19.1-0.7.0.jar",
+					"version": "ExS3Q7fZ"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.6.1/moreculling-1.19-0.6.1.jar",
+					"version": "AjCb2RSK"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.6.0/moreculling-1.19-0.6.0.jar",
+					"version": "wnoTuNqB"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.6.0-pre1/moreculling-1.19-0.6.0-pre.jar",
+					"version": "PIwVPkdg"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.5.2/moreculling-1.19-0.5.2.jar",
+					"version": "70vJPSHi"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.5.1/moreculling-1.19-0.5.1.jar",
+					"version": "4E7NgIC3"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.2.0-1.18/moreculling-1.18.2-0.2.0-alpha.jar",
+					"version": "OyWEPEC1"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "lithium"
+							},
+							{
+								"value": "memory-leak-fix"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.5.0/moreculling-1.19-0.5.0.jar",
+					"version": "1zTV5NFG"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.4.0/moreculling-1.19-0.4.0.jar",
+					"version": "EUOCxrzr"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.3.0/moreculling-1.19-0.3.0-alpha.jar",
+					"version": "jSOdwPjm"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.2.0/moreculling-1.19-0.2.0-alpha.jar",
+					"version": "BISqTb5V"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.1.4/moreculling-1.18.2-0.1.4-alpha.jar",
+					"version": "uEub6pxk"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.1.3/moreculling-1.18.2-0.1.3-alpha.jar",
+					"version": "rk6iCKkw"
+				},
+				{
+					"minecraft_versions": [
+						"21w37a",
+						"21w38a",
+						"21w39a",
+						"21w40a",
+						"21w41a",
+						"21w42a",
+						"21w43a",
+						"21w44a",
+						"1.18-pre1",
+						"1.18-pre2",
+						"1.18-pre3",
+						"1.18-pre4",
+						"1.18-pre5",
+						"1.18-pre6",
+						"1.18-pre7",
+						"1.18-pre8",
+						"1.18-rc1",
+						"1.18-rc2",
+						"1.18-rc3",
+						"1.18-rc4",
+						"1.18",
+						"1.18.1-pre1",
+						"1.18.1-rc1",
+						"1.18.1-rc2",
+						"1.18.1-rc3",
+						"1.18.1",
+						"22w03a",
+						"22w05a",
+						"22w06a",
+						"22w07a",
+						"1.18.2-pre1",
+						"1.18.2-pre2",
+						"1.18.2-pre3",
+						"1.18.2-rc1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.1.2/moreculling-1.18.2-0.1.2.jar",
+					"version": "kyoVWOaa"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/0.1.0/moreculling-1.18.2-0.1.0.jar",
+					"version": "bey0UTtY"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"FX"
+		],
+		"banner": "https://cdn.modrinth.com/data/51shyZVL/images/de0105f432d0eafe919947cca1d2164e37f419dc.png",
+		"community": "https://discord.gg/SGFDrvA",
+		"description": "A mod that changes how multiple types of culling are handled in order to improve performance",
+		"documentation": "https://github.com/FxMorin/MoreCulling/wiki",
+		"gallery": [
+			"https://cdn.modrinth.com/data/51shyZVL/images/0bf9a362086fc489a48c89aa97ece4ba3000f53f.png",
+			"https://cdn.modrinth.com/data/51shyZVL/images/de0105f432d0eafe919947cca1d2164e37f419dc.png",
+			"https://cdn.modrinth.com/data/51shyZVL/images/80416ac9e448a2294495ca7fb7a6c73a30da4fc8.png",
+			"https://cdn.modrinth.com/data/51shyZVL/images/42e59fb7f64f4d245ef51d7f0558d38181546681.png",
+			"https://cdn.modrinth.com/data/51shyZVL/images/5b04f844772888ac9632e87871fb87df2f0cffa7.png",
+			"https://cdn.modrinth.com/data/51shyZVL/images/e316e1e85fe19c21537b52a83c625633e5b8fda0.png",
+			"https://cdn.modrinth.com/data/51shyZVL/images/0a5458389b727e1dc63deaee4d05cdeb6fb6c8b1.png",
+			"https://cdn.modrinth.com/data/51shyZVL/images/5f091062f41295ab85da2324357071c04cf57231.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/51shyZVL/icon.png",
+		"issues": "https://github.com/fxmorin/moreculling/issues",
+		"keywords": [
+			"graphics"
+		],
+		"license": "LGPL-2.1-only",
+		"long_description": "# More Culling  \n### A mod that changes how multiple types of culling are handled in order to improve performance\nCulling is when you don't render things that the player can't see, to improve performance\n\nRequires Cloth Config!\n  \n**Make sure to report any bugs [here](https://github.com/fxmorin/moreculling/issues)!** \n\n**Discord Server:** [https://discord.gg/SGFDrvA](https://discord.gg/SGFDrvA)  \n  \n**Head over to the [wiki](https://github.com/fxmorin/MoreCulling/wiki) for information on:**   \nWhat's Culled, Performance, Compatibility, Bug Fixes, and more!  \n\nCheck out [MoreCullingExtra](https://modrinth.com/mod/morecullingextra) for extra culling features  \n\n## My other optimizations/fixes\n* [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) - Fixes multiple memory leaks for both the client and server\n* [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) - Largest Server-Side bug fixing mod\n* [Blanket](https://modrinth.com/mod/blanket) - Client-side tweaks/fixes\n* [RailOptimization](https://modrinth.com/mod/rail-optimization) - Make powered rails less laggy\n\n## More Info  \nFeel free to contribute to the project!  \nI'm also fine if you use this mod in your modpacks, just make sure to mention it.   \n\nHowever I don't allow clients or other mods to merge this mod without permission, if you would like to use this mod in your client or another mod please contact me. \n\n---\n\n<a href=\"https://client.kinetichosting.net/aff.php?aff=42\"><img alt=\"Kinetic Hosting\" src=\"https://fxco.ca/assets/Mod_Banner.png\"></a>\n\n---",
+		"name": "More Culling",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/fxmorin/moreculling",
+		"support_link": "https://github.com/sponsors/fxmorin"
+	},
+	"properties": {
+		"modrinth_id": "51shyZVL",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"21w37a",
+			"21w38a",
+			"21w39a",
+			"21w40a",
+			"21w41a",
+			"21w42a",
+			"21w43a",
+			"21w44a",
+			"1.18-pre1",
+			"1.18-pre2",
+			"1.18-pre3",
+			"1.18-pre4",
+			"1.18-pre5",
+			"1.18-pre6",
+			"1.18-pre7",
+			"1.18-pre8",
+			"1.18-rc1",
+			"1.18-rc2",
+			"1.18-rc3",
+			"1.18-rc4",
+			"1.18",
+			"1.18.1-pre1",
+			"1.18.1-rc1",
+			"1.18.1-rc2",
+			"1.18.1-rc3",
+			"1.18.1",
+			"22w03a",
+			"22w05a",
+			"22w06a",
+			"22w07a",
+			"1.18.2-pre1",
+			"1.18.2-pre2",
+			"1.18.2-pre3",
+			"1.18.2-rc1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
+		]
+	}
+}
