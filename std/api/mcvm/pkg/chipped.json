@@ -1,0 +1,666 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/lPGqyviJ/Chipped-fabric-1.20.4-3.1.4.jar",
+					"version": "lPGqyviJ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/Bm85fO08/Chipped-neoforge-1.20.4-3.1.4.jar",
+					"version": "Bm85fO08"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/Fy1PKYtc/Chipped-fabric-1.20.1-3.0.6.jar",
+					"version": "Fy1PKYtc"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/gfGw4ln2/Chipped-forge-1.20.1-3.0.6.jar",
+					"version": "gfGw4ln2"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/FxsrT6kt/Chipped-fabric-1.20.4-3.1.3.jar",
+					"version": "FxsrT6kt"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/U7U9Ufiz/Chipped-neoforge-1.20.4-3.1.3.jar",
+					"version": "U7U9Ufiz"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/PDMhEkza/Chipped-fabric-1.20.1-3.0.5.jar",
+					"version": "PDMhEkza"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/TTQ9VDk8/Chipped-forge-1.20.1-3.0.5.jar",
+					"version": "TTQ9VDk8"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/zbLpusFc/Chipped-fabric-1.20.4-3.1.2.jar",
+					"version": "zbLpusFc"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/3GlyqVKN/Chipped-neoforge-1.20.4-3.1.2.jar",
+					"version": "3GlyqVKN"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/jkJMbGSY/Chipped-fabric-1.20.4-3.1.1.jar",
+					"version": "jkJMbGSY"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/dqPVSxQq/Chipped-neoforge-1.20.4-3.1.1.jar",
+					"version": "dqPVSxQq"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/JUHjzcuO/Chipped-fabric-1.20.1-3.0.4.jar",
+					"version": "JUHjzcuO"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/rGLT7po1/Chipped-forge-1.20.1-3.0.4.jar",
+					"version": "rGLT7po1"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/N6ybqm5H/Chipped-fabric-1.20.4-3.1.0.jar",
+					"version": "N6ybqm5H"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/ojIaU4gA/Chipped-neoforge-1.20.4-3.1.0.jar",
+					"version": "ojIaU4gA"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/wO7GbZhU/Chipped-fabric-1.20.1-3.0.3.jar",
+					"version": "wO7GbZhU"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/27yccGgF/Chipped-forge-1.20.1-3.0.3.jar",
+					"version": "27yccGgF"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/DCYzCoz9/Chipped-fabric-1.20.1-3.0.2.jar",
+					"version": "DCYzCoz9"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/YBzLKvV9/Chipped-forge-1.20.1-3.0.2.jar",
+					"version": "YBzLKvV9"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/yXxHBIer/chipped-fabric-1.20.1-3.0.1.jar",
+					"version": "yXxHBIer"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/C4lo3lDM/chipped-forge-1.20.1-3.0.1.jar",
+					"version": "C4lo3lDM"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/J6wsDM8W/chipped-forge-1.20.1-3.0.0.jar",
+					"version": "J6wsDM8W"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/Do5hlMJ8/chipped-forge-1.19.2-2.1.5.jar",
+					"version": "Do5hlMJ8"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "ctm-support"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/UStkQaSp/chipped-fabric-1.19.2-2.1.5.jar",
+					"version": "UStkQaSp"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/t7BDhNrr/chipped-forge-1.19.2-2.1.4.jar",
+					"version": "t7BDhNrr"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "ctm-support"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/UK6ouO7Q/chipped-fabric-1.19.2-2.1.4.jar",
+					"version": "UK6ouO7Q"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/GaFzoZPU/chipped-forge-1.19.2-2.1.3.jar",
+					"version": "GaFzoZPU"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/igf7U99b/chipped-fabric-1.19.2-2.1.3.jar",
+					"version": "igf7U99b"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/nEERw93g/chipped-forge-1.19.2-2.1.2.jar",
+					"version": "nEERw93g"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/qRUhpBBk/chipped-fabric-1.19.2-2.1.2.jar",
+					"version": "qRUhpBBk"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/sjgSpYDC/chipped-forge-1.19.2-2.1.1.jar",
+					"version": "sjgSpYDC"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/KzooZ5pQ/chipped-fabric-1.19.2-2.1.1.jar",
+					"version": "KzooZ5pQ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/jJoKmPxd/chipped-forge-1.19.2-2.1.0.jar",
+					"version": "jJoKmPxd"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"ctm-support",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/dkLXkEfF/chipped-fabric-1.19.2-2.1.0.jar",
+					"version": "dkLXkEfF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "ctm-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/DqX2DfLO/chipped-fabric-1.18.2-2.0.1.jar",
+					"version": "DqX2DfLO"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/EIEkq4fv/chipped-forge-1.18.2-2.0.1.jar",
+					"version": "EIEkq4fv"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "ctm-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/ZHiJOgYQ/chipped-2.0.0-fabric%20%282%29.jar",
+					"version": "ZHiJOgYQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/b8MdUUvY/chipped-2.0.0-forge%20%281%29.jar",
+					"version": "b8MdUUvY"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BAscRYKm/versions/1.2.2/chipped-1.18.2-1.2.1-forge%20%281%29.jar",
+					"version": "Ku60mcmd"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"AlexNijjar",
+			"Kekie6",
+			"ThatGravyBoat"
+		],
+		"community": "https://discord.gg/terrarium",
+		"description": "Every block deserves a friend.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/BAscRYKm/images/0a86f6312f70410803a2edf34febe8c74e262154.png",
+			"https://cdn.modrinth.com/data/BAscRYKm/images/36b389ae7062fd63c45d3b62f8fd0981585aeb1f.png",
+			"https://cdn.modrinth.com/data/BAscRYKm/images/6631a19fb1a57d94d1ce12d2036f2438c48d2961.png",
+			"https://cdn.modrinth.com/data/BAscRYKm/images/6a9995096b867096fbacf7b3272c5254dcbb43a3.png",
+			"https://cdn.modrinth.com/data/BAscRYKm/images/cbbeeca232f2632aef4ac4856f80c2e7566a4461.png",
+			"https://cdn.modrinth.com/data/BAscRYKm/images/e232bdc280c1468037cc8afdef3dc5d2fcd6caf5.png",
+			"https://cdn.modrinth.com/data/BAscRYKm/images/ff735b12139402bb5c98f09185b21b1556595130.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/BAscRYKm/574857523e21b5c9f896601c26cb36e7e06bdcad.gif",
+		"issues": "https://github.com/terrarium-earth/Chipped/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "<center>\n\n![Chipped](https://cdn.discordapp.com/attachments/721407493351407646/1045075488554623058/chipped_2_logo.png)\n\n[![Requires Resourceful Lib](https://cdn.discordapp.com/attachments/1073717602880327761/1073717942014972034/RLib_vector.svg)](http://modrinth.com/mod/resourceful-lib)\n[![Requires Athena](https://cdn.discordapp.com/attachments/1007383133294956627/1110018632496468018/Requires_Athena_vector.svg)](http://modrinth.com/mod/athena-ctm)\n[![Made by Terrarium](https://cdn.discordapp.com/attachments/1073717602880327761/1073718144910233691/Terrarium_vector.svg)](https://discord.terrarium.earth)\n<hr>\n</center>\n\n![Description 1](https://cdn.discordapp.com/attachments/721407493351407646/1045078704159723641/chipped_2_description.png)\n![Description 2\"](https://cdn.discordapp.com/attachments/721407493351407646/1046734680914931753/chipped_2_description2.png)\n![Description 3\"](https://cdn.discordapp.com/attachments/721407493351407646/1046734689186099200/chipped_2_description3.png)\n![(Description 4\"](https://cdn.discordapp.com/attachments/721407493351407646/1046734703891329094/chipped_2_description4.png)\n\n![Credits](https://cdn.discordapp.com/attachments/721407493351407646/1045078703845167104/chipped_2_credits.png)\n#### Programmers:\nGrim, Alex Nijjar, MsRandom1, CodexAdrian, ThatGravyBoat\n#### Artists:\nKekie6, Marc-IceBlade, Shrimp, Facu, Frogipher, SunsetSoup, Valilla, Brother Earth, Joosh, ArtistMonster, Zilver\n\n<center>\n<hr>\n\n[![Use code \"Terrarium\" for 25% off at BisectHosting](https://cdn.discordapp.com/attachments/1073717602880327761/1094750562794348585/BisectHosting_Banner_vector.svg)](http://bisecthosting.com/terrarium)\n\n<hr>\n\n### Socials\n\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n---\n\n### Check Out our Other Projects\n<a href=\"https://www.modrinth.com/mod/handcrafted\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327560368148/Handcrafted2x.svg\" alt=\"Handcrafted\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/chipped\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326943801376/Chipped2x.svg\" alt=\"Chipped\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/ad-astra\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326604066888/Ad_Astra2x.svg\" alt=\"Ad Astra\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/tempad\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329108058213/Tempad2x.svg\" alt=\"Tempad\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/colorful-azaleas\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327237398668/Colorful_Azalaeas2x.svg\" alt=\"Colorful Azalaeas\" width=\"96\"></a>\n\n<a href=\"https://www.modrinth.com/mod/lil-wings\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328189509643/Lil_Wings2x.svg\" alt=\"Lil Wings\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/vitalize\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329426833508/vitalize2x.svg\" alt=\"Vitalize\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/spirit\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328793493574/Spirit2x.svg\" alt=\"Spirit\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/reaper\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328457941063/reaper2x.svg\" alt=\"Reaper\" width=\"96\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/experience-obelisk\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329745596496/xp_obelisk2x.svg\" alt=\"Experience Obelisk\" width=\"96\"></a>\n</center>",
+		"name": "Chipped",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/terrarium-earth/Chipped",
+		"support_link": "https://ko-fi.com/terrariumearth"
+	},
+	"properties": {
+		"modrinth_id": "BAscRYKm",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19.2",
+			"1.20",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}

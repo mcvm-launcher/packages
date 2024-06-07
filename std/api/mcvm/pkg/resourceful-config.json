@@ -1,0 +1,585 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/o6HkmYGU/resourcefulconfig-fabric-1.20.5-2.5.1.jar",
+					"version": "o6HkmYGU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/LrfrfR1J/resourcefulconfig-neoforge-1.20.5-2.5.1.jar",
+					"version": "LrfrfR1J"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/5DDRLs1v/resourcefulconfig-fabric-1.20.4-2.4.7.jar",
+					"version": "5DDRLs1v"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/r8C9UHfr/resourcefulconfig-neoforge-1.20.4-2.4.7.jar",
+					"version": "r8C9UHfr"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/2eqslKBS/resourcefulconfig-forge-1.20.4-2.4.7.jar",
+					"version": "2eqslKBS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/PlEObkl9/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+					"version": "PlEObkl9"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/irREd1ZJ/resourcefulconfig-forge-1.20.1-2.1.2.jar",
+					"version": "irREd1ZJ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/C3vAAE9x/resourcefulconfig-fabric-1.20.2-2.2.2.jar",
+					"version": "C3vAAE9x"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/pZINfkWf/resourcefulconfig-neoforge-1.20.2-2.2.2.jar",
+					"version": "pZINfkWf"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/vDvFwHAq/resourcefulconfig-forge-1.20.2-2.2.2.jar",
+					"version": "vDvFwHAq"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/nVDWZ9N7/resourcefulconfig-fabric-1.20.1-2.1.0.jar",
+					"version": "nVDWZ9N7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/iktUkXe8/resourcefulconfig-forge-1.20.1-2.1.0.jar",
+					"version": "iktUkXe8"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/JXU6RJAv/resourcefulconfig-fabric-1.20-2.0.0.jar",
+					"version": "JXU6RJAv"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/n3yQ9KKD/resourcefulconfig-forge-1.20-2.0.0.jar",
+					"version": "n3yQ9KKD"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/p5YdFE5o/resourcefulconfig-fabric-1.20.5-2.5.0.jar",
+					"version": "p5YdFE5o"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/cKooWmav/resourcefulconfig-neoforge-1.20.5-2.5.0.jar",
+					"version": "cKooWmav"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/WuHokYiB/resourcefulconfig-fabric-1.20.4-2.4.6.jar",
+					"version": "WuHokYiB"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/y6VWSwg4/resourcefulconfig-neoforge-1.20.4-2.4.6.jar",
+					"version": "y6VWSwg4"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/mREDowcJ/resourcefulconfig-forge-1.20.4-2.4.6.jar",
+					"version": "mREDowcJ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/Uqp2T1FX/resourcefulconfig-fabric-1.20.4-2.4.5.jar",
+					"version": "Uqp2T1FX"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/wkxW5K1t/resourcefulconfig-neoforge-1.20.4-2.4.5.jar",
+					"version": "wkxW5K1t"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/rEhLowE3/resourcefulconfig-forge-1.20.4-2.4.5.jar",
+					"version": "rEhLowE3"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/LTivPqAB/resourcefulconfig-fabric-1.20.4-2.4.4.jar",
+					"version": "LTivPqAB"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/UNSYgT5m/resourcefulconfig-neoforge-1.20.4-2.4.4.jar",
+					"version": "UNSYgT5m"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/JpRMedNr/resourcefulconfig-forge-1.20.4-2.4.4.jar",
+					"version": "JpRMedNr"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/qpaBKKtA/resourcefulconfig-fabric-1.20.4-2.4.3.jar",
+					"version": "qpaBKKtA"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/YKChBq8o/resourcefulconfig-neoforge-1.20.4-2.4.3.jar",
+					"version": "YKChBq8o"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/AEjcN8G2/resourcefulconfig-forge-1.20.4-2.4.3.jar",
+					"version": "AEjcN8G2"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/nFlSpFWY/resourcefulconfig-fabric-1.20.4-2.4.2.jar",
+					"version": "nFlSpFWY"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/tRs8WNph/resourcefulconfig-neoforge-1.20.4-2.4.2.jar",
+					"version": "tRs8WNph"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/30wspqZe/resourcefulconfig-forge-1.20.4-2.4.2.jar",
+					"version": "30wspqZe"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/5NnWZvd6/resourcefulconfig-fabric-1.20.1-2.1.1.jar",
+					"version": "5NnWZvd6"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/2qMl5afY/resourcefulconfig-forge-1.20.1-2.1.1.jar",
+					"version": "2qMl5afY"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/9jltWR8L/resourcefulconfig-fabric-1.20.2-2.2.1.jar",
+					"version": "9jltWR8L"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/JBxXTqOr/resourcefulconfig-neoforge-1.20.2-2.2.1.jar",
+					"version": "JBxXTqOr"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/vQPGCfih/resourcefulconfig-forge-1.20.2-2.2.1.jar",
+					"version": "vQPGCfih"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/HaBv9PTz/resourcefulconfig-fabric-1.20.2-2.2.0.jar",
+					"version": "HaBv9PTz"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/EFajw54I/resourcefulconfig-neoforge-1.20.2-2.2.0.jar",
+					"version": "EFajw54I"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/RWBTLDls/resourcefulconfig-forge-1.20.2-2.2.0.jar",
+					"version": "RWBTLDls"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/TIzyR4bY/resourcefulconfig-fabric-1.19.2-1.0.20.jar",
+					"version": "TIzyR4bY"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/6k0hdREk/resourcefulconfig-forge-1.19.2-1.0.20.jar",
+					"version": "6k0hdREk"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/zrSzjHIt/resourcefulconfig-fabric-1.19.3-1.1.4.jar",
+					"version": "zrSzjHIt"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/yEcynctB/resourcefulconfig-forge-1.19.3-1.1.4.jar",
+					"version": "yEcynctB"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/CDqoVuzU/resourcefulconfig-fabric-1.19.4-1.2.0.jar",
+					"version": "CDqoVuzU"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/Gv8qpOL7/resourcefulconfig-forge-1.19.4-1.2.0.jar",
+					"version": "Gv8qpOL7"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/Z9VrRna2/resourcefulconfig-fabric-1.19.2-1.0.19.jar",
+					"version": "Z9VrRna2"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/qKRFSQCB/resourcefulconfig-forge-1.19.2-1.0.19.jar",
+					"version": "qKRFSQCB"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/Mk4JvsHk/resourcefulconfig-fabric-1.19.3-1.1.3.jar",
+					"version": "Mk4JvsHk"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/vQZXd8C8/resourcefulconfig-forge-1.19.3-1.1.3.jar",
+					"version": "vQZXd8C8"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/eQYA6EPm/resourcefulconfig-forge-1.19.3-1.1.2.jar",
+					"version": "eQYA6EPm"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/JrjaKFMB/resourcefulconfig-fabric-1.19.3-1.1.2.jar",
+					"version": "JrjaKFMB"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/QUCEXsuZ/resourcefulconfig-forge-1.19.2-1.0.18.jar",
+					"version": "QUCEXsuZ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/SSywkHD2/resourcefulconfig-fabric-1.19.2-1.0.18.jar",
+					"version": "SSywkHD2"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/EDFKAsEd/resourcefulconfig-forge-1.19.3-1.1.1.jar",
+					"version": "EDFKAsEd"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/bpexXO5r/resourcefulconfig-fabric-1.19.3-1.1.1.jar",
+					"version": "bpexXO5r"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/OHgqw2cM/resourcefulconfig-forge-1.19.2-1.0.17.jar",
+					"version": "OHgqw2cM"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/hGInwt7S/resourcefulconfig-fabric-1.19.2-1.0.17.jar",
+					"version": "hGInwt7S"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/Jz5eewAo/resourcefulconfig-forge-1.19.2-1.0.16.jar",
+					"version": "Jz5eewAo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/bodqKeZo/resourcefulconfig-fabric-1.19.2-1.0.16.jar",
+					"version": "bodqKeZo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/ImsXyeAn/resourcefulconfig-forge-1.19.2-1.0.15.jar",
+					"version": "ImsXyeAn"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/EbmW7KYO/resourcefulconfig-fabric-1.19.2-1.0.15.jar",
+					"version": "EbmW7KYO"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/uyEnPWwc/resourcefulconfig-forge-1.19.2-1.0.14.jar",
+					"version": "uyEnPWwc"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/geCYkuUf/resourcefulconfig-fabric-1.19.2-1.0.14.jar",
+					"version": "geCYkuUf"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/yaKkGeBn/resourcefulconfig-forge-1.19.2-1.0.13.jar",
+					"version": "yaKkGeBn"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/ey867PKW/resourcefulconfig-fabric-1.19.2-1.0.13.jar",
+					"version": "ey867PKW"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/AT8w6BOY/resourcefulconfig-forge-1.19.2-1.0.11.jar",
+					"version": "AT8w6BOY"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/CC4DR9Ew/resourcefulconfig-fabric-1.19.2-1.0.11.jar",
+					"version": "CC4DR9Ew"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/HLTIErHD/resourcefulconfig-forge-1.19.2-1.0.8.jar",
+					"version": "HLTIErHD"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/AmKXTTvt/resourcefulconfig-fabric-1.19.2-1.0.8.jar",
+					"version": "AmKXTTvt"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/CJ1EQWAX/resourcefulconfig-forge-1.19.2-1.0.7.jar",
+					"version": "CJ1EQWAX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/1sMRhcfE/resourcefulconfig-fabric-1.19.2-1.0.7.jar",
+					"version": "1sMRhcfE"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"ThatGravyBoat",
+			"epic_oreo"
+		],
+		"community": "https://discord.gg/resourcefulbees",
+		"description": "Resourceful Config is a mod that allows for developers to make cross-platform configs",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/M1953qlQ/2e0da928f67bd804ee4ef8205b747439f713f5bd.png",
+		"issues": "https://github.com/Team-Resourceful/Resourceful-Config/issues",
+		"license": "MIT",
+		"long_description": "<img src=\"https://www.bisecthosting.com/images/CF/RESOURCECONFIG/BH_RC_HEADER.png\" />\n<img src=\"https://www.bisecthosting.com/images/CF/RESOURCECONFIG/BH_RC_OVERVIEW.png\"/>\n<center><h5>We make cross-platform configuration easy peezy!</h5></center>\n<center><h5>On forge, we use the official forge config system to make hot reloading possible.</h5></center>\n<center><h5>and on Fabric we use JSONC because they don't have a system.</h5></center>\n<center><h5>As of 1.20 we no longer use Forge's official system as it breaks quite easily.</h5></center>\n<center><h5>We also have a cool lit UI for the youngsters to enjoy because they lazy and stuff.</h5><h5>We also have a web interface for servers or clients if they want to use, <a href=\"https://config.teamresourceful.com/about\">more info here</a></h5></center>\n<img src=\"https://i.imgur.com/8Ha7I55.png\" alt=\"This config is litty as it possibly gets!\"/>\n<a href=\"https://discord.gg/resourcefulbees\"><img src=\"https://www.bisecthosting.com/images/CF/RESOURCECONFIG/BH_RC_DISCORD.png\"/></a>\n<a href=\"https://bisecthosting.com/teamresourceful\"><img src=\"https://www.bisecthosting.com/images/CF/RESOURCECONFIG/BH_RC_PROMO.png\"/></a>",
+		"name": "Resourceful Config",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Team-Resourceful/Resourceful-Config"
+	},
+	"properties": {
+		"modrinth_id": "M1953qlQ",
+		"supported_modloaders": [
+			"forgelike",
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
+		]
+	}
+}

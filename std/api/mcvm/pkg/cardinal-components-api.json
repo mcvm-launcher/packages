@@ -4,7 +4,11 @@
 			"kind": "mod",
 			"versions": [
 				{
-					"minecraft_versions": "1.21-pre2",
+					"minecraft_versions": [
+						"1.21-pre1",
+						"1.21-pre2",
+						"1.21-pre3"
+					],
 					"modloaders": [
 						"fabriclike",
 						"quilt"
@@ -334,7 +338,9 @@
 			"1.20.5-rc2",
 			"1.20.5",
 			"1.20.6",
-			"1.21-pre2"
+			"1.21-pre1",
+			"1.21-pre2",
+			"1.21-pre3"
 		]
 	}
 }

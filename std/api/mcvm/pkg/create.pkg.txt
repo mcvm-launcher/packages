@@ -1,0 +1,16 @@
+@meta {
+	name "Create";
+	description "Aesthetic Technology that empowers the Player";
+	authors "Create Team";
+	license "MIT";
+}
+
+@install {
+	if modloader fabriclike {
+		bundle "create-fabric";
+	}
+
+	if modloader forgelike {
+		bundle "create-forge";
+	}
+}

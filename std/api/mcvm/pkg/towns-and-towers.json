@@ -1,0 +1,394 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/HkbknuHF/towns_and_towers_forge-1.10.0.1%2B1.18.2.jar",
+					"version": "HkbknuHF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/OW3d0dmB/towns_and_towers_fabric-1.10.0.1%2B1.18.2.jar",
+					"version": "OW3d0dmB"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/s7UXEluf/Towns-and-Towers-v.1.10.1-FABRIC-1.19.2.jar",
+					"version": "s7UXEluf"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/vHB74V8C/Towns-and-Towers-v.1.10-_FORGE-1.19.2_.jar",
+					"version": "vHB74V8C"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/EP09dj1p/t_and_t-1.12.2.jar",
+					"version": "EP09dj1p"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/bwfVhUnU/t_and_t-1.12.1.1.jar",
+					"version": "bwfVhUnU"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/TLGxl7c0/t_and_t-1.12.1.1.jar",
+					"version": "TLGxl7c0"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/e5a9WzpA/t_and_t-1.12.1.jar",
+					"version": "e5a9WzpA"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/o3vR2FH6/t_and_t-1.12.1.jar",
+					"version": "o3vR2FH6"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/rEz4FYC2/Towns-and-Towers-1.12.0.jar",
+					"version": "rEz4FYC2"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar",
+					"version": "7ZwnSrVW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/avrYXbs7/Towns-and-Towers-1.11.1-Fabric%2BForge.jar",
+					"version": "avrYXbs7"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/ESRfqjkz/Towns-and-Towers-1.11-Fabric%2BForge.jar",
+					"version": "ESRfqjkz"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/qVV7t5bU/Towns-and-Towers-1.10.2-Fabric%2BForge.jar",
+					"version": "qVV7t5bU"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/Lq5Fh7pd/Towns-and-Towers-v.1.10-B-_FABRIC-1.18.2.jar",
+					"version": "Lq5Fh7pd"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/29tnv5Dv/Towns-and-Towers-v.1.10.1-B-FABRIC-1.18.2.jar",
+					"version": "29tnv5Dv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/JcooeJZN/Towns-and-Towers-v.1.10-_FABRIC-1.19.2_.jar",
+					"version": "JcooeJZN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/APpVz0PO/Towns-and-Towers-v.1.10-B-_FORGE-1.18.2_.jar",
+					"version": "APpVz0PO"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/5uzwIKXQ/Towns-and-Towers-1.18.2-1.9.1-B.jar",
+					"version": "5uzwIKXQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/Fo2NkTLy/Towns-and-Towers-1.18.2-1.9-B.jar",
+					"version": "Fo2NkTLy"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/FaQE3ISU/Towns-and-Towers-1.19.2-1.9.jar",
+					"version": "FaQE3ISU"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/1.8.2/Towns-and-Towers-1.19-1.8.2.jar",
+					"version": "NpbTlN8o"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/1.8.1/Towns-and-Towers-1.19-1.8.1.jar",
+					"version": "E5rNRwBi"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/1.8.0/Towns-and-Towers-1.19-1.8.0.jar",
+					"version": "L7OsFjEl"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/1.7.2/Towns-and-Towers-1.19-1.7.2.jar",
+					"version": "lHx8tNSw"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/1.6.0/Towns-and-Towers-1.18.2-1.6.0.jar",
+					"version": "HCI7zdCJ"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Biban_Auriu",
+			"Cristelknight",
+			"Kubek727"
+		],
+		"community": "https://discord.com/invite/yJng7sC44x",
+		"description": "Spice up your world with new villages, pillager outposts, and even new ships!",
+		"gallery": [
+			"https://cdn.modrinth.com/data/DjLobEOy/images/478b6e7c60b8180807b31d4107c3e76e002b7ebc.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/4aba995621ee71d6aa5845d352fe4a0f8d92ce27.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/4e0b8fdebdb83384c96b56bc2cfd05e39d4bd3e7.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/5fb660fb716087f78bbc0d9f0ccf0212a668e8bf.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/5ffa68fb3abfa7a09514e0e1aa8f8ac9e4a48481.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/6ec16f9e62f473419bf5e02f1f63fa8abef98cc3.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/91fcfc4c2801a77d0c699952f8e5eaf8eabce7bb.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/99ba8509ad9c2c7a20fd533cb68e853075b7f673.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/9a341d1d8a31f83181024935142f45b65c320cf3.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/9e470665ff4af280cbf69e2fdf991e0582a29fa7.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/9f9e675b10371f37e9c46670291d91e9855cd741.png",
+			"https://cdn.modrinth.com/data/DjLobEOy/images/ff5e841128a3d5a957386364239bb264e594009d.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/DjLobEOy/icon.png",
+		"license": "CC-BY-NC-SA-4.0",
+		"long_description": "<h3 style=\"text-align: justify;\"><font color=\"#FFE16A\" size=\"3\">\n<span style=\"font-weight: 400; font-style: italic\">\n<center><strong style=\"font-weight: 400\">&nbsp;&nbsp;&nbsp;&nbsp; AS OF RIGHT NOW, TOWNS \nAND TOWERS IS AVAILABLE FOR BOTH FORGE AND FABRIC/QUILT, VERSIONS 1.18.2 AND 1.19.2 RESPECTIVELY. WORKS SERVERSIDE.<br>FROM VERSION 1.19.3 AND ABOVE (ALL THE WAY TO 1.20.4), THE PACK IS DEPENDANT ON CRISTELLIB, STILL WORKING SERVERSIDE.</strong></span></font></h3></center><br>\n<center><strong style=\"font-weight: 400\">Also available on </strong><strong>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/towns-and-towers\">\n<font color=\"#34495E\">Curse</font><font color=\"#D35400\">Forge</font></a></strong><strong style=\"font-weight: 400\">, \nas well as on </strong><strong>\n<a href=\"https://www.planetminecraft.com/data-pack/towns-amp-towers-structure-overhaul/\">\n<font color=\"#33CC33\">Planet</font> <font color=\"#33CCFF\">Minecraft</font></a></strong><strong style=\"font-weight: 400\"> \n(as a datapack)!</strong></p></center>\n<h3 style=\"text-align: center;\">&nbsp;</h3>\n<p style=\"text-align: center;\">\n<center><img border=\"0\" src=\"https://media.forgecdn.net/attachments/description/626761/description_af1b4f09-c557-49ec-a2ad-004fc00e42a0.png\"width=\"850\" height=\"205\"></p></center>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h2 style=\"text-align: center;\"><strong><u>What is Towns and Towers?</u></strong></h2>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; Towns &amp; Towers is a mod \nthat aims to expand upon the 1.14 update created by Mojang with new villages, \npillager outposts, and even brand-new ships. The structures themselves are a bit \nmore detailed than their vanilla counterparts, but they still fit seamlessly \ninto the world. Not only that but many are inspired by real-life buildings or \narchitectural styles, giving them a fresh new feel. There are over 50 structures \nadded by Towns and Towers so far (as of update 1.9), so have fun exploring! And \nremember, it’s not the destination that’s important, but the journey to get \nthere.</p>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; <font color=\"#FFE16A\">If you wish to see all \nof the structures our mod adds, take a look at our gallery </font>\n<a href=\"https://imgur.com/a/CCZbqMn\">here</a>.</p>\n<h3 style=\"text-align: justify;\">&nbsp;</h3>\n<h2 style=\"text-align: center;\"><strong><u>Compatibility</u></strong></h2>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; For a full list of mods \nthat are currently compatible with Towns and towers, please look\n<a href=\"https://docs.google.com/document/d/1gE5DvsPwztTtCVi_i6nEOLQM6tm8NU4Q1iCpuqHY2UM/edit\">\nhere</a>.</p>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; The pack should be \ncompatible with most world generation mods, like Terralith, WWOO, BYG, BoP, \netc., as well as mods that add also add new structures/villages, such as \nRepurposed Structures or ChoiceTheorem's Overhauled Villages. However, some \nfeatures from other mods are not currently present, like the guards from \nVillager Guards mod or certain buildings from Farmer's Delight for example. This \nwill be addressed in the future via a series of datapacks, which will implement \nfeatures from those mods into ours.</p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<h2 align=\"center\"><strong><u>Frequently Asked Questions</u></strong></h2>\n<h3><b><span style=\"font-size: 12pt\"><strong>1. Is it safe to update Towns and \nTowers to a newer version?</strong></span></b></h3>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; In general yes. Just \nnote that sometimes when we update a few things get changed, so there might be a \nbit of console spam. If any serious problems arise because of that, let us know. \nAnd, as always, make backups. Better be safe than sorry.<br>\n&nbsp;</p>\n<h3><span style=\"font-size: 12pt; font-weight: 700\"><strong>2. Is it safe to add \nTowns and Towers to an already existing world?</strong></span></h3>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; Yep. Just note that the \nnew structures will only spawn in newly generated chunks.<br>\n&nbsp;</p>\n<h3><span style=\"font-size: 12pt; font-weight: 700\"><strong>3. Is this mod for \nForge or Fabric/Quilt?</strong></span></h3>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; Both. We have a \nuniversal version for both (now three?) mod loaders.<br>\n&nbsp;</p>\n<h3><b><span style=\"font-size: 12pt\"><strong>4. How can I locate the new \nstructures?</strong></span></b></h3>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; For 1.18.2: /locate \ntowns_and_towers:[structure_from_list]<br>\n&nbsp;&nbsp;&nbsp;&nbsp; For 1.19+: /locate structure \ntowns_and_towers:[structure_from_list]<br>\n&nbsp;&nbsp;&nbsp;&nbsp; Note that some structures have the exclusives tag added \nin front. Those structures cannot be located if you only have T&amp;T installed. You \nalso need to have one of the mods that T&amp;T is paired with. For a full list, \nscroll down below (if I remember to add it...).<br>\n&nbsp;</p>\n<h3><b><span style=\"font-size: 12pt\"><strong>5. Does Towns and Towers modify \nexisting vanilla structures?</strong></span></b></h3>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; As of the latest \nupdate, no. Only new structures are added.<br>\n&nbsp;</p>\n<h3><span style=\"font-size: 12pt; font-weight: 700\"><strong>6. What about the \nloot of these structures?</strong></span></h3>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; The majority of \nstructures use vanilla loot tables for better mod compatibility (see the \nCompatibility section below for more info), but they also use some custom loot \ntables to better integrate said structures into the world. You will still find \npillager outpost loot in pillager outposts, profession chests in villages, as \nwell as bells, workstations, etc., but also new stuff like food, armor, and \nother goodies.<br>\n&nbsp;</p>\n<h3><b><span style=\"font-size: 12pt\"><strong>7. How can I report \nbugs/issues/suggestions?</strong></span></b></h3>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; Write them down below \nin the comments and I’ll try to answer them as soon as possible and as best as \npossible. I’m still relatively new to all of this, so excuse that.<br>\n&nbsp;</p>\n<h3><b><span style=\"font-size: 12pt\"><strong>8. Can I include Towns and Towers \ninto my modpack?</strong></span></b></h3>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp; Sure, but make sure to \ngive credit and a link to our page, and make sure you don't include a modified \nversion of our mod.<br>\n&nbsp;</p>\n<h3><b><span style=\"font-size: 12pt\"><strong>9. 1.16.5???</strong></span></b></h3>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp;\n<a href=\"https://www.youtube.com/watch?v=DTvrv4f3Yho\">\nhttps://www.youtube.com/watch?v=DTvrv4f3Yho</a></p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<h2 style=\"text-align: center;\"><strong><u>Credits</u></strong></h2>\n<ul style=\"text-align: justify;\">\n<li>Kubek as the original author of Towns and Towers;</li>\n<li>William Wythers, ChoiceTheorem, Apollo, Robified and TelepathicGrunt for \nbeing based;</li>\n<li>Various other creators and their builds for being a massive inspiration \n(check out our Planet Minecraft page\n<a href=\"https://www.planetminecraft.com/data-pack/towns-amp-towers-structure-overhaul/\">\nhere</a> for a full list)</li>\n</ul>\n<p style=\"text-align: justify;\">&nbsp;&nbsp;&nbsp;&nbsp;If you find any glitches, bugs or have any \nother suggestions, please let us know. We'll have a bug report page soon \n(hopefully).</p>",
+		"name": "Towns and Towers",
+		"package_maintainers": [
+			"mcvm"
+		]
+	},
+	"properties": {
+		"modrinth_id": "DjLobEOy",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4",
+			"1.20.6"
+		]
+	}
+}
