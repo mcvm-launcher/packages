@@ -1,0 +1,659 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/MIbWIfzI/immersive-armors-1.5.1%2B1.16.5-forge.jar",
+					"version": "MIbWIfzI"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/xETsRqxv/immersive-armors-1.5.1%2B1.16.5-fabric.jar",
+					"version": "xETsRqxv"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/g70ZMcU2/immersive_armors-1.6.1%2B1.20.1-forge.jar",
+					"version": "g70ZMcU2"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/Waf0D48D/immersive_armors-1.6.1%2B1.20.1-fabric.jar",
+					"version": "Waf0D48D"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/etf2tkKo/immersive_armors-1.5.6%2B1.19.4-forge.jar",
+					"version": "etf2tkKo"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/rtwSKTmr/immersive_armors-1.5.6%2B1.19.4-fabric.jar",
+					"version": "rtwSKTmr"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/rv6WHkIG/immersive_armors-1.5.6%2B1.19.3-forge.jar",
+					"version": "rv6WHkIG"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/NjYog86R/immersive_armors-1.5.6%2B1.19.3-fabric.jar",
+					"version": "NjYog86R"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/rHmDsz9m/immersive_armors-1.5.6%2B1.19.2-forge.jar",
+					"version": "rHmDsz9m"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/XnHpnpHJ/immersive_armors-1.5.6%2B1.19.2-fabric.jar",
+					"version": "XnHpnpHJ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/NMMsoxx6/immersive_armors-1.5.6%2B1.18.2-forge.jar",
+					"version": "NMMsoxx6"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/bD6ogyqk/immersive_armors-1.5.6%2B1.18.2-fabric.jar",
+					"version": "bD6ogyqk"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/1iL7L4Cx/immersive_armors-1.6.0%2B1.20.1-forge.jar",
+					"version": "1iL7L4Cx"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/ncEyML1F/immersive_armors-1.6.0%2B1.20.1-fabric.jar",
+					"version": "ncEyML1F"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/MqJ5KT5k/immersive_armors-1.5.5%2B1.19.4-forge.jar",
+					"version": "MqJ5KT5k"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/NuQuRX6P/immersive_armors-1.5.5%2B1.19.4-fabric.jar",
+					"version": "NuQuRX6P"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/JqkaFvnt/immersive_armors-1.5.5%2B1.19.3-forge.jar",
+					"version": "JqkaFvnt"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/jsxq6CbE/immersive_armors-1.5.5%2B1.19.3-fabric.jar",
+					"version": "jsxq6CbE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/bPXk0QuM/immersive_armors-1.5.5%2B1.19.2-forge.jar",
+					"version": "bPXk0QuM"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/T62TvUwh/immersive_armors-1.5.5%2B1.19.2-fabric.jar",
+					"version": "T62TvUwh"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/ZznTwDbG/immersive_armors-1.5.5%2B1.18.2-forge.jar",
+					"version": "ZznTwDbG"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/hHnnvpr6/immersive_armors-1.5.5%2B1.18.2-fabric.jar",
+					"version": "hHnnvpr6"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/llUK5UYa/immersive_armors-1.5.4%2B1.19.3-forge.jar",
+					"version": "llUK5UYa"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/gy3647YQ/immersive_armors-1.5.4%2B1.19.3-fabric.jar",
+					"version": "gy3647YQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/tvRKy6uB/immersive_armors-1.5.4%2B1.18.2-forge.jar",
+					"version": "tvRKy6uB"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/oCP9oZik/immersive_armors-1.5.4%2B1.18.2-fabric.jar",
+					"version": "oCP9oZik"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/gTwv9hmK/immersive_armors-1.5.4%2B1.19.2-forge.jar",
+					"version": "gTwv9hmK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/4s4bYRc1/immersive_armors-1.5.4%2B1.19.2-fabric.jar",
+					"version": "4s4bYRc1"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/sXVjEWet/immersive_armors-1.5.3%2B1.19.3-forge.jar",
+					"version": "sXVjEWet"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/wBiGtevJ/immersive_armors-1.5.3%2B1.19.3-fabric.jar",
+					"version": "wBiGtevJ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/dJFvp5Wg/immersive_armors-1.5.3%2B1.19.2-forge.jar",
+					"version": "dJFvp5Wg"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/x1pccFdD/immersive_armors-1.5.3%2B1.19.2-fabric.jar",
+					"version": "x1pccFdD"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/XSa0AGrb/immersive_armors-1.5.3%2B1.18.2-forge.jar",
+					"version": "XSa0AGrb"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/dAVrV26p/immersive_armors-1.5.3%2B1.18.2-fabric.jar",
+					"version": "dAVrV26p"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/AlYb7jho/immersive_armors-1.5.2%2B1.19.3-forge.jar",
+					"version": "AlYb7jho"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/w61PUaAX/immersive_armors-1.5.2%2B1.19.3-fabric.jar",
+					"version": "w61PUaAX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/iDMhZCMm/immersive_armors-1.5.2%2B1.19.2-forge.jar",
+					"version": "iDMhZCMm"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/nArYo9sW/immersive_armors-1.5.2%2B1.19.2-fabric.jar",
+					"version": "nArYo9sW"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/ItFDHfOh/immersive_armors-1.5.2%2B1.18.2-forge.jar",
+					"version": "ItFDHfOh"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/FRLk2Lkw/immersive_armors-1.5.2%2B1.18.2-fabric.jar",
+					"version": "FRLk2Lkw"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/p4HOkt75/immersive_armors-1.5.1%2B1.19.2-forge.jar",
+					"version": "p4HOkt75"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/puIgSf0Q/immersive_armors-1.5.1%2B1.19.2-fabric.jar",
+					"version": "puIgSf0Q"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/8AvINxSe/immersive_armors-1.5.1%2B1.19.3-forge.jar",
+					"version": "8AvINxSe"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/POktemQL/immersive_armors-1.5.1%2B1.19.3-fabric.jar",
+					"version": "POktemQL"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/86lniCMA/immersive_armors-1.5.1%2B1.18.2-forge.jar",
+					"version": "86lniCMA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/Pf671XJn/immersive_armors-1.5.1%2B1.18.2-fabric.jar",
+					"version": "Pf671XJn"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/NheGToLD/immersive_armors-1.5.0%2B1.19.3.jar",
+					"version": "NheGToLD"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/Q1g8JJHw/immersive_armors-1.5.0%2B1.19.3.jar",
+					"version": "Q1g8JJHw"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/VBk7S2bX/immersive_armors-1.5.0%2B1.19.3.jar",
+					"version": "VBk7S2bX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/1U3DkDVr/immersive_armors-1.5.0%2B1.19.2.jar",
+					"version": "1U3DkDVr"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/Yn2CAOij/immersive_armors-1.5.0%2B1.19.2.jar",
+					"version": "Yn2CAOij"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/5uiUnvye/immersive_armors-1.5.0%2B1.18.2.jar",
+					"version": "5uiUnvye"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/Fnk0EJwr/immersive_armors-1.5.0%2B1.18.2.jar",
+					"version": "Fnk0EJwr"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/1PcCmYLz/immersive-armors-1.5.0%2B1.16.5-forge.jar",
+					"version": "1PcCmYLz"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/8zc3zEFW/immersive-armors-1.5.0%2B1.16.5-fabric.jar",
+					"version": "8zc3zEFW"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Luke100000"
+		],
+		"banner": "https://cdn.modrinth.com/data/eE2Db4YU/images/8ee925197d945aa3953a9c9ab5f9a33646a966ae.png",
+		"community": "https://discord.gg/agxcvAdj2a",
+		"description": "A lot of unique and vanilla-faithful armor sets.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/eE2Db4YU/images/0955c6753e63a512655caca3868aad2919f456e4.png",
+			"https://cdn.modrinth.com/data/eE2Db4YU/images/34fd0bfacdd42c10f8b9d7ad25838b58f4604ab3.png",
+			"https://cdn.modrinth.com/data/eE2Db4YU/images/8ee925197d945aa3953a9c9ab5f9a33646a966ae.png",
+			"https://cdn.modrinth.com/data/eE2Db4YU/images/9895c3b82c950bdf86555e8fc40cea126c178737.jpeg",
+			"https://cdn.modrinth.com/data/eE2Db4YU/images/ae575ad2d73ce5c92d2938f56bcbb433d1b88ff8.png",
+			"https://cdn.modrinth.com/data/eE2Db4YU/images/deafe1fd601b0983616e8bd301899aae38e037a3.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/eE2Db4YU/2704a877d726b9689d1edfa96f85725e97b4d4f0.jpeg",
+		"issues": "https://github.com/Luke100000/ImmersiveArmors/issues",
+		"license": "GPL-3.0-only",
+		"long_description": "![Banner](https://cdn.modrinth.com/data/eE2Db4YU/images/9895c3b82c950bdf86555e8fc40cea126c178737.jpeg)\n\nImmersive Armors adds a bunch of Vanilla-friendly and unique armor sets to the game.\nIn contrast to boring copy and pasted armors, Immersive Armors focuses on visually enhanced armors, some with capes or custom models.\nMost of them provide exclusive effects like Berserk mode, bounceback, spikes, divine protection, and more.\nCrafting recipes are properly registered in the Vanilla recipe book. Enchantments, repairing, dyeing works as expected.\n\n![Armor](https://cdn.modrinth.com/data/eE2Db4YU/images/ae575ad2d73ce5c92d2938f56bcbb433d1b88ff8.png)\n\n# Translations\nImmersive armors is translated in a lot of languages via machine translation,\nbut since the quality is often quite bad you are welcome to join the translation team here:\nhttps://crowdin.com/project/immersive-armors\nFeel free to down vote bad ones and submit yours.\n\n![Armor](https://cdn.modrinth.com/data/eE2Db4YU/images/8ee925197d945aa3953a9c9ab5f9a33646a966ae.png)",
+		"name": "Immersive Armors",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Luke100000/ImmersiveArmors",
+		"support_link": "https://www.patreon.com/conczin"
+	},
+	"properties": {
+		"modrinth_id": "eE2Db4YU",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.5",
+			"1.18.2",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20.1"
+		]
+	}
+}

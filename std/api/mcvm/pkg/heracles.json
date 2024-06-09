@@ -1,0 +1,678 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/Iw91uuFK/Heracles-fabric-1.20.1-1.1.13.jar",
+					"version": "Iw91uuFK"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/9ZUSHiZa/Heracles-forge-1.20.1-1.1.13.jar",
+					"version": "9ZUSHiZa"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/PDQvbfPK/Heracles-fabric-1.20.1-1.1.12.jar",
+					"version": "PDQvbfPK"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/UVyQoEfQ/Heracles-forge-1.20.1-1.1.12.jar",
+					"version": "UVyQoEfQ"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/GXxKjxGE/Heracles-fabric-1.20.1-1.1.11.jar",
+					"version": "GXxKjxGE"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/8zxzPvyF/Heracles-forge-1.20.1-1.1.11.jar",
+					"version": "8zxzPvyF"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/XFqquTji/heracles-fabric-1.20.1-1.1.10.jar",
+					"version": "XFqquTji"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/3aABskCg/heracles-forge-1.20.1-1.1.10.jar",
+					"version": "3aABskCg"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/jKhNeEIk/heracles-fabric-1.20.1-1.1.9.jar",
+					"version": "jKhNeEIk"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/jpWS7kBz/heracles-forge-1.20.1-1.1.9.jar",
+					"version": "jpWS7kBz"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/NcH63TrF/heracles-fabric-1.20.1-1.1.8.jar",
+					"version": "NcH63TrF"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/CcJk2Nz6/heracles-forge-1.20.1-1.1.8.jar",
+					"version": "CcJk2Nz6"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/qPL66hoz/heracles-fabric-1.20.1-1.1.7.jar",
+					"version": "qPL66hoz"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/BgK36Jkb/heracles-forge-1.20.1-1.1.7.jar",
+					"version": "BgK36Jkb"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/2NX3Tp47/heracles-fabric-1.20.1-1.1.6.jar",
+					"version": "2NX3Tp47"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/qdE4Jp1W/heracles-forge-1.20.1-1.1.6.jar",
+					"version": "qdE4Jp1W"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/2NIUNiNZ/heracles-fabric-1.20.1-1.1.5.jar",
+					"version": "2NIUNiNZ"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/91tIOVPy/heracles-forge-1.20.1-1.1.5.jar",
+					"version": "91tIOVPy"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/YQKRFt0D/heracles-fabric-1.20.1-1.1.4.jar",
+					"version": "YQKRFt0D"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/TaP0WLhY/heracles-forge-1.20.1-1.1.4.jar",
+					"version": "TaP0WLhY"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/7bYShbuw/heracles-fabric-1.20.1-1.1.3.jar",
+					"version": "7bYShbuw"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/nB9tFKSl/heracles-forge-1.20.1-1.1.3.jar",
+					"version": "nB9tFKSl"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/bDyT030F/heracles-fabric-1.20.1-1.1.2.jar",
+					"version": "bDyT030F"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/LrenCGC9/heracles-forge-1.20.1-1.1.2.jar",
+					"version": "LrenCGC9"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/3vDa7732/heracles-fabric-1.20.1-1.1.1.jar",
+					"version": "3vDa7732"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/2cxcYOjO/heracles-forge-1.20.1-1.1.1.jar",
+					"version": "2cxcYOjO"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/zm5LWfwy/heracles-fabric-1.20.1-1.1.0.jar",
+					"version": "zm5LWfwy"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/FYw6AtH4/heracles-forge-1.20.1-1.1.0.jar",
+					"version": "FYw6AtH4"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/OwQr8mq4/heracles-fabric-1.20.1-1.0.5.jar",
+					"version": "OwQr8mq4"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/I9MyuVK3/heracles-forge-1.20.1-1.0.5.jar",
+					"version": "I9MyuVK3"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/VvRew3uj/heracles-fabric-1.20.1-1.0.4.jar",
+					"version": "VvRew3uj"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/bxTeA2rh/heracles-forge-1.20.1-1.0.4.jar",
+					"version": "bxTeA2rh"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/EIB5x30f/heracles-fabric-1.20.1-1.0.3.jar",
+					"version": "EIB5x30f"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/xbu1uKaP/heracles-forge-1.20.1-1.0.3.jar",
+					"version": "xbu1uKaP"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/tI079rtP/heracles-fabric-1.20.1-1.0.1.jar",
+					"version": "tI079rtP"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/RwpZ2V4a/heracles-forge-1.20.1-1.0.1.jar",
+					"version": "RwpZ2V4a"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": {
+							"value": "rei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/twGfrpGe/heracles-fabric-1.20.1-1.0.0.jar",
+					"version": "twGfrpGe"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": {
+							"value": "rei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/Cky5TTeb/heracles-forge-1.20.1-1.0.0.jar",
+					"version": "Cky5TTeb"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/H7UX723U/heracles-fabric-1.20.1-0.0.7.jar",
+					"version": "H7UX723U"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/XFtTyYCL/heracles-forge-1.20.1-0.0.7.jar",
+					"version": "XFtTyYCL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/IrcdFzq0/heracles-fabric-1.20.1-0.0.6.jar",
+					"version": "IrcdFzq0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/a8LXzDtV/heracles-forge-1.20.1-0.0.6.jar",
+					"version": "a8LXzDtV"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/2uxrMqv5/heracles-fabric-1.20.1-0.0.5.jar",
+					"version": "2uxrMqv5"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/Pmcq3tv6/heracles-forge-1.20.1-0.0.5.jar",
+					"version": "Pmcq3tv6"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/JPFzWPXx/heracles-forge-1.20-0.0.4.jar",
+					"version": "JPFzWPXx"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/fAbq55C2/heracles-fabric-1.20-0.0.4.jar",
+					"version": "fAbq55C2"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/G1CWGYEm/heracles-forge-1.20-0.0.3.jar",
+					"version": "G1CWGYEm"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/YZI6vPta/heracles-fabric-1.20-0.0.3.jar",
+					"version": "YZI6vPta"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/gt5tf1XL/heracles-forge-1.20-0.0.2.jar",
+					"version": "gt5tf1XL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/CBIb2kpS/heracles-fabric-1.20-0.0.2.jar",
+					"version": "CBIb2kpS"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/5H0nvQsn/heracles-forge-1.20-0.0.1.jar",
+					"version": "5H0nvQsn"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/VLtolKMC/heracles-forge-1.20-0.0.0.jar",
+					"version": "VLtolKMC"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lo90fZoB/versions/5jkZmVDv/heracles-fabric-1.20-0.0.0.jar",
+					"version": "5jkZmVDv"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"AlexNijjar",
+			"ThatGravyBoat"
+		],
+		"community": "https://discord.terrarium.earth",
+		"description": "A tree-style questing mod, allowing pack makers to make and include completable quests for their players",
+		"gallery": [
+			"https://cdn.modrinth.com/data/lo90fZoB/images/0f85c8541d69808ee85bf514f7909a11a5e2d8d5.png",
+			"https://cdn.modrinth.com/data/lo90fZoB/images/1853273143a28a37a664ba7637096a8bae6ad149.png",
+			"https://cdn.modrinth.com/data/lo90fZoB/images/9d8cf79e75b3324b1b390527d09cca0c6581a60a.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/lo90fZoB/81b2b095d5570e29f29604c6c5c69eaf9f4033bc.png",
+		"issues": "https://github.com/terrarium-earth/Heracles/issues",
+		"license": "MIT",
+		"long_description": "## Heracles\n\n[![Made by Terrarium](https://cdn.discordapp.com/attachments/1073717602880327761/1073718144910233691/Terrarium_vector.svg)](https://discord.terrarium.earth)\n[![Modrinth Partnership](https://cdn.discordapp.com/attachments/817413688771608587/1117196719420092557/Modrinth_vector.svg)](https://discord.gg/modrinth-734077874708938864)\n[![Requires Resourceful Lib](https://cdn.discordapp.com/attachments/1073717602880327761/1117197221792854156/RLib_vector.svg)](https://modrinth.com/mod/resourceful-lib)\n[![Supports Argonauts](https://cdn.discordapp.com/attachments/1073717602880327761/1117197944815353896/Supports_Argonauts_vector.svg)](https://modrinth.com/mod/argonauts)\n\n### 📖 About 📖\n\nNamed after the hero Heracles who reclaimed his spot in Olympus by completing\n12 quests, Heracles is a comprehensive questing mod that allows pack makers\nto create tree style quests that can be distributed via the config folder\nfor users to play and complete.\n\n### Quest Tree\n![Quest tree](https://cdn.discordapp.com/attachments/881359242492252170/1112837122211201085/image.png)\n\n### Quest descriptions\n![Quest description](https://cdn.discordapp.com/attachments/881359242492252170/1112835955737501776/image.png)\n\n### Quest tasks\n![Quest tasks](https://cdn.discordapp.com/attachments/881359242492252170/1112838276127146024/image.png)\n\n---\n\n### Check out the rest of Project Odyssey!\n\n<a href=\"https://www.modrinth.com/mod/argonauts\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106169555726406/Argonauts_vector.svg\" alt=\"Argonauts\" height=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/heracles\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106080221245450/Heracles_vector.svg\" alt=\"Heracles\" height=\"96\"></a>\n<a href=\"https://github.com/terrarium-earth/Hermes\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106109220659200/Hermes_vector.svg\" alt=\"Hermes\" height=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/cadmus\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106035388317696/Cadmus_vector.svg\" alt=\"Cadmus\" height=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/prometheus\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106228456329287/Prometheus_vector.svg\" alt=\"Prometheus\" height=\"96\"></a>\n\n---\n\n[![Use code \"Terrarium\" for 25% off at BisectHosting](https://cdn.discordapp.com/attachments/817413688771608587/1117104938712047747/Terrarium_BisectHosting_Banner_image.png)](http://bisecthosting.com/terrarium)\n\n---\n\n### Socials\n\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n\n---\n\n### Check out our other projects\n<a href=\"https://www.modrinth.com/mod/handcrafted\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327560368148/Handcrafted2x.svg\" alt=\"Handcrafted\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/chipped\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326943801376/Chipped2x.svg\" alt=\"Chipped\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/ad-astra\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326604066888/Ad_Astra2x.svg\" alt=\"Ad Astra\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/tempad\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329108058213/Tempad2x.svg\" alt=\"Tempad\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/colorful-azaleas\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327237398668/Colorful_Azalaeas2x.svg\" alt=\"Colorful Azalaeas\" width=\"96\"></a>\n\n<a href=\"https://www.modrinth.com/mod/lil-wings\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328189509643/Lil_Wings2x.svg\" alt=\"Lil Wings\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/vitalize\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329426833508/vitalize2x.svg\" alt=\"Vitalize\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/spirit\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328793493574/Spirit2x.svg\" alt=\"Spirit\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/reaper\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328457941063/reaper2x.svg\" alt=\"Reaper\" width=\"96\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/experience-obelisk\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329745596496/xp_obelisk2x.svg\" alt=\"Experience Obelisk\" width=\"96\"></a>",
+		"name": "Heracles",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/terrarium-earth/Heracles"
+	},
+	"properties": {
+		"modrinth_id": "lo90fZoB",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.20",
+			"1.20.1"
+		]
+	}
+}

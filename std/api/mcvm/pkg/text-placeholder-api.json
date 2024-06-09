@@ -1,0 +1,197 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21-pre2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/1NGrL2hU/placeholder-api-2.4.0-pre.2%2B1.21.jar",
+					"version": "1NGrL2hU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5-rc1",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/3v1Xz4LB/placeholder-api-2.4.0-pre.1%2B1.20.5.jar",
+					"version": "3v1Xz4LB"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3-rc1",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/KvVY0jfG/placeholder-api-2.3.0%2B1.20.3.jar",
+					"version": "KvVY0jfG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2-rc2",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qidX2Gu4/placeholder-api-2.2.0%2B1.20.2.jar",
+					"version": "qidX2Gu4"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/wrxtLoOX/placeholder-api-2.1.3%2B1.20.1.jar",
+					"version": "wrxtLoOX"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/gDVgNoCR/placeholder-api-2.1.2%2B1.20.1.jar",
+					"version": "gDVgNoCR"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/iCAUZykd/placeholder-api-2.1.1%2B1.20.jar",
+					"version": "iCAUZykd"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/judXVfRL/placeholder-api-2.1.0%2B1.19.4.jar",
+					"version": "judXVfRL"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/G4smC1A1/placeholder-api-2.0.0-rc.1%2B1.19.3.jar",
+					"version": "G4smC1A1"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/JoztwSEk/placeholder-api-2.0.0-pre.1%2B1.19.2.jar",
+					"version": "JoztwSEk"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/FsEVC8lW/placeholder-api-2.0.0-beta.7%2B1.19.jar",
+					"version": "FsEVC8lW"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eXts2L7r/versions/FplcrCus/placeholder-api-1.1.3%2B1.17.1.jar",
+					"version": "FplcrCus"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Patbox"
+		],
+		"community": "https://pb4.eu/discord",
+		"description": "Placeholder and Text manipulation library for your Minecraft mods.",
+		"documentation": "https://placeholders.pb4.eu/",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png",
+		"issues": "https://github.com/Patbox/TextPlaceholderAPI/issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "# About Placeholder API\n\nIt's a small, JIJ-able API that allows creation and parsing placeholders within strings and Minecraft Text Components.\nPlaceholder API uses a simple format of `%modid:type%` or `%modid:type data%` (`%modid:type/data%` prior to 1.19).\nIt also includes simple, general usage text format indented for simplifying user input in configs/chats/etc.\n\n## For users\n\nIt allows users to configure multiple mods in similar way without losing compatibility between mods.\nPlaceholders allow changing what and where any information is present within compatible mods.\n\nAdditionally, Simplified Text Format allows to style them in readable way without the requirement of writing JSON manually or using\ngenerators.\n\n- [Using placeholders](user/general)\n- [Default placeholder list](user/default-placeholders)\n- [Mod placeholder list](user/mod-placeholders)\n- [Simplified Text Format](user/text-format)\n\nMods generally using this api should just include it directly, but you can downloaded updated version from here if needed!\n\n## For developers\n\nUsage of Placeholder API is a simple way to achieve good mod compatibility without having to implement\nmultiple mod specific apis. Additionally, the placeholder parsing system can be used for replacing\nown static (or dynamic placeholders) in Text created by player or read from config. This with combination\nof Simplified Text Format allows creating great user/admin experience.\n\n- [Getting Started](dev/getting-started)\n- [Adding placeholders](dev/adding-placeholders)\n- [Parsing placeholders](dev/parsing-placeholders)\n- [TextNodes and NodeParsers](dev/text-nodes)\n- [Using Simplified Text Format (TextParserV1)](dev/text-format)\n\n*[JIJ]: Jar-in-Jar",
+		"name": "Text Placeholder API",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Patbox/TextPlaceholderAPI",
+		"support_link": "https://ko-fi.com/patbox"
+	},
+	"properties": {
+		"modrinth_id": "eXts2L7r",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2-rc2",
+			"1.20.2",
+			"1.20.3-rc1",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5-rc1",
+			"1.20.5",
+			"1.20.6",
+			"1.21-pre2"
+		]
+	}
+}

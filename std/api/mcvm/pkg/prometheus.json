@@ -1,0 +1,453 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/QkqSEkKm/prometheus-fabric-1.20.1-1.2.5.jar",
+					"version": "QkqSEkKm"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/uBbjID8A/prometheus-forge-1.20.1-1.2.5.jar",
+					"version": "uBbjID8A"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/mRxmKKwW/prometheus-fabric-1.20.4-1.4.2.jar",
+					"version": "mRxmKKwW"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/3dB8GjKn/prometheus-neoforge-1.20.4-1.4.2.jar",
+					"version": "3dB8GjKn"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/c8Yjed9P/prometheus-fabric-1.20.2-1.3.1.jar",
+					"version": "c8Yjed9P"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/CYAaeG01/prometheus-neoforge-1.20.2-1.3.1.jar",
+					"version": "CYAaeG01"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/XkpDwfo3/prometheus-fabric-1.20.4-1.4.1.jar",
+					"version": "XkpDwfo3"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/Dy7chyN6/prometheus-neoforge-1.20.4-1.4.1.jar",
+					"version": "Dy7chyN6"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/QVuiyetC/prometheus-fabric-1.20.1-1.2.4.jar",
+					"version": "QVuiyetC"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/CXv4vcq3/prometheus-forge-1.20.1-1.2.4.jar",
+					"version": "CXv4vcq3"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/OBpORcZh/prometheus-fabric-1.20.4-1.4.0.jar",
+					"version": "OBpORcZh"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/ZNo5Wc73/prometheus-neoforge-1.20.4-1.4.0.jar",
+					"version": "ZNo5Wc73"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/EfWjUib7/prometheus-fabric-1.20.1-1.2.3.jar",
+					"version": "EfWjUib7"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/dFIH423O/prometheus-forge-1.20.1-1.2.3.jar",
+					"version": "dFIH423O"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/RxkgI8md/prometheus-fabric-1.20.1-1.2.2.jar",
+					"version": "RxkgI8md"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/vi0Hm60i/prometheus-forge-1.20.1-1.2.2.jar",
+					"version": "vi0Hm60i"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/Y9EZQlNV/prometheus-fabric-1.20.2-1.3.0.jar",
+					"version": "Y9EZQlNV"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/OEDZ0ELg/prometheus-neoforge-1.20.2-1.3.0.jar",
+					"version": "OEDZ0ELg"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/T0xnx1lu/prometheus-fabric-1.20.1-1.2.1.jar",
+					"version": "T0xnx1lu"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/QBMwSyTE/prometheus-forge-1.20.1-1.2.1.jar",
+					"version": "QBMwSyTE"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/FxCaC6AK/prometheus-fabric-1.20.1-1.2.0.jar",
+					"version": "FxCaC6AK"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/uwhP5ghC/prometheus-forge-1.20.1-1.2.0.jar",
+					"version": "uwhP5ghC"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/I8DA09Kv/prometheus-fabric-1.20.1-1.1.0.jar",
+					"version": "I8DA09Kv"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/MApPz31s/prometheus-forge-1.20.1-1.1.0.jar",
+					"version": "MApPz31s"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/HfwOy3zS/prometheus-fabric-1.20.1-1.0.2.jar",
+					"version": "HfwOy3zS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/CWPNuTfm/prometheus-forge-1.20.1-1.0.2.jar",
+					"version": "CWPNuTfm"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/yJ9p6Y2r/prometheus-fabric-1.20.1-1.0.1.jar",
+					"version": "yJ9p6Y2r"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/Bhtm9oKB/prometheus-forge-1.20.1-1.0.1.jar",
+					"version": "Bhtm9oKB"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": {
+							"value": "rei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/VtlbkqSy/prometheus-fabric-1.20.1-1.0.0.jar",
+					"version": "VtlbkqSy"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": {
+							"value": "rei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/Sx5CzA0G/prometheus-forge-1.20.1-1.0.0.jar",
+					"version": "Sx5CzA0G"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/F7nP2aMi/prometheus-fabric-1.20.1-0.0.1.jar",
+					"version": "F7nP2aMi"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/TjVZnzRd/prometheus-forge-1.20.1-0.0.1.jar",
+					"version": "TjVZnzRd"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/C5LLDjN7/prometheus-fabric-1.20-0.0.0.jar",
+					"version": "C5LLDjN7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iYcNKH7W/versions/eRAb3XkY/prometheus-forge-1.20-0.0.0.jar",
+					"version": "eRAb3XkY"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"AlexNijjar",
+			"ThatGravyBoat"
+		],
+		"community": "https://discord.terrarium.earth",
+		"description": "A utility mod adding useful commands and player permission handling",
+		"gallery": [
+			"https://cdn.modrinth.com/data/iYcNKH7W/images/ca5082bdaee00d022b8c310cd726c86078f4483e.png",
+			"https://cdn.modrinth.com/data/iYcNKH7W/images/e10db99bb3bc759fb0a0c2d16352763710ae9383.png",
+			"https://cdn.modrinth.com/data/iYcNKH7W/images/f749be5a369989a13a6df78e28c65c531bd0fe43.gif"
+		],
+		"icon": "https://cdn.modrinth.com/data/iYcNKH7W/45a9bd1bf6b09c0f0576a1d78d1291eceedbdb76.png",
+		"issues": "https://github.com/terrarium-earth/Prometheus/issues",
+		"license": "MIT",
+		"long_description": "## Prometheus\n\n[![Made by Terrarium](https://cdn.discordapp.com/attachments/1073717602880327761/1073718144910233691/Terrarium_vector.svg)](https://discord.terrarium.earth)\n[![Modrinth Partnership](https://cdn.discordapp.com/attachments/817413688771608587/1117196719420092557/Modrinth_vector.svg)](https://discord.gg/modrinth-734077874708938864)\n[![Requires Resourceful Lib](https://cdn.discordapp.com/attachments/1073717602880327761/1117197221792854156/RLib_vector.svg)](https://modrinth.com/mod/resourceful-lib)\n\n### 📖 About 📖\n\nNamed after the cunning god who stole fire from the gods to give it to \nhumanity and provide them with great resources. Prometheus is a utility mod,\ngranting users access to useful commands and quick utilities, and providing\nserver owners with great control over player permissions, warps and even custom\ncommand scripts.\n\n### Player permission management\n![Player permission stuff](https://cdn.modrinth.com/data/iYcNKH7W/images/f749be5a369989a13a6df78e28c65c531bd0fe43.gif)\n\n### Warp screen\n![Warp screen for players](https://cdn.discordapp.com/attachments/881359242492252170/1110615032896700416/image.png)\n\n### Custom command\n![Custom commands](https://cdn.discordapp.com/attachments/881359242492252170/1110615118175281212/image.png)\n\n---\n\n### Check out the rest of Project Odyssey!\n\n<a href=\"https://www.modrinth.com/mod/argonauts\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106169555726406/Argonauts_vector.svg\" alt=\"Argonauts\" height=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/heracles\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106080221245450/Heracles_vector.svg\" alt=\"Heracles\" height=\"96\"></a>\n<a href=\"https://github.com/terrarium-earth/Hermes\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106109220659200/Hermes_vector.svg\" alt=\"Hermes\" height=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/cadmus\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106035388317696/Cadmus_vector.svg\" alt=\"Cadmus\" height=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/prometheus\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106228456329287/Prometheus_vector.svg\" alt=\"Prometheus\" height=\"96\"></a>\n\n---\n\n[![Use code \"Terrarium\" for 25% off at BisectHosting](https://cdn.discordapp.com/attachments/817413688771608587/1117104938712047747/Terrarium_BisectHosting_Banner_image.png)](http://bisecthosting.com/terrarium)\n\n---\n\n### Socials\n\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n\n---\n\n### Check out our other projects\n<a href=\"https://www.modrinth.com/mod/handcrafted\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327560368148/Handcrafted2x.svg\" alt=\"Handcrafted\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/chipped\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326943801376/Chipped2x.svg\" alt=\"Chipped\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/ad-astra\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326604066888/Ad_Astra2x.svg\" alt=\"Ad Astra\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/tempad\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329108058213/Tempad2x.svg\" alt=\"Tempad\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/colorful-azaleas\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327237398668/Colorful_Azalaeas2x.svg\" alt=\"Colorful Azalaeas\" width=\"96\"></a>\n\n<a href=\"https://www.modrinth.com/mod/lil-wings\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328189509643/Lil_Wings2x.svg\" alt=\"Lil Wings\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/vitalize\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329426833508/vitalize2x.svg\" alt=\"Vitalize\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/spirit\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328793493574/Spirit2x.svg\" alt=\"Spirit\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/reaper\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328457941063/reaper2x.svg\" alt=\"Reaper\" width=\"96\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/experience-obelisk\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329745596496/xp_obelisk2x.svg\" alt=\"Experience Obelisk\" width=\"96\"></a>\n</center>",
+		"name": "Prometheus",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/terrarium-earth/Prometheus"
+	},
+	"properties": {
+		"modrinth_id": "iYcNKH7W",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4"
+		]
+	}
+}

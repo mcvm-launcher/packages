@@ -1,0 +1,102 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/KDIB4Axr/versions/ivAzkVBP/pinlib-0.2.1%2Bmc1.19.3.jar",
+					"version": "ivAzkVBP"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/KDIB4Axr/versions/tEBwbdcO/pinlib-0.2.0%2B1.19.3.jar",
+					"version": "tEBwbdcO"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/KDIB4Axr/versions/cF6SVltT/pinlib-0.2.0%2B1.19.jar",
+					"version": "cF6SVltT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/KDIB4Axr/versions/mm2MRBhd/pinlib-0.1.3%2B1.19.jar",
+					"version": "mm2MRBhd"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/KDIB4Axr/versions/0.1.2%2Bmc1.19-beta/pinlib-0.1.2%2Bmc1.19.jar",
+					"version": "oik46Hc0"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/KDIB4Axr/versions/0.1.1%2Bmc1.19-beta/pinlib-0.1.1%2Bmc1.19.jar",
+					"version": "YX7gyUlz"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/KDIB4Axr/versions/0.1.0%2Bmc1.19/pinlib-0.1.0%2Bmc1.19.jar",
+					"version": "KWF1nPji"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"roko"
+		],
+		"banner": "https://cdn.modrinth.com/data/KDIB4Axr/images/243d7b89c0cc2a600afa74ac3e9abc038d80e105.png",
+		"description": "A lightweight minecraft library to add map icons and markers for fabric mod loader.",
+		"documentation": "https://github.com/rokoblox/mapicons/wiki",
+		"gallery": [
+			"https://cdn.modrinth.com/data/KDIB4Axr/images/243d7b89c0cc2a600afa74ac3e9abc038d80e105.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/KDIB4Axr/a51eb635f41c87e98f2d82ab49657d3f01b05f23.png",
+		"issues": "https://github.com/rokoblox/mapicons/issues",
+		"license": "MIT",
+		"long_description": "This library is still an alpha release, report all bugs on the [issue tracker](https://github.com/rokoblox/pinlib/issues).\n\nA lightweight minecraft library to add map icons and markers for fabric mod loader.\n\n# Developers\n\n[GitHub Repository](https://github.com/rokoblox/pinlib)\n\n[API docs](https://github.com/rokoblox/pinlib/wiki) (Unfinished)",
+		"name": "PinLib",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/rokoblox/mapicons"
+	},
+	"properties": {
+		"modrinth_id": "KDIB4Axr",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3"
+		]
+	}
+}

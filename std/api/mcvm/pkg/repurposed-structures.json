@@ -1,0 +1,2324 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/qrzdVdPK/repurposed_structures-7.4.0%2B1.20.6-fabric.jar",
+					"version": "qrzdVdPK"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/GqKmSBFV/repurposed_structures-7.3.5%2B1.20.4-fabric.jar",
+					"version": "GqKmSBFV"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/k5hMtMM5/repurposed_structures-7.1.15%2B1.20.1-quilt.jar",
+					"version": "k5hMtMM5"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/MuqUgLqO/repurposed_structures-7.1.15%2B1.20.1-fabric.jar",
+					"version": "MuqUgLqO"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/qMa85PfD/repurposed_structures-7.3.4%2B1.20.4-fabric.jar",
+					"version": "qMa85PfD"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/ZMocJ0mc/repurposed_structures-7.1.14%2B1.20.1-quilt.jar",
+					"version": "ZMocJ0mc"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/WqmnFKp9/repurposed_structures-7.1.14%2B1.20.1-fabric.jar",
+					"version": "WqmnFKp9"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/tRkofIO1/repurposed_structures-7.3.3%2B1.20.4-fabric.jar",
+					"version": "tRkofIO1"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/FBZX2g2v/repurposed_structures-7.1.13%2B1.20.1-quilt.jar",
+					"version": "FBZX2g2v"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/k2A5VTDF/repurposed_structures-7.1.13%2B1.20.1-fabric.jar",
+					"version": "k2A5VTDF"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/ixCPaHf0/repurposed_structures-7.3.2%2B1.20.4-fabric.jar",
+					"version": "ixCPaHf0"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/E9ISQLuh/repurposed_structures-7.1.12%2B1.20.1-quilt.jar",
+					"version": "E9ISQLuh"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/XPHE3BcK/repurposed_structures-7.1.12%2B1.20.1-fabric.jar",
+					"version": "XPHE3BcK"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/uoUZYtkl/repurposed_structures-7.3.1%2B1.20.4-fabric.jar",
+					"version": "uoUZYtkl"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/D7B8ZYMc/repurposed_structures-7.3.0%2B1.20.4-fabric.jar",
+					"version": "D7B8ZYMc"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/wfu27gZE/repurposed_structures-7.2.4%2B1.20.4-fabric.jar",
+					"version": "wfu27gZE"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/N13lemXR/repurposed_structures-7.2.2%2B1.20.4-fabric.jar",
+					"version": "N13lemXR"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/piuKopqq/repurposed_structures-7.2.2%2B1.20.3-fabric.jar",
+					"version": "piuKopqq"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/VQUSPq2M/repurposed_structures-7.2.1%2B1.20.2-fabric.jar",
+					"version": "VQUSPq2M"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/Trguc5g0/repurposed_structures-7.2.0%2B1.20.2-fabric.jar",
+					"version": "Trguc5g0"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/gWyMS104/repurposed_structures-7.1.11%2B1.20.1-quilt.jar",
+					"version": "gWyMS104"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/VxJqyOqo/repurposed_structures-7.1.11%2B1.20.1-fabric.jar",
+					"version": "VxJqyOqo"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/UlOoMXRb/repurposed_structures-7.1.10%2B1.20.1-quilt.jar",
+					"version": "UlOoMXRb"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2jNzsnfc/repurposed_structures-7.1.10%2B1.20.1-fabric.jar",
+					"version": "2jNzsnfc"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/bxc0tyY5/repurposed_structures_fabric-6.3.28%2B1.19.2.jar",
+					"version": "bxc0tyY5"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/K4HlreX3/repurposed_structures_quilt-6.3.28%2B1.19.2.jar",
+					"version": "K4HlreX3"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/WnrZpxNg/repurposed_structures-7.1.9%2B1.20.1-fabric.jar",
+					"version": "WnrZpxNg"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/k9hRe80t/repurposed_structures_quilt-6.3.27%2B1.19.2.jar",
+					"version": "k9hRe80t"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/OJpvRn6p/repurposed_structures-7.1.8%2B1.20.1-quilt.jar",
+					"version": "OJpvRn6p"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/ncjaCbrl/repurposed_structures-7.1.8%2B1.20.1-fabric.jar",
+					"version": "ncjaCbrl"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3vUlZOkO/repurposed_structures-7.1.7%2B1.20.1-quilt.jar",
+					"version": "3vUlZOkO"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/SHHipthG/repurposed_structures-7.1.7%2B1.20.1-fabric.jar",
+					"version": "SHHipthG"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/zx21s0f2/repurposed_structures-7.1.6%2B1.20.1-quilt.jar",
+					"version": "zx21s0f2"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/SFLj7mfN/repurposed_structures-7.1.6%2B1.20.1-fabric.jar",
+					"version": "SFLj7mfN"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/71vfmZQS/repurposed_structures-7.1.5%2B1.20.1-quilt.jar",
+					"version": "71vfmZQS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/VdQAzykP/repurposed_structures-7.1.5%2B1.20.1-fabric.jar",
+					"version": "VdQAzykP"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/xwLyuBKM/repurposed_structures-7.1.4%2B1.20.1-quilt.jar",
+					"version": "xwLyuBKM"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/UUsn75P9/repurposed_structures-7.1.4%2B1.20.1-fabric.jar",
+					"version": "UUsn75P9"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/HSnVVOGG/repurposed_structures-7.1.3%2B1.20.1-quilt.jar",
+					"version": "HSnVVOGG"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/CrHwNAud/repurposed_structures-7.1.3%2B1.20.1-fabric.jar",
+					"version": "CrHwNAud"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/iCDtxUaP/repurposed_structures_quilt-6.3.26%2B1.19.2.jar",
+					"version": "iCDtxUaP"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/Kqm0nSMW/repurposed_structures_fabric-6.3.26%2B1.19.2.jar",
+					"version": "Kqm0nSMW"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/Yp9S1Yia/repurposed_structures-7.1.2%2B1.20.1-quilt.jar",
+					"version": "Yp9S1Yia"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/hWifdziK/repurposed_structures-7.1.2%2B1.20.1-fabric.jar",
+					"version": "hWifdziK"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/BmjEG72r/repurposed_structures-7.1.1%2B1.20.1-quilt.jar",
+					"version": "BmjEG72r"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/grW3F5dO/repurposed_structures-7.1.1%2B1.20.1-fabric.jar",
+					"version": "grW3F5dO"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/juNYXHbs/repurposed_structures-7.1.0%2B1.20.1-quilt.jar",
+					"version": "juNYXHbs"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/gwmCJFDP/repurposed_structures-7.1.0%2B1.20.1-fabric.jar",
+					"version": "gwmCJFDP"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6PRi8DLN/repurposed_structures-7.0.0%2B1.20-quilt.jar",
+					"version": "6PRi8DLN"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/axQ7XPoZ/repurposed_structures-7.0.0%2B1.20-fabric.jar",
+					"version": "axQ7XPoZ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/vD0XVIce/repurposed_structures-6.3.25%2B1.19.4-quilt.jar",
+					"version": "vD0XVIce"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/lkpc06Uc/repurposed_structures-6.3.25%2B1.19.4-fabric.jar",
+					"version": "lkpc06Uc"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/idYNIP8G/repurposed_structures-6.3.24%2B1.19.4-quilt.jar",
+					"version": "idYNIP8G"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/nWriSpKm/repurposed_structures-6.3.24%2B1.19.4-fabric.jar",
+					"version": "nWriSpKm"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3vxgVHLo/repurposed_structures_fabric-6.3.24%2B1.19.2.jar",
+					"version": "3vxgVHLo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/Wv3yQoAh/repurposed_structures_quilt-6.3.24%2B1.19.2.jar",
+					"version": "Wv3yQoAh"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2fZKLqRM/repurposed_structures-6.3.23%2B1.19.4-quilt.jar",
+					"version": "2fZKLqRM"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/yj1DIllP/repurposed_structures-6.3.22%2B1.19.4-quilt.jar",
+					"version": "yj1DIllP"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/NVzCh0BE/repurposed_structures-6.3.22%2B1.19.4-fabric.jar",
+					"version": "NVzCh0BE"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/efCY7VWf/repurposed_structures-6.3.21%2B1.19.4-quilt.jar",
+					"version": "efCY7VWf"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/7m7Hx7K3/repurposed_structures-6.3.21%2B1.19.4-fabric.jar",
+					"version": "7m7Hx7K3"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/p01ZgFXM/repurposed_structures_quilt-6.3.21%2B1.19.2.jar",
+					"version": "p01ZgFXM"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/LpuYRZ8i/repurposed_structures_fabric-6.3.21%2B1.19.2.jar",
+					"version": "LpuYRZ8i"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4bqHFTpt/repurposed_structures-6.3.20%2B1.19.4-quilt.jar",
+					"version": "4bqHFTpt"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/o1aokaUw/repurposed_structures-6.3.20%2B1.19.4-fabric.jar",
+					"version": "o1aokaUw"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/Fpb1Npbq/repurposed_structures_quilt-6.3.20%2B1.19.2.jar",
+					"version": "Fpb1Npbq"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3GviBkmG/repurposed_structures_fabric-6.3.20%2B1.19.2.jar",
+					"version": "3GviBkmG"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/TTOfssVq/repurposed_structures-6.3.19%2B1.19.4-quilt.jar",
+					"version": "TTOfssVq"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/kt9tyd8y/repurposed_structures-6.3.19%2B1.19.4-fabric.jar",
+					"version": "kt9tyd8y"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/tsCcRryd/repurposed_structures-6.3.19%2B1.19.3-quilt.jar",
+					"version": "tsCcRryd"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/y0husUen/repurposed_structures-6.3.19%2B1.19.3-fabric.jar",
+					"version": "y0husUen"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/MbKRdxX5/repurposed_structures_quilt-6.3.18%2B1.19.2.jar",
+					"version": "MbKRdxX5"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/GN2vsPet/repurposed_structures_fabric-6.3.18%2B1.19.2.jar",
+					"version": "GN2vsPet"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4uB2m0JP/repurposed_structures-6.3.18%2B1.19.3-quilt.jar",
+					"version": "4uB2m0JP"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/n23dmp2J/repurposed_structures_quilt-6.3.17%2B1.19.2.jar",
+					"version": "n23dmp2J"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/YdEqRckm/repurposed_structures-6.3.18%2B1.19.3-fabric.jar",
+					"version": "YdEqRckm"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/CPe9o7CM/repurposed_structures_fabric-6.3.17%2B1.19.2.jar",
+					"version": "CPe9o7CM"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/wmGyaJVE/repurposed_structures-6.3.16%2B1.19.3-quilt.jar",
+					"version": "wmGyaJVE"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/ThqtNnYb/repurposed_structures-6.3.16%2B1.19.3-fabric.jar",
+					"version": "ThqtNnYb"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/ez14wVbu/repurposed_structures_fabric-6.3.16%2B1.19.2.jar",
+					"version": "ez14wVbu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/am2gm5sk/repurposed_structures_quilt-6.3.16%2B1.19.2.jar",
+					"version": "am2gm5sk"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/eecVZkni/repurposed_structures-6.3.15%2B1.19.3-quilt.jar",
+					"version": "eecVZkni"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/dzjtahRW/repurposed_structures-6.3.15%2B1.19.3-fabric.jar",
+					"version": "dzjtahRW"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/RSxremwp/repurposed_structures_quilt-6.3.11%2B1.19.2.jar",
+					"version": "RSxremwp"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/As9fMq7o/repurposed_structures_fabric-6.1.6%2B1.19.2.jar",
+					"version": "As9fMq7o"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/QJyCKg8Q/repurposed_structures-6.3.14%2B1.19.3-quilt.jar",
+					"version": "QJyCKg8Q"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/pFzKEBz5/repurposed_structures-6.3.14%2B1.19.3-fabric.jar",
+					"version": "pFzKEBz5"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/i3gosD9I/repurposed_structures_quilt-6.3.13%2B1.19.3.jar",
+					"version": "i3gosD9I"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/DUlHZpb5/repurposed_structures_fabric-6.3.2%2B1.19.3.jar",
+					"version": "DUlHZpb5"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"conflicts": "lanterns-belong-on-walls",
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/vtYHuYkJ/repurposed_structures_quilt-6.3.10%2B1.19.2.jar",
+					"version": "vtYHuYkJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"conflicts": "lanterns-belong-on-walls",
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/ZhheiZx4/repurposed_structures_fabric-6.1.4%2B1.19.2.jar",
+					"version": "ZhheiZx4"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/RxLs3qRz/repurposed_structures_quilt-6.3.12%2B1.19.3.jar",
+					"version": "RxLs3qRz"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"conflicts": "lanterns-belong-on-walls"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/mfzzEY2V/repurposed_structures_fabric-6.3.1%2B1.19.3.jar",
+					"version": "mfzzEY2V"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"conflicts": "lanterns-belong-on-walls"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/Sq3mPEVJ/repurposed_structures_fabric-6.1.3%2B1.19.2.jar",
+					"version": "Sq3mPEVJ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/EjcBNcsi/repurposed_structures_fabric-6.1.4%2B1.19.3.jar",
+					"version": "EjcBNcsi"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2T96DP3p/repurposed_structures_quilt-6.3.11%2B1.19.3.jar",
+					"version": "2T96DP3p"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/hkMpGFdt/repurposed_structures_quilt-6.3.10%2B1.19.3.jar",
+					"version": "hkMpGFdt"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/sMKowScu/repurposed_structures_quilt-6.3.9%2B1.19.2.jar",
+					"version": "sMKowScu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/VBiVXMKq/repurposed_structures_quilt-6.3.8%2B1.19.2.jar",
+					"version": "VBiVXMKq"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/sbBNqh1o/repurposed_structures_quilt-6.3.7%2B1.19.2.jar",
+					"version": "sbBNqh1o"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/IgOLXw7Q/repurposed_structures_fabric-4.1.15%2B1.18.2.jar",
+					"version": "IgOLXw7Q"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/DzFkGeO0/repurposed_structures_quilt-6.3.6%2B1.19.2.jar",
+					"version": "DzFkGeO0"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/zsbFcYgy/repurposed_structures_quilt-6.3.5%2B1.19.2.jar",
+					"version": "zsbFcYgy"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/iG8Ypcsp/repurposed_structures_quilt-6.3.4%2B1.19.2.jar",
+					"version": "iG8Ypcsp"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/tMCPTDng/repurposed_structures_quilt-6.3.3%2B1.19.2.jar",
+					"version": "tMCPTDng"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/N1wHVfRv/repurposed_structures_fabric-6.1.2%2B1.19.jar",
+					"version": "N1wHVfRv"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/ZZrAajq6/repurposed_structures_quilt-6.3.2%2B1.19.2.jar",
+					"version": "ZZrAajq6"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/gZH9qDLd/repurposed_structures_quilt-6.3.1%2B1.19.2.jar",
+					"version": "gZH9qDLd"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/31HRd1iE/repurposed_structures_quilt-6.3.0%2B1.19.2.jar",
+					"version": "31HRd1iE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/tYzItxkG/repurposed_structures_quilt-6.2.3%2B1.19.2.jar",
+					"version": "tYzItxkG"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/XVakHClu/repurposed_structures_quilt-6.2.2%2B1.19.2.jar",
+					"version": "XVakHClu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.2.1%2B1.19.2%2Bquilt/repurposed_structures_quilt-6.2.1%2B1.19.2.jar",
+					"version": "dHt4hw7n"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.2.0%2B1.19.2%2Bquilt/repurposed_structures_quilt-6.2.0%2B1.19.2.jar",
+					"version": "Q6AL8SxV"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.1.1%2B1.19%2Bquilt/repurposed_structures_quilt-6.1.1%2B1.19.jar",
+					"version": "dgE3oMcH"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.1.0%2B1.19%2Bquilt/repurposed_structures_quilt-6.1.0%2B1.19.jar",
+					"version": "mGlMoc9F"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.1.1%2B1.19/repurposed_structures_fabric-6.1.1%2B1.19.jar",
+					"version": "PLDOCP6C"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.1.0%2B1.19/repurposed_structures_fabric-6.1.0%2B1.19.jar",
+					"version": "mIzgHryB"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.0.8%2B1.19/repurposed_structures_fabric-6.0.8%2B1.19.jar",
+					"version": "9h2HQRvi"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.0.7%2B1.19/repurposed_structures_fabric-6.0.7%2B1.19.jar",
+					"version": "RKDqqU4O"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.0.6%2B1.19/repurposed_structures_fabric-6.0.6%2B1.19.jar",
+					"version": "coQA1v6u"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.0.5%2B1.19/repurposed_structures_fabric-6.0.5%2B1.19.jar",
+					"version": "OGvotiqt"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.0.4%2B1.19/repurposed_structures_fabric-6.0.4%2B1.19.jar",
+					"version": "sVGk3bX5"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.0.3%2B1.19/repurposed_structures_fabric-6.0.3%2B1.19.jar",
+					"version": "dPCFR7yN"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.0.2%2B1.19/repurposed_structures_fabric-6.0.2%2B1.19.jar",
+					"version": "AjWLUPV8"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.0.1%2B1.19/repurposed_structures_fabric-6.0.1%2B1.19.jar",
+					"version": "IztniRej"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/6.0.0%2B1.19/repurposed_structures_fabric-6.0.0%2B1.19.jar",
+					"version": "9oGWR6M4"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.14%2B1.18.2/repurposed_structures_fabric-4.1.14%2B1.18.2.jar",
+					"version": "N5NgHkyr"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.12%2B1.18.2/repurposed_structures_fabric-4.1.12%2B1.18.2.jar",
+					"version": "Vf829t9B"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.11%2B1.18.2/repurposed_structures_fabric-4.1.11%2B1.18.2.jar",
+					"version": "YIwaalDX"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.10%2B1.18.2/repurposed_structures_fabric-4.1.10%2B1.18.2.jar",
+					"version": "yYSCrgcw"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.9%2B1.18.2/repurposed_structures_fabric-4.1.9%2B1.18.2.jar",
+					"version": "vviXPWRq"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.8%2B1.18.2/repurposed_structures_fabric-4.1.8%2B1.18.2.jar",
+					"version": "CGkSggJi"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.7%2B1.18.2/repurposed_structures_fabric-4.1.7%2B1.18.2.jar",
+					"version": "XoF5k3mY"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.6%2B1.18.2/repurposed_structures_fabric-4.1.6%2B1.18.2.jar",
+					"version": "hK7BolYG"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.5%2B1.18.2/repurposed_structures_fabric-4.1.5%2B1.18.2.jar",
+					"version": "K1Bb1c83"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.3%2B1.18.2/repurposed_structures_fabric-4.1.3%2B1.18.2.jar",
+					"version": "AxQxycpQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.2%2B1.18.2/repurposed_structures_fabric-4.1.2%2B1.18.2.jar",
+					"version": "2FM7n3oR"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.1%2B1.18.2/repurposed_structures_fabric-4.1.1%2B1.18.2.jar",
+					"version": "UBaLE7SF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.0%2B1.18.2/repurposed_structures_fabric-4.1.0%2B1.18.2.jar",
+					"version": "t2HVy9DA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.0.2%2B1.18.2/repurposed_structures_fabric-4.0.2%2B1.18.2.jar",
+					"version": "Mab8p0XV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.0.1%2B1.18.2/repurposed_structures_fabric-4.0.1%2B1.18.2.jar",
+					"version": "urVr7RhM"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4.0.0%2B1.18.2/repurposed_structures_fabric-4.0.0%2B1.18.2.jar",
+					"version": "AOVK4K8u"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.12%2B1.18.1/repurposed_structures_fabric-3.3.12%2B1.18.1.jar",
+					"version": "4sr6Y94P"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.11%2B1.18.1/repurposed_structures_fabric-3.3.11%2B1.18.1.jar",
+					"version": "bknOqCHj"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.10%2B1.18.1/repurposed_structures_fabric-3.3.10%2B1.18.1.jar",
+					"version": "MpfWG418"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.9%2B1.18.1/repurposed_structures_fabric-3.3.9%2B1.18.1.jar",
+					"version": "hfIaM0WR"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.8%2B1.18.1/repurposed_structures_fabric-3.3.8%2B1.18.1.jar",
+					"version": "DPhbA3zv"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.7%2B1.18.1/repurposed_structures_fabric-3.3.7%2B1.18.1.jar",
+					"version": "CybQv2Yj"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.6%2B1.18.1/repurposed_structures_fabric-3.3.6%2B1.18.1.jar",
+					"version": "kRDeyLfM"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.4%2B1.18.1/repurposed_structures_fabric-3.3.4%2B1.18.1.jar",
+					"version": "A40ugBKj"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.2%2B1.18.1/repurposed_structures_fabric-3.3.2%2B1.18.1.jar",
+					"version": "FJZWpP4F"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.1%2B1.18.1/repurposed_structures_fabric-3.3.1%2B1.18.1.jar",
+					"version": "7UyHjyWS"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.0%2B1.18.1/repurposed_structures_fabric-3.3.0%2B1.18.1.jar",
+					"version": "ADfl8WUh"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.2.0%2B1.18.1/repurposed_structures_fabric-3.2.0%2B1.18.1.jar",
+					"version": "9BWcZtDI"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.13%2B1.18.1/repurposed_structures_fabric-3.1.13%2B1.18.1.jar",
+					"version": "VrGXigty"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.12%2B1.18.1/repurposed_structures_fabric-3.1.12%2B1.18.1.jar",
+					"version": "Lje82pJ7"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.11%2B1.18.1/repurposed_structures_fabric-3.1.11%2B1.18.1.jar",
+					"version": "oWQa6nV0"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.10%2B1.18.1/repurposed_structures_fabric-3.1.10%2B1.18.1.jar",
+					"version": "jwEScio6"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.9%2B1.18.1/repurposed_structures_fabric-3.1.9%2B1.18.1.jar",
+					"version": "PCG3bWAW"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.8%2B1.18.0/repurposed_structures_fabric-3.1.8%2B1.18.0.jar",
+					"version": "mjRrGqsz"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.7%2B1.18.0/repurposed_structures_fabric-3.1.7%2B1.18.0.jar",
+					"version": "UfYhlKLS"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.6%2B1.18.0/repurposed_structures_fabric-3.1.6%2B1.18.0.jar",
+					"version": "NXiDjUFA"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.5%2B1.18.0/repurposed_structures_fabric-3.1.5%2B1.18.0.jar",
+					"version": "BT2jwX10"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.4%2B1.18.0/repurposed_structures_fabric-3.1.4%2B1.18.0.jar",
+					"version": "p1poxtij"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.3%2B1.18.0/repurposed_structures_fabric-3.1.3%2B1.18.0.jar",
+					"version": "yQbS2tXT"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.2%2B1.18.0/repurposed_structures_fabric-3.1.2%2B1.18.0.jar",
+					"version": "KwloMBmF"
+				},
+				{
+					"minecraft_versions": [
+						"1.18-rc1",
+						"1.18-rc2",
+						"1.18-rc3"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.1%2B1.18-rc3/repurposed_structures_fabric-3.1.1%2B1.18-rc3.jar",
+					"version": "F85q1GQ4"
+				},
+				{
+					"minecraft_versions": [
+						"1.18-rc1",
+						"1.18-rc2",
+						"1.18-rc3"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.1.0%2B1.18-rc3/repurposed_structures_fabric-3.1.0%2B1.18-rc3.jar",
+					"version": "5ncbxBYc"
+				},
+				{
+					"minecraft_versions": [
+						"1.18-rc1",
+						"1.18-rc2",
+						"1.18-rc3"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.0.2%2B1.18-rc3/repurposed_structures_fabric-3.0.2%2B1.18-rc3.jar",
+					"version": "E250qFte"
+				},
+				{
+					"minecraft_versions": [
+						"1.18-rc1",
+						"1.18-rc2",
+						"1.18-rc3"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.0.1%2B1.18-rc3/repurposed_structures_fabric-3.0.1%2B1.18-rc3.jar",
+					"version": "HsKRhKTh"
+				},
+				{
+					"minecraft_versions": "1.18-pre7",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/3.0.0%2B1.18-pre5/repurposed_structures_fabric-3.0.0%2B1.18-pre5.jar",
+					"version": "w2G6eO96"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.5.7%2B1.17.1/repurposed_structures_fabric-2.5.7%2B1.17.1.jar",
+					"version": "F70cRVpm"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.5.6%2B1.17.1/repurposed_structures_fabric-2.5.6%2B1.17.1.jar",
+					"version": "FLbpPTUH"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.5.5%2B1.17.1/repurposed_structures_fabric-2.5.5%2B1.17.1.jar",
+					"version": "KKc3hcdc"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.5.4%2B1.17.1/repurposed_structures_fabric-2.5.4%2B1.17.1.jar",
+					"version": "ycPWa5oa"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.5.3%2B1.17.1/repurposed_structures_fabric-2.5.3%2B1.17.1.jar",
+					"version": "Kv8zCPAI"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.5.2%2B1.17.1/repurposed_structures_fabric-2.5.2%2B1.17.1.jar",
+					"version": "woCUEPa1"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.5.1%2B1.17.1/repurposed_structures_fabric-2.5.1%2B1.17.1.jar",
+					"version": "9BTPaJCb"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.5.0%2B1.17.1/repurposed_structures_fabric-2.5.0%2B1.17.1.jar",
+					"version": "Ce3JdkUu"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.4.4%2B1.17.1/repurposed_structures_fabric-2.4.4%2B1.17.1.jar",
+					"version": "GTMNoD82"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.4.3%2B1.17.1/repurposed_structures_fabric-2.4.3%2B1.17.1.jar",
+					"version": "hE83o7o6"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.4.2%2B1.17.1/repurposed_structures_fabric-2.4.2%2B1.17.1.jar",
+					"version": "4y7pLbWm"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.4.1%2B1.17.1/repurposed_structures_fabric-2.4.1%2B1.17.1.jar",
+					"version": "6n0YfMae"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.4.0%2B1.17.1/repurposed_structures_fabric-2.4.0%2B1.17.1.jar",
+					"version": "aXWYK9dm"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.3.9%2B1.17.1/repurposed_structures_fabric-2.3.9%2B1.17.1.jar",
+					"version": "DaoliEUQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.3.8%2B1.17.1/repurposed_structures_fabric-2.3.8%2B1.17.1.jar",
+					"version": "gbTOjIDW"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.3.7%2B1.17.1/repurposed_structures_fabric-2.3.7%2B1.17.1.jar",
+					"version": "uxrWPrNq"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.3.6%2B1.17.1/repurposed_structures_fabric-2.3.6%2B1.17.1.jar",
+					"version": "BqQeZnPd"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.3.5%2B1.17.1/repurposed_structures_fabric-2.3.5%2B1.17.1.jar",
+					"version": "GL4KREuI"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com//data/muf0XoRe/versions/2.3.4%2B1.17.1/repurposed_structures_fabric-2.3.4%2B1.17.1.jar",
+					"version": "Q9t95S6K"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com//data/muf0XoRe/versions/2.3.3%2B1.17.1/repurposed_structures_fabric-2.3.3%2B1.17.1.jar",
+					"version": "VkcvApwP"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.3.2%2B1.17.1/repurposed_structures_fabric-2.3.2%2B1.17.1.jar",
+					"version": "LibbrlRA"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.3.1%2B1.17.1/repurposed_structures_fabric-2.3.1%2B1.17.1.jar",
+					"version": "WY511Xye"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.3.0%2B1.17.1/repurposed_structures_fabric-2.3.0%2B1.17.1.jar",
+					"version": "ijhsyQJW"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.2.2%2B1.17.1/repurposed_structures_fabric-2.2.2%2B1.17.1.jar",
+					"version": "9rYhtURC"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.2.1%2B1.17.1/repurposed_structures_fabric-2.2.1%2B1.17.1.jar",
+					"version": "uYLxUo0w"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.2.0%2B1.17.1/repurposed_structures_fabric-2.2.0%2B1.17.1.jar",
+					"version": "Hp3zNCHi"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.11%2B1.17.1/repurposed_structures_fabric-2.1.11%2B1.17.1.jar",
+					"version": "pXKdT8J1"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.10%2B1.17.1/repurposed_structures_fabric-2.1.10%2B1.17.1.jar",
+					"version": "7HyMKcOR"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.9%2B1.17.1/repurposed_structures_fabric-2.1.9%2B1.17.1.jar",
+					"version": "dO8zzp76"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.8%2B1.17.1/repurposed_structures_fabric-2.1.8%2B1.17.1.jar",
+					"version": "ZXPbIXqU"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.7%2B1.17.1/repurposed_structures_fabric-2.1.7%2B1.17.1.jar",
+					"version": "xYQx55rz"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.6%2B1.17.1/repurposed_structures_fabric-2.1.6%2B1.17.1.jar",
+					"version": "NHQMkHAX"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.5%2B1.17.1/repurposed_structures_fabric-2.1.5%2B1.17.1.jar",
+					"version": "6Y73dMng"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.4%2B1.17.1/repurposed_structures_fabric-2.1.4%2B1.17.1.jar",
+					"version": "WnumpTbU"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.2%2B1.17.1/repurposed_structures_fabric-2.1.2%2B1.17.1.jar",
+					"version": "E8m8cdYN"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.1%2B1.17.1/repurposed_structures_fabric-2.1.1%2B1.17.1.jar",
+					"version": "dAeJw0gz"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.1.0%2B1.17.1/repurposed_structures_fabric-2.1.0%2B1.17.1.jar",
+					"version": "uEWSNo9z"
+				},
+				{
+					"minecraft_versions": "1.17",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.0.6%2B1.17.1/repurposed_structures_fabric-2.0.6%2B1.17.1.jar",
+					"version": "WTB6X40T"
+				},
+				{
+					"minecraft_versions": "1.17",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.0.5%2B1.17.1/repurposed_structures_fabric-2.0.5%2B1.17.1.jar",
+					"version": "Y4qPd6fm"
+				},
+				{
+					"minecraft_versions": "1.17",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.0.3%2B1.17.0/repurposed_structures_fabric-2.0.3%2B1.17.0.jar",
+					"version": "Q15ewCnG"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/1.16.5-1.11.6-fabric/repurposed_structures-1.16.5-1.11.6-fabric.jar",
+					"version": "5yP9SNTr"
+				},
+				{
+					"minecraft_versions": "1.17",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.0.2%2B1.17.0/repurposed_structures_fabric-2.0.2%2B1.17.0.jar",
+					"version": "Jn08ZT9H"
+				},
+				{
+					"minecraft_versions": "1.17",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.0.1%2B1.17.0/repurposed_structures_fabric-2.0.1%2B1.17.0.jar",
+					"version": "zFb4dghk"
+				},
+				{
+					"minecraft_versions": "1.17",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/2.0.0%2B1.17.0/repurposed_structures_fabric-2.0.0%2B1.17.0.jar",
+					"version": "JzePUPKQ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/1.16.5-1.11.5-fabric/repurposed_structures-1.16.5-1.11.5-fabric.jar",
+					"version": "WA7qPIfe"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/1.16.5-1.11.4-fabric/repurposed_structures-1.16.5-1.11.4-fabric.jar",
+					"version": "VKVkP6Jk"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/1.16.5-1.11.3-fabric/repurposed_structures-1.16.5-1.11.3-fabric.jar",
+					"version": "IgAGOh1h"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/1.16.5-1.11.2-fabric/repurposed_structures-1.16.5-1.11.2-fabric.jar",
+					"version": "Dmax49Od"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/1.16.5-1.11.1-fabric/repurposed_structures-1.16.5-1.11.1-fabric.jar",
+					"version": "A4ZSc9XN"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/1.16.5-1.11.0-fabric/repurposed_structures-1.16.5-1.11.0-fabric.jar",
+					"version": "E2iWqSXl"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/1.16.5-1.10.5-fabric/repurposed_structures-1.16.5-1.10.5-fabric.jar",
+					"version": "35dtx51R"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"TelepathicGrunt"
+		],
+		"banner": "https://cdn.modrinth.com/data/muf0XoRe/images/120e195fdb88c293989e4476481ac307fe2f7e75.png",
+		"community": "https://discord.gg/K8qRev3yKZ",
+		"description": "Adds more variations of vanilla structures and features such as a Jungle Fortress!",
+		"documentation": "https://github.com/TelepathicGrunt/RepurposedStructures/wiki",
+		"gallery": [
+			"https://cdn.modrinth.com/data/muf0XoRe/images/120e195fdb88c293989e4476481ac307fe2f7e75.png",
+			"https://cdn.modrinth.com/data/muf0XoRe/images/1145b19e538cb83535ba4b48c8a7b1b1382f94ec.png",
+			"https://cdn.modrinth.com/data/muf0XoRe/images/9267c82d4a770909a78cd3e705ed2bbf39a61f3b.png",
+			"https://cdn.modrinth.com/data/muf0XoRe/images/5af979778e3265d7d26dc8901ced62f261809244.png",
+			"https://cdn.modrinth.com/data/muf0XoRe/images/809b9b29606478583c69e0f20bf2e19f2de5756b.png",
+			"https://cdn.modrinth.com/data/muf0XoRe/images/6b3defb5a88021ba0bd351b2b3605d6d53960116.png",
+			"https://cdn.modrinth.com/data/muf0XoRe/images/bfa547766d227834dddf5d0e005c1e09838a877c.png",
+			"https://cdn.modrinth.com/data/muf0XoRe/images/a8bb224ecb302893710eddc444705dd91eaf0843.png",
+			"https://cdn.modrinth.com/data/muf0XoRe/images/73be5568e64df9d10a14904a2684e936eb999b59.png",
+			"https://cdn.modrinth.com/data/muf0XoRe/images/1ed3ff6c3d19ef6ae59d4b4d9649987b51106d34.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/muf0XoRe/icon.png",
+		"issues": "https://github.com/TelepathicGrunt/RepurposedStructures/issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "<img src=\"https://user-images.githubusercontent.com/40846040/212383632-2d628e1a-a086-490f-8863-823210407626.png\" alt=\"Picture that shows the title of this mod with a Stonebrick Fortress during sunset behind the text\" width=\"1519\" height=\"516\"></img>\n#### Works serverside too so vanilla clients can connect!\n###### CLICK HERE FOR NEOFORGE/FORGE MC PORT: https://modrinth.com/mod/repurposed-structures-forge\n\n<br/>\n____________________________________________________________________________\n\n# WHAT IS REPURPOSED STRUCTURES?\n<br/>\n\nRepurposed Structures is a mod about taking existing vanilla features and structures and creating new variants or modifications to them! Originally, most of the structures and features in this mod was actually made for my Ultra Amplified Dimension mod. but then I realized these features and structures would look great in the Overworld as well so I decided to take those structures and features and split them into their own mod and continue to add MORE biome variants of vanilla structures! And over time, some other people even help contribute more vanilla styled structures!\n\n<br/>\n\nCheck out the wiki below for all the info! It is kept up to date on latest Repurposed Structures releases.\n\n**[https://github.com/TelepathicGrunt/RepurposedStructures/wiki](https://github.com/TelepathicGrunt/RepurposedStructures/wiki)**\n\n<br/>\n\n\n<details>\n<summary><b>Frequently Asked Questions:</b></summary>\n\n- **Q: Can this mod work serverside and let vanilla clients connect?**\n\n  - A: Yep! This mod does not add any new blocks or mobs so it can be ran entirely serverside and is safe for vanilla clients.\n\n- **Q: How do I turn off RS structures in 1.18.2 or newer MC?**\n\n  - A: 1.18.2 did a lot of changes and as a result, all of RS's structures are now in datapack form. <span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://github.com/TelepathicGrunt/RepurposedStructures/wiki/How-to-configure-this-mod\">Click here for more info and leads you to the config datapack</a></span> that lets you turn off structures or changing spawnrates. Don't be afraid to ask me questions if you get stuck!</p>\n  \n- **Q: Does this mod work with <a style=\"color: #3366ff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds\">YUNG's Better Strongholds</a>, <a style=\"color: #3366ff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge\">YUNG's Better Mineshafts</a>, and other Yungs mods mod?**\n\n  - A: Yes all of Yung's mods will work with Repurposed Structures. Both mod's structures will continue to spawn. Note: RS&rsquo;s structures will remain the same and will not be in the same style as yung&rsquo;s structures unless you put on special datapacks. See the Pre-Datapack section for changing RS's strongholds, dungeons, and other structures to be in the style of Yung's structures! (Mineshafts does not have a datapack because Yung's Better Mineshafts already have biome variants)\n  \n- **Q: Does this mod conflict with ___ mod?**\n\n  - A: Highly unlikely. My mod adds structures to biomes directly so any conflict would be extremely rare. Best way to know is to just try my mod with the other mod. If you find they do conflict somehow, PLEASE let me know so I can investigate and release a fix! :)  In fact, some mods like <a style=\"color: #3366ff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/signpost\">Signpost</a> may have direct compatibility with Repurposed Structures's structures!\n  \n- **Q: I heard this mod has banners in chests but none show up for me. Why?**\n\n  - A: You'll have to use the latest version of Repurposed Structures and have the Luck status effect or attribute. Luck is not able to be obtained in vanilla so you'll have to use another mod or datapack. The banners are more like a cool Easter Egg collectable so check out what mods or datapacks can give you some Luck! Good luck and have fun collecting banners!\n  \n- **Q: The advancements are annoying! I want to turn them off!**\n\n  - A: There are datapacks to turn off the advancements. <a style=\"color: #3366ff;\" href=\"https://github.com/TelepathicGrunt/RepurposedStructures/releases/tag/3.0.0\">Click here for the datapack</a> to use to make all RS advancements disabled. You can delete the files of the structures you do want advancements for from that datapack.\n\n- **Q: How can I change the language that this mod uses?**\n\n  - A: You can use a Resourcepack to add new languages and help contribute! <a style=\"color: #3366ff;\" href=\"https://github.com/TelepathicGrunt/RepurposedStructures/releases/tag/4.0.0\">You can grab this datapack, delete the data folder from it, and use it as a resourcepack and add new languages you want!</a>\n  \n- **Q: Can I use this mod in a modpack?**\n\n  - A: Yep! You can use this mod in a modpack :)\n  \n- **Q: Can I modify the source code of this mod to make changes?**\n\n  - A: You can but just make sure you respect my license which is LGPL. That means, if you plan on distributing a modified Repurposed Structures jar, you should open source it by making the modified source code visible and licensed under an open source license. But truthfully, if you want to make a change, ask me first or make a PR into my mod as I might actually add it to the base mod itself!\n</blockquote></details>\n\n\n***\n\n## **🏠 HOW CAN I CONFIGURE THIS MOD? 🏠**\n\n<details>\n<summary><b>1.18.2 and newer info:</b></summary>\n\n&nbsp;&nbsp;&nbsp;&nbsp;**As of 1.18.2 and newer, most of Repurposed Structures can be changed by datapack now. Including turning off or on structures or changing spawnrates. Click the below link to get an example datapack to edit and some pointers for what to edit to turn off structures. There's a huge amount of stuff you can change by datapack though such as changing what height RS Mineshafts spawn at or how large RS villages are and much more that was not configurable in 1.18.1 and below. Enjoy!**\n\n&nbsp;&nbsp;&nbsp;&nbsp;**<a style=\"font-size: 24px; color: #3366ff;\" href=\"https://github.com/TelepathicGrunt/RepurposedStructures/releases/tag/4.0.0\">Click here to go to config datapack download page</a>**\n\n&nbsp;\n\n*Note: Be sure to read the instructions in the above link's page to make it easier to know what to edit*\n\nBy default, RS will do its best to import modded loot into its structures's loot. If this is not desired behavior, you can disable this in the normal RS config file in config folder above mods folder.\n\n&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, you can make datapacks to modify or change how RS structures look! Here's a flat world of all the pieces of my structures. Use this to make editing and overriding structure pieces easier with datapacks: <span style=\"color: #3366ff;\"><a style=\"color: #3366ff;\" href=\"https://github.com/TelepathicGrunt/RepurposedStructures/releases/tag/1.0.0\">Repurposed Structures - pieces world (click here)</a>**\n\n&nbsp;&nbsp;&nbsp;&nbsp;For the expert datapackers, there's actually a hidden neat way to add new pieces to any Jigsaw Structure without overriding their pool file! (Villages, outposts, all of RS's structures minus mansions, etc) For example, instead of overriding `data\\repurposed_structures\\worldgen\\template_pool\\village\\birch\\houses.json` to add new houses to my Birch Village, replace `worldgen\\template` in the datapack with `pool_additions` and have the template pool file only have the entries you want merged into the main pool file. Repurposed Structures will detect these files from ALL datapacks and merge the pool_additions pool entries into the actual template pool file that the path points to. Yes, Repurposed Structures will read all pool_additions files from all datapacks that even have the same path so that the datapacks do not override each other's pool_additions! Neat stuff! And it works with other pools too! Just make sure the piece you are adding has a Jigsaw Block with the right name so the actual structure can connect and spawn the piece.\n\n&nbsp;&nbsp;&nbsp;&nbsp;To help you with this cool pool_additions feature, this 18 minute tutorial should help walk you through creating a building, saving it, and adding it to RS's structures with a datapack! **<a class=\"anchor-3Z-8Bb anchorUnderlineOnHover-2ESHQB\" style=\"color: #3366ff;\" tabindex=\"0\" title=\"https://youtu.be/kzRQrQqlYjw\" role=\"button\" href=\"https://youtu.be/kzRQrQqlYjw\" target=\"_blank\" rel=\"noopener noreferrer\">https://youtu.be/kzRQrQqlYjw</a>**\n</details>\n\n<details>\n<summary><b>1.18.1 and older info:</b></summary>\n\n&nbsp;&nbsp;&nbsp;&nbsp;**To reach this mod's config file, go into the config folder that is above the mods folder and go into the repurposed_structures-forge folder to change the configs. The config is split up into many files for better organization and ease of editing. Then exit/restart Minecraft for all changes to take effect. Do note that the config will affect all worlds so keep that in mind**\n\n&nbsp;&nbsp;&nbsp;&nbsp;Right now, there are lots of config options. The big one that you may be interested in is the spawnrate config for every structure and yes, you can even fully turn off the structures too. The config comments will help walk you through on how to adjust the rates. Furthermore, you can even blacklist dimensions or biomes as well! For some structures, you can change the maximum and minimum y value that they can start their generation at and far more! Check out the config for everything you can do!\n\n&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, you can make datapacks to modify or change a huge amount of stuff in my mod including modifying how structures look! Here's a flat world of all the pieces of my nbt-based structures. Use this to make editing and overriding structure pieces easier with datapacks: **<a href=\"https://github.com/TelepathicGrunt/RepurposedStructures/releases/tag/1.0.0\">Repurposed Structures - pieces world (click here)</a>**\n\n&nbsp;&nbsp;&nbsp;&nbsp;If you want to change the loot tables that the structures in this mod uses, you can override my loot tables with a data pack! Here's a datapack with the default loot tables: **<a href=\"https://github.com/TelepathicGrunt/RepurposedStructures-Fabric/releases/tag/0.0.11\">Repurposed_Structures-Loottables (click here) </a>**\n\n&nbsp;&nbsp;&nbsp;&nbsp;The mob spawner for all none-nbt based structures can be changed with datapacks as well! You can download the spawner datapack here and change the entries inside the json files to add, remove, or change mob chances in spawners!: **<a href=\"https://github.com/TelepathicGrunt/RepurposedStructures-Fabric/releases/tag/0.0.5\">Repurposed_Structures-Mob_Spawners (click here)</a>**\n\n&nbsp;&nbsp;&nbsp;&nbsp;And all structure pieces such as Wells, Villages, Outposts, Shipwrecks, Pyramids, and Igloos can also be overridden with datapacks. Furthermore, the template pools that holds structure pieces for Villages and other structures can also be overridden with datapacks to add your own pieces to the villages or other structures! You can find what pieces or pools can be replaced and their filenames here but be sure to switch the branch to the MC version you are on: <a href=\"https://github.com/TelepathicGrunt/RepurposedStructures/tree/1.16-Forge/src/main/resources/data/repurposed_structures/structures\">Overridable structure nbt files (click here)</a><a href=\"https://github.com/TelepathicGrunt/RepurposedStructures/tree/1.16-Forge/src/main/resources/data/repurposed_structures/worldgen\">Overridable structure pool files (click here)</a>\n\n&nbsp;&nbsp;&nbsp;&nbsp;For the expert datapackers, there's actually a hidden neat way to add new pieces to any Jigsaw Structure without overriding their pool file! (Villages, outposts, all of RS's structures minus mansions, etc) For example, instead of overriding `data\\repurposed_structures\\worldgen\\template_pool\\village\\birch\\houses.json` to add new houses to my Birch Village, replace `worldgen\\template` in the datapack with `pool_additions` and have the template pool file only have the entries you want merged into the main pool file. Repurposed Structures will detect these files from ALL datapacks and merge the pool_additions pool entries into the actual template pool file that the path points to. Yes, Repurposed Structures will read all pool_additions files from all datapacks that even have the same path so that the datapacks do not override each other's pool_additions! Neat stuff! And it works with other pools too! Just make sure the piece you are adding has a Jigsaw Block with the right name so the actual structure can connect and spawn the piece.\n\n&nbsp;&nbsp;&nbsp;&nbsp;To help you with this cool pool_additions feature, this 18 minute tutorial should help walk you through creating a building, saving it, and adding it to RS's structures with a datapack! **<a class=\"anchor-3Z-8Bb anchorUnderlineOnHover-2ESHQB\" tabindex=\"0\" title=\"https://youtu.be/kzRQrQqlYjw\" role=\"button\" href=\"https://youtu.be/kzRQrQqlYjw\" target=\"_blank\" rel=\"noopener noreferrer\">https://youtu.be/kzRQrQqlYjw</a>**\n</details>\n\n**If you get stuck or confused on how to configure something, just ask and I'll try and help out!**\n\n<br/>\n\n***\n\n## **🏠 PRE-MADE DATAPACKS 🏠**\n\n&nbsp;&nbsp;&nbsp;&nbsp;Since the overwhelming majority of my structures uses nbt files, template pools, and/or processors, you can override all of this with datapacks! That means you can customize the blocks in those structures with other mod's blocks or add pieces of other mod's villages into RS's villages! If you decide to use the datapacks below, download it, go into your world's save folder, and put the zipped folder into the datapack folder. Now when you load the game, the datapack should take effect! (Also, you can share mod-compat datapacks you made to me and I'll add it below after I check it out and like it!)\n\nCheck out the wiki below for some links to premade datapacks!\n\n**[https://github.com/TelepathicGrunt/RepurposedStructures/wiki#-pre-made-datapacks-](https://github.com/TelepathicGrunt/RepurposedStructures/wiki#-pre-made-datapacks-)**\n\n<br/>\n\n***\n\n### Special thanks to:\n\n/r/l-ll-ll-l_IsDisLoss from Reddit for allowing me to use his Nether Pyramid and Nether Crimson Outpost design! \n\n<br/>\n\ncannon_foddr for allowing me to use his Nether Brick Outpost and End/Nether Bricks Shipwreck design!\n\n<br/>\n\nmiguelforge for allowing me to use his Crimson and Warped Shipwreck, End Ruined Portal, Nether Ruins, and other designs!\n<br/>\n\n*If you find an issue, glitch, or have a suggestion about my mod, let me know! But if you don't have a GitHub account to report in the Issue tab above, just comment what the problem is below and I'll try and get back to you ASAP! Or you can contact me on Discord :) \n",
+		"name": "Repurposed Structures - Quilt/Fabric",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"support_link": "https://ko-fi.com/telepathicgrunt"
+	},
+	"properties": {
+		"modrinth_id": "muf0XoRe",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18-pre7",
+			"1.18-rc1",
+			"1.18-rc2",
+			"1.18-rc3",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.6"
+		]
+	}
+}

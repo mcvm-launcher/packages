@@ -1,0 +1,225 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Mw0Hq1SZ/creeperoverhaul-3.0.2-fabric.jar",
+					"version": "Mw0Hq1SZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Ap1DSAzz/creeperoverhaul-3.0.2-forge.jar",
+					"version": "Ap1DSAzz"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/ylecmMxK/creeperoverhaul-3.0.1-forge.jar",
+					"version": "ylecmMxK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/dVCs4doR/creeperoverhaul-3.0.1-fabric.jar",
+					"version": "dVCs4doR"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/5l2wYZ7U/creeperoverhaul-3.0.0-fabric.jar",
+					"version": "5l2wYZ7U"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/1IZXt1xU/creeperoverhaul-3.0.0-forge.jar",
+					"version": "1IZXt1xU"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/JF5M63Wz/creeperoverhaul-2.0.9-fabric.jar",
+					"version": "JF5M63Wz"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/jm4WZz4c/creeperoverhaul-2.0.9-forge.jar",
+					"version": "jm4WZz4c"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "geckolib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/lUsvfN4h/creeperoverhaul-2.0.8-fabric.jar",
+					"version": "lUsvfN4h"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "geckolib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/E6e38jpN/creeperoverhaul-2.0.8-forge.jar",
+					"version": "E6e38jpN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "geckolib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/lyLwyNit/creeperoverhaul-1.3.1-fabric.jar",
+					"version": "lyLwyNit"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "geckolib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/uvM6RoDm/creeperoverhaul-1.3.1-forge.jar",
+					"version": "uvM6RoDm"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Joo5h",
+			"ThatGravyBoat"
+		],
+		"community": "https://discord.gg/sGwxnFV",
+		"description": "A mod which overhauls the vanilla creepers!",
+		"gallery": [
+			"https://cdn.modrinth.com/data/MI1LWe93/images/086fb5d867a9383cf044529f2fce0eec7817735d.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/137ff566df99319ec7b5289532dac45a4fd98ca2.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/2c62df063f68b0e4db19d212abe5199f65275833.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/4471e9377d224b6cc8e29cfa41db9cb84bacadfd.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/5a52270c74001bbbfc98b2c504ce100569d7451c.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/61db8a9ec8ffd039ef5af31ae04953c107b6a1a0.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/6c60c62a950f2a8b20dcf7fc2f71bb022445715d.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/7e33e32ade4ad14d941227e6d3d75d5727859c02.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/8aa82db07532a30e4744cca4981f96e70dbcb901.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/a945a63109b11d0d3769879a6a9828878c57098b.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/b057daaf50b2a44649022aad767d260725117cd4.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/bc2078d7ea2ae5309d619ae5a67148db79548176.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/d756f75abf41c80a56d64299f5147d373b4d430d.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/ebd3e997f5159108adc53515f320441692c836f8.png",
+			"https://cdn.modrinth.com/data/MI1LWe93/images/effc972c752bb61c883bef31e366d17d34342102.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/MI1LWe93/d42fb7a69f1e7a86584fa1ed43520af98acec065.png",
+		"issues": "https://github.com/bonsaistudi0s/Creeper-Overhaul/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "<img src=\"https://i.imgur.com/zfojiw3.png\" alt=\"Creeper Overhaul Workmark\">\n\n<img src=\"https://i.imgur.com/W758n8u.png\" alt=\"Creeper Overhaul Creepers Display\">\n\n<div>\n    <p><br><br></p>\n    <center>\n        <a href=\"https://discord.gg/sGwxnFV\">\n            <img width=\"10%\" src=\"https://i.imgur.com/T4ltmGW.png\" alt=\"Discord\">\n        </a>\n        <a href=\"https://twitter.com/Joosh7889\">\n            <img width=\"10%\" src=\"https://i.imgur.com/ewzK3Zb.png\" alt=\"Twitter\">\n        </a>\n        <a href=\"https://www.youtube.com/channel/UCUvb1-kBGDEA1gVtd3UhlLg/videos\">\n            <img width=\"10%\" src=\"https://i.imgur.com/EirVdtZ.png\" alt=\"YouTube\">\n        </a>\n        <a href=\"https://ko-fi.com/bonsaistudios\">\n            <img width=\"10%\" src=\"https://i.imgur.com/AEfwGvx.png\" alt=\"Kofi\">\n        </a>\n    </center>\n</div>\n\n<div>\n    <p><br><br></p>\n    <center>\n        <img src=\"https://i.imgur.com/52LU4mv.png\" alt=\"About\">\n        <h4>Creeper Overhaul replaces the vanilla creeper with a variety of different biome-specific creeper types, some\n            friendlier than others :)</h4>\n        <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/XIf8yMA1V2U\"\n                title=\"YouTube video player\" frameborder=\"0\" allow=\"encrypted-media; picture-in-picture; web-share\"\n                allowfullscreen></iframe>\n    </center>\n</div>\n\n<div>\n    <p><br><br></p>\n    <center>\n        <h3>You may also be interested in</h3>\n    </center>\n    <center>\n        <a href=\"https://www.curseforge.com/minecraft/texture-packs/creeper-overhaul\">\n            <img width=\"50%\" src=\"https://i.imgur.com/OMlhHaU.png\" alt=\"Creeper Overhaul Resourcepack\">\n        </a>\n        <h5>A resource pack by lord_gogomines bringing the Creeper Overhaul creepers into vanilla Minecraft!</h5>\n    </center>\n    <center>\n        <a href=\"https://www.curseforge.com/minecraft/texture-packs/creeper-overhaul-overhaul\">\n            <img width=\"50%\" src=\"https://i.imgur.com/jUxOI3S.png\" alt=\"Creeper Overhaul Overhaul\">\n        </a>\n        <h5>A fan-made animation resource pack for Creeper Overhaul by wadoo154</h5>\n    </center>\n</div>\n\n<div>\n    <p><br></p>\n    <center>\n        <img src=\"https://i.imgur.com/mnnbI3S.png\" alt=\"Credits\">\n        <p><br></p>\n        <dl>\n            <dt>Josh/Joosh - Art</dt>\n            <dt>ThatGravyBoat - Developer</dt>\n            <dt>scratchy_sd - All creeper sounds</dt>\n            <dt>ArkticBoi - Concept art</dt>\n        </dl>\n    </center>\n</div>\n\n<div>\n    <p><br></p>\n    <center>\n        <img src=\"https://i.imgur.com/ZtjUq8p.png\" alt=\"Our Other Projects\">\n        <p><br></p>\n        <dl>\n            <dt><a href=\"https://modrinth.com/mod/winter-overhaul\">Winter Overhaul</a> - A mod that overhauls the vanilla snowy biomes!</dt>\n            <dt><a href=\"https://modrinth.com/mod/creatures-and-beasts\">Creatures and Beasts</a> - A mod that adds amazing creatures into Minecraft!</dt>\n            <dt><a href=\"https://modrinth.com/mod/critters-and-companions\">Critters and Companions</a> - A mod which adds a variety of friendly animals!</dt>\n        </dl>\n<!--        <article>-->\n<!--            <a href=\"https://modrinth.com/mod/winter-overhaul\"><img width=\"30%\" src=\"https://i.imgur.com/m2KGEuM.png\" alt=\"Winter Overhaul\"></a>-->\n<!--            &nbsp;&nbsp;&nbsp;&nbsp;-->\n<!--            <a href=\"https://modrinth.com/mod/creatures-and-beasts\"><img width=\"30%\" src=\"https://media.forgecdn.net/attachments/474/877/cactem_cf.png\" alt=\"Creatures and Beasts\"></a>-->\n<!--            &nbsp;&nbsp;&nbsp;&nbsp;-->\n<!--            <a href=\"https://modrinth.com/mod/critters-and-companions\"><img width=\"30%\" src=\"https://media.forgecdn.net/attachments/482/77/red_panda.png\" alt=\"Critters and Companions\"></a>-->\n<!--        </article>-->\n    </center>\n</div>\n\n<div>\n    <center>\n        <a href=\"https://server.pro/?ref=joosh\"><img src=\"https://i.imgur.com/sLRsisk.png\" alt=\"Server.pro\"></a>\n    </center>\n</div>",
+		"name": "Creeper Overhaul",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/bonsaistudi0s/Creeper-Overhaul",
+		"support_link": "https://ko-fi.com/bonsaistudios"
+	},
+	"properties": {
+		"modrinth_id": "MI1LWe93",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19.2",
+			"1.20",
+			"1.20.1"
+		]
+	}
+}

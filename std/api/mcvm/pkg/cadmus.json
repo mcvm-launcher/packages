@@ -1,0 +1,570 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/kzMsPbNB/cadmus-fabric-1.20.1-1.0.8.jar",
+					"version": "kzMsPbNB"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/vtGe3auv/cadmus-forge-1.20.1-1.0.8.jar",
+					"version": "vtGe3auv"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/EiatAg7l/cadmus-fabric-1.20.4-1.2.2.jar",
+					"version": "EiatAg7l"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/JAcTHat9/cadmus-neoforge-1.20.4-1.2.2.jar",
+					"version": "JAcTHat9"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/g8mEsGDq/cadmus-fabric-1.20.2-1.1.1.jar",
+					"version": "g8mEsGDq"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/rasMkf0c/cadmus-neoforge-1.20.2-1.1.1.jar",
+					"version": "rasMkf0c"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/UybXEq7f/cadmus-fabric-1.20.1-1.0.7.jar",
+					"version": "UybXEq7f"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/e92t9xrq/cadmus-forge-1.20.1-1.0.7.jar",
+					"version": "e92t9xrq"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/vZaX0jeJ/cadmus-fabric-1.20.4-1.2.1.jar",
+					"version": "vZaX0jeJ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/yA4y65qw/cadmus-neoforge-1.20.4-1.2.1.jar",
+					"version": "yA4y65qw"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/G5ltngSg/cadmus-fabric-1.20.4-1.2.0.jar",
+					"version": "G5ltngSg"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/6m1pgn8o/cadmus-neoforge-1.20.4-1.2.0.jar",
+					"version": "6m1pgn8o"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/oAW5rt8N/cadmus-fabric-1.20.1-1.0.6.jar",
+					"version": "oAW5rt8N"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/zLWAHqsb/cadmus-forge-1.20.1-1.0.6.jar",
+					"version": "zLWAHqsb"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/P8apXAz5/cadmus-fabric-1.20.1-1.0.5.jar",
+					"version": "P8apXAz5"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/mmJ3qwUy/cadmus-forge-1.20.1-1.0.5.jar",
+					"version": "mmJ3qwUy"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/TmSKxFiA/cadmus-fabric-1.20.1-1.0.4.jar",
+					"version": "TmSKxFiA"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/GnaH9yDN/cadmus-forge-1.20.1-1.0.4.jar",
+					"version": "GnaH9yDN"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/GCHwMPRc/cadmus-fabric-1.20.1-1.0.3.jar",
+					"version": "GCHwMPRc"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/hFygPr1S/cadmus-forge-1.20.1-1.0.3.jar",
+					"version": "hFygPr1S"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/znI3q571/cadmus-fabric-1.20.2-1.1.0.jar",
+					"version": "znI3q571"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/8je72aHY/cadmus-neoforge-1.20.2-1.1.0.jar",
+					"version": "8je72aHY"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/57nr7uAi/cadmus-fabric-1.20.1-1.0.2.jar",
+					"version": "57nr7uAi"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/xdA3AEp0/cadmus-forge-1.20.1-1.0.2.jar",
+					"version": "xdA3AEp0"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/ewLEwoQd/cadmus-fabric-1.20.1-1.0.1.jar",
+					"version": "ewLEwoQd"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/LfDknJGW/cadmus-forge-1.20.1-1.0.1.jar",
+					"version": "LfDknJGW"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "prometheus"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/RImnLJNY/cadmus-fabric-1.20.1-1.0.0.jar",
+					"version": "RImnLJNY"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": [
+							{
+								"value": "prometheus"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/pt9twRWr/cadmus-forge-1.20.1-1.0.0.jar",
+					"version": "pt9twRWr"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": [
+							{
+								"value": "journeymap"
+							},
+							{
+								"value": "prometheus"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/9QHgqjUX/cadmus-forge-1.20.1-0.0.6.jar",
+					"version": "9QHgqjUX"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "journeymap"
+							},
+							{
+								"value": "prometheus"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/EeytPlfC/cadmus-fabric-1.20.1-0.0.6.jar",
+					"version": "EeytPlfC"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": {
+							"value": "journeymap"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/JhNMy5tS/cadmus-forge-1.20.1-0.0.5.jar",
+					"version": "JhNMy5tS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": {
+							"value": "journeymap"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/Qteup2vd/cadmus-forge-1.20.1-0.0.4.jar",
+					"version": "Qteup2vd"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": {
+							"value": "journeymap"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/q81Ie8CX/cadmus-fabric-1.20.1-0.0.4.jar",
+					"version": "q81Ie8CX"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/pVYAyVrQ/cadmus-forge-1.20.1-0.0.2.jar",
+					"version": "pVYAyVrQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/iTys6vmi/cadmus-fabric-1.20.1-0.0.2.jar",
+					"version": "iTys6vmi"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib",
+						"recommendations": {
+							"value": "journeymap"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/9tQBYhqC/cadmus-forge-1.20-0.0.1.jar",
+					"version": "9tQBYhqC"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						],
+						"recommendations": {
+							"value": "journeymap"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/9i8w5mSi/cadmus-fabric-1.20-0.0.1.jar",
+					"version": "9i8w5mSi"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "resourceful-lib"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/FGCGeFyW/cadmus-forge-1.20-0.0.0.jar",
+					"version": "FGCGeFyW"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fEWKxVzh/versions/UoWYtzCg/cadmus-fabric-1.20-0.0.0.jar",
+					"version": "UoWYtzCg"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"AlexNijjar",
+			"ThatGravyBoat"
+		],
+		"community": "https://discord.terrarium.earth",
+		"description": "A land claiming mod that allows users to claim land to protect your home from thieves,  bandits and monsters, and admins to claim land with region flags and advanced protection",
+		"gallery": [
+			"https://cdn.modrinth.com/data/fEWKxVzh/images/b1b849f76ed8a0309b07204ae8a9c3fd2feec1bb.png",
+			"https://cdn.modrinth.com/data/fEWKxVzh/images/db695b9899b30e54ad82f2c117d1c74975801a9f.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/fEWKxVzh/5d5fcff12c939097701a1c57d8c437845fc3c0f9.png",
+		"issues": "https://github.com/terrarium-earth/Cadmus/issues",
+		"license": "MIT",
+		"long_description": "## Cadmus\n\n[![Made by Terrarium](https://cdn.discordapp.com/attachments/1073717602880327761/1073718144910233691/Terrarium_vector.svg)](https://discord.terrarium.earth)\n[![Modrinth Partnership](https://cdn.discordapp.com/attachments/817413688771608587/1117196719420092557/Modrinth_vector.svg)](https://discord.gg/modrinth-734077874708938864)\n[![Requires Resourceful Lib](https://cdn.discordapp.com/attachments/1073717602880327761/1117197221792854156/RLib_vector.svg)](https://modrinth.com/mod/resourceful-lib)\n[![Supports Argonauts](https://cdn.discordapp.com/attachments/1073717602880327761/1117197944815353896/Supports_Argonauts_vector.svg)](https://modrinth.com/mod/argonauts)\n\n---\n\n### 📖 About 📖\n\nNamed after the great king and founder of Thebes, Cadmus allows both players\nand server admins to protect their land from thieves and certain environmental\nelements.\n\nPlayers can claim land as an individual or as a [team](https://modrinth.com/mod/argonauts).\nServer owners can use the admin claim feature to claim chunks no player may touch,\nand even further than that, they can use the region flags system to enable or disable\ncertain rules from occuring in the claimed admin chunks\n\n### Land claiming\n![Very pog team claim shown on map](https://cdn.discordapp.com/attachments/1094731881590833203/1111446601932746794/Screenshot_2023-05-25_at_7.11.50_PM.png)\n\n### Admin claims\n![Epic admin claim shown on map](https://cdn.discordapp.com/attachments/1094731881590833203/1111449007563231252/Screenshot_2023-05-25_at_7.21.11_PM.png)\n\n---\n\n### Check out the rest of Project Odyssey!\n\n<a href=\"https://www.modrinth.com/mod/argonauts\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106169555726406/Argonauts_vector.svg\" alt=\"Argonauts\" height=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/heracles\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106080221245450/Heracles_vector.svg\" alt=\"Heracles\" height=\"96\"></a>\n<a href=\"https://github.com/terrarium-earth/Hermes\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106109220659200/Hermes_vector.svg\" alt=\"Hermes\" height=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/cadmus\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106035388317696/Cadmus_vector.svg\" alt=\"Cadmus\" height=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/prometheus\"><img src=\"https://cdn.discordapp.com/attachments/817413688771608587/1117106228456329287/Prometheus_vector.svg\" alt=\"Prometheus\" height=\"96\"></a>\n\n---\n\n[![Use code \"Terrarium\" for 25% off at BisectHosting](https://cdn.discordapp.com/attachments/817413688771608587/1117104938712047747/Terrarium_BisectHosting_Banner_image.png)](http://bisecthosting.com/terrarium)\n\n---\n\n### Socials\n\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n---\n\n### Check out our other projects\n<a href=\"https://www.modrinth.com/mod/handcrafted\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327560368148/Handcrafted2x.svg\" alt=\"Handcrafted\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/chipped\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326943801376/Chipped2x.svg\" alt=\"Chipped\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/ad-astra\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068326604066888/Ad_Astra2x.svg\" alt=\"Ad Astra\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/tempad\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329108058213/Tempad2x.svg\" alt=\"Tempad\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/colorful-azaleas\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068327237398668/Colorful_Azalaeas2x.svg\" alt=\"Colorful Azalaeas\" width=\"96\"></a>\n\n<a href=\"https://www.modrinth.com/mod/lil-wings\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328189509643/Lil_Wings2x.svg\" alt=\"Lil Wings\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/vitalize\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329426833508/vitalize2x.svg\" alt=\"Vitalize\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/spirit\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328793493574/Spirit2x.svg\" alt=\"Spirit\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/reaper\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068328457941063/reaper2x.svg\" alt=\"Reaper\" width=\"96\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/experience-obelisk\"><img src=\"https://cdn.discordapp.com/attachments/1073717602880327761/1095068329745596496/xp_obelisk2x.svg\" alt=\"Experience Obelisk\" width=\"96\"></a>",
+		"name": "Cadmus",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/terrarium-earth/Cadmus"
+	},
+	"properties": {
+		"modrinth_id": "fEWKxVzh",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4"
+		]
+	}
+}

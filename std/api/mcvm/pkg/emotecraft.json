@@ -1,0 +1,3088 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/kV90c7FZ/emotecraft-for-MC1.19.3-2.2.7-SNAPSHOT-build.46-fabric.jar",
+					"version": "kV90c7FZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/yuPRWJ8k/emotecraft-for-MC1.19.2-2.2.1-forge.jar",
+					"version": "yuPRWJ8k"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/CUDCdgav/emotecraft-for-MC1.20.4-2.4.0-a.f140890e-fabric.jar",
+					"version": "CUDCdgav"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/TOLa2tJO/emotecraft-for-MC1.18.2-2.2.7-b.build.50-fabric.jar",
+					"version": "TOLa2tJO"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/MsVWqONy/emotecraft-for-MC1.18.2-2.2.7-b.build.50-forge.jar",
+					"version": "MsVWqONy"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/pFGcytFI/emotecraft-for-MC1.19.2-2.2.7-b.build.50-fabric.jar",
+					"version": "pFGcytFI"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/kZGkovfR/emotecraft-for-MC1.19.2-2.2.7-b.build.50-forge.jar",
+					"version": "kZGkovfR"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/bNYFbb9P/emotecraft-for-MC1.19.4-2.2.7-b.build.50-fabric.jar",
+					"version": "bNYFbb9P"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/CXK26aNh/emotecraft-for-MC1.19.4-2.2.7-b.build.50-forge.jar",
+					"version": "CXK26aNh"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/NFPdxMt9/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+					"version": "NFPdxMt9"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2f5mEUPY/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+					"version": "2f5mEUPY"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/yFTvRWgr/emotecraft-for-MC1.18.2-2.2.7-a.build.49-fabric.jar",
+					"version": "yFTvRWgr"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/QILSBfTw/emotecraft-for-MC1.18.2-2.2.7-a.build.49-forge.jar",
+					"version": "QILSBfTw"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/AKCyi6dw/emotecraft-for-MC1.19.2-2.2.7-a.build.49-fabric.jar",
+					"version": "AKCyi6dw"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/pjDS5LRD/emotecraft-for-MC1.19.2-2.2.7-a.build.49-forge.jar",
+					"version": "pjDS5LRD"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/Zv3TojDv/emotecraft-for-MC1.19.4-2.2.7-a.build.49-fabric.jar",
+					"version": "Zv3TojDv"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/cAAOVjLS/emotecraft-for-MC1.19.4-2.2.7-a.build.49-forge.jar",
+					"version": "cAAOVjLS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/IqKGk9AT/emotecraft-for-MC1.20.1-2.2.7-a.build.49-fabric.jar",
+					"version": "IqKGk9AT"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/jBlri9Pa/emotecraft-for-MC1.20.1-2.2.7-a.build.49-forge.jar",
+					"version": "jBlri9Pa"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/z18j1WDv/emotecraft-for-MC1.18.2-2.2.7-b.build.48-fabric.jar",
+					"version": "z18j1WDv"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/XnDCvVtU/emotecraft-for-MC1.18.2-2.2.7-b.build.48-forge.jar",
+					"version": "XnDCvVtU"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/ywlwyKDv/emotecraft-for-MC1.19.2-2.2.7-b.build.48-fabric.jar",
+					"version": "ywlwyKDv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/B99cZBQ0/emotecraft-for-MC1.19.2-2.2.7-b.build.48-forge.jar",
+					"version": "B99cZBQ0"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/repCGNbQ/emotecraft-for-MC1.19.3-2.2.7-b.build.48-fabric.jar",
+					"version": "repCGNbQ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/uC0FgiCP/emotecraft-for-MC1.19.3-2.2.7-b.build.48-forge.jar",
+					"version": "uC0FgiCP"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/8usSPO0G/emotecraft-for-MC1.19.4-2.2.7-b.build.48-fabric.jar",
+					"version": "8usSPO0G"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/5K7Vy0CM/emotecraft-for-MC1.19.4-2.2.7-b.build.48-forge.jar",
+					"version": "5K7Vy0CM"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/CwHBNRDB/emotecraft-for-MC1.16.5-2.2.7-b.build.47-fabric.jar",
+					"version": "CwHBNRDB"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/OU1kdZya/emotecraft-for-MC1.16.5-2.2.7-b.build.47-forge.jar",
+					"version": "OU1kdZya"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/ToCobxiP/emotecraft-for-MC1.18.2-2.2.7-b.build.47-fabric.jar",
+					"version": "ToCobxiP"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/QzlpZh4r/emotecraft-for-MC1.18.2-2.2.7-b.build.47-forge.jar",
+					"version": "QzlpZh4r"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/d9mAMnw0/emotecraft-for-MC1.19.2-2.2.7-b.build.47-fabric.jar",
+					"version": "d9mAMnw0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/PmBVbKKt/emotecraft-for-MC1.19.2-2.2.7-b.build.47-forge.jar",
+					"version": "PmBVbKKt"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/LVl8YFvF/emotecraft-for-MC1.19.3-2.2.7-b.build.47-fabric.jar",
+					"version": "LVl8YFvF"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/DiQvVDRW/emotecraft-for-MC1.19.3-2.2.7-b.build.47-forge.jar",
+					"version": "DiQvVDRW"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/1oDR36MB/emotecraft-for-MC1.16.5-2.2.6-SNAPSHOT-build.44-fabric.jar",
+					"version": "1oDR36MB"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/GmT3Gdmr/emotecraft-for-MC1.16.5-2.2.6-SNAPSHOT-build.44-forge.jar",
+					"version": "GmT3Gdmr"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/MjLxuS9U/emotecraft-for-MC1.18.2-2.2.6-SNAPSHOT-build.44-fabric.jar",
+					"version": "MjLxuS9U"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/jZKonKJ0/emotecraft-for-MC1.18.2-2.2.6-SNAPSHOT-build.44-forge.jar",
+					"version": "jZKonKJ0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/rKq67C77/emotecraft-for-MC1.19.2-2.2.6-SNAPSHOT-build.44-fabric.jar",
+					"version": "rKq67C77"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/auBfRvjy/emotecraft-for-MC1.19.2-2.2.6-SNAPSHOT-build.44-forge.jar",
+					"version": "auBfRvjy"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/HyxtDh1N/emotecraft-for-MC1.16.5-2.2.5-fabric.jar",
+					"version": "HyxtDh1N"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/tKNw7fvw/emotecraft-for-MC1.16.5-2.2.5-forge.jar",
+					"version": "tKNw7fvw"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/25JiNHog/emotecraft-for-MC1.18.2-2.2.5-fabric.jar",
+					"version": "25JiNHog"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/RE1BKxI8/emotecraft-for-MC1.18.2-2.2.5-forge.jar",
+					"version": "RE1BKxI8"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/hpOzeA3F/emotecraft-for-MC1.19.2-2.2.5-fabric.jar",
+					"version": "hpOzeA3F"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/PnqzDspo/emotecraft-for-MC1.19.2-2.2.5-forge.jar",
+					"version": "PnqzDspo"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/czLNW21m/emotecraft-for-MC1.16.5-2.2.4-fabric.jar",
+					"version": "czLNW21m"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/GIH9Hxb4/emotecraft-for-MC1.16.5-2.2.4-forge.jar",
+					"version": "GIH9Hxb4"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/y6ujlYAE/emotecraft-for-MC1.18.2-2.2.4-fabric.jar",
+					"version": "y6ujlYAE"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/Wfp9cg5i/emotecraft-for-MC1.18.2-2.2.4-forge.jar",
+					"version": "Wfp9cg5i"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/bROpJFWZ/emotecraft-for-MC1.19.2-2.2.4-fabric.jar",
+					"version": "bROpJFWZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/WBYQJtu9/emotecraft-for-MC1.19.2-2.2.4-forge.jar",
+					"version": "WBYQJtu9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/k9MgcQmQ/emotecraft-for-MC1.16.5-2.2.3-fabric.jar",
+					"version": "k9MgcQmQ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/9H1hhNIo/emotecraft-for-MC1.16.5-2.2.3-forge.jar",
+					"version": "9H1hhNIo"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/oey67ELr/emotecraft-for-MC1.18.2-2.2.3-fabric.jar",
+					"version": "oey67ELr"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/s0N7Zgzo/emotecraft-for-MC1.18.2-2.2.3-forge.jar",
+					"version": "s0N7Zgzo"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/RtYLalTi/emotecraft-for-MC1.19.2-2.2.3-fabric.jar",
+					"version": "RtYLalTi"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/bQAvDaI6/emotecraft-for-MC1.19.2-2.2.3-forge.jar",
+					"version": "bQAvDaI6"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/UPMiHTyP/emotecraft-for-MC1.16.5-2.2.3-SNAPSHOT-build.40-fabric.jar",
+					"version": "UPMiHTyP"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/OGoWjgjJ/emotecraft-for-MC1.16.5-2.2.3-SNAPSHOT-build.40-forge.jar",
+					"version": "OGoWjgjJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/dz98CeFn/emotecraft-for-MC1.18.2-2.2.3-SNAPSHOT-build.40-fabric.jar",
+					"version": "dz98CeFn"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/iGplryeA/emotecraft-for-MC1.18.2-2.2.3-SNAPSHOT-build.40-forge.jar",
+					"version": "iGplryeA"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/XuPoXuFh/emotecraft-for-MC1.19.2-2.2.3-SNAPSHOT-build.40-fabric.jar",
+					"version": "XuPoXuFh"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/iAQLm00B/emotecraft-for-MC1.19.2-2.2.3-SNAPSHOT-build.40-forge.jar",
+					"version": "iAQLm00B"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/ey35nhnS/emotecraft-for-MC1.16.5-2.2.2-fabric.jar",
+					"version": "ey35nhnS"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/4cMYA3Er/emotecraft-for-MC1.16.5-2.2.2-forge.jar",
+					"version": "4cMYA3Er"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/i1VjnD7E/emotecraft-for-MC1.18.2-2.2.2-fabric.jar",
+					"version": "i1VjnD7E"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/3GTLlENE/emotecraft-for-MC1.18.2-2.2.2-forge.jar",
+					"version": "3GTLlENE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/73BLn97K/emotecraft-for-MC1.19.2-2.2.2-fabric.jar",
+					"version": "73BLn97K"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/rnaJd7xS/emotecraft-for-MC1.19.2-2.2.2-forge.jar",
+					"version": "rnaJd7xS"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.2.0-fabric.jar",
+					"version": "PeuaF8sw"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.2.0-forge.jar",
+					"version": "LI9tomy2"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.2.0-fabric.jar",
+					"version": "V1ajrIwr"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.2.0-forge.jar",
+					"version": "CQfJLriX"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-MC1.19.2-fabric/emotecraft-for-MC1.19.2-2.2.0-fabric.jar",
+					"version": "dBB7GxAG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-MC1.19.2-forge/emotecraft-for-MC1.19.2-2.2.0-forge.jar",
+					"version": "Lr81ewQ8"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.37-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.2.0-SNAPSHOT-build.37-fabric.jar",
+					"version": "byQ8xkjs"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.37-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.2.0-SNAPSHOT-build.37-forge.jar",
+					"version": "s8EPPsNB"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.37-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.2.0-SNAPSHOT-build.37-fabric.jar",
+					"version": "RUD35GCT"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.37-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.2.0-SNAPSHOT-build.37-forge.jar",
+					"version": "ampBk5i8"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.37-MC1.19.2-fabric/emotecraft-for-MC1.19.2-2.2.0-SNAPSHOT-build.37-fabric.jar",
+					"version": "TTajT9qz"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.37-MC1.19.2-forge/emotecraft-for-MC1.19.2-2.2.0-SNAPSHOT-build.37-forge.jar",
+					"version": "S4QhgQFK"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.36-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.2.0-SNAPSHOT-build.36-fabric.jar",
+					"version": "MiFGYSe4"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.36-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.2.0-SNAPSHOT-build.36-forge.jar",
+					"version": "Say4LIuw"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.36-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.2.0-SNAPSHOT-build.36-fabric.jar",
+					"version": "e2cai3jB"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.36-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.2.0-SNAPSHOT-build.36-forge.jar",
+					"version": "3vfnMBbn"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.36-MC1.19.2-fabric/emotecraft-for-MC1.19.2-2.2.0-SNAPSHOT-build.36-fabric.jar",
+					"version": "D9gMEVFD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.36-MC1.19.2-forge/emotecraft-for-MC1.19.2-2.2.0-SNAPSHOT-build.36-forge.jar",
+					"version": "DRbMmVyd"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.35-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.2.0-SNAPSHOT-build.35-fabric.jar",
+					"version": "2MzZLPn5"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.35-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.2.0-SNAPSHOT-build.35-forge.jar",
+					"version": "dOQ0q9EZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.35-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.2.0-SNAPSHOT-build.35-fabric.jar",
+					"version": "rSaIet5S"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "bendy-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.35-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.2.0-SNAPSHOT-build.35-forge.jar",
+					"version": "vdWhVaNP"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.35-MC1.19.2-fabric/emotecraft-for-MC1.19.2-2.2.0-SNAPSHOT-build.35-fabric.jar",
+					"version": "pSk3hsBc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.35-MC1.19.2-forge/emotecraft-for-MC1.19.2-2.2.0-SNAPSHOT-build.35-forge.jar",
+					"version": "QjWvdE3u"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.32-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.32-fabric.jar",
+					"version": "md56YNpC"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.32-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.32-forge.jar",
+					"version": "ckOJ6i6n"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.32-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.32-fabric.jar",
+					"version": "MsvdQ0Jc"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.32-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.32-forge.jar",
+					"version": "UeYIGozf"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.32-MC1.19-fabric/emotecraft-for-MC1.19-2.1.3-SNAPSHOT-build.32-fabric.jar",
+					"version": "o2eRhx3s"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.32-MC1.19-forge/emotecraft-for-MC1.19-2.1.3-SNAPSHOT-build.32-forge.jar",
+					"version": "laFrihZO"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.31-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.31-fabric.jar",
+					"version": "idz0j3DC"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.31-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.31-forge.jar",
+					"version": "CM50Kag0"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.31-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.31-fabric.jar",
+					"version": "8dvpQa8S"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.31-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.31-forge.jar",
+					"version": "sWkcVQuB"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.31-MC1.19-fabric/emotecraft-for-MC1.19-2.1.3-SNAPSHOT-build.31-fabric.jar",
+					"version": "WDGp8utA"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.31-MC1.19-forge/emotecraft-for-MC1.19-2.1.3-SNAPSHOT-build.31-forge.jar",
+					"version": "e8RdyaUB"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.30-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.30-fabric.jar",
+					"version": "TKLrfGhJ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.30-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.30-forge.jar",
+					"version": "dQGSSteJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.30-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.30-fabric.jar",
+					"version": "fYmJUQ3F"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.30-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.30-forge.jar",
+					"version": "dSdO8HJt"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.30-MC1.19-fabric/emotecraft-for-MC1.19-2.1.3-SNAPSHOT-build.30-fabric.jar",
+					"version": "V9i2SXYQ"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.30-MC1.19-forge/emotecraft-for-MC1.19-2.1.3-SNAPSHOT-build.30-forge.jar",
+					"version": "GKPW2Z59"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.29-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.29-fabric.jar",
+					"version": "QMUxlXz5"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.29-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.29-forge.jar",
+					"version": "N6Aq60BA"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.29-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.29-fabric.jar",
+					"version": "Xz10Lz6d"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.29-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.29-forge.jar",
+					"version": "PE1Rz7RT"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.29-MC1.19-fabric/emotecraft-for-MC1.19-2.1.3-SNAPSHOT-build.29-fabric.jar",
+					"version": "q65wM87f"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.28-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.28-fabric.jar",
+					"version": "iOc7tkMH"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.28-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.28-forge.jar",
+					"version": "dl3tpVoa"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.28-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.28-fabric.jar",
+					"version": "uo6QM4ts"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.28-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.28-forge.jar",
+					"version": "EcyGB5zh"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.28-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.28-fabric.jar",
+					"version": "tbhsbjar"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.28-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.28-forge.jar",
+					"version": "rdw3jZnp"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.27-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.27-fabric.jar",
+					"version": "VSpEewer"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.27-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.27-forge.jar",
+					"version": "MEN6ReQc"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.27-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.27-fabric.jar",
+					"version": "HcwZZijq"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.27-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.27-forge.jar",
+					"version": "ok9VYSgP"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.27-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.27-fabric.jar",
+					"version": "F2ZrhoZH"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.27-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.27-forge.jar",
+					"version": "ECDoqXad"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.25-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.25-fabric.jar",
+					"version": "k7LyhhgU"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.25-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.25-forge.jar",
+					"version": "4StF08Zw"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.25-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.25-fabric.jar",
+					"version": "XdF3QalJ"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.25-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.25-forge.jar",
+					"version": "9Y0sflw3"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.25-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.25-fabric.jar",
+					"version": "XkjY0Qq1"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.25-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.25-forge.jar",
+					"version": "QcPAiLkX"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.24-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.24-fabric.jar",
+					"version": "63hY0N4d"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.24-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.24-forge.jar",
+					"version": "4QjEhSFO"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.24-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.24-fabric.jar",
+					"version": "pdxJFsW5"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.24-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.24-forge.jar",
+					"version": "EnhZvF4P"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.24-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.24-fabric.jar",
+					"version": "mXhxsFiR"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.24-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.24-forge.jar",
+					"version": "D890KqZO"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.23-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.23-fabric.jar",
+					"version": "lYVrunDl"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.23-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.23-forge.jar",
+					"version": "XUTKWwmZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.23-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.23-fabric.jar",
+					"version": "GPZuIEY3"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.23-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.23-forge.jar",
+					"version": "IrX6FD9Q"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.23-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.23-fabric.jar",
+					"version": "h9FCqo3p"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.23-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.23-forge.jar",
+					"version": "63jsdWDn"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.22-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.22-fabric.jar",
+					"version": "qBjzziub"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.22-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.22-forge.jar",
+					"version": "wSysxyOd"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.22-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.22-fabric.jar",
+					"version": "XR6A3Lc8"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.22-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.22-forge.jar",
+					"version": "HPMyZMlQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.22-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.22-fabric.jar",
+					"version": "AVSUNefN"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.22-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.22-forge.jar",
+					"version": "CQ5hp1ay"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.21-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.21-fabric.jar",
+					"version": "VpbWT05z"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.21-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.21-forge.jar",
+					"version": "6vZ6ZjwI"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.21-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.21-fabric.jar",
+					"version": "HeuYHR0n"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.21-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.21-forge.jar",
+					"version": "1e6LkG8i"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.21-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.21-fabric.jar",
+					"version": "7htvtDSe"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.21-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.21-forge.jar",
+					"version": "Boek4E3Z"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.19-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.19-fabric.jar",
+					"version": "3LSQZcwo"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.19-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.19-forge.jar",
+					"version": "6wIdHM3p"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.19-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.19-fabric.jar",
+					"version": "HEqK5qUp"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.19-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.19-forge.jar",
+					"version": "rFjK2pAM"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.19-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.19-fabric.jar",
+					"version": "ysyecsY8"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.19-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.19-forge.jar",
+					"version": "6xFmhFLR"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.17-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.17-fabric.jar",
+					"version": "HWIT7KSG"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.17-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.3-SNAPSHOT-build.17-forge.jar",
+					"version": "Gb1s9z7u"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.17-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.17-fabric.jar",
+					"version": "Cgl9EZxu"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.17-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.3-SNAPSHOT-build.17-forge.jar",
+					"version": "PpG22Irj"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.17-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.17-fabric.jar",
+					"version": "e3KUYiA1"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.17-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.17-forge.jar",
+					"version": "1fCBrUrN"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.2-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.2-fabric.jar",
+					"version": "n3DhNcqw"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.2-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.2-forge.jar",
+					"version": "Dpvz7EXQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.2-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.2-fabric.jar",
+					"version": "53sikmLI"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.2-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.2-forge.jar",
+					"version": "qYybj2tT"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.2-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.2-fabric.jar",
+					"version": "nvkXugs1"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.2-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.2-forge.jar",
+					"version": "ZyU860w6"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.1-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1.1-fabric.jar",
+					"version": "Xo3slvMK"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.1-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1.1-forge.jar",
+					"version": "d93WcXUq"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.1-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1.1-fabric.jar",
+					"version": "ZEhk9kOJ"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.1-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1.1-forge.jar",
+					"version": "QFqp2ELl"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.1-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.1-fabric.jar",
+					"version": "iIGnVXO2"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.1-MC1.18.2-forge/emotecraft-for-MC1.18.2-2.1.1-forge.jar",
+					"version": "1pnYM4Ma"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1-fabric.jar",
+					"version": "yE6gcl0N"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1-forge.jar",
+					"version": "HHIpMsxR"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1-fabric.jar",
+					"version": "n2T306oH"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1-forge.jar",
+					"version": "iHW53tWc"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-MC1.18.1-fabric/emotecraft-for-MC1.18.1-2.1-fabric.jar",
+					"version": "dp29EE5f"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-MC1.18.1-forge/emotecraft-for-MC1.18.1-2.1-forge.jar",
+					"version": "ykXjQEhH"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.11-MC1.16.5-fabric/emotecraft-for-MC1.16.5-2.1-SNAPSHOT-build.11-fabric.jar",
+					"version": "KxXEzccV"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.11-MC1.16.5-forge/emotecraft-for-MC1.16.5-2.1-SNAPSHOT-build.11-forge.jar",
+					"version": "Vfd2GzRZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.11-MC1.17.1-fabric/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.11-fabric.jar",
+					"version": "UxqU0Svt"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.11-MC1.17.1-forge/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.11-forge.jar",
+					"version": "tVVVVcJv"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.11-MC1.18.1-fabric/emotecraft-for-MC1.18.1-2.1-SNAPSHOT-build.11-fabric.jar",
+					"version": "ldxABswS"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.11-MC1.18.1-forge/emotecraft-for-MC1.18.1-2.1-SNAPSHOT-build.11-forge.jar",
+					"version": "gj9igUnL"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.10-forge/emotecraft-for-MC1.18.1-2.1-SNAPSHOT-build.10-forge.jar",
+					"version": "6rQv0DEk"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.10-fabric/emotecraft-for-MC1.18.1-2.1-SNAPSHOT-build.10-fabric.jar",
+					"version": "q93V638A"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.10/emotecraft-2.1-SNAPSHOT-build.10-bukkit.jar",
+					"version": "zCMGFBBB"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.9/emotecraft-2.1-SNAPSHOT-build.9-bukkit.jar",
+					"version": "MalHlsZ2"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17",
+						"1.17.1",
+						"1.18-pre1",
+						"1.18"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.8/emotecraft-2.1-SNAPSHOT-build.8-bukkit.jar",
+					"version": "9mCzFR23"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com//data/pZ2wrerK/versions/2.1-SNAPSHOT-build.7/emotecraft-2.1-SNAPSHOT-build.7-bukkit.jar",
+					"version": "kkaBff5Z"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com//data/pZ2wrerK/versions/2.1-SNAPSHOT-build.6/emotecraft-2.1-SNAPSHOT-build.6-bukkit.jar",
+					"version": "BrhvBBIL"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com//data/pZ2wrerK/versions/2.1-SNAPSHOT-build.5/emotecraft-2.1-SNAPSHOT-build.5-bukkit.jar",
+					"version": "VzLn8LdF"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.4/emotecraft-2.1-SNAPSHOT-build.4-bukkit.jar",
+					"version": "sA5qoZfS"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-6385565/emotecraft-2.1-SNAPSHOT-6385565-bukkit.jar",
+					"version": "Qpm1hQWR"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-b692f79/emotecraft-2.1-SNAPSHOT-b692f79-bukkit.jar",
+					"version": "F6YNHsxC"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-3/emotecraft-2.1-SNAPSHOT-3-bukkit.jar",
+					"version": "sOX0oFpg"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-2/emotecraft-2.1-SNAPSHOT-2-bukkit.jar",
+					"version": "hOlTR0Zs"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-1/emotecraft-2.1-SNAPSHOT-1-bukkit.jar",
+					"version": "tAhUtBqm"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.9/emotecraft-2.0.9-bukkit.jar",
+					"version": "oaebUouH"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.8/emotecraft-2.0.8-bukkit.jar",
+					"version": "XaW414Nz"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.7/emotecraft-2.0.7-bukkit.jar",
+					"version": "hw4MzaBO"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.5",
+						"1.17"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.6/emotecraft-2.0.6-bukkit.jar",
+					"version": "LsGEt0G6"
+				},
+				{
+					"minecraft_versions": [
+						"1.17-rc2",
+						"1.17"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.5-1.17-rc2/emotecraft-2.0.5-bukkit.jar",
+					"version": "sFwcIuk2"
+				},
+				{
+					"minecraft_versions": "1.17-rc2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/unspecified/emotecraft-2.0.4-bukkit.jar",
+					"version": "CVEEUiU0"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.4/emotecraft-2.0.4-bukkit.jar",
+					"version": "CNC0NFnn"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.3/emotecraft-2.0.3-bukkit.jar",
+					"version": "GA5qYcsp"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.2/emotecraft-2.0.2-bukkit.jar",
+					"version": "8qiOPtrU"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.1/emotecraft-2.0.1-bukkit.jar",
+					"version": "zTCmESwz"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0.0/emotecraft-2.0.0-bukkit.jar",
+					"version": "5pK0OJeT"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0-b2/emotecraft-2.0-b2-bukkit.jar",
+					"version": "eXh7hhIL"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0-b1/emotecraft-2.0-b1-bukkit.jar",
+					"version": "Ycs17SJ8"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.0SNAPSHOT0/emotecraft-for-MC1.16.5-2.0SNAPSHOT0-fabric.jar",
+					"version": "RLjGDEEY"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/1.4.0/emotecraft-for-MC1.16.5-1.4.0.jar",
+					"version": "LTUWpL7U"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/1.3.1/emotecraft-for-MC1.16.5-1.3.1.jar",
+					"version": "WzOyhCoN"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/1.3.0/emotecraft-for-MC1.16.5-1.3.0.jar",
+					"version": "qCJdHFBu"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"KosmX"
+		],
+		"community": "https://discord.com/invite/6NfdRuE",
+		"description": "Create your own emotes in Minecraft.",
+		"documentation": "https://kosmx.gitbook.io/emotecraft/",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/pZ2wrerK/icon.png",
+		"issues": "https://github.com/KosmX/emotes/issues",
+		"license": "CC-BY-4.0",
+		"long_description": "## Emotes in Minecraft JAVA  \n<br>\n\n### Create your own emotes in Minecraft.  \n---\n\n### When downloading the mod, please **only use** official downloads as others may be infected.  \nOfficial project (only download the mod from here):  \n- [GitHub/KosmX/emotes](https://github.com/KosmX/emotes)  \n- [Modrinth/Emotecraft](https://modrinth.com/mod/emotecraft)  \n- [CurseForge/Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft) and [CurseForge/Emotecraft (Forge)](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge)  \n- [maven.kosmx.dev](https://maven.kosmx.dev/io/github/kosmx/emotes/) this is for developers.  \n**Don't download it from any other source!**  \n\n---\n\n\n![](https://i.imgur.com/tWD40Fg.png)\n---\n#### Builtin emotes  \nThere are default emotes like waving  \n#### Custom emotes    \nyou can create your own emotes and play them  \n#### Blender and Blockbench emote creator tools\nmore about this [here](https://kosmx.gitbook.io/emotecraft/tutorial/custom-emotes)  \n[or just download the tools](https://github.com/KosmX/emotes/tree/development/blender)  \n#### Emote server synchronization  \nYou don't need to send the custom emotes to everyone to play them  \n  \n\n## Setup\n\n\"download the mod and put it into the mods folder\"   \nYou need to install the mod both on **both** the **server** and the **client**.  <br>  \nBut You don't need to use the same server and client modloader*  \n*For example emotecraft with a Forge client will work with a Fabric server*  \nYou can also use Bukkit servers, emotecraft-*version*-bukkit.jar is the bukkit plugin  \n  <br>\nWith Emotecraft you can connect to vanilla servers, it just won't do anything.  \n\n## Usage\nby default, press `B` to open the emote choose wheel  \n<br>\nInstall custom emotes by putting them in into `.minecraft/emotes` folder  \n(Just press `Open emotes folder` in the mod's config screen to open the folder in your file browser)\nmore about usage [here](https://kosmx.gitbook.io/emotecraft/manual/manual)\n\n\n\n \n[Emote sharing portal](https://emotes.kosmx.dev/)\n\n---\n*Only with 2.0 and newer Emotecraft versions",
+		"name": "Emotecraft",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/KosmX/emotes"
+	},
+	"properties": {
+		"modrinth_id": "pZ2wrerK",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.5",
+			"1.17-rc2",
+			"1.17",
+			"1.17.1",
+			"1.18-pre1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}

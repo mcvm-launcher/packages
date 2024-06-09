@@ -1,0 +1,1500 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Tju2o3p2/immersive_aircraft-1.0.1%2B1.20.1-forge.jar",
+					"version": "Tju2o3p2"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/3hpofkRO/immersive_aircraft-1.0.1%2B1.20.1-fabric.jar",
+					"version": "3hpofkRO"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/7HM7QCCM/immersive_aircraft-0.7.9%2B1.19.4-forge.jar",
+					"version": "7HM7QCCM"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/HwSchdCR/immersive_aircraft-0.7.9%2B1.19.4-fabric.jar",
+					"version": "HwSchdCR"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/A1Ubrmgx/immersive_aircraft-0.7.9%2B1.19.2-forge.jar",
+					"version": "A1Ubrmgx"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/E2qukg9u/immersive_aircraft-0.7.9%2B1.19.2-fabric.jar",
+					"version": "E2qukg9u"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/NNHQl30K/immersive_aircraft-0.5.2%2B1.20-forge.jar",
+					"version": "NNHQl30K"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/io0FhMiA/immersive_aircraft-0.5.2%2B1.20-fabric.jar",
+					"version": "io0FhMiA"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/VVYXGrAq/immersive_aircraft-0.5.2%2B1.19.3-forge.jar",
+					"version": "VVYXGrAq"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/xR2axPuw/immersive_aircraft-0.5.2%2B1.19.3-fabric.jar",
+					"version": "xR2axPuw"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/v1LcwDzq/immersive_aircraft-0.5.2%2B1.18.2-forge.jar",
+					"version": "v1LcwDzq"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/XCRSuV8t/immersive_aircraft-0.5.2%2B1.18.2-fabric.jar",
+					"version": "XCRSuV8t"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Xn17C4Sf/immersive_aircraft-0.5.2%2B1.16.5-forge.jar",
+					"version": "Xn17C4Sf"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/LvoRvK13/immersive_aircraft-0.5.2%2B1.16.5-fabric.jar",
+					"version": "LvoRvK13"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/yW2pqzcS/immersive_aircraft-1.0.0%2B1.20.1-forge.jar",
+					"version": "yW2pqzcS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/W1uU2LXg/immersive_aircraft-1.0.0%2B1.20.1-fabric.jar",
+					"version": "W1uU2LXg"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/xRGKK0pH/immersive_aircraft-0.7.8%2B1.19.2-forge.jar",
+					"version": "xRGKK0pH"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/oHVbH9M2/immersive_aircraft-0.7.8%2B1.19.2-fabric.jar",
+					"version": "oHVbH9M2"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/ed4CJvrk/immersive_aircraft-0.7.7%2B1.19.4-forge.jar",
+					"version": "ed4CJvrk"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/KGI7FJYA/immersive_aircraft-0.7.7%2B1.19.4-fabric.jar",
+					"version": "KGI7FJYA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/eFDAQgTI/immersive_aircraft-0.7.7%2B1.19.2-forge.jar",
+					"version": "eFDAQgTI"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Dz87yvQW/immersive_aircraft-0.7.7%2B1.19.2-fabric.jar",
+					"version": "Dz87yvQW"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/XJ8eDuSE/immersive_aircraft-0.7.5%2B1.20.1-forge.jar",
+					"version": "XJ8eDuSE"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/WNDpdgfW/immersive_aircraft-0.7.5%2B1.20.1-fabric.jar",
+					"version": "WNDpdgfW"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/dI9NNo3n/immersive_aircraft-0.7.5%2B1.19.4-forge.jar",
+					"version": "dI9NNo3n"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/jYhtrDCf/immersive_aircraft-0.7.5%2B1.19.4-fabric.jar",
+					"version": "jYhtrDCf"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/jITPj8Mu/immersive_aircraft-0.7.5%2B1.19.2-forge.jar",
+					"version": "jITPj8Mu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/GCMD98Im/immersive_aircraft-0.7.5%2B1.19.2-fabric.jar",
+					"version": "GCMD98Im"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/iCjoMGJ7/immersive_aircraft-0.7.4%2B1.20.1-forge.jar",
+					"version": "iCjoMGJ7"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/7uIwt32W/immersive_aircraft-0.7.4%2B1.20.1-fabric.jar",
+					"version": "7uIwt32W"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/93QW9nnp/immersive_aircraft-0.7.4%2B1.19.4-forge.jar",
+					"version": "93QW9nnp"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/VzgmkB93/immersive_aircraft-0.7.4%2B1.19.4-fabric.jar",
+					"version": "VzgmkB93"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/kZiDsXo4/immersive_aircraft-0.7.4%2B1.19.2-forge.jar",
+					"version": "kZiDsXo4"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/kx1dYlc3/immersive_aircraft-0.7.4%2B1.19.2-fabric.jar",
+					"version": "kx1dYlc3"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Fdd3HLXC/immersive_aircraft-0.7.3%2B1.19.2-forge.jar",
+					"version": "Fdd3HLXC"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/y3ipqJCb/immersive_aircraft-0.7.3%2B1.19.2-fabric.jar",
+					"version": "y3ipqJCb"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Z2iUIiTt/immersive_aircraft-0.7.2%2B1.19.2-forge.jar",
+					"version": "Z2iUIiTt"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/G4A6boSL/immersive_aircraft-0.7.2%2B1.19.2-fabric.jar",
+					"version": "G4A6boSL"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/I11p3hPE/immersive_aircraft-0.7.1%2B1.20.1-forge.jar",
+					"version": "I11p3hPE"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/hd1kk9vU/immersive_aircraft-0.7.1%2B1.20.1-fabric.jar",
+					"version": "hd1kk9vU"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/8v7Y1wrM/immersive_aircraft-0.7.1%2B1.19.4-forge.jar",
+					"version": "8v7Y1wrM"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/4KcierOV/immersive_aircraft-0.7.1%2B1.19.4-fabric.jar",
+					"version": "4KcierOV"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/kXLba8iJ/immersive_aircraft-0.7.1%2B1.19.2-forge.jar",
+					"version": "kXLba8iJ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/8UrB2w9W/immersive_aircraft-0.7.1%2B1.19.2-fabric.jar",
+					"version": "8UrB2w9W"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/b4TgZhep/immersive_aircraft-7.0.0%2B1.19.4-forge.jar",
+					"version": "b4TgZhep"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/7PfF9x2m/immersive_aircraft-7.0.0%2B1.19.4-fabric.jar",
+					"version": "7PfF9x2m"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Sab5YAI7/immersive_aircraft-7.0.0%2B1.20.1-forge.jar",
+					"version": "Sab5YAI7"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/O3dCCSfm/immersive_aircraft-7.0.0%2B1.20.1-fabric.jar",
+					"version": "O3dCCSfm"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/q9SVdvqP/immersive_aircraft-7.0.0%2B1.19.2-forge.jar",
+					"version": "q9SVdvqP"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/JJgzICXz/immersive_aircraft-7.0.0%2B1.19.2-fabric.jar",
+					"version": "JJgzICXz"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Oe8voNe4/immersive_aircraft-0.6.2%2B1.20.1-forge.jar",
+					"version": "Oe8voNe4"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/jW2oN5ce/immersive_aircraft-0.6.2%2B1.20.1-fabric.jar",
+					"version": "jW2oN5ce"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/5LJqHC62/immersive_aircraft-0.6.2%2B1.19.2-forge.jar",
+					"version": "5LJqHC62"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Jeqng1Io/immersive_aircraft-0.6.2%2B1.19.2-fabric.jar",
+					"version": "Jeqng1Io"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/bF2z1y1t/immersive_aircraft-0.6.2%2B1.19.4-forge.jar",
+					"version": "bF2z1y1t"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/74z3IANg/immersive_aircraft-0.6.2%2B1.19.4-fabric.jar",
+					"version": "74z3IANg"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/kteAOwhq/immersive_aircraft-0.6.1%2B1.20.1-forge.jar",
+					"version": "kteAOwhq"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/zEJKYhaE/immersive_aircraft-0.6.1%2B1.20.1-fabric.jar",
+					"version": "zEJKYhaE"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Hy8cuuqW/immersive_aircraft-0.6.1%2B1.19.4-forge.jar",
+					"version": "Hy8cuuqW"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/yNT1uWPX/immersive_aircraft-0.6.1%2B1.19.4-fabric.jar",
+					"version": "yNT1uWPX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/mIlkvkCy/immersive_aircraft-0.6.1%2B1.19.2-forge.jar",
+					"version": "mIlkvkCy"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/FBeZkvTr/immersive_aircraft-0.6.1%2B1.19.2-fabric.jar",
+					"version": "FBeZkvTr"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/sArRZaHK/immersive_aircraft-0.6.0%2B1.20.1-forge.jar",
+					"version": "sArRZaHK"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/EPvckTMA/immersive_aircraft-0.6.0%2B1.20.1-fabric.jar",
+					"version": "EPvckTMA"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/54KQaDNa/immersive_aircraft-0.6.0%2B1.19.4-forge.jar",
+					"version": "54KQaDNa"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/q2QwCYVF/immersive_aircraft-0.6.0%2B1.19.4-fabric.jar",
+					"version": "q2QwCYVF"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/xdTiGGCA/immersive_aircraft-0.6.0%2B1.19.2-forge.jar",
+					"version": "xdTiGGCA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/IUrLqgHI/immersive_aircraft-0.6.0%2B1.19.2-fabric.jar",
+					"version": "IUrLqgHI"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/xyqar0Kj/immersive_aircraft-0.5.2%2B1.20.1-forge.jar",
+					"version": "xyqar0Kj"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/TuRYZ1ou/immersive_aircraft-0.5.2%2B1.20.1-fabric.jar",
+					"version": "TuRYZ1ou"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/FQfk0USY/immersive_aircraft-0.5.2%2B1.19.4-forge.jar",
+					"version": "FQfk0USY"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/wIxq3okm/immersive_aircraft-0.5.2%2B1.19.4-fabric.jar",
+					"version": "wIxq3okm"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/ibrEOnaq/immersive_aircraft-0.5.3%2B1.19.3-forge.jar",
+					"version": "ibrEOnaq"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/8IOatQom/immersive_aircraft-0.5.3%2B1.19.3-fabric.jar",
+					"version": "8IOatQom"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/FNUjNShe/immersive_aircraft-0.5.2%2B1.19.2-forge.jar",
+					"version": "FNUjNShe"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/LP0a97CV/immersive_aircraft-0.5.2%2B1.19.2-fabric.jar",
+					"version": "LP0a97CV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/F57yfeYC/immersive_aircraft-0.4.3%2B1.18.2-forge.jar",
+					"version": "F57yfeYC"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/ACaeJYmN/immersive_aircraft-0.4.3%2B1.18.2-fabric.jar",
+					"version": "ACaeJYmN"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/1AoKMsi2/immersive_aircraft-0.5.1%2B1.20.1-forge.jar",
+					"version": "1AoKMsi2"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/fRDVHRxl/immersive_aircraft-0.5.1%2B1.20.1-fabric.jar",
+					"version": "fRDVHRxl"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Y2hgg0ip/immersive_aircraft-0.5.1%2B1.20-forge.jar",
+					"version": "Y2hgg0ip"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/vslCBBhr/immersive_aircraft-0.5.1%2B1.20-fabric.jar",
+					"version": "vslCBBhr"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/1RCx2Ud9/immersive_aircraft-0.5.1%2B1.19.4-forge.jar",
+					"version": "1RCx2Ud9"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Mgf7s5xa/immersive_aircraft-0.5.1%2B1.19.4-fabric.jar",
+					"version": "Mgf7s5xa"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/ZmDOlbiE/immersive_aircraft-0.5.1%2B1.19.3-forge.jar",
+					"version": "ZmDOlbiE"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/nwHoJ4sW/immersive_aircraft-0.5.1%2B1.19.3-fabric.jar",
+					"version": "nwHoJ4sW"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/UsvreARL/immersive_aircraft-0.5.1%2B1.19.2-forge.jar",
+					"version": "UsvreARL"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/kC6oq4Ks/immersive_aircraft-0.5.1%2B1.19.2-fabric.jar",
+					"version": "kC6oq4Ks"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/2p0Mee9e/immersive_aircraft-0.5.0%2B1.19.4-forge.jar",
+					"version": "2p0Mee9e"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/MxT2Lel3/immersive_aircraft-0.5.0%2B1.19.4-fabric.jar",
+					"version": "MxT2Lel3"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Vam2GZku/immersive_aircraft-0.5.0%2B1.19.3-forge.jar",
+					"version": "Vam2GZku"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/sroM5kCo/immersive_aircraft-0.5.0%2B1.19.3-fabric.jar",
+					"version": "sroM5kCo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/SMTmVrZO/immersive_aircraft-0.5.0%2B1.19.2-forge.jar",
+					"version": "SMTmVrZO"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/2kmVig1Z/immersive_aircraft-0.5.0%2B1.19.2-fabric.jar",
+					"version": "2kmVig1Z"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/1dZ9w5wc/immersive_aircraft-0.4.4%2B1.16.5-forge.jar",
+					"version": "1dZ9w5wc"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/gIgXdXrA/immersive_aircraft-0.4.4%2B1.16.5-fabric.jar",
+					"version": "gIgXdXrA"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/mSXAlzD2/immersive_aircraft-0.4.3%2B1.16.5-forge.jar",
+					"version": "mSXAlzD2"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/whnNuRhb/immersive_aircraft-0.4.3%2B1.16.5-fabric.jar",
+					"version": "whnNuRhb"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/ywpaeJkJ/immersive_aircraft-0.4.2%2B1.19.3-forge.jar",
+					"version": "ywpaeJkJ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/dtdHp77C/immersive_aircraft-0.4.2%2B1.19.3-fabric.jar",
+					"version": "dtdHp77C"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/7T01kPsV/immersive_aircraft-0.4.2%2B1.19.4-forge.jar",
+					"version": "7T01kPsV"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/jnfB6Uih/immersive_aircraft-0.4.2%2B1.19.2-forge.jar",
+					"version": "jnfB6Uih"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/sqrQeDk0/immersive_aircraft-0.4.2%2B1.19.4-fabric.jar",
+					"version": "sqrQeDk0"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/nj7izbEn/immersive_aircraft-0.4.2%2B1.19.2-fabric.jar",
+					"version": "nj7izbEn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/q7p2IByg/immersive_aircraft-0.4.2%2B1.18.2-forge.jar",
+					"version": "q7p2IByg"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/k6IYyA7k/immersive_aircraft-0.4.2%2B1.18.2-fabric.jar",
+					"version": "k6IYyA7k"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/RP6PLRbD/immersive_aircraft-0.4.2%2B1.16.5-forge.jar",
+					"version": "RP6PLRbD"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/QqYFE6ds/immersive_aircraft-0.4.2%2B1.16.5-fabric.jar",
+					"version": "QqYFE6ds"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/6TZJv2W6/immersive_aircraft-0.4.1%2B1.19.3-forge.jar",
+					"version": "6TZJv2W6"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Q0mG5wKJ/immersive_aircraft-0.4.1%2B1.19.3-fabric.jar",
+					"version": "Q0mG5wKJ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/PrFbqCtY/immersive_aircraft-0.4.1%2B1.19.2-forge.jar",
+					"version": "PrFbqCtY"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/ODJSAeEZ/immersive_aircraft-0.4.1%2B1.19.2-fabric.jar",
+					"version": "ODJSAeEZ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/u6Y1uSpr/immersive_aircraft-0.4.1%2B1.18.2-forge.jar",
+					"version": "u6Y1uSpr"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/hVaXUGGb/immersive_aircraft-0.4.1%2B1.18.2-fabric.jar",
+					"version": "hVaXUGGb"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/q26pIuvi/immersive_aircraft-0.4.0%2B1.19.3-forge.jar",
+					"version": "q26pIuvi"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/tbh93GeI/immersive_aircraft-0.4.0%2B1.19.3-fabric.jar",
+					"version": "tbh93GeI"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/6caRf2N7/immersive_aircraft-0.4.0%2B1.19.2-forge.jar",
+					"version": "6caRf2N7"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/yQSyEBJx/immersive_aircraft-0.4.0%2B1.19.2-fabric.jar",
+					"version": "yQSyEBJx"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/mwIUtuvI/immersive_aircraft-0.4.0%2B1.18.2-forge.jar",
+					"version": "mwIUtuvI"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/M6IuRwUm/immersive_aircraft-0.4.0%2B1.18.2-fabric.jar",
+					"version": "M6IuRwUm"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/gsy9fuKo/immersive_aircraft-0.3.2%2B1.16.5-forge.jar",
+					"version": "gsy9fuKo"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/TDrnxlHc/immersive_aircraft-0.3.2%2B1.16.5-fabric.jar",
+					"version": "TDrnxlHc"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/wDGTNgXb/immersive_aircraft-0.3.1%2B1.19.3-forge.jar",
+					"version": "wDGTNgXb"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/wTiulijb/immersive_aircraft-0.3.1%2B1.19.3-fabric.jar",
+					"version": "wTiulijb"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/xhB9DWvv/immersive_aircraft-0.3.1%2B1.19.2-forge.jar",
+					"version": "xhB9DWvv"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/D3qPfuFO/immersive_aircraft-0.3.1%2B1.19.2-fabric.jar",
+					"version": "D3qPfuFO"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/T7ps0cbN/immersive_aircraft-0.3.1%2B1.16.5-forge.jar",
+					"version": "T7ps0cbN"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/5xjSl7fI/immersive_aircraft-0.3.1%2B1.16.5-fabric.jar",
+					"version": "5xjSl7fI"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/49QNtlkD/immersive_aircraft-0.3.1%2B1.18.2-forge.jar",
+					"version": "49QNtlkD"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/QMZMjtlE/immersive_aircraft-0.3.1%2B1.18.2-fabric.jar",
+					"version": "QMZMjtlE"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/jcO5N9RL/immersive_aircraft-0.3.0%2B1.19.3-forge.jar",
+					"version": "jcO5N9RL"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/RA4cdOVL/immersive_aircraft-0.3.0%2B1.19.3-fabric.jar",
+					"version": "RA4cdOVL"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/4iwPMF84/immersive_aircraft-0.3.0%2B1.19.2-forge.jar",
+					"version": "4iwPMF84"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/CnPCKTnG/immersive_aircraft-0.3.0%2B1.19.2-fabric.jar",
+					"version": "CnPCKTnG"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/oqUAAqUq/immersive_aircraft-0.3.0%2B1.18.2-forge.jar",
+					"version": "oqUAAqUq"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/eIp8J8eC/immersive_aircraft-0.3.0%2B1.18.2-fabric.jar",
+					"version": "eIp8J8eC"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/v4krInag/immersive_aircraft-0.3.0%2B1.19.2-forge.jar",
+					"version": "v4krInag"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/HvVN0QYT/immersive_aircraft-0.3.0%2B1.19.2-fabric.jar",
+					"version": "HvVN0QYT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/bN48HLDi/immersive_aircraft-0.3.0%2B1.18.2-forge.jar",
+					"version": "bN48HLDi"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/YkkdVpqQ/immersive_aircraft-0.3.0%2B1.18.2-fabric.jar",
+					"version": "YkkdVpqQ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/KYEtFXbM/immersive_aircraft-0.2.1%2B1.19.3-forge.jar",
+					"version": "KYEtFXbM"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Luy8Yafb/immersive_aircraft-0.2.1%2B1.19.3-fabric.jar",
+					"version": "Luy8Yafb"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/ZqgIkTug/immersive_aircraft-0.2.1%2B1.19.3-fabric.jar",
+					"version": "ZqgIkTug"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/l0K409ie/immersive_aircraft-0.2.0%2B1.19.3.jar",
+					"version": "l0K409ie"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/3SLArCxX/immersive_aircraft-0.2.0%2B1.19.3.jar",
+					"version": "3SLArCxX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/gjaecc5P/immersive_aircraft-0.2.0%2B1.19.2.jar",
+					"version": "gjaecc5P"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/krwxt101/immersive_aircraft-0.2.0%2B1.19.2.jar",
+					"version": "krwxt101"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/itrgtmdt/immersive_aircraft-0.2.0%2B1.18.2.jar",
+					"version": "itrgtmdt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/vO2lgq6R/immersive_aircraft-0.2.0%2B1.18.2.jar",
+					"version": "vO2lgq6R"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/Z2jPpg0H/immersive_aircraft-0.1.1%2B1.19.2.jar",
+					"version": "Z2jPpg0H"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/6uO7jZZf/immersive_aircraft-0.1.1%2B1.19.2.jar",
+					"version": "6uO7jZZf"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/YcQRmB8Q/immersive_aircraft-0.1.1%2B1.18.2.jar",
+					"version": "YcQRmB8Q"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/sESC18mh/immersive_aircraft-0.1.1%2B1.18.2.jar",
+					"version": "sESC18mh"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/r5BqVH82/immersive_aircraft-0.1.0%2B1.19.2.jar",
+					"version": "r5BqVH82"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/ub7f6RcJ/immersive_aircraft-0.1.0%2B1.19.2.jar",
+					"version": "ub7f6RcJ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/agiORuvv/immersive_aircraft-0.1.0%2B1.18.2.jar",
+					"version": "agiORuvv"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/cDBZfZXP/immersive_aircraft-0.1.0%2B1.18.2.jar",
+					"version": "cDBZfZXP"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Luke100000"
+		],
+		"banner": "https://cdn.modrinth.com/data/x3HZvrj6/images/0727deb841b003ce21884971cd535fd8f9580356.png",
+		"community": "https://discord.gg/agxcvAdj2a",
+		"description": "A bunch of rustic aircraft to travel, transport, and explore!",
+		"gallery": [
+			"https://cdn.modrinth.com/data/x3HZvrj6/images/0727deb841b003ce21884971cd535fd8f9580356.png",
+			"https://cdn.modrinth.com/data/x3HZvrj6/images/0e00a9f9ebec0dc4fa06e2a2f83b7101c0c6fc6f.png",
+			"https://cdn.modrinth.com/data/x3HZvrj6/images/385da739ec20b19c4f6767ca4dd7f0018a931149.jpeg",
+			"https://cdn.modrinth.com/data/x3HZvrj6/images/4a0b8944c9f9406f2f9391cea303046d917071ca.jpeg",
+			"https://cdn.modrinth.com/data/x3HZvrj6/images/9ed165b20952259e2d2e4b62d89ef15059349f83.jpeg"
+		],
+		"icon": "https://cdn.modrinth.com/data/x3HZvrj6/f051c47a2e3d0760397e0c4c488af0a615bc36a2.png",
+		"issues": "https://github.com/Luke100000/ImmersiveAircraft/issues",
+		"license": "GPL-3.0-only",
+		"long_description": "# Immersive Aircraft\n\nThis mod adds bunch of rustic aircraft to travel, transport, and explore!\nThe aircraft have a strong focus on being vanilla-faithful and many details and functionalities, without being overly complicated.\n\n## Addons\n* [Man of Many Planes](https://modrinth.com/mod/man-of-many-planes)\n\nOh and look, multiplayer compatible!\n\n![Multiplayer](https://cdn.modrinth.com/data/cached_images/4a1359df6f2febedd25b255fe90107dcd78c70a8.jpeg)\n\n&nbsp;  \n\n# Biplane\n\nLet's start with the classic biplane. Fast, one seat, medium difficulty.\n\n![Biplane](https://cdn.modrinth.com/data/cached_images/1cd4e2e5afa0bb45bc3622c7abfce47f14293794.jpeg)\n\n&nbsp;  \n\n# Airship\n\nSlower, but with two seats. Quite easy to maneuver, with acceptable speed thanks to the engine in the back.\n\n![Airship](https://cdn.modrinth.com/data/cached_images/d1e925cdcb7d4212c3ec688af6ab9017f8a2fde3.jpeg)\n\n&nbsp;  \n\n# Gyrodyne\n\nHuman-powered primitive dual seater. Trusty, yet neither the fastest nor the easiest to fly.\nNeeds a good initial push to get the rotor spinning.\nThe first one guessing my inspiration here can suggest one new (fitting) aircraft :)\n\n![Gyrodyne](https://cdn.modrinth.com/data/cached_images/f21c7ed0070043cfd12cb66afaa2cf8e04dbdab0.jpeg)\n\n&nbsp;  \n\n# Some items to tinker\n\nSince aircraft are generally more complex than, e.g. a boat, a handful of items has been added to make crafting aircraft feel more like actually assembling something.\n\n![Recipes](https://cdn.modrinth.com/data/cached_images/b483b7f43b2afab67e59f7c3e3f09dcfefd89b60.png)",
+		"name": "Immersive Aircraft",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Luke100000/ImmersiveAircraft",
+		"support_link": "https://www.patreon.com/conczin"
+	},
+	"properties": {
+		"modrinth_id": "x3HZvrj6",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.5",
+			"1.18.2",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1"
+		]
+	}
+}

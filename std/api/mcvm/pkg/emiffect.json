@@ -1,0 +1,142 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/705gWllI/versions/cwzXpY1E/emiffect-forge-1.1.2%2Bmc1.20.1.jar",
+					"version": "cwzXpY1E"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/705gWllI/versions/BslzSzGd/emiffect-fabric-1.1.2%2Bmc1.20.1.jar",
+					"version": "BslzSzGd"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/705gWllI/versions/snwqJj9A/emiffect-fabric-1.1.1%2Bmc1.20.1.jar",
+					"version": "snwqJj9A"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/705gWllI/versions/5pUxyTP9/emiffect-forge-1.1.1%2Bmc1.20.1.jar",
+					"version": "5pUxyTP9"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/705gWllI/versions/OoNIwRm0/emiffect-fabric-1.1.0%2Bmc1.20.1.jar",
+					"version": "OoNIwRm0"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/705gWllI/versions/c5beN2ls/emiffect-forge-1.1.0%2Bmc1.20.1.jar",
+					"version": "c5beN2ls"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/705gWllI/versions/P762vbTe/emiffect-0.1.5%2Bmc1.19.3.jar",
+					"version": "P762vbTe"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/705gWllI/versions/v3qtCp4n/emiffect-0.1.5%2Bmc1.19.2.jar",
+					"version": "v3qtCp4n"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/705gWllI/versions/5yr5Y911/emiffect-0.1.4%2B1.19.2.jar",
+					"version": "5yr5Y911"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Flamarine"
+		],
+		"community": "https://discord.gg/zfPcG37uvm",
+		"description": "EMI addon that appends status effects in EMI and provides information about each status effect.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/705gWllI/images/6274851b065d15477e902328c03487f550009367.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/705gWllI/e940511ee36de841ea1c55777a27f06cf0cff5e6.png",
+		"issues": "https://github.com/Prismwork/EMIffect/issues",
+		"license": "MIT",
+		"long_description": "# EMIffect\n\nEMI addon that appends status effects in EMI and provides information about each status effect.\n\nInspired by [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed), and existing descriptions were taken from JEED.\n\nModders can add descriptions for their own status effects via language files. The format follows JEED: `effect.[mod_id].[effect_name].description`\n",
+		"name": "EMIffect",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Prismwork/EMIffect"
+	},
+	"properties": {
+		"modrinth_id": "705gWllI",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.19.3",
+			"1.20.1"
+		]
+	}
+}

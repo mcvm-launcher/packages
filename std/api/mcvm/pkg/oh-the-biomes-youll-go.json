@@ -1,0 +1,941 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/CyDOtGEA/Oh_The_Biomes_You%27ll_Go-forge-1.19.4-4.0.1.2.jar",
+					"version": "CyDOtGEA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/b3yqYAnG/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.1.6.jar",
+					"version": "b3yqYAnG"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/ImjAT2Uf/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.6.jar",
+					"version": "ImjAT2Uf"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/5c9tBtRF/Oh_The_Biomes_You%27ll_Go-forge-1.19.3-3.0.1.1.jar",
+					"version": "5c9tBtRF"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/VHOIc8Io/Oh_The_Biomes_You%27ll_Go-fabric-1.19.3-3.0.1.1.jar",
+					"version": "VHOIc8Io"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/uFVDIQRq/Oh_The_Biomes_You%27ll_Go-forge-1.19.4-4.0.1.1.jar",
+					"version": "uFVDIQRq"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/aopwhPbA/Oh_The_Biomes_You%27ll_Go-fabric-1.19.4-4.0.1.1.jar",
+					"version": "aopwhPbA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/4Bo5c6or/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.5.1.jar",
+					"version": "4Bo5c6or"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/aVO2u7YE/Oh_The_Biomes_You%27ll_Go-fabric-1.18.2-1.5.1.jar",
+					"version": "aVO2u7YE"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/jcpP9mt9/Oh_The_Biomes_You%27ll_Go-fabric-1.19.3-3.0.1.0.jar",
+					"version": "jcpP9mt9"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/BZunU3sS/Oh_The_Biomes_You%27ll_Go-forge-1.19.3-3.0.1.0.jar",
+					"version": "BZunU3sS"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/6WhQbK5V/Oh_The_Biomes_You%27ll_Go-fabric-1.19.4-4.0.1.0.jar",
+					"version": "6WhQbK5V"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/yLmTUTs2/Oh_The_Biomes_You%27ll_Go-forge-1.19.4-4.0.1.0.jar",
+					"version": "yLmTUTs2"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/vncXwaz5/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.5.0.jar",
+					"version": "vncXwaz5"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/l0rlREa6/Oh_The_Biomes_You%27ll_Go-fabric-1.18.2-1.5.0.jar",
+					"version": "l0rlREa6"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/lt24fpzD/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.6.jar",
+					"version": "lt24fpzD"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/3uf4PlX5/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.1.6.jar",
+					"version": "3uf4PlX5"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Yv4rNvcr/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.5.jar",
+					"version": "Yv4rNvcr"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/UE24OkOX/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.1.5.jar",
+					"version": "UE24OkOX"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/XANT78ip/Oh_The_Biomes_You%27ll_Go-fabric-1.19.4-4.0.0.2.jar",
+					"version": "XANT78ip"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/cpQLDgSP/Oh_The_Biomes_You%27ll_Go-forge-1.19.4-4.0.0.2.jar",
+					"version": "cpQLDgSP"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Y9thxeyR/Oh_The_Biomes_You%27ll_Go-forge-1.19.3-3.0.0.2.jar",
+					"version": "Y9thxeyR"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Br2E82ah/Oh_The_Biomes_You%27ll_Go-fabric-1.19.3-3.0.0.2.jar",
+					"version": "Br2E82ah"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/GW9FwDnS/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.4.jar",
+					"version": "GW9FwDnS"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Cieo7mfA/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.1.4.jar",
+					"version": "Cieo7mfA"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Gm9KGcv3/Oh_The_Biomes_You%27ll_Go-fabric-1.19.4-4.0.0.1.jar",
+					"version": "Gm9KGcv3"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/U5vUmXZe/Oh_The_Biomes_You%27ll_Go-forge-1.19.4-4.0.0.1.jar",
+					"version": "U5vUmXZe"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Q1l4KXxt/Oh_The_Biomes_You%27ll_Go-forge-1.19.3-3.0.0.1.jar",
+					"version": "Q1l4KXxt"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/s71rTPRK/Oh_The_Biomes_You%27ll_Go-fabric-1.19.3-3.0.0.1.jar",
+					"version": "s71rTPRK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/lgDf4z7U/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.1.3.jar",
+					"version": "lgDf4z7U"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/2jr4XNku/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.3.jar",
+					"version": "2jr4XNku"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/GfBckQEM/Oh_The_Biomes_You%27ll_Go-forge-1.19.4-4.0.0.0.jar",
+					"version": "GfBckQEM"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Vy7tewPq/Oh_The_Biomes_You%27ll_Go-fabric-1.19.4-4.0.0.0.jar",
+					"version": "Vy7tewPq"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/pDFRVokW/Oh_The_Biomes_You%27ll_Go-fabric-1.19.3-3.0.0.0.jar",
+					"version": "pDFRVokW"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/8lBD8rAy/Oh_The_Biomes_You%27ll_Go-forge-1.19.3-3.0.0.0.jar",
+					"version": "8lBD8rAy"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/8Ivgi2vq/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.1.2.jar",
+					"version": "8Ivgi2vq"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/qDvPbAkW/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.2.jar",
+					"version": "qDvPbAkW"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/kHnpJy67/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.1.jar",
+					"version": "kHnpJy67"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"fabriclike-api",
+							"geckolib",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/9MInWvhi/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.1.1.jar",
+					"version": "9MInWvhi"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/SFgOdML9/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.1.0.jar",
+					"version": "SFgOdML9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"corgilib",
+							"geckolib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/zcbHBcPr/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.0.jar",
+					"version": "zcbHBcPr"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/ycOUdagh/Oh_The_Biomes_You%27ll_Go-fabric-1.18.2-1.4.7.jar",
+					"version": "ycOUdagh"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/oFcbieSw/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.0.13.jar",
+					"version": "oFcbieSw"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/EU5OONA2/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4.7.jar",
+					"version": "EU5OONA2"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/3s1bEkn4/Oh_The_Biomes_You%27ll_Go-fabric-1.18.2-1.4.6.jar",
+					"version": "3s1bEkn4"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/wSmsRq9h/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4.6.jar",
+					"version": "wSmsRq9h"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/B3LkZn0y/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.0.13.jar",
+					"version": "B3LkZn0y"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/t93MeDCn/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.0.13.jar",
+					"version": "t93MeDCn"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/WZPpJqc8/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.0.12.jar",
+					"version": "WZPpJqc8"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/TaNAPbD1/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.0.12.jar",
+					"version": "TaNAPbD1"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Z1GKc3Q2/Oh_The_Biomes_You%27ll_Go-fabric-1.18.2-1.4.5.jar",
+					"version": "Z1GKc3Q2"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/iFcNpSFq/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4.5.jar",
+					"version": "iFcNpSFq"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Ll5d6JEo/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.0.11.jar",
+					"version": "Ll5d6JEo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/wdLk25Ga/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.0.11.jar",
+					"version": "wdLk25Ga"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Dw5Ar77o/Oh_The_Biomes_You%27ll_Go-fabric-1.18.2-1.4.4.jar",
+					"version": "Dw5Ar77o"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/iTBTEMaF/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4.4.jar",
+					"version": "iTBTEMaF"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/UExALdDC/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.0.10.jar",
+					"version": "UExALdDC"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/rR7rDbfT/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.0.10.jar",
+					"version": "rR7rDbfT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/FbUNOd1y/Oh_The_Biomes_You%27ll_Go-fabric-1.18.2-1.4.3.jar",
+					"version": "FbUNOd1y"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/juyhs3du/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4.3.jar",
+					"version": "juyhs3du"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/LKKKZr3p/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.0.9.jar",
+					"version": "LKKKZr3p"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/bvR2aCYJ/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.0.9.jar",
+					"version": "bvR2aCYJ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/Y4ZmV8q7/Oh_The_Biomes_You%27ll_Go-fabric-1.19.2-2.0.0.8.jar",
+					"version": "Y4ZmV8q7"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/ylOaXMib/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.0.8.jar",
+					"version": "ylOaXMib"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/2.0.0.7/Oh_The_Biomes_You%27ll_Go-forge-1.19-2.0.0.7.jar",
+					"version": "ZTiqu8Tt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4.2/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4.2.jar",
+					"version": "lztjAKis"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/2.0.0.6/Oh_The_Biomes_You%27ll_Go-forge-1.19-2.0.0.6.jar",
+					"version": "DhY1s6R5"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/2.0.0.5/Oh_The_Biomes_You%27ll_Go-forge-1.19-2.0.0.5.jar",
+					"version": "eCg9Xb6m"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/2.0.0.4/Oh_The_Biomes_You%27ll_Go-forge-1.19-2.0.0.4.jar",
+					"version": "CW3leNgb"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/2.0.0.3/Oh_The_Biomes_You%27ll_Go-forge-1.19-2.0.0.3.jar",
+					"version": "FwOQlCBQ"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/2.0.0.2/Oh_The_Biomes_You%27ll_Go-forge-1.19-2.0.0.2.jar",
+					"version": "XdqP6Y5a"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4.1/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4.1.jar",
+					"version": "LLSCPqU1"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/2.0.0.1/Oh_The_Biomes_You%27ll_Go-forge-1.19-2.0.0.1.jar",
+					"version": "5BoTK9Rz"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/2.0.0.0/Oh_The_Biomes_You%27ll_Go-forge-1.19-2.0.0.0.jar",
+					"version": "tbx2ldHU"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4.jar",
+					"version": "MGY0pgTu"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4-RC-24/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4-RC-24.jar",
+					"version": "nxz6zgaV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4-RC-23/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4-RC-23.jar",
+					"version": "GHQ7Mfzf"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4-RC-22/Oh_The_Biomes_You%27ll_Go-fabric-1.18.2-1.4-RC-22.jar",
+					"version": "cJAM7XdE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4-RC-21/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4-RC-21.jar",
+					"version": "73ncW6bY"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4-RC-20/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4-RC-20.jar",
+					"version": "Nszd7xwa"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4-RC-19/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4-RC-19.jar",
+					"version": "qHxYSpAu"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4-RC-18/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4-RC-18.jar",
+					"version": "vIXq7709"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.4-RC-17/Oh_The_Biomes_You%27ll_Go-forge-1.18.2-1.4-RC-17.jar",
+					"version": "D1CDIwMu"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uE1WpIAk/versions/1.1.6/byg-1.1.6.jar",
+					"version": "QWBUCRvD"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"CorgiTaco"
+		],
+		"community": "https://discord.com/invite/zQA4eez2eS",
+		"description": "An Adventure & Exploration mod like no other with unique, magical, realistic, and detailed biomes!",
+		"documentation": "https://oh-the-biomes-youll-go.fandom.com/wiki/Oh_The_Biomes_You%27ll_Go_Wiki",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/uE1WpIAk/icon.png",
+		"issues": "https://github.com/AOCAWOL/BYG/issues",
+		"license": "LicenseRef-Multiple",
+		"long_description": "![Banner](https://i.imgur.com/xbn03uM.png)             \n\n_\"You have brains in your head. You have feet in your shoes. You can steer yourself in any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go\"_\n\n\\- _Dr. Seuss, Oh, The Places You'll Go!_\n\n![](https://i.imgur.com/WJYMi3e.png)\n\nOh The Biomes You'll Go is an exploration and adventure mod designed to take you on a road trip across Minecraft like no other! Explore **over 80 magical, realistic, and breathtaking biomes.**\n\n![](https://i.imgur.com/BXyt5Iv.png)\n\nDependencies\n============\n\n_Links redirect to the dependency's file listing with filters by game version and mod loader applied._\n\n1.19.2\n------\n\n### Forge\n\n\\- Terrablender - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/terrablender/files?version=1.19.2&gameVersionTypeId=1) or [Modrinth](https://modrinth.com/mod/terrablender/versions?g=1.19.2&l=forge) .\n\n\\- GeckoLib - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/geckolib/files?version=1.19.2&gameVersionTypeId=1) or [Modrinth](https://modrinth.com/mod/geckolib/versions?g=1.19.2&l=forge) .\n\n\\- CorgiLib - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/corgilib/files?gameVersionTypeId=1&version=1.19.2) or [Modrinth](https://modrinth.com/mod/corgilib/versions?g=1.19.2&l=forge) .\n\n### Fabric\n\n\\- Terrablender - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric/files?version=1.19.2&gameVersionTypeId=4) . or [Modrinth](https://modrinth.com/mod/terrablender/versions?g=1.19.2&l=fabric) .\n\n\\- GeckoLib - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/geckolib/files?version=1.19.2&gameVersionTypeId=4) or [Modrinth](https://modrinth.com/mod/geckolib/versions?g=1.19.2&l=fabric) .\n\n\\- CorgiLib - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/corgilib/files?gameVersionTypeId=4&version=1.19.2) or [Modrinth](https://modrinth.com/mod/corgilib/versions?g=1.19.2&l=fabric) .\n\n\\- Fabric API - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files?version=1.19.2&gameVersionTypeId=4) or [Modrinth](https://modrinth.com/mod/fabric-api/versions?g=1.19.2&l=fabric) .\n\n1.18.2\n------\n\n### Forge\n\n\\- Terrablender - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/terrablender/files?version=1.19.2&gameVersionTypeId=1) or [Modrinth](https://modrinth.com/mod/terrablender/versions?g=1.19.2&l=forge) .\n\n### Fabric\n\n\\- Terrablender - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric/files?version=1.19.2&gameVersionTypeId=4) . or [Modrinth](https://modrinth.com/mod/terrablender/versions?g=1.19.2&l=fabric) .\n\n\\- Fabric API - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files?version=1.18.2&gameVersionTypeId=4) or [Modrinth](https://modrinth.com/mod/fabric-api/versions?g=1.18.2&l=fabric) .\n\n1.16.5\n------\n\n### Forge\n\n### Fabric\n\n\\- Fabric API - [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files?version=1.18.2&gameVersionTypeId=4) or [Modrinth](https://modrinth.com/mod/fabric-api/versions?g=1.16.5&l=fabric) .\n\n1.15.2\n------\n\n### Forge\n\n### Fabric",
+		"name": "Oh The Biomes You'll Go",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/AOCAWOL/BYG",
+		"support_link": "https://www.patreon.com/biomesyougo"
+	},
+	"properties": {
+		"modrinth_id": "uE1WpIAk",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.4",
+			"1.16.5",
+			"1.18.2",
+			"1.19",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4"
+		]
+	}
+}

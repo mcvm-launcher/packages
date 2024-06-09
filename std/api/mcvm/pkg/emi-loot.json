@@ -1,0 +1,684 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/lwhMjJHL/emi_loot-0.6.6%2B1.20.1.jar",
+					"version": "lwhMjJHL"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/6rFgo1Px/emi_loot-0.6.6%2B1.19.4.jar",
+					"version": "6rFgo1Px"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/O3uMSDN0/emi_loot-0.6.6%2B1.19.3.jar",
+					"version": "O3uMSDN0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/95aOKine/emi_loot-0.6.6%2B1.19.jar",
+					"version": "95aOKine"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "bad-packets",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/91c49w5V/emi_loot-0.6.5%2B1.20.1%2Bforge.jar",
+					"version": "91c49w5V"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/GUbMMJRo/emi_loot-0.6.5%2B1.19.2%2Bforge.jar",
+					"version": "GUbMMJRo"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/7fjkgVEh/emi_loot-0.6.5%2B1.20.1.jar",
+					"version": "7fjkgVEh"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/7rjmttb6/emi_loot-0.6.5%2B1.19.4.jar",
+					"version": "7rjmttb6"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/tR4xqoxp/emi_loot-0.6.5%2B1.19.3.jar",
+					"version": "tR4xqoxp"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/x6vIf3HD/emi_loot-0.6.5%2B1.19.jar",
+					"version": "x6vIf3HD"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/mPCfosCw/emi_loot-0.6.4.1%2B1.20.1.jar",
+					"version": "mPCfosCw"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/Rp2bjZ9t/emi_loot-0.6.4%2B1.20.1.jar",
+					"version": "Rp2bjZ9t"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/Xn48U1HI/emi_loot-0.6.4%2B1.19.4.jar",
+					"version": "Xn48U1HI"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/9rpAPYB9/emi_loot-0.6.4%2B1.19.3.jar",
+					"version": "9rpAPYB9"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/ge7Vbplt/emi_loot-0.6.4%2B1.19.jar",
+					"version": "ge7Vbplt"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/vWadFDyM/emi_loot-0.6.3%2B1.20.1.jar",
+					"version": "vWadFDyM"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/48q801AN/emi_loot-0.6.3%2B1.19.4.jar",
+					"version": "48q801AN"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/YZu0lWye/emi_loot-0.6.2%2B1.19.3.jar",
+					"version": "YZu0lWye"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/odt1Mqrz/emi_loot-0.6.2%2B1.19.jar",
+					"version": "odt1Mqrz"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/p0Ugm9eu/emi_loot-0.6.2%2B1.18.2.jar",
+					"version": "p0Ugm9eu"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/b7JoJE05/emi_loot-0.6.1%2B1.19.3.jar",
+					"version": "b7JoJE05"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/8VxvWtcW/emi_loot-0.6.1%2B1.19.jar",
+					"version": "8VxvWtcW"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/finLaORs/emi_loot-0.6.1%2B1.18.2.jar",
+					"version": "finLaORs"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/nH2jMxUZ/emi_loot-0.6.0%2B1.19.3.jar",
+					"version": "nH2jMxUZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/h5EhjjmQ/emi_loot-0.6.0%2B1.19.jar",
+					"version": "h5EhjjmQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/TM0YFork/emi_loot-0.6.0%2B1.18.2.jar",
+					"version": "TM0YFork"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/WLrmskq7/emi_loot-0.5.1%2B1.19.3.jar",
+					"version": "WLrmskq7"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/FzY7HsGk/emi_loot-0.5.1%2B1.19.jar",
+					"version": "FzY7HsGk"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/pFHgMv8g/emi_loot-0.5.1%2B1.18.2.jar",
+					"version": "pFHgMv8g"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/byhOHBwi/emi_loot-0.5.0%2B1.19.3.jar",
+					"version": "byhOHBwi"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/OeVpkByV/emi_loot-0.5.0%2B1.19.jar",
+					"version": "OeVpkByV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/nkW4UzlO/emi_loot-0.5.0%2B1.18.2.jar",
+					"version": "nkW4UzlO"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/AnKDZCEA/emi_loot-0.4.0%2B1.19.jar",
+					"version": "AnKDZCEA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/dDsA0q1m/emi_loot-0.4.0%2B1.18.2.jar",
+					"version": "dDsA0q1m"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/R27L5Wrs/emi_loot-0.3.1a%2B1.18.2.jar",
+					"version": "R27L5Wrs"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/dsAxQzyr/emi_loot-0.3.1%2B1.19.jar",
+					"version": "dsAxQzyr"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/UoqcWBE6/emi_loot-0.3.1%2B1.18.2.jar",
+					"version": "UoqcWBE6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/iiGhUAPe/emi_loot-0.3.0%2B1.19.jar",
+					"version": "iiGhUAPe"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/hME9LTtZ/emi_loot-0.3.0%2B1.18.2.jar",
+					"version": "hME9LTtZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/rEZyE6x3/emi_loot-0.2.0%2B1.19.jar",
+					"version": "rEZyE6x3"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/sMYv0WU4/emi_loot-0.2.0%2B1.18.2.jar",
+					"version": "sMYv0WU4"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/YvsiPoNW/emi_loot-0.1.0%2B1.19.jar",
+					"version": "YvsiPoNW"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "emi"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/g010jnKd/emi_loot-0.1.0%2B1.18.2.jar",
+					"version": "g010jnKd"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"fzzyhmstrs",
+			"gayasslily"
+		],
+		"community": "https://discord.gg/zDbaYmUba2",
+		"description": "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.",
+		"documentation": "https://github.com/fzzyhmstrs/EMI_loot/wiki",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/qbbO7Jns/dec44ad1547e774b6fce97a5268f6ff6309ec40a.png",
+		"issues": "https://github.com/fzzyhmstrs/EMI_loot/issues",
+		"license": "MIT",
+		"long_description": "[![Bisect Hosting Banner](https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp \"Bisect Hosting Banner\")](https://bisecthosting.com/fzzyhmstrs)\n\n![Emi Loot chest screen](https://i.imgur.com/Jaf6bFD.png)\n\n![Chest screen with lots of drops condensed into lists sorted by percentage, each list displays the items in that percentage category.](https://i.imgur.com/0ew58PW.png)\n\n### EMI Loot\n\nEMI Loot is a plugin for the [EMI Recipe and Item viewer](https://modrinth.com/mod/emi) that displays loot tables for chests, blocks , and mobs.\n\n \n*EMI Loot is in beta! Please expect features to change and be added as development continues.*\n\n*This mod is for Fabric and Quilt. A Forge port is not planned at this time.*\n\n*All credit goes to EmilyPloszaj for the creation of EMI itself. This is just a plugin.*\n\n[![Join the Discord](https://i.imgur.com/iXATO6K.png)](https://discord.gg/zDbaYmUba2)\n\n#### Wiki\n\nFor guides on how to use the data-driven systems in EMI Loot, please see [the wiki](https://github.com/fzzyhmstrs/EMI_loot/wiki)\n\n#### Notable Features\n\n- Chest loot is sorted by percentage and includes drops added to the loot tables by mods.\n- If a chest has too many loot options to fit onto the screen, EMI Loot will condense the output into lists of items stacked by same-percentage. Hovering over a certain percentage list will show the possible stacks you can expect to get at that probability.\n- Stack sizes shown represent the average item count you can expect to pull at a time (before factoring in the probability).\n- Block drops have been added. These views show the various drops available, split into different categories based on any particular circumstances needed to get that drop (Silk Touch, Shears, etc).\n- Mob drops have been added. Shows drops available split into categories based on circumstances needed to acquire them (only when a mob is on fire, extra with looting, etc)\n\n\n#### Features to come\n- Implement resource-pack driven system for defining custom conditions and how to parse them.\n- Add in fishing and other gameplay loot\n\n\n",
+		"name": "EMI Loot",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/fzzyhmstrs/EMI_loot",
+		"support_link": "https://ko-fi.com/fzzyhmstrs"
+	},
+	"properties": {
+		"modrinth_id": "qbbO7Jns",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1"
+		]
+	}
+}
