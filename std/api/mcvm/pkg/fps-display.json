@@ -1,0 +1,686 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/MQHgPZHH/fpsdisplay-4.1.0%2B1.20.5.jar",
+					"version": "MQHgPZHH"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/6lwzxSI3/fpsdisplay-4.0.1%2B1.20.4.jar",
+					"version": "6lwzxSI3"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/lOhHV7i1/fpsdisplay-3.1.0%2B1.20.2.jar",
+					"version": "lOhHV7i1"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/yB6oWHa2/fpsdisplay-3.1.0%2B1.19.2.jar",
+					"version": "yB6oWHa2"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/WaO5IB1q/fpsdisplay-3.1.0%2B1.20.x.jar",
+					"version": "WaO5IB1q"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/a1y7YDkW/fpsdisplay-3.1.0%2B1.19.4.jar",
+					"version": "a1y7YDkW"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/Kue4szXd/fpsdisplay-3.1.0%2B1.19.3.jar",
+					"version": "Kue4szXd"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/pxyG0qAH/fpsdisplay-3.1.0%2B1.18.2.jar",
+					"version": "pxyG0qAH"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/IZxZR6aW/fpsdisplay-3.1.0%2B1.17.x.jar",
+					"version": "IZxZR6aW"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/pUCx8Lq0/fpsdisplay-3.1.0%2B1.16.x.jar",
+					"version": "pUCx8Lq0"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/EzfS71Br/fpsdisplay-3.1.0%2B1.15.x.jar",
+					"version": "EzfS71Br"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/bETs5hSg/fpsdisplay-3.1.0%2B1.14.x.jar",
+					"version": "bETs5hSg"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "legacy-fabric-api",
+						"recommendations": {
+							"value": "none"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/G0lqK9Js/fpsdisplay-3.1.0%2B1.8.9.jar",
+					"version": "G0lqK9Js"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/LgdccGhC/fpsdisplay-4.0.0%2B1.20.4.jar",
+					"version": "LgdccGhC"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/3mrQnyTz/fpsdisplay-3.0.1%2B1.20.x.jar",
+					"version": "3mrQnyTz"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/z112ssqI/fpsdisplay-3.0.0.jar",
+					"version": "z112ssqI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/VFkr4zMC/fpsdisplay-1.5.0%2B1.20.jar",
+					"version": "VFkr4zMC"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/seVqJqqB/fpsdisplay-1.5.0%2B1.19.4.jar",
+					"version": "seVqJqqB"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.5.0%2B1.19/fpsdisplay-1.5.0%2B1.19.jar",
+					"version": "2hlYd2KS"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.5.0%2B1.18.2/fpsdisplay-1.5.0%2B1.18.2.jar",
+					"version": "EYxkL0Ds"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.5.0%2B1.18/fpsdisplay-1.5.0%2B1.18.jar",
+					"version": "4ZULpLX6"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.5.0%2B1.17/fpsdisplay-1.5.0%2B1.17.1.jar",
+					"version": "qGMIAtHR"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.5.0%2B1.16/fpsdisplay-1.5.0%2B1.16.4.jar",
+					"version": "V0w19I1q"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.5.0%2B1.15/fpsdisplay-1.5.0%2B1.15.2.jar",
+					"version": "vXFtRvLE"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.5.0%2B1.14/fpsdisplay-1.5.0%2B1.14.4.jar",
+					"version": "U2uzIsLw"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.2%2B1.18.2/fpsdisplay-1.4.2%2B1.18.2.jar",
+					"version": "UM7I6xFv"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.2%2B1.18/fpsdisplay-1.4.2%2B1.18.jar",
+					"version": "YEcfKfAo"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.2%2B1.17/fpsdisplay-1.4.2%2B1.17.1.jar",
+					"version": "6MW1v5yA"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.2%2B1.16/fpsdisplay-1.4.2%2B1.16.4.jar",
+					"version": "SzlG9m06"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.2%2B1.15/fpsdisplay-1.4.2%2B1.15.2.jar",
+					"version": "TlOgXLPa"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.2%2B1.14/fpsdisplay-1.4.2%2B1.14.4.jar",
+					"version": "sNFnnQ1O"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.1%2B1.17/fpsdisplay-1.4.1%2B1.17.jar",
+					"version": "mSTuwjIj"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.1%2B1.16/fpsdisplay-1.4.1%2B1.16.4.jar",
+					"version": "P9RCa3P0"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.1%2B1.15/fpsdisplay-1.4.1%2B1.15.2.jar",
+					"version": "vyIzpDCB"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.1%2B1.14/fpsdisplay-1.4.1%2B1.14.4.jar",
+					"version": "AuCE6BHq"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.0%2B1.17/fpsdisplay-1.17.0-v1.4.0.jar",
+					"version": "S1pYwj85"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.0%2B1.16/fpsdisplay-1.16.4-v1.4.0.jar",
+					"version": "yc1irEkZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.0%2B1.15/fpsdisplay-1.15.2-v1.4.0.jar",
+					"version": "m3DBG6xs"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.4.0%2B1.14/fpsdisplay-1.14.4-v1.4.0.jar",
+					"version": "ksWraMy8"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.3.0%2B1.16/fpsdisplay-1.16.4-v1.3.0.jar",
+					"version": "OdUXrEnU"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.3.0%2B1.15/fpsdisplay-1.15.2-v1.3.0.jar",
+					"version": "2gpzxQ8f"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.2.0%2B1.16/fpsdisplay-1.16.4-v1.2.0.jar",
+					"version": "Eb6cI52x"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.1.0%2B1.16/fpsdisplay-1.16.4-v1.1.0.jar",
+					"version": "vwLeGtdo"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/1.0.0%2B1.15/fpsdisplay-1.15.2-v1.0.0.jar",
+					"version": "MDNWP49x"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/v1.0.0/fpsdisplay-1.16.4-v1.0.0.jar",
+					"version": "dtSasq5X"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Grayray75"
+		],
+		"description": "A simple Fabric mod that displays the current FPS on screen.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/DIlqwRFH/images/aa98e930fee7432a64154db55f6266376c67e91a.png",
+			"https://cdn.modrinth.com/data/DIlqwRFH/images/95eb1c450d4b1d0830f00397288e880d167a0b3c.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/DIlqwRFH/icon.png",
+		"issues": "https://github.com/Grayray75/FPS-Display/issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "## 📗 About\nA simple Fabric mod that displays the current FPS on screen.\n\nAvailable for **ALL** Minecraft versions, where Fabric is supported!\n\n## 🖼️ Showcase\n\n![showcase](https://cdn.modrinth.com/data/DIlqwRFH/images/aa98e930fee7432a64154db55f6266376c67e91a.png)\n\n<details open>\n<summary>Settings Menu</summary>\n\n![settings](https://cdn.modrinth.com/data/DIlqwRFH/images/95eb1c450d4b1d0830f00397288e880d167a0b3c.png)\n\n</details>\n\n<br>\n\n## 🐞 Bugs and Issues\nPlease report any bugs or problems on [GitHub](https://github.com/Grayray75/FPS-Display/issues). \n",
+		"name": "FPS - Display",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Grayray75/FPS-Display"
+	},
+	"properties": {
+		"modrinth_id": "DIlqwRFH",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.8.9",
+			"1.14.2",
+			"1.14.3",
+			"1.14.4",
+			"1.15",
+			"1.15.1",
+			"1.15.2",
+			"1.16",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
+		]
+	}
+}

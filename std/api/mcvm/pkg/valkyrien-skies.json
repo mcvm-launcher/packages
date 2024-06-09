@@ -1,0 +1,814 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/JmkvaGb4/valkyrienskies-120-2.3.0-beta.5.jar",
+					"version": "JmkvaGb4"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/wDYLclLS/valkyrienskies-120-2.3.0-beta.5.jar",
+					"version": "wDYLclLS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/HkORffDo/valkyrienskies-120-2.1.3-beta.1.jar",
+					"version": "HkORffDo"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/QAPb90tF/valkyrienskies-120-2.1.3-beta.1.jar",
+					"version": "QAPb90tF"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/DAAedhhu/valkyrienskies-119-2.1.2-beta.1.jar",
+					"version": "DAAedhhu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/QAj7h3vU/valkyrienskies-119-2.1.2-beta.1.jar",
+					"version": "QAj7h3vU"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/sPZyV1Am/valkyrienskies-118-2.1.1-beta.5.jar",
+					"version": "sPZyV1Am"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/WRrMnd4q/valkyrienskies-118-2.1.1-beta.5.jar",
+					"version": "WRrMnd4q"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/hL00s1Z9/valkyrienskies-118-2.1.1-beta.4.jar",
+					"version": "hL00s1Z9"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/n6bYmsQ9/valkyrienskies-118-2.1.1-beta.4.jar",
+					"version": "n6bYmsQ9"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/kcpXU1fD/valkyrienskies-118-2.1.1-beta.3.jar",
+					"version": "kcpXU1fD"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/FS5JKKZb/valkyrienskies-118-2.1.1-beta.3.jar",
+					"version": "FS5JKKZb"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ioqI4F1W/valkyrienskies-118-2.1.1-beta.2.jar",
+					"version": "ioqI4F1W"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/V32uMMwu/valkyrienskies-118-2.1.1-beta.2.jar",
+					"version": "V32uMMwu"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/xzPuiZ3w/valkyrienskies-118-2.1.1-beta.1.jar",
+					"version": "xzPuiZ3w"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Nj2rG8Vi/valkyrienskies-118-2.1.1-beta.1.jar",
+					"version": "Nj2rG8Vi"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/LZnRLeUW/valkyrienskies-1201-2.3.0-beta.4.jar",
+					"version": "LZnRLeUW"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/YikZY8wB/valkyrienskies-1201-2.3.0-beta.4.jar",
+					"version": "YikZY8wB"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/UB5lXGEq/valkyrienskies-1192-2.2.0-beta.3.jar",
+					"version": "UB5lXGEq"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Ou1h0Gkf/valkyrienskies-1192-2.2.0-beta.3.jar",
+					"version": "Ou1h0Gkf"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/mzfD7MoD/valkyrienskies-118-2.1.0-beta.14.jar",
+					"version": "mzfD7MoD"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/gZzGScqE/valkyrienskies-118-2.1.0-beta.14.jar",
+					"version": "gZzGScqE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/BbR1CvvZ/valkyrienskies-118-2.1.0-beta.14.jar",
+					"version": "BbR1CvvZ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/10IPd2Hb/valkyrienskies-118-2.1.0-beta.14.jar",
+					"version": "10IPd2Hb"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/HHUsCVBM/valkyrienskies-118-2.1.0-beta.13.jar",
+					"version": "HHUsCVBM"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/HGXQsIIi/valkyrienskies-118-2.1.0-beta.13.jar",
+					"version": "HGXQsIIi"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/JAyv33M3/valkyrienskies-1201-2.3.0-beta.3.jar",
+					"version": "JAyv33M3"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/wvRiVmfM/valkyrienskies-1201-2.3.0-beta.3.jar",
+					"version": "wvRiVmfM"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/K1nZZ7XJ/valkyrienskies-1201-2.3.0-beta.2.jar",
+					"version": "K1nZZ7XJ"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/wB71Ejmx/valkyrienskies-1201-2.3.0-beta.2.jar",
+					"version": "wB71Ejmx"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/rMCKXWHG/valkyrienskies-1201-1.3.0-beta.2.jar",
+					"version": "rMCKXWHG"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ZD3qLNXq/valkyrienskies-1201-1.3.0-beta.2.jar",
+					"version": "ZD3qLNXq"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/k39RdMFx/valkyrienskies-1201-2.3.0-beta.1.jar",
+					"version": "k39RdMFx"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/AAvcCcwA/valkyrienskies-1201-2.3.0-beta.1.jar",
+					"version": "AAvcCcwA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/tkUkGUXE/valkyrienskies-1192-2.2.0-beta.2.jar",
+					"version": "tkUkGUXE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/tK6EqE6Y/valkyrienskies-1192-2.2.0-beta.2.jar",
+					"version": "tK6EqE6Y"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ZauvYUXr/valkyrienskies-1192-2.2.0-beta.1.jar",
+					"version": "ZauvYUXr"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/gKRKQoRO/valkyrienskies-1192-2.2.0-beta.1.jar",
+					"version": "gKRKQoRO"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/N00liAuO/valkyrienskies-118-2.1.0-beta.12.jar",
+					"version": "N00liAuO"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/YRlhjE2H/valkyrienskies-118-2.1.0-beta.12.jar",
+					"version": "YRlhjE2H"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/s43BwjkX/valkyrienskies-118-2.1.0-beta.11.jar",
+					"version": "s43BwjkX"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/YzktV2O0/valkyrienskies-118-2.1.0-beta.11.jar",
+					"version": "YzktV2O0"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/cdOjYdMF/valkyrienskies-118-2.1.0-beta.10.jar",
+					"version": "cdOjYdMF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/uCx6EXZz/valkyrienskies-118-2.1.0-beta.10.jar",
+					"version": "uCx6EXZz"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/8jwTcoOC/valkyrienskies-118-2.1.0-beta9.jar",
+					"version": "8jwTcoOC"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ToDQViDp/valkyrienskies-118-2.1.0-beta9.jar",
+					"version": "ToDQViDp"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/H4c6OGGe/valkyrienskies-118-2.1.0-beta8.jar",
+					"version": "H4c6OGGe"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/OCpPIeGd/valkyrienskies-118-2.1.0-beta8.jar",
+					"version": "OCpPIeGd"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/v9pZFlno/valkyrienskies-118-2.1.0-beta7.jar",
+					"version": "v9pZFlno"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/EufStSk2/valkyrienskies-118-2.1.0-beta7.jar",
+					"version": "EufStSk2"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/7Sv0y5II/valkyrienskies-118-2.1.0-beta6.jar",
+					"version": "7Sv0y5II"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/qK6pSEvZ/valkyrienskies-118-2.1.0-beta6.jar",
+					"version": "qK6pSEvZ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Hm6PdwzM/valkyrienskies-118-2.1.0-beta5.jar",
+					"version": "Hm6PdwzM"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/P8vgNDsn/valkyrienskies-118-2.1.0-beta5.jar",
+					"version": "P8vgNDsn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/TGfmORHE/valkyrienskies-118-2.1.0-beta4.jar",
+					"version": "TGfmORHE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/565RQckr/valkyrienskies-118-2.1.0-beta4.jar",
+					"version": "565RQckr"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/JgR12tVl/valkyrienskies-118-2.1.0-beta3.jar",
+					"version": "JgR12tVl"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Lk9ZgMMF/valkyrienskies-116-2.0.0-alpha6.jar",
+					"version": "Lk9ZgMMF"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/XBmAChmG/valkyrienskies-116-2.0.0-alpha6.jar",
+					"version": "XBmAChmG"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/thaIMIPv/valkyrienskies-118-2.1.0-beta2.jar",
+					"version": "thaIMIPv"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/U24CWNI1/valkyrienskies-118-fabric-2.1.0-beta1%2B0c28d02ed5.jar",
+					"version": "U24CWNI1"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/nqTMkBs8/valkyrienskies-118-forge-2.1.0-beta1%2B0c28d02ed5.jar",
+					"version": "nqTMkBs8"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ojupNKsr/valkyrienskies-116-2.0.0-alpha5.jar",
+					"version": "ojupNKsr"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/qnLhaIcW/valkyrienskies-116-2.0.0-alpha5.jar",
+					"version": "qnLhaIcW"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/yTuC1iq7/valkyrienskies-116-2.0.0-alpha4.jar",
+					"version": "yTuC1iq7"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/60WscAo9/valkyrienskies-116-2.0.0-alpha4.jar",
+					"version": "60WscAo9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/XdqFJAIP/valkyrienskies-116-2.0.0-alpha3.jar",
+					"version": "XdqFJAIP"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/NwTDRB8l/valkyrienskies-116-2.0.0-alpha3.jar",
+					"version": "NwTDRB8l"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/yCsPnQFF/valkyrienskies-116-2.0.0-alpha2.jar",
+					"version": "yCsPnQFF"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/EzntMAPt/valkyrienskies-116-2.0.0-alpha2.jar",
+					"version": "EzntMAPt"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/a7uhPNOT/valkyrienskies-116-2.0-alpha1.jar",
+					"version": "a7uhPNOT"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/BG3f689s/valkyrienskies-116-2.0-alpha1.jar",
+					"version": "BG3f689s"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/1.1.6/[[[valkyrien-skies-1.12.2-1.1.6.jar",
+					"version": "8zhGUDDJ"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"rubydesic"
+		],
+		"community": "https://discord.gg/aWeNDCUTS6",
+		"description": "Physics in Minecraft",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/V5ujR2yw/d156dee2ce00ca6ce07343bf8db374a05893f376.png",
+		"issues": "https://github.com/ValkyrienSkies/Valkyrien-Skies-2issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "**Valkryien Skies 2 is in BETA. It's generally stable and you can play with it, but we haven't even reached 1% of our full potential!**\n\n---\n<center>\n<img src=\"https://cdn.discordapp.com/attachments/267566425911066626/1068354240491307019/vs_icon_big.png\" width=100 height=100>\n\n# Valkyrien Skies\n[Website](https://valkyrienskies.org) | [Discord](https://discord.gg/dWwM8G3) | [GitHub](https://github.com/ValkyrienSkies/Valkyrien-Skies-2)\n</center>\n\n\n*Blocks that move. Blocks that scale. Blocks with physics. Mini ships. Huge ships. With Valkyrien Skies, not even the sky is a limit.*\n\nNotice: *Valkyrien Skies* is a library mod, you need to download an add-on to use it in ordinary gameplay. If you don't have any in mind, try out [Eureka!](https://modrinth.com/mod/eureka)\n\n\n<img src=\"https://i.imgur.com/uaUCWV5.png\">\n\n## Buoyancy?\nYou betcha. If your ship is light enough, it floats!\n\n<img src=\"https://i.imgur.com/9uIz9M6.png\">\n\n## Everything Collides\nShip to ship. Ship to world. Ship to player. Ship to entities. Valkyrien Skies integrates seamless into vanilla.\n\n<img src=\"https://i.imgur.com/vMUXLgv.png\">\n\n\n## Oh, right. It also supports Create\n\nYour favorite Create machines just got mobile! And this is just the first of many integrations for many popular mods to come.\n\n<iframe jsname=\"L5Fo6c\" class=\"YMEQtf\" sandbox=\"allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads allow-modals\" aria-label=\"YouTube Video, Create + Valkyrien Skies drill ship\" src=\"https://www.youtube.com/embed/kFrchlUsGR4\" allowfullscreen=\"\" frameborder=\"0\" width=857 height=480></iframe>\n\n",
+		"name": "Valkyrien Skies",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/ValkyrienSkies/Valkyrien-Skies-2",
+		"support_link": "https://www.patreon.com/triode"
+	},
+	"properties": {
+		"modrinth_id": "V5ujR2yw",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.12.2",
+			"1.16.5",
+			"1.18.2",
+			"1.19.2",
+			"1.20.1"
+		]
+	}
+}
