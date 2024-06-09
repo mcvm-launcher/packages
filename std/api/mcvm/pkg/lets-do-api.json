@@ -1,0 +1,652 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/egxhEzTt/letsdo-API-fabric-1.2.13-fabric.jar",
+					"version": "egxhEzTt"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/BmhJdIDe/letsdo-API-forge-1.2.13-forge.jar",
+					"version": "BmhJdIDe"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/XH19GNFf/letsdo-API-forge-1.2.12-forge.jar",
+					"version": "XH19GNFf"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/uBWMN9Mp/letsdo-API-fabric-1.2.12-fabric.jar",
+					"version": "uBWMN9Mp"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/ovLpJk3c/letsdo-API-fabric-1.2.11-fabric.jar",
+					"version": "ovLpJk3c"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/Z0o8Bcjo/letsdo-API-forge-1.2.11-forge.jar",
+					"version": "Z0o8Bcjo"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/GJmh5DMx/letsdo-API-fabric-1.2.10-fabric.jar",
+					"version": "GJmh5DMx"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/KTYDAtUH/letsdo-API-forge-1.2.10-forge.jar",
+					"version": "KTYDAtUH"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/u8VE5pSI/letsdo-API-fabric-1.2.9-fabric.jar",
+					"version": "u8VE5pSI"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/cfANm9l6/letsdo-API-forge-1.2.9-forge.jar",
+					"version": "cfANm9l6"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/dRKpSLaj/doapi-1.1.1_forge.jar",
+					"version": "dRKpSLaj"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/iJQvwKt6/doapi-1.1.1_fabric.jar",
+					"version": "iJQvwKt6"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/p6XjKR8c/doapi-1.3.2-fabric.jar",
+					"version": "p6XjKR8c"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/Rux0Z0be/doapi-1.3.2-forge.jar",
+					"version": "Rux0Z0be"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/wKMcbCEl/doapi-1.2.8-fabric.jar",
+					"version": "wKMcbCEl"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/pyVKVeSf/doapi-1.2.8-forge.jar",
+					"version": "pyVKVeSf"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/MlF89rW6/doapi-1.3.1-fabric.jar",
+					"version": "MlF89rW6"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/I33RUK1d/doapi-1.3.1-forge.jar",
+					"version": "I33RUK1d"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/gG0SPlXx/doapi-1.3.0.1-forge.jar",
+					"version": "gG0SPlXx"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/3pWnhxpG/doapi-1.3.0-fabric.jar",
+					"version": "3pWnhxpG"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/agv1fIP1/doapi-1.3.0-forge.jar",
+					"version": "agv1fIP1"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/h5wLaNcB/doapi-1.2.7-fabric.jar",
+					"version": "h5wLaNcB"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/xhHzq7T7/doapi-1.2.7-forge.jar",
+					"version": "xhHzq7T7"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/gIayaZBp/doapi-1.2.6d-fabric.jar",
+					"version": "gIayaZBp"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/MR1JTKce/doapi-1.2.6-fabric.jar",
+					"version": "MR1JTKce"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/o0DP7SgU/doapi-1.2.6-forge.jar",
+					"version": "o0DP7SgU"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/3albwtm0/doapi-1.1.0b.jar",
+					"version": "3albwtm0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/arVwRSxS/doapi-1.2.5-fabric.jar",
+					"version": "arVwRSxS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/CN7bcW4D/doapi-1.2.5-forge.jar",
+					"version": "CN7bcW4D"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/NkpJQXq8/doapi-1.2.4-fabric.jar",
+					"version": "NkpJQXq8"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/95OwnjnL/doapi-1.2.4-forge.jar",
+					"version": "95OwnjnL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/k7owsk71/doapi-1.2.3-fabric.jar",
+					"version": "k7owsk71"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/pRnjpSk3/doapi-1.2.3-forge.jar",
+					"version": "pRnjpSk3"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/7pXo4PfL/doapi-1.2.2-fabric.jar",
+					"version": "7pXo4PfL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/64jnf8gD/doapi-1.2.2-forge.jar",
+					"version": "64jnf8gD"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/SERkJAg2/doapi-1.2.1-fabric.jar",
+					"version": "SERkJAg2"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/iBzF1P8s/doapi-1.2.1-forge.jar",
+					"version": "iBzF1P8s"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/W1SxUOHu/ltesdo-api-fabric-1.2.0.jar",
+					"version": "W1SxUOHu"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/aEIcKcOJ/letsdo-api-forge-1.2.0.jar",
+					"version": "aEIcKcOJ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/br9KuhIu/letsdo-api-forge-1.1.0.jar",
+					"version": "br9KuhIu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/w0juloom/letsdo-api-fabric-1.1.0.jar",
+					"version": "w0juloom"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/HQ5RxPSS/doapi-fabric-1.0.5.jar",
+					"version": "HQ5RxPSS"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/ksYBt7dY/doapi-forge-1.0.5.jar",
+					"version": "ksYBt7dY"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Cristelknight",
+			"ECarrascon",
+			"IamJannik",
+			"satisfyu"
+		],
+		"banner": "https://cdn.modrinth.com/data/4XJZeZbM/images/50216596ed7c4b90e9e02f2dac55643fe2357c61.png",
+		"community": "https://discord.gg/Vqu6wYZwdZ",
+		"description": "A Library for Forge and Fabric with utilities such as Render Features, Recipe Books and Wood API",
+		"documentation": "https://github.com/Cristelknight999/DoAPI#readme",
+		"gallery": [
+			"https://cdn.modrinth.com/data/4XJZeZbM/images/50216596ed7c4b90e9e02f2dac55643fe2357c61.png",
+			"https://cdn.modrinth.com/data/4XJZeZbM/images/d680277e7dd29a175d6be18625c733e10fdedaf2.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/4XJZeZbM/01a4832b479fa718f6b68c10000e56078cb013a6.png",
+		"issues": "https://github.com/Cristelknight999/DoAPI/issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "![logo](https://imgur.com/xnTQAch.png\"logo\")\n\n## An API mainly used by our Mods that offers some utilities for specific features.\n**Requires Architectury API!**\n<br/><br/>\n\n\n### **Wood API**\nAn easy and leightweight Wood API that helps registering Boats and Signs\n\n### **Recipe Book**\nA vanilla style recipe book - done by creating only two java classes.\n\n### **Rendering API**\nA Render System for Blocks and Armor. Makes it easy to create 3D rendered Armor. \n\n### **Conditional Recipes**\nSimple Conditinal Recipes for Forge and Fabric\n\n### **Config**\nSome helper stuff for making config files with comments\n\n***You can find a few examples*** [here](https://github.com/Cristelknight999/DoAPI#readme \"Github\")",
+		"name": "[Let's Do] API",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Cristelknight999/DoAPI"
+	},
+	"properties": {
+		"modrinth_id": "4XJZeZbM",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.20",
+			"1.20.1",
+			"1.20.2"
+		]
+	}
+}

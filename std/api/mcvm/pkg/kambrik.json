@@ -1,0 +1,170 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/zm4X34qZ/Kambrik-7.0.0%2B1.20.4-neoforge.jar",
+					"version": "zm4X34qZ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/SVCm637o/Kambrik-7.0.0%2B1.20.4-fabric.jar",
+					"version": "SVCm637o"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/er56DwLJ/Kambrik-6.1.1%2B1.20.1-forge.jar",
+					"version": "er56DwLJ"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/SqVitkHr/Kambrik-6.1.1%2B1.20.1-fabric.jar",
+					"version": "SqVitkHr"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/E0GS19K7/Kambrik-6.1.0%2B1.20.1-forge.jar",
+					"version": "E0GS19K7"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/M4Cmuqql/Kambrik-6.1.0%2B1.20.1-fabric.jar",
+					"version": "M4Cmuqql"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/cHGXTQwF/Kambrik-6.0.1%2B1.20.1-forge.jar",
+					"version": "cHGXTQwF"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/kFW8nJA9/Kambrik-6.0.1%2B1.20.1-fabric.jar",
+					"version": "kFW8nJA9"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/3.1.0/Kambrik-3.1.0-1.18.jar",
+					"version": "eo4IOIRF"
+				},
+				{
+					"minecraft_versions": "1.18-pre5",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/3.0.0/Kambrik-3.0.0.jar",
+					"version": "u28lnZqI"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/1.1.0/Kambrik-1.1.0.jar",
+					"version": "hcUdkfwj"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/1.0.0/Kambrik-1.0.0.jar",
+					"version": "HpOrN1a8"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"ejektaflex"
+		],
+		"community": "https://discord.gg/BaH88W9",
+		"description": "A Kotlin Library Mod",
+		"documentation": "https://kambrik.ejekta.io/",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/zfbCkvdZ/icon.png",
+		"issues": "https://github.com/ejektaflex/Kambrik/issues",
+		"license": "MIT",
+		"long_description": "# Kambrik\n\nA lightweight Kotlin library mod for Fabric. \nMeant to simplify development through various means.\n\nKambrik Currently Offers: \n* Simplified Registration of Items, Blocks, Enchantments, etc.\n* Command DSL for simple command creation\n* A Message API for sending data over the network and back\n* Extension methods for common, reusable functionality\n* A Text builder DSL\n\n\nExperimental Features:\n* Simple Object <=> NBT conversion with Kotlinx Serialization\n\n\nUpcoming Features:\n* A GUI drawing DSL\n\n\nExperimental library features will be put into `kambrikx` until they mature.\n",
+		"name": "Kambrik",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/ejektaflex/Kambrik"
+	},
+	"properties": {
+		"modrinth_id": "zfbCkvdZ",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.17",
+			"1.17.1",
+			"1.18-pre5",
+			"1.18",
+			"1.18.1",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}
