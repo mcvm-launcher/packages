@@ -1,0 +1,447 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/Di2JxVAQ/nvidium-0.2.7-beta.jar",
+					"version": "Di2JxVAQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/J2fuM58R/nvidium-0.2.6-beta.jar",
+					"version": "J2fuM58R"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"sodium",
+							"sodium"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/UO1crPGk/nvidium-0.2.5-beta.jar",
+					"version": "UO1crPGk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/jn5Yk9Nd/nvidium-0.2.4-beta.jar",
+					"version": "jn5Yk9Nd"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/ETg31Z6e/nvidium-0.2.3-beta.jar",
+					"version": "ETg31Z6e"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/LTv8XrYG/nvidium-0.2.2-beta.jar",
+					"version": "LTv8XrYG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/ysJnbtbv/nvidium-0.2.1-beta.jar",
+					"version": "ysJnbtbv"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/JTkUZGqn/nvidium-0.2.0-beta.jar",
+					"version": "JTkUZGqn"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/I9LWXtS0/nvidium-0.1.16-alpha.jar",
+					"version": "I9LWXtS0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/WJV4pTzp/nvidium-0.1.15-alpha.jar",
+					"version": "WJV4pTzp"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/esYI1xBx/nvidium-0.1.14-alpha.jar",
+					"version": "esYI1xBx"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/WQjiwSwZ/nvidium-0.1.13-alpha.jar",
+					"version": "WQjiwSwZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/pyrZpIBT/nvidium-0.1.12-alpha.jar",
+					"version": "pyrZpIBT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.4",
+						"1.20"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/PleqMW3C/nvidium-0.1.11-alpha.jar",
+					"version": "PleqMW3C"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/kpnbPBqZ/nvidium-0.1.10-alpha.jar",
+					"version": "kpnbPBqZ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/Q8EeXw8B/nvidium-0.1.10-alpha.jar",
+					"version": "Q8EeXw8B"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/hfGur016/nvidium-0.1.9-alpha.jar",
+					"version": "hfGur016"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/ucgwwuUs/nvidium-0.1.8-alpha.jar",
+					"version": "ucgwwuUs"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/ioXOklz8/nvidium-0.1.7-alpha.jar",
+					"version": "ioXOklz8"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/qO1f9KFu/nvidium-0.1.6-alpha.jar",
+					"version": "qO1f9KFu"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/uDOBbg9l/nvidium-0.1.5-alpha.jar",
+					"version": "uDOBbg9l"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/RcPCnsXK/nvidium-0.1.4-alpha.jar",
+					"version": "RcPCnsXK"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/lAfUt46g/nvidium-0.1.3-alpha.jar",
+					"version": "lAfUt46g"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/2RY6RGKi/nvidium-0.1.2-alpha.jar",
+					"version": "2RY6RGKi"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "iris",
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/tbibwExa/nvidium-0.1.1-alpha.jar",
+					"version": "tbibwExa"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/LXNe7fra/nvidium-0.1.0-alpha.jar",
+					"version": "LXNe7fra"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"cortex"
+		],
+		"banner": "https://cdn.modrinth.com/data/SfMw2IZN/images/d2d24a75bb2e496a54edd89ad9498773605ca72b.jpeg",
+		"community": "https://discord.gg/VdhYSFxtGa",
+		"description": "Fast nvidia only rendering engine for sodium",
+		"gallery": [
+			"https://cdn.modrinth.com/data/SfMw2IZN/images/b29744d633f6faac9a4b3c0cc88d740a57a0629f.png",
+			"https://cdn.modrinth.com/data/SfMw2IZN/images/457b8ac2059b035d6a2465639692ea65aa78e793.jpeg",
+			"https://cdn.modrinth.com/data/SfMw2IZN/images/53e7002010cb8b73d31bd4c74fadbda61b60a847.png",
+			"https://cdn.modrinth.com/data/SfMw2IZN/images/d2d24a75bb2e496a54edd89ad9498773605ca72b.jpeg"
+		],
+		"icon": "https://cdn.modrinth.com/data/SfMw2IZN/dfd2ee7b56197c430090e38936c7e0254790f61f.png",
+		"issues": "https://github.com/MCRcortex/nvidium/issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "![Nvidium rendering huge amounts of terrain geometry](https://i.imgur.com/k8A1buX.jpg)\n\nNvidium is a replacement rendering backend for sodium that uses nvidia only opengl extensions to increase fps by a significant amount.\n\n## Compatibility\nThis mod explicitly requires an nvidia gpu that supports mesh shaders. \nThis feature was introduced in turing architecture, anything that is a 16xx series or newer (20xx series also works) that supports mesh shaders. \n\n### Q: Will this mod work on my non-Nvidia system?\n### A: No, the mod is not functional on non-Nvidia systems, but the Nvidium will automatically disable itself. Your gameplay will not be affected. \n\n## Warning\nThis mod uses uncommon technology (mesh shaders). This may result in minecraft terminating unexpectedly.\n\n## How does it work\nWith mesh shaders, a near fully gpu driven rendering pipeline is used, enabling very fast and performant geometry culling of terrain meaning your gpu can work much more efficiently.\n\n# Requires sodium to run\n## Disables itself when iris is actively using shaders\n\n\n",
+		"name": "Nvidium",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/MCRcortex/nvidium",
+		"support_link": "https://patreon.com/mcrcortex/"
+	},
+	"properties": {
+		"modrinth_id": "SfMw2IZN",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.6"
+		]
+	}
+}
