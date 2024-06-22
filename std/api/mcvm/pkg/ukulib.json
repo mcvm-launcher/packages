@@ -4,6 +4,26 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/uOV1ub0N/ukulib-1.4.0%2B1.21.jar",
+					"version": "uOV1ub0N"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/6gBZhBhX/ukulib-1.3.0%2B1.21.jar",
+					"version": "6gBZhBhX"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -565,7 +585,7 @@
 		"icon": "https://cdn.modrinth.com/data/Y8uFrUil/fb51fa4e17f3d913ded07783702e8bb9425b9202.png",
 		"issues": "https://github.com/uku3lig/ukulibissues",
 		"license": "MPL-2.0",
-		"long_description": "![banner](https://raw.githubusercontent.com/uku3lig/ukulib/1.19.4/banner.png)\n\n[![Maven metadata URL](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Fmaven.uku3lig.net%2Freleases%2Fnet%2Fuku3lig%2Fukulib%2Fmaven-metadata.xml&color=brightgreen&style=for-the-badge)](https://maven.uku3lig.net/#/releases/net/uku3lig/ukulib)\n[![Javadoc badge](https://img.shields.io/badge/javadoc-latest-blue?style=for-the-badge)](https://maven.uku3lig.net/javadoc/releases/net/uku3lig/ukulib/latest)\n![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/uku3lig/ukulib?style=for-the-badge)\n![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/uku3lig/ukulib?style=for-the-badge)\n\nThe coolest fabric library mod on the internet, which has 0 (zero) dependencies. <br>\nJavadoc can be found [here](https://maven.uku3lig.net/javadoc/releases/net/uku3lig/ukulib/latest) for the latest version, or at `https://maven.uku3lig.net/javadoc/releases/net/uku3lig/ukulib/VERSION` for older versions.\n\n## Features\n* A simple yet powerful config system, which also provides utilities for config screens.\n* Only this for now... but more will come soon™️ ! (ideas and feedback are appreciated :D)\n\n## How to use\n\nAdd the following to your `gradle.properties` (see above shield or the [maven repo](https://maven.uku3lig.net/#/releases/net/uku3lig/ukulib) for version info):\n```properties\n# https://github.com/uku3lig/ukulib\nukulib_version=...\n```\n\n`build.gradle`:\n```groovy\nrepositories {\n    maven {\n        url \"https://maven.uku3lig.net/releases\"\n    }\n}\n\ndependencies {\n    modApi \"net.uku3lig:ukulib:${project.ukulib_version}\"\n\n    // you can also include it directly if you don't want your users to download it\n    include \"net.uku3lig:ukulib:${project.ukulib_version}\"\n}\n```\n\n<details>\n    <summary><b>Development versions</b></summary>\n\n<a href=\"https://github.com/uku3lig/ukulib/actions\"><img alt=\"GitHub Workflow Status\" src=\"https://img.shields.io/github/actions/workflow/status/uku3lig/ukulib/build.yml?branch=1.19.3\"></a>\n<a href=\"https://maven.uku3lig.net/#/snapshots/net/uku3lig/ukulib\"><img alt=\"Maven metadata URL\" src=\"https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Fmaven.uku3lig.net%2Fsnapshots%2Fnet%2Fuku3lig%2Fukulib%2Fmaven-metadata.xml\"></a>\n    \nDevelopment version numbers end with `-build.<build number>`, e.g. `0.2.2+1.19.2-build.65`. <br>\nThey are not guaranteed to be stable or even work at all, but they are available if you want to test the latest changes. <br>\nThey are also not published to the maven repo, so you have to add the following to your `build.gradle`:\n```groovy\nrepositories {\n    maven {\n        url \"https://maven.uku3lig.net/snapshots\"\n    }\n}\n```\n</details>\n\n## Integrating your config screen\n\nUkulib provides an api class, `UkulibAPI`, which you can extend to integrate your mod's config screen with ukulib. Example:\n```java\npublic class YourUkulibAPIClass implements UkulibAPI {\n    @Override\n    public Function<Screen, AbstractConfigScreen<?>> supplyConfigScreen() {\n        return parent -> new YourConfigScreen(parent, ...);\n    }\n}\n```\n\nYou then need to add the `ukulib` entrypoint in your `fabric.mod.json`:\n```json\n\"entrypoints\": {\n    ...\n    \"ukulib\": [\n      \"your.awesome.mod.YourUkulibAPIClass\"\n    ]\n  }\n```\n\n\n[![kinetic banner](https://uku.s-ul.eu/z2dFT4si)](https://billing.kinetichosting.net/aff.php?aff=309)\n",
+		"long_description": "![banner](https://raw.githubusercontent.com/uku3lig/ukulib/1.19.4/banner.png)\n\n[![Maven metadata URL](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Fmaven.uku3lig.net%2Freleases%2Fnet%2Fuku3lig%2Fukulib%2Fmaven-metadata.xml&color=brightgreen&style=for-the-badge)](https://maven.uku3lig.net/#/releases/net/uku3lig/ukulib)\n[![Javadoc badge](https://img.shields.io/badge/javadoc-latest-blue?style=for-the-badge)](https://maven.uku3lig.net/javadoc/releases/net/uku3lig/ukulib/latest)\n![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/uku3lig/ukulib?style=for-the-badge)\n![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/uku3lig/ukulib?style=for-the-badge)\n\nThe coolest fabric library mod on the internet, which has 0 (zero) dependencies. <br>\nJavadoc can be found [here](https://maven.uku3lig.net/javadoc/releases/net/uku3lig/ukulib/latest) for the latest version, or at `https://maven.uku3lig.net/javadoc/releases/net/uku3lig/ukulib/VERSION` for older versions.\n\n## Features\n* A simple yet powerful config system, which also provides utilities for config screens.\n* Only this for now... but more will come soon™️ ! (ideas and feedback are appreciated :D)\n\n## How to use\n\nAdd the following to your `gradle.properties` (see above shield or the [maven repo](https://maven.uku3lig.net/#/releases/net/uku3lig/ukulib) for version info):\n```properties\n# https://github.com/uku3lig/ukulib\nukulib_version=...\n```\n\n`build.gradle`:\n```groovy\nrepositories {\n    maven {\n        url \"https://maven.uku3lig.net/releases\"\n    }\n}\n\ndependencies {\n    modApi \"net.uku3lig:ukulib:${project.ukulib_version}\"\n\n    // you can also include it directly if you don't want your users to download it\n    include \"net.uku3lig:ukulib:${project.ukulib_version}\"\n}\n```\n\n<details>\n    <summary><b>Development versions</b></summary>\n\n<a href=\"https://github.com/uku3lig/ukulib/actions\"><img alt=\"GitHub Workflow Status\" src=\"https://img.shields.io/github/actions/workflow/status/uku3lig/ukulib/build.yml?branch=1.19.3\"></a>\n<a href=\"https://maven.uku3lig.net/#/snapshots/net/uku3lig/ukulib\"><img alt=\"Maven metadata URL\" src=\"https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Fmaven.uku3lig.net%2Fsnapshots%2Fnet%2Fuku3lig%2Fukulib%2Fmaven-metadata.xml\"></a>\n    \nDevelopment version numbers end with `-build.<build number>`, e.g. `0.2.2+1.19.2-build.65`. <br>\nThey are not guaranteed to be stable or even work at all, but they are available if you want to test the latest changes. <br>\nThey are also not published to the maven repo, so you have to add the following to your `build.gradle`:\n```groovy\nrepositories {\n    maven {\n        url \"https://maven.uku3lig.net/snapshots\"\n    }\n}\n```\n</details>\n\n## Integrating your config screen\n\nUkulib provides an api class, `UkulibAPI`, which you can extend to integrate your mod's config screen with ukulib. Example:\n```java\npublic class YourUkulibAPIClass implements UkulibAPI {\n    @Override\n    public Function<Screen, AbstractConfigScreen<?>> supplyConfigScreen() {\n        return parent -> new YourConfigScreen(parent, ...);\n    }\n}\n```\n\nYou then need to add the `ukulib` entrypoint in your `fabric.mod.json`:\n```json\n\"entrypoints\": {\n    ...\n    \"ukulib\": [\n      \"your.awesome.mod.YourUkulibAPIClass\"\n    ]\n  }\n```\n",
 		"name": "ukulib",
 		"package_maintainers": [
 			"mcvm"
@@ -603,7 +623,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

@@ -4,6 +4,53 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/CRcFURzT/letmedespawn-1.3.0.jar",
+					"version": "CRcFURzT"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/6mxOtAhK/letmedespawn-1.3.0.jar",
+					"version": "6mxOtAhK"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/7OSOHbMe/letmedespawn-1.3.0.jar",
+					"version": "7OSOHbMe"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/SJSQng1E/letmedespawn-fabric-1.3.0.jar",
+					"version": "SJSQng1E"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/tjhuF4Q1/letmedespawn-neoforge-1.3.0.jar",
+					"version": "tjhuF4Q1"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.1",
 						"1.20.2",
@@ -388,7 +435,8 @@
 			"24w18a",
 			"24w19a",
 			"24w19b",
-			"24w20a"
+			"24w20a",
+			"1.21"
 		]
 	}
 }

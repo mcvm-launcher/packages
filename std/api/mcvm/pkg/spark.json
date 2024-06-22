@@ -4,6 +4,27 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/l6YH9Als/versions/iYliEQKf/spark-1.10.73-neoforge.jar",
+					"version": "iYliEQKf"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/l6YH9Als/versions/KYGTUMOq/spark-1.10.73-fabric.jar",
+					"version": "KYGTUMOq"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/l6YH9Als/versions/TsIZU7vG/spark-1.10.73-forge.jar",
+					"version": "TsIZU7vG"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -596,7 +617,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

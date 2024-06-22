@@ -4,6 +4,25 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": {
+							"value": "animatica"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/dPuD2Nuk/optigui-2.3.0-beta.2%2B1.21.jar",
+					"version": "dPuD2Nuk"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -1002,7 +1021,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

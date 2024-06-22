@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/Fs7yEKEc/athena-fabric-1.21-4.0.0.jar",
+					"version": "Fs7yEKEc"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/TbNOQ4qu/athena-neoforge-1.21-4.0.0.jar",
+					"version": "TbNOQ4qu"
+				},
+				{
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -263,7 +280,7 @@
 		"icon": "https://cdn.modrinth.com/data/b1ZV3DIJ/f234884f7d6b29cffbd38fb8a655b2f3cfa4581f.png",
 		"issues": "https://github.com/terrarium-earth/Athena/issues",
 		"license": "LicenseRef-Terrarium-License",
-		"long_description": "<center>\n\n## Athena\n\n[![Made by Terrarium](https://cdn.discordapp.com/attachments/1073717602880327761/1073718144910233691/Terrarium_vector.svg)](https://discord.terrarium.earth)\n[![all of fabric](https://cdn.discordapp.com/attachments/1073717602880327761/1094724580326776952/Sponsored_by_AOF_vector.svg)](https://discord.gg/6rkdm48)\n[![breaks with sodium without indium](https://cdn.discordapp.com/attachments/1073717602880327761/1091419443487322193/sodium_vector.svg)](https://modrinth.com/mod/indium)\n---\n## 📖About 📖\n\n</center>\n\nAthena is a versatile, cross-platform baked model loader that features built-in support for connected textures. \nIt employs unique baked models for each type to ensure optimal performance and compatibility across platforms. \nAthena's connected texture method (CTM) is designed specifically for these models to minimize unnecessary calculations and resolve common issues. \nAdditionally, Athena allows for custom checks, such as special vertical culling for glass panes, to further enhance its functionality.\n\n<center>\n\n[![gitbook](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/gitbook_vector.svg)](https://wiki.terrarium.earth/athena/)\n\n---\n\n[![Use code \"Terrarium\" for 25% off at BisectHosting](https://cdn.discordapp.com/attachments/1073717602880327761/1094750562794348585/BisectHosting_Banner_vector.svg)](http://bisecthosting.com/terrarium)\n\n---\n\n## Socials\n\n[![youtube](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n---\n\nThe logo for this mod was made using [Lucide Icons](https://lucide.dev/)\n\n---\n</center>\n",
+		"long_description": "<center>\n\n## Athena\n\n[![Made by Terrarium](https://images.teamresourceful.com/u/I80VLV.svg)](https://discord.terrarium.earth)\n[![Breaks with Sodium without Indium present](https://images.teamresourceful.com/u/dCVaUA.svg)](https://modrinth.com/mod/indium)\n---\n## 📖About 📖\n\n</center>\n\nAthena is a versatile, cross-platform baked model loader that features built-in support for connected textures. \nIt employs unique baked models for each type to ensure optimal performance and compatibility across platforms. \nAthena's connected texture method (CTM) is designed specifically for these models to minimize unnecessary calculations and resolve common issues. \nAdditionally, Athena allows for custom checks, such as special vertical culling for glass panes, to further enhance its functionality.\n\n<center>\n\n[![gitbook](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/gitbook_vector.svg)](https://wiki.terrarium.earth/athena/)\n\n---\n\n## Socials\n\n[![youtube](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n---\n\nThe logo for this mod was made using [Lucide Icons](https://lucide.dev/)\n\n---\n</center>\n",
 		"name": "Athena",
 		"package_maintainers": [
 			"mcvm"
@@ -286,7 +303,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.4",
-			"1.20.5"
+			"1.20.5",
+			"1.21"
 		]
 	}
 }

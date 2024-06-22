@@ -4,11 +4,54 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RS3zegai/dynamic-fps-3.5.0-beta.1%2Bminecraft-1.21.0-fabric.jar",
+					"version": "RS3zegai"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/zABNE034/dynamic-fps-3.4.3-neoforge.21.0.beta.1%2Bminecraft-1.21-neoforge.jar",
+					"version": "zABNE034"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/TsACcqoR/dynamic-fps-3.4.3%2Bminecraft-1.20.5-neoforge.jar",
+					"version": "TsACcqoR"
+				},
+				{
 					"minecraft_versions": [
 						"1.21-pre1",
 						"1.21-pre2",
 						"1.21-pre3",
-						"1.21-pre4"
+						"1.21-pre4",
+						"1.21-rc1",
+						"1.21"
 					],
 					"modloaders": "fabriclike",
 					"relations": {
@@ -2888,7 +2931,9 @@
 			"1.21-pre1",
 			"1.21-pre2",
 			"1.21-pre3",
-			"1.21-pre4"
+			"1.21-pre4",
+			"1.21-rc1",
+			"1.21"
 		]
 	}
 }

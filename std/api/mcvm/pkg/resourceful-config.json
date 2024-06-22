@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/QxYi29TJ/resourcefulconfig-fabric-1.21-3.0.1.jar",
+					"version": "QxYi29TJ"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/YV2odnU3/resourcefulconfig-neoforge-1.21-3.0.1.jar",
+					"version": "YV2odnU3"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -124,6 +141,23 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/n3yQ9KKD/resourcefulconfig-forge-1.20-2.0.0.jar",
 					"version": "n3yQ9KKD"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/s7xLIWh3/resourcefulconfig-fabric-1.21-3.0.0.jar",
+					"version": "s7xLIWh3"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/mImM4qkZ/resourcefulconfig-neoforge-1.21-3.0.0.jar",
+					"version": "mImM4qkZ"
 				},
 				{
 					"minecraft_versions": "1.20.5",
@@ -579,7 +613,8 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

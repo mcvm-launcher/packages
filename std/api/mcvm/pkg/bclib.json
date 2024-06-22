@@ -4,6 +4,22 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/BgNRHReB/versions/PtuzTpi8/bclib-21.0.0.jar",
+					"version": "PtuzTpi8"
+				},
+				{
 					"minecraft_versions": "1.19.4",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -546,7 +562,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

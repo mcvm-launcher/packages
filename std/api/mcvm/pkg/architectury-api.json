@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/SbPQPVBq/architectury-13.0.1-neoforge.jar",
+					"version": "SbPQPVBq"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4JZAlpn7/architectury-13.0.1-fabric.jar",
+					"version": "4JZAlpn7"
+				},
+				{
 					"minecraft_versions": "1.20.6",
 					"modloaders": "neoforged",
 					"stability": "stable",
@@ -3160,7 +3177,8 @@
 			"24w14a",
 			"1.20.5-pre1",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

@@ -4,6 +4,30 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/Ua3Y89qt/badpackets-neo-0.8.1.jar",
+					"version": "Ua3Y89qt"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/n8slpshH/badpackets-forge-0.8.1.jar",
+					"version": "n8slpshH"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/ac4a1Xj7/badpackets-fabric-0.8.1.jar",
+					"version": "ac4a1Xj7"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -665,7 +689,8 @@
 			"1.20.6",
 			"24w18a",
 			"24w19b",
-			"1.21-pre2"
+			"1.21-pre2",
+			"1.21"
 		]
 	}
 }

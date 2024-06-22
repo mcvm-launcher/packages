@@ -4,6 +4,47 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/nKHizsl6/Pehkui-3.8.3%2B1.21-neoforge.jar",
+					"version": "nKHizsl6"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.2",
+						"1.20.4",
+						"1.20.6",
+						"1.21-rc1",
+						"1.21"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/6fzxx6SC/Pehkui-3.8.3%2B1.14.4-1.21.jar",
+					"version": "6fzxx6SC"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/vKeyKfkC/Pehkui-3.8.3%2B1.20.6-neoforge.jar",
+					"version": "vKeyKfkC"
+				},
+				{
 					"minecraft_versions": [
 						"1.14.4",
 						"1.15.2",
@@ -2130,7 +2171,7 @@
 		"icon": "https://cdn.modrinth.com/data/t5W7Jfwy/icon.png",
 		"issues": "https://github.com/Virtuoel/Pehkui/issues",
 		"license": "MIT",
-		"long_description": "&nbsp;  \nThis mod allows for most entities to have their size changed, either enlarging or shrinking them.  \n&nbsp;  \nIt also provides an API that other mods can make use of to manipulate the size of entities and the time it takes for their size to change.  \n&nbsp;  \n&nbsp;  \nThe Quilt/Fabric version is the actively supported version and will receive features, updates, and fixes first. The NeoForge and Forge versions are not supported as actively.  \n&nbsp;  \n&nbsp;  \nFor the ***Quilt/Fabric*** version, the ***most recently released jar*** can be used on: ***1.20.4, 1.20.2, 1.20.1, 1.19.4, 1.19.2, 1.18.2, 1.17.1, 1.16.5, 1.15.2, and 1.14.4***.  \nFor the ***NeoForge*** version, there are ***separate jars*** for each supported Minecraft version. Those jars are for: ***1.20.4 and 1.20.2***.  \nFor the ***Forge*** version, there are ***separate jars*** for each supported Minecraft version. Those jars are for: ***1.20.1, 1.19.4, 1.19.2, 1.18.2, 1.17.1, and 1.16.5***.  \n&nbsp;  \n&nbsp;  \nRemoving this mod will revert entities back to their normal size. Adding it back in will ***not*** restore their size.  \n&nbsp;  \n&nbsp;  \nIf you have no mods that add ways to rescale entities, you can modify and view the scale and scaling delay of an entity in-game using the `/scale` command if you have operator permissions:  \n&nbsp;  \n`/scale set <value> [entity]`  \n`/scale set <scale_type> <value> [entity]`  \n`/scale <add|subtract|multiply|divide> <value> [entity]`  \n`/scale <add|subtract|multiply|divide> <scale_type> <value> [entity]`  \n`/scale get [entity]`  \n`/scale get <scale_type> [entity]`  \n`/scale compute <scale_type> [entity]`  \n`/scale delay set <ticks> [entity]`  \n`/scale delay set <scale_type> <ticks> [entity]`  \n`/scale delay get [entity]`  \n`/scale delay get <scale_type> [entity]`  \n`/scale reset [entity]`  \n`/scale reset <scale_type> [entity]`  \n`/scale nbt get [entity]`  \n&nbsp;  \n&nbsp;  \nIf you want your scale to persist after you respawn, there's a `/scale` subcommand for that as well:  \n&nbsp;  \n`/scale persist set <true|false> [entity]`  \n`/scale persist set <scale_type> <true|false> [entity]`  \n`/scale persist get <scale_type> [entity]`  \n`/scale persist reset [entity]`  \n`/scale persist reset <scale_type> [entity]`  \n&nbsp;  \n&nbsp;  \nThe following scale types are added by default:  \n&nbsp;  \n`pehkui:base`: Generic scale type for easily affecting other scales  \n`pehkui:width`: Modifies width/length/depth (affected by `pehkui:base`)  \n`pehkui:height`: Modifies height (affected by `pehkui:base`)  \n`pehkui:hitbox_width`: Modifies width/length/depth of an entity's hitbox (affected by `pehkui:width`)  \n`pehkui:hitbox_height`: Modifies height of an entity's hitbox (affected by `pehkui:height`)  \n`pehkui:eye_height`: Modifies height of an entity's eye position (affected by `pehkui:height`)  \n`pehkui:model_width`: Modifies width/length/depth of an entity's model (affected by `pehkui:width`)  \n`pehkui:model_height`: Modifies height of an entity's model (affected by `pehkui:height`)  \n`pehkui:third_person`: Modifies player third person camera distance (affected by `pehkui:height`)  \n`pehkui:motion`: Modifies movement speed (affected by `pehkui:base`)  \n`pehkui:step_height`: Modifies step height (e.g. walking up slabs, stairs, snow) (affected by `pehkui:motion`)  \n`pehkui:view_bobbing`: Modifies view bobbing (affected by `pehkui:motion`)  \n`pehkui:falling`: Modifies fall damage (affected by `pehkui:motion`)  \n`pehkui:flight`: Modifies creative mode flight speed  \n`pehkui:jump_height`: Modifies jump height  \n`pehkui:visibility`: Modifies distance at which this entity will be targeted by enemies (affected by `pehkui:base`)  \n`pehkui:reach`: Modifies player reach distance (affected by `pehkui:base`)  \n`pehkui:block_reach`: Modifies player block reach distance (affected by `pehkui:reach`)  \n`pehkui:entity_reach`: Modifies player attack reach distance (affected by `pehkui:reach`)  \n`pehkui:held_item`: Modifies the scale of held items  \n`pehkui:drops`: Modifies the scale of dropped items (affected by `pehkui:base`)  \n`pehkui:projectiles`: Modifies the scale of thrown/shot projectiles (affected by `pehkui:base`)  \n`pehkui:explosions`: Modifies the size of the entity's explosion (e.g. Creepers, End Crystals) (affected by `pehkui:base`)  \n`pehkui:attack`: Modifies damage dealt  \n`pehkui:defense`: Modifies damage taken  \n`pehkui:knockback`: Modifies knockback dealt  \n`pehkui:health`: Modifies an entity's health  \n`pehkui:mining_speed`: Modifies block breaking speed  \n`pehkui:attack_speed`: Modifies attack speed  ",
+		"long_description": "&nbsp;  \nThis mod allows for most entities to have their size changed, either enlarging or shrinking them.  \n&nbsp;  \nIt also provides an API that other mods can make use of to manipulate the size of entities and the time it takes for their size to change.  \n&nbsp;  \n&nbsp;  \nThe Quilt/Fabric version is the actively supported version and will receive features, updates, and fixes first. The NeoForge and Forge versions are not supported as actively.  \n&nbsp;  \n&nbsp;  \nFor the ***Quilt/Fabric*** version, the ***most recently released jar*** can be used on: ***1.21, 1.20.6, 1.20.4, 1.20.2, 1.20.1, 1.19.4, 1.19.2, 1.18.2, 1.17.1, 1.16.5, 1.15.2, and 1.14.4***.  \nFor the ***NeoForge*** version, there are ***separate jars*** for each supported Minecraft version. Those jars are for: ***1.21, 1.20.6, 1.20.4, and 1.20.2***.  \nFor the ***Forge*** version, there are ***separate jars*** for each supported Minecraft version. Those jars are for: ***1.20.1, 1.19.4, 1.19.2, 1.18.2, 1.17.1, and 1.16.5***.  \n&nbsp;  \n&nbsp;  \nRemoving this mod will revert entities back to their normal size. Adding it back in will ***not*** restore their size.  \n&nbsp;  \n&nbsp;  \nIf you have no mods that add ways to rescale entities, you can modify and view the scale and scaling delay of an entity in-game using the `/scale` command if you have operator permissions:  \n&nbsp;  \n`/scale set <value> [<entity>]`  \n`/scale set <scale_type> <value> [<entity>]`  \n`/scale (add|subtract|multiply|divide) <value> [<entity>]`  \n`/scale (add|subtract|multiply|divide) <scale_type> <value> [<entity>]`  \n`/scale get [<entity>]`  \n`/scale get <scale_type> [<entity>]`  \n`/scale compute <scale_type> [<entity>]`  \n`/scale delay set <ticks> [<entity>]`  \n`/scale delay set <scale_type> <ticks> [<entity>]`  \n`/scale delay get [<entity>]`  \n`/scale delay get <scale_type> [<entity>]`  \n`/scale reset [<entity>]`  \n`/scale reset <scale_type> [<entity>]`  \n`/scale nbt get [<entity>]`  \n&nbsp;  \n&nbsp;  \nIf you want your scale to persist after you respawn, there's a `/scale` subcommand for that as well:  \n&nbsp;  \n`/scale persist set (true|false) [<entity>]`  \n`/scale persist set <scale_type> (true|false) [<entity>]`  \n`/scale persist get <scale_type> [<entity>]`  \n`/scale persist reset [<entity>]`  \n`/scale persist reset <scale_type> [<entity>]`  \n&nbsp;  \n&nbsp;  \nThe following scale types are added by default:  \n&nbsp;  \n`pehkui:base`: Generic scale type for easily affecting other scales  \n`pehkui:width`: Modifies width/length/depth (affected by `pehkui:base`)  \n`pehkui:height`: Modifies height (affected by `pehkui:base`)  \n`pehkui:hitbox_width`: Modifies width/length/depth of an entity's hitbox (affected by `pehkui:width`)  \n`pehkui:hitbox_height`: Modifies height of an entity's hitbox (affected by `pehkui:height`)  \n`pehkui:eye_height`: Modifies height of an entity's eye position (affected by `pehkui:height`)  \n`pehkui:model_width`: Modifies width/length/depth of an entity's model (affected by `pehkui:width`)  \n`pehkui:model_height`: Modifies height of an entity's model (affected by `pehkui:height`)  \n`pehkui:third_person`: Modifies player third person camera distance (affected by `pehkui:height`)  \n`pehkui:motion`: Modifies movement speed (affected by `pehkui:base`)  \n`pehkui:step_height`: Modifies step height (e.g. walking up slabs, stairs, snow) (affected by `pehkui:motion`)  \n`pehkui:view_bobbing`: Modifies view bobbing (affected by `pehkui:motion`)  \n`pehkui:falling`: Modifies fall damage (affected by `pehkui:motion`)  \n`pehkui:flight`: Modifies creative mode flight speed  \n`pehkui:jump_height`: Modifies jump height  \n`pehkui:visibility`: Modifies distance at which this entity will be targeted by enemies (affected by `pehkui:base`)  \n`pehkui:reach`: Modifies player reach distance (affected by `pehkui:base`)  \n`pehkui:block_reach`: Modifies player block reach distance (affected by `pehkui:reach`)  \n`pehkui:entity_reach`: Modifies player attack reach distance (affected by `pehkui:reach`)  \n`pehkui:held_item`: Modifies the scale of held items  \n`pehkui:drops`: Modifies the scale of dropped items (affected by `pehkui:base`)  \n`pehkui:projectiles`: Modifies the scale of thrown/shot projectiles (affected by `pehkui:base`)  \n`pehkui:explosions`: Modifies the size of the entity's explosion (e.g. Creepers, End Crystals) (affected by `pehkui:base`)  \n`pehkui:attack`: Modifies damage dealt  \n`pehkui:defense`: Modifies damage taken  \n`pehkui:knockback`: Modifies knockback dealt  \n`pehkui:health`: Modifies an entity's health  \n`pehkui:mining_speed`: Modifies block breaking speed  \n`pehkui:attack_speed`: Modifies attack speed  ",
 		"name": "Pehkui",
 		"package_maintainers": [
 			"mcvm"
@@ -2185,7 +2226,9 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.4",
-			"1.20.6"
+			"1.20.6",
+			"1.21-rc1",
+			"1.21"
 		]
 	}
 }

@@ -13,11 +13,21 @@
 						"quilt"
 					],
 					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/BvVRER1H/iris-1.7.0%2Bmc1.20.6.jar",
-					"version": "BvVRER1H"
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/keLlmlCc/iris-1.7.1%2Bmc1.20.6.jar",
+					"version": "keLlmlCc"
 				},
 				{
 					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/G5dd9TM4/iris-1.7.1%2Bmc1.20.1.jar",
+					"version": "G5dd9TM4"
+				},
+				{
+					"minecraft_versions": "1.21",
 					"modloaders": [
 						"fabriclike",
 						"quilt"
@@ -26,8 +36,8 @@
 						"dependencies": "sodium"
 					},
 					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KHQ2Hnpt/iris-1.7.0%2Bmc1.20.1.jar",
-					"version": "KHQ2Hnpt"
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/RYnrr5zv/iris-1.7.1%2Bmc1.21.jar",
+					"version": "RYnrr5zv"
 				},
 				{
 					"minecraft_versions": [
@@ -42,8 +52,8 @@
 						"dependencies": "sodium"
 					},
 					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/45ETshvT/iris-1.7.0%2Bmc1.20.4.jar",
-					"version": "45ETshvT"
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/gPXdh2Es/iris-1.7.1%2Bmc1.20.4.jar",
+					"version": "gPXdh2Es"
 				},
 				{
 					"minecraft_versions": "1.19.4",
@@ -87,6 +97,48 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/ogIRhnAJ/iris-mc1.18.2-1.6.11.jar",
 					"version": "ogIRhnAJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/BvVRER1H/iris-1.7.0%2Bmc1.20.6.jar",
+					"version": "BvVRER1H"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KHQ2Hnpt/iris-1.7.0%2Bmc1.20.1.jar",
+					"version": "KHQ2Hnpt"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/45ETshvT/iris-1.7.0%2Bmc1.20.4.jar",
+					"version": "45ETshvT"
 				},
 				{
 					"minecraft_versions": "1.20.5",
@@ -1558,7 +1610,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

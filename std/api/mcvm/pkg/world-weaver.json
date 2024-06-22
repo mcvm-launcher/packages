@@ -1,0 +1,61 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/RiN8rDVs/versions/OWspNUyV/world-weaver-21.0.1.jar",
+					"version": "OWspNUyV"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/RiN8rDVs/versions/71qB5ADd/world-weaver-21.0.0.jar",
+					"version": "71qB5ADd"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"quiqueck"
+		],
+		"description": "A Fabric utility mod that aims to streamline common modding\ntasks, particularly those related to world creation. As a successor to BCLib, WoVer is intended to eventually take its\nplace.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/RiN8rDVs/ece927fd6e559f49f24ac0db85b050c9afdb191a.jpeg",
+		"issues": "https://github.com/quiqueck/WorldWeaver/issues",
+		"license": "MIT",
+		"long_description": "![WorldWeaver Banner](https://cdn.modrinth.com/data/cached_images/3d3a84901a34aee0d495df6fb5bbd4d2751448f2.png)\n\n**WorldWeaver**, or *WoVer* for short, is a Fabric utility mod for Minecraft that aims to streamline common modding\ntasks, particularly those related to world creation. As a successor to BCLib, WoVer is intended to eventually take its\nplace. Embracing Minecraft's data-driven world generation methodology, it aims to increase the value of data elements\n(i.e. ResourcePacks, DataPacks, etc.) in modding, and to provide a more flexible and powerful way to create and modify\nworlds.\nIn addition, WoVer is designed to integrate seamlessly with the vanilla game, other mods and world generation data\npacks.\n\n**Please note** that this mod is still in early development and is not yet ready for use. This means that:\n\n- The API is not yet stable and may change significantly between versions.\n- There may be game breaking bugs that cannot be undone and may destroy worlds.\n- Documentation may be missing for some parts, especially those that are still under active development.\n\nWe will provide more information in the near future.",
+		"name": "World Weaver",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/quiqueck/WorldWeaver"
+	},
+	"properties": {
+		"modrinth_id": "RiN8rDVs",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.21"
+		]
+	}
+}

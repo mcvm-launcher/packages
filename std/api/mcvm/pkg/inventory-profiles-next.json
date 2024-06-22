@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/jc4p83Hm/InventoryProfilesNext-fabric-1.21-2.0.0.jar",
+					"version": "jc4p83Hm"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.2",
 						"1.20.3",
@@ -9899,7 +9916,8 @@
 			"1.20.2",
 			"1.20.3-pre2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

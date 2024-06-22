@@ -4,6 +4,25 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/Nl43K1A6/Gamma-Utils-1.9.20-mc1.21.jar",
+					"version": "Nl43K1A6"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -997,7 +1016,8 @@
 			"1.20.5-rc2",
 			"1.20.5-rc3",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

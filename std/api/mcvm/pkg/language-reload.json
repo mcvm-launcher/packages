@@ -4,6 +4,22 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/fpDBBXvT/language-reload-1.6.1%2B1.21.jar",
+					"version": "fpDBBXvT"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -1042,7 +1058,7 @@
 		"authors": [
 			"Jerozgen"
 		],
-		"banner": "https://cdn.modrinth.com/data/uLbm7CG6/images/f2fc15e0ef12e55378c6fab59e73e6bbdf900408.png",
+		"banner": "https://cdn.modrinth.com/data/uLbm7CG6/images/bc0461d7acf70673b9716cdf2ad32d9d7f543700.png",
 		"community": "https://discord.gg/qZ3SCcc",
 		"description": "Reduces load times and adds fallbacks for languages",
 		"gallery": [
@@ -1051,7 +1067,7 @@
 			"https://cdn.modrinth.com/data/uLbm7CG6/images/d254fe9c1c4329e1942c6fb55df07dd089befab2.png",
 			"https://cdn.modrinth.com/data/uLbm7CG6/images/77e11dfa13da1b690446da10bd7015997e105af7.gif",
 			"https://cdn.modrinth.com/data/uLbm7CG6/images/b51369d5dafab10ddc9a8067072e72ab8a41deaa.gif",
-			"https://cdn.modrinth.com/data/uLbm7CG6/images/f2fc15e0ef12e55378c6fab59e73e6bbdf900408.png"
+			"https://cdn.modrinth.com/data/uLbm7CG6/images/bc0461d7acf70673b9716cdf2ad32d9d7f543700.png"
 		],
 		"icon": "https://cdn.modrinth.com/data/uLbm7CG6/9cae8ec18cac3b1cc6ef1efa239f381d669264e6.png",
 		"issues": "https://github.com/Jerozgen/LanguageReload/issues",
@@ -1099,7 +1115,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

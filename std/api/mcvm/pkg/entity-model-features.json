@@ -8,6 +8,39 @@
 						"1.20.5",
 						"1.20.6"
 					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/jRyhNivy/entity_model_features_neoforge_1.20.6-2.0.3.jar",
+					"version": "jRyhNivy"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "entity-texture-features"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/vk0zN6fZ/entity_model_features_neoforge_1.21-2.0.3.jar",
+					"version": "vk0zN6fZ"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "entity-texture-features"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/zQC8LMqE/entity_model_features_fabric_1.21-pre3-test.jar",
+					"version": "zQC8LMqE"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
 					"modloaders": [
 						"fabriclike",
 						"quilt"
@@ -2242,7 +2275,8 @@
 			"1.20.4",
 			"1.20.5-rc2",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	},
 	"relations": {

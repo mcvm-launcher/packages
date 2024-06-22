@@ -4,6 +4,36 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/xDudgtrR/RoughlyEnoughItems-16.0.729-neoforge.jar",
+					"version": "xDudgtrR"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/l5RqB76W/RoughlyEnoughItems-16.0.729-fabric.jar",
+					"version": "l5RqB76W"
+				},
+				{
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -6719,7 +6749,8 @@
 			"24w09a",
 			"24w14potato",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

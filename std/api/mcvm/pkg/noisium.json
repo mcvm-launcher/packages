@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/a8Lct5Zz/noisium-neoforge-2.2.0%2Bmc1.21.jar",
+					"version": "a8Lct5Zz"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZXBMeSZ0/noisium-fabric-2.2.0%2Bmc1.21.jar",
+					"version": "ZXBMeSZ0"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -249,7 +266,7 @@
 		],
 		"icon": "https://cdn.modrinth.com/data/KuNKN7d2/6217fb8bc818c19fdd461a5d4e13ffbbbc95db6b.png",
 		"issues": "https://github.com/Steveplays28/noisium/issues",
-		"license": "LGPL-3.0-or-later",
+		"license": "LGPL-3.0-only",
 		"long_description": "![Noisium icon](https://github.com/Steveplays28/noisium/raw/24de632923c03864d65568a2cb5ce1e2cee0a304/docs/assets/icon/icon_128x128.png)\n\n# Noisium\nOptimises worldgen performance for a better gameplay experience.\n\nThe improvements lie between a 20-30% speedup when generating new chunks in vanilla Minecraft (benchmarked on 1.20.1 Fabric).\n\nNoisium changes some world generation functions that other mods don't touch, to fill in the gaps left by other performance optimisation\nmods.\nMost notably, `NoiseChunkGenerator#populateNoise` is optimised to speed up blockstate placement when generating new chunks. There are also 3\nother smaller optimisations, that increase biome population speed, chunk unlocking speed, and the speed of sampling blockstates for\ngeneration.  \nIn `NoiseChunkGenerator#populateNoise`, setting the blockstate via abstractions/built-in functions is bypassed. Instead, the blocks are set\ndirectly in the palette storage, thus bypassing a lot of calculations and things Minecraft does that are normally useful when blocks are\nset, but when generating the world only slow it down, this is a cycle optimisation.\n\nNoisium has full 1:1 parity with vanilla worldgen (worldgen without Noisium).\n\n## Dependencies\n\n### Required\n\nNone.\n\n## Compatibility info\n\n### Compatible mods\n\nNoisium should be compatible with most, if not all, of the popular optimisation mods currently on Modrinth/CurseForge for\nMinecraft `1.20.x`, since Noisium aims to fill in the gaps in performance optimisation left by other mods.\nThis includes (but is not limited to) C2ME, Lithium, Nvidium, and Sodium.\n\n- C2ME: every world generation thread runs faster. The biome population multithreading is also done in a much better/more performant way in\n  C2ME, so it's been removed from Noisium since `v1.0.2`. It's suggested to run C2ME alongside Noisium for even better world generation\n  performance.\n- Distant Horizons: Noisium speeds up LOD world generation threads, since LOD generation depends on Minecraft's world generation speed.\n- ReTerraForged: RTF has built-in compatibility with Noisium, to fully utilize the optimisations during RTF world generation.\n\n### Incompatibilities\n\nSee the [issue tracker](https://github.com/Steveplays28/noisium/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Acompatibility) for a list of incompatibilities.\n\n## Download\n\n[![GitHub](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/github_vector.svg)](https://github.com/Steveplays28/noisium)\n[![Modrinth](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/noisium)\n[![CurseForge](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/noisium)\n\n![Fabric](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact/supported/fabric_vector.svg)\n![Quilt](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact/supported/quilt_vector.svg)\n![Forge](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact/supported/forge_vector.svg)\n![NeoForge](https://github.com/Steveplays28/noisium/raw/24de632923c03864d65568a2cb5ce1e2cee0a304/docs/assets/badges/compact/supported/neoforge_vector.svg)\n\nSee the version info in the filename for the supported Minecraft versions.  \nMade for the Fabric, Quilt, Forge, and NeoForge modloaders. The `merged` JAR works on all aforementioned modloaders.  \nServer side.\n\n## FAQ\n\n- Q: Will you be backporting this mod to lower Minecraft versions?  \n  A: No.\n\n- Q: Does this mod work in multiplayer?  \n  A: Yes, but it'll only improve performance on the server.\n\n- Q: Does only the server need this mod or does the client need it too?  \n  A: Only the server needs this mod (but it works on the client too if you're going to host LAN or play singleplayer).\n\n## Attribution\n\n- Thanks to [Builderb0y](https://modrinth.com/user/Builderb0y) for giving great starting points and helping with some issues.\n\n## License\n\nThis project is licensed under LGPLv3, see [LICENSE](https://github.com/Steveplays28/noisium/blob/main/LICENSE).\n",
 		"name": "Noisium",
 		"package_maintainers": [
@@ -275,7 +292,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

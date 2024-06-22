@@ -4,6 +4,1428 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/fxnOm0wr/wthit-neo-12.2.1.jar",
+					"version": "fxnOm0wr"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/tBfvMuDZ/wthit-forge-12.2.1.jar",
+					"version": "tBfvMuDZ"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3pm12gOE/wthit-fabric-12.2.1.jar",
+					"version": "3pm12gOE"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/zGBMLRf3/wthit-neo-11.4.1.jar",
+					"version": "zGBMLRf3"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/tpqewD60/wthit-forge-11.4.1.jar",
+					"version": "tpqewD60"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/cdxBZqj1/wthit-fabric-11.4.1.jar",
+					"version": "cdxBZqj1"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/aNVjcmql/wthit-quilt-10.9.2.jar",
+					"version": "aNVjcmql"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/CcVfMLJp/wthit-neo-10.9.2.jar",
+					"version": "CcVfMLJp"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/47u7Rl3F/wthit-forge-10.9.2.jar",
+					"version": "47u7Rl3F"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ENYeqiL7/wthit-fabric-10.9.2.jar",
+					"version": "ENYeqiL7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/WY7xxOav/wthit-quilt-10.9.1.jar",
+					"version": "WY7xxOav"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/OFlNibUR/wthit-neo-10.9.1.jar",
+					"version": "OFlNibUR"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/bYjubHif/wthit-forge-10.9.1.jar",
+					"version": "bYjubHif"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/CwdbS8qC/wthit-fabric-10.9.1.jar",
+					"version": "CwdbS8qC"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DeEyhIgh/wthit-quilt-9.10.1.jar",
+					"version": "DeEyhIgh"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ljeEDBwY/wthit-neo-9.10.1.jar",
+					"version": "ljeEDBwY"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/wwmgqcXA/wthit-forge-9.10.1.jar",
+					"version": "wwmgqcXA"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/K8wLB6IL/wthit-fabric-9.10.1.jar",
+					"version": "K8wLB6IL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/2ThAsdYq/wthit-quilt-8.13.1.jar",
+					"version": "2ThAsdYq"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/NXRk3qBd/wthit-forge-8.13.1.jar",
+					"version": "NXRk3qBd"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Pu9PJNJj/wthit-fabric-8.13.1.jar",
+					"version": "Pu9PJNJj"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Q4EiC9R0/wthit-quilt-5.28.1.jar",
+					"version": "Q4EiC9R0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/GHQN3EeI/wthit-forge-5.28.1.jar",
+					"version": "GHQN3EeI"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/O82tLlXN/wthit-fabric-5.28.1.jar",
+					"version": "O82tLlXN"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/1q03vHIb/wthit-neo-12.2.0.jar",
+					"version": "1q03vHIb"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/s5fASecz/wthit-forge-12.2.0.jar",
+					"version": "s5fASecz"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/BTPri1CD/wthit-fabric-12.2.0.jar",
+					"version": "BTPri1CD"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/yWM6ahoO/wthit-neo-11.4.0.jar",
+					"version": "yWM6ahoO"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/kya7rWzH/wthit-forge-11.4.0.jar",
+					"version": "kya7rWzH"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/R8kuvcuz/wthit-fabric-11.4.0.jar",
+					"version": "R8kuvcuz"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/plmZb054/wthit-quilt-10.9.0.jar",
+					"version": "plmZb054"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/gK1kPGGk/wthit-neo-10.9.0.jar",
+					"version": "gK1kPGGk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/gAqQJF5k/wthit-forge-10.9.0.jar",
+					"version": "gAqQJF5k"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/AAqZmxmS/wthit-fabric-10.9.0.jar",
+					"version": "AAqZmxmS"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DFBAzG0S/wthit-quilt-9.10.0.jar",
+					"version": "DFBAzG0S"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/9TyeROGf/wthit-neo-9.10.0.jar",
+					"version": "9TyeROGf"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/QeKd2M93/wthit-forge-9.10.0.jar",
+					"version": "QeKd2M93"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/w6l9n9LB/wthit-fabric-9.10.0.jar",
+					"version": "w6l9n9LB"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/bMDKSHmW/wthit-quilt-8.13.0.jar",
+					"version": "bMDKSHmW"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/1mVuMINL/wthit-forge-8.13.0.jar",
+					"version": "1mVuMINL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/20vNgNyn/wthit-fabric-8.13.0.jar",
+					"version": "20vNgNyn"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/6vIEYv0z/wthit-quilt-5.28.0.jar",
+					"version": "6vIEYv0z"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/PaRPxKzK/wthit-forge-5.28.0.jar",
+					"version": "PaRPxKzK"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/uBLqflVI/wthit-fabric-5.28.0.jar",
+					"version": "uBLqflVI"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/NIgkJOFN/wthit-neo-12.1.2.jar",
+					"version": "NIgkJOFN"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/xYTE4F3e/wthit-forge-12.1.2.jar",
+					"version": "xYTE4F3e"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Q0KdOAsB/wthit-fabric-12.1.2.jar",
+					"version": "Q0KdOAsB"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/bvic7IRp/wthit-neo-11.3.1.jar",
+					"version": "bvic7IRp"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/OAznwIJO/wthit-forge-11.3.1.jar",
+					"version": "OAznwIJO"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/idLg4HMt/wthit-fabric-11.3.1.jar",
+					"version": "idLg4HMt"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Q1usVCVR/wthit-quilt-10.8.1.jar",
+					"version": "Q1usVCVR"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/qafE0Ur2/wthit-neo-10.8.1.jar",
+					"version": "qafE0Ur2"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/lxNzPJXG/wthit-forge-10.8.1.jar",
+					"version": "lxNzPJXG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/kKXLzJCW/wthit-fabric-10.8.1.jar",
+					"version": "kKXLzJCW"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/mkqW74HO/wthit-quilt-9.9.1.jar",
+					"version": "mkqW74HO"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/OVXLE04X/wthit-neo-9.9.1.jar",
+					"version": "OVXLE04X"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/e7hU3hMr/wthit-forge-9.9.1.jar",
+					"version": "e7hU3hMr"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/KljmEgnh/wthit-fabric-9.9.1.jar",
+					"version": "KljmEgnh"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/xi3b82fD/wthit-quilt-8.12.1.jar",
+					"version": "xi3b82fD"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ECJVtWj6/wthit-forge-8.12.1.jar",
+					"version": "ECJVtWj6"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/YGlJiNGH/wthit-fabric-8.12.1.jar",
+					"version": "YGlJiNGH"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/21qxoMvc/wthit-quilt-5.27.1.jar",
+					"version": "21qxoMvc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/BHenGdjo/wthit-forge-5.27.1.jar",
+					"version": "BHenGdjo"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Y9uEbyey/wthit-fabric-5.27.1.jar",
+					"version": "Y9uEbyey"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/9sfHQIMQ/wthit-neo-12.1.1.jar",
+					"version": "9sfHQIMQ"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/maaqztU0/wthit-forge-12.1.1.jar",
+					"version": "maaqztU0"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/SneSv3e1/wthit-fabric-12.1.1.jar",
+					"version": "SneSv3e1"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/73eEVUli/wthit-neo-12.1.0.jar",
+					"version": "73eEVUli"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"recommendations": {
+							"value": "rei-plugin-compats"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ZwPz1Aq9/wthit-forge-12.1.0.jar",
+					"version": "ZwPz1Aq9"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bad-packets",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/myv5APdy/wthit-fabric-12.1.0.jar",
+					"version": "myv5APdy"
+				},
+				{
 					"minecraft_versions": "1.21-pre3",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -10573,7 +11995,8 @@
 			"1.20.5-pre3",
 			"1.20.5",
 			"1.20.6",
-			"1.21-pre3"
+			"1.21-pre3",
+			"1.21"
 		]
 	}
 }

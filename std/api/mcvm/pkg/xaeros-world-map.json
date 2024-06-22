@@ -4,6 +4,46 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ekubtdIk/XaerosWorldMap_1.38.8_Fabric_1.21.jar",
+					"version": "ekubtdIk"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8BhyyEg5/XaerosWorldMap_1.38.8_NeoForge_1.21.jar",
+					"version": "8BhyyEg5"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "open-parties-and-claims"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/RQgvSMA6/XaerosWorldMap_1.38.8_Forge_1.21.jar",
+					"version": "RQgvSMA6"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -5999,7 +6039,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

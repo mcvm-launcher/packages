@@ -4,6 +4,19 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/EcZD6oss/libIPN-fabric-1.21-5.0.0.jar",
+					"version": "EcZD6oss"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.2",
 						"1.20.3",
@@ -3475,7 +3488,8 @@
 			"1.20.2",
 			"1.20.3-pre2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

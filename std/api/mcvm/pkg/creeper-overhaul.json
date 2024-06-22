@@ -4,6 +4,62 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/LwO7oD6e/Creeperoverhaul-neoforge-1.21-4.0.1.jar",
+					"version": "LwO7oD6e"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/NEbJZ2kV/Creeperoverhaul-fabric-1.21-4.0.1.jar",
+					"version": "NEbJZ2kV"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/neWvwdi5/Creeperoverhaul-neoforge-1.21-4.0.0.jar",
+					"version": "neWvwdi5"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Ha4SFIjy/Creeperoverhaul-fabric-1.21-4.0.0.jar",
+					"version": "Ha4SFIjy"
+				},
+				{
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -219,7 +275,8 @@
 			"1.18.2",
 			"1.19.2",
 			"1.20",
-			"1.20.1"
+			"1.20.1",
+			"1.21"
 		]
 	}
 }

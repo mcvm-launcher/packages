@@ -4,6 +4,75 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": [
+							"rubidium",
+							"textrues-embeddium-options"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/gpJ5vymI/embeddium-0.3.21%2Bmc1.20.4.jar",
+					"version": "gpJ5vymI"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"conflicts": [
+							"indium",
+							"sodium",
+							"sodium-extra"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/lxoKz7FZ/embeddium-fabric-0.3.21%2Bmc1.20.1.jar",
+					"version": "lxoKz7FZ"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": [
+							"rubidium",
+							"textrues-embeddium-options"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/6dpj5w0V/embeddium-1.0.1%2Bmc1.21.jar",
+					"version": "6dpj5w0V"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"conflicts": [
+							"rubidium",
+							"textrues-embeddium-options"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/OUQ1w3tY/embeddium-0.3.21%2Bmc1.20.1.jar",
+					"version": "OUQ1w3tY"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": [
+							"rubidium",
+							"textrues-embeddium-options"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/bTZZCnz6/embeddium-1.0.0-beta.1%2Bmc1.21.jar",
+					"version": "bTZZCnz6"
+				},
+				{
 					"minecraft_versions": "1.20.6",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -2427,7 +2496,7 @@
 			"graphics"
 		],
 		"license": "LGPL-3.0-only",
-		"long_description": "# Embeddium\n\nEmbeddium is a free and open-source performance mod for Minecraft clients. It is based on the last FOSS-licensed version of the Sodium codebase, and includes additional bugfixes & features for better mod compatibility.\n\nDespite being forked from Sodium, Embeddium is **not supported by CaffeineMC**. Do not report issues encountered with it to their bug tracker or in their Discord. I have my own [Discord server](https://discord.gg/rN9Y7caguP) for my mods.\n\n## Highlights\n\n* All performance improvements from Sodium 0.5.8 and earlier, i.e. a rewritten terrain renderer, various optimizations to the immediate-mode rendering pipeline (used by entities, GUIs, block entities, etc.), and other miscellaneous improvements\n* Available for Minecraft Forge on 1.20.1 and older, and Fabric/NeoForge on 1.20.1 and newer\n* Integrated Fabric Rendering API support (Indium is no longer required, and will not work with Embeddium)\n* Frequent patch updates to fix mod compatibility issues soon after being reported & reproduced\n* Additional APIs for mod integration\n* Optional support for translucency sorting (can be enabled in Video Settings)\n\n## For developers\n\nIf you're looking to add Embeddium to your development environment, please take a look at the [dedicated wiki page](https://github.com/embeddedt/embeddium/wiki/For-Developers) for instructions & recommended guidelines for integration.\n\n## Credits\n\n* JellySquid & the CaffeineMC team, for making Sodium in the first place, without which this project would not be possible\n* Asek3, for the initial port to Forge\n* XFactHD, for providing a list of gamebreaking Rubidium issues to start this work off, and for testing early builds\n* Pepper, for their invaluable assistance with getting Forge lighting to work on Sodium 0.5\n* @CelestialAbyss and @input-Here for making the new logo design\n\n## License\n\nEmbeddium is distributed under the Lesser GNU General Public License version 3. For more details, refer to our [GitHub](https://github.com/embeddedt/embeddium) repository.",
+		"long_description": "# Embeddium\n\nEmbeddium is a free and open-source performance mod for Minecraft clients. It is based on the last FOSS-licensed version of the Sodium codebase, and includes additional bugfixes & features for better mod compatibility.\n\nDespite being forked from Sodium, Embeddium is **not supported by CaffeineMC**. Do not report issues encountered with it to their bug tracker or in their Discord. I have my own [Discord server](https://discord.gg/rN9Y7caguP) for my mods.\n\n## Highlights\n\n* All performance improvements from Sodium 0.5.8 and earlier, i.e. a rewritten terrain renderer, various optimizations to the immediate-mode rendering pipeline (used by entities, GUIs, block entities, etc.), and other miscellaneous improvements\n* Available for Minecraft Forge on 1.20.1 and older, Fabric on 1.20.1-1.20.6, and NeoForge on 1.20.1 and newer\n* Integrated Fabric Rendering API support (Indium is no longer required, and will not work with Embeddium)\n* Frequent patch updates to fix mod compatibility issues soon after being reported & reproduced\n* Additional APIs for mod integration\n* Optional support for translucency sorting (can be enabled in Video Settings)\n\n## For developers\n\nIf you're looking to add Embeddium to your development environment, please take a look at the [dedicated wiki page](https://github.com/embeddedt/embeddium/wiki/For-Developers) for instructions & recommended guidelines for integration.\n\n## Credits\n\n* JellySquid & the CaffeineMC team, for making Sodium in the first place, without which this project would not be possible\n* Asek3, for the initial port to Forge\n* XFactHD, for providing a list of gamebreaking Rubidium issues to start this work off, and for testing early builds\n* Pepper, for their invaluable assistance with getting Forge lighting to work on Sodium 0.5\n* @CelestialAbyss and @input-Here for making the new logo design\n\n## License\n\nEmbeddium is distributed under the Lesser GNU General Public License version 3. For more details, refer to our [GitHub](https://github.com/embeddedt/embeddium) repository.",
 		"name": "Embeddium",
 		"package_maintainers": [
 			"mcvm"
@@ -2465,7 +2534,8 @@
 			"1.20.5-pre2",
 			"1.20.5-rc3",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }
