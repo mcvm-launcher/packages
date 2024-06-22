@@ -25,5 +25,4 @@ ENTRIES=${ENTRIES::-1}
 # Modify the index
 MODIFIED_INDEX=$(echo $BASE_INDEX | jq --tab ". += {\"packages\": {$ENTRIES}}")
 # Write out the index
-echo "Index: $MODIFIED_INDEX"
 echo "$MODIFIED_INDEX" > ../std/api/mcvm/index.json
