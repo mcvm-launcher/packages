@@ -1,0 +1,714 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/ol4MIMvc/RegionsUnexploredForge-0.5.5%2B1.20.4.jar",
+					"version": "ol4MIMvc"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/n6Cnq65Y/RegionsUnexploredForge-0.5.5%2B1.20.2.jar",
+					"version": "n6Cnq65Y"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/Vrzha1ED/RegionsUnexploredForge-0.5.5%2B1.20.1.jar",
+					"version": "Vrzha1ED"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/3JMpGZ9U/RegionsUnexploredFabric-0.5.5%2B1.20.4.jar",
+					"version": "3JMpGZ9U"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/vz64Vu44/RegionsUnexploredFabric-0.5.5%2B1.20.2.jar",
+					"version": "vz64Vu44"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/CqGV0zGF/RegionsUnexploredFabric-0.5.5%2B1.20.1.jar",
+					"version": "CqGV0zGF"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/HwRKKRvX/RegionsUnexploredForge-0.5.4%2B1.20.1.jar",
+					"version": "HwRKKRvX"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/zLFoS8fn/RegionsUnexploredFabric-0.5.4%2B1.20.4.jar",
+					"version": "zLFoS8fn"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/UF08t0zr/RegionsUnexploredFabric-0.5.4%2B1.20.2.jar",
+					"version": "UF08t0zr"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/B7wz4SW8/RegionsUnexploredFabric-0.5.4%2B1.20.1.jar",
+					"version": "B7wz4SW8"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/NZiMpMLX/RegionsUnexploredForge-0.5.41.20.4.jar",
+					"version": "NZiMpMLX"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/F5soM5j7/RegionsUnexploredForge-0.5.41.20.2.jar",
+					"version": "F5soM5j7"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/lBC8PNWL/RegionsUnexploredForge-0.5.3.1%2B1.20.2.jar",
+					"version": "lBC8PNWL"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/ZfywQsra/RegionsUnexploredForge-0.5.3.1%2B1.20.1.jar",
+					"version": "ZfywQsra"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/P5G5b4aO/RegionsUnexploredFabric-0.5.3.3%2B1.20.1.jar",
+					"version": "P5G5b4aO"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/vuiHDUqy/RegionsUnexploredFabric-0.5.3.3%2B1.20.2.jar",
+					"version": "vuiHDUqy"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/FJMAc87X/RegionsUnexploredFabric-0.5.3.2%2B1.20.2.jar",
+					"version": "FJMAc87X"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/eVfkZ8YT/RegionsUnexploredFabric-0.5.3.2%2B1.20.1.jar",
+					"version": "eVfkZ8YT"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/ojH5glO0/RegionsUnexploredFabric-0.5.3.1%2B1.20.2.jar",
+					"version": "ojH5glO0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/G24NAM2n/RegionsUnexploredFabric-0.5.3.1%2B1.20.1.jar",
+					"version": "G24NAM2n"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/ulmEIms0/RegionsUnexploredForge-0.5.3%2B1.19.2.jar",
+					"version": "ulmEIms0"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/nF0t1PP3/RegionsUnexploredForge-0.5.3%2B1.20.2.jar",
+					"version": "nF0t1PP3"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/raEMwBaI/RegionsUnexploredForge-0.5.3%2B1.20.1.jar",
+					"version": "raEMwBaI"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/ojx9lQNc/RegionsUnexploredFabric-0.5.31.20.2.jar",
+					"version": "ojx9lQNc"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/dCQ3eNBB/RegionsUnexploredFabric-0.5.31.20.1.jar",
+					"version": "dCQ3eNBB"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/JbKQgnlG/RegionsUnexploredForge-0.5.2%2B1.20.1.jar",
+					"version": "JbKQgnlG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/AdNAMdLz/RegionsUnexploredFabric-0.5.2%2B1.20.1.jar",
+					"version": "AdNAMdLz"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/J3wphbpS/RegionsUnexploredFabric-0.5.1_02%2B1.20.1.jar",
+					"version": "J3wphbpS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/Mld6gdNN/RegionsUnexploredFabric-0.5.1_01%2B1.20.1.jar",
+					"version": "Mld6gdNN"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/ovXnLbIc/RegionsUnexploredForge-0.5.1%2B1.20.1.jar",
+					"version": "ovXnLbIc"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/RRCsJbhb/RegionsUnexploredFabric-0.5.1%2B1.20.1.jar",
+					"version": "RRCsJbhb"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/Wqi8jdRk/RegionsUnexploredForge-0.5.0%2B1.20.1.jar",
+					"version": "Wqi8jdRk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/JwuWxsc7/RegionsUnexploredFabric-0.5.0%2B1.20.1.jar",
+					"version": "JwuWxsc7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/miGAcjC8/RegionsUnexploredForge-0.4.2%2B1.20.1.jar",
+					"version": "miGAcjC8"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/42dFuyT5/RegionsUnexploredFabric-0.4.1%2B1.20.1.jar",
+					"version": "42dFuyT5"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/IrkY3g4j/RegionsUnexploredForge-0.4.1_1%2B1.20.1.jar",
+					"version": "IrkY3g4j"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/gW7ptgSs/RegionsUnexploredFabric-0.4.1%2B1.20.jar",
+					"version": "gW7ptgSs"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/NlRNzKZR/RegionsUnexploredForge-0.4.1_1%2B1.20.jar",
+					"version": "NlRNzKZR"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/YiTaKjOI/RegionsUnexploredForge-0.4.1%2B1.20.jar",
+					"version": "YiTaKjOI"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/3UpiiWSA/RegionsUnexploredForge-0.4.1_1%2B1.19.2.jar",
+					"version": "3UpiiWSA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/vXPKsf84/RegionsUnexploredForge-0.4.1_1%2B1.18.2.jar",
+					"version": "vXPKsf84"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/u2UbUTDy/RegionsUnexploredForge-0.4.1%2B1.18.2.jar",
+					"version": "u2UbUTDy"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/eLdbgbQE/RegionsUnexploredForge-0.4.1%2B1.19.4.jar",
+					"version": "eLdbgbQE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/gRbegtWC/RegionsUnexploredForge-0.4.1%2B1.19.2.jar",
+					"version": "gRbegtWC"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/LWHTvpoI/RegionsUnexploredFabric-0.4.1%2B1.19.4.jar",
+					"version": "LWHTvpoI"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/L5Ti8Ac3/RegionsUnexploredFabric-0.4.1%2B1.19.2.jar",
+					"version": "L5Ti8Ac3"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"KirboSoftware",
+			"LoxiGoose",
+			"UHQ-GAMES"
+		],
+		"banner": "https://cdn.modrinth.com/data/Tkikq67H/images/77ddcf1813b97d0e66fb8e66a2e4650aad38e1f2.png",
+		"community": "https://discord.com/invite/4n4ySnmvgU",
+		"description": "Regions Unexplored is a biome mod that overhauls the overworld and nether in many ways. With 70+ new biomes to explore, there is a plethora of new things to find!",
+		"gallery": [
+			"https://cdn.modrinth.com/data/Tkikq67H/images/53c7f8570d41a6344f0ef987aee273f810263e42.png",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/81001381901aa60832431655605412f16ab0faa8.png",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/d8b623638c8e800eef4d897fe67bb174b2ffed3b.png",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/77ddcf1813b97d0e66fb8e66a2e4650aad38e1f2.png",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/e7cccf8a19226349760c6c14d1030479d6c6f8e3.png",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/d177a6302cee5bd3e88ae698ab9afbd711a99531.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/Tkikq67H/72ab102d20e20e6cad06c01757e60a1a54b86db1.jpeg",
+		"issues": "https://discord.com/invite/4n4ySnmvgU",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "<p><a href=\"https://discord.com/invite/4n4ySnmvgU\"><strong>Please join my discord here to report issues, crashes, and other issues or to get news on the mod and get in on the discussion!</strong>\n</a>\n<img src=\"https://imgur.com/uIarNNl.gif\" width=\"1280\" height=\"720\" data-mce-src=\"https://imgur.com/uIarNNl.gif\">\n\n<p style=\"text-align:center\"><strong><span style=\"font-size:24px\">Regions Unexplored is a biome mod that overhauls the overworld in many ways. With 70+ new biomes to explore, theres plenty of new things to see!</span></strong></p>\n\n</a>\n<img src=\"https://imgur.com/DI6I3Kt.png\" width=\"2160\" height=\"1329\" data-mce-src=\"https://imgur.com/DI6I3Kt.png\">\n\n<hr />\n\n<p></strong>FORGE VERSIONS:</strong></p>\n\n<p><a href=\"https://modrinth.com/mod/regions-unexplored/version/ol4MIMvc\">LATEST FORGE VERSION</a></p>\n\n<p>Forge Requires: <a href=\"https://modrinth.com/mod/terrablender\">TERRABLENDER</a></p>\n\n<p></strong>FABRIC VERSIONS:</strong></p>\n\n<p><a href=\"https://modrinth.com/mod/regions-unexplored/version/0.5.5+1.20.4\">LATEST FABRIC VERSION</a></p>\n\n<p>Fabric Requires: <a href=\"https://modrinth.com/mod/terrablender\">TERRABLENDER</a>&nbsp; &nbsp; <a href=\"https://modrinth.com/mod/fabric-api\">FABRIC API</a></p>\n\n<hr />\n<p>&nbsp;</p>\n\n<p style=\"text-align:center\"><a href=\"https://www.youtube.com/channel/UCGZxTpl3BbSRimCml6O8hsw\"><strong><span style=\"font-size:24px\">Check out my Youtube Channel Here!</span></strong></a></p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Dn5WUGTv3MM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+		"name": "Regions Unexplored",
+		"package_maintainers": [
+			"mcvm"
+		]
+	},
+	"properties": {
+		"modrinth_id": "Tkikq67H",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19.2",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4"
+		]
+	}
+}

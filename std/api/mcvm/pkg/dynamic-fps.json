@@ -18,6 +18,24 @@
 						]
 					},
 					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RCY49qLv/dynamic-fps-3.5.0-beta.2%2Bminecraft-1.21.0-fabric.jar",
+					"version": "RCY49qLv"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RS3zegai/dynamic-fps-3.5.0-beta.1%2Bminecraft-1.21.0-fabric.jar",
 					"version": "RS3zegai"
 				},

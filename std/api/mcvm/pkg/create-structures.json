@@ -1,0 +1,76 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/IAnP4np7/versions/nqsTHZwx/create-structures-0.1.1-1.20.1-FABRIC.jar",
+					"version": "nqsTHZwx"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/IAnP4np7/versions/XALEBs0a/create-structures-0.1.1-1.20.1-FORGE.jar",
+					"version": "XALEBs0a"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/IAnP4np7/versions/T6pIYgOM/create-structures-0.1.0.jar",
+					"version": "T6pIYgOM"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"FusionSwarly"
+		],
+		"banner": "https://cdn.modrinth.com/data/IAnP4np7/images/f53484951875c023a9aee65e3bed33b5bdc6042a.png",
+		"description": "Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/IAnP4np7/images/2d9a9fd558fb43cd353877b781c99dbe9bd4c951.png",
+			"https://cdn.modrinth.com/data/IAnP4np7/images/f53484951875c023a9aee65e3bed33b5bdc6042a.png",
+			"https://cdn.modrinth.com/data/IAnP4np7/images/acfec4a4182589925caa640ac0ac9926b9ea974e.png",
+			"https://cdn.modrinth.com/data/IAnP4np7/images/80277d523826e01fed93d19a043094f3e3a0bbe8.png",
+			"https://cdn.modrinth.com/data/IAnP4np7/images/89a57ca35c9c6e0b2c68d70a17cf09add795bb89.png",
+			"https://cdn.modrinth.com/data/IAnP4np7/images/9f1ed422a8a1125980d427200621d8786a627f77.png",
+			"https://cdn.modrinth.com/data/IAnP4np7/images/b5f8b53ad92c921d504ddf715d124caab753d8ca.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/IAnP4np7/0c69bfc4fb1df010c35c02f94ebc275ba0fa9bae.png",
+		"issues": "https://github.com/FusionSwarly/Create-Structures/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "Create: Structures is an add-on for Create that intends to further integrate the mod into vanilla by adding naturally generating structures. \n\nWARNING: This datapack uses command blocks to assemble contraptions, since Create doesn't properly support generated structures.\n\nThese structures are built in the vanilla building style, while also utilizing blocks and items from the create mod. The structures only contain early game items and simple machinery as to not interfere with the mod's progression.\n\nCurrently, there are unique windmill structures added to the following villages:\n\n- Plains Village\n- Taiga Village\n- Savanna Village\n- Snowy Village\n\nThere is also a water mill structure in desert villages, and all structures spawn in zombie villages as well.\n\nThe scope of this add-on isn't limited to villages structures, there may be more structures added in future updates.\n\nPlease report issues on the [issue tracker.](https://github.com/FusionSwarly/Create-Structures/issues)",
+		"name": "Create: Structures",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/FusionSwarly/Create-Structures"
+	},
+	"properties": {
+		"modrinth_id": "IAnP4np7",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.20.1"
+		]
+	}
+}

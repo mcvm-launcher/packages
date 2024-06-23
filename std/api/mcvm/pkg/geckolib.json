@@ -4,6 +4,54 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/4ysPVX1z/geckolib-neoforge-1.20.1-4.4.7.jar",
+					"version": "4ysPVX1z"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/rF4Es4hd/geckolib-forge-1.20.1-4.4.7.jar",
+					"version": "rF4Es4hd"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/BDftClTQ/geckolib-fabric-1.20.1-4.4.7.jar",
+					"version": "BDftClTQ"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/R76ya2BV/geckolib-neoforge-1.21-4.5.6.jar",
+					"version": "R76ya2BV"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/SP8zSYhc/geckolib-forge-1.21-4.5.6.jar",
+					"version": "SP8zSYhc"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/UCl2KRDj/geckolib-fabric-1.21-4.5.6.jar",
+					"version": "UCl2KRDj"
+				},
+				{
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
 					"stability": "stable",

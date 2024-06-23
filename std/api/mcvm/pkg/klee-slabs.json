@@ -1,0 +1,509 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/S62fstbE/kleeslabs-neoforge-1.21-21.0.2.jar",
+					"version": "S62fstbE"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/K5M9YcP1/kleeslabs-forge-1.21-21.0.2.jar",
+					"version": "K5M9YcP1"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/6tkyI4EE/kleeslabs-fabric-1.21-21.0.2.jar",
+					"version": "6tkyI4EE"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/bTi5CY4k/kleeslabs-neoforge-1.21-21.0.1.jar",
+					"version": "bTi5CY4k"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/MAAvzENj/kleeslabs-forge-1.21-21.0.1.jar",
+					"version": "MAAvzENj"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/K6GybE8F/kleeslabs-fabric-1.21-21.0.1.jar",
+					"version": "K6GybE8F"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/biTZRuOm/kleeslabs-neoforge-1.20.6-17.0.1.jar",
+					"version": "biTZRuOm"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/JkMPkNLC/kleeslabs-forge-1.20.6-17.0.1.jar",
+					"version": "JkMPkNLC"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/juNXPnmD/kleeslabs-fabric-1.20.6-17.0.1.jar",
+					"version": "juNXPnmD"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/x1PacTKm/kleeslabs-neoforge-1.20.4-16.0.1.jar",
+					"version": "x1PacTKm"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/ykFDMSjv/kleeslabs-forge-1.20.4-16.0.1.jar",
+					"version": "ykFDMSjv"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/kBG7QKqK/kleeslabs-fabric-1.20.4-16.0.1.jar",
+					"version": "kBG7QKqK"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/IWBVyzps/kleeslabs-fabric-1.20.4-16.0.1.jar",
+					"version": "IWBVyzps"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/IguQzFBx/kleeslabs-neoforge-1.20.2-16.0.0.jar",
+					"version": "IguQzFBx"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/JjB5MNWT/kleeslabs-forge-1.20.2-16.0.0.jar",
+					"version": "JjB5MNWT"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/XEBQ0HGG/kleeslabs-fabric-1.20.2-16.0.0.jar",
+					"version": "XEBQ0HGG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/aG4T8pjo/kleeslabs-forge-1.20-15.0.0.jar",
+					"version": "aG4T8pjo"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/IDj7kzhS/kleeslabs-fabric-1.20-15.0.0.jar",
+					"version": "IDj7kzhS"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/McrMZkIV/kleeslabs-fabric-1.19.2-12.3.0.jar",
+					"version": "McrMZkIV"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/apMMRpdH/kleeslabs-fabric-1.19.4-14.1.0.jar",
+					"version": "apMMRpdH"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/OabgLyDQ/kleeslabs-forge-1.19.2-12.3.0.jar",
+					"version": "OabgLyDQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/6yAZ3bYn/kleeslabs-forge-1.19.4-14.1.0.jar",
+					"version": "6yAZ3bYn"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/kSr51rv5/kleeslabs-fabric-1.19.2-12.2.0.jar",
+					"version": "kSr51rv5"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/d18OwGMc/kleeslabs-fabric-1.19.4-14.0.1.jar",
+					"version": "d18OwGMc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/EiJet1Qc/kleeslabs-forge-1.19.4-14.0.1.jar",
+					"version": "EiJet1Qc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/P4tKBfWR/kleeslabs-forge-1.19.2-12.2.0.jar",
+					"version": "P4tKBfWR"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/tj4RAnZh/kleeslabs-fabric-1.19.3-13.1.0.jar",
+					"version": "tj4RAnZh"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/2LDlr3Z5/kleeslabs-forge-1.19.3-13.1.0.jar",
+					"version": "2LDlr3Z5"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/62j7kBOm/kleeslabs-fabric-1.18.2-11.1.1.jar",
+					"version": "62j7kBOm"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/BuRhOSU8/kleeslabs-forge-1.18.2-11.1.1.jar",
+					"version": "BuRhOSU8"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/eQivMJ4i/kleeslabs-fabric-1.19.3-13.0.0.jar",
+					"version": "eQivMJ4i"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/PbVnbuZd/kleeslabs-forge-1.19.3-13.0.0.jar",
+					"version": "PbVnbuZd"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/12.1.0%2Bforge-1.19/kleeslabs-forge-1.19-12.1.0.jar",
+					"version": "CkOmU2px"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/12.1.0%2Bfabric-1.19/kleeslabs-fabric-1.19-12.1.0.jar",
+					"version": "cYitDxNY"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/12.0.0-forge/kleeslabs-forge-1.19-12.0.0.jar",
+					"version": "G1afe3Af"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7uh75ruZ/versions/12.0.0-fabric/kleeslabs-fabric-1.19-12.0.0.jar",
+					"version": "oh12vuAg"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"BlayTheNinth"
+		],
+		"community": "https://discord.gg/VAfZ2Nau6j",
+		"description": "Break only the half of a double slab that you're looking at.",
+		"documentation": "https://mods.twelveiterations.com/mc/kleeslabs",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/7uh75ruZ/icon.png",
+		"issues": "https://github.com/TwelveIterationMods/KleeSlabs/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "![](https://blay09.net/files/brand/kleeslabs.png)\n\n[![](https://mods.twelveiterations.com/img/sponsor.png)](https://mods.twelveiterations.com/sponsor)\n\nThis mod allows you to break only one half of a double slab. The half that is broken depends on which half you're looking at.\n\nIt supports Vanilla slabs as well as many modded slabs. Modded slabs that do not work yet should be reported on the Issue Tracker.\n\n<p>\n    <a style=\"text-decoration: none;\" href=\"https://modrinth.com/mod/balm\"> \n        <img src=\"https://blay09.net/files/brand/requires_balm.png\" alt=\"Requires Balm\" width=\"217\" height=\"51\" /> \n    </a>\n    <img src=\"https://blay09.net/files/brand/spacer.png\" alt=\"\" width=\"21\" height=\"51\" /> \n    <a style=\"text-decoration: none;\" href=\"https://discord.gg/VAfZ2Nau6j\">\n        <img src=\"https://blay09.net/files/brand/discord.png\" alt=\"Join our Discord\" width=\"51\" height=\"51\" />\n    </a>\n</p>\n\n## Features\n\n- Break only the half of a double slab that you're looking at\n- Supports all Vanilla slabs\n- Supports slabs from many different mods\n\n![](https://blay09.net/files/brand/kleeslabs.gif)\n\n## Additional Credits\n\nThis mod was made by suggestion of [Kleetho](https://www.twitch.tv/kleetho) during one of her subathons, hence the name.",
+		"name": "KleeSlabs",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/TwelveIterationMods/KleeSlabs",
+		"support_link": "https://www.patreon.com/BlayTheNinth"
+	},
+	"properties": {
+		"modrinth_id": "7uh75ruZ",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

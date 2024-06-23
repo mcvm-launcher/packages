@@ -10,6 +10,29 @@
 						"dependencies": "moonlight-lib"
 					},
 					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Cn46zTH2/everycomp-1.20-2.6.62.jar",
+					"version": "Cn46zTH2"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zcKq4PXV/everycomp-1.20-2.6.62-fabric.jar",
+					"version": "zcKq4PXV"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wuCIcohP/everycomp-1.20-2.6.61.jar",
 					"version": "wuCIcohP"
 				},
