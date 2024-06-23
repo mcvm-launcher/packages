@@ -1,0 +1,80 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/IWDYxZre/Obscure-API-16.jar",
+					"version": "IWDYxZre"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/phjhLqIP/obscure_api-15.jar",
+					"version": "phjhLqIP"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/4HdrESYC/obscure_api-14.jar",
+					"version": "4HdrESYC"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/1MoKZMi2/obscure_api-10.jar",
+					"version": "1MoKZMi2"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/IEvVWdUR/obscure_api-11.jar",
+					"version": "IEvVWdUR"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Obscuria"
+		],
+		"community": "https://discord.gg/jSHHJSUWdY",
+		"description": "Auxiliary Library",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/fU7jbFHc/f0a6e137f945eb676d46f6aec31681fe288d0ca9.png",
+		"issues": "https://discord.gg/By29HCKgPx",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "<center>Obscure API is a library for other mods that doesn't add content to the game on its own. <br /> It is closed source until all planed features are implemented.</center>\n<br />\n\n## <center>Obscuria Collection Mods</center>\n\n<center>\n<p style=\"text-align: center;\"><a href=\"https://modrinth.com/mod/obscure-api\"><img style=\"display: inline;\" src=\"https://i.imgur.com/AhHvRAA.png\" width=\"25%\" /></a> <a href=\"https://modrinth.com/mod/aquamirae\"><img style=\"display: inline;\" src=\"https://i.imgur.com/QiC0VcZ.png\" width=\"25%\" /></a> <a href=\"https://modrinth.com/mod/obscure-tooltips\"><img style=\"display: inline;\" src=\"https://i.imgur.com/qkyDZ6A.png\" width=\"25%\" /></a></p>\n<p style=\"text-align: center;\"><a href=\"https://modrinth.com/mod/loot-journal\"><img style=\"display: inline;\" src=\"https://i.imgur.com/1r2Ue5Y.png\" width=\"25%\" /></a> <img style=\"display: inline;\" src=\"https://i.imgur.com/xKaiQBp.png\" width=\"25%\" /> <img style=\"display: inline;\" src=\"https://i.imgur.com/xKaiQBp.png\" width=\"25%\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://www.patreon.com/Obscuria\"><img style=\"display: inline;\" src=\"https://i.imgur.com/4lV9g9R.png\" width=\"75%\" /></a></p>\n<p style=\"text-align: center;\"><a href=\"https://discord.gg/jSHHJSUWdY\"><img style=\"display: inline;\" src=\"https://i.imgur.com/1Y7y8mO.png\" width=\"75%\" /></a></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n</center>",
+		"name": "Obscure API",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"support_link": "https://www.patreon.com/Obscuria"
+	},
+	"properties": {
+		"modrinth_id": "fU7jbFHc",
+		"supported_modloaders": [
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.5",
+			"1.18.2",
+			"1.19.2",
+			"1.20.1"
+		]
+	}
+}

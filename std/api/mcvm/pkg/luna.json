@@ -1,0 +1,109 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/T3yEYSUT/versions/XTvbSFNh/Luna-FABRIC-MC1.19.X-1.0.1.jar",
+					"version": "XTvbSFNh"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/T3yEYSUT/versions/lJsS1j7C/Luna-FORGE-MC1.19.X-1.0.1.jar",
+					"version": "lJsS1j7C"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/T3yEYSUT/versions/QTQnGYRR/Luna-FABRIC-MC1.18.X-1.0.0.jar",
+					"version": "QTQnGYRR"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/T3yEYSUT/versions/JdfDvtJ7/Luna-FORGE-MC1.18.X-1.0.0.jar",
+					"version": "JdfDvtJ7"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"ElocinDev",
+			"LunaPixelStudios"
+		],
+		"banner": "https://cdn.modrinth.com/data/T3yEYSUT/images/91a12d7679232b9d2fe0a5706939d6b62961667c.png",
+		"community": "https://ww.discord.gg/9S5tfrY4Fr",
+		"description": "Core mod for all Luna Pixel Studios modpacks.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/T3yEYSUT/images/91a12d7679232b9d2fe0a5706939d6b62961667c.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/T3yEYSUT/5f0051b1b6f925d12252252b4f1d43360e9bd01c.png",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "[![This is an image](https://i.imgur.com/eCqrFBC.jpeg)](https://www.discord.gg/LunaPixel)\n\n[1]:\nhttps://cdn.discordapp.com/attachments/1148115823970492467/1148115879599542272/Background.jpg\n\n[2]:\nhttps://www.discord.gg/9S5tfrY4Fr \n\n### Luna \n\nThe core mod of Luna Pixel Studios' modpacks. This mod adds resources and features needed in all of our packs, including world sharing.\n\nThis mod was solely made to be used in LPS modpacks so it isn't guaranteed to work outside them.",
+		"name": "Luna",
+		"package_maintainers": [
+			"mcvm"
+		]
+	},
+	"properties": {
+		"modrinth_id": "T3yEYSUT",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1"
+		]
+	},
+	"relations": {
+		"dependencies": "kotlin-support"
+	}
+}

@@ -1,0 +1,222 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/wPdj2uLD/CosmeticArmor-1.20-1.6.0.jar",
+					"version": "wPdj2uLD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/cqgM3mbL/CosmeticArmor-1.19.3-1.5.0.jar",
+					"version": "cqgM3mbL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/vSPCrVPs/CosmeticArmor-1.19-1.4.2.jar",
+					"version": "vSPCrVPs"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/mbqFQoC6/CosmeticArmor-1.19.3-1.4.1.jar",
+					"version": "mbqFQoC6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/1.4.0/CosmeticArmor-1.19-1.4.0.jar",
+					"version": "aChHQ5jy"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "trinkets"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/1.3.1%2B1.18/CosmeticArmor-1.18-1.3.1.jar",
+					"version": "ep3rzTDY"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "trinkets"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/1.3.1/CosmeticArmor-1.18.2-1.3.1.jar",
+					"version": "nUZFo7BJ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/1.3.0/CosmeticArmor-1.18.2-1.3.0.jar",
+					"version": "yZltsCHW"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/1.2.1/CosmeticArmor-1.18-1.2.1.jar",
+					"version": "FCcRe9Wj"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/1.2.0/CosmeticArmor-1.18-1.2.0.jar",
+					"version": "8MHJW0PB"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/1.1.0/cosmetic-armor-1.1.0.jar",
+					"version": "NgWWr1Fr"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/1.0.0/cosmetic-armor-1.0.0.jar",
+					"version": "gAePu65d"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Apace"
+		],
+		"description": "Adds 4 Curios/Trinkets slots for visual armor overrides.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/JrIYhb1P/icon.png",
+		"issues": "https://github.com/apace100/cosmetic-armor/issues",
+		"license": "MIT",
+		"long_description": "## Minecraft 1.17 and later\n**Requires: [Trinkets API](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric)**\n\n![Screenshot](https://i.imgur.com/hnkqFxQ.png)\n\nSince Curios was discontinued on Fabric for 1.17 in favor of the Trinkets API, this mod now uses that.\n\n\nThis 1.17 version also adds a few features / fixes a few bugs which were in the previous version:\n\n* All modded armor should be immediately compatible without any effort from your side\n* The items don't show \"Slot: Cosmetic Something\" anymore\n* Heads, skulls and other \"head\" items (such as carved pumpkins) can now be worn in the cosmetic slot\n* Item tags allow you to define items which can't be worn in a cosmetic slot instead of the old \"whitelist\" tags: `data/cosmetic-armor/tags/items/blacklist.json`\n* A new item tag allows defining items which always show and won't be overriden by an item in the corresponding cosmetic slot: `data/cosmetic-armor/tags/items/always_visible.json`\n\n\n## Minecraft 1.16\n**Requires: [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios-fabric)**\n\n![Screenshot](https://i.imgur.com/tbzCWj1.png)\n\nBy default, only the vanilla armor types are equippable.\n\nYou can add modded armor through the tags `curios:cosmetic_helmet`, `curios:cosmetic_chestplate`, `curios:cosmetic_leggings`, and `curios:cosmetic_boots`.",
+		"name": "Cosmetic Armor",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/apace100/cosmetic-armor",
+		"support_link": "https://www.patreon.com/apace100"
+	},
+	"properties": {
+		"modrinth_id": "JrIYhb1P",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1"
+		]
+	}
+}

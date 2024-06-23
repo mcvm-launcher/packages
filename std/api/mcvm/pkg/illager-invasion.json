@@ -1,0 +1,521 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/luZgcQCj/IllagerInvasion-v20.4.3-1.20.4-NeoForge.jar",
+					"version": "luZgcQCj"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/4UcBtBFx/IllagerInvasion-v20.4.3-1.20.4-Forge.jar",
+					"version": "4UcBtBFx"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/cQvvBiQA/IllagerInvasion-v20.4.3-1.20.4-Fabric.jar",
+					"version": "cQvvBiQA"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/GNRbymwI/IllagerInvasion-v8.0.5-1.20.1-Fabric.jar",
+					"version": "GNRbymwI"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/wPqH0RfQ/IllagerInvasion-v8.0.5-1.20.1-Forge.jar",
+					"version": "wPqH0RfQ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/OjwfM0Ij/IllagerInvasion-v20.4.2-1.20.4-NeoForge.jar",
+					"version": "OjwfM0Ij"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/1K79B2UZ/IllagerInvasion-v20.4.2-1.20.4-Forge.jar",
+					"version": "1K79B2UZ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/W0RORyxT/IllagerInvasion-v20.4.2-1.20.4-Fabric.jar",
+					"version": "W0RORyxT"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/3UAH96lE/IllagerInvasion-v20.4.1-1.20.4-NeoForge.jar",
+					"version": "3UAH96lE"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/ehuiTy3y/IllagerInvasion-v20.4.1-1.20.4-Forge.jar",
+					"version": "ehuiTy3y"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/SOENKl4O/IllagerInvasion-v20.4.1-1.20.4-Fabric.jar",
+					"version": "SOENKl4O"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/K2ygIKp4/IllagerInvasion-v20.4.0-1.20.4-NeoForge.jar",
+					"version": "K2ygIKp4"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/pmBpV7Fv/IllagerInvasion-v20.4.0-1.20.4-Forge.jar",
+					"version": "pmBpV7Fv"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/YI1HAeGS/IllagerInvasion-v20.4.0-1.20.4-Fabric.jar",
+					"version": "YI1HAeGS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/LlLRdJcg/IllagerInvasion-v8.0.4-1.20.1-Fabric.jar",
+					"version": "LlLRdJcg"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/igsUQy9R/IllagerInvasion-v8.0.4-1.20.1-Forge.jar",
+					"version": "igsUQy9R"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/5Po3kzsu/IllagerInvasion-v3.0.5-1.18.2-Forge.jar",
+					"version": "5Po3kzsu"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/xOlNsNkv/IllagerInvasion-v3.0.5-1.18.2-Fabric.jar",
+					"version": "xOlNsNkv"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/9qIYgSXZ/IllagerInvasion-v8.0.3-1.20.1-Fabric.jar",
+					"version": "9qIYgSXZ"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/uvQh39dn/IllagerInvasion-v8.0.3-1.20.1-Forge.jar",
+					"version": "uvQh39dn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/w74Voujn/IllagerInvasion-v3.0.4-1.18.2-Forge.jar",
+					"version": "w74Voujn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/COqaRrtQ/IllagerInvasion-v3.0.4-1.18.2-Fabric.jar",
+					"version": "COqaRrtQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/ijcJEO7Q/IllagerInvasion-v3.0.3-1.18.2-Forge.jar",
+					"version": "ijcJEO7Q"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/3fvnIlgS/IllagerInvasion-v3.0.3-1.18.2-Fabric.jar",
+					"version": "3fvnIlgS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/ds9ZHz06/IllagerInvasion-v8.0.2-1.20.1-Fabric.jar",
+					"version": "ds9ZHz06"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/3ScFu52k/IllagerInvasion-v8.0.2-1.20.1-Forge.jar",
+					"version": "3ScFu52k"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/2T9YyUzW/IllagerInvasion-v3.0.2-1.18.2-Forge.jar",
+					"version": "2T9YyUzW"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/cF6hf7v2/IllagerInvasion-v3.0.2-1.18.2-Fabric.jar",
+					"version": "cF6hf7v2"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/YnbR0LO8/IllagerInvasion-v3.0.1-1.18.2-Forge.jar",
+					"version": "YnbR0LO8"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/8JqTjhkr/IllagerInvasion-v3.0.1-1.18.2-Fabric.jar",
+					"version": "8JqTjhkr"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/jc1d6k4U/IllagerInvasion-v8.0.1-1.20.1-Fabric.jar",
+					"version": "jc1d6k4U"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/brRyGqiz/IllagerInvasion-v8.0.1-1.20.1-Forge.jar",
+					"version": "brRyGqiz"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/LrUDQzbF/IllagerInvasion-v3.0.0-1.18.2-Fabric.jar",
+					"version": "LrUDQzbF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/B6N9QOpJ/IllagerInvasion-v3.0.0-1.18.2-Forge.jar",
+					"version": "B6N9QOpJ"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/XBem2rhv/IllagerInvasion-v8.0.0-1.20.1-Fabric.jar",
+					"version": "XBem2rhv"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jSV9w0J5/versions/4kpNDQN4/IllagerInvasion-v8.0.0-1.20.1-Forge.jar",
+					"version": "4kpNDQN4"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Fuzs",
+			"LunaPixelStudios",
+			"Safro",
+			"ZekeSmith"
+		],
+		"banner": "https://cdn.modrinth.com/data/jSV9w0J5/images/94f1d8fac334d28fc9667c16c8fd03471d8adfaa.png",
+		"community": "https://lunapixel.studio/discord",
+		"description": "The illagers are back! Be ready to fight new foes. A port of Illager Expansion.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/jSV9w0J5/images/94f1d8fac334d28fc9667c16c8fd03471d8adfaa.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/jSV9w0J5/03f8cea7f5184d88454f7bf63f2b3c3a85577b1e.png",
+		"issues": "https://github.com/Fuzss/illagerinvasion/issues",
+		"license": "MIT",
+		"long_description": "<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/banner.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://lunapixel.studio/discord\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Discord&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"117\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Twitter&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"116\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=YouTube&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Reddit&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" width=\"107\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"108\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=CurseForge&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"143\" height=\"28\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/about.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Illager Invasion brings Minecraft's illagers to the next level! Almost a dozen new illagers are added, all with unique mechanics and abilities. You will find those illagers in various places throughout your world. Some spawn in remote structures you will have to conquer, will others are just now getting ready to join in on village raids to significantly increase the challenge they represent. But why make your life harder with all those new foes? You'll be rewarded with lots of fun while playing and uniqe new items, that's for sure!</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/features.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Alchemist for sure knows how to use a bow, and if you annoy him for too long, he will quickly chuck a lingering potion at you, so make sure to keep your distance! You'll find this illager joining in on village raids and in a secret underground structure...</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Archivist is a defensive illager found in village raids, and is mainly there to buff up any of his allies nearby by enchanting their gear. He will run from you, and when fearing for his life will also cast a mean spell on you...</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Basher is quite the bully! Waiting around peacefully most of the time, when he spots you he pulls out a shield and starts bumping into you. Not cool! You can find him as part of raids and in various structures thoughout the world.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Marauder is yet another ranged illager, but instead of shooting arrows at you, he throws a hatchet. Maybe you can steal it from him? This illager appears commonly in structures and village raids.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Provoker attacks using his bow and can also perform a basic buff spell. Not the craziest illager out there, but also not to be underestimated! This illager appears commonly in structures and village raids.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Sorcerer is tricky to fight. He will constantly run away, and when he stops he casts his vile spells. He can summon purple fire, which won't spread, but deals a ton of damage, so be careful! He joins in on village raids in later waves and is also found in that secret underground structure...</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Necromancer is a dangerous foe, playing with the undead should never be taken lightly! He performs various spells to make your life much harder. He joins in on village raids in later waves and is also found in that secret underground structure...</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Inquisitor is a beast of an illager, nothing to take to lightly. You may better be of running from him when you encounter one in a village raid or in the illager fortress. if you do decide to fight, make sure to take out the shield first before you can deal proper damage. But for your bravery you will be rewarded...</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Firecaller is very mysterious and lives in a remote place of the world. From further away he seems like an old illager you have nothing to fear from, walking about with his walking stick in hand. But don't turn your back! This sneaky illager has some evil magic in store for you!</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The Invoker is the strongest of all illagers: A single one spawning in every woodland mansions, evokers are a joke compared to this guy. Make sure to come prepared! From his drop you can craft the imbuiing table, a unique new device that allows you to upgrade some enchantments on your gear one level beyond what they can normally go to, provided you have also managed to find a Hallowed Gem.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Lastely the Illusioner is properly introduced into survival Minecraft, receiving a small number of bugfixes and a new skin from Minecraft: Dungeons. You will find him in a unique structure, the Illusioner Tower, and also as part of village raids.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Some illagers will drop platinum chunks, when combined into sheets those can be used as new armor trims. But all the trouble for just a new fancy look? Opposed to vanilla's armor trims, each platinum trim depending on the kind of armor piece gives a different buff!</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The insight effect grants 20% more experience from every mob killed.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The agility effect allows mining blocks 50% faster if you don't have the correct tool in your hand.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The endurance effect makes it so you consume 50% less food for everything you do.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">The feather weight effect prevents trampling crops and farmland.</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/media.png\" width=\"854\" height=\"32\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/media/1.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/media/2.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/media/3.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/media/4.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/media/5.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/installation.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">INSTALLATION REQUIRED ON CLIENT &amp; REQUIRED ON SERVER</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/puzzles-lib\"><strong><span style=\"font-size: 14px;\">PUZZLES LIB</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FORGE &amp; FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/fabric-api\"><strong><span style=\"font-size: 14px;\">FABRIC API</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/forge-config-api-port\"><strong><span style=\"font-size: 14px;\">FORGE CONFIG API PORT</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/configuration.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Configuration is easily possible directly from in-game using the mod menu (requires </span><a href=\"https://modrinth.com/mod/modmenu\"><span style=\"font-size: 14px;\">Mod Menu</span></a><span style=\"font-size: 14px;\"> by </span><a href=\"https://modrinth.com/user/Prospector\"><span style=\"font-size: 14px;\">Prospector</span></a><span style=\"font-size: 14px;\"> to be installed on Fabric) by installing </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><span style=\"font-size: 14px;\">Forge Config Screens</span></a><span style=\"font-size: 14px;\">.</span></p>\n<p><span style=\"font-size: 14px;\">When it comes to manual configuration all files are found at </span><code><span style=\"font-size: 14px;\">.minecraft/config</span></code><span style=\"font-size: 14px;\">, named as </span><code><span style=\"font-size: 14px;\">MOD_ID-client.toml</span></code><span style=\"font-size: 14px;\">, </span><code><span style=\"font-size: 14px;\">MOD_ID-common.toml</span></code><span style=\"font-size: 14px;\">, or </span><code><span style=\"font-size: 14px;\">MOD_ID-server.toml</span></code><span style=\"font-size: 14px;\"> depending on the type of config. Not all types might exist for this mod if any.</span></p>\n<p><span style=\"font-size: 14px;\">Note that on older mod versions server configuration files are found at </span><code><span style=\"font-size: 14px;\">.minecraft/saves/WORLD_NAME/serverconfigs</span></code><span style=\"font-size: 14px;\">, effecticely meaning they must be configured separately for each individual world.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/credits.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Huge thanks to </span><a href=\"https://github.com/OhDricky\"><span style=\"font-size: 14px;\">Dricky</span></a><span style=\"font-size: 14px;\"> who originally created the amazing Illager Expansion mod. Illager Invasion is a faithful continuation of their work, with many additions, improvements, overhauls, and bug fixes.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://modrinth.com/user/ZekeSmith\"><span style=\"font-size: 14px;\">ZekeSmith</span></a><span style=\"font-size: 14px;\"> who found the original Illager Expansion source code after it was deleted by Dricky, making this port possible under the terms of the </span><a href=\"https://spdx.org/licenses/MIT.html\"><span style=\"font-size: 14px;\">MIT</span></a><span style=\"font-size: 14px;\"> license.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/safrodev\"><span style=\"font-size: 14px;\">safrodev</span></a><span style=\"font-size: 14px;\"> for working on the 1.19.2 version of Illager Expansion, the Horn of Sight texture is taken from there.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://modrinth.com/mod/minium-stone\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/miniumstone/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/stylish-effects\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/stylisheffects/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/spiky-spikes\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/spikyspikes/banner.png\" width=\"854\" height=\"240\" /></a></p><p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://lunapixel.studio/discord\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/studio.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/strip.png\" width=\"854\" height=\"14\" /></p>\n",
+		"name": "Illager Invasion",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Fuzss/illagerinvasion",
+		"support_link": "https://www.patreon.com/heyitsfuzs"
+	},
+	"properties": {
+		"modrinth_id": "jSV9w0J5",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}

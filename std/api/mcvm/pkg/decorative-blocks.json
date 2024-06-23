@@ -1,0 +1,88 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cq0m2EIu/versions/SQgrjbzP/Decorative%2BBlocks-fabric-1.19.2-3.1.1.jar",
+					"version": "SQgrjbzP"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cq0m2EIu/versions/qOSiOXBm/Decorative%20Blocks-fabric-1.20.1-4.0.3.jar",
+					"version": "qOSiOXBm"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cq0m2EIu/versions/80h9KaWY/Decorative%20Blocks-fabric-1.20.1-4.0.2.jar",
+					"version": "80h9KaWY"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cq0m2EIu/versions/joFfuMtv/Decorative%20Blocks-forge-1.20.1-4.0.2.jar",
+					"version": "joFfuMtv"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cq0m2EIu/versions/I1M5xr0D/Decorative%20Blocks-forge-1.20.1-4.0.0.jar",
+					"version": "I1M5xr0D"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cq0m2EIu/versions/hwEp2pOw/Decorative%20Blocks-fabric-1.20.1-4.0.0.jar",
+					"version": "hwEp2pOw"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"TheWinABagel"
+		],
+		"description": "Adds a few decorative blocks (NO LONGER MAINTAINED)",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/Cq0m2EIu/3e537abf5cdb9f897636e126acd460d9575b2d06.png",
+		"issues": "https://github.com/TheWinABagel/Decorative-Blocks/issues",
+		"license": "MIT",
+		"long_description": "**As of January 4th, 2024, this fork is no longer maintained as the original dev has returned to modding. Please go use their version and support their work instead!**  \n[https://modrinth.com/mod/decorative-blocks](https://modrinth.com/mod/decorative-blocks)  \n\n\nA small mod that adds several new decorative blocks including:\n\n<ul>\n  <li>Bonfire, toss blaze powder into fire (configurable activator item)</li>\n  <li>Thatch, \"fluid\" from cutting open a hay bale with shears, remove with hoes</li>\n  <li>Wooden Palisades</li>\n  <li>Wooden Beam Blocks, designed by u/ksym_</li>\n  <li>Brazier</li>\n  <li>Chandelier, reverse craft-able with 4 torches</li>\n  <li>Rocky Dirt, reverse craft-able with 4 dirt</li>\n  <li>Stone Pillar</li>\n  <li>Big Chain, climbable</li>\n  <li>Bar Panel, trapdoor</li>\n  <li>Lattice, trapdoor</li>\n  <li>Wooden Seats, right-click to sit</li>\n  <li>Wooden Supports</li>\n  <li>Soul Fire Variants of Bonfire, Brazier and Chandelier</li>\n</ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+		"name": "Decorative Blocks",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/TheWinABagel/Decorative-Blocks"
+	},
+	"properties": {
+		"modrinth_id": "Cq0m2EIu",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.20.1"
+		]
+	},
+	"relations": {
+		"dependencies": "architectury-api"
+	}
+}

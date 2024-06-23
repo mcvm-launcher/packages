@@ -1,0 +1,1590 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/9qiHa4tW/neruina-forge-2.0.0-beta.10%2B1.18.2.jar",
+					"version": "9qiHa4tW"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/uriuhXDq/neruina-fabric-2.0.0-beta.10%2B1.18.2.jar",
+					"version": "uriuhXDq"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/cGwAoULz/neruina-fabric-2.0.0-beta.10%2B1.19.2.jar",
+					"version": "cGwAoULz"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/9WB5CFtn/neruina-forge-2.0.0-beta.10%2B1.20.6.jar",
+					"version": "9WB5CFtn"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/wQnrezRp/neruina-forge-2.0.0-beta.10%2B1.19.4.jar",
+					"version": "wQnrezRp"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/RH7DozdT/neruina-fabric-2.0.0-beta.10%2B1.19.4.jar",
+					"version": "RH7DozdT"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/CzQWOO6H/neruina-forge-2.0.0-beta.10%2B1.20.1.jar",
+					"version": "CzQWOO6H"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/ltv3yt61/neruina-fabric-2.0.0-beta.10%2B1.20.1.jar",
+					"version": "ltv3yt61"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/Y8SdXBLm/neruina-fabric-2.0.0-beta.10%2B1.20.6.jar",
+					"version": "Y8SdXBLm"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/BPgF33f8/neruina-neoforge-2.0.0-beta.10%2B1.20.6.jar",
+					"version": "BPgF33f8"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/vLvFOyhZ/neruina-forge-2.0.0-beta.9%2B1.18.2.jar",
+					"version": "vLvFOyhZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/FeUBkub6/neruina-neoforge-2.0.0-beta.9%2B1.20.6.jar",
+					"version": "FeUBkub6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/DromPhtS/neruina-fabric-2.0.0-beta.9%2B1.19.2.jar",
+					"version": "DromPhtS"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/y9EQlZVy/neruina-forge-2.0.0-beta.9%2B1.19.2.jar",
+					"version": "y9EQlZVy"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/YGUJof15/neruina-fabric-2.0.0-beta.9%2B1.19.4.jar",
+					"version": "YGUJof15"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/FGHbY6b0/neruina-fabric-2.0.0-beta.9%2B1.20.6.jar",
+					"version": "FGHbY6b0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/HAY2a4EI/neruina-fabric-2.0.0-beta.9%2B1.20.1.jar",
+					"version": "HAY2a4EI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/urbxWRwe/neruina-forge-2.0.0-beta.9%2B1.20.1.jar",
+					"version": "urbxWRwe"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/AXts8ZvP/neruina-forge-2.0.0-beta.9%2B1.20.6.jar",
+					"version": "AXts8ZvP"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/obFkianv/neruina-fabric-2.0.0-beta.8%2B1.18.2.jar",
+					"version": "obFkianv"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/shEpXbrx/neruina-forge-2.0.0-beta.8%2B1.18.2.jar",
+					"version": "shEpXbrx"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/zub9vqIu/neruina-fabric-2.0.0-beta.8%2B1.19.2.jar",
+					"version": "zub9vqIu"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/JaWa9t35/neruina-forge-2.0.0-beta.8%2B1.19.2.jar",
+					"version": "JaWa9t35"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/SOynRYj3/neruina-fabric-2.0.0-beta.8%2B1.19.4.jar",
+					"version": "SOynRYj3"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/eJ0cfUYZ/neruina-fabric-2.0.0-beta.8%2B1.20.1.jar",
+					"version": "eJ0cfUYZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/ghtvpiib/neruina-forge-2.0.0-beta.8%2B1.19.4.jar",
+					"version": "ghtvpiib"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/nT0BRNAK/neruina-forge-2.0.0-beta.8%2B1.20.1.jar",
+					"version": "nT0BRNAK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/ZnozYXy0/neruina-fabric-2.0.0-beta.8%2B1.20.6.jar",
+					"version": "ZnozYXy0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/ovhFd4hV/neruina-forge-2.0.0-beta.8%2B1.20.6.jar",
+					"version": "ovhFd4hV"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/QLfNYD5X/neruina-neoforge-2.0.0-beta.8%2B1.20.6.jar",
+					"version": "QLfNYD5X"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/Rgw87vtu/neruina-fabric-2.0.0-beta.7%2B1.18.2.jar",
+					"version": "Rgw87vtu"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/RDIW1vEr/neruina-fabric-2.0.0-beta.7%2B1.19.2.jar",
+					"version": "RDIW1vEr"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/wyX0svvD/neruina-forge-2.0.0-beta.7%2B1.18.2.jar",
+					"version": "wyX0svvD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/18KACa0v/neruina-forge-2.0.0-beta.7%2B1.19.2.jar",
+					"version": "18KACa0v"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/KjoOQWXx/neruina-fabric-2.0.0-beta.7%2B1.19.4.jar",
+					"version": "KjoOQWXx"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/5TMS9aA7/neruina-forge-2.0.0-beta.7%2B1.19.4.jar",
+					"version": "5TMS9aA7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/5oomV8Xe/neruina-fabric-2.0.0-beta.7%2B1.20.1.jar",
+					"version": "5oomV8Xe"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/vtjsqmWw/neruina-forge-2.0.0-beta.7%2B1.20.1.jar",
+					"version": "vtjsqmWw"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/WNFfMYlL/neruina-neoforge-2.0.0-beta.7%2B1.20.6.jar",
+					"version": "WNFfMYlL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/4a1oclhK/neruina-forge-2.0.0-beta.7%2B1.20.6.jar",
+					"version": "4a1oclhK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/RX1KzV2Y/neruina-fabric-2.0.0-beta.7%2B1.20.6.jar",
+					"version": "RX1KzV2Y"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/yga9Qdt4/neruina-forge-2.0.0-beta.6%2B1.18.2.jar",
+					"version": "yga9Qdt4"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/ZU4eAFB3/neruina-fabric-2.0.0-beta.6%2B1.18.2.jar",
+					"version": "ZU4eAFB3"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/c5XrC7um/neruina-forge-2.0.0-beta.6%2B1.20.1.jar",
+					"version": "c5XrC7um"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/TRHD8nMe/neruina-fabric-2.0.0-beta.6%2B1.20.1.jar",
+					"version": "TRHD8nMe"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/lqxsuFdN/neruina-fabric-2.0.0-beta.6%2B1.20.6.jar",
+					"version": "lqxsuFdN"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/Jxl6RWC7/neruina-forge-2.0.0-beta.6%2B1.20.6.jar",
+					"version": "Jxl6RWC7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/fgDP4dFB/neruina-neoforge-2.0.0-beta.6%2B1.20.6.jar",
+					"version": "fgDP4dFB"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/7wPr8hZu/neruina-fabric-2.0.0-beta.5%2B1.18.2.jar",
+					"version": "7wPr8hZu"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/9EeevciG/neruina-forge-2.0.0-beta.5%2B1.18.2.jar",
+					"version": "9EeevciG"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/8VE2LlUq/neruina-fabric-2.0.0-beta.5%2B1.19.4.jar",
+					"version": "8VE2LlUq"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/wY9wiOGP/neruina-forge-2.0.0-beta.5%2B1.19.4.jar",
+					"version": "wY9wiOGP"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/PUXRPbIv/neruina-fabric-2.0.0-beta.5%2B1.20.1.jar",
+					"version": "PUXRPbIv"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/TN81ShVx/neruina-neoforge-2.0.0-beta.5%2B1.20.6.jar",
+					"version": "TN81ShVx"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/a7u1jfbz/neruina-fabric-2.0.0-beta.5%2B1.20.6.jar",
+					"version": "a7u1jfbz"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/9ivXcJEH/neruina-forge-2.0.0-beta.5%2B1.20.6.jar",
+					"version": "9ivXcJEH"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/3nPntExd/neruina-forge-2.0.0-beta.5%2B1.20.1.jar",
+					"version": "3nPntExd"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/8FZtemi0/neruina-fabric-2.0.0-beta.4%2B1.18.2.jar",
+					"version": "8FZtemi0"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/dUDdC3we/neruina-forge-2.0.0-beta.4%2B1.18.2.jar",
+					"version": "dUDdC3we"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/bcLz5Ull/neruina-fabric-2.0.0-beta.4%2B1.19.4.jar",
+					"version": "bcLz5Ull"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/kr9Ex4Su/neruina-forge-2.0.0-beta.4%2B1.19.4.jar",
+					"version": "kr9Ex4Su"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/tuBdaQtW/neruina-forge-2.0.0-beta.4%2B1.20.1.jar",
+					"version": "tuBdaQtW"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/a1M6kWHX/neruina-fabric-2.0.0-beta.4%2B1.20.1.jar",
+					"version": "a1M6kWHX"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/MZGqqctu/neruina-fabric-2.0.0-beta.4%2B1.20.6.jar",
+					"version": "MZGqqctu"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/YuOZXPap/neruina-forge-2.0.0-beta.4%2B1.20.6.jar",
+					"version": "YuOZXPap"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/4gwxcbJj/neruina-neoforge-2.0.0-beta.4%2B1.20.6.jar",
+					"version": "4gwxcbJj"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/WQA5VnUe/neruina-fabric-2.0.0-beta.3%2B1.18.2.jar",
+					"version": "WQA5VnUe"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/NBOQHx8s/neruina-forge-2.0.0-beta.3%2B1.18.2.jar",
+					"version": "NBOQHx8s"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/JgBVA5VC/neruina-fabric-2.0.0-beta.3%2B1.19.4.jar",
+					"version": "JgBVA5VC"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/lOcQOYFd/neruina-forge-2.0.0-beta.3%2B1.20.1.jar",
+					"version": "lOcQOYFd"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/3EFQyMRJ/neruina-fabric-2.0.0-beta.3%2B1.20.6.jar",
+					"version": "3EFQyMRJ"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/AoIbdGit/neruina-fabric-2.0.0-beta.3%2B1.20.1.jar",
+					"version": "AoIbdGit"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/uuag56TA/neruina-forge-2.0.0-beta.3%2B1.20.6.jar",
+					"version": "uuag56TA"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/JlUbqvDr/neruina-forge-2.0.0-beta.3%2B1.19.4.jar",
+					"version": "JlUbqvDr"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/OVr2u4vF/neruina-neoforge-2.0.0-beta.3%2B1.20.6.jar",
+					"version": "OVr2u4vF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/urHANUlF/neruina-fabric-2.0.0-beta.2%2B1.18.2.jar",
+					"version": "urHANUlF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/DqhEpQbv/neruina-forge-2.0.0-beta.2%2B1.18.2.jar",
+					"version": "DqhEpQbv"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/I7Nhi02i/neruina-fabric-2.0.0-beta.2%2B1.19.4.jar",
+					"version": "I7Nhi02i"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/cYY4Mj5d/neruina-forge-2.0.0-beta.2%2B1.19.4.jar",
+					"version": "cYY4Mj5d"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/o4GrNXlp/neruina-fabric-2.0.0-beta.2%2B1.20.1.jar",
+					"version": "o4GrNXlp"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/Q1ksFcMU/neruina-forge-2.0.0-beta.2%2B1.20.6.jar",
+					"version": "Q1ksFcMU"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/wdRYHrJx/neruina-fabric-2.0.0-beta.2%2B1.20.6.jar",
+					"version": "wdRYHrJx"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/Vq3e8M1S/neruina-forge-2.0.0-beta.2%2B1.20.1.jar",
+					"version": "Vq3e8M1S"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/jijJTx3Z/neruina-neoforge-2.0.0-beta.2%2B1.20.6.jar",
+					"version": "jijJTx3Z"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/7lTmIUht/neruina-fabric-2.0.0-beta.1%2B1.18.2.jar",
+					"version": "7lTmIUht"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/SrTIAwZQ/neruina-forge-2.0.0-beta.1%2B1.18.2.jar",
+					"version": "SrTIAwZQ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/2nvplBOu/neruina-fabric-2.0.0-beta.1%2B1.19.4.jar",
+					"version": "2nvplBOu"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/u8WsuGwJ/neruina-forge-2.0.0-beta.1%2B1.19.4.jar",
+					"version": "u8WsuGwJ"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/wDRTyPHj/neruina-fabric-2.0.0-beta.1%2B1.20.1.jar",
+					"version": "wDRTyPHj"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/sIshNzcx/neruina-fabric-2.0.0-beta.1%2B1.20.6.jar",
+					"version": "sIshNzcx"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/QRFMiKt8/neruina-forge-2.0.0-beta.1%2B1.20.6.jar",
+					"version": "QRFMiKt8"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/NRaf078W/neruina-forge-2.0.0-beta.1%2B1.20.1.jar",
+					"version": "NRaf078W"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/QZhmbGqz/neruina-neoforge-2.0.0-beta.1%2B1.20.6.jar",
+					"version": "QZhmbGqz"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/YvsVgtJ2/neruina-1.3.0-forge%2B1.18.2-1.20.1.jar",
+					"version": "YvsVgtJ2"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/S95lnn83/neruina-1.3.0-fabric%2B1.18.2-1.20.1.jar",
+					"version": "S95lnn83"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/q4kZgUJ0/neruina-1.2.6-forge%2B1.18.2-1.20.1.jar",
+					"version": "q4kZgUJ0"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/R4xuuYah/neruina-1.2.6-fabric%2B1.18.2-1.20.1.jar",
+					"version": "R4xuuYah"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/iytEhar2/neruina-1.2.5-forge%2B1.18.2-1.20.1.jar",
+					"version": "iytEhar2"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/OURXSRYG/neruina-1.2.5-fabric%2B1.18.2-1.20.1.jar",
+					"version": "OURXSRYG"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/VKc0dQJ4/neruina-1.2.4-fabric%2B1.18.2-1.20.1.jar",
+					"version": "VKc0dQJ4"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/RaP3sWWr/neruina-1.2.4-forge%2B1.18.2-1.20.1.jar",
+					"version": "RaP3sWWr"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/7Y42VogK/neruina-1.2.3-fabric%2B1.18.2-1.20.1.jar",
+					"version": "7Y42VogK"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/wz6ptum5/neruina-1.2.3-forge%2B1.18.2-1.20.1.jar",
+					"version": "wz6ptum5"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/AeXDMj50/neruina-1.2.2-fabric%2B1.18.2-1.20.1.jar",
+					"version": "AeXDMj50"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/IoOGXrZ1/neruina-1.2.2-forge%2B1.18.2-1.20.1.jar",
+					"version": "IoOGXrZ1"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/ZilPnAbb/neruina-1.2.1-fabric%2B1.18.2-1.20.1.jar",
+					"version": "ZilPnAbb"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/fez1lpaX/neruina-1.2.1-forge%2B1.18.2-1.20.1.jar",
+					"version": "fez1lpaX"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/zQviItAy/neruina-1.2.0-fabric%2B1.18.2-1.20.1.jar",
+					"version": "zQviItAy"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/vpcFLDzA/neruina-1.2.0-forge%2B1.18.2-1.20.1.jar",
+					"version": "vpcFLDzA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/QOVVS868/neruina-1.1.1-forge%2B1.18.2.jar",
+					"version": "QOVVS868"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/Z7982UzL/neruina-1.1.1-fabric%2B1.20.jar",
+					"version": "Z7982UzL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/En2AbIrY/neruina-1.1.1-forge%2B1.20.jar",
+					"version": "En2AbIrY"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/Vf8rcrxB/neruina-1.1.0-forge%2B1.20.jar",
+					"version": "Vf8rcrxB"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/bLF5Xi3z/neruina-1.1.0-forge%2B1.19.jar",
+					"version": "bLF5Xi3z"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/mBMOVCoi/neruina-1.1.0-forge%2B1.18.2.jar",
+					"version": "mBMOVCoi"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/Ks0iPnry/neruina-1.1.0-fabric%2B1.18.2.jar",
+					"version": "Ks0iPnry"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/tH3dA34q/neruina-1.1.0-fabric%2B1.19.jar",
+					"version": "tH3dA34q"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/zjq512pk/neruina-1.1.0-fabric%2B1.20.jar",
+					"version": "zjq512pk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/WHuBFrVG/neruina-1.0.1-forge%2B1.20.jar",
+					"version": "WHuBFrVG"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/UlxWjlxZ/neruina-1.0.1-fabric%2B1.18.2.jar",
+					"version": "UlxWjlxZ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/pVycNpLT/neruina-1.0.1-forge%2B1.18.2.jar",
+					"version": "pVycNpLT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/LVF6eEwy/neruina-1.0.1-forge%2B1.19.jar",
+					"version": "LVF6eEwy"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/oWCHNF3U/neruina-1.0.0-forge%2B1.19.jar",
+					"version": "oWCHNF3U"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/si9qadH8/neruina-1.0.0-forge%2B1.18.2.jar",
+					"version": "si9qadH8"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/1hAuyKqX/neruina-1.0.0-fabric%2B1.18.2.jar",
+					"version": "1hAuyKqX"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/HG1IAWMf/neruina-1.0.0-fabric%2B1.19.jar",
+					"version": "HG1IAWMf"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/cLR5it0O/neruina-1.0.0-forge%2B1.20.1.jar",
+					"version": "cLR5it0O"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/B9ZR87Ws/neruina-1.0.0-fabric%2B1.20.1.jar",
+					"version": "B9ZR87Ws"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/6Wc1wySq/neruina-0.2.2%2B1.18.jar",
+					"version": "6Wc1wySq"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/1cxZvFaD/neruina-0.2.2%2B1.20.jar",
+					"version": "1cxZvFaD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/cZQv6x9R/neruina-0.2.2%2B1.19.jar",
+					"version": "cZQv6x9R"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/qiCyQnQb/neruina-0.2.1%2B1.20.jar",
+					"version": "qiCyQnQb"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/9CUCVABQ/neruina-0.2.1%2B1.19.jar",
+					"version": "9CUCVABQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/uCYnuRfV/neruina-0.2.1%2B1.18.jar",
+					"version": "uCYnuRfV"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/s0Dw11BD/neruina-0.2.0%2B1.18.jar",
+					"version": "s0Dw11BD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/k2xYSHIO/neruina-0.2.0%2B1.19.jar",
+					"version": "k2xYSHIO"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/1kvaSVPe/neruina-0.1.0%2B1.18.jar",
+					"version": "1kvaSVPe"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/lY3XjoiG/neruina-0.1.0.jar",
+					"version": "lY3XjoiG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/t7QqU6GC/neruina-0.0.2.jar",
+					"version": "t7QqU6GC"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/1s5x833P/versions/gFDTlYva/neruina-0.0.1.jar",
+					"version": "gFDTlYva"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Bawnorton"
+		],
+		"description": "A Mod that prevents ticking-related crashes from bricking worlds",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/1s5x833P/b7e3cf809f07d3cad88a60834c3e4e7248021744.png",
+		"issues": "https://github.com/Benjamin-Norton/Neruina/issues",
+		"license": "MIT",
+		"long_description": "# Neruina\n\n### This is a mod that prevents ticking crashes from bricking worlds.\n\n[![Modrinth](https://img.shields.io/modrinth/dt/neruina?colour=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/mod/neruina)\n[![CurseForge](https://cf.way2muchnoise.eu/full_851046_downloads.svg)](https://curseforge.com/minecraft/mc-mods/neruina)\n\n### When an Entity, Block or Item causes a ticking crash:\n- That Entity will be suspended and no longer tick, you can still interact with the entity but cannot attack it.\n- That Block Entity / Tile Entity or Block State (for random ticks) will no longer tick, you can still access the block inventory if it has one.\n- That Item will stop ticking in the inventory but will still persist and function in recipes and most uses, nothing is lost.\n- If another mod causes the Player to crash on tick, the Player will be kicked instead.\n\n### Actions:\n- `What Is This?`: Opens the Neruina wiki page on what Neruina is and what it does\n- `Copy Crash`: Copies the cause of the ticking exception to your clipboard\n- `Teleport`: Teleports you to the location of the ticking entity\n- `Try Resume`: Attempts to resume the ticking of the ticking entity\n- `Kill`: Immediately kills and removes the ticking entity\n- `Report` (1.19+): Opens a new issue on the [NeruinaAutoReports](https://github.com/Bawnorton/NeruinaAutoReports)\n  GitHub repository and any mods that opt-in to the reporting system\n\n### Persitance:\n- Ticking entity tracking will now persist across server restarts\n- When the world is first started Neruina will broadcast all tracked ticking entities that need addressing\n\n### Ticking Threshold:\n- When a certain number of ticking excpetions occur within a certain time frame, Neruina will deliberately crash in\n  order to prevent the server from becoming unusable.\n- A comprehensive report will be generated with every ticking exception that occurred with instructions on what to do next.\n- The default threshold is 10 exceptions within 5 minutes, this can be changed in the config.\n\n### Config\n- `log_level`\n    - `operators` (default) - Only operators will receive the broadcast\n    - `everyone` - Everyone will receive the broadcast\n    - `disabled` - No one will receive the broadcast\n- `ticking_exception_threshold`\n    - The number of ticking exceptions that can occur within the specified time frame before Neruina will deliberately\n      crash\n    - Default is `10`\n    - `-1` will disable the threshold\n- `auto_kill_ticking_entities`\n    - If true, ticking entities will be immediately killed and removed rather than suspended\n    - Default is `false`",
+		"name": "Neruina - Ticking Entity Fixer",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Benjamin-Norton/Neruina",
+		"support_link": "https://ko-fi.com/bawnorton"
+	},
+	"properties": {
+		"modrinth_id": "1s5x833P",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
+		]
+	}
+}

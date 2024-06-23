@@ -1,0 +1,482 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "curios-api",
+						"recommendations": [
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/nBM1JM3z/radiantgear-neoforge-4.0.0%2B1.20.6.jar",
+					"version": "nBM1JM3z"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						],
+						"recommendations": [
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/Rq7QJiDY/radiantgear-fabric-4.0.0%2B1.20.6.jar",
+					"version": "Rq7QJiDY"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/IAtK2Crb/radiantgear-forge-4.0.0%2B1.20.6.jar",
+					"version": "IAtK2Crb"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "curios-api",
+						"recommendations": [
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/ISRZ7l0H/radiantgear-neoforge-3.0.0%2B1.20.4.jar",
+					"version": "ISRZ7l0H"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						],
+						"recommendations": [
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/yDtblpsL/radiantgear-fabric-3.0.0%2B1.20.4.jar",
+					"version": "yDtblpsL"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/To1ByOiw/radiantgear-forge-3.0.0%2B1.20.4.jar",
+					"version": "To1ByOiw"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "none"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/2u5N40JW/radiantgear-fabric-2.1.6%2B1.20.1.jar",
+					"version": "2u5N40JW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "none"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/glYNVObg/radiantgear-quilt-2.1.6%2B1.20.1.jar",
+					"version": "glYNVObg"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/wkRh0MZp/radiantgear-forge-2.0.4%2B1.19.2.jar",
+					"version": "wkRh0MZp"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/97i06Z6R/radiantgear-forge-2.1.5%2B1.20.1.jar",
+					"version": "97i06Z6R"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/k8F4D9BW/radiantgear-forge-2.0.3%2B1.19.2.jar",
+					"version": "k8F4D9BW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/Bwm2wz3A/radiantgear-forge-2.1.4%2B1.20.1.jar",
+					"version": "Bwm2wz3A"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/4iL5CqFL/radiantgear-forge-2.1.3%2B1.20.1.jar",
+					"version": "4iL5CqFL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/DGSTdDqn/radiantgear-forge-2.1.2%2B1.20.1.jar",
+					"version": "DGSTdDqn"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/YoPsDoxS/radiantgear-forge-2.0.2%2B1.19.2.jar",
+					"version": "YoPsDoxS"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/qpHPLgLb/radiantgear-forge-2.1.1%2B1.20.1.jar",
+					"version": "qpHPLgLb"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "none"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/8W30WnGE/radiantgear-quilt-2.1.0%2B1.20.1.jar",
+					"version": "8W30WnGE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "none"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/MsZb9cgd/radiantgear-fabric-2.1.0%2B1.20.1.jar",
+					"version": "MsZb9cgd"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/NoCSAOZU/radiantgear-forge-2.1.0%2B1.20.1.jar",
+					"version": "NoCSAOZU"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "none"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/vLrWreKG/radiantgear-quilt-2.1.0%2B1.19.4.jar",
+					"version": "vLrWreKG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/EnaXss7E/radiantgear-forge-2.1.0%2B1.19.4.jar",
+					"version": "EnaXss7E"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "none"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/2Y3F5ZvK/radiantgear-fabric-2.1.0%2B1.19.4.jar",
+					"version": "2Y3F5ZvK"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/522fj12b/radiantgear-quilt-2.1.0%2B1.19.3.jar",
+					"version": "522fj12b"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/hCqTBelE/radiantgear-fabric-2.1.0%2B1.19.3.jar",
+					"version": "hCqTBelE"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/ykUNaebv/radiantgear-forge-2.1.0%2B1.19.3.jar",
+					"version": "ykUNaebv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/6O6DlyI7/radiantgear-fabric-2.0.1%2B1.19.2.jar",
+					"version": "6O6DlyI7"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/c3x2bv4G/radiantgear-forge-2.0.1%2B1.19.2.jar",
+					"version": "c3x2bv4G"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtT9wm5O/versions/bsg0eo9Q/curiouslights-forge-1.3.0%2B1.18.2.jar",
+					"version": "bsg0eo9Q"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"TheIllusiveC4"
+		],
+		"community": "https://discord.gg/JWgrdwt",
+		"description": "A compatibility bridge between Curios API or Trinkets API and dynamic light mods such as Lucent or LambDynamicLights. Formerly known as Curious Lights.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/AtT9wm5O/1242e54747b9eb91b409dc05e425bc53feeeecdf.png",
+		"issues": "https://github.com/illusivesoulworks/radiantgear/issues",
+		"license": "LGPL-3.0-or-later",
+		"long_description": "Radiant Gear is a mod that acts as a simple compatibility bridge between [Curios API](https://modrinth.com/mod/curios) or [Trinkets API](https://modrinth.com/mod/trinkets) and dynamic light mods. With this mod, items in accessory slots will inherit the dynamic lighting behavior defined by the\ndynamic lighting mod. As an example, if a held torch would provide dynamic lighting, then installing this mod will cause\ntorches placed in accessory slots to also provide dynamic lighting.\n\n**Please note: This mod does NOT add any content or slots on its own. In order to gain more slots or assign items into\nslots, users will need to either add a mod that adds that kind of content or add it themselves through the [Curios\nAPI configuration](https://github.com/TheIllusiveC4/Curios/wiki/How-to-Use:-Users) or the [Trinkets API configuration](https://github.com/emilyploszaj/trinkets/wiki/Quick-Start-Guide).**\n\n**Compatible Mods**\n\n- [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights)\n- [Lucent](https://www.curseforge.com/minecraft/mc-mods/lucent)\n- [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)\n- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)\n- [RyoamicLights](https://modrinth.com/mod/ryoamiclights)\n- [Embeddium++](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus)\n- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)\n\nNote: This mod's sidedness depends on the dynamic lighting mod used. For example, if using Lucent then this mod is\nclient-side only because Lucent is client-side only. On the other hand, if using Dynamic Lights then this mod is\nrequired on both client and server because Dynamic Lights is required on both as well.\n\n## Affiliates\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)\n",
+		"name": "Radiant Gear",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/illusivesoulworks/radiantgear",
+		"support_link": "https://ko-fi.com/theillusivec4"
+	},
+	"properties": {
+		"modrinth_id": "AtT9wm5O",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.4",
+			"1.20.6"
+		]
+	}
+}

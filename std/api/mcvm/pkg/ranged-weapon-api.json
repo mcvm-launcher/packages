@@ -1,0 +1,81 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/R1YG5awX/ranged_weapon_api-1.1.2%2B1.20.1.jar",
+					"version": "R1YG5awX"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/oEjSAqNj/ranged_weapon_api-1.1.1%2B1.20.1.jar",
+					"version": "oEjSAqNj"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/Mj5snp7k/ranged_weapon_api-1.1.0%2B1.20.1.jar",
+					"version": "Mj5snp7k"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"projectile-damage-attribute"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/RzWpA7xD/ranged_weapon_api-1.0.0%2B1.20.1.jar",
+					"version": "RzWpA7xD"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"ZsoltMolnarrr"
+		],
+		"description": "🏹 Create fully functional bows and crossbows, with ease",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/AqaIIO6D/659d1ad81b30e0b9da56a64ba2c5c85645ad5fff.png",
+		"issues": "https://github.com/FabricExtras/RangedWeaponAPI/issues",
+		"license": "MIT",
+		"long_description": "# Ranged Weapon API\n\nThis mod is an API for developers, relying on Fabric API, to allow easy bow and crossbow creation.\n\nFeatures:\n- Bows and Crossbow construction\n- Customizable weapon properties: damage, pull time, projectile velocity (optional)\n- Automatic item model predicate registration (matching vanilla model predicates)\n- Correct rendering first and third person rendering\n- Correct pull FOV\n\nRead all technical details in the GitHub readme.",
+		"name": "Ranged Weapon API",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/FabricExtras/RangedWeaponAPI"
+	},
+	"properties": {
+		"modrinth_id": "AqaIIO6D",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.20.1"
+		]
+	}
+}
