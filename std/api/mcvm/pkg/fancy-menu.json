@@ -1,0 +1,5090 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gEmbR8dL/fancymenu_neoforge_3.2.5_MC_1.21.jar",
+					"version": "gEmbR8dL"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/dcINfU8v/fancymenu_forge_3.2.5_MC_1.21.jar",
+					"version": "dcINfU8v"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/I03OyM2D/fancymenu_fabric_3.2.5_MC_1.21.jar",
+					"version": "I03OyM2D"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/8jVE7id8/fancymenu_forge_3.2.4_MC_1.20.6.jar",
+					"version": "8jVE7id8"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/DsVE0sqz/fancymenu_neoforge_3.2.3_MC_1.20.6.jar",
+					"version": "DsVE0sqz"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/sVS901la/fancymenu_fabric_3.2.3_MC_1.20.6.jar",
+					"version": "sVS901la"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/B6eYiOAU/fancymenu_neoforge_3.2.3_MC_1.20.4.jar",
+					"version": "B6eYiOAU"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Xi6Tn4la/fancymenu_forge_3.2.3_MC_1.20.4.jar",
+					"version": "Xi6Tn4la"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/vJ5fUqrF/fancymenu_fabric_3.2.3_MC_1.20.4.jar",
+					"version": "vJ5fUqrF"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/P4AHpQ6f/fancymenu_forge_3.2.3_MC_1.20.1.jar",
+					"version": "P4AHpQ6f"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/3dDslDXq/fancymenu_fabric_3.2.3_MC_1.20.1.jar",
+					"version": "3dDslDXq"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/3w2YzaG9/fancymenu_forge_3.2.3_MC_1.19.2.jar",
+					"version": "3w2YzaG9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/cAu5g3Og/fancymenu_fabric_3.2.3_MC_1.19.2.jar",
+					"version": "cAu5g3Og"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/muuBDnfU/fancymenu_forge_3.2.3_MC_1.18.2.jar",
+					"version": "muuBDnfU"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/CjkGEJQz/fancymenu_fabric_3.2.3_MC_1.18.2.jar",
+					"version": "CjkGEJQz"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/YFPEmcQ1/fancymenu_neoforge_3.2.2_MC_1.20.6.jar",
+					"version": "YFPEmcQ1"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zCLafQu8/fancymenu_fabric_3.2.2_MC_1.20.6.jar",
+					"version": "zCLafQu8"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Pvn5ifop/fancymenu_neoforge_3.2.2_MC_1.20.4.jar",
+					"version": "Pvn5ifop"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/3lwP2bFN/fancymenu_forge_3.2.2_MC_1.20.4.jar",
+					"version": "3lwP2bFN"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/r6mf8bY7/fancymenu_fabric_3.2.2_MC_1.20.4.jar",
+					"version": "r6mf8bY7"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/6NA9NL0y/fancymenu_forge_3.2.2_MC_1.20.1.jar",
+					"version": "6NA9NL0y"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ItO0zs6O/fancymenu_fabric_3.2.2_MC_1.20.1.jar",
+					"version": "ItO0zs6O"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/RbfTdmfg/fancymenu_forge_3.2.2_MC_1.19.2.jar",
+					"version": "RbfTdmfg"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/xPs5SHEy/fancymenu_fabric_3.2.2_MC_1.19.2.jar",
+					"version": "xPs5SHEy"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/mhY7CxnQ/fancymenu_forge_3.2.2_MC_1.18.2.jar",
+					"version": "mhY7CxnQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/OaYDfIRe/fancymenu_fabric_3.2.2_MC_1.18.2.jar",
+					"version": "OaYDfIRe"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/nkeuZSdN/fancymenu_neoforge_3.2.1_MC_1.20.6.jar",
+					"version": "nkeuZSdN"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/noukoAfZ/fancymenu_fabric_3.2.1_MC_1.20.6.jar",
+					"version": "noukoAfZ"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/JQXYFvjn/fancymenu_neoforge_3.2.0_MC_1.20.6.jar",
+					"version": "JQXYFvjn"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/8pks85Yg/fancymenu_fabric_3.2.0_MC_1.20.6.jar",
+					"version": "8pks85Yg"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/5rm89VPm/fancymenu_forge_3.2.0_MC_1.20.1.jar",
+					"version": "5rm89VPm"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/kyOAYK5Z/fancymenu_fabric_3.2.0_MC_1.20.1.jar",
+					"version": "kyOAYK5Z"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/cEr1N1gM/fancymenu_forge_3.2.0_MC_1.19.2.jar",
+					"version": "cEr1N1gM"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gETs03Ef/fancymenu_fabric_3.2.0_MC_1.19.2.jar",
+					"version": "gETs03Ef"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/z3dsTuDk/fancymenu_forge_3.2.0_MC_1.18.2.jar",
+					"version": "z3dsTuDk"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Jc9aUpo5/fancymenu_fabric_3.2.0_MC_1.18.2.jar",
+					"version": "Jc9aUpo5"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/KYFojaDG/fancymenu_neoforge_3.1.7_MC_1.20.6.jar",
+					"version": "KYFojaDG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Kr9OIQsU/fancymenu_fabric_3.1.7_MC_1.20.6.jar",
+					"version": "Kr9OIQsU"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/LyHiaiQJ/fancymenu_neoforge_3.1.7_MC_1.20.4.jar",
+					"version": "LyHiaiQJ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/qFqlO0zj/fancymenu_forge_3.1.7_MC_1.20.4.jar",
+					"version": "qFqlO0zj"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/KwGi8ivU/fancymenu_fabric_3.1.7_MC_1.20.4.jar",
+					"version": "KwGi8ivU"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jgKoB7R7/fancymenu_forge_3.1.7_MC_1.20.2.jar",
+					"version": "jgKoB7R7"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jRbd2iZl/fancymenu_fabric_3.1.7_MC_1.20.2.jar",
+					"version": "jRbd2iZl"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/S14qTUt6/fancymenu_forge_3.1.7_MC_1.20.1.jar",
+					"version": "S14qTUt6"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/pqlDnCPi/fancymenu_fabric_3.1.7_MC_1.20.1.jar",
+					"version": "pqlDnCPi"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/PsdwUHkA/fancymenu_forge_3.1.7_MC_1.19.2.jar",
+					"version": "PsdwUHkA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/mU9gnTsM/fancymenu_fabric_3.1.7_MC_1.19.2.jar",
+					"version": "mU9gnTsM"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/6OfE8WFm/fancymenu_forge_3.1.7_MC_1.18.2.jar",
+					"version": "6OfE8WFm"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/2NlzucUO/fancymenu_fabric_3.1.7_MC_1.18.2.jar",
+					"version": "2NlzucUO"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/BCmw449f/fancymenu_neoforge_3.1.6_MC_1.20.5.jar",
+					"version": "BCmw449f"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/PPRVToaV/fancymenu_fabric_3.1.6_MC_1.20.5.jar",
+					"version": "PPRVToaV"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jXQg9Trb/fancymenu_forge_3.1.5_MC_1.20.1.jar",
+					"version": "jXQg9Trb"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/aagl8TSm/fancymenu_forge_3.1.5_MC_1.19.2.jar",
+					"version": "aagl8TSm"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/2zzTJanM/fancymenu_forge_3.1.5_MC_1.18.2.jar",
+					"version": "2zzTJanM"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/5Poxp72n/fancymenu_forge_3.1.4_MC_1.20.2.jar",
+					"version": "5Poxp72n"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/8pWPXZ5F/fancymenu_fabric_3.1.4_MC_1.20.2.jar",
+					"version": "8pWPXZ5F"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/lk94xBP8/fancymenu_neoforge_3.1.4_MC_1.20.4.jar",
+					"version": "lk94xBP8"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Mc2FrAvp/fancymenu_forge_3.1.4_MC_1.20.4.jar",
+					"version": "Mc2FrAvp"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/QAHEkk0Z/fancymenu_fabric_3.1.4_MC_1.20.4.jar",
+					"version": "QAHEkk0Z"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/1FrkGFOi/fancymenu_forge_3.1.4_MC_1.20.1.jar",
+					"version": "1FrkGFOi"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/VNTtoT5a/fancymenu_fabric_3.1.4_MC_1.20.1.jar",
+					"version": "VNTtoT5a"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/7Q3ExYKZ/fancymenu_forge_3.1.4_MC_1.19.2.jar",
+					"version": "7Q3ExYKZ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/vNPs09TM/fancymenu_fabric_3.1.4_MC_1.19.2.jar",
+					"version": "vNPs09TM"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/BrHhvw3p/fancymenu_forge_3.1.4_MC_1.18.2.jar",
+					"version": "BrHhvw3p"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/SlmvmSv9/fancymenu_fabric_3.1.4_MC_1.18.2.jar",
+					"version": "SlmvmSv9"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/U9nGFqO3/fancymenu_neoforge_3.1.3_MC_1.20.4.jar",
+					"version": "U9nGFqO3"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/kHhCkosv/fancymenu_forge_3.1.3_MC_1.20.4.jar",
+					"version": "kHhCkosv"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/IbK21t5X/fancymenu_fabric_3.1.3_MC_1.20.4.jar",
+					"version": "IbK21t5X"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/wFWDzTbt/fancymenu_forge_3.1.3_MC_1.20.1.jar",
+					"version": "wFWDzTbt"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/1YKW7Mrz/fancymenu_fabric_3.1.3_MC_1.20.1.jar",
+					"version": "1YKW7Mrz"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/K9InoWqG/fancymenu_forge_3.1.3_MC_1.19.2.jar",
+					"version": "K9InoWqG"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/wGxtkJ6H/fancymenu_fabric_3.1.3_MC_1.19.2.jar",
+					"version": "wGxtkJ6H"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ESBP8ipI/fancymenu_forge_3.1.3_MC_1.18.2.jar",
+					"version": "ESBP8ipI"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/TQgDvY90/fancymenu_fabric_3.1.3_MC_1.18.2.jar",
+					"version": "TQgDvY90"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/skesSkVm/fancymenu_neoforge_3.1.2_MC_1.20.4.jar",
+					"version": "skesSkVm"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/2DZL0IAh/fancymenu_forge_3.1.2_MC_1.20.4.jar",
+					"version": "2DZL0IAh"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/w1igT0Hz/fancymenu_fabric_3.1.2_MC_1.20.4.jar",
+					"version": "w1igT0Hz"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/XaAZhVtS/fancymenu_forge_3.1.2_MC_1.20.1.jar",
+					"version": "XaAZhVtS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/r2jmO7md/fancymenu_fabric_3.1.2_MC_1.20.1.jar",
+					"version": "r2jmO7md"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/aSNUc9wk/fancymenu_forge_3.1.2_MC_1.19.2.jar",
+					"version": "aSNUc9wk"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/MJo84qj6/fancymenu_fabric_3.1.2_MC_1.19.2.jar",
+					"version": "MJo84qj6"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/h5I5uyAT/fancymenu_forge_3.1.2_MC_1.18.2.jar",
+					"version": "h5I5uyAT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EvvS141u/fancymenu_fabric_3.1.2_MC_1.18.2.jar",
+					"version": "EvvS141u"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/YXeM8ARR/fancymenu_neoforge_3.1.1_MC_1.20.4.jar",
+					"version": "YXeM8ARR"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/k2k44pDA/fancymenu_forge_3.1.1_MC_1.20.4.jar",
+					"version": "k2k44pDA"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/b7fLNyF9/fancymenu_fabric_3.1.1_MC_1.20.4.jar",
+					"version": "b7fLNyF9"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/7fQbg0w8/fancymenu_forge_3.1.1_MC_1.20.1.jar",
+					"version": "7fQbg0w8"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/kqtKxCTc/fancymenu_fabric_3.1.1_MC_1.20.1.jar",
+					"version": "kqtKxCTc"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/iIHpLi0A/fancymenu_forge_3.1.1_MC_1.19.2.jar",
+					"version": "iIHpLi0A"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/fBnndgWn/fancymenu_fabric_3.1.1_MC_1.19.2.jar",
+					"version": "fBnndgWn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/tBCC86h5/fancymenu_forge_3.1.1_MC_1.18.2.jar",
+					"version": "tBCC86h5"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/waw6tjww/fancymenu_fabric_3.1.1_MC_1.18.2.jar",
+					"version": "waw6tjww"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/WtKXXcVQ/fancymenu_forge_3.1.0_MC_1.20.4.jar",
+					"version": "WtKXXcVQ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EKuF61uS/fancymenu_fabric_3.1.0_MC_1.20.4.jar",
+					"version": "EKuF61uS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/AuPFlN9F/fancymenu_forge_3.1.0_MC_1.20.1.jar",
+					"version": "AuPFlN9F"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/U2GIUGvi/fancymenu_fabric_3.1.0_MC_1.20.1.jar",
+					"version": "U2GIUGvi"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/MwtnWwA5/fancymenu_forge_3.1.0_MC_1.19.2.jar",
+					"version": "MwtnWwA5"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/1mTajDW4/fancymenu_fabric_3.1.0_MC_1.19.2.jar",
+					"version": "1mTajDW4"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/KGVu4bf4/fancymenu_forge_3.1.0_MC_1.18.2.jar",
+					"version": "KGVu4bf4"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Ir8bm58G/fancymenu_fabric_3.1.0_MC_1.18.2.jar",
+					"version": "Ir8bm58G"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/e2HSYhLX/fancymenu_forge_3.0.6_MC_1.20.4.jar",
+					"version": "e2HSYhLX"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jj3M3e64/fancymenu_fabric_3.0.6_MC_1.20.4.jar",
+					"version": "jj3M3e64"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/LuNLnAlc/fancymenu_forge_3.0.6_MC_1.20.1.jar",
+					"version": "LuNLnAlc"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Ixjlad70/fancymenu_fabric_3.0.6_MC_1.20.1.jar",
+					"version": "Ixjlad70"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/oPifDtSG/fancymenu_forge_3.0.6_MC_1.19.2.jar",
+					"version": "oPifDtSG"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Msjcdga1/fancymenu_fabric_3.0.6_MC_1.19.2.jar",
+					"version": "Msjcdga1"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/M53ugVlH/fancymenu_forge_3.0.6_MC_1.18.2.jar",
+					"version": "M53ugVlH"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/vBMPLfMF/fancymenu_fabric_3.0.6_MC_1.18.2.jar",
+					"version": "vBMPLfMF"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ezyPkAU2/fancymenu_forge_3.0.5_MC_1.20.4.jar",
+					"version": "ezyPkAU2"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/SG4fddPf/fancymenu_fabric_3.0.5_MC_1.20.4.jar",
+					"version": "SG4fddPf"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/raq40Dsv/fancymenu_forge_3.0.5_MC_1.20.1.jar",
+					"version": "raq40Dsv"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/tL5V3uuo/fancymenu_fabric_3.0.5_MC_1.20.1.jar",
+					"version": "tL5V3uuo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/lKcqE3eD/fancymenu_forge_3.0.5_MC_1.19.2.jar",
+					"version": "lKcqE3eD"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zkTTGcBQ/fancymenu_fabric_3.0.5_MC_1.19.2.jar",
+					"version": "zkTTGcBQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/vf2YiWXm/fancymenu_forge_3.0.5_MC_1.18.2.jar",
+					"version": "vf2YiWXm"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/2s4LgTq2/fancymenu_fabric_3.0.5_MC_1.18.2.jar",
+					"version": "2s4LgTq2"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/D8SrUAzd/fancymenu_forge_3.0.4_MC_1.20.4.jar",
+					"version": "D8SrUAzd"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/6nvc8wWc/fancymenu_fabric_3.0.4_MC_1.20.4.jar",
+					"version": "6nvc8wWc"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/8TMjqSDn/fancymenu_forge_3.0.4_MC_1.20.1.jar",
+					"version": "8TMjqSDn"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/fJcmxOHy/fancymenu_fabric_3.0.4_MC_1.20.1.jar",
+					"version": "fJcmxOHy"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/c3GAjVZZ/fancymenu_forge_3.0.4_MC_1.19.2.jar",
+					"version": "c3GAjVZZ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/iRDezFmY/fancymenu_fabric_3.0.4_MC_1.19.2.jar",
+					"version": "iRDezFmY"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/4Dld20RA/fancymenu_forge_3.0.4_MC_1.18.2.jar",
+					"version": "4Dld20RA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/FTAR3891/fancymenu_fabric_3.0.4_MC_1.18.2.jar",
+					"version": "FTAR3891"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/CDNVddQy/fancymenu_forge_3.0.3_MC_1.20.4.jar",
+					"version": "CDNVddQy"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/risdo0H0/fancymenu_fabric_3.0.3_MC_1.20.4.jar",
+					"version": "risdo0H0"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Zk6diN42/fancymenu_forge_3.0.3_MC_1.20.1.jar",
+					"version": "Zk6diN42"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/K08rKy9N/fancymenu_fabric_3.0.3_MC_1.20.1.jar",
+					"version": "K08rKy9N"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/wCPntYhK/fancymenu_forge_3.0.3_MC_1.19.2.jar",
+					"version": "wCPntYhK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/SDsjRxZE/fancymenu_fabric_3.0.3_MC_1.19.2.jar",
+					"version": "SDsjRxZE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/6bQupxFk/fancymenu_forge_3.0.3_MC_1.18.2.jar",
+					"version": "6bQupxFk"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/umq3YzV3/fancymenu_fabric_3.0.3_MC_1.18.2.jar",
+					"version": "umq3YzV3"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/fL0nMnkJ/fancymenu_forge_3.0.2_MC_1.20.4.jar",
+					"version": "fL0nMnkJ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/JkL2VJqP/fancymenu_fabric_3.0.2_MC_1.20.4.jar",
+					"version": "JkL2VJqP"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/YWi9XMj6/fancymenu_forge_3.0.2_MC_1.20.1.jar",
+					"version": "YWi9XMj6"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/481IC16K/fancymenu_fabric_3.0.2_MC_1.20.1.jar",
+					"version": "481IC16K"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ZShSCXpV/fancymenu_forge_3.0.2_MC_1.19.2.jar",
+					"version": "ZShSCXpV"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/KhkP4SKa/fancymenu_fabric_3.0.2_MC_1.19.2.jar",
+					"version": "KhkP4SKa"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ci3v0cZT/fancymenu_forge_3.0.2_MC_1.18.2.jar",
+					"version": "ci3v0cZT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ZlZEW9lP/fancymenu_fabric_3.0.2_MC_1.18.2.jar",
+					"version": "ZlZEW9lP"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Y1VWBMf7/fancymenu_forge_3.0.1_MC_1.20.4.jar",
+					"version": "Y1VWBMf7"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/xKzeYEHu/fancymenu_fabric_3.0.1_MC_1.20.4.jar",
+					"version": "xKzeYEHu"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/BgoGAaPw/fancymenu_forge_3.0.1_MC_1.20.1.jar",
+					"version": "BgoGAaPw"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Kh2xLEmm/fancymenu_fabric_3.0.1_MC_1.20.1.jar",
+					"version": "Kh2xLEmm"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/voTk0qr5/fancymenu_forge_3.0.0_MC_1.20.4.jar",
+					"version": "voTk0qr5"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ZyLJUMVf/fancymenu_fabric_3.0.0_MC_1.20.4.jar",
+					"version": "ZyLJUMVf"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/OqFJ61HW/fancymenu_forge_3.0.0_MC_1.20.1.jar",
+					"version": "OqFJ61HW"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/DQwLlnxK/fancymenu_fabric_3.0.0_MC_1.20.1.jar",
+					"version": "DQwLlnxK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/3WBbVvuy/fancymenu_forge_3.0.0_MC_1.19.2.jar",
+					"version": "3WBbVvuy"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/uV5BHuyY/fancymenu_fabric_3.0.0_MC_1.19.2.jar",
+					"version": "uV5BHuyY"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/k5fvGCzq/fancymenu_forge_3.0.0_MC_1.18.2.jar",
+					"version": "k5fvGCzq"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete",
+							"melody"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/OoMJ5Zqv/fancymenu_fabric_3.0.0_MC_1.18.2.jar",
+					"version": "OoMJ5Zqv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/5KUAk89i/fancymenu_fabric_2.14.14_MC_1.19-1.19.2.jar",
+					"version": "5KUAk89i"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/C5AxJy6i/fancymenu_fabric_2.14.14_MC_1.18.2.jar",
+					"version": "C5AxJy6i"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/4RyTIT8u/fancymenu_forge_2.14.13_MC_1.20.4.jar",
+					"version": "4RyTIT8u"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/DDn865YU/fancymenu_forge_2.14.13_MC_1.20.1.jar",
+					"version": "DDn865YU"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/NQQhNCWD/fancymenu_forge_2.14.13_MC_1.19-1.19.2.jar",
+					"version": "NQQhNCWD"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/rD0Bu3Ff/fancymenu_forge_2.14.13_MC_1.18.2.jar",
+					"version": "rD0Bu3Ff"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Io5mipbf/fancymenu_fabric_2.14.13_MC_1.20.4.jar",
+					"version": "Io5mipbf"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/mCwkV3lw/fancymenu_fabric_2.14.13_MC_1.20.1.jar",
+					"version": "mCwkV3lw"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/tCc6Wz48/fancymenu_fabric_2.14.13_MC_1.19-1.19.2.jar",
+					"version": "tCc6Wz48"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/IKeGOGun/fancymenu_fabric_2.14.13_MC_1.18.2.jar",
+					"version": "IKeGOGun"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/f6EZWcZW/fancymenu_forge_2.14.12_MC_1.20.2.jar",
+					"version": "f6EZWcZW"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/8eWfCk6V/fancymenu_fabric_2.14.12_MC_1.20.2.jar",
+					"version": "8eWfCk6V"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/dRJ6fs1q/fancymenu_forge_2.14.12_MC_1.20.4.jar",
+					"version": "dRJ6fs1q"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/iBVXI1Hk/fancymenu_fabric_2.14.12_MC_1.20.4.jar",
+					"version": "iBVXI1Hk"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/UtAM6VRg/fancymenu_forge_2.14.11_MC_1.20.4.jar",
+					"version": "UtAM6VRg"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/HmCwDuEQ/fancymenu_fabric_2.14.11_MC_1.20.4.jar",
+					"version": "HmCwDuEQ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/3OKTPFrl/fancymenu_forge_2.14.9-5_MC_1.20.2.jar",
+					"version": "3OKTPFrl"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/g9m0mGt5/fancymenu_fabric_2.14.10-4_MC_1.20.2.jar",
+					"version": "g9m0mGt5"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/bu76v3md/fancymenu_fabric_2.14.10-3_MC_1.20.2.jar",
+					"version": "bu76v3md"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/wo0yrJ2R/fancymenu_forge_2.14.9-4_MC_1.20.2.jar",
+					"version": "wo0yrJ2R"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/l3XMS2mU/fancymenu_fabric_2.14.10-2_MC_1.20.2.jar",
+					"version": "l3XMS2mU"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Bil39jzv/fancymenu_fabric_2.14.10-2_MC_1.20.1.jar",
+					"version": "Bil39jzv"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/nBoQsa3C/fancymenu_fabric_2.14.10_MC_1.20.1.jar",
+					"version": "nBoQsa3C"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/FrhckmlR/fancymenu_fabric_2.14.10-1_MC_1.20.2.jar",
+					"version": "FrhckmlR"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/53MkGZLZ/fancymenu_fabric_2.14.10_MC_1.20.2.jar",
+					"version": "53MkGZLZ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/BcdFLiaH/fancymenu_forge_2.14.9-3_MC_1.20.2.jar",
+					"version": "BcdFLiaH"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/C7dPPLt1/fancymenu_forge_2.14.9-3_MC_1.20.1.jar",
+					"version": "C7dPPLt1"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/DJh46osA/fancymenu_fabric_2.14.9-3_MC_1.20.2.jar",
+					"version": "DJh46osA"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/AuuJFklo/fancymenu_fabric_2.14.9-3_MC_1.20.1.jar",
+					"version": "AuuJFklo"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/c5ygBESd/fancymenu_forge_2.14.9-1_MC_1.20.2.jar",
+					"version": "c5ygBESd"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/yf1i7PQs/fancymenu_fabric_2.14.9-1_MC_1.20.2.jar",
+					"version": "yf1i7PQs"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ivJPk1yt/fancymenu_forge_2.14.9_MC_1.20.2.jar",
+					"version": "ivJPk1yt"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/bzs4Oz6Z/fancymenu_fabric_2.14.9_MC_1.20.2.jar",
+					"version": "bzs4Oz6Z"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/HSc6Hw7b/fancymenu_forge_2.14.9-1_MC_1.20.1.jar",
+					"version": "HSc6Hw7b"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/OZpss2eF/fancymenu_forge_2.14.9_MC_1.20.1.jar",
+					"version": "OZpss2eF"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/SGIBwksx/fancymenu_forge_2.14.9_MC_1.19.4.jar",
+					"version": "SGIBwksx"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Wy9vG6hV/fancymenu_forge_2.14.9_MC_1.19-1.19.2.jar",
+					"version": "Wy9vG6hV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/wm2d5Wk7/fancymenu_forge_2.14.9_MC_1.18.2.jar",
+					"version": "wm2d5Wk7"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/5K7N5IDG/fancymenu_forge_2.14.9_MC_1.16.2-1.16.5.jar",
+					"version": "5K7N5IDG"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/VCIrxpB6/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+					"version": "VCIrxpB6"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/VbJOHkC3/fancymenu_fabric_2.14.9_MC_1.20.jar",
+					"version": "VbJOHkC3"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/BQwVkNAv/fancymenu_fabric_2.14.9_MC_1.19.4.jar",
+					"version": "BQwVkNAv"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Y9wphxc2/fancymenu_fabric_2.14.9_MC_1.19-1.19.2.jar",
+					"version": "Y9wphxc2"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/2xGuUN8s/fancymenu_fabric_2.14.9_MC_1.18.2.jar",
+					"version": "2xGuUN8s"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/LEEbviQj/fancymenu_forge_2.14.8-2_MC_1.20.1.jar",
+					"version": "LEEbviQj"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/inA296BL/fancymenu_forge_2.14.8-1_MC_1.20.1.jar",
+					"version": "inA296BL"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/yzsS3Dba/fancymenu_forge_2.14.8_MC_1.20.1.jar",
+					"version": "yzsS3Dba"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/c6U1TsBw/fancymenu_fabric_2.14.7-3_MC_1.20.jar",
+					"version": "c6U1TsBw"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/J3jmQAzt/fancymenu_forge_2.14.7-3_MC_1.20.jar",
+					"version": "J3jmQAzt"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/W3ZnPk9H/fancymenu_fabric_2.14.7-2_MC_1.20.jar",
+					"version": "W3ZnPk9H"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/vI3sh8xx/fancymenu_forge_2.14.7-2_MC_1.20.jar",
+					"version": "vI3sh8xx"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/wBpvDwfb/fancymenu_forge_2.14.7-1_MC_1.20.jar",
+					"version": "wBpvDwfb"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/kuxEkdmH/fancymenu_fabric_2.14.7_MC_1.20.jar",
+					"version": "kuxEkdmH"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zJ44aLFE/fancymenu_forge_2.14.7_MC_1.20.jar",
+					"version": "zJ44aLFE"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/j5LqQEMF/fancymenu_forge_2.14.7_MC_1.19.4.jar",
+					"version": "j5LqQEMF"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ps3ccIKg/fancymenu_forge_2.14.7_MC_1.19.3.jar",
+					"version": "ps3ccIKg"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/cy1Phepj/fancymenu_forge_2.14.7_MC_1.19-1.19.2.jar",
+					"version": "cy1Phepj"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/3jkibDCK/fancymenu_forge_2.14.7_MC_1.18.2.jar",
+					"version": "3jkibDCK"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/y84vCjAO/fancymenu_forge_2.14.7_MC_1.16.2-1.16.5.jar",
+					"version": "y84vCjAO"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/D9FEg2Ii/fancymenu_forge_2.14.7_MC_1.12-1.12.2.jar",
+					"version": "D9FEg2Ii"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/wLQxLajF/fancymenu_fabric_2.14.7_MC_1.19.4.jar",
+					"version": "wLQxLajF"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zGVCWJ66/fancymenu_fabric_2.14.7_MC_1.19.3.jar",
+					"version": "zGVCWJ66"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/GQEnkgcO/fancymenu_fabric_2.14.7_MC_1.19-1.19.2.jar",
+					"version": "GQEnkgcO"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/JHwlcoqR/fancymenu_fabric_2.14.7_MC_1.18.2.jar",
+					"version": "JHwlcoqR"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Me1RAhEG/fancymenu_forge_2.14.6_MC_1.19.4.jar",
+					"version": "Me1RAhEG"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/dmthPJxE/fancymenu_forge_2.14.6_MC_1.19.3.jar",
+					"version": "dmthPJxE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/rNCjEFuL/fancymenu_forge_2.14.6_MC_1.19-1.19.2.jar",
+					"version": "rNCjEFuL"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/45PHBr99/fancymenu_forge_2.14.6_MC_1.18.2.jar",
+					"version": "45PHBr99"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/lOIafwFw/fancymenu_forge_2.14.6_MC_1.16.2-1.16.5.jar",
+					"version": "lOIafwFw"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/TnWe7soI/fancymenu_forge_2.14.6_MC_1.12-1.12.2.jar",
+					"version": "TnWe7soI"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/nhxeF5h5/fancymenu_fabric_2.14.6_MC_1.19.4.jar",
+					"version": "nhxeF5h5"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/e14PX85q/fancymenu_fabric_2.14.6_MC_1.19.3.jar",
+					"version": "e14PX85q"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/scxv9CGq/fancymenu_fabric_2.14.6_MC_1.19-1.19.2.jar",
+					"version": "scxv9CGq"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/UeO57AbQ/fancymenu_fabric_2.14.6_MC_1.18.2.jar",
+					"version": "UeO57AbQ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/kWxstwSP/fancymenu_forge_2.14.5_MC_1.19.4.jar",
+					"version": "kWxstwSP"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jVSjIB7X/fancymenu_forge_2.14.5_MC_1.19.3.jar",
+					"version": "jVSjIB7X"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/hotMsD5j/fancymenu_forge_2.14.5_MC_1.19-1.19.2.jar",
+					"version": "hotMsD5j"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/lNzID2AV/fancymenu_forge_2.14.5_MC_1.18.2.jar",
+					"version": "lNzID2AV"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/qidCU47d/fancymenu_forge_2.14.5_MC_1.16.2-1.16.5.jar",
+					"version": "qidCU47d"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/k08Qyjag/fancymenu_forge_2.14.5_MC_1.12-1.12.2.jar",
+					"version": "k08Qyjag"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gx0x34Gl/fancymenu_fabric_2.14.5_MC_1.19.4.jar",
+					"version": "gx0x34Gl"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/9DQ7noZ6/fancymenu_fabric_2.14.5_MC_1.19.3.jar",
+					"version": "9DQ7noZ6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/uGqBE4kI/fancymenu_fabric_2.14.5_MC_1.19-1.19.2.jar",
+					"version": "uGqBE4kI"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/bNafQcu0/fancymenu_fabric_2.14.5_MC_1.18.2.jar",
+					"version": "bNafQcu0"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/CAoiklmh/fancymenu_forge_2.14.4_MC_1.19.4.jar",
+					"version": "CAoiklmh"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/AeUQrRPT/fancymenu_forge_2.14.4_MC_1.19.3.jar",
+					"version": "AeUQrRPT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/eYC1ifpZ/fancymenu_forge_2.14.4_MC_1.19-1.19.2.jar",
+					"version": "eYC1ifpZ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/VCB6HMqj/fancymenu_forge_2.14.4_MC_1.18.2.jar",
+					"version": "VCB6HMqj"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/WcAzpCBV/fancymenu_forge_2.14.4_MC_1.16.2-1.16.5.jar",
+					"version": "WcAzpCBV"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/5naxDqlB/fancymenu_forge_2.14.4_MC_1.12-1.12.2.jar",
+					"version": "5naxDqlB"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/g8GOblsm/fancymenu_fabric_2.14.4_MC_1.19.4.jar",
+					"version": "g8GOblsm"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/HTTC31Gs/fancymenu_fabric_2.14.4_MC_1.19.3.jar",
+					"version": "HTTC31Gs"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/5pW7t6n3/fancymenu_fabric_2.14.4_MC_1.19-1.19.2.jar",
+					"version": "5pW7t6n3"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/sL7zZ3iB/fancymenu_fabric_2.14.4_MC_1.18.2.jar",
+					"version": "sL7zZ3iB"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/aMBEXv9t/fancymenu_forge_2.14.3_MC_1.19.4.jar",
+					"version": "aMBEXv9t"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/1nEBnuZl/fancymenu_forge_2.14.3_MC_1.19.3.jar",
+					"version": "1nEBnuZl"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/WRZYA3Gq/fancymenu_forge_2.14.3_MC_1.19-1.19.2.jar",
+					"version": "WRZYA3Gq"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/IF69YiY6/fancymenu_forge_2.14.3_MC_1.18.2.jar",
+					"version": "IF69YiY6"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/direaUNa/fancymenu_forge_2.14.3_MC_1.16.2-1.16.5.jar",
+					"version": "direaUNa"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/eqyLMn2Z/fancymenu_forge_2.14.3_MC_1.12-1.12.2.jar",
+					"version": "eqyLMn2Z"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/MyATYwCN/fancymenu_fabric_2.14.3_MC_1.19.4.jar",
+					"version": "MyATYwCN"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/E5BFcrFX/fancymenu_fabric_2.14.3_MC_1.19.3.jar",
+					"version": "E5BFcrFX"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/v0Bptzq4/fancymenu_fabric_2.14.3_MC_1.19-1.19.2.jar",
+					"version": "v0Bptzq4"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/PPVEM3UW/fancymenu_fabric_2.14.3_MC_1.18.2.jar",
+					"version": "PPVEM3UW"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/TYW03bnb/fancymenu_fabric_2.14.2_MC_1.19.4.jar",
+					"version": "TYW03bnb"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ZCTR40D4/fancymenu_fabric_2.14.2_MC_1.19.3.jar",
+					"version": "ZCTR40D4"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/LbjlNn6Z/fancymenu_fabric_2.14.2_MC_1.19-1.19.2.jar",
+					"version": "LbjlNn6Z"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/GGYTxjpV/fancymenu_fabric_2.14.2_MC_1.18.2.jar",
+					"version": "GGYTxjpV"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/PQIcNDRM/fancymenu_forge_2.14.2_MC_1.19.4.jar",
+					"version": "PQIcNDRM"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/5RzL19lX/fancymenu_forge_2.14.2_MC_1.19.3.jar",
+					"version": "5RzL19lX"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/9hBhneqc/fancymenu_forge_2.14.2_MC_1.19-1.19.2.jar",
+					"version": "9hBhneqc"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/BGZ2ufAy/fancymenu_forge_2.14.2_MC_1.18.2.jar",
+					"version": "BGZ2ufAy"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/hSY4qz3c/fancymenu_forge_2.14.2_MC_1.16.2-1.16.5.jar",
+					"version": "hSY4qz3c"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/WsFJCaGy/fancymenu_forge_2.14.2_MC_1.12-1.12.2.jar",
+					"version": "WsFJCaGy"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/TJNKXnwP/fancymenu_fabric_2.14.1-2_MC_1.19.4.jar",
+					"version": "TJNKXnwP"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/UuzUj3ap/fancymenu_forge_2.14.1-2_MC_1.19.4.jar",
+					"version": "UuzUj3ap"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gqtdZjgM/fancymenu_forge_2.14.1-1_MC_1.19.4.jar",
+					"version": "gqtdZjgM"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/LF3ECJQA/fancymenu_fabric_2.14.1-1_MC_1.19.4.jar",
+					"version": "LF3ECJQA"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/HC0ZG6HF/fancymenu_fabric_2.14.1_MC_1.19.4.jar",
+					"version": "HC0ZG6HF"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/2H4R8qCe/fancymenu_fabric_2.14.1_MC_1.19.3.jar",
+					"version": "2H4R8qCe"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/9eiReGiv/fancymenu_fabric_2.14.1_MC_1.19-1.19.2.jar",
+					"version": "9eiReGiv"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/dDZAf1bU/fancymenu_fabric_2.14.1_MC_1.18.2.jar",
+					"version": "dDZAf1bU"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/UtEVNNuw/fancymenu_forge_2.14.1_MC_1.19.4.jar",
+					"version": "UtEVNNuw"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/5ORrkJ3k/fancymenu_forge_2.14.1_MC_1.19.3.jar",
+					"version": "5ORrkJ3k"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/j1p4DORe/fancymenu_forge_2.14.1_MC_1.19-1.19.2.jar",
+					"version": "j1p4DORe"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gsKnkPwx/fancymenu_forge_2.14.1_MC_1.18.2.jar",
+					"version": "gsKnkPwx"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ZHmQAHEQ/fancymenu_forge_2.14.1_MC_1.16.2-1.16.5.jar",
+					"version": "ZHmQAHEQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/nFcSKvKd/fancymenu_forge_2.14.1_MC_1.12-1.12.2.jar",
+					"version": "nFcSKvKd"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/QPED9dnF/fancymenu_forge_2.14.0_MC_1.19.4.jar",
+					"version": "QPED9dnF"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zpFNdJA0/fancymenu_forge_2.14.0_MC_1.19.3.jar",
+					"version": "zpFNdJA0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EcTg8dOe/fancymenu_forge_2.14.0_MC_1.19-1.19.2.jar",
+					"version": "EcTg8dOe"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/aldPqpJx/fancymenu_forge_2.14.0_MC_1.18.2.jar",
+					"version": "aldPqpJx"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/po8V3mpP/fancymenu_forge_2.14.0_MC_1.16.2-1.16.5.jar",
+					"version": "po8V3mpP"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Njtugw90/fancymenu_forge_2.14.0_MC_1.12-1.12.2.jar",
+					"version": "Njtugw90"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/YxTxEfS4/fancymenu_fabric_2.14.0_MC_1.19.4.jar",
+					"version": "YxTxEfS4"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/6fahLTI2/fancymenu_fabric_2.14.0_MC_1.19.3.jar",
+					"version": "6fahLTI2"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/FTskAcBU/fancymenu_fabric_2.14.0_MC_1.19-1.19.2.jar",
+					"version": "FTskAcBU"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EUnM66ND/fancymenu_fabric_2.14.0_MC_1.18.2.jar",
+					"version": "EUnM66ND"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/tJi2x2yi/fancymenu_fabric_2.13.3-3_MC_1.19.4.jar",
+					"version": "tJi2x2yi"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/XrqH9zZz/fancymenu_fabric_2.13.3-3_MC_1.19.4.jar",
+					"version": "XrqH9zZz"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/DA82uR4a/fancymenu_forge_2.13.3-3_MC_1.19.4.jar",
+					"version": "DA82uR4a"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/QsmigEls/fancymenu_fabric_2.13.3_MC_1.19.4.jar",
+					"version": "QsmigEls"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/MT8V75nt/fancymenu_forge_2.13.3_MC_1.19.4.jar",
+					"version": "MT8V75nt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/N8x4e1OM/fancymenu_forge_2.13.3-2_MC_1.18.2.jar",
+					"version": "N8x4e1OM"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jMZXVlP6/fancymenu_forge_2.13.3-2_MC_1.19.3.jar",
+					"version": "jMZXVlP6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/BnA1mkKK/fancymenu_forge_2.13.3-2_MC_1.19-1.19.2.jar",
+					"version": "BnA1mkKK"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jMKBUV4q/fancymenu_forge_2.13.3-1_MC_1.19-1.19.2.jar",
+					"version": "jMKBUV4q"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/RBBrAPYE/fancymenu_forge_2.13.3-1_MC_1.18.2.jar",
+					"version": "RBBrAPYE"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/D2g9nnjL/fancymenu_forge_2.13.3_MC_1.19.3.jar",
+					"version": "D2g9nnjL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/3JLsHAVd/fancymenu_forge_2.13.3_MC_1.19-1.19.2.jar",
+					"version": "3JLsHAVd"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/dIbSYezh/fancymenu_forge_2.13.3_MC_1.18.2.jar",
+					"version": "dIbSYezh"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EYWCT1vH/fancymenu_forge_2.13.3_MC_1.16.2-1.16.5.jar",
+					"version": "EYWCT1vH"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/ztRTnR9t/fancymenu_forge_2.13.3_MC_1.12-1.12.2.jar",
+					"version": "ztRTnR9t"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/RvLufEqq/fancymenu_fabric_2.13.3_MC_1.19.3.jar",
+					"version": "RvLufEqq"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/e7O4e1IX/fancymenu_fabric_2.13.3_MC_1.19-1.19.2.jar",
+					"version": "e7O4e1IX"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/pp8Z0oZo/fancymenu_fabric_2.13.3_MC_1.18.2.jar",
+					"version": "pp8Z0oZo"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/dakpIPYB/fancymenu_forge_2.13.2_MC_1.19.3.jar",
+					"version": "dakpIPYB"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/cpYnidxg/fancymenu_forge_2.13.2_MC_1.19-1.19.2.jar",
+					"version": "cpYnidxg"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/kEbjNfee/fancymenu_forge_2.13.2_MC_1.18.2.jar",
+					"version": "kEbjNfee"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/jXdie4fj/fancymenu_forge_2.13.2_MC_1.16.2-1.16.5.jar",
+					"version": "jXdie4fj"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/zM93Gur1/fancymenu_forge_2.13.2_MC_1.12-1.12.2.jar",
+					"version": "zM93Gur1"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/CMyh90qB/fancymenu_fabric_2.13.2_MC_1.19.3.jar",
+					"version": "CMyh90qB"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/BLzreHRI/fancymenu_fabric_2.13.2_MC_1.19-1.19.2.jar",
+					"version": "BLzreHRI"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/VZ1wpRmY/fancymenu_fabric_2.13.2_MC_1.18.2.jar",
+					"version": "VZ1wpRmY"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/i7PptwHV/fancymenu_fabric_2.13.1-1_MC_1.19.3.jar",
+					"version": "i7PptwHV"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/rDfizW1Z/fancymenu_forge_2.13.1-1_MC_1.19.3.jar",
+					"version": "rDfizW1Z"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/sBvH19kE/fancymenu_forge_2.13.1_MC_1.19-1.19.2.jar",
+					"version": "sBvH19kE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/aXonyvhY/fancymenu_forge_2.13.1_MC_1.18.2.jar",
+					"version": "aXonyvhY"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/uk8sh4WN/fancymenu_forge_2.13.1_MC_1.16.2-1.16.5.jar",
+					"version": "uk8sh4WN"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/iGQQ7jIE/fancymenu_forge_2.13.1_MC_1.12-1.12.2.jar",
+					"version": "iGQQ7jIE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/itxz1gh8/fancymenu_fabric_2.13.1_MC_1.19-1.19.2.jar",
+					"version": "itxz1gh8"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/QJ5T7rVS/fancymenu_fabric_2.13.1_MC_1.18.2.jar",
+					"version": "QJ5T7rVS"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/IuhhSnKu/fancymenu_forge_2.13.1_MC_1.19.3.jar",
+					"version": "IuhhSnKu"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/yzpMzdhq/fancymenu_fabric_2.13.1_MC_1.19.3.jar",
+					"version": "yzpMzdhq"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/9VrdnRpu/fancymenu_forge_2.13.0_MC_1.19-1.19.2.jar",
+					"version": "9VrdnRpu"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/7qmRHPgj/fancymenu_forge_2.13.0_MC_1.18.2.jar",
+					"version": "7qmRHPgj"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/bwE1eH85/fancymenu_forge_2.13.0_MC_1.16.2-1.16.5.jar",
+					"version": "bwE1eH85"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/aNkOGStm/fancymenu_forge_2.13.0_MC_1.12-1.12.2.jar",
+					"version": "aNkOGStm"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/Ft3FBJGm/fancymenu_fabric_2.13.0_MC_1.19-1.19.2.jar",
+					"version": "Ft3FBJGm"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/aedZzF9u/fancymenu_fabric_2.13.0_MC_1.18.2.jar",
+					"version": "aedZzF9u"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/EUgXpARN/fancymenu_fabric_2.12.9_MC_1.19-1.19.2.jar",
+					"version": "EUgXpARN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"konkrete"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/TuHHv9KT/fancymenu_fabric_2.12.9_MC_1.18.2.jar",
+					"version": "TuHHv9KT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gpbRABOz/fancymenu_forge_2.12.9_MC_1.19-1.19.2.jar",
+					"version": "gpbRABOz"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/YFqkqHgX/fancymenu_forge_2.12.9_MC_1.18.2.jar",
+					"version": "YFqkqHgX"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "konkrete",
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/s3QAe6wC/fancymenu_forge_2.12.9_MC_1.16.2-1.16.5.jar",
+					"version": "s3QAe6wC"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"konkrete",
+							"mixin-bootstrap"
+						],
+						"recommendations": {
+							"value": "load-my-resources"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/C5a37yo2/fancymenu_forge_2.12.9_MC_1.12-1.12.2.jar",
+					"version": "C5a37yo2"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"keksuccino"
+		],
+		"community": "https://discord.gg/rhayah27GC",
+		"description": "Customize Minecraft's menus with ease!",
+		"documentation": "https://docs.fancymenu.net",
+		"gallery": [
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/2fe5fc8ef216530012f37f48cdcdd361f7f609ff.png",
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/41b10be0a7d8055f48dd9c5223afc075f00ee6bb.png",
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/512172459d2fec89b03f09283a62b4052c3db3a6.png",
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/685c8d85e48962ad577dbf0a2dc947fd510c2738.png",
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/6918602715e04af28d310d27191c41b637e739b3.png",
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/be9f8a72a17fd6623b50f7727971a229ba95ef1b.png",
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/cd0fb62d4cc97f3fbf4881d628cc57ae53130657.png",
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/b3a0e0d68a5f777c04c9c2f48c3a47ba45be6011.png",
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/51a36bb4e24ec934cf1c9ca4b58ff090523ad95b.png",
+			"https://cdn.modrinth.com/data/Wq5SjeWM/images/9a2cd7a3306c2998d312f2b03bc77ec1619b7a26.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/Wq5SjeWM/7e921c938bffdfbad39f7f4ab5a4db227a418ac1.png",
+		"issues": "https://github.com/Keksuccino/FancyMenu/issues",
+		"license": "LicenseRef-DSMSLv2",
+		"long_description": "<a href=\"https://discord.gg/rhayah27GC\"><img src=\"https://img.shields.io/discord/704163135787106365?style=flat&label=Discord&labelColor=%234260f5&color=%2382aeff\" /></a> <a href=\"https://paypal.me/TimSchroeter\"><img src=\"https://img.shields.io/badge/Donate%20via%20PayPal-%233d91ff?style=flat\" /></a> <a href=\"https://www.patreon.com/keksuccino\"><img src=\"https://img.shields.io/badge/Support%20me%20on%20Patreon-%23ff9b3d?style=flat\" /></a>\n\n<br>\n\n<img src=\"https://gist.github.com/assets/35544624/5ad657ab-fe19-485b-a753-737c232e4596\" /><br>\n\nFancyMenu allows you to personalize Minecraft's menus in a user-friendly way. Whether you're striving for a modern and simple style or looking to integrate advanced features such as animated or dynamic elements into your menus, FancyMenu equips you with the right tools to bring your vision to reality!\n\nTo explore FancyMenu's features and unlock its full potential, check out the official [documentation](https://docs.fancymenu.net). It walks you through everything, from the basics to advanced customization, making sure both new and experienced users can make the most of FancyMenu.\n\nFor support, tips, and to connect with other users, join the official [Discord server](https://discord.gg/rhayah27GC).\n\nIf you experience crashes or other issues, please check the [incompatibility list](https://docs.fancymenu.net/en/incompatibility-list) for mod conflicts!\n\n# What it Offers\n\n- **Visual Customization**: FancyMenu empowers users to visually customize their Minecraft menus, allowing for unique and personalized in-game interfaces.\n- **Built-in Editor**: FancyMenu features a user-friendly editor, allowing both beginners and experienced users to easily tweak layouts and customize menus.\n- **Client-Side Mod**: FancyMenu can be used as pure client-side mod without the need to install it server-side.\n- **Server-Side Features**: FancyMenu can be installed as optional server-side mod, enabling admins to remotely open GUIs for users with FancyMenu installed client-side.\n- **Animated Images**: FancyMenu supports animated image formats like GIF and APNG that will breathe life into your menus.\n- **Dynamic Menu Designs**: Advanced users can utilize features like conditional statements (aka. loading requirements), variables, and placeholders for complex and dynamic menu designs.\n- **Continuous Updates**: FancyMenu is actively maintained, with regular updates introducing new features and improvements. FancyMenu is always available for the latest Minecraft versions, so you can always make use of Minecraft's newest features without sacrificing your beautiful menus.\n\n<br>\n\n<img src=\"https://s13.gifyu.com/images/S015M.gif\" /><br>\n[See how this menu was made](https://youtu.be/hX0JEhFNLNY)\n\n# Copyright\n\nFancyMenu Copyright © 2020-2024 Keksuccino.<br>\nFancyMenu is licensed under DSMSLv2 (DON'T SNATCH MA STUFF LICENSE V2.0).<br>\nSee [LICENSE.md](https://github.com/Keksuccino/FancyMenu/blob/master/LICENSE.md) for more information about the license.\n\nJapng © Copyright A. Ellerton.<br>\nJapng is licensed under Apache-2.0.\n\n# Server Needed?\n\nLooking to play Minecraft with friends but setting up a server is just too time-consuming?<br>\nNo worries! Simply rent a pre-configured server and start playing _in a snap_.\n\nJust click the image below and use code **keksuccino** to enjoy a **25% discount** on your first month!\n\n<br>\n\n<a href=\"https://bisecthosting.com/keksuccino\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/f5dd9194-01d8-4ce3-9b6a-a85327d975b1.png\" /></a>",
+		"name": "FancyMenu",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Keksuccino/FancyMenu",
+		"support_link": "https://www.patreon.com/keksuccino"
+	},
+	"properties": {
+		"modrinth_id": "Wq5SjeWM",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.12",
+			"1.12.1",
+			"1.12.2",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

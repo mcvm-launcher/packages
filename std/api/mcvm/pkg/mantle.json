@@ -1,0 +1,118 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/eCSbC9qK/Mantle-1.18.2-1.9.43.jar",
+					"version": "eCSbC9qK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/AliG8wlL/Mantle-1.19.2-1.10.36.jar",
+					"version": "AliG8wlL"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/aaSxlRBR/Mantle-1.19.2-1.10.24.jar",
+					"version": "aaSxlRBR"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/cDOlS1Ky/Mantle-1.19.2-1.10.23.jar",
+					"version": "cDOlS1Ky"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/VQOMbHEV/Mantle-1.18.2-1.9.50.jar",
+					"version": "VQOMbHEV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/jFlLXDyR/Mantle-1.18.2-1.9.45.jar",
+					"version": "jFlLXDyR"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/QIPKIINd/Mantle-1.7.10-0.3.2b.jar",
+					"version": "QIPKIINd"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/XPQUzjYi/Mantle-1.12-1.3.3.55.jar",
+					"version": "XPQUzjYi"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/OyiVX48M/Mantle-1.16.5-1.6.157.jar",
+					"version": "OyiVX48M"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/zVYAkvYQ/Mantle-1.18.2-1.9.31.jar",
+					"version": "zVYAkvYQ"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"KnightMiner",
+			"alexbegt",
+			"fuj1n",
+			"mDiyo",
+			"progwml6"
+		],
+		"community": "https://discord.gg/njGrvuh",
+		"description": "Base library required for SlimeKnights mods, including Tinkers' Construct, Natura, Inspirations, and Cermaics",
+		"documentation": "https://github.com/SlimeKnights/Mantle/wiki",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/Cg6Uc79H/77b9acc494b0d91e218939a1c14e37ae3c1b4db9.png",
+		"issues": "https://github.com/SlimeKnights/Mantle/issues",
+		"license": "MIT",
+		"long_description": "\n![Logo](https://raw.githubusercontent.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png)\n\nThis contains shared code for Forge mods and is used by the SlimeKnights such as Tinkers' Construct, Natura, Tinkers' Mechworks, Inspirations, and Ceramics. Descriptive book code, common inventories, and JSON parsing utilities are here.\n\n\nWhy? For science and slime, why else?\nSource code can be found [on github](https://github.com/SlimeKnights/Mantle).\n\n \nAlso adds a reworked hearts display with overlaid colored hearts, instead of rows over rows of stacked hearts. The different colors only appear if you have a way to increase your max health, regular hearts are unchanged. This can be disabled in the client config file if you wish.\n\n----\n\nThis project currently has builds for 1.18.2+ along with 1.7.10, 1.12.2, and 1.16.5. If you are using a Minecraft version other than that which has a Mantle release, make a request on our discord and I will upload the older build.",
+		"name": "Mantle",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/SlimeKnights/Mantle"
+	},
+	"properties": {
+		"modrinth_id": "Cg6Uc79H",
+		"supported_modloaders": [
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.7.10",
+			"1.12.2",
+			"1.16.5",
+			"1.18.2",
+			"1.19.2"
+		]
+	}
+}

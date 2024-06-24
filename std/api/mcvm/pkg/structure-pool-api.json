@@ -1,0 +1,48 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LrYZi08Q/versions/Syp6lSTL/structure_pool_api-1.0%2B1.20.1.jar",
+					"version": "Syp6lSTL"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"ZsoltMolnarrr"
+		],
+		"description": "📚 API to inject structures into structure pools.",
+		"documentation": "https://github.com/FabricExtras/StructurePoolAPI",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/LrYZi08Q/5b92cd37437a7497bccb63620bb89187de6fbcdd.png",
+		"issues": "https://github.com/FabricExtras/StructurePoolAPI/Issues",
+		"license": "MIT",
+		"long_description": "Structure Pool API\n================\n\nCan be used to inject structures into structure pools. Popular example:\n- Adding custom village structures to villages\n\nAdditional features:\n- Maximize spawn count of the injected structure (e.g. 2 per village)\n\nRead all technical details in the GitHub readme.",
+		"name": "Structure Pool API",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/FabricExtras/StructurePoolAPI"
+	},
+	"properties": {
+		"modrinth_id": "LrYZi08Q",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.20.1"
+		]
+	},
+	"relations": {
+		"dependencies": "fabriclike-api"
+	}
+}

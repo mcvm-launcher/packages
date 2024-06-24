@@ -1,0 +1,114 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"structure-pool-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/7OXOb67d/gazebo-1.1.1%2B1.20.1.jar",
+					"version": "7OXOb67d"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"structure-pool-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/DG1rAX5v/gazebo-1.1.0%2B1.20.1.jar",
+					"version": "DG1rAX5v"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"spell-engine"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/sdLRR99K/gazebo-fabric-1.0.2%2B1.20.1.jar",
+					"version": "sdLRR99K"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"spell-engine"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/7msgkeH4/gazebo-fabric-1.0.1%2B1.20.1.jar",
+					"version": "7msgkeH4"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"spell-engine"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/KWKgiB4F/gazebo-fabric-1.0.0%2B1.19.2.jar",
+					"version": "KWKgiB4F"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"ZsoltMolnarrr"
+		],
+		"banner": "https://cdn.modrinth.com/data/XIpMGI6r/images/7f2bfa1fa65bc88a886a48c791ad92d9bdf735ef.jpeg",
+		"community": "https://discord.gg/KN9b3pjFTM",
+		"description": "⛲️ Village structures hosting small spell libraries",
+		"gallery": [
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/278d8c941af6dc763cf714b9f36f8b8366a60eb9.png",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/3f19359bfd7521ba17bec818f125e87e09ef277e.png",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/747102d582732b8defa50a2c925c7d5a6f87d009.png",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/7f2bfa1fa65bc88a886a48c791ad92d9bdf735ef.jpeg",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/a7da965aa108daf95c10448c01423be49ce2338d.png",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/cd19a95a79f1157b33f31818aa615a280b206912.png",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/fddc777f0d28eea856016f0705de63050de8b0f0.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/XIpMGI6r/1ed69629d4295c976ae21ca1355f104d58e58924.png",
+		"issues": "https://github.com/ZsoltMolnarrr/Gazebo/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "![Gazebos title](https://cdn.modrinth.com/data/XIpMGI6r/images/fddc777f0d28eea856016f0705de63050de8b0f0.png \"\")\n\n## ⛲️ Find gazebos in villages, hosting small spell libraries.\n\n[![Modloader](https://img.shields.io/badge/Loader-Fabric-ecebe6?labelColor=263768&style=for-the-badge)](https://fabricmc.net)\n[![Discord](https://img.shields.io/discord/973561601519149057.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/KN9b3pjFTM)\n\n## ✨ Discover more of the RPG Series\n\n[![Archers](https://cdn.modrinth.com/data/XIpMGI6r/images/cd19a95a79f1157b33f31818aa615a280b206912.png \"Archers\")](https://modrinth.com/mod/archers \"\")\n[![Paladins](https://cdn.modrinth.com/data/XIpMGI6r/images/3f19359bfd7521ba17bec818f125e87e09ef277e.png \"Paladins\")](https://modrinth.com/mod/paladins-and-priests \"\")\n[![Wizards](https://cdn.modrinth.com/data/XIpMGI6r/images/a7da965aa108daf95c10448c01423be49ce2338d.png \"Wizards\")](https://modrinth.com/mod/wizards \"\")\n[![Jewelry](https://cdn.modrinth.com/data/XIpMGI6r/images/747102d582732b8defa50a2c925c7d5a6f87d009.png \"Jewelry\")](https://modrinth.com/mod/jewelry \"\")\n[![Rogues](https://cdn.modrinth.com/data/XIpMGI6r/images/278d8c941af6dc763cf714b9f36f8b8366a60eb9.png \"Rogues\")](https://modrinth.com/mod/rogues-and-warriors \"\")\n\n# 📦 Installation\n\n### Required\n\n- [Spell Engine](https://modrinth.com/mod/spell-engine \"\")\n \n\n# ⛲️ Features\n \nAdds new structures into villages, containing Spell Binding Table, so you may find a faster way to obtain Spell Books.\n\nGazebos commonly spawn in villages, this can be configured in `config/gazebo/villages.json`.\n\nGazebo variants:\n\n- Desert\n\n- Plains\n\n- Savanna\n\n- Snowy\n\n- Taiga\n\n\n![Gazebo variants](https://cdn.modrinth.com/data/XIpMGI6r/images/7f2bfa1fa65bc88a886a48c791ad92d9bdf735ef.jpeg \"\")",
+		"name": "Gazebos (RPG Series)",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/ZsoltMolnarrr/Gazebo",
+		"support_link": "https://github.com/sponsors/ZsoltMolnarrr"
+	},
+	"properties": {
+		"modrinth_id": "XIpMGI6r",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.20.1"
+		]
+	}
+}

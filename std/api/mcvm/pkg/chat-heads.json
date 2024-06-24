@@ -1,0 +1,3130 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/MDUirBpI/chat_heads-0.12.3-neoforge-1.21.jar",
+					"version": "MDUirBpI"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Ew98r6cc/chat_heads-0.12.3-fabric-1.21.jar",
+					"version": "Ew98r6cc"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/bKinUmIu/chat_heads-0.12.3-fabric-1.20.6.jar",
+					"version": "bKinUmIu"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/zsKMsX4H/chat_heads-0.12.3-neoforge-1.20.6.jar",
+					"version": "zsKMsX4H"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/LSEyOjHI/chat_heads-0.12.3-fabric-1.20.3.jar",
+					"version": "LSEyOjHI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/yCcKZGTH/chat_heads-0.12.3-neoforge-1.20.3.jar",
+					"version": "yCcKZGTH"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9n0iMRrT/chat_heads-0.12.3-forge-1.20.3.jar",
+					"version": "9n0iMRrT"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/SEpJQgWq/chat_heads-0.12.3-fabric-1.20.2.jar",
+					"version": "SEpJQgWq"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/T27yv9xv/chat_heads-0.12.3-neoforge-1.20.2.jar",
+					"version": "T27yv9xv"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/6b0lLizN/chat_heads-0.12.3-forge-1.20.2.jar",
+					"version": "6b0lLizN"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9bUhbcJb/chat_heads-0.12.3-fabric-1.20.jar",
+					"version": "9bUhbcJb"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/RdqwbuyP/chat_heads-0.12.3-forge-1.20.jar",
+					"version": "RdqwbuyP"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/RBeERR7A/chat_heads-0.12.3-fabric-1.19.4.jar",
+					"version": "RBeERR7A"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/kQDB9xkd/chat_heads-0.12.3-forge-1.19.4.jar",
+					"version": "kQDB9xkd"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/QfkC77XK/chat_heads-0.12.3-fabric-1.19.2.jar",
+					"version": "QfkC77XK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/XBdVDv5q/chat_heads-0.12.3-forge-1.19.2.jar",
+					"version": "XBdVDv5q"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/EkypjVmf/chat_heads-0.12.2-fabric-1.20.6.jar",
+					"version": "EkypjVmf"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/jdXkDBCF/chat_heads-0.12.2-neoforge-1.20.6.jar",
+					"version": "jdXkDBCF"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/4KgMjBc7/chat_heads-0.12.2-fabric-1.20.3.jar",
+					"version": "4KgMjBc7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/NmUsvYiC/chat_heads-0.12.2-neoforge-1.20.3.jar",
+					"version": "NmUsvYiC"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/fiVmBf03/chat_heads-0.12.2-forge-1.20.3.jar",
+					"version": "fiVmBf03"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/4IvTK9cb/chat_heads-0.12.2-fabric-1.20.2.jar",
+					"version": "4IvTK9cb"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/BaFHV2K2/chat_heads-0.12.2-neoforge-1.20.2.jar",
+					"version": "BaFHV2K2"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/nTLOKV9n/chat_heads-0.12.2-forge-1.20.2.jar",
+					"version": "nTLOKV9n"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/JY2IAuhd/chat_heads-0.12.2-fabric-1.20.jar",
+					"version": "JY2IAuhd"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/atewFBnz/chat_heads-0.12.2-forge-1.20.jar",
+					"version": "atewFBnz"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/3EV2S7eA/chat_heads-0.12.2-fabric-1.19.4.jar",
+					"version": "3EV2S7eA"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/jUVztuJ8/chat_heads-0.12.2-forge-1.19.4.jar",
+					"version": "jUVztuJ8"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/PPgMN44r/chat_heads-0.12.2-fabric-1.19.2.jar",
+					"version": "PPgMN44r"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FpbEmSIH/chat_heads-0.12.2-forge-1.19.2.jar",
+					"version": "FpbEmSIH"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/T8qFnSFC/chat_heads-0.12.1-fabric-1.20.6.jar",
+					"version": "T8qFnSFC"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ciny8Xv6/chat_heads-0.12.1-neoforge-1.20.6.jar",
+					"version": "ciny8Xv6"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/UiQizmyU/chat_heads-0.12.1-fabric-1.20.3.jar",
+					"version": "UiQizmyU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ic2EaKTP/chat_heads-0.12.1-neoforge-1.20.3.jar",
+					"version": "ic2EaKTP"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/GGFn7vGy/chat_heads-0.12.1-forge-1.20.3.jar",
+					"version": "GGFn7vGy"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ovqqKeJq/chat_heads-0.12.1-fabric-1.20.2.jar",
+					"version": "ovqqKeJq"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/E5yDxCpt/chat_heads-0.12.1-neoforge-1.20.2.jar",
+					"version": "E5yDxCpt"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/1mn5Z4fq/chat_heads-0.12.1-forge-1.20.2.jar",
+					"version": "1mn5Z4fq"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/aKiCKN4U/chat_heads-0.12.1-fabric-1.20.jar",
+					"version": "aKiCKN4U"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/wdL9rsnh/chat_heads-0.12.1-forge-1.20.jar",
+					"version": "wdL9rsnh"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Z38F22hs/chat_heads-0.12.1-fabric-1.19.4.jar",
+					"version": "Z38F22hs"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/G6cWAKwz/chat_heads-0.12.1-forge-1.19.4.jar",
+					"version": "G6cWAKwz"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/r4oVDxV4/chat_heads-0.12.1-fabric-1.19.2.jar",
+					"version": "r4oVDxV4"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8yZ52y98/chat_heads-0.12.1-forge-1.19.2.jar",
+					"version": "8yZ52y98"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/5acCYDfS/chat_heads-0.12.0-fabric-1.20.5.jar",
+					"version": "5acCYDfS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/DCQuzApL/chat_heads-0.12.0-neoforge-1.20.5.jar",
+					"version": "DCQuzApL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/e4XWJ2pL/chat_heads-0.12.0-fabric-1.20.3.jar",
+					"version": "e4XWJ2pL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/nvnIIS3R/chat_heads-0.12.0-neoforge-1.20.3.jar",
+					"version": "nvnIIS3R"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/BpvsduVN/chat_heads-0.12.0-forge-1.20.3.jar",
+					"version": "BpvsduVN"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/aOz47laH/chat_heads-0.12.0-fabric-1.20.2.jar",
+					"version": "aOz47laH"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/tENTWVzg/chat_heads-0.12.0-neoforge-1.20.2.jar",
+					"version": "tENTWVzg"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/BHgbWEIv/chat_heads-0.12.0-forge-1.20.2.jar",
+					"version": "BHgbWEIv"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/2n4DL7xL/chat_heads-0.12.0-fabric-1.20.jar",
+					"version": "2n4DL7xL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/zrQwy2Ad/chat_heads-0.12.0-forge-1.20.jar",
+					"version": "zrQwy2Ad"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/JribIVs4/chat_heads-0.12.0-fabric-1.19.4.jar",
+					"version": "JribIVs4"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/KgF2anmZ/chat_heads-0.12.0-forge-1.19.4.jar",
+					"version": "KgF2anmZ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/fBxEQjSx/chat_heads-0.12.0-fabric-1.19.2.jar",
+					"version": "fBxEQjSx"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/139J5E6b/chat_heads-0.12.0-forge-1.19.2.jar",
+					"version": "139J5E6b"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/EnSfP3Su/chat_heads-0.10.33-forge-1.20.jar",
+					"version": "EnSfP3Su"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/RpWe7GEI/chat_heads-0.11.0-fabric-1.20.5.jar",
+					"version": "RpWe7GEI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/EDR6FW6w/chat_heads-0.11.0-neoforge-1.20.5.jar",
+					"version": "EDR6FW6w"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Hl6rexqr/chat_heads-0.10.32-fabric-1.20.3.jar",
+					"version": "Hl6rexqr"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/eII2uyye/chat_heads-0.10.32-neoforge-1.20.3.jar",
+					"version": "eII2uyye"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/kAgPVErb/chat_heads-0.10.32-forge-1.20.3.jar",
+					"version": "kAgPVErb"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/j704slUH/chat_heads-0.10.32-fabric-1.20.2.jar",
+					"version": "j704slUH"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/KDC8butY/chat_heads-0.10.32-neoforge-1.20.2.jar",
+					"version": "KDC8butY"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/2HN02fKI/chat_heads-0.10.32-forge-1.20.2.jar",
+					"version": "2HN02fKI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/4K8eZZjm/chat_heads-0.10.32-fabric-1.20.jar",
+					"version": "4K8eZZjm"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/xSjLtVeN/chat_heads-0.10.32-forge-1.20.jar",
+					"version": "xSjLtVeN"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/LZ3Cx717/chat_heads-0.10.32-fabric-1.19.4.jar",
+					"version": "LZ3Cx717"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/pXurKJfy/chat_heads-0.10.32-forge-1.19.4.jar",
+					"version": "pXurKJfy"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/XphnAL9J/chat_heads-0.10.32-fabric-1.19.2.jar",
+					"version": "XphnAL9J"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/RFqCEHw0/chat_heads-0.10.32-forge-1.19.2.jar",
+					"version": "RFqCEHw0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/gqvNiLkw/chat_heads-0.10.31-fabric-1.20.3.jar",
+					"version": "gqvNiLkw"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/zVkxFhPj/chat_heads-0.10.31-neoforge-1.20.3.jar",
+					"version": "zVkxFhPj"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/3yREs3Wc/chat_heads-0.10.31-forge-1.20.3.jar",
+					"version": "3yREs3Wc"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/oICpkGva/chat_heads-0.10.31-fabric-1.20.2.jar",
+					"version": "oICpkGva"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FRpg633G/chat_heads-0.10.31-neoforge-1.20.2.jar",
+					"version": "FRpg633G"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/n3E5Tevy/chat_heads-0.10.31-forge-1.20.2.jar",
+					"version": "n3E5Tevy"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/68f3pu0P/chat_heads-0.10.31-fabric-1.20.jar",
+					"version": "68f3pu0P"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/deaNrlMj/chat_heads-0.10.31-forge-1.20.jar",
+					"version": "deaNrlMj"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Fh6ew7m6/chat_heads-0.10.31-fabric-1.19.4.jar",
+					"version": "Fh6ew7m6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9UZjEZmX/chat_heads-0.10.31-forge-1.19.4.jar",
+					"version": "9UZjEZmX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/2BnSJNdp/chat_heads-0.10.31-fabric-1.19.2.jar",
+					"version": "2BnSJNdp"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AjXuuRyv/chat_heads-0.10.31-forge-1.19.2.jar",
+					"version": "AjXuuRyv"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ph4OkkJu/chat_heads-0.10.30-fabric-1.20.3.jar",
+					"version": "ph4OkkJu"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ZXiLr3t2/chat_heads-0.10.30-neoforge-1.20.3.jar",
+					"version": "ZXiLr3t2"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/wZqev5i5/chat_heads-0.10.30-forge-1.20.3.jar",
+					"version": "wZqev5i5"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/wRDewXKr/chat_heads-0.10.30-fabric-1.20.2.jar",
+					"version": "wRDewXKr"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/tYa3zCkJ/chat_heads-0.10.30-neoforge-1.20.2.jar",
+					"version": "tYa3zCkJ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/37eP6ajJ/chat_heads-0.10.30-forge-1.20.2.jar",
+					"version": "37eP6ajJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/N6Cgb8gp/chat_heads-0.10.30-fabric-1.20.jar",
+					"version": "N6Cgb8gp"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/TKVhsCBf/chat_heads-0.10.30-forge-1.20.jar",
+					"version": "TKVhsCBf"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/562C3DjL/chat_heads-0.10.30-fabric-1.19.4.jar",
+					"version": "562C3DjL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/eMYZaK6v/chat_heads-0.10.30-forge-1.19.4.jar",
+					"version": "eMYZaK6v"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/MMhgnLXW/chat_heads-0.10.30-fabric-1.19.2.jar",
+					"version": "MMhgnLXW"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/w5W4nVvC/chat_heads-0.10.30-forge-1.19.2.jar",
+					"version": "w5W4nVvC"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/fmJiltmM/chat_heads-0.10.29-fabric-1.20.3.jar",
+					"version": "fmJiltmM"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/53qj2pqh/chat_heads-0.10.29-neoforge-1.20.3.jar",
+					"version": "53qj2pqh"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/YDF93OKC/chat_heads-0.10.29-forge-1.20.3.jar",
+					"version": "YDF93OKC"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/4s1o79xy/chat_heads-0.10.29-fabric-1.20.2.jar",
+					"version": "4s1o79xy"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/LUoz2IWq/chat_heads-0.10.29-neoforge-1.20.2.jar",
+					"version": "LUoz2IWq"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/o10grqSi/chat_heads-0.10.29-forge-1.20.2.jar",
+					"version": "o10grqSi"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9IqFmlhj/chat_heads-0.10.29-fabric-1.20.jar",
+					"version": "9IqFmlhj"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FPZyljic/chat_heads-0.10.29-forge-1.20.jar",
+					"version": "FPZyljic"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/eoZrKyxF/chat_heads-0.10.29-fabric-1.19.4.jar",
+					"version": "eoZrKyxF"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/oxjPBXUb/chat_heads-0.10.29-forge-1.19.4.jar",
+					"version": "oxjPBXUb"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/47rvmBHp/chat_heads-0.10.29-fabric-1.19.2.jar",
+					"version": "47rvmBHp"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/nHbmznzK/chat_heads-0.10.29-forge-1.19.2.jar",
+					"version": "nHbmznzK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/mqddvGUN/chat_heads-0.10.28-forge-1.20.3.jar",
+					"version": "mqddvGUN"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/EazbQkN0/chat_heads-0.10.27-fabric-1.20.3.jar",
+					"version": "EazbQkN0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/CngObgWT/chat_heads-0.10.27-neoforge-1.20.3.jar",
+					"version": "CngObgWT"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/MEhhsivC/chat_heads-0.10.27-forge-1.20.3.jar",
+					"version": "MEhhsivC"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8RdZpyiz/chat_heads-0.10.27-fabric-1.20.2.jar",
+					"version": "8RdZpyiz"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/z5N2WIaj/chat_heads-0.10.27-neoforge-1.20.2.jar",
+					"version": "z5N2WIaj"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/XMEiOgAS/chat_heads-0.10.27-forge-1.20.2.jar",
+					"version": "XMEiOgAS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AKCvxmBw/chat_heads-0.10.27-fabric-1.20.jar",
+					"version": "AKCvxmBw"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/vG1diamy/chat_heads-0.10.27-forge-1.20.jar",
+					"version": "vG1diamy"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/tnjjDEwH/chat_heads-0.10.27-fabric-1.19.4.jar",
+					"version": "tnjjDEwH"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/EAdEp6Ya/chat_heads-0.10.27-forge-1.19.4.jar",
+					"version": "EAdEp6Ya"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/4ra4SfPK/chat_heads-0.10.27-fabric-1.19.2.jar",
+					"version": "4ra4SfPK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/r3PRTYbg/chat_heads-0.10.27-forge-1.19.2.jar",
+					"version": "r3PRTYbg"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FUT6SI3O/chat_heads-0.10.26-fabric-1.20.3.jar",
+					"version": "FUT6SI3O"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/KLuwIlLd/chat_heads-0.10.26-fabric-1.20.jar",
+					"version": "KLuwIlLd"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FfIpj9y8/chat_heads-0.10.25-fabric-1.20.2.jar",
+					"version": "FfIpj9y8"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/hflElD37/chat_heads-0.10.25-neoforge-1.20.2.jar",
+					"version": "hflElD37"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/QEwZSp8I/chat_heads-0.10.25-forge-1.20.2.jar",
+					"version": "QEwZSp8I"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/6RJM3SAN/chat_heads-0.10.25-fabric-1.20.jar",
+					"version": "6RJM3SAN"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/1c7jyPBb/chat_heads-0.10.25-forge-1.20.jar",
+					"version": "1c7jyPBb"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/xMipPAoG/chat_heads-0.10.25-fabric-1.19.4.jar",
+					"version": "xMipPAoG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/n0ByOfNL/chat_heads-0.10.25-forge-1.19.4.jar",
+					"version": "n0ByOfNL"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/TeKPIqgl/chat_heads-0.10.25-fabric-1.19.2.jar",
+					"version": "TeKPIqgl"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/wqYUWlBQ/chat_heads-0.10.25-forge-1.19.2.jar",
+					"version": "wqYUWlBQ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Dhdvwg6s/chat_heads-0.10.24-fabric-1.20.2.jar",
+					"version": "Dhdvwg6s"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/CsUSm5R8/chat_heads-0.10.24-forge-1.20.2.jar",
+					"version": "CsUSm5R8"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Yfce4Wjy/chat_heads-0.10.24-fabric-1.20.jar",
+					"version": "Yfce4Wjy"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/slMdExMI/chat_heads-0.10.24-forge-1.20.jar",
+					"version": "slMdExMI"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/BHF2eFjc/chat_heads-0.10.24-fabric-1.19.4.jar",
+					"version": "BHF2eFjc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/j4aYSuX2/chat_heads-0.10.24-forge-1.19.4.jar",
+					"version": "j4aYSuX2"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/yc0S0adf/chat_heads-0.10.24-fabric-1.19.2.jar",
+					"version": "yc0S0adf"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/me3mokF6/chat_heads-0.10.24-forge-1.19.2.jar",
+					"version": "me3mokF6"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FYmrvYVj/chat_heads-0.10.23-fabric-1.20.2.jar",
+					"version": "FYmrvYVj"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Bak2CeXR/chat_heads-0.10.23-forge-1.20.2.jar",
+					"version": "Bak2CeXR"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/hwFZUkOP/chat_heads-0.10.23-fabric-1.20.jar",
+					"version": "hwFZUkOP"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/lMFCNaYI/chat_heads-0.10.23-forge-1.20.jar",
+					"version": "lMFCNaYI"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/sZcUbqmN/chat_heads-0.10.23-fabric-1.19.4.jar",
+					"version": "sZcUbqmN"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Wj0weRh3/chat_heads-0.10.23-forge-1.19.4.jar",
+					"version": "Wj0weRh3"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/6BIyZCBg/chat_heads-0.10.23-fabric-1.19.2.jar",
+					"version": "6BIyZCBg"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FR2keWnK/chat_heads-0.10.23-forge-1.19.2.jar",
+					"version": "FR2keWnK"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/UKq8ujMV/chat_heads-0.10.22-fabric-1.20.2.jar",
+					"version": "UKq8ujMV"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/wM0H2fY5/chat_heads-0.10.22-forge-1.20.2.jar",
+					"version": "wM0H2fY5"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/gzgdiHby/chat_heads-0.10.22-fabric-1.20.jar",
+					"version": "gzgdiHby"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Lhwet5Ev/chat_heads-0.10.22-forge-1.20.jar",
+					"version": "Lhwet5Ev"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9izzSxQ0/chat_heads-0.10.22-fabric-1.19.4.jar",
+					"version": "9izzSxQ0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8AxwhTNq/chat_heads-0.10.22-forge-1.19.4.jar",
+					"version": "8AxwhTNq"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/VltVfTJV/chat_heads-0.10.22-fabric-1.19.2.jar",
+					"version": "VltVfTJV"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/R2RvO5UG/chat_heads-0.10.22-forge-1.19.2.jar",
+					"version": "R2RvO5UG"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/OoezSqHh/chat_heads-0.10.21-forge-1.20.2.jar",
+					"version": "OoezSqHh"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/TKeZAamO/chat_heads-0.10.21-fabric-1.20.2.jar",
+					"version": "TKeZAamO"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/lkNcKxhD/chat_heads-0.10.21-fabric-1.20.jar",
+					"version": "lkNcKxhD"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/hreiueZW/chat_heads-0.10.21-forge-1.20.jar",
+					"version": "hreiueZW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/oDlkk1R7/chat_heads-0.10.21-fabric-1.19.4.jar",
+					"version": "oDlkk1R7"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ckwnNNSA/chat_heads-0.10.21-forge-1.19.4.jar",
+					"version": "ckwnNNSA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/NGFppVFK/chat_heads-0.10.21-fabric-1.19.2.jar",
+					"version": "NGFppVFK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/4ywifNER/chat_heads-0.10.21-forge-1.19.2.jar",
+					"version": "4ywifNER"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/CJCClsCd/chat_heads-0.10.20-fabric-1.20.jar",
+					"version": "CJCClsCd"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/4xZJD7vd/chat_heads-0.10.20-forge-1.20.jar",
+					"version": "4xZJD7vd"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Bp4CN4ql/chat_heads-0.10.20-fabric-1.19.4.jar",
+					"version": "Bp4CN4ql"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/t35cSThu/chat_heads-0.10.20-forge-1.19.4.jar",
+					"version": "t35cSThu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FpIPlDKx/chat_heads-0.10.20-fabric-1.19.2.jar",
+					"version": "FpIPlDKx"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/hpjqmEGF/chat_heads-0.10.20-forge-1.19.2.jar",
+					"version": "hpjqmEGF"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/STxUpGFu/chat_heads-0.10.19-fabric-1.20.jar",
+					"version": "STxUpGFu"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/NyV3oo5K/chat_heads-0.10.19-forge-1.20.jar",
+					"version": "NyV3oo5K"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/E24TwY67/chat_heads-0.10.19-fabric-1.19.4.jar",
+					"version": "E24TwY67"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/kDlD3VU0/chat_heads-0.10.19-forge-1.19.4.jar",
+					"version": "kDlD3VU0"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ro03SDgE/chat_heads-0.10.19-fabric-1.19.2.jar",
+					"version": "ro03SDgE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Gu0GdJ0Y/chat_heads-0.10.19-forge-1.19.2.jar",
+					"version": "Gu0GdJ0Y"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/D6dgVTW0/chat_heads-0.10.18-fabric-1.20.jar",
+					"version": "D6dgVTW0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/dP70Lezf/chat_heads-0.10.18-forge-1.20.jar",
+					"version": "dP70Lezf"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/OgpKWK03/chat_heads-0.10.18-fabric-1.19.4.jar",
+					"version": "OgpKWK03"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/1BCIlwsr/chat_heads-0.10.18-forge-1.19.4.jar",
+					"version": "1BCIlwsr"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/O0BvLKCE/chat_heads-0.10.18-fabric-1.19.2.jar",
+					"version": "O0BvLKCE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/vOWXNo2z/chat_heads-0.10.18-forge-1.19.2.jar",
+					"version": "vOWXNo2z"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/5DNklSQc/chat_heads-0.10.16-fabric-1.20.jar",
+					"version": "5DNklSQc"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/lPPl8s4t/chat_heads-0.10.16-forge-1.20.jar",
+					"version": "lPPl8s4t"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/66zWaJzE/chat_heads-0.10.16-fabric-1.19.4.jar",
+					"version": "66zWaJzE"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/a8B6Gddv/chat_heads-0.10.16-forge-1.19.4.jar",
+					"version": "a8B6Gddv"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/5FVM8MBd/chat_heads-0.10.16-fabric-1.19.2.jar",
+					"version": "5FVM8MBd"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/dnQTwGvn/chat_heads-0.10.16-forge-1.19.2.jar",
+					"version": "dnQTwGvn"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/z1knBSIX/chat_heads-0.10.15-forge-1.20.jar",
+					"version": "z1knBSIX"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FS4caYEp/chat_heads-0.10.15-fabric-1.20.jar",
+					"version": "FS4caYEp"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AuLKVOJ1/chat_heads-0.10.14-fabric-1.19.4.jar",
+					"version": "AuLKVOJ1"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/xUPoMano/chat_heads-0.10.14-forge-1.19.4.jar",
+					"version": "xUPoMano"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/kmo22ZKz/chat_heads-0.10.14-fabric-1.19.2.jar",
+					"version": "kmo22ZKz"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/VW3S0UWb/chat_heads-0.10.14-forge-1.19.2.jar",
+					"version": "VW3S0UWb"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/PU7jIZC9/chat_heads-0.10.13-fabric-1.19.4.jar",
+					"version": "PU7jIZC9"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/rxRxmHuN/chat_heads-0.10.13-forge-1.19.4.jar",
+					"version": "rxRxmHuN"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/K5ZmGywG/chat_heads-0.10.13-fabric-1.19.2.jar",
+					"version": "K5ZmGywG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Bp6ATMiR/chat_heads-0.10.13-forge-1.19.2.jar",
+					"version": "Bp6ATMiR"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AgO6WgUz/chat_heads-0.10.12-fabric-1.19.4.jar",
+					"version": "AgO6WgUz"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/KHUPmGyu/chat_heads-0.10.12-forge-1.19.4.jar",
+					"version": "KHUPmGyu"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/86beEkxB/chat_heads-0.10.11-fabric-1.19.4.jar",
+					"version": "86beEkxB"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/l30hBf38/chat_heads-0.10.11-forge-1.19.4.jar",
+					"version": "l30hBf38"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/JzUynwU6/chat_heads-0.10.11-fabric-1.19.2.jar",
+					"version": "JzUynwU6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/n1YdSItp/chat_heads-0.10.11-forge-1.19.2.jar",
+					"version": "n1YdSItp"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/T8CfoCZb/chat_heads-0.10.10-fabric-1.19.4.jar",
+					"version": "T8CfoCZb"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/uT22hbES/chat_heads-0.10.10-forge-1.19.4.jar",
+					"version": "uT22hbES"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Ibj4WvE6/chat_heads-0.10.9-fabric-1.19.3.jar",
+					"version": "Ibj4WvE6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/iFYnpixb/chat_heads-0.10.9-fabric-1.19.2.jar",
+					"version": "iFYnpixb"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/R45ebQWD/chat_heads-0.10.8-fabric-1.19.3.jar",
+					"version": "R45ebQWD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/K3lM5N7x/chat_heads-0.10.8-fabric-1.19.2.jar",
+					"version": "K3lM5N7x"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/no8IroUP/chat_heads-0.10.8-forge-1.19.3.jar",
+					"version": "no8IroUP"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/PeUwvpqi/chat_heads-0.10.8-forge-1.19.2.jar",
+					"version": "PeUwvpqi"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/6dLOyVGE/chat_heads-0.10.7-fabric-1.19.3.jar",
+					"version": "6dLOyVGE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/fUvp2u8c/chat_heads-0.10.7-fabric-1.19.2.jar",
+					"version": "fUvp2u8c"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Vz0UneUJ/chat_heads-0.10.7-forge-1.19.3.jar",
+					"version": "Vz0UneUJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/pZxrUj38/chat_heads-0.10.7-forge-1.19.2.jar",
+					"version": "pZxrUj38"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Fz87Omkl/chat_heads-0.10.6-fabric-1.19.3.jar",
+					"version": "Fz87Omkl"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/PFfunV48/chat_heads-0.10.6-fabric-1.19.2.jar",
+					"version": "PFfunV48"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/NpM8ChOe/chat_heads-0.10.6-forge-1.19.3.jar",
+					"version": "NpM8ChOe"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/1JNqHcVd/chat_heads-0.10.6-forge-1.19.2.jar",
+					"version": "1JNqHcVd"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/NmmLuEN5/chat_heads-0.10.5-fabric-1.19.2.jar",
+					"version": "NmmLuEN5"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/3jKrhMfX/chat_heads-0.10.5-fabric-1.19.3.jar",
+					"version": "3jKrhMfX"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/UaDM8ogf/chat_heads-0.10.4-fabric-1.19.2.jar",
+					"version": "UaDM8ogf"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FJWLmVpY/chat_heads-0.10.4-forge-1.19.2.jar",
+					"version": "FJWLmVpY"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/dEpI8X1O/chat_heads-0.10.4-fabric-1.19.3.jar",
+					"version": "dEpI8X1O"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/6nHdue15/chat_heads-0.10.4-forge-1.19.3.jar",
+					"version": "6nHdue15"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/y5Dj4iao/chat_heads-0.10.3-forge-1.19.2.jar",
+					"version": "y5Dj4iao"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/RCDh56ju/chat_heads-0.10.3-forge-1.19.3.jar",
+					"version": "RCDh56ju"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/zlGYWEYS/chat_heads-0.10.0-fabric-1.19.2.jar",
+					"version": "zlGYWEYS"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Xo2rrWKV/chat_heads-0.10.0-fabric-1.19.3.jar",
+					"version": "Xo2rrWKV"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/7422MHc3/chat_heads-0.9.0-fabric-1.19.2.jar",
+					"version": "7422MHc3"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ycn4QPBX/chat_heads-0.9.0-forge-1.19.2.jar",
+					"version": "ycn4QPBX"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/EixvFn8b/chat_heads-0.9.0-fabric-1.19.3.jar",
+					"version": "EixvFn8b"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/IJpYPE7u/chat_heads-0.9.0-forge-1.19.3.jar",
+					"version": "IJpYPE7u"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/xNQFcC1a/chat_heads-0.8.1-fabric-1.19.3.jar",
+					"version": "xNQFcC1a"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/x4ZWVNIv/chat_heads-0.8.1-forge-1.19.3.jar",
+					"version": "x4ZWVNIv"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ribRKcZ8/chat_heads-0.8.0-forge-1.19.3.jar",
+					"version": "ribRKcZ8"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/J6fPQxI2/chat_heads-0.8.0-fabric-1.19.3.jar",
+					"version": "J6fPQxI2"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/zKCl1ATO/chat_heads-0.7.1-fabric-1.19.1.jar",
+					"version": "zKCl1ATO"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/prqslqO7/chat_heads-0.7.1-forge-1.19.1.jar",
+					"version": "prqslqO7"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/KQgJvEVc/chat_heads-0.6.0-fabric-1.18.1.jar",
+					"version": "KQgJvEVc"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/zy17h2X4/chat_heads-0.6.1-forge-1.18.2.jar",
+					"version": "zy17h2X4"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/TfsFLOrp/chat_heads-0.6.0-fabric-1.17.1.jar",
+					"version": "TfsFLOrp"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/IF51k6SP/chat_heads-0.6.0-forge-1.17.1.jar",
+					"version": "IF51k6SP"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/16AYFLM3/chat_heads-0.6.0-fabric-1.16.5.jar",
+					"version": "16AYFLM3"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FKbySPXk/chat_heads-0.6.0-forge-1.16.5.jar",
+					"version": "FKbySPXk"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Fourmisain",
+			"dzwdz"
+		],
+		"description": "See who you're chatting with!",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png",
+		"issues": "https://github.com/dzwdz/chat_heads/issues",
+		"license": "MPL-2.0",
+		"long_description": "<img src=\"https://media.forgecdn.net/attachments/312/218/chat-heads.png\" width=100%> <br>\nThis clientside mod adds player heads next to chat messages, as seen on the screenshot above.\nIt makes telling various people in chat apart a bit easier, and it looks *hella* nice.\n\nBased on a request from Hugman on the Fabric discord.\n\n[Cloth Config](https://modrinth.com/mod/cloth-config) (and [Mod Menu](https://modrinth.com/mod/modmenu) for Fabric) is needed to access the settings, but the mod works without it, using the default settings.\n \n**Note**: The default settings might not work on some servers. In this case try using the \"Heuristic only\" sender detection mode. Note that this might put wrong chat heads on some messages.\n\n**Note**: Incompatible with newer versions of OptiFine (~1.20.1), use [Sodium and co](https://fabricmc.net/wiki/community:optifine_alternatives) instead.",
+		"name": "Chat Heads",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/dzwdz/chat_heads"
+	},
+	"properties": {
+		"modrinth_id": "Wb5oqrBJ",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.16",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

@@ -1,0 +1,1663 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/5fjIyC3U/colorfulhearts-fabric-1.20.1-4.2.11.jar",
+					"version": "5fjIyC3U"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/YpBT43to/colorfulhearts-forge-1.20.1-4.2.11.jar",
+					"version": "YpBT43to"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/YD3cSdvJ/colorfulhearts-fabric-1.21-10.0.0.jar",
+					"version": "YD3cSdvJ"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/p6NdSecn/colorfulhearts-neoforge-1.21-10.0.0.jar",
+					"version": "p6NdSecn"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/7WDvIlZj/colorfulhearts-fabric-1.20.2-5.2.14.jar",
+					"version": "7WDvIlZj"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/xyCvzI7e/colorfulhearts-fabric-1.20.6-9.1.5.jar",
+					"version": "xyCvzI7e"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/eyI8QyMr/colorfulhearts-neoforge-1.20.6-9.1.5.jar",
+					"version": "eyI8QyMr"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/adgMRANp/colorfulhearts-fabric-1.20.5-8.0.5.jar",
+					"version": "adgMRANp"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/QSKxFACm/colorfulhearts-neoforge-1.20.5-8.0.5.jar",
+					"version": "QSKxFACm"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/PvggYwng/colorfulhearts-neoforge-1.20.4-7.1.10.jar",
+					"version": "PvggYwng"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/HsOcmm4x/colorfulhearts-fabric-1.20.4-7.1.10.jar",
+					"version": "HsOcmm4x"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/2VzgrrH6/colorfulhearts-fabric-1.20.3-6.1.6.jar",
+					"version": "2VzgrrH6"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/MQIhNP32/colorfulhearts-neoforge-1.20.3-6.1.6.jar",
+					"version": "MQIhNP32"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/I6RR7DjY/colorfulhearts-neoforge-1.20.2-5.2.13.jar",
+					"version": "I6RR7DjY"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/avmIOZMt/colorfulhearts-fabric-1.20.1-4.1.8.jar",
+					"version": "avmIOZMt"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/Bihv5GEE/colorfulhearts-fabric-1.20.2-5.2.12.jar",
+					"version": "Bihv5GEE"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/DRXa1ouL/colorfulhearts-fabric-1.20.3-6.1.5.jar",
+					"version": "DRXa1ouL"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/GsYveSdc/colorfulhearts-fabric-1.20.4-7.1.9.jar",
+					"version": "GsYveSdc"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/lsmg0IAn/colorfulhearts-fabric-1.20.5-8.0.4.jar",
+					"version": "lsmg0IAn"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/mjPvieYu/colorfulhearts-fabric-1.20.6-9.1.4.jar",
+					"version": "mjPvieYu"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/hQey2Gpt/colorfulhearts-fabric-1.20.1-4.1.8.jar",
+					"version": "hQey2Gpt"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/2Xpbpvrd/colorfulhearts-forge-1.20.1-4.1.8.jar",
+					"version": "2Xpbpvrd"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/1VanCAbL/colorfulhearts-fabric-1.20.2-5.2.11.jar",
+					"version": "1VanCAbL"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/8orWByBx/colorfulhearts-neoforge-1.20.2-5.2.11.jar",
+					"version": "8orWByBx"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/Q4sEfm6d/colorfulhearts-fabric-1.20.3-6.1.4.jar",
+					"version": "Q4sEfm6d"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/ANBu0vf2/colorfulhearts-neoforge-1.20.3-6.1.4.jar",
+					"version": "ANBu0vf2"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/zCd4ZWwJ/colorfulhearts-fabric-1.20.4-7.1.8.jar",
+					"version": "zCd4ZWwJ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/gqnpaSy5/colorfulhearts-neoforge-1.20.4-7.1.8.jar",
+					"version": "gqnpaSy5"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/fVq8Gy4N/colorfulhearts-neoforge-1.20.5-8.0.3.jar",
+					"version": "fVq8Gy4N"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/LuOxQEgn/colorfulhearts-fabric-1.20.5-8.0.3.jar",
+					"version": "LuOxQEgn"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/wah1MkRV/colorfulhearts-fabric-1.20.6-9.1.3.jar",
+					"version": "wah1MkRV"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/reKCRqXv/colorfulhearts-fabric-1.20.6-9.1.2.jar",
+					"version": "reKCRqXv"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/flRkR72E/colorfulhearts-neoforge-1.20.6-9.1.2.jar",
+					"version": "flRkR72E"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/C2CbCHfc/colorfulhearts-neoforge-1.20.5-8.0.2.jar",
+					"version": "C2CbCHfc"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/2eRHrOi2/colorfulhearts-fabric-1.20.5-8.0.2.jar",
+					"version": "2eRHrOi2"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/rvmVroRi/colorfulhearts-fabric-1.20.4-7.1.7.jar",
+					"version": "rvmVroRi"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/dgfKu7vV/colorfulhearts-neoforge-1.20.4-7.1.7.jar",
+					"version": "dgfKu7vV"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/8cBnd1gi/colorfulhearts-fabric-1.20.3-6.1.3.jar",
+					"version": "8cBnd1gi"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/9KgXo2ll/colorfulhearts-neoforge-1.20.3-6.1.3.jar",
+					"version": "9KgXo2ll"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/LJTEYRFC/colorfulhearts-fabric-1.20.2-5.2.10.jar",
+					"version": "LJTEYRFC"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/Y63LvNc0/colorfulhearts-neoforge-1.20.2-5.2.10.jar",
+					"version": "Y63LvNc0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/oay1ylIP/colorfulhearts-fabric-1.20.1-4.1.7.jar",
+					"version": "oay1ylIP"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/dazv9NAf/colorfulhearts-forge-1.20.1-4.1.7.jar",
+					"version": "dazv9NAf"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/xMnPakSN/colorfulhearts-fabric-1.20.1-4.1.6.jar",
+					"version": "xMnPakSN"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/14v3Qu3R/colorfulhearts-forge-1.20.1-4.1.6.jar",
+					"version": "14v3Qu3R"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/RKV8AfL1/colorfulhearts-fabric-1.20.6-9.0.1.jar",
+					"version": "RKV8AfL1"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/d62j0Fxt/colorfulhearts-neoforge-1.20.6-9.0.1.jar",
+					"version": "d62j0Fxt"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/gnZlZ9K7/colorfulhearts-neoforge-1.20.5-8.0.1.jar",
+					"version": "gnZlZ9K7"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/Z0nYt1Ff/colorfulhearts-fabric-1.20.5-8.0.1.jar",
+					"version": "Z0nYt1Ff"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/6YkSNsjV/colorfulhearts-forge-1.20.4-7.1.6.jar",
+					"version": "6YkSNsjV"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/pldmFBn3/colorfulhearts-neoforge-1.20.4-7.1.6.jar",
+					"version": "pldmFBn3"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/skioclvg/colorfulhearts-fabric-1.20.4-7.1.6.jar",
+					"version": "skioclvg"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/HSTApIXB/colorfulhearts-forge-1.20.3-6.1.2.jar",
+					"version": "HSTApIXB"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/ctpK13ZF/colorfulhearts-neoforge-1.20.3-6.1.2.jar",
+					"version": "ctpK13ZF"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/Cv79YdZE/colorfulhearts-fabric-1.20.3-6.1.2.jar",
+					"version": "Cv79YdZE"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/EzXJd7aM/colorfulhearts-fabric-1.20.2-5.2.9.jar",
+					"version": "EzXJd7aM"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/MmtgTVO1/colorfulhearts-neoforge-1.20.2-5.2.9.jar",
+					"version": "MmtgTVO1"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/4FmisdMr/colorfulhearts-forge-1.20.2-5.2.9.jar",
+					"version": "4FmisdMr"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/D68jlPg4/colorfulhearts-forge-1.20.1-4.1.5.jar",
+					"version": "D68jlPg4"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/EN1Ck76Y/colorfulhearts-fabric-1.20.1-4.1.5.jar",
+					"version": "EN1Ck76Y"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/bmw5BNVT/colorfulhearts-forge-1.20.1-4.1.4.jar",
+					"version": "bmw5BNVT"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/VM1jng2Z/colorfulhearts-fabric-1.20.1-4.1.4.jar",
+					"version": "VM1jng2Z"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/th49kCx0/colorfulhearts-neoforge-1.20.6-9.0.0.jar",
+					"version": "th49kCx0"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/8rkrFPz1/colorfulhearts-fabric-1.20.6-9.0.0.jar",
+					"version": "8rkrFPz1"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/WMTkk3g6/colorfulhearts-neoforge-1.20.5-8.0.0.jar",
+					"version": "WMTkk3g6"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/lobPmifE/colorfulhearts-fabric-1.20.5-8.0.0.jar",
+					"version": "lobPmifE"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/qmj4RH8j/colorfulhearts-neoforge-1.20.4-7.1.5.jar",
+					"version": "qmj4RH8j"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/E3aXkF34/colorfulhearts-forge-1.20.4-7.1.5.jar",
+					"version": "E3aXkF34"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/XIpA97tG/colorfulhearts-fabric-1.20.4-7.1.5.jar",
+					"version": "XIpA97tG"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/s7ohNlOm/colorfulhearts-neoforge-1.20.4-7.0.4.jar",
+					"version": "s7ohNlOm"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/Qkx1q9ro/colorfulhearts-forge-1.20.4-7.0.4.jar",
+					"version": "Qkx1q9ro"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/3hYtnQGT/colorfulhearts-fabric-1.20.4-7.0.4.jar",
+					"version": "3hYtnQGT"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/qsYFrHgi/colorfulhearts-neoforge-1.20.3-6.0.2.jar",
+					"version": "qsYFrHgi"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/3jZ2aEoh/colorfulhearts-forge-1.20.3-6.0.2.jar",
+					"version": "3jZ2aEoh"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/waMLOrUY/colorfulhearts-fabric-1.20.3-6.0.2.jar",
+					"version": "waMLOrUY"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/z1a2hGo0/colorfulhearts-neoforge-1.20.2-5.1.9.jar",
+					"version": "z1a2hGo0"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/OlDNkEdE/colorfulhearts-forge-1.20.2-5.1.9.jar",
+					"version": "OlDNkEdE"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/ccEoJx67/colorfulhearts-fabric-1.20.2-5.1.9.jar",
+					"version": "ccEoJx67"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/akm0J6zR/colorfulhearts-neoforge-1.20.4-7.0.2.jar",
+					"version": "akm0J6zR"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "overflowing-bars"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/UNafqdGi/colorfulhearts-forge-1.20.4-7.0.2.jar",
+					"version": "UNafqdGi"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "overflowing-bars",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/QFSSi4AZ/colorfulhearts-fabric-1.20.4-7.0.2.jar",
+					"version": "QFSSi4AZ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/L9H6hO8h/colorfulhearts-neoforge-1.20.4-7.0.1.jar",
+					"version": "L9H6hO8h"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/REGS8fyu/colorfulhearts-forge-1.20.4-7.0.1.jar",
+					"version": "REGS8fyu"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/jUB4r3GK/colorfulhearts-fabric-1.20.4-7.0.1.jar",
+					"version": "jUB4r3GK"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/VWzjNTPk/colorfulhearts-neoforge-1.20.3-6.0.1.jar",
+					"version": "VWzjNTPk"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/e0hPVq9Q/colorfulhearts-forge-1.20.3-6.0.1.jar",
+					"version": "e0hPVq9Q"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/5kbfLc22/colorfulhearts-fabric-1.20.3-6.0.1.jar",
+					"version": "5kbfLc22"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/uyzamlgO/colorfulhearts-neoforge-1.20.2-5.1.7.jar",
+					"version": "uyzamlgO"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/WJf6fdRP/colorfulhearts-forge-1.20.2-5.1.7.jar",
+					"version": "WJf6fdRP"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/T03HvhHh/colorfulhearts-fabric-1.20.2-5.1.7.jar",
+					"version": "T03HvhHh"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/p4Hddfp4/colorfulhearts-neoforge-1.20.4-7.0.0.jar",
+					"version": "p4Hddfp4"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/SH1XiIwj/colorfulhearts-forge-1.20.4-7.0.0.jar",
+					"version": "SH1XiIwj"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/9mkDiNRP/colorfulhearts-fabric-1.20.4-7.0.0.jar",
+					"version": "9mkDiNRP"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/dmI5a9N4/colorfulhearts-forge-1.20.3-6.0.0.jar",
+					"version": "dmI5a9N4"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/AlJFCpWr/colorfulhearts-neoforge-1.20.3-6.0.0.jar",
+					"version": "AlJFCpWr"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/MMxFvAhW/colorfulhearts-fabric-1.20.3-6.0.0.jar",
+					"version": "MMxFvAhW"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/6V8eGKPH/colorfulhearts-neoforge-1.20.2-5.1.6.jar",
+					"version": "6V8eGKPH"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/uxHECNbs/colorfulhearts-forge-1.20.2-5.1.6.jar",
+					"version": "uxHECNbs"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/sPUkcL4s/colorfulhearts-fabric-1.20.2-5.1.6.jar",
+					"version": "sPUkcL4s"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/zDm9SHuu/colorfulhearts-neoforge-1.20.2-5.1.5.jar",
+					"version": "zDm9SHuu"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/anF4sjlF/colorfulhearts-forge-1.20.2-5.1.5.jar",
+					"version": "anF4sjlF"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/n29Dccn5/colorfulhearts-fabric-1.20.2-5.1.5.jar",
+					"version": "n29Dccn5"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/IjCSCtnl/colorfulhearts-forge-1.20.2-5.1.4.jar",
+					"version": "IjCSCtnl"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/rPsh6y9Z/colorfulhearts-fabric-1.20.2-5.1.4.jar",
+					"version": "rPsh6y9Z"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/wrqXTKmZ/colorfulhearts-forge-1.20.2-5.1.3.jar",
+					"version": "wrqXTKmZ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/FmAranCC/colorfulhearts-fabric-1.20.2-5.1.3.jar",
+					"version": "FmAranCC"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/LShNXb2c/colorfulhearts-forge-1.20.1-4.0.4.jar",
+					"version": "LShNXb2c"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/Gyn27H2t/colorfulhearts-fabric-1.20.1-4.0.4.jar",
+					"version": "Gyn27H2t"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/ZxWKAGQL/colorfulhearts-forge-1.20.1-4.0.3.jar",
+					"version": "ZxWKAGQL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/hGtKY5yN/colorfulhearts-fabric-1.20.1-4.0.3.jar",
+					"version": "hGtKY5yN"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/zIiGODFl/colorfulhearts-forge-1.20.2-5.0.1.jar",
+					"version": "zIiGODFl"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/exGardgj/colorfulhearts-fabric-1.20.2-5.0.1.jar",
+					"version": "exGardgj"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/v1ITl2ns/colorfulhearts-forge-1.20.1-4.0.2.jar",
+					"version": "v1ITl2ns"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/nNYP2bYQ/colorfulhearts-forge-1.20.2-5.0.0.jar",
+					"version": "nNYP2bYQ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/2wYw3JqI/colorfulhearts-fabric-1.20.2-5.0.0.jar",
+					"version": "2wYw3JqI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/T83qQ43y/colorfulhearts-forge-1.20.1-4.0.1.jar",
+					"version": "T83qQ43y"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/nifONX65/colorfulhearts-fabric-1.20.1-4.0.1.jar",
+					"version": "nifONX65"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/iwL5anGZ/colorfulhearts-forge-1.20-4.0.0.jar",
+					"version": "iwL5anGZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/dNkTsweU/colorfulhearts-fabric-1.20-4.0.0.jar",
+					"version": "dNkTsweU"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/2GdkBMQx/colorfulhearts-forge-1.19.4-3.0.0.jar",
+					"version": "2GdkBMQx"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/G18wdBGz/colorfulhearts-fabric-1.19.4-3.0.0.jar",
+					"version": "G18wdBGz"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/PSa88DBA/colorfulhearts-forge-1.19.3-2.0.0.jar",
+					"version": "PSa88DBA"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/Xh4OGs2C/colorfulhearts-fabric-1.19.3-2.0.0.jar",
+					"version": "Xh4OGs2C"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/JAREpsdK/colorfulhearts-forge-1.19.2-1.0.0.jar",
+					"version": "JAREpsdK"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/RZfAeAXH/colorfulhearts-fabric-1.19.2-1.0.0.jar",
+					"version": "RZfAeAXH"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/Y82SyuUN/healthoverlay-forge-1.18.2-6.3.4.jar",
+					"version": "Y82SyuUN"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/pGPDgySC/healthoverlay-fabric-1.18.2-6.3.4.jar",
+					"version": "pGPDgySC"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/mngMZGDF/healthoverlay-forge-1.17.1-5.2.3.jar",
+					"version": "mngMZGDF"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/FVfNWGjP/healthoverlay-fabric-1.17.1-5.2.3.jar",
+					"version": "FVfNWGjP"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/PlFAb4Mr/healthoverlay-forge-1.16.5-3.0.1.jar",
+					"version": "PlFAb4Mr"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/G2XaTXeS/healthoverlay-fabric-1.16.5-4.0.1.jar",
+					"version": "G2XaTXeS"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/ZiEpwnCj/healthoverlay-fabric-1.15.2-2.4.12.jar",
+					"version": "ZiEpwnCj"
+				},
+				{
+					"minecraft_versions": "1.15",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/l1DUB2Ah/healthoverlay-fabric-1.15-2.2.10.jar",
+					"version": "l1DUB2Ah"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/EPns2jh4/healthoverlay-forge-1.15.2-1.0.2.jar",
+					"version": "EPns2jh4"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/8CsiFOVJ/healthoverlay-forge-1.14.4-1.0.2.jar",
+					"version": "8CsiFOVJ"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/qh549DtR/healthoverlay-fabric-1.14.4-2.3.10.jar",
+					"version": "qh549DtR"
+				},
+				{
+					"minecraft_versions": "1.14.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/rlk3KsiB/healthoverlay-fabric-1.14.3-1.2.9.jar",
+					"version": "rlk3KsiB"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.1",
+						"1.14.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/nZ5LKTCS/healthoverlay-fabric-1.14.2-1.2.8.jar",
+					"version": "nZ5LKTCS"
+				},
+				{
+					"minecraft_versions": "1.14",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/NRYgnd4S/healthoverlay-fabric-1.14-1.2.7.jar",
+					"version": "NRYgnd4S"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Terrails"
+		],
+		"description": "A client side mod that replaces multiple vanilla heart rows with a single row using colored hearts",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/wQfMUdZT/2f9f0ab9d03f7fa24d817942278f0f1fb0658006.png",
+		"issues": "https://github.com/Terrails/colorful-hearts/issues",
+		"license": "MIT",
+		"long_description": "## What does it do?\nColorful Hearts is a simple client side mod that replaces vanilla heart renderer which always adds more rows when the player has more than 10 hearts of health or absorption.\n\nInstead of vanilla behavior the mod uses colored hearts to represent each row of health and absorption. These colors can be configured in a config file that accepts a list of hex `#RRGGBB` values. \n\nColorful Hearts also adds half heart background textures. This means that if there is only half a heart of absorption, it will not have a black background on the right as if there is something missing. Instead the black bordered background will only cover the left half of the heart icon.\n\n### Mod Support\nIf there is any compatibility issue, please notify me to see if support can be added. **Please avoid reporting these issues to other mods as it is most likely caused by Colorful Hearts.**\n| Mod                                                            | Feature                                                                                                                                                                                                                                                                              | Since  |\n|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|\n| [AppleSkin](https://modrinth.com/mod/appleskin)                | Visualization of potential health restored for currently held food item.                                                                                                                                                                                                             | 1.20.1 |\n| [Raised](https://modrinth.com/mod/raised)                      | Correct movement of the heart location.                                                                                                                                                                                                                                              | 1.20.1 |\n| [Farmer's Delight](https://modrinth.com/mod/farmers-delight)   | Working overlay for the comfort status effect.                                                                                                                                                                                                                                       | 1.20.1 |\n| [The Undergarden](https://modrinth.com/mod/the-undergarden)    | Working overlay for the virulence status effect.                                                                                                                                                                                                                                     | 1.20.1 |\n| [Overflowing Bars](https://modrinth.com/mod/overflowing-bars)  | Numerical visualization for heart rows. **!! IMPORTANT !!** Requires disabling the  mod's own heart rendering by setting `allowLayers` for hearts to `false`. This  has to be done as both mods touch the same part of vanilla code which can  result in crashes or weird behaviour. | 1.20.1 |\n| [Eidolon:Repraised](https://modrinth.com/mod/eidolonrepraised) | Working overlay for chilled status effect. Support for Ethereal Health is still work  in progress.                                                                                                                                                                                   | 1.20.1 |\n\n**Support is not available with**:  \n| Mod            | Reason                                                                                                                                                                                                                                                                                   |\n|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Scaling Health | Both mods touch the same vanilla code and this results in crashes or weird behaviour.  If for some odd reason usage with Colorful Hearts is desired, make sure to disable any  kind of custom heart rendering. Support will not be provided for any kind of crashes  or weird behaviour. |\n\n## Sponsor\n[![Akliz Hosting](https://i.imgur.com/FGUgNoJ.png)](https://www.akliz.net/terrails)",
+		"name": "Colorful Hearts",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Terrails/colorful-hearts"
+	},
+	"properties": {
+		"modrinth_id": "wQfMUdZT",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.14",
+			"1.14.1",
+			"1.14.2",
+			"1.14.3",
+			"1.14.4",
+			"1.15",
+			"1.15.2",
+			"1.16",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

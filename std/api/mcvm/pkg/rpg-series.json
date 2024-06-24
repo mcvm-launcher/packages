@@ -1,0 +1,24 @@
+{
+	"meta": {
+		"name": "RPG Series",
+		"description": "A series of RPG mods",
+		"authors": "ZsoltMolnarrr",
+		"support_link": "https://ko-fi.com/daedelus",
+		"license": "ARR"
+	},
+	"properties": {
+		"supported_modloaders": [
+			"fabriclike"
+		]
+	},
+	"relations": {
+		"bundled": [
+			"archers",
+			"wizards",
+			"paladins-and-priests",
+			"jewelery",
+			"gazebos",
+			"runes"
+		]
+	}
+}

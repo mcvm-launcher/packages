@@ -1,0 +1,754 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar",
+					"version": "stJDU839"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/7AWKhwaU/konkrete_forge_1.9.9_MC_1.21.jar",
+					"version": "7AWKhwaU"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar",
+					"version": "Qvrc7DuG"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/UudzMb6I/konkrete_forge_1.9.8_MC_1.20.6.jar",
+					"version": "UudzMb6I"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/KtLMUCjA/konkrete_forge_1.9.7_MC_1.20.6.jar",
+					"version": "KtLMUCjA"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Pj5Q7DXJ/konkrete_forge_1.9.6_MC_1.20.6.jar",
+					"version": "Pj5Q7DXJ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/l5t1hH7D/konkrete_forge_1.9.5_MC_1.20.4.jar",
+					"version": "l5t1hH7D"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/8T4RHphB/konkrete_neoforge_1.9.4_MC_1.20.5.jar",
+					"version": "8T4RHphB"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/2YWRHuZn/konkrete_fabric_1.9.4_MC_1.20.5.jar",
+					"version": "2YWRHuZn"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Lv44dGlN/konkrete_forge_1.9.3_MC_1.20.2.jar",
+					"version": "Lv44dGlN"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/om06rNYI/konkrete_fabric_1.9.3_MC_1.20.2.jar",
+					"version": "om06rNYI"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/3FxKHNvB/konkrete_forge_1.9.2_MC_1.20.4.jar",
+					"version": "3FxKHNvB"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/4W5krUSZ/konkrete_fabric_1.9.2_MC_1.20.4.jar",
+					"version": "4W5krUSZ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/gOjPgkAM/konkrete_neoforge_1.9.1_MC_1.20.4.jar",
+					"version": "gOjPgkAM"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/2Bi44ubs/konkrete_forge_1.9.1_MC_1.20.4.jar",
+					"version": "2Bi44ubs"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/KSRr0suP/konkrete_fabric_1.9.1_MC_1.20.4.jar",
+					"version": "KSRr0suP"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/sPDPwWC7/konkrete_neoforge_1.9.0_MC_1.20.4.jar",
+					"version": "sPDPwWC7"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/RlBGFlWp/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+					"version": "RlBGFlWp"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/DpeV0fqj/konkrete_forge_1.8.0_MC_1.20.4.jar",
+					"version": "DpeV0fqj"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/skYziQQL/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+					"version": "skYziQQL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/QMv1le10/konkrete_forge_1.8.0_MC_1.19-1.19.2.jar",
+					"version": "QMv1le10"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/bGBUWMlK/konkrete_forge_1.8.0_MC_1.18-1.18.2.jar",
+					"version": "bGBUWMlK"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/ntpwYmzP/konkrete_fabric_1.8.0_MC_1.20.4.jar",
+					"version": "ntpwYmzP"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/ukp6rFnW/konkrete_fabric_1.8.0_MC_1.20.1.jar",
+					"version": "ukp6rFnW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/2XnMLMOc/konkrete_fabric_1.8.0_MC_1.19.1-1.19.2.jar",
+					"version": "2XnMLMOc"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/ZtOyno2f/konkrete_fabric_1.8.0_MC_1.18-1.18.2.jar",
+					"version": "ZtOyno2f"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/vkSbmyqP/konkrete_forge_1.7.1_MC_1.20.4.jar",
+					"version": "vkSbmyqP"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/sL2n2zBv/konkrete_fabric_1.7.1_MC_1.20.4.jar",
+					"version": "sL2n2zBv"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/qsYMqjlM/konkrete_fabric_1.7.0-2_MC_1.20.2.jar",
+					"version": "qsYMqjlM"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/KI6udyr4/konkrete_forge_1.6.1-3_MC_1.20.2.jar",
+					"version": "KI6udyr4"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Az1kEuIr/konkrete_fabric_1.7.0-1_MC_1.20.1.jar",
+					"version": "Az1kEuIr"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/ekHHVgFJ/konkrete_fabric_1.7.0-1_MC_1.20.2.jar",
+					"version": "ekHHVgFJ"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/9RwlUq8K/konkrete_fabric_1.7.0_MC_1.20.1.jar",
+					"version": "9RwlUq8K"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/J7P1coEq/konkrete_fabric_1.7.0_MC_1.20.2.jar",
+					"version": "J7P1coEq"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/pAy646WB/konkrete_forge_1.6.1_MC_1.20.2.jar",
+					"version": "pAy646WB"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/B7yILQ7L/konkrete_fabric_1.6.1_MC_1.20.2.jar",
+					"version": "B7yILQ7L"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/9o3SSmd1/konkrete_forge_1.6.1-2_MC_1.20.jar",
+					"version": "9o3SSmd1"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/fNYbw69M/konkrete_fabric_1.6.1_MC_1.20.jar",
+					"version": "fNYbw69M"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/hOqG5qTT/konkrete_forge_1.6.1_MC_1.19.4.jar",
+					"version": "hOqG5qTT"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/CTjhm1dN/konkrete_forge_1.6.1_MC_1.19.3.jar",
+					"version": "CTjhm1dN"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/a4UZ7nGe/konkrete_forge_1.6.1_MC_1.19-1.19.2.jar",
+					"version": "a4UZ7nGe"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/drdxtCrM/konkrete_forge_1.6.1_MC_1.18-1.18.2.jar",
+					"version": "drdxtCrM"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/MFN5Cgup/konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar",
+					"version": "MFN5Cgup"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "mixin-bootstrap"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Nmo9ggyx/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+					"version": "Nmo9ggyx"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/njrUss7i/konkrete_fabric_1.6.1_MC_1.19.4.jar",
+					"version": "njrUss7i"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/4y9cJbpy/konkrete_fabric_1.6.1_MC_1.19.3.jar",
+					"version": "4y9cJbpy"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/pz9SoIJL/konkrete_fabric_1.6.1_MC_1.19.1-1.19.2.jar",
+					"version": "pz9SoIJL"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Q3fMIonu/konkrete_fabric_1.6.1_MC_1.19.jar",
+					"version": "Q3fMIonu"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/L4bTPMly/konkrete_fabric_1.6.1_MC_1.18-1.18.2.jar",
+					"version": "L4bTPMly"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/kiAIoQnV/konkrete_fabric_1.6.0-2_MC_1.19.4.jar",
+					"version": "kiAIoQnV"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/hGJFSkMw/konkrete_fabric_1.6.0_MC_1.19.4.jar",
+					"version": "hGJFSkMw"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/fs2RdBWK/konkrete_forge_1.6.0_MC_1.19.4.jar",
+					"version": "fs2RdBWK"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/OdyUMgZC/konkrete_fabric_1.6.0-1_MC_1.19.3.jar",
+					"version": "OdyUMgZC"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/qkTaRC9i/konkrete_forge_1.6.0_MC_1.19.3.jar",
+					"version": "qkTaRC9i"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/3kzSH4eT/konkrete_fabric_1.6.0_MC_1.19.3.jar",
+					"version": "3kzSH4eT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/nyYTkFWh/konkrete_forge_1.6.0_MC_1.19-1.19.2.jar",
+					"version": "nyYTkFWh"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/MHsCS1Cn/konkrete_forge_1.6.0_MC_1.18-1.18.2.jar",
+					"version": "MHsCS1Cn"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/uEKuuG60/konkrete_forge_1.6.0_MC_1.16.2-1.16.5.jar",
+					"version": "uEKuuG60"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "mixin-bootstrap"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/HqfnpJxd/konkrete_forge_1.6.0_MC_1.12-1.12.2.jar",
+					"version": "HqfnpJxd"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/OJaX8Ruf/konkrete_fabric_1.6.0_MC_1.19.1-1.19.2.jar",
+					"version": "OJaX8Ruf"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/XLjD6Kbq/konkrete_fabric_1.6.0_MC_1.19.jar",
+					"version": "XLjD6Kbq"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/PIJUXbX4/konkrete_fabric_1.6.0_MC_1.18-1.18.2.jar",
+					"version": "PIJUXbX4"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/CV2NDI4d/konkrete_fabric_1.5.3_MC_1.19.1-1.19.2.jar",
+					"version": "CV2NDI4d"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/WdW4y3ld/konkrete_fabric_1.5.3_MC_1.19.jar",
+					"version": "WdW4y3ld"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/LvcXuxlo/konkrete_fabric_1.5.3_MC_1.18-1.18.2.jar",
+					"version": "LvcXuxlo"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/SXEnoZ3a/konkrete_forge_1.5.3_MC_1.19-1.19.2.jar",
+					"version": "SXEnoZ3a"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/6rpCP0ic/konkrete_forge_1.5.3_MC_1.18-1.18.2.jar",
+					"version": "6rpCP0ic"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Th1pzrRC/konkrete_forge_1.5.3-1_MC_1.16.2-1.16.5.jar",
+					"version": "Th1pzrRC"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "mixin-bootstrap"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/J81TRJWm/versions/oxR0vH4b/konkrete_forge_1.5.3_MC_1.12-1.12.2.jar",
+					"version": "oxR0vH4b"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"keksuccino"
+		],
+		"community": "https://discord.gg/UzmeWkD",
+		"description": "Just another boring library mod.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/J81TRJWm/d99a9dc29e74c051964aba1d36d122facea4eb17.png",
+		"issues": "https://github.com/Keksuccino/Konkrete/issues",
+		"license": "Apache-2.0",
+		"long_description": "<p style=\"text-align: center;\"><a href=\"https://discord.gg/rhayah27GC\"><img src=\"https://discordapp.com/api/guilds/704163135787106365/widget.png?style=banner2\" /></a> <a href=\"https://twitter.com/keksuccino\"><img src=\"https://user-images.githubusercontent.com/35544624/132924153-df28357d-6816-48a2-96a8-594333d3b075.png\" /></a> <a href=\"https://www.patreon.com/keksuccino\"><img src=\"https://user-images.githubusercontent.com/35544624/132924155-25fe4269-5936-4cac-88cf-5d6069e0443a.png\" /></a> <a href=\"https://paypal.me/TimSchroeter\"><img src=\"https://user-images.githubusercontent.com/35544624/132924156-ec4300ea-7e10-40de-a271-8effb8fbf5cf.png\" /></a></p>\n\n\n## Dependencies\n\n### Fabric\n- [Fabric API](https://modrinth.com/mod/fabric-api) (Only for Fabric)\n\n### Forge 1.12\n- [MixinBootstrap](https://modrinth.com/mod/mixinbootstrap)\n\n\n## About\n\nKonkrete is a library mod used as base for my other mods.<br>\nThis mod does nothing on its own and its only purpose is to be the base of other mods.\n\nTechnically, you are free to use this mod as base mod for your own mods, but there's **currently no documentation** for it, so it would probably be a very annoying experience.\n\n\n## Bug Reports and Requests\n\nYou can report bugs and request features on [GitHub](https://github.com/Keksuccino/Konkrete/issues)!\n\n\n## Copyright\n\nKonkrete Copyright © 2020-2023 Keksuccino.<br>\nKonkrete is licensed under Apache-2.0.\n\nOpen Imaging Copyright © 2014 Dhyan Blum.<br>\nOpen Imaging is licensed under Apache-2.0.\n\n\nJsonPath Copyright © 2017 Jayway.<br>\nJsonPath is licensed under Apache-2.0.\n\nJson-smart Copyright © netplex.<br>\nJson-smart is licensed under Apache-2.0.\n\n\n## Server Needed?\n\nYou need a Minecraft server to play with your friends but it's just too much work to setup one on your own?<br>\nNo problem, just rent an ready-to-use server and start playing in a snap!\n\nJust click on the image below and use the code **keksuccino** to get **25% off** your first month!\n\n<a href=\"https://bisecthosting.com/keksuccino\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://user-images.githubusercontent.com/35544624/100003401-505d5300-2dc6-11eb-9444-3dd117a8aef9.png\" width=\"241\" height=\"244\" /></a><span style=\"color: #808080;\"><br /></span></p>",
+		"name": "Konkrete",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Keksuccino/Konkrete"
+	},
+	"properties": {
+		"modrinth_id": "J81TRJWm",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.12",
+			"1.12.1",
+			"1.12.2",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

@@ -1,0 +1,302 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar",
+					"version": "efcdRVZP"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/dhnytTnF/melody_forge_1.0.10_MC_1.21.jar",
+					"version": "dhnytTnF"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar",
+					"version": "OqxSeb4n"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/qujo8CZX/melody_forge_1.0.9_MC_1.20.6.jar",
+					"version": "qujo8CZX"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/ICDWdvtk/melody_forge_1.0.8_MC_1.20.6.jar",
+					"version": "ICDWdvtk"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/mEGdB8Jg/melody_forge_1.0.7_MC_1.20.6.jar",
+					"version": "mEGdB8Jg"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/E1C9lndp/melody_neoforge_1.0.6_MC_1.20.5.jar",
+					"version": "E1C9lndp"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/hYM9p09l/melody_fabric_1.0.6_MC_1.20.5.jar",
+					"version": "hYM9p09l"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/KP3gMIq3/melody_neoforge_1.0.5_MC_1.20.4.jar",
+					"version": "KP3gMIq3"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/2o0oW8Yv/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+					"version": "2o0oW8Yv"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/lJlW5r8R/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+					"version": "lJlW5r8R"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/t7thRplt/melody_forge_1.0.2_MC_1.20.1-1.20.4.jar",
+					"version": "t7thRplt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/aMYLdh1A/melody_forge_1.0.1_MC_1.18.2.jar",
+					"version": "aMYLdh1A"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/AUB6gMMU/melody_fabric_1.0.1_MC_1.18.2.jar",
+					"version": "AUB6gMMU"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/FGAAIkNn/melody_forge_1.0.1_MC_1.19.2.jar",
+					"version": "FGAAIkNn"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/QcDfYy6d/melody_fabric_1.0.1_MC_1.19.2.jar",
+					"version": "QcDfYy6d"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/3OeHwNib/melody_forge_1.0.1_MC_1.20.1-1.20.4.jar",
+					"version": "3OeHwNib"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/XMccgvzj/melody_fabric_1.0.1_MC_1.20.1-1.20.4.jar",
+					"version": "XMccgvzj"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/aMPsn3TO/melody_forge_1.0.0_MC_1.19.2.jar",
+					"version": "aMPsn3TO"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/cTVJuzuH/melody_fabric_1.0.0_MC_1.19.2.jar",
+					"version": "cTVJuzuH"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/KfQ7H4WH/melody_forge_1.0.0_MC_1.20.1-1.20.4.jar",
+					"version": "KfQ7H4WH"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/6Uy5ki0Y/melody_fabric_1.0.0_MC_1.20.1-1.20.4.jar",
+					"version": "6Uy5ki0Y"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/6DtbOVFX/melody_forge_1.0.0_MC_1.18.2.jar",
+					"version": "6DtbOVFX"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/hT3ze5Kh/melody_fabric_1.0.0_MC_1.18.2.jar",
+					"version": "hT3ze5Kh"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/TlZ1fbds/Melody-forge-1.19.4-1.0.0.jar",
+					"version": "TlZ1fbds"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/NiI3hjHd/Melody-fabric-1.19.4-1.0.0.jar",
+					"version": "NiI3hjHd"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"keksuccino"
+		],
+		"community": "https://discord.gg/UzmeWkD",
+		"description": "OpenAL-based library mod for playing background music.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/CVT4pFB2/d5579bb295d7f90c87e65cbdcf47ab28e64ad913.png",
+		"issues": "https://github.com/Keksuccino/Melody/issues",
+		"license": "MIT",
+		"long_description": "<p style=\"text-align: center;\"><a href=\"https://discord.gg/rhayah27GC\"><img src=\"https://discordapp.com/api/guilds/704163135787106365/widget.png?style=banner2\" /></a> <a href=\"https://twitter.com/keksuccino\"><img src=\"https://user-images.githubusercontent.com/35544624/132924153-df28357d-6816-48a2-96a8-594333d3b075.png\" /></a> <a href=\"https://www.patreon.com/keksuccino\"><img src=\"https://user-images.githubusercontent.com/35544624/132924155-25fe4269-5936-4cac-88cf-5d6069e0443a.png\" /></a> <a href=\"https://paypal.me/TimSchroeter\"><img src=\"https://user-images.githubusercontent.com/35544624/132924156-ec4300ea-7e10-40de-a271-8effb8fbf5cf.png\" /></a></p>\n\n\n## IMPORTANT\n\nThis mod is a LIBRARY mod.<br>\nIt will do nothing on its own and its only purpose is to act as a dependency for other mods that use its features.\n\n## About\n\nMelody is an OpenAL-based client-side library mod for playing background music.<br>\nIt allows you to use OpenAL in Minecraft separated from Minecraft's sound engine and manager.\n\nMelody allows you to (asynchronously) load audio files from all kinds of sources, including web sources.\n\nIt has built-in support for OGG and WAV audio files, but there's nothing stopping you from extending it to support more file types!\n\nTo get an idea of how to create ready-to-play audio sources, take a look at Melody's [`SimpleAudioFactory`](https://github.com/Keksuccino/Melody/blob/1.20.1/common/src/main/java/de/keksuccino/melody/resources/audio/SimpleAudioFactory.java) class!\n\nEverything important is documented in the source, so make sure to take a look at [Melody's source on GitHub](https://github.com/Keksuccino/Melody)!\n\n## Copyright & Licensing\n\nMelody Copyright © 2023 Keksuccino.<br>\nMelody is licensed under MIT.\n\n## Server Needed?\n\nYou need a Minecraft server to play with your friends but it's just too much work to setup one on your own?<br>\nNo problem, just rent an ready-to-use server and start playing in a snap!\n\nJust click on the image below and use the code **keksuccino** to get **25% off** your first month!\n\n<a href=\"https://bisecthosting.com/keksuccino\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://user-images.githubusercontent.com/35544624/100003401-505d5300-2dc6-11eb-9444-3dd117a8aef9.png\" width=\"241\" height=\"244\" /></a><span style=\"color: #808080;\"><br /></span></p>\n",
+		"name": "Melody",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Keksuccino/Melody",
+		"support_link": "https://www.patreon.com/keksuccino"
+	},
+	"properties": {
+		"modrinth_id": "CVT4pFB2",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19.2",
+			"1.19.4",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

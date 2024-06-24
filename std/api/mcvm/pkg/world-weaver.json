@@ -7,6 +7,19 @@
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
 					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/RiN8rDVs/versions/c6sTpGND/worldweaver-21.0.2.jar",
+					"version": "c6sTpGND"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
 						"dependencies": "fabriclike-api"
 					},
 					"stability": "latest",

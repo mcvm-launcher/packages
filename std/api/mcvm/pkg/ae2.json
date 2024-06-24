@@ -4,6 +4,33 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "none",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/v48VlCNF/appliedenergistics2-19.0.5-alpha.jar",
+					"version": "v48VlCNF"
+				},
+				{
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
 						"forgelike",
@@ -32,33 +59,6 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/G13uBrme/appliedenergistics2-forge-15.2.4.jar",
 					"version": "G13uBrme"
-				},
-				{
-					"minecraft_versions": "1.21",
-					"modloaders": "neoforged",
-					"relations": {
-						"conflicts": "none",
-						"recommendations": [
-							{
-								"value": "jei"
-							},
-							{
-								"value": "none"
-							},
-							{
-								"value": "none"
-							},
-							{
-								"value": "rei"
-							},
-							{
-								"value": "wthit"
-							}
-						]
-					},
-					"stability": "latest",
-					"url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/NsFt2Dws/appliedenergistics2-neoforge-19.0.4-alpha.jar",
-					"version": "NsFt2Dws"
 				},
 				{
 					"minecraft_versions": "1.20.6",
@@ -296,6 +296,33 @@
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/Mdn0ka1O/appliedenergistics2-fabric-15.0.7-beta.jar",
 					"version": "Mdn0ka1O"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": "none",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/NsFt2Dws/appliedenergistics2-neoforge-19.0.4-alpha.jar",
+					"version": "NsFt2Dws"
 				},
 				{
 					"minecraft_versions": "1.21",

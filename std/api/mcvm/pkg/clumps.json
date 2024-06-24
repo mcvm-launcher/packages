@@ -1,0 +1,1370 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/BBnb9L4J/Clumps-neoforge-1.21-18.0.0.1.jar",
+					"version": "BBnb9L4J"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/U9tSAZs1/Clumps-fabric-1.21-18.0.0.1.jar",
+					"version": "U9tSAZs1"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/U9UF2NCO/Clumps-fabric-1.20.6-17.0.0.1.jar",
+					"version": "U9UF2NCO"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/5DAuFkN0/Clumps-neoforge-1.20.6-17.0.0.1.jar",
+					"version": "5DAuFkN0"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/RE9nKxFT/Clumps-fabric-1.20.5-16.0.0.1.jar",
+					"version": "RE9nKxFT"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/LAhdYjOV/Clumps-neoforge-1.20.5-16.0.0.1.jar",
+					"version": "LAhdYjOV"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/hefSwtn6/Clumps-fabric-1.20.1-12.0.0.4.jar",
+					"version": "hefSwtn6"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nAHGB5ls/Clumps-forge-1.20.1-12.0.0.4.jar",
+					"version": "nAHGB5ls"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/MWDyKE94/Clumps-neoforge-1.20.4-15.0.0.2.jar",
+					"version": "MWDyKE94"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/jdeTwq6v/Clumps-fabric-1.20.4-15.0.0.2.jar",
+					"version": "jdeTwq6v"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/FszY2hte/Clumps-forge-1.20.4-15.0.0.2.jar",
+					"version": "FszY2hte"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/ShUp2kQ2/Clumps-neoforge-1.20.4-14.0.0.1.jar",
+					"version": "ShUp2kQ2"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/eqzpUTwV/Clumps-fabric-1.20.4-14.0.0.1.jar",
+					"version": "eqzpUTwV"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/tjDEdddl/Clumps-forge-1.20.4-14.0.0.1.jar",
+					"version": "tjDEdddl"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/QMBYfAuO/Clumps-neoforge-1.20.3-14.0.0.1.jar",
+					"version": "QMBYfAuO"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/2CnNdiUT/Clumps-fabric-1.20.3-14.0.0.1.jar",
+					"version": "2CnNdiUT"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/ATa0nUu5/Clumps-forge-1.20.3-14.0.0.1.jar",
+					"version": "ATa0nUu5"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/FrcMJxfb/Clumps-neoforge-1.20.2-13.0.0.6.jar",
+					"version": "FrcMJxfb"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/mMwP6MUu/Clumps-fabric-1.20.2-13.0.0.6.jar",
+					"version": "mMwP6MUu"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/TCo8qr8m/Clumps-forge-1.20.2-13.0.0.6.jar",
+					"version": "TCo8qr8m"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/rr2I0f2d/Clumps-fabric-1.20.2-13.0.0.5.jar",
+					"version": "rr2I0f2d"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/6BTKfXuu/Clumps-neoforge-1.20.2-13.0.0.5.jar",
+					"version": "6BTKfXuu"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/KdL0z8sJ/Clumps-forge-1.20.2-13.0.0.5.jar",
+					"version": "KdL0z8sJ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/7uEaptM0/Clumps-fabric-1.20.2-13.0.0.4.jar",
+					"version": "7uEaptM0"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/fI2Xyf3B/Clumps-forge-1.20.2-13.0.0.4.jar",
+					"version": "fI2Xyf3B"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/JLW0F6Gv/Clumps-fabric-1.20.2-13.0.0.3.jar",
+					"version": "JLW0F6Gv"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/Xe0n6L7a/Clumps-forge-1.20.2-13.0.0.3.jar",
+					"version": "Xe0n6L7a"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/h7A9nDyj/Clumps-fabric-1.20.2-13.0.0.2.jar",
+					"version": "h7A9nDyj"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/2oGTbJ0i/Clumps-forge-1.20.2-13.0.0.2.jar",
+					"version": "2oGTbJ0i"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/62dNqSyR/Clumps-fabric-1.20.2-13.0.0.1.jar",
+					"version": "62dNqSyR"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/Z9fVV1cT/Clumps-forge-1.20.2-13.0.0.1.jar",
+					"version": "Z9fVV1cT"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/l3neajc5/Clumps-fabric-1.20.1-12.0.0.3.jar",
+					"version": "l3neajc5"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/yQVnODwU/Clumps-forge-1.20.1-12.0.0.3.jar",
+					"version": "yQVnODwU"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/ePSovy2R/Clumps-fabric-1.20-11.0.0.2.jar",
+					"version": "ePSovy2R"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/fN6SUor0/Clumps-forge-1.20-11.0.0.2.jar",
+					"version": "fN6SUor0"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/30DEnQJE/Clumps-fabric-1.20.1-12.0.0.2.jar",
+					"version": "30DEnQJE"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/4AR5fMpn/Clumps-forge-1.20.1-12.0.0.2.jar",
+					"version": "4AR5fMpn"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/GnrWAVQK/Clumps-fabric-1.20.1-12.0.0.1.jar",
+					"version": "GnrWAVQK"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/zRROXgDL/Clumps-forge-1.20.1-12.0.0.1.jar",
+					"version": "zRROXgDL"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/5q2RWTZ9/Clumps-fabric-1.20-11.0.0.1.jar",
+					"version": "5q2RWTZ9"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/LwT3i65m/Clumps-forge-1.20-11.0.0.1.jar",
+					"version": "LwT3i65m"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/fTlqeNs3/Clumps-fabric-1.20-11.0.0.1.jar",
+					"version": "fTlqeNs3"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/EZUmgjMH/Clumps-forge-1.20-11.0.0.1.jar",
+					"version": "EZUmgjMH"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/pf9z7BdE/Clumps-forge-1.19.4-10.0.0.3.jar",
+					"version": "pf9z7BdE"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/na30ifJS/Clumps-fabric-1.19.4-10.0.0.3.jar",
+					"version": "na30ifJS"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/qPvk2bmy/Clumps-forge-1.19.4-10.0.0.2.jar",
+					"version": "qPvk2bmy"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/yvGMz75G/Clumps-fabric-1.19.4-10.0.0.2.jar",
+					"version": "yvGMz75G"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/aTvlJ7V9/Clumps-forge-1.19.4-10.0.0.1.jar",
+					"version": "aTvlJ7V9"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/tiS16mGn/Clumps-fabric-1.19.4-10.0.0.1.jar",
+					"version": "tiS16mGn"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/Y5BmdUtM/Clumps-forge-1.19.3-9.0.0%2B16.jar",
+					"version": "Y5BmdUtM"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/IQGoFJYP/Clumps-fabric-1.19.3-9.0.0%2B16.jar",
+					"version": "IQGoFJYP"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/Nbrq3pvu/Clumps-forge-1.19.3-9.0.0%2B15.jar",
+					"version": "Nbrq3pvu"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/BlDe1jqg/Clumps-fabric-1.19.3-9.0.0%2B15.jar",
+					"version": "BlDe1jqg"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3GURrv52/Clumps-forge-1.19.2-9.0.0%2B14.jar",
+					"version": "3GURrv52"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/pu9hcKsp/Clumps-fabric-1.19.2-9.0.0%2B14.jar",
+					"version": "pu9hcKsp"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/t18CfscF/Clumps-forge-1.18.2-8.0.0%2B17.jar",
+					"version": "t18CfscF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/hwWceR4m/Clumps-fabric-1.18.2-8.0.0%2B17.jar",
+					"version": "hwWceR4m"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/klW0myvn/Clumps-forge-1.18.2-8.0.0%2B13.jar",
+					"version": "klW0myvn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/N1HpDUJK/Clumps-fabric-1.18.2-8.0.0%2B13.jar",
+					"version": "N1HpDUJK"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/MKiINIqy/Clumps-forge-1.18.2-8.0.0%2B16.jar",
+					"version": "MKiINIqy"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/KYNXYqwG/Clumps-fabric-1.18.2-8.0.0%2B16.jar",
+					"version": "KYNXYqwG"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/UId1Oi4e/Clumps-forge-1.19.2-9.0.0%2B11.jar",
+					"version": "UId1Oi4e"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/4h8s4N4m/Clumps-fabric-1.19.2-9.0.0%2B11.jar",
+					"version": "4h8s4N4m"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/FRktsfso/Clumps-forge-1.19.1-9.0.0%2B10.jar",
+					"version": "FRktsfso"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/BcqP4XTU/Clumps-fabric-1.19.1-9.0.0%2B10.jar",
+					"version": "BcqP4XTU"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/wb2m4G4N/Clumps-forge-1.18.2-8.0.0%2B15.jar",
+					"version": "wb2m4G4N"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/7mmSmyfc/Clumps-fabric-1.18.2-8.0.0%2B15.jar",
+					"version": "7mmSmyfc"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/jpwxpMB1/Clumps-forge-1.19.1-9.0.0%2B9.jar",
+					"version": "jpwxpMB1"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/N40QLcL8/Clumps-fabric-1.19.1-9.0.0%2B9.jar",
+					"version": "N40QLcL8"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/HkwE1Hla/Clumps-forge-1.19.1-9.0.0%2B8.jar",
+					"version": "HkwE1Hla"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nvpGk3Xn/Clumps-fabric-1.19.1-9.0.0%2B8.jar",
+					"version": "nvpGk3Xn"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/oTaQQP72/Clumps-forge-1.19-9.0.0%2B7.jar",
+					"version": "oTaQQP72"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/oH2kHLZT/Clumps-fabric-1.19-9.0.0%2B7.jar",
+					"version": "oH2kHLZT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/zkCCKRNT/Clumps-forge-1.18.2-8.0.0%2B14.jar",
+					"version": "zkCCKRNT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/uGVtPl4l/Clumps-fabric-1.18.2-8.0.0%2B14.jar",
+					"version": "uGVtPl4l"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/Ke4qgpLt/Clumps-forge-1.18.2-8.0.0%2B13.jar",
+					"version": "Ke4qgpLt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/1FT90X9E/Clumps-fabric-1.18.2-8.0.0%2B13.jar",
+					"version": "1FT90X9E"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/MkMRGkr6/Clumps-forge-1.19-9.0.0%2B6.jar",
+					"version": "MkMRGkr6"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/SYSnPECv/Clumps-fabric-1.19-9.0.0%2B6.jar",
+					"version": "SYSnPECv"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/UmFe4S0c/Clumps-forge-1.19-9.0.0%2B5.jar",
+					"version": "UmFe4S0c"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/hnxzDUav/Clumps-fabric-1.19-9.0.0%2B5.jar",
+					"version": "hnxzDUav"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/Hrt4D2se/Clumps-forge-1.18.2-8.0.0%2B12.jar",
+					"version": "Hrt4D2se"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/2WUro9Vp/Clumps-fabric-1.18.2-8.0.0%2B12.jar",
+					"version": "2WUro9Vp"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/sh7X4I2y/Clumps-forge-1.19-9.0.0%2B4.jar",
+					"version": "sh7X4I2y"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/r69CWcGO/Clumps-forge-1.18.2-8.0.0%2B11.jar",
+					"version": "r69CWcGO"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/JGu6BDFO/Clumps-fabric-1.18.2-8.0.0%2B11.jar",
+					"version": "JGu6BDFO"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nuz7LOld/Clumps-fabric-1.19-9.0.0%2B4.jar",
+					"version": "nuz7LOld"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/ptOjPKUD/Clumps-forge-1.18.2-8.0.0%2B10.jar",
+					"version": "ptOjPKUD"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/eKxVcvwX/Clumps-fabric-1.18.2-8.0.0%2B10.jar",
+					"version": "eKxVcvwX"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/yPvrslL3/Clumps-forge-1.19-9.0.0%2B3.jar",
+					"version": "yPvrslL3"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/pePFYnZ8/Clumps-fabric-1.19-9.0.0%2B3.jar",
+					"version": "pePFYnZ8"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nLgUCki4/Clumps-forge-1.19-9.0.0%2B2.jar",
+					"version": "nLgUCki4"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/lI1Rscqr/Clumps-forge-1.18.2-8.0.0%2B9.jar",
+					"version": "lI1Rscqr"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/dcOL77zc/Clumps-fabric-1.19-9.0.0%2B2.jar",
+					"version": "dcOL77zc"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/JJ8S77j7/Clumps-fabric-1.18.2-8.0.0%2B9.jar",
+					"version": "JJ8S77j7"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/ssnANiog/Clumps-forge-1.19-9.0.0%2B1.jar",
+					"version": "ssnANiog"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/oasiVUpa/Clumps-fabric-1.19-9.0.0%2B1.jar",
+					"version": "oasiVUpa"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/xJwCqvzt/Clumps-forge-1.18.2-8.0.0%2B8.jar",
+					"version": "xJwCqvzt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/l4IskRR5/Clumps-fabric-1.18.2-8.0.0%2B8.jar",
+					"version": "l4IskRR5"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/gRpWIMha/Clumps-forge-1.18.2-8.0.0%2B7.jar",
+					"version": "gRpWIMha"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/BxGXjwSg/Clumps-fabric-1.18.2-8.0.0%2B7.jar",
+					"version": "BxGXjwSg"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/qy5gqUCM/Clumps-forge-1.18.2-8.0.0%2B6.jar",
+					"version": "qy5gqUCM"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/QkUVbfJV/Clumps-fabric-1.18.2-8.0.0%2B6.jar",
+					"version": "QkUVbfJV"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/UutzgwbZ/Clumps-6.0.0.28.jar",
+					"version": "UutzgwbZ"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/EAjgpiKA/Clumps-forge-1.18.1-8.0.0%2B5.jar",
+					"version": "EAjgpiKA"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3H5r9v4h/Clumps-fabric-1.18.1-8.0.0%2B5.jar",
+					"version": "3H5r9v4h"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/QdyDo2La/Clumps-forge-1.18.1-8.0.4.jar",
+					"version": "QdyDo2La"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/2ogOQExk/Clumps-fabric-1.18.1-8.0.4.jar",
+					"version": "2ogOQExk"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/aogHNv3y/Clumps-forge-1.18.1-8.0.3.jar",
+					"version": "aogHNv3y"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/pug6aepS/Clumps-fabric-1.18.1-8.0.3.jar",
+					"version": "pug6aepS"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3AH29I4c/Clumps-forge-1.18.1-8.0.2.jar",
+					"version": "3AH29I4c"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/qE3ikVnU/Clumps-fabric-1.18.1-8.0.2.jar",
+					"version": "qE3ikVnU"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/4oD9zKPV/Clumps-forge-1.18-8.0.1.jar",
+					"version": "4oD9zKPV"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/C52dmdfZ/Clumps-fabric-1.18-8.0.1.jar",
+					"version": "C52dmdfZ"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nZ5nhrKv/Clumps-forge-1.17.1-7.0.10.jar",
+					"version": "nZ5nhrKv"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/cB8mFWgx/Clumps-fabric-1.17.1-7.0.10.jar",
+					"version": "cB8mFWgx"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/WEPinRvr/Clumps-6.0.0.27.jar",
+					"version": "WEPinRvr"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/THJnSpxM/Clumps-forge-1.17.1-7.0.8.jar",
+					"version": "THJnSpxM"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/JKr8b0On/Clumps-fabric-1.17.1-7.0.8.jar",
+					"version": "JKr8b0On"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/ghtGew4o/Clumps-6.0.0.26.jar",
+					"version": "ghtGew4o"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/rcImocgP/Clumps-forge-1.17.1-7.0.7.jar",
+					"version": "rcImocgP"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/iCqS0XV6/Clumps-fabric-1.17.1-7.0.7.jar",
+					"version": "iCqS0XV6"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/qgAkNod5/Clumps-forge-1.17.1-7.0.6.jar",
+					"version": "qgAkNod5"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/dMXKxndc/Clumps-fabric-1.17.1-7.0.6.jar",
+					"version": "dMXKxndc"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"21w37a"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/LTLe60ZJ/Clumps-fabric-1.17.1-7.0.5.jar",
+					"version": "LTLe60ZJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1-rc2",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/c5XwSPGO/Clumps-fabric-1.17.1-7.0.4.jar",
+					"version": "c5XwSPGO"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1-pre1",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/Y3KgUihY/Clumps-fabric-1.17-7.0.0.2.jar",
+					"version": "Y3KgUihY"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/bXpU2lu9/Clumps-5.0.2.8.jar",
+					"version": "bXpU2lu9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/DeVfca9r/Clumps-6.0.0.25.jar",
+					"version": "DeVfca9r"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/QqCGODhN/Clumps-6.0.0.24.jar",
+					"version": "QqCGODhN"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/QfW5PBK0/Clumps-6.0.0.23.jar",
+					"version": "QfW5PBK0"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/kX922wv5/Clumps-5.0.2.7.jar",
+					"version": "kX922wv5"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/v6nZL7ij/Clumps-6.0.0.22.jar",
+					"version": "v6nZL7ij"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/iKpD3bu5/Clumps-6.0.0.21.jar",
+					"version": "iKpD3bu5"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/qMEjJ46Z/Clumps-6.0.0.20.jar",
+					"version": "qMEjJ46Z"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/a4YkXTss/Clumps-6.0.0.19.jar",
+					"version": "a4YkXTss"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/Ge8WfKwm/Clumps-6.0.0.18.jar",
+					"version": "Ge8WfKwm"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/60tArTRZ/Clumps-6.0.0.17.jar",
+					"version": "60tArTRZ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/gjSDwzYc/Clumps-6.0.0.16.jar",
+					"version": "gjSDwzYc"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/ABZ5Czfa/Clumps-6.0.0.15.jar",
+					"version": "ABZ5Czfa"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/CK3gP3au/Clumps-6.0.0.14.jar",
+					"version": "CK3gP3au"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/gKfIS5UE/Clumps-6.0.0.13.jar",
+					"version": "gKfIS5UE"
+				},
+				{
+					"minecraft_versions": "1.16.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/ZG68IYMG/Clumps-6.0.0.12.jar",
+					"version": "ZG68IYMG"
+				},
+				{
+					"minecraft_versions": "1.16.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/At7EuPwE/Clumps-6.0.0.11.jar",
+					"version": "At7EuPwE"
+				},
+				{
+					"minecraft_versions": "1.16.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/14gDpVDM/Clumps-6.0.0.10.jar",
+					"version": "14gDpVDM"
+				},
+				{
+					"minecraft_versions": "1.16.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/BLPxOCPb/Clumps-6.0.0.9.jar",
+					"version": "BLPxOCPb"
+				},
+				{
+					"minecraft_versions": "1.16.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/k0Jwkd3m/Clumps-6.0.0.8.jar",
+					"version": "k0Jwkd3m"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/KBjSLpWi/Clumps-5.0.2.6.jar",
+					"version": "KBjSLpWi"
+				},
+				{
+					"minecraft_versions": "1.16.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/HT5eROlq/Clumps-6.0.0.7.jar",
+					"version": "HT5eROlq"
+				},
+				{
+					"minecraft_versions": "1.16.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/xGvjcE7h/Clumps-6.0.0.5.jar",
+					"version": "xGvjcE7h"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/aqIk2Edw/Clumps-5.0.2.5.jar",
+					"version": "aqIk2Edw"
+				},
+				{
+					"minecraft_versions": "1.16.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/W9FnDe1l/Clumps-6.0.0.4.jar",
+					"version": "W9FnDe1l"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/F8pfwrMz/Clumps-5.0.2.4.jar",
+					"version": "F8pfwrMz"
+				},
+				{
+					"minecraft_versions": "1.16.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/ihiDVwNa/Clumps-6.0.0.3.jar",
+					"version": "ihiDVwNa"
+				},
+				{
+					"minecraft_versions": "1.16.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/D4jsjhXA/Clumps-6.0.0.2.jar",
+					"version": "D4jsjhXA"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/A8fHbFS6/Clumps-5.0.1.3.jar",
+					"version": "A8fHbFS6"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/2MDA8v5I/Clumps-5.0.1.2.jar",
+					"version": "2MDA8v5I"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/Km2A7nLe/Clumps-5.0.2.jar",
+					"version": "Km2A7nLe"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/fTWVa6NX/Clumps-5.0.1.jar",
+					"version": "fTWVa6NX"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/8jfhokYb/Clumps-5.0.0.jar",
+					"version": "8jfhokYb"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/xVBjqLw6/Clumps-4.0.1.jar",
+					"version": "xVBjqLw6"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/YBmchP0h/Clumps-4.0.0.jar",
+					"version": "YBmchP0h"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nZvGITpT/Clumps-3.1.2.jar",
+					"version": "nZvGITpT"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/WUfSMmN9/Clumps-3.1.1.jar",
+					"version": "WUfSMmN9"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/6fWV0xJt/Clumps-3.1.0.jar",
+					"version": "6fWV0xJt"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/gLaYxa4s/Clumps-3.0.0.jar",
+					"version": "gLaYxa4s"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/gGoDFlua/Clumps-2.0.0.jar",
+					"version": "gGoDFlua"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/k8jlVbEc/Clumps-1.0.5.jar",
+					"version": "k8jlVbEc"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/YlKKvqsg/Clumps-1.0.4.jar",
+					"version": "YlKKvqsg"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/HWb4PbLd/Clumps-1.0.2.jar",
+					"version": "HWb4PbLd"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/2PT9pbRj/Clumps-1.0.1.jar",
+					"version": "2PT9pbRj"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/9hlctcDE/Clumps-1.0.0.jar",
+					"version": "9hlctcDE"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"jaredlll08"
+		],
+		"description": "Clumps XP orbs together to reduce lag",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/Wnxd13zP/e723aa383ad7161a541242097e1d3223f582b967.gif",
+		"issues": "https://github.com/jaredlll08/Clumps/issues",
+		"license": "MIT",
+		"long_description": "Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. On top of this, it also makes the player immediately collect the orbs once they touch the player, so you are not stuck with a bunch of orbs in your face.\n\n### Do I have to install it client or server side?\n* For **1.17 or newer versions** it is only required on **server side**.\n* For **older Minecraft versions** you have to install it on **both sides**.\n\nIf you would like to support me in my modding endeavors, you can become a patron via **[![Patreon logo](https://i.imgur.com/CAJuExT.png) Patreon](https://www.patreon.com/jaredlll08)**.\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/jared.jpg)](https://nodecraft.com/r/jared)\n\n**This project is sponsored by Nodecraft. Use code [JARED](https://nodecraft.com/r/jared) for 30% off your first month of service!**",
+		"name": "Clumps",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/jaredlll08/Clumps",
+		"support_link": "https://www.patreon.com/jaredlll08"
+	},
+	"properties": {
+		"modrinth_id": "Wnxd13zP",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.10.2",
+			"1.11.2",
+			"1.12",
+			"1.12.1",
+			"1.12.2",
+			"1.14.3",
+			"1.14.4",
+			"1.15.2",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1-pre1",
+			"1.17.1-rc2",
+			"1.17.1",
+			"21w37a",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}
