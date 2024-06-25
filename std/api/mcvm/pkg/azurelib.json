@@ -5,6 +5,188 @@
 			"versions": [
 				{
 					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/9WQq5hKi/azurelib-fabric-1.21-2.3.4.jar",
+					"version": "9WQq5hKi"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/YHZmhguA/azurelib-neo-1.21-2.3.4.jar",
+					"version": "YHZmhguA"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/RQd45Rw1/azurelib-neo-1.20.6-2.2.9.jar",
+					"version": "RQd45Rw1"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/Afcko6qi/azurelib-fabric-1.20.6-2.2.9.jar",
+					"version": "Afcko6qi"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/orGG6NWf/azurelib-fabric-1.20.4-2.1.13.jar",
+					"version": "orGG6NWf"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/OjW7mivT/azurelib-neo-1.20.4-2.1.13.jar",
+					"version": "OjW7mivT"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/poC4xT0a/azurelib-fabric-1.20.1-2.0.27.jar",
+					"version": "poC4xT0a"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/AFMo1XPB/azurelib-neo-1.20.1-2.0.27.jar",
+					"version": "AFMo1XPB"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/QsdEfOQ9/azurelib-fabric-1.19.4-1.0.38.jar",
+					"version": "QsdEfOQ9"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/57ZiF6qo/azurelib-forge-1.19.4-1.0.38.jar",
+					"version": "57ZiF6qo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/d9tTAfFj/azurelib-fabric-1.19.2-1.0.44.jar",
+					"version": "d9tTAfFj"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/VCvHvlNc/azurelib-forge-1.19.2-1.0.44.jar",
+					"version": "VCvHvlNc"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/bvQiDLJN/azurelib-forge-1.18.2-1.0.35.jar",
+					"version": "bvQiDLJN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/vEOStZm8/azurelib-fabric-1.18.2-1.0.35.jar",
+					"version": "vEOStZm8"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/BRy9wa64/azurelib-fabric-1.16.5-1.0.39.jar",
+					"version": "BRy9wa64"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/MhKoCew7/azurelib-forge-1.16.5-1.0.39.jar",
+					"version": "MhKoCew7"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/OzTNOyZC/azurelib-fabric-1.21-2.3.3.jar",
+					"version": "OzTNOyZC"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/ydKnSteM/azurelib-neo-1.21-2.3.3.jar",
+					"version": "ydKnSteM"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/6oULTjIb/azurelib-neo-1.20.6-2.2.8.jar",
+					"version": "6oULTjIb"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/5Fprg2Sl/azurelib-fabric-1.20.6-2.2.8.jar",
+					"version": "5Fprg2Sl"
+				},
+				{
+					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/29ttB8pY/azurelib-neo-1.21-2.3.2.jar",
@@ -3154,7 +3336,6 @@
 						"quilt"
 					],
 					"relations": {
-						"conflicts": "none",
 						"dependencies": "fabriclike-api"
 					},
 					"stability": "stable",

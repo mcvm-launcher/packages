@@ -5,6 +5,26 @@
 			"versions": [
 				{
 					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/8YTXrNeo/moonlight-1.20-2.12.4-forge.jar",
+					"version": "8YTXrNeo"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/nbhmloUo/moonlight-1.20-2.12.4-fabric.jar",
+					"version": "nbhmloUo"
+				},
+				{
+					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"

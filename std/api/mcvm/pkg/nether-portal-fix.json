@@ -10,6 +10,39 @@
 						"dependencies": "balm"
 					},
 					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/s2l2gzHa/netherportalfix-neoforge-1.21-21.0.2.jar",
+					"version": "s2l2gzHa"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/rXrUOY9t/netherportalfix-forge-1.21-21.0.2.jar",
+					"version": "rXrUOY9t"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/nSxqDibl/netherportalfix-fabric-1.21-21.0.2.jar",
+					"version": "nSxqDibl"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/zvvmCZw9/netherportalfix-neoforge-1.21-21.0.1.jar",
 					"version": "zvvmCZw9"
 				},

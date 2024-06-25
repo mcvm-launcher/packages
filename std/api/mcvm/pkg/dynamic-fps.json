@@ -5,6 +5,409 @@
 			"versions": [
 				{
 					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/BNf9EmNl/dynamic-fps-3.5.0%2Bminecraft-1.21.0-neoforge.jar",
+					"version": "BNf9EmNl"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pHWNKS7t/dynamic-fps-3.5.0%2Bminecraft-1.21.0-fabric.jar",
+					"version": "pHWNKS7t"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/ESoagl4C/dynamic-fps-3.5.0%2Bminecraft-1.20.5-neoforge.jar",
+					"version": "ESoagl4C"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/OjAim4Jo/dynamic-fps-3.5.0%2Bminecraft-1.20.5-fabric.jar",
+					"version": "OjAim4Jo"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/8Hd00M1M/dynamic-fps-3.5.0%2Bminecraft-1.20.2-neoforge.jar",
+					"version": "8Hd00M1M"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/U1cZ1TL7/dynamic-fps-3.5.0%2Bminecraft-1.20.0-quilt.jar",
+					"version": "U1cZ1TL7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/5fk6vDb1/dynamic-fps-3.5.0%2Bminecraft-1.20.0-forge.jar",
+					"version": "5fk6vDb1"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/aPRTCnlc/dynamic-fps-3.5.0%2Bminecraft-1.20.0-fabric.jar",
+					"version": "aPRTCnlc"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wzp3skkc/dynamic-fps-3.5.0%2Bminecraft-1.19.4-quilt.jar",
+					"version": "wzp3skkc"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/PyDPmXHD/dynamic-fps-3.5.0%2Bminecraft-1.19.4-forge.jar",
+					"version": "PyDPmXHD"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/NU3HRHXj/dynamic-fps-3.5.0%2Bminecraft-1.19.4-fabric.jar",
+					"version": "NU3HRHXj"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/z9Xj6TuQ/dynamic-fps-3.5.0%2Bminecraft-1.19.3-quilt.jar",
+					"version": "z9Xj6TuQ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/F7x3PReU/dynamic-fps-3.5.0%2Bminecraft-1.19.3-forge.jar",
+					"version": "F7x3PReU"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/MbErXFSW/dynamic-fps-3.5.0%2Bminecraft-1.19.3-fabric.jar",
+					"version": "MbErXFSW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/LF4zDKeR/dynamic-fps-3.5.0%2Bminecraft-1.19.0-quilt.jar",
+					"version": "LF4zDKeR"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/TLSV8m3h/dynamic-fps-3.5.0%2Bminecraft-1.19.0-forge.jar",
+					"version": "TLSV8m3h"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/aM6FmhY7/dynamic-fps-3.5.0%2Bminecraft-1.19.0-fabric.jar",
+					"version": "aM6FmhY7"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/H3jM6EoR/dynamic-fps-3.5.0%2Bminecraft-1.18.2-quilt.jar",
+					"version": "H3jM6EoR"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/XNQmNGUo/dynamic-fps-3.5.0%2Bminecraft-1.18.0-forge.jar",
+					"version": "XNQmNGUo"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/ANanuCGR/dynamic-fps-3.5.0%2Bminecraft-1.18.0-fabric.jar",
+					"version": "ANanuCGR"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/mUoNvE18/dynamic-fps-3.5.0%2Bminecraft-1.17.0-fabric.jar",
+					"version": "mUoNvE18"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/U0tp6QIQ/dynamic-fps-3.5.0%2Bminecraft-1.16.4-fabric.jar",
+					"version": "U0tp6QIQ"
+				},
+				{
+					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api",
@@ -2884,7 +3287,7 @@
 			"fps"
 		],
 		"license": "MIT",
-		"long_description": "# Dynamic FPS\n\nReduce resource usage while Minecraft is in the background or idle.\n\n## Features\n\nDynamic FPS will detect whether the Minecraft window is currently active, being hovered over, unfocused, or invisible.  \nFor each of these states you're able to adjust the frame rate, volume, and whether [toast notifications](https://minecraft.wiki/w/Toasts) are temporarily paused.\n\nThere's also an option to enter an idle state while the window is active but hasn't received any input in a certain amount of time.\n\n---\n\nIn addition to this Dynamic FPS fixes a vanilla bug causing higher-than-necessary background CPU usage and stops \nrendering the world while it's being obscured by opaque screens or the resource loading overlay, helping especially on low-end systems.\n\n## Installation\n\nDynamic FPS is available for download on [GitHub](https://github.com/juliand665/Dynamic-FPS/releases), [Modrinth](https://modrinth.com/mod/dynamic-fps), and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps).  \nTo access the in-game config screen you'll also need to install [Mod Menu](https://modrinth.com/mod/modmenu) and [Cloth Config](https://modrinth.com/mod/cloth-config).\n\n## Frequently Asked Questions\n\n- Why is Minecraft still running at 15 FPS?\n\nDynamic FPS will only slow the client render loop to a minimum of 15 cycles per second.\nLower frame rates are achieved by then cancelling the rendering of all superfluous frames, e.g. 14 out of 15 frames are cancelled for 1 FPS.\n\nThis lets you resume playing almost instantly after switching back to the game:\nInstead of having to wait for up to a second until the next rendered frame comes along, the game checks back within 1/15th of a second.\n",
+		"long_description": "# Dynamic FPS\n\nReduce resource usage while Minecraft is in the background or idle.\n\n## Features\n\nDynamic FPS will detect whether the Minecraft window is currently active, being hovered over, unfocused, or invisible.  \nFor each of these states you're able to adjust the frame rate, volume, and whether [toast notifications](https://minecraft.wiki/w/Toasts) are temporarily paused.\n\nYou can also configure these settings for when you're idling (with a custom timeout) or while your laptop / handheld is on battery.  \nOptionally you may also display the current battery status on the in-game HUD and receive toast notifications about battery activity.\n\n---\n\nIn addition to this Dynamic FPS fixes a vanilla bug causing higher-than-necessary background CPU usage and stops\nrendering the world while it's being obscured by resource loading overlay, helping especially on low-end systems.\n\n## Installation\n\nDynamic FPS is available for download on [GitHub](https://github.com/juliand665/Dynamic-FPS/releases), [Modrinth](https://modrinth.com/mod/dynamic-fps), and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps).  \nTo access the in-game config screen you'll also need to install [Mod Menu](https://modrinth.com/mod/modmenu) and [Cloth Config](https://modrinth.com/mod/cloth-config).\n\n## Frequently Asked Questions\n\n- Why is Minecraft still running at 15 FPS?\n\nDynamic FPS will only slow the client render loop to a minimum of 15 cycles per second.\nLower frame rates are achieved by then cancelling the rendering of all superfluous frames, e.g. 14 out of 15 frames are cancelled for 1 FPS.\n\nThis lets you resume playing almost instantly after switching back to the game:\nInstead of having to wait for up to a second until the next rendered frame comes along, the game checks back within 1/15th of a second.\n\n## Disclaimer\n\nEnabling the battery integration requires downloading an additional library at runtime.  \nThe mod contains the hashes for these files ahead of time and will verify them before usage.\n\nYou may disable this behavior in the mod's settings, or [install the library yourself](https://github.com/juliand665/Dynamic-FPS/blob/main/GitHub/MANUAL_NATIVES_INSTALL.md) if you wish.\n",
 		"name": "Dynamic FPS",
 		"package_maintainers": [
 			"mcvm"

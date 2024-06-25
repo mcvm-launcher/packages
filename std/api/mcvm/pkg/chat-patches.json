@@ -4,6 +4,25 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/7ZefzlQj/chatpatches-210.6.5.1.jar",
+					"version": "7ZefzlQj"
+				},
+				{
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6",
@@ -18,14 +37,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/B91cShwU/chatpatches-210.6.5.jar",
@@ -45,14 +59,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/ECh8lQdZ/chatpatches-206.6.5.jar",
@@ -69,14 +78,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/taEC8YQD/chatpatches-204.6.5.jar",
@@ -93,14 +97,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/DFrrKCKP/chatpatches-204.6.4.jar",
@@ -117,14 +116,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/CJSA1rj9/chatpatches-202.6.4.jar",
@@ -141,14 +135,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/LPwnOOhD/chatpatches-202.6.3.jar",
@@ -166,14 +155,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/TC2Pejkl/chatpatches-204.6.2.jar",
@@ -188,14 +172,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/AWV0aVEo/chatpatches-202.6.2.jar",
@@ -213,14 +192,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/3Y4dmZD1/chatpatches-204.6.1.jar",
@@ -235,14 +209,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/7uhNBAzE/chatpatches-203.6.0.jar",
@@ -260,14 +229,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/lXK3AMbd/chatpatches-202.6.0.jar",
@@ -285,14 +249,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/rIcsIYC8/chatpatches-202.5.7.jar",
@@ -310,14 +269,9 @@
 							"fabriclike-api",
 							"yacl"
 						],
-						"recommendations": [
-							{
-								"value": "mod-menu"
-							},
-							{
-								"value": "none"
-							}
-						]
+						"recommendations": {
+							"value": "mod-menu"
+						}
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/SuJk5vFM/chatpatches-202.5.6.jar",
@@ -338,10 +292,7 @@
 							"fabriclike-api",
 							"mod-menu",
 							"yacl"
-						],
-						"recommendations": {
-							"value": "none"
-						}
+						]
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/C3BmhD5L/chatpatches-201.5.5.jar",
@@ -362,10 +313,7 @@
 							"fabriclike-api",
 							"mod-menu",
 							"yacl"
-						],
-						"recommendations": {
-							"value": "none"
-						}
+						]
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/Qo2u33Ns/chatpatches-201.5.4.jar",
@@ -386,10 +334,7 @@
 							"fabriclike-api",
 							"mod-menu",
 							"yacl"
-						],
-						"recommendations": {
-							"value": "none"
-						}
+						]
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/Xuy9EuwZ/chatpatches-201.5.3.jar",
@@ -410,10 +355,7 @@
 							"fabriclike-api",
 							"mod-menu",
 							"yacl"
-						],
-						"recommendations": {
-							"value": "none"
-						}
+						]
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/AKNqioZO/chatpatches-201.5.2.jar",
@@ -434,10 +376,7 @@
 							"fabriclike-api",
 							"mod-menu",
 							"yacl"
-						],
-						"recommendations": {
-							"value": "none"
-						}
+						]
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/MTvcOi4I/chatpatches-201.5.1.jar",
@@ -455,10 +394,7 @@
 							"fabriclike-api",
 							"mod-menu",
 							"yacl"
-						],
-						"recommendations": {
-							"value": "none"
-						}
+						]
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/yAnJTT2l/chatpatches-194.5.1.jar",
@@ -476,10 +412,7 @@
 							"fabriclike-api",
 							"mod-menu",
 							"yacl"
-						],
-						"recommendations": {
-							"value": "none"
-						}
+						]
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/lyjYrZZr/chatpatches-194.5.0.jar",
@@ -500,9 +433,6 @@
 						"recommendations": [
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							},
 							{
 								"value": "yacl"
@@ -530,9 +460,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -556,9 +483,6 @@
 						"recommendations": [
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							},
 							{
 								"value": "yacl"
@@ -586,9 +510,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -612,9 +533,6 @@
 						"recommendations": [
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							},
 							{
 								"value": "yacl"
@@ -642,9 +560,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -670,9 +585,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -696,9 +608,6 @@
 						"recommendations": [
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							},
 							{
 								"value": "yacl"
@@ -754,9 +663,6 @@
 							},
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							}
 						]
 					},
@@ -776,9 +682,6 @@
 						"recommendations": [
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							},
 							{
 								"value": "yacl"
@@ -806,9 +709,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -834,9 +734,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -857,9 +754,6 @@
 						"recommendations": [
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							},
 							{
 								"value": "yacl"
@@ -884,9 +778,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -907,9 +798,6 @@
 						"recommendations": [
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							},
 							{
 								"value": "yacl"
@@ -937,9 +825,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -960,9 +845,6 @@
 						"recommendations": [
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							},
 							{
 								"value": "yacl"
@@ -990,9 +872,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -1015,9 +894,6 @@
 								"value": "mod-menu"
 							},
 							{
-								"value": "none"
-							},
-							{
 								"value": "yacl"
 							}
 						]
@@ -1038,9 +914,6 @@
 						"recommendations": [
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							},
 							{
 								"value": "yacl"
@@ -1066,9 +939,6 @@
 							},
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							}
 						]
 					},
@@ -1091,9 +961,6 @@
 							},
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							}
 						]
 					},
@@ -1119,9 +986,6 @@
 							},
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							}
 						]
 					},
@@ -1147,9 +1011,6 @@
 							},
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							}
 						]
 					},
@@ -1172,10 +1033,7 @@
 							"cloth-config",
 							"fabriclike-api",
 							"mod-menu"
-						],
-						"recommendations": {
-							"value": "none"
-						}
+						]
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/9AXNr0QH/1.19.x-wmch-1.19.2-1.5.5.jar",
@@ -1193,10 +1051,7 @@
 							"cloth-config",
 							"fabriclike-api",
 							"mod-menu"
-						],
-						"recommendations": {
-							"value": "none"
-						}
+						]
 					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/243ESwKL/1.19.x-wmch-1.19.2-1.5.3.jar",
@@ -1214,9 +1069,6 @@
 							},
 							{
 								"value": "mod-menu"
-							},
-							{
-								"value": "none"
 							}
 						]
 					},
