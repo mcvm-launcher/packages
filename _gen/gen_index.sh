@@ -13,7 +13,7 @@ for FILENAME in ../std/api/mcvm/pkg/*; do
 	STRIPPED=$(echo $FILENAME | sed -e 's/\.pkg\.txt//g')
 	# If they are the same then the package is declarative
 	[ "$STRIPPED" = "$FILENAME" ] && CONTENT_TYPE="declarative"
-	STRIPPED=$(echo $FILENAME | sed -e 's/\.json//g')
+	STRIPPED=$(echo $STRIPPED | sed -e 's/\.json//g')
 
 	# Add the entry to the list
 	ENTRIES="$ENTRIES\"$STRIPPED\": {\"path\": \"pkg/$FILENAME\",\"content_type\": \"$CONTENT_TYPE\"},"
