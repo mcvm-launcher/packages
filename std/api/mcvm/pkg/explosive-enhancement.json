@@ -1,0 +1,390 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/JLYnnbUi/explosive-enhancement-1.2.3-1.21.0.jar",
+					"version": "JLYnnbUi"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/LLkiKipc/explosive-enhancement-1.2.2-1.20.x.jar",
+					"version": "LLkiKipc"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/xExvGyF0/explosive-enhancement-1.2.2-1.19.4.jar",
+					"version": "xExvGyF0"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/zVIq1yhE/explosive-enhancement-1.2.2-1.19.3.jar",
+					"version": "zVIq1yhE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/u69b5o1A/explosive-enhancement-1.2.2-1.19.2.jar",
+					"version": "u69b5o1A"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/FJnk7qhP/explosive-enhancement-1.2.1-1.20.x.jar",
+					"version": "FJnk7qhP"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/Yd6Pzwa0/explosive-enhancement-1.2.1-1.19.4.jar",
+					"version": "Yd6Pzwa0"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/k11oWMV0/explosive-enhancement-1.2.1-1.19.3.jar",
+					"version": "k11oWMV0"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/GRT5GfJI/explosive-enhancement-1.2.1-1.19.2.jar",
+					"version": "GRT5GfJI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/GgXnvMPU/explosive-enhancement-1.2.0-1.20.x.jar",
+					"version": "GgXnvMPU"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/Z6SvlCPf/explosive-enhancement-1.2.0-1.19.4.jar",
+					"version": "Z6SvlCPf"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/rYijflDk/explosive-enhancement-1.2.0-1.19.3.jar",
+					"version": "rYijflDk"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/6l6aea2l/explosive-enhancement-1.2.0-1.19.2.jar",
+					"version": "6l6aea2l"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/P5LwjQZ1/explosive-enhancement-1.1.0-1.20.x.jar",
+					"version": "P5LwjQZ1"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/6yRyiiLL/explosive-enhancement-1.1.0-1.19.4.jar",
+					"version": "6yRyiiLL"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/Ho1KRE53/explosive-enhancement-1.1.0-1.19.3.jar",
+					"version": "Ho1KRE53"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/s3UXlttX/explosive-enhancement-1.1.0-1.19.2.jar",
+					"version": "s3UXlttX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/fiUJwmkX/explosive-enhancement-1.0.1-1.19.2.jar",
+					"version": "fiUJwmkX"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/bGhxVVas/explosive-enhancement-1.0.1-1.19.3.jar",
+					"version": "bGhxVVas"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Superkat32"
+		],
+		"banner": "https://cdn.modrinth.com/data/OSQ8mw2r/images/e3fba0360d9e4e210db4d474375f73dda567ddc9.gif",
+		"description": "Makes the explosion animation look cooler.",
+		"documentation": "https://github.com/Superkat32/Explosive-Enhancement/wiki",
+		"gallery": [
+			"https://cdn.modrinth.com/data/OSQ8mw2r/images/e3fba0360d9e4e210db4d474375f73dda567ddc9.gif",
+			"https://cdn.modrinth.com/data/OSQ8mw2r/images/80dd67cf47911226d5a5c99bcd1d6d8f6900971a.gif",
+			"https://cdn.modrinth.com/data/OSQ8mw2r/images/abc37404937a797346c766f980af098da367f4ce.webp",
+			"https://cdn.modrinth.com/data/OSQ8mw2r/images/89119dce18435faff6b4ea7928bacb190d097761.gif",
+			"https://cdn.modrinth.com/data/OSQ8mw2r/images/e7fa87b2a9d42fd938175f0a50fbef85d2dab3a5.gif",
+			"https://cdn.modrinth.com/data/OSQ8mw2r/images/1582bd82934cc17a2f80645d6b02319d69d6afb7.webp"
+		],
+		"icon": "https://cdn.modrinth.com/data/OSQ8mw2r/88f44e9ed022061b1eb865996b2f98fe01937de6.png",
+		"issues": "https://github.com/Superkat32/Explosive-Enhancement/issues",
+		"license": "MIT",
+		"long_description": "# Explosive Enhancement\n\n### Enhancing explosions since 2023.\n\nExplosive Enhancement is a simple mod that makes explosions look better. It adds many new particles, any of which you can enable/disable at will. You can also completely enable/disable the mod via the config too!\n\nThere is also a special underwater explosion effect for when an explosion occurs underwater. You can make it so that there are lots of bubbles during an underwater explosion for a very satisfying effect!\n\n## Dependencies\n\n**Requires** Fabric API and YetAnotherConfigLib.  \nAlso requires Mod Menu if you wish to edit the config.\n\n[![Requires Fabric API](https://i.imgur.com/OIHAigX.png)](https://modrinth.com/mod/fabric-api)",
+		"name": "Explosive Enhancement",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Superkat32/Explosive-Enhancement"
+	},
+	"properties": {
+		"modrinth_id": "OSQ8mw2r",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

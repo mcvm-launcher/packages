@@ -1,0 +1,1477 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/6NNzS3uf/Ping-Wheel-1.9.1-fabric-1.21.jar",
+					"version": "6NNzS3uf"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/KgZJ5AI7/Ping-Wheel-1.9.1-forge-1.21.jar",
+					"version": "KgZJ5AI7"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/AZSx4X1N/Ping-Wheel-1.9.1-fabric-1.20.1.jar",
+					"version": "AZSx4X1N"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/hIPuyoXC/Ping-Wheel-1.9.1-forge-1.20.1.jar",
+					"version": "hIPuyoXC"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/6yuuT8J5/Ping-Wheel-1.9.1-fabric-1.19.2.jar",
+					"version": "6yuuT8J5"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/RUMRkcdS/Ping-Wheel-1.9.1-forge-1.19.2.jar",
+					"version": "RUMRkcdS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/ib2lUpAK/Ping-Wheel-1.9.1-fabric-1.20.6.jar",
+					"version": "ib2lUpAK"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/ZR7Zd14M/Ping-Wheel-1.9.1-forge-1.20.6.jar",
+					"version": "ZR7Zd14M"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/kjkDrEoo/Ping-Wheel-1.9.1-fabric-1.20.4.jar",
+					"version": "kjkDrEoo"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/7Yx5BTEp/Ping-Wheel-1.9.1-forge-1.20.4.jar",
+					"version": "7Yx5BTEp"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/FeCQSCS7/Ping-Wheel-1.9.1-fabric-1.20.2.jar",
+					"version": "FeCQSCS7"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/yJLJHpCX/Ping-Wheel-1.9.1-forge-1.20.2.jar",
+					"version": "yJLJHpCX"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/WweVxOwN/Ping-Wheel-1.9.1-fabric-1.19.4.jar",
+					"version": "WweVxOwN"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/g9XSdBPR/Ping-Wheel-1.9.1-forge-1.19.4.jar",
+					"version": "g9XSdBPR"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/eClWNZl9/Ping-Wheel-1.9.1-fabric-1.19.3.jar",
+					"version": "eClWNZl9"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/a28YvLHK/Ping-Wheel-1.9.1-forge-1.19.3.jar",
+					"version": "a28YvLHK"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/6ne4VYVz/Ping-Wheel-1.9.1-fabric-1.18.2.jar",
+					"version": "6ne4VYVz"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/8dmc0nAh/Ping-Wheel-1.9.1-forge-1.18.2.jar",
+					"version": "8dmc0nAh"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/IZCWPlYX/Ping-Wheel-1.9.0-fabric-1.21.jar",
+					"version": "IZCWPlYX"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/D1bKvVUo/Ping-Wheel-1.9.0-forge-1.21.jar",
+					"version": "D1bKvVUo"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/6F4e27Zf/Ping-Wheel-1.9.0-fabric-1.20.6.jar",
+					"version": "6F4e27Zf"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/QiWi2UnA/Ping-Wheel-1.9.0-forge-1.20.6.jar",
+					"version": "QiWi2UnA"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/JcQHVxTK/Ping-Wheel-1.9.0-fabric-1.20.4.jar",
+					"version": "JcQHVxTK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/XvX2irVw/Ping-Wheel-1.9.0-forge-1.20.4.jar",
+					"version": "XvX2irVw"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/bMPZlD46/Ping-Wheel-1.9.0-fabric-1.20.2.jar",
+					"version": "bMPZlD46"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/2Mxql05M/Ping-Wheel-1.9.0-forge-1.20.2.jar",
+					"version": "2Mxql05M"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/BeLcIhOZ/Ping-Wheel-1.9.0-fabric-1.20.1.jar",
+					"version": "BeLcIhOZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/PRpMCNHO/Ping-Wheel-1.9.0-forge-1.20.1.jar",
+					"version": "PRpMCNHO"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/2985tVKo/Ping-Wheel-1.9.0-fabric-1.19.4.jar",
+					"version": "2985tVKo"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/ONfX83Vs/Ping-Wheel-1.9.0-forge-1.19.4.jar",
+					"version": "ONfX83Vs"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/XSI7sBU9/Ping-Wheel-1.9.0-fabric-1.19.3.jar",
+					"version": "XSI7sBU9"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/PquEhSaN/Ping-Wheel-1.9.0-forge-1.19.3.jar",
+					"version": "PquEhSaN"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/K9gY4Bbt/Ping-Wheel-1.9.0-fabric-1.19.2.jar",
+					"version": "K9gY4Bbt"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Z5W4uor7/Ping-Wheel-1.9.0-forge-1.19.2.jar",
+					"version": "Z5W4uor7"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/kpqcNyAt/Ping-Wheel-1.9.0-fabric-1.18.2.jar",
+					"version": "kpqcNyAt"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/9Lp4lsQz/Ping-Wheel-1.9.0-forge-1.18.2.jar",
+					"version": "9Lp4lsQz"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/uDfrgLT5/Ping-Wheel-1.8.0-fabric-1.20.6.jar",
+					"version": "uDfrgLT5"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/sVgDhV0s/Ping-Wheel-1.8.0-forge-1.20.6.jar",
+					"version": "sVgDhV0s"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/yT6z6Q5M/Ping-Wheel-1.8.0-fabric-1.20.4.jar",
+					"version": "yT6z6Q5M"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/qlxQeWy4/Ping-Wheel-1.8.0-forge-1.20.4.jar",
+					"version": "qlxQeWy4"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/hFgoYLGY/Ping-Wheel-1.8.0-fabric-1.20.2.jar",
+					"version": "hFgoYLGY"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/GpfR9VgJ/Ping-Wheel-1.8.0-forge-1.20.2.jar",
+					"version": "GpfR9VgJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/x5QSvZ9T/Ping-Wheel-1.8.0-fabric-1.20.1.jar",
+					"version": "x5QSvZ9T"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/CArugAmQ/Ping-Wheel-1.8.0-forge-1.20.1.jar",
+					"version": "CArugAmQ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/9GeEpHiP/Ping-Wheel-1.8.0-fabric-1.19.4.jar",
+					"version": "9GeEpHiP"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/mCStBNwY/Ping-Wheel-1.8.0-forge-1.19.4.jar",
+					"version": "mCStBNwY"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/BPP3n1xt/Ping-Wheel-1.8.0-fabric-1.19.3.jar",
+					"version": "BPP3n1xt"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/D19Rm4R4/Ping-Wheel-1.8.0-forge-1.19.3.jar",
+					"version": "D19Rm4R4"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/xSIWTSb7/Ping-Wheel-1.8.0-fabric-1.19.2.jar",
+					"version": "xSIWTSb7"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/WyHZppHn/Ping-Wheel-1.8.0-forge-1.19.2.jar",
+					"version": "WyHZppHn"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Py1kKhfg/Ping-Wheel-1.8.0-fabric-1.18.2.jar",
+					"version": "Py1kKhfg"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/GSWhcfgT/Ping-Wheel-1.8.0-forge-1.18.2.jar",
+					"version": "GSWhcfgT"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/YfCDEJzW/Ping-Wheel-1.7.1-fabric-1.20.4.jar",
+					"version": "YfCDEJzW"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Kh9LZ3EH/Ping-Wheel-1.7.1-forge-1.20.4.jar",
+					"version": "Kh9LZ3EH"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/5gYIzXXO/Ping-Wheel-1.7.1-fabric-1.20.2.jar",
+					"version": "5gYIzXXO"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/P6of6GDk/Ping-Wheel-1.7.1-forge-1.20.2.jar",
+					"version": "P6of6GDk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Y8dEw4Lk/Ping-Wheel-1.7.1-fabric-1.20.1.jar",
+					"version": "Y8dEw4Lk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/CCCaB7dB/Ping-Wheel-1.7.1-forge-1.20.1.jar",
+					"version": "CCCaB7dB"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/aVaafGOL/Ping-Wheel-1.7.1-fabric-1.19.4.jar",
+					"version": "aVaafGOL"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/BuEy7Iw6/Ping-Wheel-1.7.1-forge-1.19.4.jar",
+					"version": "BuEy7Iw6"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/dqCCmcJX/Ping-Wheel-1.7.1-fabric-1.19.3.jar",
+					"version": "dqCCmcJX"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/4jF7hhlG/Ping-Wheel-1.7.1-forge-1.19.3.jar",
+					"version": "4jF7hhlG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/GU2iK1kS/Ping-Wheel-1.7.1-fabric-1.19.2.jar",
+					"version": "GU2iK1kS"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Rt7wVCcP/Ping-Wheel-1.7.1-forge-1.19.2.jar",
+					"version": "Rt7wVCcP"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/UkYHSxfX/Ping-Wheel-1.7.1-fabric-1.18.2.jar",
+					"version": "UkYHSxfX"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/6lgWFLJ4/Ping-Wheel-1.7.1-forge-1.18.2.jar",
+					"version": "6lgWFLJ4"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/uYQC6t3C/Ping-Wheel-1.7.0-fabric-1.20.4.jar",
+					"version": "uYQC6t3C"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/QvdcR6ab/Ping-Wheel-1.7.0-forge-1.20.4.jar",
+					"version": "QvdcR6ab"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/QpblOI3h/Ping-Wheel-1.7.0-fabric-1.20.3.jar",
+					"version": "QpblOI3h"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/TzfEuVvM/Ping-Wheel-1.7.0-fabric-1.20.2.jar",
+					"version": "TzfEuVvM"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/hFdQdb9Q/Ping-Wheel-1.7.0-forge-1.20.2.jar",
+					"version": "hFdQdb9Q"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/lr7fyfnU/Ping-Wheel-1.7.0-fabric-1.20.1.jar",
+					"version": "lr7fyfnU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/QwcUAwON/Ping-Wheel-1.7.0-forge-1.20.1.jar",
+					"version": "QwcUAwON"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/JNavT5xC/Ping-Wheel-1.7.0-fabric-1.19.4.jar",
+					"version": "JNavT5xC"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Gvb70cFv/Ping-Wheel-1.7.0-forge-1.19.4.jar",
+					"version": "Gvb70cFv"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/HhHqaT2S/Ping-Wheel-1.7.0-fabric-1.19.3.jar",
+					"version": "HhHqaT2S"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/pXQXii42/Ping-Wheel-1.7.0-forge-1.19.3.jar",
+					"version": "pXQXii42"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/mshj6XeG/Ping-Wheel-1.7.0-fabric-1.19.2.jar",
+					"version": "mshj6XeG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/NpmOTUoP/Ping-Wheel-1.7.0-forge-1.19.2.jar",
+					"version": "NpmOTUoP"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Le8iNFRP/Ping-Wheel-1.7.0-fabric-1.18.2.jar",
+					"version": "Le8iNFRP"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/qpx8peWe/Ping-Wheel-1.7.0-forge-1.18.2.jar",
+					"version": "qpx8peWe"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/FCC8pGzu/Ping-Wheel-1.6.1-forge-1.20.2.jar",
+					"version": "FCC8pGzu"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/duKvK2t0/Ping-Wheel-1.6.1-forge-1.20.1.jar",
+					"version": "duKvK2t0"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/h84FyIns/Ping-Wheel-1.6.1-forge-1.19.4.jar",
+					"version": "h84FyIns"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/buPVSPlG/Ping-Wheel-1.6.1-forge-1.19.3.jar",
+					"version": "buPVSPlG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/kJtPRlKs/Ping-Wheel-1.6.1-forge-1.19.2.jar",
+					"version": "kJtPRlKs"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Ja0L9J1H/Ping-Wheel-1.6.0-fabric-1.20.2.jar",
+					"version": "Ja0L9J1H"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/8xk9nqRi/Ping-Wheel-1.6.0-fabric-1.20.1.jar",
+					"version": "8xk9nqRi"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/KEWo0YG7/Ping-Wheel-1.6.0-fabric-1.19.4.jar",
+					"version": "KEWo0YG7"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/27QwKQFV/Ping-Wheel-1.6.0-fabric-1.19.3.jar",
+					"version": "27QwKQFV"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/XyeOiyDj/Ping-Wheel-1.6.0-fabric-1.19.2.jar",
+					"version": "XyeOiyDj"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/pyDGQKNI/Ping-Wheel-1.6.0-fabric-1.18.2.jar",
+					"version": "pyDGQKNI"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/8DyyjwXu/Ping-Wheel-1.6.0-forge-1.18.2.jar",
+					"version": "8DyyjwXu"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/OZGacdzq/Ping-Wheel-1.5.1-fabric-1.20.2.jar",
+					"version": "OZGacdzq"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/K2WGh8RX/Ping-Wheel-1.5.1-fabric-1.20.1.jar",
+					"version": "K2WGh8RX"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/1FgK5viH/Ping-Wheel-1.5.1-fabric-1.19.4.jar",
+					"version": "1FgK5viH"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/UC6NJ5AC/Ping-Wheel-1.5.1-fabric-1.19.3.jar",
+					"version": "UC6NJ5AC"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/rqwSTvU9/Ping-Wheel-1.5.1-fabric-1.19.2.jar",
+					"version": "rqwSTvU9"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/a9ozfshs/Ping-Wheel-1.5.1-fabric-1.18.2.jar",
+					"version": "a9ozfshs"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/kst0hx3O/Ping-Wheel-1.5.0-fabric-1.20.1.jar",
+					"version": "kst0hx3O"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/lBn35vui/Ping-Wheel-1.5.0-fabric-1.19.3.jar",
+					"version": "lBn35vui"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/SYoieIIg/Ping-Wheel-1.5.0-fabric-1.19.4.jar",
+					"version": "SYoieIIg"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/5DsNHlb5/Ping-Wheel-1.5.0-fabric-1.19.2.jar",
+					"version": "5DsNHlb5"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/CwWw7IhS/Ping-Wheel-1.5.0-fabric-1.18.2.jar",
+					"version": "CwWw7IhS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/wrtFAzym/Ping-Wheel-1.4.0-fabric-1.20.1.jar",
+					"version": "wrtFAzym"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/KJENJFVO/Ping-Wheel-1.4.0-fabric-1.19.4.jar",
+					"version": "KJENJFVO"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/5CQuDDec/Ping-Wheel-1.4.0-fabric-1.19.3.jar",
+					"version": "5CQuDDec"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/k1JzQBMs/Ping-Wheel-1.4.0-fabric-1.19.2.jar",
+					"version": "k1JzQBMs"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/yOM1eg0X/Ping-Wheel-1.4.0-fabric-1.18.2.jar",
+					"version": "yOM1eg0X"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/xf1Pu8gA/Ping-Wheel-1.3.1-fabric-1.20.1.jar",
+					"version": "xf1Pu8gA"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/te0tm7vu/Ping-Wheel-1.3.1-fabric-1.19.4.jar",
+					"version": "te0tm7vu"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/eHLNhipP/Ping-Wheel-1.3.1-fabric-1.19.3.jar",
+					"version": "eHLNhipP"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/5Wnqs9MA/Ping-Wheel-1.3.1-fabric-1.19.2.jar",
+					"version": "5Wnqs9MA"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/8zcM9tI2/Ping-Wheel-1.3.1-fabric-1.18.2.jar",
+					"version": "8zcM9tI2"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/jOMGYXVK/Ping-Wheel-1.3.0-fabric-1.20.1.jar",
+					"version": "jOMGYXVK"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/IMlmATE0/Ping-Wheel-1.3.0-fabric-1.20.jar",
+					"version": "IMlmATE0"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/TVQTNZOn/Ping-Wheel-1.3.0-fabric-1.19.4.jar",
+					"version": "TVQTNZOn"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/to5BoLRo/Ping-Wheel-1.3.0-fabric-1.19.3.jar",
+					"version": "to5BoLRo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/SUxtdu0G/Ping-Wheel-1.3.0-fabric-1.19.2.jar",
+					"version": "SUxtdu0G"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/bGGFdED2/Ping-Wheel-1.3.0-fabric-1.18.2.jar",
+					"version": "bGGFdED2"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/GEBuWKXt/Ping-Wheel-1.2.0-fabric-1.19.3.jar",
+					"version": "GEBuWKXt"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/8eF9CvZx/Ping-Wheel-1.2.0-fabric-1.19.2.jar",
+					"version": "8eF9CvZx"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/bTUKT1Ha/Ping-Wheel-1.2.0-fabric-1.18.2.jar",
+					"version": "bTUKT1Ha"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/LyWcobRx/Ping-Wheel-1.1.1-fabric-1.19.3.jar",
+					"version": "LyWcobRx"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/cSW770qq/Ping-Wheel-1.1.1-fabric-1.19.2.jar",
+					"version": "cSW770qq"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/qsoxDFzQ/Ping-Wheel-1.1.1-fabric-1.18.2.jar",
+					"version": "qsoxDFzQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/la76KSVr/Ping-Wheel-1.1.0-fabric-1.18.2.jar",
+					"version": "la76KSVr"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/GoaYrJtq/Ping-Wheel-1.1.0-fabric-1.19.2.jar",
+					"version": "GoaYrJtq"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Luken",
+			"RXJpaw",
+			"tsomic"
+		],
+		"banner": "https://cdn.modrinth.com/data/QQXAdCzh/images/801eff77c12888b6838ee376aaac40d190394e88.png",
+		"description": "Allows players to temporarily mark locations and entities",
+		"gallery": [
+			"https://cdn.modrinth.com/data/QQXAdCzh/images/2c155a7af78d66174afcc1adc7efdbc8eefa05be.png",
+			"https://cdn.modrinth.com/data/QQXAdCzh/images/801eff77c12888b6838ee376aaac40d190394e88.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/QQXAdCzh/7674cb2cf2241f981e985af91bdf24209c56b024.png",
+		"issues": "https://github.com/LukenSkyne/Minecraft-Ping-Wheel/issues",
+		"license": "MIT",
+		"long_description": "## About\n\nModern co-op games often allow players to communicate via \"pings\" to mark in-game locations.  \nThis simple mod provides such pinging mechanism for the fabric and forge mod loaders.\n\nDefault keybind is \"Mouse5\" aka \"Forward\" to ping. Hold \"Left Alt\" to see player names on pings.  \nThe settings can be changed via `/pingwheel config` or [Mod Menu](https://modrinth.com/mod/modmenu).  \nRead the [Wiki](https://github.com/LukenSkyne/Minecraft-Ping-Wheel/wiki) for additional information.\n\nIf you are looking to use the mod on Bukkit servers, you can install our [official Plugin](https://modrinth.com/plugin/ping-wheel-plugin).\n\n## Gallery\n\nThe following screenshot shows two pings in different distances with according scale.\n\n<img src=\"https://cdn-raw.modrinth.com/data/QQXAdCzh/images/801eff77c12888b6838ee376aaac40d190394e88.png\" alt=\"In-Game\">\n<br><br>\n\nWhen Item Icons are enabled in the settings, the respective markers reflect the item texture (or model).\n\n<img src=\"https://cdn-raw.modrinth.com/data/QQXAdCzh/images/2c155a7af78d66174afcc1adc7efdbc8eefa05be.png\" alt=\"Item-Icons\">\n<br><br>\n\n## Dependencies\n\n<p>\n  <a href=\"https://modrinth.com/mod/fabric-api\">\n    <img alt=\"Fabric API\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_vector.svg\">\n  </a>\n</p>",
+		"name": "Ping Wheel",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/LukenSkyne/Minecraft-Ping-Wheel"
+	},
+	"properties": {
+		"modrinth_id": "QQXAdCzh",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

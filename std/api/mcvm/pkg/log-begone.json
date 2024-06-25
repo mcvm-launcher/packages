@@ -1,0 +1,475 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/1CpHwmQd/logbegone-neo-1.21-1.0.2.jar",
+					"version": "1CpHwmQd"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/UpfCW9RM/logbegone-fabric-1.21-1.0.2.jar",
+					"version": "UpfCW9RM"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/NxKusSH8/logbegone-neo-1.20.6-1.0.1.jar",
+					"version": "NxKusSH8"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/tjzyjPcC/logbegone-fabric-1.20.6-1.0.1.jar",
+					"version": "tjzyjPcC"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/jGoUlS3F/logbegone-neo-1.20.6-1.0.0-slim.jar",
+					"version": "jGoUlS3F"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/C9G0cW9W/logbegone-fabric-1.20.6-1.0.0.jar",
+					"version": "C9G0cW9W"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/XBsNPJKa/logbegone-neo-1.20.4-1.0.0-slim.jar",
+					"version": "XBsNPJKa"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/uRFndWtZ/logbegone-fabric-1.20.4-1.0.0.jar",
+					"version": "uRFndWtZ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/fkk1j9Bg/Log-Begone-Fabric-1.20.2-1.0.8.jar",
+					"version": "fkk1j9Bg"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/kNRTeHhj/Log-Begone-neoforge-1.20.1-1.0.9.jar",
+					"version": "kNRTeHhj"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/HEJGfa5J/Log-Begone-Forge-1.20.1-1.0.8.jar",
+					"version": "HEJGfa5J"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/IknbjT7v/Log-Begone-Fabric-1.20.1-1.0.8.jar",
+					"version": "IknbjT7v"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/hnmHyKXJ/Log-Begone-Forge-1.20-1.0.7.jar",
+					"version": "hnmHyKXJ"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/nwjyn97p/Log-Begone-Fabric-1.20-1.0.7.jar",
+					"version": "nwjyn97p"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/wCe7ihlR/Log-Begone-1.16.5-1.0.4.jar",
+					"version": "wCe7ihlR"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/zQ8u8Hcu/Log-Begone-Forge-1.19-1.0.6.jar",
+					"version": "zQ8u8Hcu"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/9LLWEul9/Log-Begone-Fabric-1.19.x-1.0.6.jar",
+					"version": "9LLWEul9"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/nYO2EEJH/Log-Begone-Forge-1.18-1.0.4.jar",
+					"version": "nYO2EEJH"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/ujQGzjFk/Log-Begone-1.18-1.0.4.jar",
+					"version": "ujQGzjFk"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/QxYGanqA/Log-Begone-Forge-1.16.5-1.0.4.jar",
+					"version": "QxYGanqA"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/ZI7qhVe3/Log-Begone-Forge-1.19-1.0.5.jar",
+					"version": "ZI7qhVe3"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/FvOW1X5O/Log-Begone-Fabric-1.19.x-1.0.5.jar",
+					"version": "FvOW1X5O"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/if0VHJSB/Log-Begone-Forge-1.19-1.0.4.jar",
+					"version": "if0VHJSB"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/k0Uyxnf8/Log-Begone-Fabric-1.19-1.0.4.jar",
+					"version": "k0Uyxnf8"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/weMInH3r/Log-Begone-Forge-1.18-1.0.3.jar",
+					"version": "weMInH3r"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/kepE1xZF/Log-Begone-1.18-1.0.3.jar",
+					"version": "kepE1xZF"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/uTwTdiqh/Log-Begone-Forge-1.16.5-1.0.3.jar",
+					"version": "uTwTdiqh"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/kkjJf3hF/Log-Begone-Forge-1.19-1.0.3.jar",
+					"version": "kkjJf3hF"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/N3VZjVb1/Log-Begone-Fabric-1.19-1.0.3.jar",
+					"version": "N3VZjVb1"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/4qdnzG0B/Log-Begone-Forge-1.19-1.0.2.jar",
+					"version": "4qdnzG0B"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/YbTTD4NA/Log-Begone-Fabric-1.19-1.0.2.jar",
+					"version": "YbTTD4NA"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/zMSMHooV/Log-Begone-Forge-1.16.5-1.0.2.jar",
+					"version": "zMSMHooV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/TLRW1YoA/Log-Begone-1.18-1.0.2.jar",
+					"version": "TLRW1YoA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/e5HRqIzA/Log-Begone-Forge-1.18-1.0.2.jar",
+					"version": "e5HRqIzA"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/LdP1gY1P/Log-Begone-Forge-1.16.5-1.0.1.jar",
+					"version": "LdP1gY1P"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/1.0.1/Log-Begone-1.18-1.0.1.jar",
+					"version": "QXDD8SuU"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/1.0.1/Log-Begone-Fabric-1.19-1.0.1.jar",
+					"version": "uZQQGpuj"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/1.0.1/Log-Begone-Forge-1.19-1.0.1.jar",
+					"version": "EmEJYkV7"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/1.0.1/Log-Begone-Forge-1.18-1.0.1.jar",
+					"version": "G05NEHYw"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"AzureDoom"
+		],
+		"banner": "https://cdn.modrinth.com/data/9ON3zv6e/images/91f0819d0e7579b44218d7592811830e7b63c6c8.png",
+		"community": "https://discord.gg/4vEKxfK",
+		"description": "Fork of Shut Up Console - Tell those those annoy logs lines begone!",
+		"gallery": [
+			"https://cdn.modrinth.com/data/9ON3zv6e/images/91f0819d0e7579b44218d7592811830e7b63c6c8.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/9ON3zv6e/icon.png",
+		"issues": "https://github.com/AzureDoom/Log-Begone/issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "<center>\n<img src=\"https://www.bisecthosting.com/images/CF/Log_Begone/BH_NU_HEADER.png\" alt=\"logo\"/> \n\n<a href=\"https://discord.gg/4vEKxfK\"> <img src=\"https://img.shields.io/discord/574529906076286996?color=blue&label=Discord&logo=Discord&logoColor=blue&style=for-the-badge\" alt=\"discord\"/> </a>\n<a href=\"https://www.patreon.com/azurezdoom\"> <img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=azurezdoom&type=patrons&style=for-the-badge&color=blue&logoColor=blue\" alt=\"patreon\"/> </a>\n\n\n</br>\n<font size=+1><b>Log Begone is a fork of <a href=\"https://www.curseforge.com/minecraft/mc-mods/shut-up-console\"> Shut Up Console by Bravarly</a> that simply allows you to remove annoying logs from your log when you remove structures, biomes, blocks, or items that spam your log saying missing. By default, it removes any the_aether log spam as this was made by a modpack that removed it recently.</b>\n\n</br></br>\n\nNeed a server to play with friends? Don't know how to setup one? Just rent an already configured server from BisectHosting!\n<a href=\"https://bisecthosting.com/azuredoom\"> <img src=\"https://www.bisecthosting.com/images/CF/Log_Begone/BH_NU_PROMO.png\" alt=\"logo\"/> </a>\n\nClick on the picture above, select plan(at least 4GB), and use my code azuredoom to get 25% off your first month and enjoy playing with your friends!\n</font>\n</center>",
+		"name": "Log Begone",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/AzureDoom/Log-Begone"
+	},
+	"properties": {
+		"modrinth_id": "9ON3zv6e",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.5",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

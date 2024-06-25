@@ -1,0 +1,843 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/Uk5XJvV6/Adorn-5.3.0%2B1.20.4-neoforge.jar",
+					"version": "Uk5XJvV6"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/hZiNFh15/Adorn-5.3.0%2B1.20.4-fabric.jar",
+					"version": "hZiNFh15"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/crm4v5Vc/Adorn-5.0.1%2B1.20.1-forge.jar",
+					"version": "crm4v5Vc"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/67OSh58o/Adorn-5.0.1%2B1.20.1-fabric.jar",
+					"version": "67OSh58o"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/jQZSOH31/Adorn-5.2.0%2B1.20.2-fabric.jar",
+					"version": "jQZSOH31"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/KTfJVYwj/Adorn-5.1.0%2B1.20.2-fabric.jar",
+					"version": "KTfJVYwj"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/1gIaqVd1/Adorn-5.0.0%2B1.20.1-forge.jar",
+					"version": "1gIaqVd1"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/HXibuobl/Adorn-5.0.0%2B1.20.1-fabric.jar",
+					"version": "HXibuobl"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/7vyW4EmZ/Adorn-4.3.0%2B1.19.4-forge.jar",
+					"version": "7vyW4EmZ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3NPeFBhu/Adorn-4.3.0%2B1.19.4-fabric.jar",
+					"version": "3NPeFBhu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/DIlg7tt2/Adorn-3.9.1%2B1.19.2-forge.jar",
+					"version": "DIlg7tt2"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/4Af8VkZs/Adorn-3.9.1%2B1.19.2-fabric.jar",
+					"version": "4Af8VkZs"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/t50WnNob/Adorn-3.9.0%2B1.19.2-forge.jar",
+					"version": "t50WnNob"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/roZ7W6JF/Adorn-3.9.0%2B1.19.2-fabric.jar",
+					"version": "roZ7W6JF"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/vFIZArQa/Adorn-4.2.0%2B1.19.4-forge.jar",
+					"version": "vFIZArQa"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/etfAlZVu/Adorn-4.2.0%2B1.19.4-fabric.jar",
+					"version": "etfAlZVu"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/vlqX58Xh/Adorn-4.1.1%2B1.19.3-forge.jar",
+					"version": "vlqX58Xh"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/FmYnXMSp/Adorn-4.1.1%2B1.19.3-fabric.jar",
+					"version": "FmYnXMSp"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/TlG46lVG/Adorn-3.8.3%2B1.19.2-forge.jar",
+					"version": "TlG46lVG"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/qgNP6oDb/Adorn-3.8.3%2B1.19.2-fabric.jar",
+					"version": "qgNP6oDb"
+				},
+				{
+					"minecraft_versions": "23w13a_or_b",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/yzxXmre0/Adorn-4.2.0-or%2B23w13a_or_b-fabric.jar",
+					"version": "yzxXmre0"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/36hRh67O/Adorn-4.1.0%2B1.19.3-forge.jar",
+					"version": "36hRh67O"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/ixKoKZM9/Adorn-4.1.0%2B1.19.3-fabric.jar",
+					"version": "ixKoKZM9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/V8eVUHAF/Adorn-3.8.2%2B1.19.2-forge.jar",
+					"version": "V8eVUHAF"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/hIgE4jl7/Adorn-3.8.2%2B1.19.2-fabric.jar",
+					"version": "hIgE4jl7"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/678daGDK/Adorn-4.0.1%2B1.19.3-fabric.jar",
+					"version": "678daGDK"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/9eZjcLJ4/Adorn-4.0.1%2B1.19.3-forge.jar",
+					"version": "9eZjcLJ4"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/FOiK0Cja/Adorn-4.0.0%2B1.19.3-fabric.jar",
+					"version": "FOiK0Cja"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/T5VlltjZ/Adorn-4.0.0%2B1.19.3-forge.jar",
+					"version": "T5VlltjZ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/lYSclF7q/Adorn-3.8.1%2B1.19.2-forge.jar",
+					"version": "lYSclF7q"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/E0HCy6sV/Adorn-3.8.1%2B1.19.2-fabric.jar",
+					"version": "E0HCy6sV"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/EoQErNld/Adorn-3.8.0%2B1.19.2-fabric.jar",
+					"version": "EoQErNld"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/FPOYuTLe/Adorn-3.8.0%2B1.19.2-forge.jar",
+					"version": "FPOYuTLe"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/w75vVdsH/Adorn-3.7.0%2B1.19.2-fabric.jar",
+					"version": "w75vVdsH"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/Hx0Ekh1c/Adorn-3.7.0%2B1.19.2-forge.jar",
+					"version": "Hx0Ekh1c"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.6.1-fabric/Adorn-3.6.1%2B1.19-fabric.jar",
+					"version": "45LD5USO"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.6.1-forge/Adorn-3.6.1%2B1.19-forge.jar",
+					"version": "fOGhb31J"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.6.0-fabric/Adorn-3.6.0%2B1.19-fabric.jar",
+					"version": "29z5H9g0"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.6.0-forge/Adorn-3.6.0%2B1.19-forge.jar",
+					"version": "lc8sYvos"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.4-fabric/Adorn-3.5.4%2B1.19-fabric.jar",
+					"version": "79Xs1SLJ"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.4-forge/Adorn-3.5.4%2B1.19-forge.jar",
+					"version": "UxOzO4Br"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.3-fabric/Adorn-3.5.3%2B1.19-fabric.jar",
+					"version": "mtq3Zw9I"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.2-forge/Adorn-3.5.2%2B1.19-forge.jar",
+					"version": "mCRuvFoE"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.2-fabric/Adorn-3.5.2%2B1.19-fabric.jar",
+					"version": "dQVrWzdZ"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.1-forge/Adorn-3.5.1%2B1.19-forge.jar",
+					"version": "cwn9kRFA"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.1-fabric/Adorn-3.5.1%2B1.19-fabric.jar",
+					"version": "7a1r0Rer"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.0-forge/Adorn-3.5.0%2B1.18.2-forge.jar",
+					"version": "6knpxJnp"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.0-fabric/Adorn-3.5.0%2B1.18.2-fabric.jar",
+					"version": "6N5U8wzl"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/1.14.3-forge/Adorn-1.14.3%2B1.16.5-forge.jar",
+					"version": "b0oPwH4h"
+				},
+				{
+					"minecraft_versions": "22w13oneblockatatime",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.4.heart-fabric/Adorn-3.4.%E2%9D%A4%2B22w13oneblockatatime-fabric.jar",
+					"version": "UyHPXrWK"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.4.0-forge/Adorn-3.4.0%2B1.18.2-forge.jar",
+					"version": "HjjhPSx9"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.4.0-fabric/Adorn-3.4.0%2B1.18.2-fabric.jar",
+					"version": "lwoxDIta"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.1.1-forge/Adorn-3.3.1%2B1.18.1-forge.jar",
+					"version": "dH8xTSgO"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.3.1-fabric/Adorn-3.3.1%2B1.18.1-fabric.jar",
+					"version": "VyILUVlk"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.3.0-forge/Adorn-3.3.0%2B1.18.1-forge.jar",
+					"version": "zoInuRAp"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.3.0-fabric/Adorn-3.3.0%2B1.18.1-fabric.jar",
+					"version": "h89F6BBN"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.2.0-forge/Adorn-3.2.0%2B1.18.1-forge.jar",
+					"version": "cTe5YvYo"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.2.0-fabric/Adorn-3.2.0%2B1.18.1-fabric.jar",
+					"version": "uiwt5onG"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.1.0-forge/Adorn-3.1.0%2B1.18.1-forge.jar",
+					"version": "rBM3GcWE"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.1.0-fabric/Adorn-3.1.0%2B1.18.1-fabric.jar",
+					"version": "2K9FTOV5"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.0.0-forge/Adorn-3.0.0%2B1.18.1-forge.jar",
+					"version": "t9VFXWNG"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.0.0-fabric/Adorn-3.0.0%2B1.18.1-fabric.jar",
+					"version": "Ndi42e3c"
+				},
+				{
+					"minecraft_versions": "1.18-rc3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.0.0-rc.1-fabric/Adorn-3.0.0-rc.1%2B1.18-rc3-fabric.jar",
+					"version": "VbrAthlY"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.3.1-fabric/Adorn-2.3.1%2B1.17.1-fabric.jar",
+					"version": "bciIHcBm"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.3.0-forge/Adorn-2.3.0%2B1.17.1-forge.jar",
+					"version": "BKSq19tp"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.3.0-fabric/Adorn-2.3.0%2B1.17.1-fabric.jar",
+					"version": "WG33KUPR"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.2.0-forge/Adorn-2.2.0%2B1.17.1-forge.jar",
+					"version": "jocY10P5"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.2.0-fabric/Adorn-2.2.0%2B1.17.1-fabric.jar",
+					"version": "3gGVHSPk"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com//data/E6FUtRJh/versions/1.14.2-fabric/Adorn-1.14.2%2B1.16.5.jar",
+					"version": "7CvioQCT"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com//data/E6FUtRJh/versions/2.1.5/Adorn-2.1.5%2B1.17.1-fabric.jar",
+					"version": "PMcVhh7K"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.1.4/Adorn-2.1.4%2B1.17.1-fabric.jar",
+					"version": "IngkxAua"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.1.3-fabric/Adorn-2.1.3%2B1.17.1-fabric.jar",
+					"version": "uzDB33Kd"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.1.2-fabric/Adorn-2.1.2%2B1.17.1-fabric.jar",
+					"version": "4RfmRbUE"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.1.1-fabric/Adorn-2.1.1%2B1.17.1-fabric.jar",
+					"version": "553zlUtR"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.1.0-fabric/Adorn-2.1.0%2B1.17.1-fabric.jar",
+					"version": "99EyBvCq"
+				},
+				{
+					"minecraft_versions": "1.17",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.0.0-fabric/Adorn-2.0.0%2B1.17-fabric.jar",
+					"version": "383nJzeN"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/1.14.1-forge/Adorn-1.14.1%2B1.16.5-forge.jar",
+					"version": "2pwiL2TQ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/1.14.1-fabric/Adorn-1.14.1%2B1.16.5.jar",
+					"version": "7IqMGvHj"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/1.14.0-fabric/Adorn-1.14.0%2B1.16.5.jar",
+					"version": "2WKCbuZE"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/1.14.0-forge/Adorn-1.14.0%2B1.16.5-forge.jar",
+					"version": "UPAslOyc"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/1.13.1-forge/Adorn-1.13.1%2B1.16.4-forge.jar",
+					"version": "Gwf8cwDF"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/1.13.0/Adorn-1.13.0%2B1.16.5.jar",
+					"version": "8sh3tTa5"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.3",
+						"1.16.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E6FUtRJh/versions/1.12.2/Adorn-1.12.2%2B1.16.4[1].jar",
+					"version": "rvIRt4mz"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Juuz"
+		],
+		"description": "Decorate your home!",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/E6FUtRJh/icon.png",
+		"issues": "https://github.com/Juuxel/Adorn/issues",
+		"license": "MIT",
+		"long_description": "**Adorn** is a decoration and furniture mod that adds many decoration blocks, such as...\n\n- Chairs and sofas! You can sit and relax on them. A sofa is also a nice place for a nap.\n- Drawers! Smaller container than chests, but a fancier piece of furniture.\n- Stone torches! They're made of stone and are better light sources than wooden torches.\n- Kitchen blocks! You can decorate your kitchens with kitchen counters, cupboards and sinks (Perfect for kitchen sink modpacks!)\n- And more: tables, shelves, fences, chimneys...\n\n## Requirements\n\n### Fabric\n\n<p style=\"text-align: center;\"><a href=\"https://modrinth.com/mod/fabric-api\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"143\" height=\"50\" /></a> <a title=\"Fabric Language Kotlin\" href=\"https://modrinth.com/mod/fabric-language-kotlin\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/c1DH9VL.png\" alt=\"\" width=\"171\" height=\"50\" /></a></p>\n\n### Forge\n- [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)\n\n### NeoForge\n*No special requirements.*\n\n### Quilt\n- [Quilted Fabric API](https://modrinth.com/mod/qsl)\n- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n\n![](https://i.imgur.com/owM5tUa.png)\n\n## Mod compatibility\n\nAdorn includes special support for these mods:\n\nMod | Fabric and Quilt | Forge and NeoForge | Features\n-|-|-|-\n[Architect's Palette][arpal] | ❌ | ✅ | Block variants\n[Biome Makeover][bmake] | ✅ | ✅ | Block variants\n[Biomes O' Plenty][bop] | ❌ | ✅ | Block variants\n[Blockus][blockus] | ✅ | ❌ | Block variants\n[BYG][byg] | ✅ | ✅ | Block variants\n[Cinderscapes][cind] | ✅ | ❌ | Block variants\n[DashLoader][dashl] | ✅ | ❌ | Support for Adorn's block states\n[Ecologics][ecol] | ❌ | ✅ | Block variants\n[EMI][emi] | ✅ | ✅ | Custom recipe features etc.\n[JEI][jei] | ✅ | ✅ | Custom recipe features etc.\n[Lil Tater Reloaded][ltr] | ✅ | ❌ | Power taters\n[Mod Menu][modm] | ✅ | ❌ | Settings screen\n[Promenade][promenade] | ✅ | ❌ | Block variants\n[Roughly Enough Items (REI)][rei] | ✅ | ✅ | Custom recipe features etc.\n[Tech Reborn][tr] | ✅ | ❌ | Block variants\n[Terrestria][terr] | ✅ | ❌ | Block variants\n[Towelette][towel] | ✅ | ❌ | Fluidlogging for Adorn blocks\n[Traverse][trav] | ✅ | ❌ | Block variants\n[Woods and Mires][wam] | ✅ | ❌ | Block variants\n\n[arpal]: https://www.curseforge.com/minecraft/mc-mods/architects-palette\n[bmake]: https://modrinth.com/mod/biome-makeover\n[bop]: https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty\n[blockus]: https://www.curseforge.com/minecraft/mc-mods/blockus\n[byg]: https://modrinth.com/mod/biomesyougo\n[cind]: https://modrinth.com/mod/cinderscapes\n[dashl]: https://modrinth.com/mod/dashloader\n[ecol]: https://www.curseforge.com/minecraft/mc-mods/ecologics\n[emi]: https://modrinth.com/mod/emi\n[jei]: https://modrinth.com/mod/jei\n[ltr]: https://modrinth.com/mod/ltr\n[modm]: https://modrinth.com/mod/modmenu\n[promenade]: https://modrinth.com/mod/promenade\n[rei]: https://modrinth.com/mod/roughly-enough-items\n[tr]: https://www.curseforge.com/minecraft/mc-mods/techreborn\n[terr]: https://modrinth.com/mod/terrestria\n[towel]: https://modrinth.com/mod/towelette\n[trav]: https://modrinth.com/mod/traverse\n[wam]: https://modrinth.com/mod/woods-and-mires",
+		"name": "Adorn",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Juuxel/Adorn"
+	},
+	"properties": {
+		"modrinth_id": "E6FUtRJh",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18-rc3",
+			"1.18.1",
+			"1.18.2",
+			"22w13oneblockatatime",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"23w13a_or_b",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4"
+		]
+	}
+}

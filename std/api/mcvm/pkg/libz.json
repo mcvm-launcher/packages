@@ -1,0 +1,98 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yUBXc3AH/versions/wBIAaCvH/libz-1.0.3.jar",
+					"version": "wBIAaCvH"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yUBXc3AH/versions/BEPAjfEE/libz-1.0.3.jar",
+					"version": "BEPAjfEE"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yUBXc3AH/versions/AMqL6VaC/libz-1.0.1.jar",
+					"version": "AMqL6VaC"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yUBXc3AH/versions/yYR9jqw2/libz-1.0.2.jar",
+					"version": "yYR9jqw2"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yUBXc3AH/versions/soKX5h3N/libz-1.0.1.jar",
+					"version": "soKX5h3N"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yUBXc3AH/versions/HOECobmO/libz-1.0.0.jar",
+					"version": "HOECobmO"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yUBXc3AH/versions/HbCwlPRA/libz-1.0.0.jar",
+					"version": "HbCwlPRA"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Globox1997"
+		],
+		"community": "https://discord.gg/cV4cJyGXqF",
+		"description": "Open source library for a couple of Globox_Z mods",
+		"documentation": "https://globox1997.github.io/wiki/mods/LibZ/",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/yUBXc3AH/3bbbb712213f6c74dbeb90ab6bad1c0a4798ce0f.png",
+		"issues": "https://github.com/Globox1997/LibZ/issues",
+		"license": "MIT",
+		"long_description": "![Headline](https://i.imgur.com/xtuhDhy.png)\n\n<center>\n\n[<img src=\"https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge\">](https://discord.gg/cV4cJyGXqF) \n[<img src=\"https://img.shields.io/website?color=7bc466&label=Globox&style=for-the-badge&up_message=Wiki&url=https://globox1997.github.io/wiki/mods/LibZ/\">](https://globox1997.github.io/wiki/mods/LibZ/)\n[<img src=\"https://img.shields.io/github/issues/Globox1997/LibZ?color=c4667b&style=for-the-badge\">](https://github.com/Globox1997/LibZ/issues)\n</center>\n\n<img src=\"https://i.imgur.com/K0Bn3Mh.png\" alt= “Description” width=\"25%\" height=\"auto\">\n<br><br/>\n\nThis mod is a library mod for a couple of Globox_Z's mods.  \nOne main feature it adds is the tab registry for visible screen tabs.  \nHonestly, I never wanted to create a library mod and publish it here like others did but after modding for quite some time now, this makes sense.\n \n\n<img src=\"https://i.imgur.com/WKCuHQL.png\" alt= “Misc” width=\"10%\" height=\"auto\">\n<br><br />\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/fabric-api)\n\n\n\nThis mod is developed for Fabric.  \nThere are no plans to develop a Forge version. \n\n\nModpack Permission:  \nFeel free to use it in any modpacks.\n\n\nBug Report:  \nJust report bugs at the github page.",
+		"name": "LibZ",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Globox1997/LibZ"
+	},
+	"properties": {
+		"modrinth_id": "yUBXc3AH",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.20",
+			"1.20.1",
+			"1.21"
+		]
+	},
+	"relations": {
+		"dependencies": [
+			"cloth-config",
+			"fabriclike-api"
+		]
+	}
+}

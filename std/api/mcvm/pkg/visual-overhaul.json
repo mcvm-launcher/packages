@@ -1,0 +1,326 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "midnightlib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/76fbCyTt/visualoverhaul-neoforge-5.2.0.jar",
+					"version": "76fbCyTt"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/4nC7lhgG/visualoverhaul-fabric-5.2.0.jar",
+					"version": "4nC7lhgG"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "midnightlib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/2hskTr6k/visualoverhaul-neoforge-5.1.0.jar",
+					"version": "2hskTr6k"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/2evcQb3y/visualoverhaul-fabric-5.1.0.jar",
+					"version": "2evcQb3y"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/lqH98CUx/visualoverhaul-quilt-5.0.1.jar",
+					"version": "lqH98CUx"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/WisLIPQ9/visualoverhaul-fabric-5.0.1.jar",
+					"version": "WisLIPQ9"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "midnightlib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/ebyijdsw/visualoverhaul-forge-5.0.1.jar",
+					"version": "ebyijdsw"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/QHceqD2V/visualoverhaul-quilt-5.0.0.jar",
+					"version": "QHceqD2V"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/QE4IlQoJ/visualoverhaul-fabric-5.0.0.jar",
+					"version": "QE4IlQoJ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/z8qd9WuG/visualoverhaul-forge-5.0.0.jar",
+					"version": "z8qd9WuG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"22w42a"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "midnightlib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/4.1.1/visualoverhaul-4.1.1.jar",
+					"version": "OXBkbR1M"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/4.1.0/visualoverhaul-4.1.0.jar",
+					"version": "MUk2Z2Zv"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/GngqTZ0E/visualoverhaul-fabric-5.2.1.jar",
+					"version": "GngqTZ0E"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "midnightlib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/TMOdQHDi/visualoverhaul-neoforge-5.2.1.jar",
+					"version": "TMOdQHDi"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/4.0.0/visualoverhaul-4.0.0.jar",
+					"version": "1N6fR5J3"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/3.3.0/visualoverhaul-3.3.0.jar",
+					"version": "JhRfkHGc"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/3.2.0/visualoverhaul-3.2.0.jar",
+					"version": "htd4BGhg"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/3.1.0/visualoverhaul-3.1.0.jar",
+					"version": "RneCYQS9"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/3.0.0/visualoverhaul-3.0.0.jar",
+					"version": "Jte5pWQ7"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/2.0.1/visualoverhaul-2.0.1.jar",
+					"version": "dRqQqDV3"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/1.0.0/visualoverhaul-1.0.0.jar",
+					"version": "hQwGudVp"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Motschen"
+		],
+		"banner": "https://cdn.modrinth.com/data/YQnwl5Vv/images/6fb0171d8038c6e118528ce66ac358abcbc268f6.png",
+		"community": "https://discord.gg/jAGnWYHm3r",
+		"description": "Slight tweaks to revamp the visual aspect of vanilla.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/0480d56e361ca46720f3ef7a3b81afd23da3ad04.png",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/048e3ca3d2803ec8c3995e21071c9d2cdcf637e5.png",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/5408870c4de12df1dddff93952742d28b21422d4.png",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/6fb0171d8038c6e118528ce66ac358abcbc268f6.png",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/aec145f794b4e84a64ccbc3291cc7731205e543b.png",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/c86010f3448b4672cfd1dd074214f3134f00bff7.png",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/e92f946342e86e0d3d4c00c6474053620e056e42.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/YQnwl5Vv/icon.png",
+		"issues": "https://github.com/TeamMidnightDust/VisualOverhaul/issues",
+		"license": "MIT",
+		"long_description": "<center><p style=\"text-align: center;\">This minecraft fabric mod overhauls the visuals of certain vanilla blocks.<br />Currently, it overhauls the Jukebox, the Brewing Stand, the Furnace, the Smoker and the Blast Furnace.</p>\n<p style=\"text-align: center;\">If enabled, it will also color items based on the current biome, which looks super dope.</p>\n<p style=\"text-align: center;\">Also, icons are now shown on menu buttons, so don't look as bland anymore.</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14px;\"><strong>If you want to use this mod, make sure you've enabled the included resourcepacks in the resourcepack selection screen!</strong></span><span style=\"font-size: 14px;\"><br /></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">The latest version adds a client-only way of getting the record in the jukebox. The biome-colored items, particles and button icons are also completely clientside.</p>\n<p style=\"text-align: center;\">For the other overhauls however, there is no way of making them work clientside only.</p>\n<p style=\"text-align: center;\"><img src=\"https://i.ibb.co/tP7n1DD/vo-banner.png\" width=\"768\" height=\"132\" /></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/6BHFdHNrulg?wmode=transparent\" height=\"452\" width=\"850\"></iframe></p>",
+		"name": "Visual Overhaul",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/TeamMidnightDust/VisualOverhaul"
+	},
+	"properties": {
+		"modrinth_id": "YQnwl5Vv",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"22w42a",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.4",
+			"1.21"
+		]
+	}
+}
