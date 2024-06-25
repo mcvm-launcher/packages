@@ -1,0 +1,538 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/zvvmCZw9/netherportalfix-neoforge-1.21-21.0.1.jar",
+					"version": "zvvmCZw9"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/uxUqzZh2/netherportalfix-forge-1.21-21.0.1.jar",
+					"version": "uxUqzZh2"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/DsfCfjv7/netherportalfix-fabric-1.21-21.0.1.jar",
+					"version": "DsfCfjv7"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/jOJINp9l/netherportalfix-neoforge-1.20.6-16.0.1.jar",
+					"version": "jOJINp9l"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/xx3LZGp9/netherportalfix-forge-1.20.6-16.0.1.jar",
+					"version": "xx3LZGp9"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/6ek10V7o/netherportalfix-fabric-1.20.6-16.0.1.jar",
+					"version": "6ek10V7o"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/6tDPIRKi/netherportalfix-neoforge-1.20.4-15.0.1.jar",
+					"version": "6tDPIRKi"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/QWBZRKVi/netherportalfix-forge-1.20.4-15.0.1.jar",
+					"version": "QWBZRKVi"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/VtIpicaF/netherportalfix-fabric-1.20.4-15.0.1.jar",
+					"version": "VtIpicaF"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/DDMLN9aT/netherportalfix-neoforge-1.20.2-14.0.3.jar",
+					"version": "DDMLN9aT"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/VU2uPLbX/netherportalfix-forge-1.20.2-14.0.3.jar",
+					"version": "VU2uPLbX"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/Xma4SDMw/netherportalfix-fabric-1.20.2-14.0.3.jar",
+					"version": "Xma4SDMw"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/QNaqDHXQ/netherportalfix-forge-1.20.2-14.0.2.jar",
+					"version": "QNaqDHXQ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/sdRhw16z/netherportalfix-neoforge-1.20.2-14.0.2.jar",
+					"version": "sdRhw16z"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/CUncGC4R/netherportalfix-fabric-1.20.2-14.0.2.jar",
+					"version": "CUncGC4R"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/WJBCsJlq/netherportalfix-forge-1.19-10.0.2.jar",
+					"version": "WJBCsJlq"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/5mUp7FiY/netherportalfix-fabric-1.19-10.0.2.jar",
+					"version": "5mUp7FiY"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/cWPAnu7u/netherportalfix-forge-1.20-13.0.1.jar",
+					"version": "cWPAnu7u"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/NANcEzKA/netherportalfix-fabric-1.20-13.0.1.jar",
+					"version": "NANcEzKA"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/aeJtHUBZ/netherportalfix-forge-1.20.2-14.0.0.jar",
+					"version": "aeJtHUBZ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/5UbTkcSQ/netherportalfix-fabric-1.20.2-14.0.0.jar",
+					"version": "5UbTkcSQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/HXKeuKnk/netherportalfix-forge-1.20-13.0.0.jar",
+					"version": "HXKeuKnk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/nGNVabdg/netherportalfix-fabric-1.20-13.0.0.jar",
+					"version": "nGNVabdg"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/FNyz19JT/netherportalfix-forge-1.19.4-12.0.1.jar",
+					"version": "FNyz19JT"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/wX5DuGY9/netherportalfix-fabric-1.19.4-12.0.1.jar",
+					"version": "wX5DuGY9"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/Aa31SP8V/netherportalfix-fabric-1.18.2-9.0.1.jar",
+					"version": "Aa31SP8V"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/b11QoY35/netherportalfix-forge-1.18.2-9.0.1.jar",
+					"version": "b11QoY35"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/kpXZdI4d/netherportalfix-forge-1.19-10.0.1.jar",
+					"version": "kpXZdI4d"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/fAtDIamf/netherportalfix-fabric-1.19-10.0.1.jar",
+					"version": "fAtDIamf"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/609MPxvC/netherportalfix-forge-1.19.3-11.0.2.jar",
+					"version": "609MPxvC"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/jlARFVYj/netherportalfix-fabric-1.19.3-11.0.2.jar",
+					"version": "jlARFVYj"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/mZoHwPFg/netherportalfix-fabric-1.19.3-11.0.1.jar",
+					"version": "mZoHwPFg"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/3ABQuZux/netherportalfix-forge-1.19.3-11.0.1.jar",
+					"version": "3ABQuZux"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/Xgt8gsvh/netherportalfix-fabric-1.18-9.0.0.jar",
+					"version": "Xgt8gsvh"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/ermlUjF9/netherportalfix-forge-1.18-9.0.0.jar",
+					"version": "ermlUjF9"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/8Z8NExgb/netherportalfix-forge-1.19.3-11.0.0.jar",
+					"version": "8Z8NExgb"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/lvjIpOkl/netherportalfix-fabric-1.19.3-11.0.0.jar",
+					"version": "lvjIpOkl"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/10.0.0-forge/netherportalfix-forge-1.19-10.0.0.jar",
+					"version": "KchVyZcY"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/10.0.0-fabric/netherportalfix-fabric-1.19-10.0.0.jar",
+					"version": "W2GQFVWF"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"BlayTheNinth"
+		],
+		"community": "https://discord.gg/VAfZ2Nau6j",
+		"description": "Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer.",
+		"documentation": "https://mods.twelveiterations.com/mc/netherportalfix",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/nPZr02ET/icon.png",
+		"issues": "https://github.com/TwelveIterationMods/NetherPortalFix/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "![](https://blay09.net/files/brand/netherportalfix.png)\n\n[![](https://mods.twelveiterations.com/img/sponsor.png)](https://mods.twelveiterations.com/sponsor)\n\nEver played on a multiplayer server, built near other players and when returning from the Nether, surprisingly found yourself in another player's base? It's because of the 8:1 block ratio between the Nether and the Overworld. It's really weird though that you enter a portal in the overworld, and then when going back through where you came, come out of a different portal in the overworld. This mod fixes that issue.\n\nIt keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. The 1:8 ratio remains, portals just get smarter and remember where you came from.\n\n<p>\n    <a style=\"text-decoration: none;\" href=\"https://modrinth.com/mod/balm\"> \n        <img src=\"https://blay09.net/files/brand/requires_balm.png\" alt=\"Requires Balm\" width=\"217\" height=\"51\" /> \n    </a>\n    <img src=\"https://blay09.net/files/brand/spacer.png\" alt=\"\" width=\"21\" height=\"51\" /> \n    <a style=\"text-decoration: none;\" href=\"https://discord.gg/VAfZ2Nau6j\">\n        <img src=\"https://blay09.net/files/brand/discord.png\" alt=\"Join our Discord\" width=\"51\" height=\"51\" />\n    </a>\n</p>\n\n## Features\n\n- As long as players use the same portal to return to the overworld, they will end up where they came from\n- Only needs to be installed on the server (but works in singleplayer as well)\n\n\n<p>\n    <img src=\"https://blay09.net/files/brand/netherportalfix_broken.png\" alt=\"\" width=\"256\" height=\"256\" /> \n    <img src=\"https://blay09.net/files/brand/netherportalfix_fixed.png\" alt=\"\" width=\"256\" height=\"256\" />\n</p>",
+		"name": "NetherPortalFix",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/TwelveIterationMods/NetherPortalFix",
+		"support_link": "https://www.patreon.com/BlayTheNinth"
+	},
+	"properties": {
+		"modrinth_id": "nPZr02ET",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

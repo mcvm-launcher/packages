@@ -1,0 +1,759 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/Z7UKQeet/Searchables-neoforge-1.21-1.0.1.jar",
+					"version": "Z7UKQeet"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/CBSMQxpQ/Searchables-fabric-1.21-1.0.1.jar",
+					"version": "CBSMQxpQ"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/cVMlbiND/Searchables-neoforge-1.20.6-1.0.1.jar",
+					"version": "cVMlbiND"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/8O5zvtt2/Searchables-fabric-1.20.6-1.0.1.jar",
+					"version": "8O5zvtt2"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/9wZPO8bS/Searchables-neoforge-1.20.5-1.0.5.jar",
+					"version": "9wZPO8bS"
+				},
+				{
+					"minecraft_versions": "1.20.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/LkVw14ih/Searchables-fabric-1.20.5-1.0.5.jar",
+					"version": "LkVw14ih"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/eh4IBlu2/Searchables-fabric-1.20.1-1.0.3.jar",
+					"version": "eh4IBlu2"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/PM9yAW1G/Searchables-forge-1.20.1-1.0.3.jar",
+					"version": "PM9yAW1G"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/jvJd9WhS/Searchables-neoforge-1.20.4-1.0.6.jar",
+					"version": "jvJd9WhS"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/CESw4Xj5/Searchables-fabric-1.20.4-1.0.6.jar",
+					"version": "CESw4Xj5"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/JQ4ArjGk/Searchables-forge-1.20.4-1.0.6.jar",
+					"version": "JQ4ArjGk"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/JjZhYneQ/Searchables-neoforge-1.20.4-1.0.3.jar",
+					"version": "JjZhYneQ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/siSgbXcb/Searchables-fabric-1.20.4-1.0.3.jar",
+					"version": "siSgbXcb"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/aFTzsWqN/Searchables-forge-1.20.4-1.0.3.jar",
+					"version": "aFTzsWqN"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/ioHyWox3/Searchables-neoforge-1.20.3-1.0.2.jar",
+					"version": "ioHyWox3"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/xTkfl3Dx/Searchables-fabric-1.20.3-1.0.2.jar",
+					"version": "xTkfl3Dx"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/k78tmPu2/Searchables-forge-1.20.3-1.0.2.jar",
+					"version": "k78tmPu2"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/dYzQ4Rqf/Searchables-fabric-1.20.3-1.0.1.jar",
+					"version": "dYzQ4Rqf"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/v20oAVSp/Searchables-forge-1.20.3-1.0.1.jar",
+					"version": "v20oAVSp"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/gcqBz3gR/Searchables-fabric-1.20.2-1.0.16.jar",
+					"version": "gcqBz3gR"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/IrC7uNUe/Searchables-neoforge-1.20.2-1.0.16.jar",
+					"version": "IrC7uNUe"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/vnz9iKHu/Searchables-forge-1.20.2-1.0.16.jar",
+					"version": "vnz9iKHu"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/tRemkGX1/Searchables-fabric-1.16.5-1.0.7-dev.jar",
+					"version": "tRemkGX1"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/bCUwEYhi/Searchables-forge-1.16.5-1.0.7.jar",
+					"version": "bCUwEYhi"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/HxAXC8Rn/Searchables-neoforge-1.20.2-1.0.15.jar",
+					"version": "HxAXC8Rn"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/bhY1YyNc/Searchables-fabric-1.20.2-1.0.15.jar",
+					"version": "bhY1YyNc"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/i7pCNrJO/Searchables-forge-1.20.2-1.0.15.jar",
+					"version": "i7pCNrJO"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/XFDZuUvT/Searchables-neoforge-1.20.2-1.0.14.jar",
+					"version": "XFDZuUvT"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/fVMNZY8a/Searchables-fabric-1.20.2-1.0.14.jar",
+					"version": "fVMNZY8a"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/5UrOE8Xw/Searchables-forge-1.20.2-1.0.14.jar",
+					"version": "5UrOE8Xw"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/LsdBKv5c/Searchables-fabric-1.20.2-1.0.12.jar",
+					"version": "LsdBKv5c"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/jh1RI9XF/Searchables-neoforge-1.20.2-1.0.12.jar",
+					"version": "jh1RI9XF"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/VIaGSuXf/Searchables-forge-1.20.2-1.0.12.jar",
+					"version": "VIaGSuXf"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/Y40vO0Ib/Searchables-neoforge-1.20.2-1.0.11.jar",
+					"version": "Y40vO0Ib"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/Fjn6wS7P/Searchables-fabric-1.20.2-1.0.11.jar",
+					"version": "Fjn6wS7P"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/t8MkBxXA/Searchables-forge-1.20.2-1.0.11.jar",
+					"version": "t8MkBxXA"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/CBZbHVVO/Searchables-fabric-1.20.2-1.0.9.jar",
+					"version": "CBZbHVVO"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/KPo16ya6/Searchables-neoforge-1.20.2-1.0.9.jar",
+					"version": "KPo16ya6"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/9rCLItwN/Searchables-forge-1.20.2-1.0.9.jar",
+					"version": "9rCLItwN"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/ZQmLIdvK/Searchables-fabric-1.20.2-1.0.6.jar",
+					"version": "ZQmLIdvK"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/czb6lctW/Searchables-neoforge-1.20.2-1.0.6.jar",
+					"version": "czb6lctW"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/tOZ1CU35/Searchables-forge-1.20.2-1.0.6.jar",
+					"version": "tOZ1CU35"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/5onYsBPK/Searchables-fabric-1.20.2-1.0.5.jar",
+					"version": "5onYsBPK"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/TVzy8oaA/Searchables-neoforge-1.20.2-1.0.5.jar",
+					"version": "TVzy8oaA"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/ROCGImHZ/Searchables-forge-1.20.2-1.0.5.jar",
+					"version": "ROCGImHZ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/MhKi1AKd/Searchables-forge-1.20.2-1.0.4.jar",
+					"version": "MhKi1AKd"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/L6tli89N/Searchables-fabric-1.20.2-1.0.3.jar",
+					"version": "L6tli89N"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/nhHsXrGa/Searchables-forge-1.20.2-1.0.3.jar",
+					"version": "nhHsXrGa"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/ZJCxu2Vh/Searchables-fabric-1.20.1-1.0.2.jar",
+					"version": "ZJCxu2Vh"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/9990I5Tc/Searchables-forge-1.20.1-1.0.2.jar",
+					"version": "9990I5Tc"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/vQ8Sa7rD/Searchables-fabric-1.20.2-1.0.2.jar",
+					"version": "vQ8Sa7rD"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/ucbv3cDL/Searchables-forge-1.20.2-1.0.2.jar",
+					"version": "ucbv3cDL"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/cXaghv3Z/Searchables-fabric-1.20.2-1.0.1.jar",
+					"version": "cXaghv3Z"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/rHFrxRPh/Searchables-forge-1.20.2-1.0.1.jar",
+					"version": "rHFrxRPh"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/YtJVslWU/Searchables-fabric-1.16.5-1.0.6-dev.jar",
+					"version": "YtJVslWU"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/SnoWwkmq/Searchables-forge-1.16.5-1.0.6.jar",
+					"version": "SnoWwkmq"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/kt5hkP9b/Searchables-fabric-1.20.1-1.0.1.jar",
+					"version": "kt5hkP9b"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/AGrLmppj/Searchables-forge-1.20.1-1.0.1.jar",
+					"version": "AGrLmppj"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/KssuuPQj/Searchables-fabric-1.20-1.0.2.jar",
+					"version": "KssuuPQj"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/SuqXnlUJ/Searchables-forge-1.20-1.0.2.jar",
+					"version": "SuqXnlUJ"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/UVJV2fr1/Searchables-fabric-1.20-1.0.1.jar",
+					"version": "UVJV2fr1"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/ju2aNLZQ/Searchables-forge-1.20-1.0.1.jar",
+					"version": "ju2aNLZQ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/WV6ahsQa/Searchables-fabric-1.16.5-1.0.5-dev.jar",
+					"version": "WV6ahsQa"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/u10TM6qV/Searchables-forge-1.16.5-1.0.5.jar",
+					"version": "u10TM6qV"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/igYRNoOj/Searchables-fabric-1.16.5-1.0.4-dev.jar",
+					"version": "igYRNoOj"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/ASWpfm6w/Searchables-forge-1.16.5-1.0.4.jar",
+					"version": "ASWpfm6w"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/w8oPF6rU/Searchables-forge-1.16.5-1.0.2.jar",
+					"version": "w8oPF6rU"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/b1BrscWC/Searchables-fabric-1.16.5-1.0.2.jar",
+					"version": "b1BrscWC"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/xOO5vAnB/Searchables-forge-1.17.1-1.0.1.jar",
+					"version": "xOO5vAnB"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/YrZSPg5T/Searchables-fabric-1.17.1-1.0.1.jar",
+					"version": "YrZSPg5T"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/OLvkSxl5/Searchables-forge-1.18.2-1.0.1.jar",
+					"version": "OLvkSxl5"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/usRpLoA5/Searchables-fabric-1.18.2-1.0.1.jar",
+					"version": "usRpLoA5"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/LuotI0gV/Searchables-forge-1.19.2-1.0.2.jar",
+					"version": "LuotI0gV"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/YtzPnOQv/Searchables-fabric-1.19.2-1.0.2.jar",
+					"version": "YtzPnOQv"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/lr19qQ24/Searchables-forge-1.19.1-1.0.1.jar",
+					"version": "lr19qQ24"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/o21YP3As/Searchables-fabric-1.19.1-1.0.1.jar",
+					"version": "o21YP3As"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/V4nvwT7f/Searchables-forge-1.19.2-1.0.1.jar",
+					"version": "V4nvwT7f"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/egguWJO5/Searchables-fabric-1.19.2-1.0.1.jar",
+					"version": "egguWJO5"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/hLMrJBAr/Searchables-forge-1.19.3-1.0.1.jar",
+					"version": "hLMrJBAr"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/mhqbneQi/Searchables-fabric-1.19.3-1.0.1.jar",
+					"version": "mhqbneQi"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/erSt9y38/Searchables-forge-1.19.4-1.0.3.jar",
+					"version": "erSt9y38"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/ve9kcBZR/Searchables-fabric-1.19.4-1.0.3.jar",
+					"version": "ve9kcBZR"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/cld8gZhH/Searchables-forge-1.19.4-1.0.2.jar",
+					"version": "cld8gZhH"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/9YdVg9HV/Searchables-fabric-1.19.4-1.0.2.jar",
+					"version": "9YdVg9HV"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/KeIrnexa/Searchables-forge-1.19.4-1.0.0.1.jar",
+					"version": "KeIrnexa"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iLwmbWLV/Searchables-fabric-1.19.4-1.0.0.1.jar",
+					"version": "iLwmbWLV"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"jaredlll08"
+		],
+		"description": "Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/fuuu3xnx/758f85f0828691410527e3df127453f43f8abd48.png",
+		"issues": "https://github.com/jaredlll08/searchables/issues",
+		"license": "MIT",
+		"long_description": "<p style=\"text-align:center\"><span style=\"font-size:14px\"><img src=\"https://i.blamejared.com/searchables.png\" alt=\"small_logo\" width=\"12.5%\"></span></p>\n<p style=\"text-align:center;margin-right:1rem\"><span style=\"font-size:14px\"><img src=\"https://i.blamejared.com/searchables_banner.png\" width=\"60%\"></span></p>\n<p style=\"text-align:center;margin-right:1rem\"><span style=\"font-size:14px\"><a href=\"https://github.com/jaredlll08/searchables/issues\" rel=\"nofollow\"><img src=\"https://img.shields.io/github/issues/jaredlll08/searchables?style=flat-square\" alt=\"Github Issues\" width=\"98\" height=\"20\"></a><a href=\"https://github.com/jaredlll08/searchables/blob/1.19.4/LICENSE\" rel=\"nofollow\"><img src=\"https://img.shields.io/github/license/jaredlll08/searchables?color=3da6e4&style=flat-square\" alt=\"License \" width=\"78\" height=\"20\"></a></span></p>\n<p><span style=\"font-size:14px\">Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components (</span>shape:square color:red<span style=\"font-size:14px\">), as well as offering built in auto-complete functionality.</span></p>\n\n<p><span>The auto-complete looks like this:</span></p>\n<p><span><img src=\"https://i.blamejared.com/searchables_autocomplete.gif\" alt=\"searchables autocomplete\" width=\"813\" height=\"406\"></span></p>\n\n<p>This mod does nothing on it's own, but is used by other mods to improve the search experience.</p>\n\nIf you would like to support me in my modding endeavors, you can become a patron via **[![Patreon logo](https://i.imgur.com/CAJuExT.png) Patreon](https://www.patreon.com/jaredlll08)**.\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/jared.jpg)](https://nodecraft.com/r/jared)\n\n**This project is sponsored by Nodecraft. Use code [JARED](https://nodecraft.com/r/jared) for 30% off your first month of service!**",
+		"name": "Searchables",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/jaredlll08/searchables"
+	},
+	"properties": {
+		"modrinth_id": "fuuu3xnx",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.16.5",
+			"1.17.1",
+			"1.18.2",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

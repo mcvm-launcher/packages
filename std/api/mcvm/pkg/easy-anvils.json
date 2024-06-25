@@ -1,0 +1,851 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/IxNxYaUz/EasyAnvils-v20.4.6-1.20.4-NeoForge.jar",
+					"version": "IxNxYaUz"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/pM87zO29/EasyAnvils-v20.4.6-1.20.4-Forge.jar",
+					"version": "pM87zO29"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/kUBlq4YM/EasyAnvils-v20.4.6-1.20.4-Fabric.jar",
+					"version": "kUBlq4YM"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/LfQVhilT/EasyAnvils-v20.4.5-1.20.4-NeoForge.jar",
+					"version": "LfQVhilT"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/Sx92YEEp/EasyAnvils-v20.4.5-1.20.4-Forge.jar",
+					"version": "Sx92YEEp"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/S7vB48TK/EasyAnvils-v20.4.5-1.20.4-Fabric.jar",
+					"version": "S7vB48TK"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/WYntgLIO/EasyAnvils-v20.4.4-1.20.4-NeoForge.jar",
+					"version": "WYntgLIO"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/FkfMgYJT/EasyAnvils-v20.4.4-1.20.4-Forge.jar",
+					"version": "FkfMgYJT"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/dsfJBr9G/EasyAnvils-v20.4.4-1.20.4-Fabric.jar",
+					"version": "dsfJBr9G"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/3pySSjn5/EasyAnvils-v20.4.3-1.20.4-NeoForge.jar",
+					"version": "3pySSjn5"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/1zRbqqKY/EasyAnvils-v20.4.3-1.20.4-Forge.jar",
+					"version": "1zRbqqKY"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/XLEe4VlA/EasyAnvils-v20.4.3-1.20.4-Fabric.jar",
+					"version": "XLEe4VlA"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/pA1enJAS/EasyAnvils-v8.0.2-1.20.1-Fabric.jar",
+					"version": "pA1enJAS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/4pRdDqEb/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+					"version": "4pRdDqEb"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/R9Q7S9Cp/EasyAnvils-v20.4.2-1.20.4-NeoForge.jar",
+					"version": "R9Q7S9Cp"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/YN3lEJU2/EasyAnvils-v20.4.2-1.20.4-Forge.jar",
+					"version": "YN3lEJU2"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/zfO0kNZ9/EasyAnvils-v20.4.2-1.20.4-Fabric.jar",
+					"version": "zfO0kNZ9"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/wraWegFS/EasyAnvils-v20.4.1-1.20.4-NeoForge.jar",
+					"version": "wraWegFS"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/nIsxlUJH/EasyAnvils-v20.4.1-1.20.4-Forge.jar",
+					"version": "nIsxlUJH"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/7fe8p4SL/EasyAnvils-v20.4.1-1.20.4-Fabric.jar",
+					"version": "7fe8p4SL"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/buj4LXK5/EasyAnvils-v20.4.0-1.20.4-Forge.jar",
+					"version": "buj4LXK5"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/iJfuu0Tb/EasyAnvils-v20.4.0-1.20.4-NeoForge.jar",
+					"version": "iJfuu0Tb"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/N3AVcKUh/EasyAnvils-v20.4.0-1.20.4-Fabric.jar",
+					"version": "N3AVcKUh"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/53Dioiza/EasyAnvils-v3.0.0-1.18.2-Forge.jar",
+					"version": "53Dioiza"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/AzTwoyPb/EasyAnvils-v3.0.0-1.18.2-Fabric.jar",
+					"version": "AzTwoyPb"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/aGEBKSjm/EasyAnvils-v8.0.1-1.20.1-Fabric.jar",
+					"version": "aGEBKSjm"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/JcQZFne1/EasyAnvils-v8.0.1-1.20.1-Forge.jar",
+					"version": "JcQZFne1"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/JqhLEX1W/EasyAnvils-v8.0.0-1.20.1-Fabric.jar",
+					"version": "JqhLEX1W"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/pcDw1xwF/EasyAnvils-v8.0.0-1.20.1-Forge.jar",
+					"version": "pcDw1xwF"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/7mJc88hD/EasyAnvils-v7.0.0-1.20-Fabric.jar",
+					"version": "7mJc88hD"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/u6V7v3d7/EasyAnvils-v7.0.0-1.20-Forge.jar",
+					"version": "u6V7v3d7"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/NbbGmb9T/EasyAnvils-v6.0.0-1.19.4-Forge.jar",
+					"version": "NbbGmb9T"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/yNwfm0bQ/EasyAnvils-v6.0.0-1.19.4-Fabric.jar",
+					"version": "yNwfm0bQ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/BdF7GYlv/EasyAnvils-v5.0.1-1.19.3-Forge.jar",
+					"version": "BdF7GYlv"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/jb7JDOsg/EasyAnvils-v5.0.1-1.19.3-Fabric.jar",
+					"version": "jb7JDOsg"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/iYAQ1oaP/EasyAnvils-v4.0.11-1.19.2-Forge.jar",
+					"version": "iYAQ1oaP"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/JtDnifrB/EasyAnvils-v4.0.11-1.19.2-Fabric.jar",
+					"version": "JtDnifrB"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/VWBwwDlK/EasyAnvils-v5.0.0-1.19.3-Forge.jar",
+					"version": "VWBwwDlK"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/zY4Tvn2Z/EasyAnvils-v5.0.0-1.19.3-Fabric.jar",
+					"version": "zY4Tvn2Z"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/jF0q5KS7/EasyAnvils-v4.0.10-1.19.2-Forge.jar",
+					"version": "jF0q5KS7"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/nMvj17QX/EasyAnvils-v4.0.10-1.19.2-Fabric.jar",
+					"version": "nMvj17QX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/qOEcugLf/EasyAnvils-v4.0.9-1.19.2-Forge.jar",
+					"version": "qOEcugLf"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/xaueNonM/EasyAnvils-v4.0.9-1.19.2-Fabric.jar",
+					"version": "xaueNonM"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/gaTVqSAl/EasyAnvils-v4.0.8-1.19.2-Fabric.jar",
+					"version": "gaTVqSAl"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/ndUYdEZj/EasyAnvils-v4.0.8-1.19.2-Forge.jar",
+					"version": "ndUYdEZj"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/s3U2qFGi/EasyAnvils-v4.0.7-1.19.2-Forge.jar",
+					"version": "s3U2qFGi"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/GhLxNQ9x/EasyAnvils-v4.0.7-1.19.2-Fabric.jar",
+					"version": "GhLxNQ9x"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/kCZ5b9UE/EasyAnvils-v4.0.6-1.19.2-Forge.jar",
+					"version": "kCZ5b9UE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/sDn7os7x/EasyAnvils-v4.0.6-1.19.2-Fabric.jar",
+					"version": "sDn7os7x"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/64z7n1xl/EasyAnvils-v4.0.5-1.19.2-Forge.jar",
+					"version": "64z7n1xl"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/xQLSkKpO/EasyAnvils-v4.0.5-1.19.2-Fabric.jar",
+					"version": "xQLSkKpO"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/cJQMCFVL/EasyAnvils-v4.0.4-1.19.2-Forge.jar",
+					"version": "cJQMCFVL"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/sJphe6U6/EasyAnvils-v4.0.4-1.19.2-Fabric.jar",
+					"version": "sJphe6U6"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/HERUlROk/EasyAnvils-v4.0.3-1.19.2-Forge.jar",
+					"version": "HERUlROk"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/R4psUPcI/EasyAnvils-v4.0.3-1.19.2-Fabric.jar",
+					"version": "R4psUPcI"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/mFskueCT/EasyAnvils-v4.0.2-1.19.2-Forge.jar",
+					"version": "mFskueCT"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/CEO0ufY9/EasyAnvils-v4.0.2-1.19.2-Fabric.jar",
+					"version": "CEO0ufY9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/5tYVFplv/EasyAnvils-v4.0.1-1.19.2-Fabric.jar",
+					"version": "5tYVFplv"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/BtX60KJE/EasyAnvils-v4.0.1-1.19.2-Forge.jar",
+					"version": "BtX60KJE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/8GWLVHc6/EasyAnvils-v4.0.0-1.19.2-Forge.jar",
+					"version": "8GWLVHc6"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/rCbT5K7D/EasyAnvils-v4.0.0-1.19.2-Fabric.jar",
+					"version": "rCbT5K7D"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Fuzs",
+			"LunaPixelStudios"
+		],
+		"banner": "https://cdn.modrinth.com/data/OZBR5JT5/images/7f93d3bbf4af539cb9e8ba280a2e09d15bfc4f50.png",
+		"description": "Be ready for overhauled anvils! Items stay, better name tags, many tweaks!",
+		"gallery": [
+			"https://cdn.modrinth.com/data/OZBR5JT5/images/7f93d3bbf4af539cb9e8ba280a2e09d15bfc4f50.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/OZBR5JT5/ce807beecc89b2b2a157efe3cf9a32a7e5ea1054.png",
+		"issues": "https://github.com/Fuzss/easyanvils/issues",
+		"license": "MPL-2.0",
+		"long_description": "<p><img src=\"https://i.imgur.com/UNn2DzX.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/Available%20for%20Minecraft-1.19-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"248\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20%26%20Server-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"240\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-anvils/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7498\"><img src=\"https://bit.ly/3yrSsw7\" width=\"320\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-anvils/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><img src=\"https://bit.ly/3clkhvn\" width=\"299\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📖 About:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Easy Anvils</strong> makes working with anvils much more enjoyable. Not only do items stay inside the interface after closing, also some annoying restrictions are removed. Also name tags can be renamed without even using an anvil.</span></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📚 Contents:</strong></span></p>\n<p><span style=\"font-size: 14px;\">First of all, anvils now have an <strong>Inventory</strong> for storing the items you put inside. This also means items will stay in the anvil after you close the interface. To put this functionality to good use, anvil contents will now <strong>Render</strong> as laying on top of the anvil.</span></p>\n<p><span style=\"font-size: 14px;\">Anvils no longer use the prior work penalty tag, so no matter how often you repair an item or add new enchantments to it, <strong>Costs Won't Needlessly Increase</strong>. You can also fully <strong>Configure The Max Level Limit</strong>, which controls when the <i>Too Expensive!</i> flag shows up.</span></p>\n<p><span style=\"font-size: 14px;\">Anvils can now be <strong>Repaired</strong> by one stage using iron blocks. You can also use a dispenser to automate repairing.</span></p>\n<p><span style=\"font-size: 14px;\">Name tags have quite a few nice changes: Not only is setting a name in an anvil <strong>Completely Free</strong> and doesn't risk damaging your precious anvil, you don't even need an anvil at all anymore to change a name tag's name. Simply shift + right-click a name tag to <strong>Open A Simple Interface</strong> for setting a new name.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Text Can Be Stylized</strong> using Minecraft's native formatting codes in both the anvil and name tag interface. This allows for setting custom colors and styles when choosing item and entity names. Check the <a href=\"https://minecraft.fandom.com/wiki/Formatting_codes#Usage\"><span style=\"font-size: 14px;\"><strong>Minecraft Wiki</strong></span></a> for more information on formatting codes.</span></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📷 Media:</strong></span></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/503/27/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/503/28/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Anvils can be so fancy!</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Free name tag renames</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/503/29/2022-09-29_09.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/503/30/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>No max level limit anymore</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>No anvil required for renaming name tags anymore</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/504/422/2022-10-04_21.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/504/424/2022-10-04_21.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Repair anvils by one stage using iron blocks</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Use formatting codes when naming your equipment</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>💡 FAQ:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: I want enchanting tables to keep and render their contents as well!</strong><br /><strong>A:</strong> Sure thing, check out my <a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-magic\"><span style=\"font-size: 14px;\">Easy Magic</span></a> mod which does just that and more.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Where can I download this mod for Forge on versions of Minecraft before 1.17?</strong><br /><strong>A:</strong> Check out the mods which inspired this project: <a href=\"https://www.curseforge.com/minecraft/mc-mods/anvil-tweaks\"><span style=\"font-size: 14px;\">Anvil Tweaks</span></a>, <a href=\"https://www.curseforge.com/minecraft/mc-mods/anvil-repair\"><span style=\"font-size: 14px;\">Anvil Repair</span></a>, and <a href=\"https://www.curseforge.com/minecraft/mc-mods/nametags-without-anvils\"><span style=\"font-size: 14px;\">Nametags Without Anvils</span></a> by <a href=\"https://www.curseforge.com/members/tfarecnim\"><span style=\"font-size: 14px;\"><strong>tfarecnim</strong></span></a>.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod?</strong><br /><strong>A:</strong> Mods can have three different kinds of configs depending on the kind of settings they provide: <strong>Client</strong>, <strong>Common</strong>, and <strong>Server</strong>.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Client</strong> and <strong>Common</strong> configs are found in <code>/.minecraft/config/</code>, named as <code>&lt;modId&gt;-client.toml</code> and <code>&lt;modId&gt;-common.toml</code>, respectively.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Server</strong> configs though are applied per world, therefore you'll find those in <code>/.minecraft/saves/&lt;world&gt;/serverconfig/&lt;modId&gt;-server.toml</code> for local singeplayer worlds, and in <code>/&lt;world&gt;/serverconfig/&lt;modId&gt;-server.toml</code> for you Minecraft server. Changes made to a server config only apply to that one world. Setting default values in server configs for all <strong>newly</strong> created worlds is possible by copying the modified server config to <code>/.minecraft/defaultconfigs/</code>.</span></p>\n<p><span style=\"font-size: 14px;\">In a local singleplayer world you can quickly find config files by running the <code>/config showfile &lt;modid&gt;</code> command and by choosing <code>CLIENT</code>, <code>COMMON</code> or <code>SERVER</code>. Then click the file name (ending with .toml) that appears in chat to open the file in a text editor. After saving the file, the config will automatically reload in-game after a couple of seconds, so no game restart required.</span></p>\n<p><span style=\"font-size: 14px;\">On some mod loaders editing configs is also supported in-game via the <strong>Mods</strong> menu option. On some Minecraft versions you can also install my <a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><span style=\"font-size: 14px;\"><strong>Config Menus for Forge</strong></span></a> mod for editing configs directly in-game.</span></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>🏆 Credits:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Developing Easy Anvils was helped and inspired by:</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/tfarecnim\"><span style=\"font-size: 14px;\"><strong>tfarecnim</strong></span></a> and their <a href=\"https://www.curseforge.com/minecraft/mc-mods/anvil-tweaks\"><span style=\"font-size: 14px;\">Anvil Tweaks</span></a>, <a href=\"https://www.curseforge.com/minecraft/mc-mods/anvil-repair\"><span style=\"font-size: 14px;\">Anvil Repair</span></a>, and <a href=\"https://www.curseforge.com/minecraft/mc-mods/nametags-without-anvils\"><span style=\"font-size: 14px;\">Nametags Without Anvils</span></a> mods, which this mod is largely based upon</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/elhertz\"><span style=\"font-size: 14px;\"><strong>elhertz</strong></span></a> for suggesting the anvil max enchantment level fix</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://github.com/Illios42\"><span style=\"font-size: 14px;\"><strong>Illios42</strong></span></a> for suggesting the feature for allowing text to be stylized using Minecraft's formatting codes in the anvil and name tag interface</span></li>\n</ul>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/lunapixelstudios/projects\"><img src=\"https://img.shields.io/static/v1?label=CurseForge&amp;message=LunaPixelStudios&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"282\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/LunaPixelStudio\"><img src=\"https://img.shields.io/twitter/follow/LunaPixelStudio?label=Twitter&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"149\" height=\"28\" /></a>&emsp;<a href=\"https://discord.gg/8ZmhaPPbjE\"><img src=\"https://img.shields.io/discord/790272037578473512?label=Discord&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"220\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/1MOyd2u.png\" width=\"854\" height=\"300\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/portable-hole\"><img src=\"https://i.imgur.com/Lk8bHYP.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/spiky-spikes\"><img src=\"https://i.imgur.com/Edo5jnW.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-magic\"><img src=\"https://i.imgur.com/Mlxi8cy.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/golden-age-combat\"><img src=\"https://i.imgur.com/sHiR309.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/death-finder\"><img src=\"https://i.imgur.com/cvFId49.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal-forge\"><img src=\"https://i.imgur.com/q3CooZb.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier\"><img src=\"https://i.imgur.com/DCwxKZU.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/bag-of-holding-forge\"><img src=\"https://i.imgur.com/8gTQlTt.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><img src=\"https://i.imgur.com/kiHP8s9.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/bartering-station\"><img src=\"https://i.imgur.com/LTZQj4C.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>",
+		"name": "Easy Anvils",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Fuzss/easyanvils"
+	},
+	"properties": {
+		"modrinth_id": "OZBR5JT5",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}

@@ -1,0 +1,1001 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/xnk0kHVU/AttributeFix-NeoForge-1.20.4-24.0.2.jar",
+					"version": "xnk0kHVU"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/b3G59qDW/AttributeFix-Forge-1.20.4-24.0.2.jar",
+					"version": "b3G59qDW"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/9i2o9Ch1/AttributeFix-Fabric-1.20.4-24.0.2.jar",
+					"version": "9i2o9Ch1"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/eMw4fAKK/AttributeFix-NeoForge-1.20.4-24.0.1.jar",
+					"version": "eMw4fAKK"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/V5u3pVn6/AttributeFix-Forge-1.20.4-24.0.1.jar",
+					"version": "V5u3pVn6"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/rbc3xtzE/AttributeFix-Fabric-1.20.4-24.0.1.jar",
+					"version": "rbc3xtzE"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/cZrgJ3bC/AttributeFix-NeoForge-1.20.3-23.0.1.jar",
+					"version": "cZrgJ3bC"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/iaLfJR9t/AttributeFix-Forge-1.20.3-23.0.1.jar",
+					"version": "iaLfJR9t"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/uQr7JCs5/AttributeFix-Fabric-1.20.3-23.0.1.jar",
+					"version": "uQr7JCs5"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/umTqvP2X/AttributeFix-NeoForge-1.20.2-22.0.3.jar",
+					"version": "umTqvP2X"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/byZmu5oc/AttributeFix-Forge-1.20.2-22.0.3.jar",
+					"version": "byZmu5oc"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/2Hp957Mc/AttributeFix-Fabric-1.20.2-22.0.3.jar",
+					"version": "2Hp957Mc"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Y42wjyly/AttributeFix-Forge-1.20.1-21.0.4.jar",
+					"version": "Y42wjyly"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/B5XgR60E/AttributeFix-Fabric-1.20.1-21.0.4.jar",
+					"version": "B5XgR60E"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ZPZI5mAG/AttributeFix-NeoForge-1.20.2-22.0.2.jar",
+					"version": "ZPZI5mAG"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Qv0VR0pO/AttributeFix-Forge-1.20.2-22.0.2.jar",
+					"version": "Qv0VR0pO"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/tIjN25we/AttributeFix-Fabric-1.20.2-22.0.2.jar",
+					"version": "tIjN25we"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/oAPOEZOh/AttributeFix-NeoForge-1.20.2-22.0.1.jar",
+					"version": "oAPOEZOh"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/M7v3NRKD/AttributeFix-Forge-1.20.2-22.0.1.jar",
+					"version": "M7v3NRKD"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/qRtByEsL/AttributeFix-Fabric-1.20.2-22.0.1.jar",
+					"version": "qRtByEsL"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/XAsKgBxc/AttributeFix-Forge-1.20.1-21.0.3.jar",
+					"version": "XAsKgBxc"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Pjsot1vt/AttributeFix-Fabric-1.20.1-21.0.3.jar",
+					"version": "Pjsot1vt"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Y09GwS1A/AttributeFix-Forge-1.20.1-21.0.2.jar",
+					"version": "Y09GwS1A"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Qt4BEYlo/AttributeFix-Fabric-1.20.1-21.0.2.jar",
+					"version": "Qt4BEYlo"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/6AiILf8q/AttributeFix-Forge-1.20.1-21.0.1.jar",
+					"version": "6AiILf8q"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/CCf6Xz7D/AttributeFix-Fabric-1.20.1-21.0.1.jar",
+					"version": "CCf6Xz7D"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/SD6j6TWD/AttributeFix-Forge-1.19.2-17.2.7.jar",
+					"version": "SD6j6TWD"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/w0gEQWpC/AttributeFix-Fabric-1.19.2-17.2.7.jar",
+					"version": "w0gEQWpC"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/pstYUA40/AttributeFix-Forge-1.20-20.0.2.jar",
+					"version": "pstYUA40"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/pYgL1KjE/AttributeFix-Fabric-1.20-20.0.2.jar",
+					"version": "pYgL1KjE"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/YCmZhRO9/AttributeFix-Forge-1.20-20.0.1.jar",
+					"version": "YCmZhRO9"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/o8hFkfzu/AttributeFix-Fabric-1.20-20.0.1.jar",
+					"version": "o8hFkfzu"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/xlL1HNMV/AttributeFix-Forge-1.19.4-19.1.2.jar",
+					"version": "xlL1HNMV"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/DpVr9OOR/AttributeFix-Fabric-1.19.4-19.1.2.jar",
+					"version": "DpVr9OOR"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/nXXStfhl/AttributeFix-Forge-1.19.4-19.0.1.jar",
+					"version": "nXXStfhl"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/4zmNqYTH/AttributeFix-Fabric-1.19.4-19.0.1.jar",
+					"version": "4zmNqYTH"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/RI4sWcBO/AttributeFix-Forge-1.19.3-18.0.2.jar",
+					"version": "RI4sWcBO"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/kXsL5oos/AttributeFix-Fabric-1.19.3-18.0.2.jar",
+					"version": "kXsL5oos"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/wkhqxp1Q/AttributeFix-Forge-1.19.2-17.2.6.jar",
+					"version": "wkhqxp1Q"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/7lsA3k7C/AttributeFix-Fabric-1.19.2-17.2.6.jar",
+					"version": "7lsA3k7C"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/X3nlVK64/AttributeFix-Forge-1.19.2-17.2.5.jar",
+					"version": "X3nlVK64"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/RmLpa4og/AttributeFix-Fabric-1.19.2-17.2.5.jar",
+					"version": "RmLpa4og"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/I65bHWcF/AttributeFix-Forge-1.19.2-17.2.4.jar",
+					"version": "I65bHWcF"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/pAcjJrCr/AttributeFix-Fabric-1.19.2-17.2.4.jar",
+					"version": "pAcjJrCr"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ip7KQeBK/AttributeFix-Forge-1.12.2-1.0.12.jar",
+					"version": "ip7KQeBK"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/EAAquIie/AttributeFix-Forge-1.19.3-18.0.1.jar",
+					"version": "EAAquIie"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/bKUCDnQH/AttributeFix-Fabric-1.19.3-18.0.1.jar",
+					"version": "bKUCDnQH"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/tpBJqwWE/AttributeFix-Forge-1.19.2-17.1.3.jar",
+					"version": "tpBJqwWE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/uV0rha3l/AttributeFix-Fabric-1.19.2-17.1.3.jar",
+					"version": "uV0rha3l"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/CpvfFwkw/AttributeFix-Forge-1.19.2-17.1.2.jar",
+					"version": "CpvfFwkw"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Uv1kNYmC/AttributeFix-Fabric-1.19.2-17.1.2.jar",
+					"version": "Uv1kNYmC"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/A8NdzVY8/AttributeFix-Forge-1.19.2-17.0.1.jar",
+					"version": "A8NdzVY8"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/J9iztDbP/AttributeFix-Fabric-1.19.2-17.0.1.jar",
+					"version": "J9iztDbP"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/cSTWE9cu/AttributeFix-Forge-1.19.1-16.0.1.jar",
+					"version": "cSTWE9cu"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/yobCsC5K/AttributeFix-Fabric-1.19.1-16.0.1.jar",
+					"version": "yobCsC5K"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/z0Cg572G/AttributeFix-Forge-1.19-15.1.3.jar",
+					"version": "z0Cg572G"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/oQQ5xZZY/AttributeFix-Fabric-1.19-15.1.3.jar",
+					"version": "oQQ5xZZY"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/mFAudhGF/AttributeFix-Forge-1.19-15.0.2.jar",
+					"version": "mFAudhGF"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/RDqSeyOX/AttributeFix-Fabric-1.19-15.0.2.jar",
+					"version": "RDqSeyOX"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/2CqoWXFe/AttributeFix-Forge-1.19-15.0.1.jar",
+					"version": "2CqoWXFe"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/meRWEfK3/AttributeFix-Fabric-1.19-15.0.1.jar",
+					"version": "meRWEfK3"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/faBIQKaU/AttributeFix-Forge-1.18.2-14.0.2.jar",
+					"version": "faBIQKaU"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/JOgBIRl3/AttributeFix-Fabric-1.18.2-14.0.2.jar",
+					"version": "JOgBIRl3"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/8us1FakC/AttributeFix-1.16.5-10.1.4.jar",
+					"version": "8us1FakC"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ZfLj4Yv8/AttributeFix-Forge-1.18.2-14.0.1.jar",
+					"version": "ZfLj4Yv8"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/iWkwiAay/AttributeFix-Fabric-1.18.2-14.0.1.jar",
+					"version": "iWkwiAay"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Ki9VOsWw/AttributeFix-Forge-1.18.1-13.0.5.jar",
+					"version": "Ki9VOsWw"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/jIgPLxgk/AttributeFix-Fabric-1.18.1-13.0.5.jar",
+					"version": "jIgPLxgk"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/TJFB90aP/AttributeFix-Forge-1.18.1-13.0.4.jar",
+					"version": "TJFB90aP"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/vYLbf5R7/AttributeFix-Fabric-1.18.1-13.0.4.jar",
+					"version": "vYLbf5R7"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/jnhW5VaZ/AttributeFix-Forge-1.17.1-11.0.4.jar",
+					"version": "jnhW5VaZ"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/imnsBtKC/AttributeFix-Fabric-1.17.1-11.0.4.jar",
+					"version": "imnsBtKC"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/WOvxX2lr/AttributeFix-Forge-1.18.1-13.0.3.jar",
+					"version": "WOvxX2lr"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/F1cS6XGU/AttributeFix-Fabric-1.18.1-13.0.3.jar",
+					"version": "F1cS6XGU"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Vbz8pwb8/AttributeFix-Forge-1.18-12.0.3.jar",
+					"version": "Vbz8pwb8"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/j86gIAeM/AttributeFix-Fabric-1.18-12.0.3.jar",
+					"version": "j86gIAeM"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/hVsa3JJd/AttributeFix-Forge-1.17.1-11.0.3.jar",
+					"version": "hVsa3JJd"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/BljpRtM8/AttributeFix-Fabric-1.17.1-11.0.3.jar",
+					"version": "BljpRtM8"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/th3YfV05/AttributeFix-Forge-1.17.1-11.0.2.jar",
+					"version": "th3YfV05"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/jpPdX8Gm/AttributeFix-Fabric-1.17.1-11.0.2.jar",
+					"version": "jpPdX8Gm"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/8RGearAk/AttributeFix-Forge-1.18-12.0.2.jar",
+					"version": "8RGearAk"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/8npdTCHg/AttributeFix-Fabric-1.18-12.0.2.jar",
+					"version": "8npdTCHg"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ZxUp6vgd/AttributeFix-Forge-1.18.1-13.0.2.jar",
+					"version": "ZxUp6vgd"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/zLoau2R7/AttributeFix-Fabric-1.18.1-13.0.2.jar",
+					"version": "zLoau2R7"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/TQiqNvD9/AttributeFix-Forge-1.18.1-13.0.1.jar",
+					"version": "TQiqNvD9"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/MOmlYe1t/AttributeFix-Fabric-1.18.1-13.0.1.jar",
+					"version": "MOmlYe1t"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/U19owoad/AttributeFix-Forge-1.18-12.0.1.jar",
+					"version": "U19owoad"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/dwmeczek/AttributeFix-Fabric-1.18-12.0.1.jar",
+					"version": "dwmeczek"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/uEbi6Xkg/AttributeFix-Forge-1.17.1-11.0.1.jar",
+					"version": "uEbi6Xkg"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/OBOrRWOZ/AttributeFix-Fabric-1.17.1-11.0.1.jar",
+					"version": "OBOrRWOZ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/9GJHTfue/AttributeFix-1.16.5-10.1.3.jar",
+					"version": "9GJHTfue"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/V2sZfGZ9/AttributeFix-1.16.5-10.1.2.jar",
+					"version": "V2sZfGZ9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ekJQu9eX/AttributeFix-1.16.5-10.0.1.jar",
+					"version": "ekJQu9eX"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/GqHS3No8/AttributeFix-1.16.4-9.0.5.jar",
+					"version": "GqHS3No8"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/5i8cnhHt/AttributeFix-1.16.4-9.0.2.jar",
+					"version": "5i8cnhHt"
+				},
+				{
+					"minecraft_versions": "1.16.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/8OXjuyAE/AttributeFix-1.16.3-8.0.2.jar",
+					"version": "8OXjuyAE"
+				},
+				{
+					"minecraft_versions": "1.16.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/CXEA4uUw/AttributeFix-1.16.1-8.0.1.jar",
+					"version": "CXEA4uUw"
+				},
+				{
+					"minecraft_versions": "1.16.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/iH7jt6Rs/AttributeFix-1.16.2-8.0.1.jar",
+					"version": "iH7jt6Rs"
+				},
+				{
+					"minecraft_versions": "1.16.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/HsxMK7lm/AttributeFix-1.16.3-8.0.1.jar",
+					"version": "HsxMK7lm"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/m6PV0M7j/AttributeFix-1.15.2-7.0.2.jar",
+					"version": "m6PV0M7j"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/XCSwOC6w/AttributeFix-1.15.2-7.0.1.jar",
+					"version": "XCSwOC6w"
+				},
+				{
+					"minecraft_versions": "1.15.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/bUTkWyrJ/AttributeFix-1.15.1-5.0.3.jar",
+					"version": "bUTkWyrJ"
+				},
+				{
+					"minecraft_versions": "1.15.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/8VHAJ7XQ/AttributeFix-1.15.1-5.0.2.jar",
+					"version": "8VHAJ7XQ"
+				},
+				{
+					"minecraft_versions": "1.15",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/nSSUlRzy/AttributeFix-1.15-4.0.2.jar",
+					"version": "nSSUlRzy"
+				},
+				{
+					"minecraft_versions": "1.15.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/NPVSGGAA/AttributeFix-1.15.1-5.0.1.jar",
+					"version": "NPVSGGAA"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/CswSLDud/AttributeFix-1.14.4-3.0.3.jar",
+					"version": "CswSLDud"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/28PrkuB5/AttributeFix-1.12.2-1.0.10.jar",
+					"version": "28PrkuB5"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Py2zFNMB/AttributeFix-1.12.2-1.0.9.jar",
+					"version": "Py2zFNMB"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/hWX258Ay/AttributeFix-1.14.4-3.0.2.jar",
+					"version": "hWX258Ay"
+				},
+				{
+					"minecraft_versions": "1.13.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/przuZMs5/AttributeFix-1.13.2-2.0.7.jar",
+					"version": "przuZMs5"
+				},
+				{
+					"minecraft_versions": "1.13.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/lXaaNiEz/AttributeFix-1.13.2-2.0.4.jar",
+					"version": "lXaaNiEz"
+				},
+				{
+					"minecraft_versions": "1.13.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/RPr3pRGG/AttributeFix-1.13.2-2.0.2.jar",
+					"version": "RPr3pRGG"
+				},
+				{
+					"minecraft_versions": [
+						"1.14.2",
+						"1.14.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/2tlCoSAq/AttributeFix-1.14.4-3.0.1.jar",
+					"version": "2tlCoSAq"
+				},
+				{
+					"minecraft_versions": "1.13.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/dR12BCsZ/AttributeFix-1.13.2-2.0.1.jar",
+					"version": "dR12BCsZ"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ShbiE4Sr/AttributeFix-1.12.2-1.0.8.jar",
+					"version": "ShbiE4Sr"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/fbT8x6hb/AttributeFix-1.12.2-1.0.7.jar",
+					"version": "fbT8x6hb"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/s7njSnD7/AttributeFix-1.12.2-1.0.6.jar",
+					"version": "s7njSnD7"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ZTRF7KcP/AttributeFix-1.12.2-1.0.4.jar",
+					"version": "ZTRF7KcP"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/4feEebkk/AttributeFix-1.12.2-1.0.3.jar",
+					"version": "4feEebkk"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/TjtoYsyI/AttributeFix-1.12.2-1.0.2.jar",
+					"version": "TjtoYsyI"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/utiAPXIi/AttributeFix-1.12.2-1.0.1.jar",
+					"version": "utiAPXIi"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Darkhax"
+		],
+		"description": "Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/lOOpEntO/eb101c911c7d86b138f052b678760f0ea645407a.png",
+		"issues": "https://github.com/Darkhax-Minecraft/AttributeFix/issues",
+		"license": "LGPL-2.1-only",
+		"long_description": "<p style=\"text-align:center\">Attribute Fixer</p>\n<p style=\"text-align:left\">Minecraft uses an attribute system to handle important calculations. It covers everything from armor values, to attack damage, to the maximum health of a mob. This system also introduced attribute caps, which limit how high any value can be. While this usually goes unnoticed, many mods are unknowingly affected by it. This mod significantly increases these caps to allow those mods to work as they were intended.</p>\n<p style=\"text-align:left\"><strong>Affected Attributes</strong></p>\n<ul>\n<li style=\"text-align:left\">Max Health</li>\n<li style=\"text-align:left\">Follow Range</li>\n<li style=\"text-align:left\">Knockback Resistance</li>\n<li style=\"text-align:left\">Movement Speed</li>\n<li style=\"text-align:left\">Attack Damage</li>\n<li style=\"text-align:left\">Attack Speed</li>\n<li style=\"text-align:left\">Armor&nbsp;</li>\n<li style=\"text-align:left\">Armor Toughness</li>\n<li style=\"text-align:left\">Luck</li>\n</ul>\n\n<p><strong>Like the mod and want to support me?</strong></p>\n<ul>\n<li>Follow me on <a href=\"https://twitter.com/DarkhaxDev\" rel=\"nofollow\">Twitter</a></li>\n<li>Join my <a href=\"https://discord.darkhax.net/\" rel=\"nofollow\">Discord</a></li>\n<li>Pledge on <a href=\"https://www.patreon.com/Darkhax\" rel=\"nofollow\">Patreon</a></li>\n<li>Check out my <a href=\"https://darkhax.net/\" rel=\"nofollow\">website</a></li>\n</ul>\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**This project is sponsored by Nodecraft. Use code [DARKHAX](https://nodecraft.com/r/darkhax) for 30% off your first month of service!**\n",
+		"name": "AttributeFix",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Darkhax-Minecraft/AttributeFix"
+	},
+	"properties": {
+		"modrinth_id": "lOOpEntO",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.12.2",
+			"1.13.2",
+			"1.14.2",
+			"1.14.4",
+			"1.15",
+			"1.15.1",
+			"1.15.2",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4"
+		]
+	}
+}

@@ -1,0 +1,176 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/2YETxX4F/monsters-in-the-closet-1.0.3%2B1.20.5.jar",
+					"version": "2YETxX4F"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/XI1l9czA/monsters-in-the-closet-1.0.3%2B1.20.jar",
+					"version": "XI1l9czA"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/38XrCOzz/monsters-in-the-closet-1.0.3%2B1.19.jar",
+					"version": "38XrCOzz"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/v1.0.2%2B1.18/monsters-in-the-closet-1.0.3%2B1.18.jar",
+					"version": "5ux3OjpS"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/v1.0.2%2B1.17/monsters-in-the-closet-1.0.2%2B1.17.jar",
+					"version": "jjTidz9M"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/v1.0.2%2B1.16/monsters-in-the-closet-1.0.2%2B1.16.jar",
+					"version": "8OmvPTGV"
+				},
+				{
+					"minecraft_versions": "1.17",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/v1.0.1%2B1.17/monsters-in-the-closet-1.0.1%2B1.17.jar",
+					"version": "cRsEjcYY"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/v1.0.1%2B1.16/monsters-in-the-closet-1.0.1%2B1.16.jar",
+					"version": "hBaVzKxn"
+				},
+				{
+					"minecraft_versions": "1.17-pre1",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/v1.0.0%2B1.17/monsters-in-the-closet-1.0.0%2B1.17.jar",
+					"version": "yjTVS5hc"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/v1.0.0%2B1.16/monsters-in-the-closet-1.0.0%2B1.16.jar",
+					"version": "HJv5xK3d"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Minenash"
+		],
+		"community": "https://discord.gg/eYf7DDHhvN",
+		"description": "Highlights the mobs that are preventing you from sleeping",
+		"gallery": [
+			"https://cdn.modrinth.com/data/GMA8jFBD/images/3fdc4c5f7a4a3989a0de958597ed14ea80f50d23.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/GMA8jFBD/icon.png",
+		"issues": "https://github.com/Minenash/MonstersInTheCloset/issues",
+		"license": "MIT",
+		"long_description": "![pretty image](https://cdn-raw.modrinth.com/data/GMA8jFBD/images/3fdc4c5f7a4a3989a0de958597ed14ea80f50d23.png)\n\nThis is a pretty simple **fabric** mod that highlights the mobs that prevent you from sleeping. To avoid it being exploitative, it'll only highlight the mobs if the message you get would be \"Can't sleep now; monsters near by\", and it only highlights for 3 seconds.\n\n<br>\n\nIf installed on the **client**, it'll work in **singleplayer** and **any server**. If it's installed on the server, than everyone can see the highlights, even those without the mod.",
+		"name": "Monsters in the Closet",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Minenash/MonstersInTheCloset",
+		"support_link": "https://ko-fi.com/minenash"
+	},
+	"properties": {
+		"modrinth_id": "GMA8jFBD",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17-pre1",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
+		]
+	}
+}

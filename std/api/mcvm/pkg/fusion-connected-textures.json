@@ -1,0 +1,2392 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/BkKl3LqK/fusion-1.1.1-neoforge-mc1.20.4.jar",
+					"version": "BkKl3LqK"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/TIXGDm8a/fusion-1.1.1-fabric-mc1.20.4.jar",
+					"version": "TIXGDm8a"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/amY00ATt/fusion-1.1.1-fabric-mc1.20.2.jar",
+					"version": "amY00ATt"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/7gUFcBRP/fusion-1.1.1-fabric-mc1.20.1.jar",
+					"version": "7gUFcBRP"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/q94bgWkS/fusion-1.1.1-fabric-mc1.19.4.jar",
+					"version": "q94bgWkS"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/43pAkNNj/fusion-1.1.1-fabric-mc1.19.2.jar",
+					"version": "43pAkNNj"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Slab17fH/fusion-1.1.1-fabric-mc1.18.jar",
+					"version": "Slab17fH"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/oe7tVzQV/fusion-1.1.1-forge-mc1.20.2.jar",
+					"version": "oe7tVzQV"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/oA5jxU4i/fusion-1.1.1-forge-mc1.20.1.jar",
+					"version": "oA5jxU4i"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/EXp0Gf80/fusion-1.1.1-forge-mc1.19.4.jar",
+					"version": "EXp0Gf80"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/L8ib6UNb/fusion-1.1.1-forge-mc1.19.3.jar",
+					"version": "L8ib6UNb"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/AVfyszwD/fusion-1.1.1-forge-mc1.19.2.jar",
+					"version": "AVfyszwD"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/YdTSHTmK/fusion-1.1.1-forge-mc1.18.jar",
+					"version": "YdTSHTmK"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/5kJepqZd/fusion-1.1.1-forge-mc1.17.jar",
+					"version": "5kJepqZd"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/zIXxW1Q7/fusion-1.1.1-forge-mc1.16.jar",
+					"version": "zIXxW1Q7"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ys4sOobH/fusion-1.1.1-forge-mc1.15.jar",
+					"version": "ys4sOobH"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/D8B6KfYP/fusion-1.1.1-forge-mc1.14.jar",
+					"version": "D8B6KfYP"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/XfxNygT7/fusion-1.1.1-forge-mc1.12.jar",
+					"version": "XfxNygT7"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ZEw9LCVe/fusion-1.1.0d-fabric-mc1.20.4.jar",
+					"version": "ZEw9LCVe"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/pwbvQGly/fusion-1.1.0d-fabric-mc1.20.2.jar",
+					"version": "pwbvQGly"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ZdSb2sdX/fusion-1.1.0a-neoforge-mc1.20.4.jar",
+					"version": "ZdSb2sdX"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/rsbLLHDF/fusion-1.1.0c-forge-mc1.20.2.jar",
+					"version": "rsbLLHDF"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/pq4S7Gk4/fusion-1.1.0c-forge-mc1.20.1.jar",
+					"version": "pq4S7Gk4"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/7SGjGnn0/fusion-1.1.0c-forge-mc1.19.4.jar",
+					"version": "7SGjGnn0"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/R8FREwws/fusion-1.1.0c-forge-mc1.19.3.jar",
+					"version": "R8FREwws"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/9s7DYXCQ/fusion-1.1.0c-forge-mc1.19.2.jar",
+					"version": "9s7DYXCQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/vq04YFHJ/fusion-1.1.0-neoforge-mc1.20.4.jar",
+					"version": "vq04YFHJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/A9e1gCpV/fusion-1.1.0-neoforge-mc1.20.4.jar",
+					"version": "A9e1gCpV"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/76cbyYpW/fusion-1.1.0c-fabric-mc1.20.2.jar",
+					"version": "76cbyYpW"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/lOits1pZ/fusion-1.1.0c-fabric-mc1.20.1.jar",
+					"version": "lOits1pZ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/vhPDZgUA/fusion-1.1.0c-fabric-mc1.19.4.jar",
+					"version": "vhPDZgUA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/N53FXB6I/fusion-1.1.0c-fabric-mc1.19.2.jar",
+					"version": "N53FXB6I"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/CkjIjaNb/fusion-1.1.0c-fabric-mc1.18.jar",
+					"version": "CkjIjaNb"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/OIREU9C5/fusion-1.1.0b-forge-mc1.20.2.jar",
+					"version": "OIREU9C5"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/jnOJ4B9s/fusion-1.1.0b-forge-mc1.20.1.jar",
+					"version": "jnOJ4B9s"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/mxq0SucV/fusion-1.1.0b-forge-mc1.19.4.jar",
+					"version": "mxq0SucV"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/c3GXmpey/fusion-1.1.0b-forge-mc1.19.3.jar",
+					"version": "c3GXmpey"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/y7AuL63e/fusion-1.1.0b-forge-mc1.19.2.jar",
+					"version": "y7AuL63e"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/2icphOhb/fusion-1.1.0a-forge-mc1.15.jar",
+					"version": "2icphOhb"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/RGst6rKN/fusion-1.1.0a-forge-mc1.14.jar",
+					"version": "RGst6rKN"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/RcLcm7oE/fusion-1.1.0b-fabric-mc1.20.2.jar",
+					"version": "RcLcm7oE"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ae1SY8hm/fusion-1.1.0b-fabric-mc1.20.1.jar",
+					"version": "ae1SY8hm"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/O7P2bTN2/fusion-1.1.0b-fabric-mc1.19.4.jar",
+					"version": "O7P2bTN2"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/iXU13xXW/fusion-1.1.0b-fabric-mc1.19.2.jar",
+					"version": "iXU13xXW"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/rHqL9Jy6/fusion-1.1.0b-fabric-mc1.18.jar",
+					"version": "rHqL9Jy6"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/uK16eTNo/fusion-1.1.0a-fabric-mc1.20.2.jar",
+					"version": "uK16eTNo"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/HP3Ng4sT/fusion-1.1.0a-fabric-mc1.20.1.jar",
+					"version": "HP3Ng4sT"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/W06OPfl6/fusion-1.1.0a-fabric-mc1.19.4.jar",
+					"version": "W06OPfl6"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/AaQVcVrs/fusion-1.1.0a-fabric-mc1.19.2.jar",
+					"version": "AaQVcVrs"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/WUrPR0nj/fusion-1.1.0a-fabric-mc1.18.jar",
+					"version": "WUrPR0nj"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/bCSHgKf0/fusion-1.1.0a-forge-mc1.20.2.jar",
+					"version": "bCSHgKf0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/969yzmuD/fusion-1.1.0a-forge-mc1.20.1.jar",
+					"version": "969yzmuD"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/NpUCmAmE/fusion-1.1.0a-forge-mc1.19.4.jar",
+					"version": "NpUCmAmE"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/YIkbytbE/fusion-1.1.0a-forge-mc1.19.3.jar",
+					"version": "YIkbytbE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/HKG7XBrX/fusion-1.1.0a-forge-mc1.19.2.jar",
+					"version": "HKG7XBrX"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/LXXiWxBK/fusion-1.1.0-fabric-mc1.20.2.jar",
+					"version": "LXXiWxBK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/kJrNRBWJ/fusion-1.1.0-fabric-mc1.20.1.jar",
+					"version": "kJrNRBWJ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ubJiH1yh/fusion-1.1.0-fabric-mc1.19.4.jar",
+					"version": "ubJiH1yh"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/5DSNRWIe/fusion-1.1.0-fabric-mc1.19.2.jar",
+					"version": "5DSNRWIe"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/kf4ogiqn/fusion-1.1.0-fabric-mc1.18.jar",
+					"version": "kf4ogiqn"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Wa5INt1e/fusion-1.1.0-forge-mc1.20.2.jar",
+					"version": "Wa5INt1e"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Ma6mQ0ep/fusion-1.1.0-forge-mc1.20.1.jar",
+					"version": "Ma6mQ0ep"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/qHkxVFkp/fusion-1.1.0-forge-mc1.19.4.jar",
+					"version": "qHkxVFkp"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/smGlF0e9/fusion-1.1.0-forge-mc1.19.3.jar",
+					"version": "smGlF0e9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/4o7Mdb6M/fusion-1.1.0-forge-mc1.19.2.jar",
+					"version": "4o7Mdb6M"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/kRQDipBg/fusion-1.1.0-forge-mc1.18.jar",
+					"version": "kRQDipBg"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/wmxjnfRO/fusion-1.1.0-forge-mc1.17.jar",
+					"version": "wmxjnfRO"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/JiynHTTO/fusion-1.1.0-forge-mc1.16.jar",
+					"version": "JiynHTTO"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/t7of82HZ/fusion-1.1.0-forge-mc1.15.jar",
+					"version": "t7of82HZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/596gc1IO/fusion-1.1.0-forge-mc1.14.jar",
+					"version": "596gc1IO"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/qI8e2XLH/fusion-1.1.0-forge-mc1.12.jar",
+					"version": "qI8e2XLH"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ar6D05Wg/fusion-1.0.6-fabric-mc1.20.2.jar",
+					"version": "ar6D05Wg"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/tE50UtoY/fusion-1.0.6-fabric-mc1.20.jar",
+					"version": "tE50UtoY"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/u5ltkMeK/fusion-1.0.6-fabric-mc1.19.4.jar",
+					"version": "u5ltkMeK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ydLwvkJ5/fusion-1.0.6-fabric-mc1.19.2.jar",
+					"version": "ydLwvkJ5"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/pXvbeKCA/fusion-1.0.6-fabric-mc1.18.jar",
+					"version": "pXvbeKCA"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Byv6u9hU/fusion-1.0.6-forge-mc1.20.2.jar",
+					"version": "Byv6u9hU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/rySJTbFw/fusion-1.0.6-forge-mc1.20.1.jar",
+					"version": "rySJTbFw"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/zMY1nwOo/fusion-1.0.6-forge-mc1.19.4.jar",
+					"version": "zMY1nwOo"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/AjVtHlU4/fusion-1.0.6-forge-mc1.19.3.jar",
+					"version": "AjVtHlU4"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/w7Rli8hr/fusion-1.0.6-forge-mc1.19.2.jar",
+					"version": "w7Rli8hr"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/5VtM7cBc/fusion-1.0.6-forge-mc1.18.jar",
+					"version": "5VtM7cBc"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ub2TxGpB/fusion-1.0.6-forge-mc1.17.jar",
+					"version": "ub2TxGpB"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/n7y9E5h1/fusion-1.0.6-forge-mc1.16.jar",
+					"version": "n7y9E5h1"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/QfFmDM7E/fusion-1.0.6-forge-mc1.15.jar",
+					"version": "QfFmDM7E"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/iRKBc8Pj/fusion-1.0.6-forge-mc1.14.jar",
+					"version": "iRKBc8Pj"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/OV9ERsyU/fusion-1.0.6-forge-mc1.12.jar",
+					"version": "OV9ERsyU"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/WNXRmW0Y/fusion-1.0.5-forge-mc1.20.2.jar",
+					"version": "WNXRmW0Y"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/qA5RakCn/fusion-1.0.5-fabric-mc1.20.2.jar",
+					"version": "qA5RakCn"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/L37citWK/fusion-1.0.5b-forge-mc1.12.jar",
+					"version": "L37citWK"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/DqkPSRTQ/fusion-1.0.5a-forge-mc1.12.jar",
+					"version": "DqkPSRTQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/tIuA4CRi/fusion-1.0.5a-fabric-mc1.20.jar",
+					"version": "tIuA4CRi"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/iikTUXRm/fusion-1.0.5a-fabric-mc1.19.4.jar",
+					"version": "iikTUXRm"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/xX5wSrRt/fusion-1.0.5a-forge-mc1.20.jar",
+					"version": "xX5wSrRt"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/9Qz0hRly/fusion-1.0.5a-forge-mc1.19.4.jar",
+					"version": "9Qz0hRly"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/tL1FsAPN/fusion-1.0.5a-forge-mc1.19.3.jar",
+					"version": "tL1FsAPN"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/5WutJifn/fusion-1.0.5-fabric-mc1.20.jar",
+					"version": "5WutJifn"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/fmVgFHIw/fusion-1.0.5-fabric-mc1.19.4.jar",
+					"version": "fmVgFHIw"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/VfFXnjGV/fusion-1.0.5-fabric-mc1.19.2.jar",
+					"version": "VfFXnjGV"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/GtamhqJ4/fusion-1.0.5-fabric-mc1.18.jar",
+					"version": "GtamhqJ4"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/hdfkyD8Y/fusion-1.0.5-forge-mc1.20.jar",
+					"version": "hdfkyD8Y"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FQni7BSZ/fusion-1.0.5-forge-mc1.19.4.jar",
+					"version": "FQni7BSZ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/QtksvuNF/fusion-1.0.5-forge-mc1.19.3.jar",
+					"version": "QtksvuNF"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/zT9ETGiV/fusion-1.0.5-forge-mc1.19.2.jar",
+					"version": "zT9ETGiV"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/J72pWxvE/fusion-1.0.5-forge-mc1.18.jar",
+					"version": "J72pWxvE"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/iigFysy3/fusion-1.0.5-forge-mc1.17.jar",
+					"version": "iigFysy3"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Fh4l6YRd/fusion-1.0.5-forge-mc1.16.jar",
+					"version": "Fh4l6YRd"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/VmUnOzwv/fusion-1.0.5-forge-mc1.15.jar",
+					"version": "VmUnOzwv"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/EuuJk0np/fusion-1.0.5-forge-mc1.14.jar",
+					"version": "EuuJk0np"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/IXqCVX2Q/fusion-1.0.5-forge-mc1.12.jar",
+					"version": "IXqCVX2Q"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/P2vqEG4f/fusion-1.0.4-fabric-mc1.20.jar",
+					"version": "P2vqEG4f"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ya2wj06c/fusion-1.0.4-fabric-mc1.19.4.jar",
+					"version": "ya2wj06c"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/9VGKRfUP/fusion-1.0.4-fabric-mc1.19.2.jar",
+					"version": "9VGKRfUP"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/zYU2cPGc/fusion-1.0.4-fabric-mc1.18.jar",
+					"version": "zYU2cPGc"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/2HdG9Z1U/fusion-1.0.4-forge-mc1.20.jar",
+					"version": "2HdG9Z1U"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/jGX1RFw7/fusion-1.0.4-forge-mc1.19.4.jar",
+					"version": "jGX1RFw7"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/RgkJtvyz/fusion-1.0.4-forge-mc1.19.3.jar",
+					"version": "RgkJtvyz"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FAmFXIxt/fusion-1.0.4-forge-mc1.19.2.jar",
+					"version": "FAmFXIxt"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/4Fr5PGQa/fusion-1.0.4-forge-mc1.18.jar",
+					"version": "4Fr5PGQa"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/HJL1zs9h/fusion-1.0.4-forge-mc1.17.jar",
+					"version": "HJL1zs9h"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/fVWyIrw3/fusion-1.0.4-forge-mc1.16.jar",
+					"version": "fVWyIrw3"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/UEjkNli3/fusion-1.0.4-forge-mc1.15.jar",
+					"version": "UEjkNli3"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/XBef9dg2/fusion-1.0.4-forge-mc1.14.jar",
+					"version": "XBef9dg2"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/efCN1Z5d/fusion-1.0.4-forge-mc1.12.jar",
+					"version": "efCN1Z5d"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ksgvvcVN/fusion-1.0.3-fabric-mc1.20.jar",
+					"version": "ksgvvcVN"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/8sG95mjX/fusion-1.0.3-fabric-mc1.19.4.jar",
+					"version": "8sG95mjX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/V5tumH8f/fusion-1.0.3-fabric-mc1.19.2.jar",
+					"version": "V5tumH8f"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Mu2MgeaK/fusion-1.0.3-fabric-mc1.18.jar",
+					"version": "Mu2MgeaK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/5RxYh0Lv/fusion-1.0.3-forge-mc1.20.jar",
+					"version": "5RxYh0Lv"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/F3yK2D5w/fusion-1.0.3-forge-mc1.19.4.jar",
+					"version": "F3yK2D5w"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/r2IdCaNV/fusion-1.0.3-forge-mc1.19.3.jar",
+					"version": "r2IdCaNV"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/cZHeUMwR/fusion-1.0.3-forge-mc1.19.2.jar",
+					"version": "cZHeUMwR"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/YzkhDFMY/fusion-1.0.3-forge-mc1.18.jar",
+					"version": "YzkhDFMY"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/CKRSulbD/fusion-1.0.3-forge-mc1.17.jar",
+					"version": "CKRSulbD"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/K9IvwH6O/fusion-1.0.3-forge-mc1.16.jar",
+					"version": "K9IvwH6O"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/hovCzCNZ/fusion-1.0.3-forge-mc1.15.jar",
+					"version": "hovCzCNZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/M5FC0tY7/fusion-1.0.3-forge-mc1.14.jar",
+					"version": "M5FC0tY7"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/gk4zRrtd/fusion-1.0.3-forge-mc1.12.jar",
+					"version": "gk4zRrtd"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/2tKT1RRz/fusion-1.0.2-fabric-mc1.20.jar",
+					"version": "2tKT1RRz"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/9smf4Jch/fusion-1.0.2-fabric-mc1.19.4.jar",
+					"version": "9smf4Jch"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/dTvejl3s/fusion-1.0.2-fabric-mc1.19.2.jar",
+					"version": "dTvejl3s"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/WYdrp44x/fusion-1.0.2-fabric-mc1.18.jar",
+					"version": "WYdrp44x"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/nUUtSEIv/fusion-1.0.2-forge-mc1.20.jar",
+					"version": "nUUtSEIv"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/92ETuJ7K/fusion-1.0.2-forge-mc1.19.4.jar",
+					"version": "92ETuJ7K"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/9wBxhTrC/fusion-1.0.2-forge-mc1.19.3.jar",
+					"version": "9wBxhTrC"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FKnqtQej/fusion-1.0.2-forge-mc1.19.2.jar",
+					"version": "FKnqtQej"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/pDOelHON/fusion-1.0.2-forge-mc1.18.jar",
+					"version": "pDOelHON"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/cWbmCVYR/fusion-1.0.2-forge-mc1.17.jar",
+					"version": "cWbmCVYR"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/tKYzn147/fusion-1.0.2-forge-mc1.16.jar",
+					"version": "tKYzn147"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/4IEybLT2/fusion-1.0.2-forge-mc1.15.jar",
+					"version": "4IEybLT2"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/x4HylDfU/fusion-1.0.2-forge-mc1.14.jar",
+					"version": "x4HylDfU"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/OW8f3AqE/fusion-1.0.2-forge-mc1.12.jar",
+					"version": "OW8f3AqE"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/CgI9wnTX/fusion-1.0.1-forge-mc1.18.jar",
+					"version": "CgI9wnTX"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/zzmeRNkO/fusion-1.0.1-fabric-mc1.20.jar",
+					"version": "zzmeRNkO"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/2aRhW01u/fusion-1.0.1-fabric-mc1.19.4.jar",
+					"version": "2aRhW01u"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/2hlpUWdQ/fusion-1.0.1-fabric-mc1.19.2.jar",
+					"version": "2hlpUWdQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/PmbwKNhS/fusion-1.0.1-fabric-mc1.18.jar",
+					"version": "PmbwKNhS"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/BwFxqjZr/fusion-1.0.1-forge-mc1.20.jar",
+					"version": "BwFxqjZr"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/bwYuGoj2/fusion-1.0.1-forge-mc1.19.4.jar",
+					"version": "bwYuGoj2"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/aXgmINyK/fusion-1.0.1-forge-mc1.19.3.jar",
+					"version": "aXgmINyK"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ABDTTFgg/fusion-1.0.1-forge-mc1.19.2.jar",
+					"version": "ABDTTFgg"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/VuS6oyPq/fusion-1.0.1-forge-mc1.17.jar",
+					"version": "VuS6oyPq"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/JUXgoraY/fusion-1.0.1-forge-mc1.16.jar",
+					"version": "JUXgoraY"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/IeH1thfy/fusion-1.0.1-forge-mc1.15.jar",
+					"version": "IeH1thfy"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FJIRUHrj/fusion-1.0.1-forge-mc1.14.jar",
+					"version": "FJIRUHrj"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/sFEW79po/fusion-1.0.1-forge-mc1.12.jar",
+					"version": "sFEW79po"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Ko959cDA/fusion-1.0.0a-fabric-mc1.20.jar",
+					"version": "Ko959cDA"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/OZLVhBTd/fusion-1.0.0a-fabric-mc1.19.4.jar",
+					"version": "OZLVhBTd"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/ZgbRFXXC/fusion-1.0.0b-fabric-mc1.19.2.jar",
+					"version": "ZgbRFXXC"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/cmhnFiFD/fusion-1.0.0b-fabric-mc1.18.jar",
+					"version": "cmhnFiFD"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Mj52lkPO/fusion-1.0.0a-fabric-mc1.19.2.jar",
+					"version": "Mj52lkPO"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/NJHugpT5/fusion-1.0.0a-fabric-mc1.18.jar",
+					"version": "NJHugpT5"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/rYj5SROd/fusion-1.0.0a-forge-mc1.19.2.jar",
+					"version": "rYj5SROd"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/p20xO7tn/fusion-1.0.0a-forge-mc1.18.jar",
+					"version": "p20xO7tn"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/UCDEO0Ur/fusion-1.0.0a-forge-mc1.17.jar",
+					"version": "UCDEO0Ur"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/HnWD5BCU/fusion-1.0.0a-forge-mc1.16.jar",
+					"version": "HnWD5BCU"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/lR5m2JaR/fusion-1.0.0a-forge-mc1.15.jar",
+					"version": "lR5m2JaR"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/g3GgMli2/fusion-1.0.0-fabric-mc1.20.jar",
+					"version": "g3GgMli2"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/5YQnXx4d/fusion-1.0.0-fabric-mc1.19.4.jar",
+					"version": "5YQnXx4d"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/n5YOh8ak/fusion-1.0.0-fabric-mc1.19.2.jar",
+					"version": "n5YOh8ak"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/e3rkhENG/fusion-1.0.0-fabric-mc1.18.jar",
+					"version": "e3rkhENG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/FjJGSiWe/fusion-1.0.0-forge-mc1.20.jar",
+					"version": "FjJGSiWe"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/HyKRPiQw/fusion-1.0.0-forge-mc1.19.4.jar",
+					"version": "HyKRPiQw"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/MavRfnWj/fusion-1.0.0-forge-mc1.19.3.jar",
+					"version": "MavRfnWj"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/BEbaWj1J/fusion-1.0.0-forge-mc1.19.2.jar",
+					"version": "BEbaWj1J"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/6mEqG3SU/fusion-1.0.0-forge-mc1.18.jar",
+					"version": "6mEqG3SU"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/jsjTG3p5/fusion-1.0.0-forge-mc1.17.jar",
+					"version": "jsjTG3p5"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/96l7NTN6/fusion-1.0.0-forge-mc1.16.jar",
+					"version": "96l7NTN6"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/gDfkFpgV/fusion-1.0.0-forge-mc1.15.jar",
+					"version": "gDfkFpgV"
+				},
+				{
+					"minecraft_versions": [
+						"1.14",
+						"1.14.1",
+						"1.14.2",
+						"1.14.3",
+						"1.14.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/N7HkwXST/fusion-1.0.0-forge-mc1.14.jar",
+					"version": "N7HkwXST"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1",
+						"1.12.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/TybX8KN2/fusion-1.0.0-forge-mc1.12.jar",
+					"version": "TybX8KN2"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"SuperMartijn642"
+		],
+		"community": "https://discord.gg/QEbGyUYB2e",
+		"description": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
+		"documentation": "https://github.com/SuperMartijn642/Fusion/wiki",
+		"gallery": [
+			"https://cdn.modrinth.com/data/p19vrgc2/images/3dcde0711f815f3d20c9abc9d27b7af758816665.gif",
+			"https://cdn.modrinth.com/data/p19vrgc2/images/6f6ecd6740717a0a95d14df6ea18cb02cd354dc7.gif",
+			"https://cdn.modrinth.com/data/p19vrgc2/images/d2ed5f2c3af0cd8d2d7acc6b0c19d8a2a23145d0.gif"
+		],
+		"icon": "https://cdn.modrinth.com/data/p19vrgc2/04f53d5c523d78f6b73533e71aa60e60f1f99249.png",
+		"issues": "https://github.com/SuperMartijn642/Fusion/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "![Separator](https://imgur.com/gZDWWY6.png)\n\n# Fusion Connected Textures\n\nFusion is a library for both Forge and Fabric which adds additional texture and model types such as connected textures to be used in resource packs and other mods!\nIntegration with Fusion can be done optionally for a soft dependency.\n\n## 📖 Wiki\n### For resource packs:\nhttps://github.com/SuperMartijn642/Fusion/wiki#for-resource-packs\n### For mod developers:\nhttps://github.com/SuperMartijn642/Fusion/wiki#for-mod-developers\n\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## 🖼️ Texture types\n\n### Connected texture\nConnected texture are textures with a special layout which allows them to connect to other blocks when combined with the connecting model type. Fusion offers two connected texture layouts, full and simple.\nHere is an example of the simple layout:\n\n<img width='500' src='https://cdn.modrinth.com/data/p19vrgc2/images/d2ed5f2c3af0cd8d2d7acc6b0c19d8a2a23145d0.gif' alt='Simple connected texture example'>\n\n### Scrolling texture\nScrolling textures are a type of animated texture which scrolls over an image. The scrolling can occur from any corner to any other corner of the texture, even diagonal!\nHere is an example of a conveyor belt:\n\n<img width='300' src='https://cdn.modrinth.com/data/p19vrgc2/images/3dcde0711f815f3d20c9abc9d27b7af758816665.gif' alt='Scrolling texture conveyor example'>\n\n \n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## 🧊 Model types\n\n### Connected model\nConected models are models which will connect to other blocks when used in conjunction with the connected texture type. Connections can be specified for specific blocks and states.\nHere is an example of an oak tiles block which connects to itself and acacia tiles:\n\n<table>\n<tr><td>\n\n```json\n{\n   ...\n   \"type\": \"connecting\",\n   \"connections\": [\n      {\n         \"type\": \"is_same_block\"\n      },\n      {\n         \"type\": \"match_block\",\n         \"block\": \"acacia_tiles\"\n      }\n   ]\n   ...\n}\n```\n\n</td><td>\n<img width='500' src='https://imgur.com/AoSdjrP.gif' alt='Connected model example'>\n</td></tr>\n</table>\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## 📐 Block overlays\nUsing the features provided by the connecting model and connecting texture type, you can also achieve block overlays!  \n<img width='600' src='https://imgur.com/I6Whhhe.gif' alt='Sand overlayed on gravel'>\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n## FAQ\n### Can I use Fusion in my modpack?\nYes, you are allowed use Fusion in your modpack\n### Do I need to install Fusion on the server?\nNo, Fusion is only required on the client and does nothing when installed on a server\n### Why does Fusion not work with Sodium?\nSodium ignores the Fabric rendering api. To solve this install [Indium](https://modrinth.com/mod/indium).\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)\n\n![Separator](https://imgur.com/gZDWWY6.png)\n\n### Legal Stuff\nFusion is the property of SuperMartijn642 and is protected under copyright law and may not be altered or reuploaded without direct permission from SuperMartijn642.\n",
+		"name": "Fusion (Connected Textures)",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/SuperMartijn642/Fusion"
+	},
+	"properties": {
+		"modrinth_id": "p19vrgc2",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.12",
+			"1.12.1",
+			"1.12.2",
+			"1.14",
+			"1.14.1",
+			"1.14.2",
+			"1.14.3",
+			"1.14.4",
+			"1.15",
+			"1.15.1",
+			"1.15.2",
+			"1.16",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4"
+		]
+	}
+}

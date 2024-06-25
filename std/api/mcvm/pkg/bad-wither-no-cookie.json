@@ -1,0 +1,277 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/GGC87TYn/bwncr-neoforge-1.20.4-3.19.0.jar",
+					"version": "GGC87TYn"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/by9f7jcv/bwncr-fabric-1.20.4-3.19.0.jar",
+					"version": "by9f7jcv"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/HmQSWFFH/bwncr-neoforge-1.20.2-3.18.0.jar",
+					"version": "HmQSWFFH"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/QWyfcDMP/bwncr-fabric-1.20.2-3.18.0.jar",
+					"version": "QWyfcDMP"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/QPGXdFQ8/bwncr-fabric-1.20.1-3.17.0.jar",
+					"version": "QPGXdFQ8"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/MnHRIoUj/bwncr-forge-1.20.1-3.17.0.jar",
+					"version": "MnHRIoUj"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/gd0lRift/bwncr-forge-1.19.4-3.16.0.jar",
+					"version": "gd0lRift"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/YTf2U1cx/bwncr-fabric-1.19.4-3.16.0.jar",
+					"version": "YTf2U1cx"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/iNK686xh/bwncr-forge-1.19.3-3.15.1.jar",
+					"version": "iNK686xh"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/reIAsA4D/bwncr-forge-1.19.2-3.14.1.jar",
+					"version": "reIAsA4D"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/WbwEWFxo/bwncr-fabric-1.19.2-3.14.1.jar",
+					"version": "WbwEWFxo"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/PSg6ciMe/bwncr-forge-1.19.2-3.14.0.jar",
+					"version": "PSg6ciMe"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3SETPHdJ/bwncr-fabric-1.19.2-3.14.0.jar",
+					"version": "3SETPHdJ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3.10.18-1.18.2-Fabric/badwithernocookiereloaded-3.10.18%2B%28Fabric%2B1.18.2%29.jar",
+					"version": "RhEGclON"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3.10.18/badwithernocookiereloaded-3.10.18%2B%28Fabric%2B1.18.1%29.jar",
+					"version": "pWZvwgZh"
+				},
+				{
+					"minecraft_versions": "1.13.2-pre1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3.5.10/bwncr-1.13.2-3.5.10.jar",
+					"version": "7vXt7xVY"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3.5.12/bwncr-1.14.4-3.5.12.jar",
+					"version": "LEn8WmfQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3.6.13/bwncr-1.15.1-3.6.13.jar",
+					"version": "VEhpYK9d"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3.4.18/badwithernocookiereloaded-1.12.2-3.4.18.jar",
+					"version": "2CWlpXcj"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3.10.17/bwncr-1.17.1-3.10.17.jar",
+					"version": "zkEQntV6"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3.10.16/bwncr-1.16.5-3.10.16.jar",
+					"version": "2ZnkNT15"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lL2MtE37/versions/3.13.21/bwncr-3.13.21.jar",
+					"version": "UIgEX1gX"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Mrbysco",
+			"kreezxil"
+		],
+		"community": "https://discord.gg/ngNQjT5",
+		"description": "Localizes the wither and dragon death sounds.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/lL2MtE37/icon.png",
+		"issues": "https://gitlab.com/kreezxil/BadWitherNoCookie/-/issues",
+		"license": "MIT",
+		"long_description": "<h2 style=\"text-align: left;\"><span style=\"color: #ff9900;\">As of 1.18.2, the mod no longer runs on the server and is client sided.<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/GLLhAJg.png\" width=\"2700\" height=\"1098\" /></span></h2>\n<p style=\"text-align: center;\"><a href=\"https://discord.gg/ngNQjT5\" rel=\"nofollow\"><img src=\"https://discordapp.com/api/guilds/96753964485181440/widget.png?style=banner2\" /></a> <a href=\"https://twitter.com/kreezxil\" rel=\"nofollow\"><img src=\"https://s12.directupload.net/images/200916/joj33k55.png\" /></a> <a href=\"https://www.reddit.com/r/MinecraftModdedForge\" rel=\"nofollow\"><img src=\"https://s12.directupload.net/images/200916/efhmdjhg.png\" /></a></p>\n&nbsp;\n<h2>Bad Wither No Cookie!</h2>\n&nbsp;\n<p><strong><span style=\"color:#f00\">Fabric Versions&nbsp;</span></strong>REQUIRE FABRIC API &amp; CLOTH CONFIG</p>\n<p>&nbsp;</p>\n<p><strong><span style=\"color:#f60\">As of 1.18.2, the mod no longer runs on the server and is client sided.</span></strong></p>\nA lightweight universal mod to silence these nasty world wide broadcast sounds:\n<ul>\n \t<li>Wither</li>\n \t<li>End Dragon</li>\n \t<li>Thunder</li>\n \t<li>and now any sound that any mod makes!</li>\n</ul>\nThis is especially handy on servers where spawners and/or farms are in use for these mobs. This mod can be installed on a client even if it is not on the server.\n\n<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/rxlDQr9.png\" width=\"2700\" height=\"325\" />\n<h2>Sidedness</h2>\n1.18.2+ client only\n\n1.17.x and lower, both\n<h2>Features</h2>\nBlock wither spawn, end dragon death, lightning, thunder, other sounds you care to configure\n\n[1.16.1+] also blocks wither death, wander_trader and llama ambient sounds as well as wither death\n<h3></h3>\n&nbsp;\n<h3 id=\"title-1-1\">Implemented Features:</h3>\n<ul>\n \t<li>config file</li>\n \t<li>all sound types mentioned in this overview disabled by default</li>\n \t<li>console output when a sound is silenced also silenced by default</li>\n \t<li>command to see event sound names: /listen</li>\n</ul>\n<h3></h3><a href=\"https://kreezcraft.com/bwncrfabric\">\n<img alt=\"https://kreezcraft.com/bwncrfabric for a super sweet discount at bisect hosting\" class=\"alignnone size-medium\" src=\"https://i.imgur.com/knrZ6f6.png\" width=\"2700\" height=\"654\" /></a>\n<p style=\"text-align: center;\">If you want a server setup for the Any mod pack with zero effort, get a <a href=\"https://kreezcraft.com/bwncrfabric\">server with BisectHosting</a> and receive 25% off your first month as a new customer using the code kreezxil</p>\n&nbsp;\n<h2 id=\"title-1\"></h2>\n<h2></h2>\n<h3>Licenses</h3>\nCode, Textures and binaries are licensed under the MIT License.\n\nYou are allowed to use the mod in your modpack.\n\nAny alternate licenses are noted where appropriate.\n\n&nbsp;\n\n<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/iTNPJqL.png\" width=\"2700\" height=\"325\" />\n<h2>Help a Veteran today</h2>\nI am Veteran of United States Army. I am not disabled. But I do love to make these mods and modpacks for you guys. Please help me to help you by Donating at <a href=\"https://patreon.com/kreezxil\" target=\"_blank\" rel=\"noopener noreferrer\">https://patreon.com/kreezxil</a>\n\n&nbsp;",
+		"name": "Bad Wither No Cookie - Reloaded",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://gitlab.com/kreezxil/BadWitherNoCookie/",
+		"support_link": "https://patreon.com/kreezxil"
+	},
+	"properties": {
+		"modrinth_id": "lL2MtE37",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.12.2",
+			"1.13.2-pre1",
+			"1.14.4",
+			"1.15.1",
+			"1.15.2",
+			"1.16.5",
+			"1.17.1",
+			"1.18.1",
+			"1.18.2",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4"
+		]
+	}
+}

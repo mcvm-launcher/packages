@@ -1,0 +1,428 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg",
+						"recommendations": [
+							{
+								"value": "jade"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "prism"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/fTar2QDw/AdvancementPlaques-1.20.6-forge-1.6.2.jar",
+					"version": "fTar2QDw"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg",
+						"recommendations": [
+							{
+								"value": "jade"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "prism"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/1GjhWcGQ/AdvancementPlaques-1.20.1-forge-1.5.1.jar",
+					"version": "1GjhWcGQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"iceberg"
+						],
+						"recommendations": [
+							{
+								"value": "jade"
+							},
+							{
+								"value": "prism"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/56YpTRVM/AdvancementPlaques-1.20.6-fabric-1.6.2.jar",
+					"version": "56YpTRVM"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"iceberg",
+							"prism"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/Ev4dhUPQ/AdvancementPlaques-1.20.4-fabric-1.6.1.jar",
+					"version": "Ev4dhUPQ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/s2IbtOQb/AdvancementPlaques-1.20.4-forge-1.5.1.jar",
+					"version": "s2IbtOQb"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/3uNMYsgw/AdvancementPlaques-1.12.2-1.4.10.jar",
+					"version": "3uNMYsgw"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/R54FyUeA/AdvancementPlaques-1.19.4-1.4.9.jar",
+					"version": "R54FyUeA"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"iceberg"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/Ur9liSlL/AdvancementPlaques-1.19.4-fabric-1.4.9.jar",
+					"version": "Ur9liSlL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/GBfneXwP/AdvancementPlaques-1.19.2-fabric-1.4.6.jar",
+					"version": "GBfneXwP"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/i82iP1q7/AdvancementPlaques-1.19.2-1.4.7.jar",
+					"version": "i82iP1q7"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"iceberg",
+							"prism"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/sK2DFlNb/AdvancementPlaques-1.20.4-fabric-1.6.0.jar",
+					"version": "sK2DFlNb"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "iceberg",
+						"recommendations": {
+							"value": "prism"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/wDGTVjTo/AdvancementPlaques-1.20.4-fabric-1.5.1.jar",
+					"version": "wDGTVjTo"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "iceberg",
+						"recommendations": {
+							"value": "prism"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/vUNOoXWT/AdvancementPlaques-1.20.2-fabric-1.5.1.jar",
+					"version": "vUNOoXWT"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg",
+						"recommendations": [
+							{
+								"value": "jade"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "prism"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/DX8oD7kQ/AdvancementPlaques-1.20.2-forge-1.5.1.jar",
+					"version": "DX8oD7kQ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg",
+						"recommendations": [
+							{
+								"value": "jade"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "none"
+							},
+							{
+								"value": "prism"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/MYL2jIMF/AdvancementPlaques-1.20.2-forge-1.5.0.jar",
+					"version": "MYL2jIMF"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"iceberg"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/NaXd1ujM/AdvancementPlaques-1.20.1-fabric-1.4.11.jar",
+					"version": "NaXd1ujM"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/Uyn5i1th/AdvancementPlaques-1.20.1-fabric-1.4.10.jar",
+					"version": "Uyn5i1th"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/tim1GaS3/AdvancementPlaques-1.20.1-forge-1.4.10.jar",
+					"version": "tim1GaS3"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/qL5415k5/AdvancementPlaques-1.20.1-fabric-1.4.9.jar",
+					"version": "qL5415k5"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/HlZ8lcID/AdvancementPlaques-1.20.1-forge-1.4.9.jar",
+					"version": "HlZ8lcID"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"iceberg"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/ooA9D4Bj/AdvancementPlaques-1.19.3-fabric-1.4.8.jar",
+					"version": "ooA9D4Bj"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/5fp5aJCF/AdvancementPlaques-1.19.3-1.4.8.jar",
+					"version": "5fp5aJCF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/b7jSwBm0/AdvancementPlaques-1.18.2-fabric-1.4.6.jar",
+					"version": "b7jSwBm0"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/jYGsAiw9/AdvancementPlaques-1.16.5-1.4.1.jar",
+					"version": "jYGsAiw9"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "iceberg"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/3D0Ay8Mj/AdvancementPlaques-1.18.2-1.4.5.1.jar",
+					"version": "3D0Ay8Mj"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Grend"
+		],
+		"community": "https://discord.gg/S5NQjbXPnb",
+		"description": "Replace those boring advancement popups with something flashier.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/9NM0dXub/images/0f99f37ae8f44c878903855ded3e31b8851881e1.png",
+			"https://cdn.modrinth.com/data/9NM0dXub/images/1bf6794e33d2c04ed02f7cd22601150b2d3b1e2a.png",
+			"https://cdn.modrinth.com/data/9NM0dXub/images/8e1ecef87378cfe55e7f63e01f8937bfb59eb27f.png",
+			"https://cdn.modrinth.com/data/9NM0dXub/images/c112969fa076bfc32783cf70c819655ff8cc72b9.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/9NM0dXub/98833142426918eaa5d722a0134d760b929f3303.png",
+		"issues": "https://github.com/AHilyard/AdvancementPlaques/issues",
+		"license": "CC-BY-NC-ND-4.0",
+		"long_description": "<p><b>R</b>eplace those boring, anti-climactic advancement popups with fancy glowing plaques.</p>\n<p>&nbsp;</p>\n<h4><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/Bnyle3t.gif\" alt=\"\" width=\"379\" height=\"80\" /></h4>\n<h4>&nbsp;</h4>\n<p><strong>This mod requires Iceberg, you can download it <a href=\"https://modrinth.com/mod/iceberg\">here</a>.</strong>&nbsp;</p>\n<p>&nbsp;</p>\n<h4><strong>Client / Server</strong></h4>\n<h5>Forge</h5>\n<p>This mod adds new custom sounds, which (due to a limitation in Forge) means it needs to be installed on both the client and server.  If these sounds are disabled in config, this mod can be run on just the client side.</p>\n<h5>Fabric</h5>\n<p>The Fabric version is fully client-side. </p>\n<p>&nbsp;</p>\n<h4><strong>Configuration</strong></h4>\n<p>Can be configured to display plaques for any or all of the three advancement types (Task / Goal / Challenge), or to display on the top or bottom of the screen.&nbsp; The distance from the top or bottom of the screen is also configurable.&nbsp; If you'd like plaques to only show for select advancements, you can provide a list of advancement IDs with the whitelist configuration option.</p>\n<p>&nbsp;</p>\n<h4><strong>Customization</strong></h4>\n<p>The appearance of the plaques can be customized with resource packs.&nbsp; See&nbsp;<a href=\"https://modrinth.com/resourcepack/embellished-stone-advancements-plaques\">Embellished Stone (Advancement Plaques)</a>&nbsp;for an example.</p>\n<p>&nbsp;</p>\n<h4><strong>Compatibility</strong></h4>\n<p>Works with any advancements, even ones added by other mods and fully compatible with <a href=\"https://www.curseforge.com/minecraft/mc-mods/toast-control\">Toast Control</a>.&nbsp; Other mods that affect advancement popups may not work, let me know if you run into compatibility issues!</p>\n<p>&nbsp;</p>\n<p><em>You are free to use this mod in modpacks.</em></p>\n<p>&nbsp;&nbsp;&nbsp;</p>\n<p><a title=\"Join us in Discord!\" href=\"https://discord.gg/S5NQjbXPnb\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\" /></a></p>\n<p><strong>Problems, feature request, something else?&nbsp; Join us on Discord!</strong></p>",
+		"name": "Advancement Plaques",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/AHilyard/AdvancementPlaques/",
+		"support_link": "https://www.paypal.com/donate/?business=NYKUAV883JKA2&no_recurring=0&item_name=Thank+you+for+considering+a+donation.+It+helps+to+support+me+by+allowing+me+to+spend+more+time+making+mods+and+games.&currency_code=USD"
+	},
+	"properties": {
+		"modrinth_id": "9NM0dXub",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.12.2",
+			"1.16.5",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
+		]
+	}
+}

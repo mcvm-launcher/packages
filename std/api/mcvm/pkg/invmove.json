@@ -1,0 +1,1127 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/ciO3M5kB/InvMove-1.21-0.8.8-NeoForge.jar",
+					"version": "ciO3M5kB"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/FcdIvKru/InvMove-1.21-0.8.8-Fabric.jar",
+					"version": "FcdIvKru"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/ZGPw3w38/InvMove-1.21-0.8.7-NeoForge.jar",
+					"version": "ZGPw3w38"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/rppVtrEO/InvMove-1.21-0.8.7-Fabric.jar",
+					"version": "rppVtrEO"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/iiUJSWK2/InvMove-1.20-0.8.6-Quilt.jar",
+					"version": "iiUJSWK2"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/qlq09IgJ/InvMove-1.20-0.8.6-Fabric.jar",
+					"version": "qlq09IgJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/VSooa0oK/InvMove-1.20-0.8.5-Forge.jar",
+					"version": "VSooa0oK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/LGhnGid6/InvMove-1.20-0.8.5-Quilt.jar",
+					"version": "LGhnGid6"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1BZ0wHLG/InvMove-1.20-0.8.5-Fabric.jar",
+					"version": "1BZ0wHLG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/6CNOChud/InvMove-1.20-0.8.4-Forge.jar",
+					"version": "6CNOChud"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/kqq0UN1u/InvMove-1.20-0.8.4-Quilt.jar",
+					"version": "kqq0UN1u"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/W5h8ZaUy/InvMove-1.20-0.8.4-Fabric.jar",
+					"version": "W5h8ZaUy"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/AE0sDDm3/InvMove-1.19-0.8.4-Forge.jar",
+					"version": "AE0sDDm3"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/WIXovitR/InvMove-1.19-0.8.4-Quilt.jar",
+					"version": "WIXovitR"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/vk2Y8XQV/InvMove-1.19-0.8.4-Fabric.jar",
+					"version": "vk2Y8XQV"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/JxGn75dh/InvMove-1.18-0.8.4-Forge.jar",
+					"version": "JxGn75dh"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/h6ELnOF4/InvMove-1.18-0.8.4-Quilt.jar",
+					"version": "h6ELnOF4"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/920571eR/InvMove-1.18-0.8.4-Fabric.jar",
+					"version": "920571eR"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/hrMnbArx/InvMove-1.16-0.8.4-Forge.jar",
+					"version": "hrMnbArx"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/pfLgaUxC/InvMove-1.16-0.8.4-Fabric.jar",
+					"version": "pfLgaUxC"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/WzbaGwer/InvMove-1.16-0.8.3a-Forge.jar",
+					"version": "WzbaGwer"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/VE4bOg3y/InvMove-1.18-0.8.3a-Forge.jar",
+					"version": "VE4bOg3y"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/L9gZxJNb/InvMove-1.19-0.8.3a-Forge.jar",
+					"version": "L9gZxJNb"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/NudOSeIR/InvMove-1.19-0.8.3-Forge.jar",
+					"version": "NudOSeIR"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/Q59zS7Fb/InvMove-1.19-0.8.3-Quilt.jar",
+					"version": "Q59zS7Fb"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1uJ8OF0p/InvMove-1.19-0.8.3-Fabric.jar",
+					"version": "1uJ8OF0p"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/2sYsuomN/InvMove-1.18-0.8.3-Forge.jar",
+					"version": "2sYsuomN"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/kzI0tILB/InvMove-1.18-0.8.3-Quilt.jar",
+					"version": "kzI0tILB"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/H2moqgPv/InvMove-1.18-0.8.3-Fabric.jar",
+					"version": "H2moqgPv"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/RsLNtqpA/InvMove-1.16-0.8.3-Forge.jar",
+					"version": "RsLNtqpA"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/UTuW1mu8/InvMove-1.16-0.8.3-Fabric.jar",
+					"version": "UTuW1mu8"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/RKDVymOM/InvMove-1.19-0.8.2-Forge.jar",
+					"version": "RKDVymOM"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/LG7n0kA8/InvMove-1.19-0.8.2-Quilt.jar",
+					"version": "LG7n0kA8"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/sWRkeaiE/InvMove-1.19-0.8.2-Fabric.jar",
+					"version": "sWRkeaiE"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/gn5FSncy/InvMove-1.18-0.8.2-Forge.jar",
+					"version": "gn5FSncy"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/qTu058ya/InvMove-1.18-0.8.2-Quilt.jar",
+					"version": "qTu058ya"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/sVkuPH9Y/InvMove-1.18-0.8.2-Fabric.jar",
+					"version": "sVkuPH9Y"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/u2qv60JQ/InvMove-1.16-0.8.2-Forge.jar",
+					"version": "u2qv60JQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/um5St4s3/InvMove-1.16-0.8.2-Fabric.jar",
+					"version": "um5St4s3"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.19-0.8.1-forge/InvMove-1.19-0.8.1-Forge.jar",
+					"version": "2tK5XdF0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.19-0.8.1-quilt/InvMove-1.19-0.8.1-Quilt.jar",
+					"version": "dGo1L388"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.19-0.8.1-fabric/InvMove-1.19-0.8.1-Fabric.jar",
+					"version": "O575lNuT"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.8.1-forge/InvMove-1.18-0.8.1-Forge.jar",
+					"version": "FJ91FXja"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.8.1-quilt/InvMove-1.18-0.8.1-Quilt.jar",
+					"version": "DjMssqvc"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.8.1-fabric/InvMove-1.18-0.8.1-Fabric.jar",
+					"version": "whx4cyXm"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.16-0.8.1-forge/InvMove-1.16-0.8.1-Forge.jar",
+					"version": "ODrlrF3Z"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.16-0.8.1-fabric/InvMove-1.16-0.8.1-Fabric.jar",
+					"version": "FlJXgCDA"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.19-0.8.0-forge/InvMove-1.19-0.8.0-Forge.jar",
+					"version": "Clo0PUhb"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.19-0.8.0-fabric/InvMove-1.19-0.8.0-Fabric.jar",
+					"version": "VgnPhVTW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.19-0.8.0-quilt/InvMove-1.19-0.8.0-Quilt.jar",
+					"version": "aarEmm3o"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.8.0-forge/InvMove-1.18-0.8.0-Forge.jar",
+					"version": "AvfVeby1"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.8.0-fabric/InvMove-1.18-0.8.0-Fabric.jar",
+					"version": "YglVnx4G"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.8.0-quilt/InvMove-1.18-0.8.0-Quilt.jar",
+					"version": "KZODMPL5"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.16-0.8.0-forge/InvMove-1.16-0.8.0-Forge.jar",
+					"version": "ZUUyXFpC"
+				},
+				{
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.16-0.8.0-fabric/InvMove-1.16-0.8.0-Fabric.jar",
+					"version": "nc2YXBFR"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.7.0-forge/InvMove-1.18-0.7.0-Forge.jar",
+					"version": "mXm80CHn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.7.0-fabric/InvMove-1.18-0.7.0-Fabric.jar",
+					"version": "2PM0Ne3I"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.6.2-forge/InvMove-1.18-0.6.2-Forge.jar",
+					"version": "nyLttvyA"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.6.2-fabric/InvMove-1.18-0.6.2-Fabric.jar",
+					"version": "FxtmKzFE"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.6.1-forge/InvMove-1.18-0.6.1-Forge.jar",
+					"version": "Rowb4urF"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.6.1-fabric/InvMove-1.18-0.6.1-Fabric.jar",
+					"version": "z1wUcYrz"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.6.0-fabric/InvMove-1.18-0.6.0-Fabric.jar",
+					"version": "KlCCrdyH"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.6.0-forge/InvMove-1.18-0.6.0-Forge.jar",
+					"version": "zSjRFisS"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.5.0-forge/InvMove-1.18-0.5.0-Forge.jar",
+					"version": "Nw08AijY"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/REfW2AEX/versions/1.18-0.5.0/InvMove-1.18-0.5.0-Fabric.jar",
+					"version": "g6dHjPlj"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"PieKing1215"
+		],
+		"description": "Forge/Fabric/Quilt mod that adds the ability to walk around while in inventories",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/REfW2AEX/7c10ef4460c5b2998dac53a494ec9051851f0e76.png",
+		"issues": "https://github.com/PieKing1215/InvMove/issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "<h1>InvMove<br>\n  <a href=\"https://modrinth.com/mod/invmove\"><img src=\"http://cf.way2muchnoise.eu/versions/%20For%20MC%20_581854_all(555-0C8E8E-fff-010101).svg\" alt=\"Supported Versions\"></a>\n  <a href=\"https://github.com/PieKing1215/InvMove/blob/master/COPYING\"><img src=\"https://img.shields.io/github/license/PieKing1215/InvMove?style=flat&color=0C8E8E\" alt=\"License\"></a>\n  <a href=\"https://modrinth.com/mod/invmove\"><img src=\"https://img.shields.io/modrinth/dt/REfW2AEX?label=Modrinth downloads&logo=modrinth\" alt=\"Modrinth Download Count\"></a>\n  <!-- <a href=\"https://www.curseforge.com/minecraft/mc-mods/invmove\"><img src=\"http://cf.way2muchnoise.eu/full_581854_downloads(E04E14-555-fff-010101-1C1C1C).svg\" alt=\"CF Download Count\"></a> -->\n  <a href=\"https://ko-fi.com/X8X34Y6MZ\"><img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" alt=\"Donate on ko-fi\" width=\"160px\"></a>\n</h1>\n\n### Minecraft Forge/Fabric/Quilt mod that adds the ability to walk around while in inventories\n\n<table>\n<tr>\n  <td>InvMove</td>\n  <td><a href=\"https://github.com/PieKing1215/InvMove\">GitHub</a></td>\n  <td><a href=\"https://modrinth.com/mod/invmove\">Modrinth</a></td>\n  <td><a href=\"https://www.curseforge.com/minecraft/mc-mods/invmove\">CurseForge</a> (Mirror)</td>\n</tr>\n<tr>\n  <td>InvMoveCompats</td>\n  <td><a href=\"https://github.com/PieKing1215/InvMoveCompats\">GitHub</a></td>\n  <td><a href=\"https://modrinth.com/mod/invmovecompats\">Modrinth</a></td>\n  <td><a href=\"https://www.curseforge.com/minecraft/mc-mods/invmovecompats\">CurseForge</a> (Mirror)</td>\n</tr>\n</table>\n\nThis is a rewrite of the previously separate Forge and Fabric versions.<br>\nMod compatibilities have been moved into an addon mod: [InvMoveCompats](https://github.com/PieKing1215/InvMoveCompats)<br>\n\n![demo.gif](https://raw.githubusercontent.com/PieKing1215/InvMove/media/demo.gif)\n\nEnables moving, jumping, sprinting, etc. from within inventories.\n\nAlso hides the darkened background tint in inventories that don't pause the game.\n\nBoth features can be toggled on or off per-inventory in the config menu.\n\nThis mod is client-side, but it may raise alarms if used on servers with anticheat.<br>\nI take no responsibility if you get banned or something because you used this on public servers.\n\n### [Releases](https://github.com/PieKing1215/InvMove/releases)\n\nRequires [Cloth Config](https://modrinth.com/mod/cloth-config) on Forge/Fabric/Quilt.<br>\nRequires [Fabric API](https://modrinth.com/mod/fabric-api) on Fabric.<br>\nRequires [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qsl) on Quilt.<br>\nFor Fabric, you need [Mod Menu](https://modrinth.com/mod/modmenu) to be able to open the config screen.<br>\nFor Forge, I also recommend [Game Menu Mod Option](https://modrinth.com/mod/gamemenumodoption) so you can change settings in-game.\n\n## Config (In-game)\n\n#### General:\n- Enable Mod: Enable the entire mod\n- Debug Display: Enables a debug overlay that can help debug compatibility problems.\n\n#### UI Movement:\n- Move In Inventories: Enable movement in inventories<br>\n  There is a keybind you can set to toggle this setting (unbound by default)\n- Allow Jumping: Allow jumping in inventories\n- Sneak Mode: How to handle sneaking in inventories:\n  - Off = No sneaking\n  - Maintain = Keep sneaking if you were when the inventory opened (default)\n  - Pressed = Sneak only while holding the sneak button (can be distracting when shift-clicking)\n- Allow Dismounting: Allow dismounting from mounts in inventories (overrides \"Sneak Mode\" while on a mount)\n- Text Field Disables Movement: Disable movement when a text field is focused (like search bars or in an anvil)\n\n#### UI Background:\n- Hide Inventory Backgrounds: Hides the background tint while in inventories.\n- Pause Screens Background: How to handle screens that pause the game:\n  - Show = Always show background\n  - ShowSP = Show background in singleplayer, otherwise allow hide\n  - AllowHide = Allow background to be hidden\n\nThe Movement and Background pages also have expandable categories containing toggles for individual inventory types.<br>\nThe base mod only has a category for vanilla inventories. For more mod compatibilities, see [InvMoveCompats](https://github.com/PieKing1215/InvMoveCompats)<br>\nAny screens not handled by installed mod compatibilities are added to the \"Unrecognized UI Types\" section, grouped by modid.\n\n## Usage\n\nFeel free to use in packs if you wish.\n\nThe only official downloads are from the InvMove GitHub, Modrinth, or CurseForge page.<br>\nBe careful downloading them from elsewhere, as unauthorized reposts are not monitored and could contain malware.<br>\n(If you are interested in the mod being added to another platform, please open an issue!)\n\nThe mod is licensed under the [GNU Lesser General Public License v3.0](https://github.com/PieKing1215/InvMove/blob/master/COPYING)",
+		"name": "InvMove",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/PieKing1215/InvMove",
+		"support_link": "https://ko-fi.com/pieking1215"
+	},
+	"properties": {
+		"modrinth_id": "REfW2AEX",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.16",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.21"
+		]
+	}
+}

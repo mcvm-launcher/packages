@@ -1,0 +1,120 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/QZTn8cTa/BetterThirdPerson-Fabric-1.21-1.9.0.jar",
+					"version": "QZTn8cTa"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/XkYduFuv/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+					"version": "XkYduFuv"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/1yJzEpzh/BetterThirdPerson-Fabric-1.20-1.9.0.jar",
+					"version": "1yJzEpzh"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/jRCKko1i/BetterThirdPerson-Fabric-1.19-1.9.0.jar",
+					"version": "jRCKko1i"
+				},
+				{
+					"minecraft_versions": "1.17",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/v.1.5.0%20%2F%20MC-1.17/BetterThirdPerson-Fabric-1.17-1.5.0.jar",
+					"version": "cDkU77uD"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/v.1.5.0/BetterThirdPerson-Forge-1.16.4-1.5.0.jar",
+					"version": "mWho9kLP"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/v1.5.0%20%2F%20MC-1.16/BetterThirdPerson-Fabric-1.16.4-1.5.0.jar",
+					"version": "FjWRFyLT"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"socolio"
+		],
+		"description": "Improves third person camera view.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/G1s2WpNo/icon.png",
+		"issues": "https://www.curseforge.com/minecraft/mc-mods/better-third-person/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "![Banner](https://i.imgur.com/ian8HrF.png)\n\n### Adds independent rotation of the camera from a third person view.\n\n#### Completely client-side!\n#### Uses only legal actions to control player rotations.\n#### Available on Forge and Fabric\n\nAllows you to freely rotate camera for 360 degrees:\n\n![](https://i.imgur.com/qqhe7Pr.gif)\n\nAllows you to walk in 8 directions without changing camera rotation:\n\n![](https://i.imgur.com/TtHWY1e.gif)\n\nStill allows you to place, break and use items in third person:\n\n![](https://i.imgur.com/ODTRmMe.gif)\n\nProvides full freedom of the camera during movement:\n\n![](https://i.imgur.com/tYDN2Ss.gif)\n\nSupports vehicles (horses & pigs), swimming and elytra flying:\n\n![](https://i.imgur.com/ociEBxz.gif)",
+		"name": "Better Third Person",
+		"package_maintainers": [
+			"mcvm"
+		]
+	},
+	"properties": {
+		"modrinth_id": "G1s2WpNo",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.21"
+		]
+	}
+}

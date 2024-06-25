@@ -1,0 +1,635 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/bvr50NJe/e4mc_minecraft-5.0.0-fabric.jar",
+					"version": "bvr50NJe"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/wRGFMf56/e4mc_minecraft-5.0.0-forge.jar",
+					"version": "wRGFMf56"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/bFG2YxbQ/e4mc-4.0.1%2B1.19.4-forge.jar",
+					"version": "bFG2YxbQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/vVFlVRt7/e4mc-4.0.1%2B1.19.4-fabric.jar",
+					"version": "vVFlVRt7"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/wWfd7Nmq/e4mc-4.0.1%2B1.18.2-forge.jar",
+					"version": "wWfd7Nmq"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/2WVvoLhs/e4mc-4.0.1%2B1.18.2-fabric.jar",
+					"version": "2WVvoLhs"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/EaPCW4md/e4mc-4.0.0%2B1.19.4-fabric.jar",
+					"version": "EaPCW4md"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/FgvOC1Lq/e4mc-4.0.0%2B1.18.2-fabric.jar",
+					"version": "FgvOC1Lq"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/2kjDRIY6/e4mc-3.2.0%2B1.19.4-forge.jar",
+					"version": "2kjDRIY6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/jWzkvN1j/e4mc-3.2.0%2B1.19.4-fabric.jar",
+					"version": "jWzkvN1j"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/3XvSJkCz/e4mc-3.2.0%2B1.18.2-forge.jar",
+					"version": "3XvSJkCz"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/1iSISpdw/e4mc-3.2.0%2B1.18.2-fabric.jar",
+					"version": "1iSISpdw"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/G5KD73tD/e4mc-3.1.0.jar",
+					"version": "G5KD73tD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/OswvfQpX/e4mc-3.1.0.jar",
+					"version": "OswvfQpX"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/1qQ1DWsk/e4mc-3.1.0.jar",
+					"version": "1qQ1DWsk"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/hGugEJRy/e4mc-3.1.0.jar",
+					"version": "hGugEJRy"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/LoW2grqh/e4mc-3.0.0.jar",
+					"version": "LoW2grqh"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/RYu0blcO/e4mc-3.0.0.jar",
+					"version": "RYu0blcO"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/tjBdb3r4/e4mc-3.0.0.jar",
+					"version": "tjBdb3r4"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/pLz45fbK/e4mc-3.0.0.jar",
+					"version": "pLz45fbK"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/VMbdgPnd/e4mc-2.1.0.jar",
+					"version": "VMbdgPnd"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/1oc4GX1G/e4mc-2.1.0.jar",
+					"version": "1oc4GX1G"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/NJjMopLr/e4mc-2.1.0.jar",
+					"version": "NJjMopLr"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/sucYCxlm/e4mc-2.1.0.jar",
+					"version": "sucYCxlm"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/tkuyatJj/e4mc-2.0.0.jar",
+					"version": "tkuyatJj"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/rfb8Hm5o/e4mc-2.0.0.jar",
+					"version": "rfb8Hm5o"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/F8UyWErA/e4mc-2.0.0.jar",
+					"version": "F8UyWErA"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1",
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/LscsPRUR/e4mc-2.0.0.jar",
+					"version": "LscsPRUR"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/3dulVwCT/e4mc_quilt-1.0.0%2B1.19.3.jar",
+					"version": "3dulVwCT"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"vgskye"
+		],
+		"description": "Open a LAN server to anyone, anywhere, anytime.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/qANg5Jrr/95dcc112830c1f3ddef30cc8451a1903dec17988.png",
+		"issues": "https://github.com/vgskye/e4mc-minecraft-architectury/issues",
+		"license": "MIT",
+		"long_description": "[![Bisect Hosting partner banner](https://www.bisecthosting.com/partners/custom-banners/7038a2ef-0f61-41a2-8d86-6e2e65a0f5c7.webp)](https://bisecthosting.com/skyevg)\n\n# [e4mc](https://e4mc.link)\n\nOpen your LAN server to the public, easily and quickly!\n\n## What is e4mc?\n\ne4mc is a reverse tunneling reverse proxy for Minecraft.\nIn simpler terms, it's a software that allows you to temporarily expose a local Minecraft server to the internet.\n\n## How do I use it?\n\nSimply install the mod, and Open to LAN as normal. A public domain will appear alongside the local port. Others can simply connect to the public domain to connect to your LAN server.\n\n## Why e4mc?\n\n### Works everywhere\n\nIt works everywhere. and I mean everywhere. If you can read this webpage, you can use e4mc.\n\n### Works with vanilla clients\n\nYou don't need to install e4mc on both sides.\nIt just gives you a domain.\nJust share the domain.\n\n### No extra software or configuration required\n\nNone. The host installs the mod on their side, and that's it.\nYou install the mod, Open to LAN as normal, and you get a sharable domain.\n\n### Open source\n\nYes. The entire thing. The server too. It's all public.",
+		"name": "e4mc",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/vgskye/e4mc-minecraft-architectury/",
+		"support_link": "https://ko-fi.com/skyevg"
+	},
+	"properties": {
+		"modrinth_id": "qANg5Jrr",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
+		]
+	}
+}
