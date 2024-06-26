@@ -4,6 +4,16 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/HsolkciH/terrestria-7.0.0.jar",
+					"version": "HsolkciH"
+				},
+				{
 					"minecraft_versions": [
 						"1.21-pre4",
 						"1.21-rc1"
@@ -886,7 +896,8 @@
 			"1.21-pre2",
 			"1.21-pre3",
 			"1.21-pre4",
-			"1.21-rc1"
+			"1.21-rc1",
+			"1.21"
 		]
 	}
 }

@@ -1,0 +1,533 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/8plvfEPa/winterly-fabric-0.10.1%2B1.20.4.jar",
+					"version": "8plvfEPa"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"curios-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/YyPjX7fq/winterly-neoforge-0.10.0%2B1.20.4.jar",
+					"version": "YyPjX7fq"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/UngvZnfo/winterly-fabric-0.10.0%2B1.20.4.jar",
+					"version": "UngvZnfo"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/Rf60vwxM/winterly-0.9.5%2B1.20.4.jar",
+					"version": "Rf60vwxM"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/QExqBkrU/winterly-0.9.4%2B1.20.2.jar",
+					"version": "QExqBkrU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/5tRFmRAm/winterly-0.9.3%2B1.20.jar",
+					"version": "5tRFmRAm"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/Relg5dBM/winterly-0.9.2%2B1.20.jar",
+					"version": "Relg5dBM"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/QoNCi3kq/winterly-0.9.0.jar",
+					"version": "QoNCi3kq"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/IypDP2YU/winterly-0.8.3.jar",
+					"version": "IypDP2YU"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.6.1/winterly-0.6.1.jar",
+					"version": "RRq1YQdb"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.5.1/winterly-0.5.1.jar",
+					"version": "PnsEAyXk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/khODZH7g/winterly-neoforge-0.10.1%2B1.20.4.jar",
+					"version": "khODZH7g"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "owo-lib"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/MMwxzSjK/winterly-0.9.6%2B1.20.4.jar",
+					"version": "MMwxzSjK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/oETCc3sf/winterly-0.9.1%2B1.20.jar",
+					"version": "oETCc3sf"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/Jl220nPU/winterly-0.9.0%2B1.20.jar",
+					"version": "Jl220nPU"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/iiDABnKX/winterly-0.8.2.jar",
+					"version": "iiDABnKX"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/DFK1Zcpj/winterly-0.8.1.jar",
+					"version": "DFK1Zcpj"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/EwzHX8aM/winterly-0.8.0.jar",
+					"version": "EwzHX8aM"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.7.2/winterly-0.7.2.jar",
+					"version": "1zhzjHPc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.7.1/winterly-0.7.0.jar",
+					"version": "x5ThQvNB"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.7.0/winterly-0.6.1.jar",
+					"version": "h1y4Rqsm"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.6.0/winterly-0.6.0.jar",
+					"version": "3UiHsekh"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.5.2/winterly-0.5.2.jar",
+					"version": "dTs4hjxy"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.5.1-1.18.1-fabric/winterly-0.5.0-1.18.1-fabric.jar",
+					"version": "bDM3AFzD"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.4.0-1.18.1-fabric/winterly-0.4.0-1.18.1-fabric.jar",
+					"version": "EJ1gHSQj"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.3.1-1.18-fabric/winterly-0.3.1-1.18.1-fabric.jar",
+					"version": "tY2t7OKR"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.3.0-1.18-fabric/winterly-0.3.0-1.18-fabric.jar",
+					"version": "P3Spm6Wt"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.2.0-1.18-fabric/winterly-0.2.0-1.18-fabric.jar",
+					"version": "h9VadkUn"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.1.0-1.18-fabric/winterly-0.1.0-1.18-fabric.jar",
+					"version": "MdpUk9sQ"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"PinkGoosik",
+			"aSomik"
+		],
+		"banner": "https://cdn.modrinth.com/data/CEvDfomf/images/a660a787dec4ebcade13b68fced13c417f8b870c.png",
+		"community": "https://discord.gg/DcemWeskeZ",
+		"description": "Winter expansion mod adding cold and sloppy stuff.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/CEvDfomf/images/a660a787dec4ebcade13b68fced13c417f8b870c.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/CEvDfomf/8e1c8ac5a0ff140553d92c3b90a211a7b4109e71.png",
+		"issues": "https://github.com/tyap-lyap/winterly/issues",
+		"license": "MIT",
+		"long_description": "## About\n\nWinterly is a Minecraft mod for fabric loader. The mod is revolving around winter and holiday themed things. This simple mod will add some decorations that you can build with and cosmetics that you can wear. For example, the Santa hat or presents under the Christmas tree. This project participated in WinterJam 2021.\n\n[![Discord Server](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/DcemWeskeZ)\n[![CurseForge Page](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/winterly)\n\n![Preview](https://cdn.modrinth.com/data/cached_images/6f0d4504bfe0132492a351739e62226ae011dabb.png)\n",
+		"name": "Winterly",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/tyap-lyap/winterly"
+	},
+	"properties": {
+		"modrinth_id": "CEvDfomf",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4"
+		]
+	}
+}

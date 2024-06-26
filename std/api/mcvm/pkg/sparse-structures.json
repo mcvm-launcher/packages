@@ -1,0 +1,179 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qwvI41y9/versions/TPn3lKhq/sparsestructures-neoforge-1.21-2.2.0.jar",
+					"version": "TPn3lKhq"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qwvI41y9/versions/ID6CCvs6/sparsestructures-fabric-1.21-2.2.0.jar",
+					"version": "ID6CCvs6"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qwvI41y9/versions/3owsy2jD/sparsestructures-2.1.3.jar",
+					"version": "3owsy2jD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qwvI41y9/versions/jIL7tzWW/sparsestructures-2.1.2.jar",
+					"version": "jIL7tzWW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qwvI41y9/versions/c6E1XHor/sparsestructures-2.1.1.jar",
+					"version": "c6E1XHor"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qwvI41y9/versions/J737gMFI/sparsestructures-2.1.jar",
+					"version": "J737gMFI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qwvI41y9/versions/Qyg6qoGU/sparsestructures-2.0.jar",
+					"version": "Qyg6qoGU"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qwvI41y9/versions/o5hyDjgg/sparsestructures-1.1.jar",
+					"version": "o5hyDjgg"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qwvI41y9/versions/edu0bhT4/sparsestructures-1.0.jar",
+					"version": "edu0bhT4"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"m"
+		],
+		"banner": "https://cdn.modrinth.com/data/qwvI41y9/images/be9e463926fb59e8314ba24c69d173ab4d636278.png",
+		"description": "A simple and configurable mod that makes all (even datapacks and modded) structures more spread out (or more common!), essentially making them rarer/easier to find. Useful in big modpacks with a lot of structures mods to encourage exploration",
+		"gallery": [
+			"https://cdn.modrinth.com/data/qwvI41y9/images/be9e463926fb59e8314ba24c69d173ab4d636278.png",
+			"https://cdn.modrinth.com/data/qwvI41y9/images/ae9d2621f1f12bf208a7af27738e6a9113e3de45.png",
+			"https://cdn.modrinth.com/data/qwvI41y9/images/78f2018c9beb7c9e5992b0c246313ff7c7228e03.png",
+			"https://cdn.modrinth.com/data/qwvI41y9/images/ad5f4051d3b124f3ad234dd21b10e0ffee87427d.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/qwvI41y9/d43aa4806e99283b3bcee05005f7cdc86b63e59e.png",
+		"issues": "https://github.com/MaxenceDC/sparsestructures/issues",
+		"license": "MIT",
+		"long_description": "# Sparse Structures\nA simple and configurable mod that makes all (even datapacks and modded) structures more spread out (or more common!), essentially making them rarer/easier to find. Useful in big modpacks with a lot of structures mod to encourage exploration and make the experience more challenging or balanced.\n\n> Notice: this does not alter the generation of ores/geodes or other features of this kind, and alters very slightly the terrain and trees (not enough to be an issue to most players).\n\n## Sponsor\n[![But before, let's here a quick word from my sponsor!](https://www.bisecthosting.com/partners/custom-banners/6626410f-5005-4f5b-af8c-b17e1410af20.webp)](https://www.bisecthosting.com/selector)\n\n## Examples\n![Comparison between two world on the same seed, the one on the left showing a witch hut and a mansion (without the mod), the one on the right showing the same terrain but without those structures](https://cdn.modrinth.com/data/qwvI41y9/images/be9e463926fb59e8314ba24c69d173ab4d636278.png)\n\n### In a modded environment:\n![First screenshot of the comparison, showing many (maybe too many) structures at once in the ocean because of the quantity of structure mods installed.](https://cdn.modrinth.com/data/qwvI41y9/images/ae9d2621f1f12bf208a7af27738e6a9113e3de45.png)\n![Second screenshot of the comparison, showing lot less structures in the same world (seed), at the same coordinates.](https://cdn.modrinth.com/data/qwvI41y9/images/78f2018c9beb7c9e5992b0c246313ff7c7228e03.png)\n<details><summary>Structure Mods in the picture :</summary>\nTidal towns, Explorify, all Yung's mods, Just Another Structure Pack, MVS, Explorations, Towns and Towers, Dungeons and Taverns...\n</details>\n\n## Features\n* **Configurable** : you can change the rarity of all individual structures, even from mods and datapacks.\n* **MC-177381 fix** : fixes the bug where `/locate` returns an incorrect distance between the player and the structure.\n* **Dump Structure Sets** : you can dump all structure sets to a file in the right format for the config using `/dumpstructuresets`.\n* **No separation limit** : In vanilla, the separation between structures is limited to 4096 chunks (65k blocks). This mod removes this limit, allowing structures to be even more spread out (if for any reason you need structures to be that rare).\n\n## Configuration\nThe config can be found in the `config` folder of your instance, and is named `sparsestructures.json5`. It contains the following options :\n* `spreadFactor` : the factor by which the separation and spacing of structures should be multiplied. The default value is `2`, which means that structures will be twice as rare. If you want structures to be more common, you can set this value to `0.5` for example.\n  * ⚠️ **Warning** : a very low value (like `0.01`) makes the world generation process considerably slower.\n* `customSpreadFactors` : a list of custom spread factors for specific structures. The default value makes the mansion twice as rare as an example (which has no effects with a global `spreadFactor` of 2). If you want to change the spread factor of a structure, you can add an entry to this list. Each entry is a JSON object with two fields : `name` (the name of the structure) and `spreadFactor` (the spread factor of the structure). Here's an example :\n```json5\n{\n    \"name\": \"minecraft:mansion\",\n    \"spreadFactor\": 2\n}\n// More detailed info can be found inside the config file\n```\n> Tip: you can dump all structure sets to a file in the right format by using the custom command `/dumpstructuresets`\n\nFor now (v2.0), you have to restart the game for the config to be reloaded. This behavior may change in the future.\n\n## Dependencies\nFabric API (if you're using Fabric, or use the Quilt equivalent)\n\n## Future Updates\n* Ban specific structures from generating\n* World-specific configs\n* Support for frequency-based structure generation\n* Support for structure tags in the config\n* *Open an issue on this project's repo if you have any suggestion!*\n* *~~Add a config~~* (added in v2.0)\n\n## Credits\nIcon made with [Gimp](https://www.gimp.org/) using [Twemoji](https://github.com/twitter/twemoji) and [FiraCode](https://github.com/tonsky/FiraCode)\n[Multiloader Template](https://github.com/jaredlll08/MultiLoader-Template) by jaredlll08\n",
+		"name": "Sparse Structures",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/MaxenceDC/sparsestructures",
+		"support_link": "https://www.buymeacoffee.com/maxencedc"
+	},
+	"properties": {
+		"modrinth_id": "qwvI41y9",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

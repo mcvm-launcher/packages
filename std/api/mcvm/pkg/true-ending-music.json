@@ -1,0 +1,51 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "resource_pack",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZltblCOt/versions/fAatoFaQ/true-ending-dragon-music-v1.zip",
+					"version": "fAatoFaQ"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"limesplatus"
+		],
+		"description": "An optional addition to True Ending adding new boss music to the Ender Dragon fight",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/ZltblCOt/16ce9a25c70bd4b692e0bd6183d55026293bb758.png",
+		"license": "https://github.com/SpluoSplatus/Vanilla-Refresh/wiki/License",
+		"long_description": "# About\n\nAn optional addition to True Ending adding new boss music to the Ender Dragon fight. Along with the music that plays during the fight, a special new tune is played when you beat the dragon. The Ender Dragon death sound effect volume is lowered for the tune to be audible.\n\n**Note:** Does not work without the True Ending datapack.\n\nDownload True Ending: [https://modrinth.com/datapack/true-ending](https://modrinth.com/datapack/true-ending)\n\n# Technical Changes\n\nAdds the following sounds\n- `true_ending:music.dragon`\n- `true_ending:music.dragon_defeat`\n- `minecraft:music.dragon_ambience`\n\nLowers the volume of the following sounds\n- `minecraft:music.dragon` -> lowered by 50%\n- `minecraft:entity.ender_dragon.death` -> lowered by 50%\n\n",
+		"name": "True Ending: Ender Dragon Music",
+		"package_maintainers": [
+			"mcvm"
+		]
+	},
+	"properties": {
+		"modrinth_id": "ZltblCOt",
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4"
+		]
+	},
+	"relations": {
+		"dependencies": "true-ending"
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TbriQCWD/versions/uWXuMaW4/GeckoLibOculusCompat-Forge-1.0.1.jar",
+					"version": "uWXuMaW4"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TbriQCWD/versions/UoSPDBmz/GeckoLibOculusCompat-Forge-1.0.0.jar",
+					"version": "UoSPDBmz"
+				},
+				{
+					"minecraft_versions": [
+						"1.18.2",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TbriQCWD/versions/3Q4qBNwT/GeckoLibIrisCompat-Fabric-1.0.0.jar",
+					"version": "3Q4qBNwT"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"ElocinDev"
+		],
+		"community": "https://discord.gg/LUNAPIXEL",
+		"description": "Fixes GeckoLib animations not working if using a shaderpack with entity shadows.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/TbriQCWD/5b0cd877e80dc7167a73df5160f7b0cd43b15f43.png",
+		"issues": "https://github.com/nvb-uy/geckoanimfix/issues",
+		"license": "MIT",
+		"long_description": "# Iris / Oculus & GeckoLib Compat\n\nFixes GeckoLib entities' animations not working while using shaderpacks that have entity shadows.\n\nExample of a GeckoLib entity working with Insanity Shader, using entity shadows.\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5kLo4HdSz44\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n",
+		"name": "Iris/Oculus & GeckoLib Compat",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/nvb-uy/geckoanimfix"
+	},
+	"properties": {
+		"modrinth_id": "TbriQCWD",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

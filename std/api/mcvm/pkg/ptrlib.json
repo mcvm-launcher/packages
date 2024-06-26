@@ -1,0 +1,43 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tIKBCqVe/versions/1.0.5/PTRLib-1.0.5.jar",
+					"version": "8eTyklbx"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"RazzleberryFox"
+		],
+		"description": "A craftstudio importer and rendering library. ",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/tIKBCqVe/icon.png",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "A Craftstudio importer and rendering library. \n\n\n\nUsed in:\n\n \n- Decocraft\n\n- Camera Obscura (Modjam5)",
+		"name": "PTRLib",
+		"package_maintainers": [
+			"mcvm"
+		]
+	},
+	"properties": {
+		"modrinth_id": "tIKBCqVe",
+		"supported_modloaders": [
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.12.2"
+		]
+	}
+}

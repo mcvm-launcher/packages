@@ -1,0 +1,495 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/m7X4wswO/sit-1.21-1.3.5.jar",
+					"version": "m7X4wswO"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/S3UBZkMg/sit-1.20.6-1.3.5.jar",
+					"version": "S3UBZkMg"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/rIWPdlop/sit-1.20.6-27.jar",
+					"version": "rIWPdlop"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/gUzylvQV/sit-1.20.4-1.3.5.jar",
+					"version": "gUzylvQV"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/AYOoBok6/sit-1.20.4-27.jar",
+					"version": "AYOoBok6"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/VWROLSl8/sit-1.20.1-1.3.5.jar",
+					"version": "VWROLSl8"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/48GA44kI/sit-1.20.1-27.jar",
+					"version": "48GA44kI"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/uQnamhq3/sit-1.21-28.jar",
+					"version": "uQnamhq3"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/grjsT5kv/sit-1.20.6-1.3.4.jar",
+					"version": "grjsT5kv"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/CKFkSsu8/sit-1.20.5-26.jar",
+					"version": "CKFkSsu8"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/s1n7PxKZ/sit-1.20.1-1.3.4.jar",
+					"version": "s1n7PxKZ"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/dDkA7QhU/sit-1.19.4-1.3.4.jar",
+					"version": "dDkA7QhU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/rA1fS1z3/sit-1.20.2-1.3.4.jar",
+					"version": "rA1fS1z3"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/zwvpqRag/sit-1.20.2-1.3.3.jar",
+					"version": "zwvpqRag"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/xcUEOgSz/sit-1.20.2-25.jar",
+					"version": "xcUEOgSz"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/J1KOCf5Q/sit-1.20-1.3.3.jar",
+					"version": "J1KOCf5Q"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/gBDMhF2c/sit-1.20-24.jar",
+					"version": "gBDMhF2c"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/NYlMtDNk/sit-1.19.4-1.3.3.jar",
+					"version": "NYlMtDNk"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/gfyCf0JH/sit-1.19.4-23.jar",
+					"version": "gfyCf0JH"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/2gEpTXyB/sit-1.18.2-1.3.3.jar",
+					"version": "2gEpTXyB"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/5VaPxryH/sit-1.19.3-22.jar",
+					"version": "5VaPxryH"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/2qCUCDrD/sit-1.19.3-1.3.3.jar",
+					"version": "2qCUCDrD"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/3DULg3qo/sit-1.19.3-21.jar",
+					"version": "3DULg3qo"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/T1eFly6W/sit-1.19.2-1.3.3.jar",
+					"version": "T1eFly6W"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/chIzzjRQ/sit-1.19.2-20.jar",
+					"version": "chIzzjRQ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/pRcd7ST4/sit-1.18.2-1.3.2.jar",
+					"version": "pRcd7ST4"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/kfUyR9c4/sit-1.18.2-19.jar",
+					"version": "kfUyR9c4"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/qv4N0o7x/sit-1.17.1-v1.3.1.jar",
+					"version": "qv4N0o7x"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/vPtybpyi/sit-1.17.1-13.jar",
+					"version": "vPtybpyi"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/TIZ1pXGN/sit-1.16.5-v1.3.2.jar",
+					"version": "TIZ1pXGN"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/XBTgJEYl/sit-1.16.5-11.jar",
+					"version": "XBTgJEYl"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/H7GjGSiV/sit-1.15.2-v1.3.1.jar",
+					"version": "H7GjGSiV"
+				},
+				{
+					"minecraft_versions": [
+						"1.15",
+						"1.15.1",
+						"1.15.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/mLqbWtrs/sit-1.15.2-4.jar",
+					"version": "mLqbWtrs"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/ShRYww3i/sit-1.14.4-v1.3.jar",
+					"version": "ShRYww3i"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/750n2ER4/sit-1.14.4-5.jar",
+					"version": "750n2ER4"
+				},
+				{
+					"minecraft_versions": "1.13.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/Brq3aRUX/sit-1.13.2-v1.1.2.jar",
+					"version": "Brq3aRUX"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/EzTj5ssf/sit-1.12.2-v1.3.jar",
+					"version": "EzTj5ssf"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/LXRyDeg0/sit-1.11.2-v1.1.2.jar",
+					"version": "LXRyDeg0"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/yINjQ1lB/sit-1.10.2-v1.1.1.jar",
+					"version": "yINjQ1lB"
+				},
+				{
+					"minecraft_versions": "1.7.10",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/ZGamMOvX/sit-1.7.10-v1.1.jar",
+					"version": "ZGamMOvX"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"bl4ckscor3"
+		],
+		"community": "https://discord.gg/kgZUAxK",
+		"description": "Allows you to sit on slabs and stairs.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/VKXzIykF/f03ccffaebbfc0faa496a34e674090f3a11a99db.png",
+		"issues": "https://github.com/bl4ckscor3/Sit/issues",
+		"license": "MIT",
+		"long_description": "### Functionality\nSit makes it possible to use slabs and stairs like chairs. Simply rightclick the top side of a right side up slab or stair block with an empty hand to sit on it. To exit, press the key you use to exit a minecart (by default SHIFT). Half beds (a bed where only one half is present) work as well. Usually, slabs/stairs from other mods are supported, however if any do not work, please contact me.\n\n### Config\nThere's a single configuration option: *block_reach_distance*. It defines how many blocks a player can be away from a slab/stair to still be able to sit on it. This is capped by the player's block reach distance.\n\nYou are allowed to use this mod in any modpack.",
+		"name": "Sit",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/bl4ckscor3/Sit"
+	},
+	"properties": {
+		"modrinth_id": "VKXzIykF",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.7.10",
+			"1.10.2",
+			"1.11.2",
+			"1.12.2",
+			"1.13.2",
+			"1.14.4",
+			"1.15",
+			"1.15.1",
+			"1.15.2",
+			"1.16.5",
+			"1.17.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

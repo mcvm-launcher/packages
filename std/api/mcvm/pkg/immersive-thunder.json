@@ -1,0 +1,209 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/LdxJnj5h/ImmersiveThunder-1.20.4%2B1.2.2.jar",
+					"version": "LdxJnj5h"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/XXXFbAx3/ImmersiveThunder-1.20.3%2B1.2.2.jar",
+					"version": "XXXFbAx3"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/2nLaZYLh/ImmersiveThunder-1.20.2%2B1.2.2.jar",
+					"version": "2nLaZYLh"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/o64NJE0v/ImmersiveThunder-1.20.1%2B1.2.2.jar",
+					"version": "o64NJE0v"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/noGUzrDC/ImmersiveThunder-1.20.1%2B1.2.1.jar",
+					"version": "noGUzrDC"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/mkISAEp8/ImmersiveThunder-fabric-1.19.4%2B1.2.1.jar",
+					"version": "mkISAEp8"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/9uSxVNoz/ImmersiveThunder-fabric-1.19.4%2B1.2.0.jar",
+					"version": "9uSxVNoz"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/5o1bNuED/ImmersiveThunder-fabric-1.20.1%2B1.2.0.jar",
+					"version": "5o1bNuED"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/jQvsnRrr/ImmersiveThunder-fabric-1.19.4%2B1.1.2.jar",
+					"version": "jQvsnRrr"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/KuAReuCW/ImmersiveThunder-fabric-1.19.4%2B1.1.1.jar",
+					"version": "KuAReuCW"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/H5dnJ6um/ImmersiveThunder-fabric-1.19.3%2B1.1.1.jar",
+					"version": "H5dnJ6um"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"netcatgirl"
+		],
+		"description": "A fabric mod that adds realistic and dynamic thunder sounds to Minecraft based on the player’s distance from the lightning strike.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/uKjKoMsj/10569140c4e5f74a43c0eb5af0c1fe3b279c7274.png",
+		"issues": "https://github.com/netcatgirl/ImmersiveThunder/issues",
+		"license": "MIT",
+		"long_description": "# ImmersiveThunder\n\nImmersiveThunder adds new thunder sounds to the game and plays them dynamically based on the player’s distance from the source. The closer you are, the louder and more intense the sound will be. The farther you are, the softer and more delayed the sound will be. \n\n**Requires [Fabric API](https://modrinth.com/mod/fabric-api) to work!**\n\n---\n\n**Sounds best with [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)**",
+		"name": "ImmersiveThunder",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/netcatgirl/ImmersiveThunder"
+	},
+	"properties": {
+		"modrinth_id": "uKjKoMsj",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.19.3",
+			"1.19.4",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4"
+		]
+	}
+}

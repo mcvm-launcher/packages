@@ -4,6 +4,19 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/DJXQSa8Q/nvidium-0.2.8-beta.jar",
+					"version": "DJXQSa8Q"
+				},
+				{
 					"minecraft_versions": "1.20.6",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -441,7 +454,8 @@
 			"1.20.2",
 			"1.20.3",
 			"1.20.4",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

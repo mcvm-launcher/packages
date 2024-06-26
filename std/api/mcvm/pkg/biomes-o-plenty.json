@@ -14,6 +14,46 @@
 						]
 					},
 					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/nFxbSeNF/BiomesOPlenty-fabric-1.21-21.0.0.8.jar",
+					"version": "nFxbSeNF"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/t9XqVdkk/BiomesOPlenty-neoforge-1.21-21.0.0.8.jar",
+					"version": "t9XqVdkk"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/zWgSNtWD/BiomesOPlenty-forge-1.21-21.0.0.8.jar",
+					"version": "zWgSNtWD"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/ZfiXgecc/BiomesOPlenty-fabric-1.21-21.0.0.7.jar",
 					"version": "ZfiXgecc"
 				},

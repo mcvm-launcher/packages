@@ -1,0 +1,186 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/7AaI3XuM/particle-rain-2.1.0.jar",
+					"version": "7AaI3XuM"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/soqqh6x4/particle-rain-2.0.8.jar",
+					"version": "soqqh6x4"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/8VGNnkMc/particle-rain-2.0.7.jar",
+					"version": "8VGNnkMc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/mk48bnKc/particle-rain-2.0.6.jar",
+					"version": "mk48bnKc"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/KcdkYSQo/particle-rain-2.0.5.jar",
+					"version": "KcdkYSQo"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/gvhIPF4q/particle-rain-2.0.2.jar",
+					"version": "gvhIPF4q"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/csHMMJVe/particle-rain-2.0.4.jar",
+					"version": "csHMMJVe"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/2.0.1/particle-rain-2.0.1.jar",
+					"version": "MHFlELRU"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"PigCart"
+		],
+		"banner": "https://cdn.modrinth.com/data/nrikgvxm/images/5257a919744340001858b23f54a674ff9ff8bc04.png",
+		"community": "https://discord.gg/JSNCGrW",
+		"description": "Replaces rain with particle effects",
+		"gallery": [
+			"https://cdn.modrinth.com/data/nrikgvxm/images/5257a919744340001858b23f54a674ff9ff8bc04.png"
+		],
+		"icon": "https://cdn.modrinth.com//data/nrikgvxm/icon.png",
+		"issues": "https://github.com/PigCart/particle-rain/issues",
+		"license": "MIT",
+		"long_description": "Particle Rain replaces the default rain with some particle effects. In addition to snow and rain, deserts have sandstorms and mesas have red sandstorms.\n\nIf you have mod menu installed you can change various aspects of the particles behaviour.\n\nRequires Fabric API and Cloth Config\n\nGIF (old, actual effects look slightly different now)\n<img src=\"https://cdn.discordapp.com/attachments/523251999899385875/776425830380863488/weatherparticles.gif\">",
+		"name": "Particle Rain",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/PigCart/particle-rain"
+	},
+	"properties": {
+		"modrinth_id": "nrikgvxm",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.19",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

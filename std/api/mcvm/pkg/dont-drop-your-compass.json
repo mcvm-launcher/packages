@@ -1,0 +1,53 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/xzeX4hke/versions/vTRi53zD/dont_drop_your_compass-1.19.2-1.0-fabric.jar",
+					"version": "vTRi53zD"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/xzeX4hke/versions/SedgOKHL/dont_drop_your_compass-1.19.2-1.0-forge.jar",
+					"version": "SedgOKHL"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Ordana"
+		],
+		"community": "https://discord.gg/MTUHt3r",
+		"description": "Recovery Compasses no longer drop when you die!",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/xzeX4hke/1a66df12d4a7ee10baee2a5c4918579b9473f853.png",
+		"issues": "https://github.com/AstralOrdana/DontDropYourCompassissues",
+		"license": "LGPL-3.0-only",
+		"long_description": "This mod adds a new item tag called ‘keep_on_death’. Any item in this tag will not drop when you die.\nBy default, only the Recovery Compass is in this tag but more items can be easily added via datapack.\n\nAvailable for Fabric and Forge, be sure to download the right version.",
+		"name": "Dont Drop Your Compass",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/AstralOrdana/DontDropYourCompass"
+	},
+	"properties": {
+		"modrinth_id": "xzeX4hke",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2"
+		]
+	}
+}

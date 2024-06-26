@@ -1,0 +1,152 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LVTZtqlk/versions/Xhg3plg3/videotape-1.3.0.jar",
+					"version": "Xhg3plg3"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LVTZtqlk/versions/bBySnMQt/videotape-1.2.1.jar",
+					"version": "bBySnMQt"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LVTZtqlk/versions/a1XURUco/videotape-1.2.0.jar",
+					"version": "a1XURUco"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LVTZtqlk/versions/1dItNQWM/videotape-1.1.0.jar",
+					"version": "1dItNQWM"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LVTZtqlk/versions/LmjlpLwS/videotape-1.0.0.jar",
+					"version": "LmjlpLwS"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Anthus"
+		],
+		"description": "Fixes GPU-related memory leaks",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/LVTZtqlk/d025fc0d2bf3676c6a972f6b2aa4960d8db0a8ce.png",
+		"license": "MIT-0",
+		"long_description": "# Video Tape\nThis project was abandoned because the author was no longer interested in the mod scene.\n\n> I'm abandoning GitHub permanently, I apologize for that. However, feel free to decompile the files.\n\n## Features\n\n### Fixed issues\n\n- `GL_FRAMEBUFFER_INCOMPLETE_ATTACHMENT`\n- `GL_INVALID_FRAMEBUFFER_OPERATION`\n- `GL_OUT_OF_MEMORY`\n\n## Installation\n\nVideo Tape publishes on Modrinth.\n\n> ![Warning](https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg) <br> You will need to download and install the Fabric Loader to use this mod. This is not needed if the launcher used installs the loader.\n\nPlace it in the following path to use it: `.minecraft/mods/videotape-[version].jar`\n\n### Incompatibilities\n\n- [Vulkan Renderer](https://modrinth.com/mod/vulkanmod)",
+		"name": "Video Tape",
+		"package_maintainers": [
+			"mcvm"
+		]
+	},
+	"properties": {
+		"modrinth_id": "LVTZtqlk",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}

@@ -1,0 +1,109 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/29RM9vrK/tidal-towns-1.3.jar",
+					"version": "29RM9vrK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/9rGNfR18/tidal-towns-1.2.jar",
+					"version": "9rGNfR18"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/IHl3IIqa/tidal-towns-1.1.jar",
+					"version": "IHl3IIqa"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/9GbdKgLn/tidal-towns-1.0.jar",
+					"version": "9GbdKgLn"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"joshieman"
+		],
+		"banner": "https://cdn.modrinth.com/data/EEIwvQVo/images/cfbe0bd9cbc19c76c58395d95f2f8ff09e5635c5.png",
+		"description": "Several pieces of driftwood have been gathered to form a village that floats on the waves.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/EEIwvQVo/images/cfbe0bd9cbc19c76c58395d95f2f8ff09e5635c5.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/EEIwvQVo/87e23b7220621c4acb590ae1d1aa9770be74bf60.png",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "<p style=\"text-align: center;\"><br><iframe style=\"width: 792px;\" src=\"https://www.youtube.com/embed/V0Q-sWyYOgc\" width=\"792\" height=\"467\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<h2 style=\"text-align: center!important;\"><a href=\"https://joshie.app/mods/tidal-towns\" rel=\"nofollow\"><img src=\"https://joshie.app/files/joshie_app_download.svg\" alt=\"joshie-app\" height=\"112\"></a></h2>\n<p>&nbsp;</p>\n<h2 style=\"text-align: center;\"><a href=\"https://discord.gg/HUMbRQhxdR\" rel=\"nofollow\"><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg\" alt=\"discord-plural\" height=\"56\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"https://www.youtube.com/@joshieman\" rel=\"nofollow\"><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg\" alt=\"youtube-plural\" height=\"56\"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"https://paypal.me/joshieman\" rel=\"nofollow\"><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/paypal-plural_vector.svg\" alt=\"paypal-plural\" height=\"56\"> </a></h2>\n<h4 style=\"text-align: center;\"><span style=\"color: #95a5a6;\">Several pieces of driftwood have been gathered to form a village that floats on the waves.</span></h4>\n<h1><br><br>Features</h1>\n<p><strong>New Structure: Ocean Village</strong><br>Generates using the vanilla <code>#has_shipwrecks</code> tag.<br>Has one center type, 3 road types, and 3 house types.<br><em>More variants coming soon.</em></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h1>Compatibility</h1>\n<p>Compatible with any world-gen or biome if they modify the vanilla <code>#has_shipwrecks</code> tag.</p>\n<p>&nbsp;</p>\n<h2>Vanilla Friendly</h2>\n<p>Uses only vanilla blocks.</p>",
+		"name": "Tidal Towns",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"support_link": "https://ko-fi.com/joshieman"
+	},
+	"properties": {
+		"modrinth_id": "EEIwvQVo",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4"
+		]
+	}
+}

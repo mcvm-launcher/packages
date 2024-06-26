@@ -5,6 +5,56 @@
 			"versions": [
 				{
 					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QAGBst4M/versions/smpYKI3H/PuzzlesLib-v20.4.52-1.20.4-NeoForge.jar",
+					"version": "smpYKI3H"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "forge-config-api-port"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QAGBst4M/versions/xkn7hkSC/PuzzlesLib-v20.4.52-1.20.4-Forge.jar",
+					"version": "xkn7hkSC"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QAGBst4M/versions/vGTq0Oye/PuzzlesLib-v20.4.52-1.20.4-Fabric.jar",
+					"version": "vGTq0Oye"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QAGBst4M/versions/xjQF8bha/PuzzlesLib-v8.1.21-1.20.1-Fabric.jar",
+					"version": "xjQF8bha"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QAGBst4M/versions/z0kHAGDv/PuzzlesLib-v8.1.21-1.20.1-Forge.jar",
+					"version": "z0kHAGDv"
+				},
+				{
+					"minecraft_versions": "1.20.4",
 					"modloaders": "forgelike",
 					"relations": {
 						"dependencies": "forge-config-api-port"
