@@ -1,0 +1,80 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Umsczw3y/versions/pv8P20wE/mythiclib-1.0.0%2B1.20.1.jar",
+					"version": "pv8P20wE"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Umsczw3y/versions/njEoL6NK/mythiclib-1.0.0%2B1.20.4.jar",
+					"version": "njEoL6NK"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Umsczw3y/versions/dG8oKV27/mythiclib-1.0.0%2B1.20.2.jar",
+					"version": "dG8oKV27"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"TriQue06"
+		],
+		"community": "https://discord.gg/gT8864sMNQ",
+		"description": "A small library mod to add recipe compatibilities for Mythic Upgrades.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/Umsczw3y/95b52c2a62bb49de5a0278f17add4e1e58ef02a0.png",
+		"issues": "https://github.com/TriQue06/mythic-lib-1.20.x/issues",
+		"license": "MIT",
+		"long_description": "## ☕ About Mythic Lib\n---\n- **Mythic Lib** adds \"tags\" for Mythic Upgrades and make upgrading recipes more compatible!\n\n- Thanks to Mythic Lib, for example, you can upgrade your Topaz Chestplate to Ametrine Chestplate, same goes for every helmet, chestplate, leggings, boots, axe, sword or whatever.",
+		"name": "Mythic Lib",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/TriQue06/mythic-lib-1.20.x"
+	},
+	"properties": {
+		"modrinth_id": "Umsczw3y",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4"
+		]
+	},
+	"relations": {
+		"dependencies": [
+			"fabriclike-api",
+			"mythic-upgrades"
+		]
+	}
+}

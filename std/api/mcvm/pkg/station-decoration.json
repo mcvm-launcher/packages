@@ -1,0 +1,1490 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/5bbuQy23/MSD-forge-1.20.4-4.0.0-beta-8-1.3.6.jar",
+					"version": "5bbuQy23"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/SsYnOAjk/MSD-forge-1.20.1-4.0.0-beta-8-1.3.6.jar",
+					"version": "SsYnOAjk"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/A2llJMTH/MSD-forge-1.19.4-4.0.0-beta-8-1.3.6.jar",
+					"version": "A2llJMTH"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/zVh3ecqn/MSD-forge-1.19.2-4.0.0-beta-8-1.3.6.jar",
+					"version": "zVh3ecqn"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/mBp1ds02/MSD-forge-1.18.2-4.0.0-beta-8-1.3.6.jar",
+					"version": "mBp1ds02"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/a0xTX3nW/MSD-forge-1.17.1-4.0.0-beta-8-1.3.6.jar",
+					"version": "a0xTX3nW"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/v7a3Kj3p/MSD-forge-1.16.5-4.0.0-beta-8-1.3.6.jar",
+					"version": "v7a3Kj3p"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/iRQsgmmu/MSD-fabric-1.20.4-4.0.0-beta-8-1.3.6.jar",
+					"version": "iRQsgmmu"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/emaKmb1G/MSD-fabric-1.20.1-4.0.0-beta-8-1.3.6.jar",
+					"version": "emaKmb1G"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/ialX0xfM/MSD-fabric-1.19.4-4.0.0-beta-8-1.3.6.jar",
+					"version": "ialX0xfM"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/xgYxIVJ8/MSD-fabric-1.19.2-4.0.0-beta-8-1.3.6.jar",
+					"version": "xgYxIVJ8"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/l59isxym/MSD-fabric-1.18.2-4.0.0-beta-8-1.3.6.jar",
+					"version": "l59isxym"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/e52OFgN0/MSD-fabric-1.17.1-4.0.0-beta-8-1.3.6.jar",
+					"version": "e52OFgN0"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/j0C8iWrt/MSD-fabric-1.16.5-4.0.0-beta-8-1.3.6.jar",
+					"version": "j0C8iWrt"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/lEHG8tQa/MSD-forge-1.20.4-4.0.0-beta-8-1.3.5.jar",
+					"version": "lEHG8tQa"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/frBu9aqk/MSD-fabric-1.20.4-4.0.0-beta-8-1.3.5.jar",
+					"version": "frBu9aqk"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/mFbfnr2N/MSD-forge-1.20.1-4.0.0-beta-8-1.3.5.jar",
+					"version": "mFbfnr2N"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/e6eXyoya/MSD-fabric-1.20.1-4.0.0-beta-8-1.3.5.jar",
+					"version": "e6eXyoya"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/dtbeyyuh/MSD-forge-1.19.4-4.0.0-beta-8-1.3.5.jar",
+					"version": "dtbeyyuh"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/lTE4hUVB/MSD-fabric-1.19.4-4.0.0-beta-8-1.3.5.jar",
+					"version": "lTE4hUVB"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/TxhtHc0D/MSD-forge-1.19.2-4.0.0-beta-8-1.3.5.jar",
+					"version": "TxhtHc0D"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/46UPW4vK/MSD-fabric-1.19.2-4.0.0-beta-8-1.3.5.jar",
+					"version": "46UPW4vK"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/7tszi2DA/MSD-forge-1.18.2-4.0.0-beta-8-1.3.5.jar",
+					"version": "7tszi2DA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/h6oArVoF/MSD-fabric-1.18.2-4.0.0-beta-8-1.3.5.jar",
+					"version": "h6oArVoF"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/bUc9gWhq/MSD-forge-1.17.1-4.0.0-beta-8-1.3.5.jar",
+					"version": "bUc9gWhq"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/un3tKno5/MSD-fabric-1.17.1-4.0.0-beta-8-1.3.5.jar",
+					"version": "un3tKno5"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/axGznFcg/MSD-forge-1.16.5-4.0.0-beta-8-1.3.5.jar",
+					"version": "axGznFcg"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "minecraft-transit-railway",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/pl39u3Lv/MSD-fabric-1.16.5-4.0.0-beta-8-1.3.5.jar",
+					"version": "pl39u3Lv"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/ZRHqNmxC/MTR-MSD-Addon-forge-1.19.4-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "ZRHqNmxC"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/jUN3hAMS/MTR-MSD-Addon-forge-1.19.3-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "jUN3hAMS"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/WktgVh4E/MTR-MSD-Addon-forge-1.19.2-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "WktgVh4E"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/lNqvIbT2/MTR-MSD-Addon-forge-1.18.2-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "lNqvIbT2"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/QwIhTG63/MTR-MSD-Addon-forge-1.17.1-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "QwIhTG63"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/LaFhhzs9/MTR-MSD-Addon-forge-1.16.5-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "LaFhhzs9"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/uckw2Zw0/MTR-MSD-Addon-fabric-1.19.4-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "uckw2Zw0"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/wCyKQawT/MTR-MSD-Addon-fabric-1.19.3-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "wCyKQawT"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/MMs0xECf/MTR-MSD-Addon-fabric-1.19.2-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "MMs0xECf"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/MEMUoV2V/MTR-MSD-Addon-fabric-1.18.2-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "MEMUoV2V"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Jzp9utC5/MTR-MSD-Addon-fabric-1.17.1-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "Jzp9utC5"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/U4XALnI7/MTR-MSD-Addon-fabric-1.16.5-3.2.2-1.3.4-enhancement-1.jar",
+					"version": "U4XALnI7"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/QZe6C8iB/MTR-MSD-Addon-forge-1.19.4-3.2.0-1.3.4.jar",
+					"version": "QZe6C8iB"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/S2TUrorO/MTR-MSD-Addon-forge-1.19.3-3.2.0-1.3.4.jar",
+					"version": "S2TUrorO"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/JITYJj2U/MTR-MSD-Addon-forge-1.19.2-3.2.0-1.3.4.jar",
+					"version": "JITYJj2U"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/fyWfelvm/MTR-MSD-Addon-forge-1.18.2-3.2.0-1.3.4.jar",
+					"version": "fyWfelvm"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Clyj8sPO/MTR-MSD-Addon-forge-1.17.1-3.2.0-1.3.4.jar",
+					"version": "Clyj8sPO"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/pzXLISY5/MTR-MSD-Addon-forge-1.16.5-3.2.0-1.3.4.jar",
+					"version": "pzXLISY5"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/kbre2nq2/MTR-MSD-Addon-fabric-1.19.4-3.2.0-1.3.4.jar",
+					"version": "kbre2nq2"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/vKShTOhs/MTR-MSD-Addon-fabric-1.19.3-3.2.0-1.3.4.jar",
+					"version": "vKShTOhs"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/reTghZD5/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.3.4.jar",
+					"version": "reTghZD5"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/W6EDKQrW/MTR-MSD-Addon-fabric-1.18.2-3.2.0-1.3.4.jar",
+					"version": "W6EDKQrW"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/VwzfUnQR/MTR-MSD-Addon-fabric-1.17.1-3.2.0-1.3.4.jar",
+					"version": "VwzfUnQR"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/OcA92qo6/MTR-MSD-Addon-fabric-1.16.5-3.2.0-1.3.4.jar",
+					"version": "OcA92qo6"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/WJ8K2q1j/MTR-MSD-Addon-forge-1.19.4-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "WJ8K2q1j"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Yao7rQ6R/MTR-MSD-Addon-forge-1.19.3-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "Yao7rQ6R"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/dPqHDMUs/MTR-MSD-Addon-forge-1.19.2-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "dPqHDMUs"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/h4bODJWD/MTR-MSD-Addon-forge-1.18.2-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "h4bODJWD"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Jo4rK0tB/MTR-MSD-Addon-forge-1.17.1-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "Jo4rK0tB"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/aspw8bW7/MTR-MSD-Addon-forge-1.16.5-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "aspw8bW7"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/mBnBlvsD/MTR-MSD-Addon-fabric-1.19.4-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "mBnBlvsD"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/B4e4hMeo/MTR-MSD-Addon-fabric-1.19.3-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "B4e4hMeo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/sHGUYPLq/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "sHGUYPLq"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/g1RcGYnb/MTR-MSD-Addon-fabric-1.18.2-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "g1RcGYnb"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/wfT8dOF9/MTR-MSD-Addon-fabric-1.17.1-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "wfT8dOF9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/GZkOb4R3/MTR-MSD-Addon-fabric-1.16.5-3.2.0-1.3.3-hotfix-1.jar",
+					"version": "GZkOb4R3"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/BaIkynvB/MTR-MSD-Addon-forge-1.19.4-3.2.0-1.3.3.jar",
+					"version": "BaIkynvB"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/O2REe01U/MTR-MSD-Addon-forge-1.19.3-3.2.0-1.3.3.jar",
+					"version": "O2REe01U"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Do8Hb443/MTR-MSD-Addon-forge-1.19.2-3.2.0-1.3.3.jar",
+					"version": "Do8Hb443"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/oILeJZM6/MTR-MSD-Addon-forge-1.18.2-3.2.0-1.3.3.jar",
+					"version": "oILeJZM6"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/lYq1t9Vp/MTR-MSD-Addon-forge-1.17.1-3.2.0-1.3.3.jar",
+					"version": "lYq1t9Vp"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/YUAn7p6X/MTR-MSD-Addon-forge-1.16.5-3.2.0-1.3.3.jar",
+					"version": "YUAn7p6X"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/b6FrXzc8/MTR-MSD-Addon-fabric-1.19.4-3.2.0-1.3.3.jar",
+					"version": "b6FrXzc8"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/KquU1dNb/MTR-MSD-Addon-fabric-1.19.3-3.2.0-1.3.3.jar",
+					"version": "KquU1dNb"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Vxj7RcNw/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.3.3.jar",
+					"version": "Vxj7RcNw"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/OGN7ZHFY/MTR-MSD-Addon-fabric-1.18.2-3.2.0-1.3.3.jar",
+					"version": "OGN7ZHFY"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/3DMdjrC1/MTR-MSD-Addon-fabric-1.17.1-3.2.0-1.3.3.jar",
+					"version": "3DMdjrC1"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/PfEAZb1X/MTR-MSD-Addon-fabric-1.16.5-3.2.0-1.3.3.jar",
+					"version": "PfEAZb1X"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/sqipxylG/MTR-MSD-Addon-forge-1.19.3-3.2.0-1.3.2.jar",
+					"version": "sqipxylG"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/uFlHuXeS/MTR-MSD-Addon-forge-1.19.2-3.2.0-1.3.2.jar",
+					"version": "uFlHuXeS"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/fXullFXW/MTR-MSD-Addon-forge-1.18.2-3.2.0-1.3.2.jar",
+					"version": "fXullFXW"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/KdmzQak6/MTR-MSD-Addon-forge-1.17.1-3.2.0-1.3.2.jar",
+					"version": "KdmzQak6"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/GiOHKQmD/MTR-MSD-Addon-forge-1.16.5-3.2.0-1.3.2.jar",
+					"version": "GiOHKQmD"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/58LWOHly/MTR-MSD-Addon-fabric-1.19.3-3.2.0-1.3.2.jar",
+					"version": "58LWOHly"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/urkhlqxt/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.3.2.jar",
+					"version": "urkhlqxt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/TMLMEpDL/MTR-MSD-Addon-fabric-1.18.2-3.2.0-1.3.2.jar",
+					"version": "TMLMEpDL"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/qiEl5dif/MTR-MSD-Addon-fabric-1.17.1-3.2.0-1.3.2.jar",
+					"version": "qiEl5dif"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/M1QEGRHG/MTR-MSD-Addon-fabric-1.16.5-3.2.0-1.3.2.jar",
+					"version": "M1QEGRHG"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Tp7BQcZv/MTR-MSD-Addon-forge-1.19.3-3.2.0-1.3.1.jar",
+					"version": "Tp7BQcZv"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/ckz8q9lF/MTR-MSD-Addon-forge-1.19.2-3.2.0-1.3.1.jar",
+					"version": "ckz8q9lF"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/OFMDVIdj/MTR-MSD-Addon-forge-1.18.2-3.2.0-1.3.1.jar",
+					"version": "OFMDVIdj"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/fKxcOUH9/MTR-MSD-Addon-forge-1.17.1-3.2.0-1.3.1.jar",
+					"version": "fKxcOUH9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/dSyJB34A/MTR-MSD-Addon-forge-1.16.5-3.2.0-1.3.1.jar",
+					"version": "dSyJB34A"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/G2z4T1Om/MTR-MSD-Addon-fabric-1.19.3-3.2.0-1.3.1.jar",
+					"version": "G2z4T1Om"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/l1LGRqtH/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.3.1.jar",
+					"version": "l1LGRqtH"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/BTTXWCfh/MTR-MSD-Addon-fabric-1.18.2-3.2.0-1.3.1.jar",
+					"version": "BTTXWCfh"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/kG2VhwPb/MTR-MSD-Addon-fabric-1.17.1-3.2.0-1.3.1.jar",
+					"version": "kG2VhwPb"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/euy27zvr/MTR-MSD-Addon-fabric-1.16.5-3.2.0-1.3.1.jar",
+					"version": "euy27zvr"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/J7eZ0tFc/MTR-MSD-Addon-forge-1.19.3-3.2.0-1.3.jar",
+					"version": "J7eZ0tFc"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/GAYEHENC/MTR-MSD-Addon-forge-1.19.2-3.2.0-1.3.jar",
+					"version": "GAYEHENC"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/px6Uivmk/MTR-MSD-Addon-forge-1.18.2-3.2.0-1.3.jar",
+					"version": "px6Uivmk"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Rq1ygY8C/MTR-MSD-Addon-forge-1.17.1-3.2.0-1.3.jar",
+					"version": "Rq1ygY8C"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/l2z4J99e/MTR-MSD-Addon-forge-1.16.5-3.2.0-1.3.jar",
+					"version": "l2z4J99e"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/wS4YAxAt/MTR-MSD-Addon-fabric-1.19.3-3.2.0-1.3.jar",
+					"version": "wS4YAxAt"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/zp0No6PK/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.3.jar",
+					"version": "zp0No6PK"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/54WI7Mg4/MTR-MSD-Addon-fabric-1.18.2-3.2.0-1.3.jar",
+					"version": "54WI7Mg4"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/Ph4D3RXJ/MTR-MSD-Addon-fabric-1.17.1-3.2.0-1.3.jar",
+					"version": "Ph4D3RXJ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/25y0y7FM/MTR-MSD-Addon-fabric-1.16.5-3.2.0-1.3.jar",
+					"version": "25y0y7FM"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/SrKQ9xw2/MTR-MSD-Addon-forge-1.19.3-3.2.0-1.2.jar",
+					"version": "SrKQ9xw2"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/3tn49UH1/MTR-MSD-Addon-forge-1.19.2-3.2.0-1.2.jar",
+					"version": "3tn49UH1"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/2tjxOrvH/MTR-MSD-Addon-forge-1.18.2-3.2.0-1.2.jar",
+					"version": "2tjxOrvH"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/MEIwcgla/MTR-MSD-Addon-forge-1.17.1-3.2.0-1.2.jar",
+					"version": "MEIwcgla"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/eTX1rfNT/MTR-MSD-Addon-forge-1.16.5-3.2.0-1.2.jar",
+					"version": "eTX1rfNT"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/1cpJ7QcA/MTR-MSD-Addon-fabric-1.19.3-3.2.0-1.2.jar",
+					"version": "1cpJ7QcA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/AgtyR1Jc/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.2.jar",
+					"version": "AgtyR1Jc"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/3SEjjybi/MTR-MSD-Addon-fabric-1.18.2-3.2.0-1.2.jar",
+					"version": "3SEjjybi"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/HzawPkXF/MTR-MSD-Addon-fabric-1.17.1-3.2.0-1.2.jar",
+					"version": "HzawPkXF"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/rGL83TIc/MTR-MSD-Addon-fabric-1.16.5-3.2.0-1.2.jar",
+					"version": "rGL83TIc"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/qCTYhrs9/MTR-MSD-Addon-forge-1.16.5-3.2.0-1.1-hotfix-1.jar",
+					"version": "qCTYhrs9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/DKFzsKR3/MTR-MSD-Addon-fabric-1.16.5-3.2.0-1.1-hotfix-1.jar",
+					"version": "DKFzsKR3"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/io360Vgr/MTR-MSD-Addon-forge-1.17.1-3.2.0-1.1-hotfix-1.jar",
+					"version": "io360Vgr"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/kUWsWZfL/MTR-MSD-Addon-fabric-1.17.1-3.2.0-1.1-hotfix-1.jar",
+					"version": "kUWsWZfL"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/xsrY5Wu0/MTR-MSD-Addon-forge-1.18.2-3.2.0-1.1-hotfix-1.jar",
+					"version": "xsrY5Wu0"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/TgX5yDjq/MTR-MSD-Addon-fabric-1.18.2-3.2.0-1.1-hotfix-1.jar",
+					"version": "TgX5yDjq"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/MUfCvENK/MTR-MSD-Addon-forge-1.19.3-3.2.0-1.1-hotfix-1.jar",
+					"version": "MUfCvENK"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/X0ptgBcw/MTR-MSD-Addon-fabric-1.19.3-3.2.0-1.1-hotfix-1.jar",
+					"version": "X0ptgBcw"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/CEuDBcVv/MTR-MSD-Addon-forge-1.19.2-3.2.0-1.1-hotfix-1.jar",
+					"version": "CEuDBcVv"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/l3Vox7pv/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.1-hotfix-1.jar",
+					"version": "l3Vox7pv"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/pMmqBFYD/MTR-MSD-Addon-forge-1.16.5-3.2.0-1.1.jar",
+					"version": "pMmqBFYD"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/sKqfpwND/MTR-MSD-Addon-fabric-1.16.5-3.2.0-1.1.jar",
+					"version": "sKqfpwND"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/2azqTbkR/MTR-MSD-Addon-forge-1.17.1-3.2.0-1.1.jar",
+					"version": "2azqTbkR"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/ktX0Ma9g/MTR-MSD-Addon-fabric-1.17.1-3.2.0-1.1.jar",
+					"version": "ktX0Ma9g"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/GEx12AOS/MTR-MSD-Addon-forge-1.18.2-3.2.0-1.1.jar",
+					"version": "GEx12AOS"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/tRQ5AwpJ/MTR-MSD-Addon-fabric-1.18.2-3.2.0-1.1.jar",
+					"version": "tRQ5AwpJ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/6L6IuJjJ/MTR-MSD-Addon-forge-1.19.3-3.2.0-1.1.jar",
+					"version": "6L6IuJjJ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/T4gSnwwE/MTR-MSD-Addon-fabric-1.19.3-3.2.0-1.1.jar",
+					"version": "T4gSnwwE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/ORXg2lsf/MTR-MSD-Addon-forge-1.19.2-3.2.0-1.1.jar",
+					"version": "ORXg2lsf"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/uewJgUKD/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.1.jar",
+					"version": "uewJgUKD"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"AIDA64S"
+		],
+		"community": "https://discord.gg/kBfwGeQMCS",
+		"description": "Decorate your railroad world with decorations like catenary!",
+		"gallery": [
+			"https://cdn.modrinth.com/data/AM3NyLOZ/images/10ccea6f3c5b623ed19db818f8ceee26249dc53c.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/AM3NyLOZ/ba9eb57d78b98bf4a6aac5ad9d027dc7cf4707cd.png",
+		"issues": "https://github.com/AIDA64S/MTR-Station-Decoration-Addon/issues",
+		"license": "MIT",
+		"long_description": "Station Decoration (Abbreviated as MSD) is an addon based on [Minecraft Transit Railway Mod](https://modrinth.com/mod/minecraft-transit-railway), which adds many decorative items such as PIDS, RailwaySigns, and of course the most important thing is the catenary decoration!\n\n**Note that starting with version 1.3.5, the minimum required MTR version is 4.0.0-beta-8!**\n\n**注意，从1.3.5版本开始，支持的最低MTR版本为4.0.0-beta-8!**\n\n**Please note that no matter what, please back up your world before updating the version!**\n\n**无论如何，请先备份您的世界后再更新版本！**\n<h1>How do I determine which version of MSD I should download?</h1>\n\n**The file name will contain the version number of the adapted MTR, such as MSD-fabric-1.20.4-4.0.0-beta-8-1.3.5.jar, where 1.20.4 is the adapted Minecraft version number, 4.0.0-beta-8 is the adapted MTR version number, and 1.3.5 is the MSD version number.**\n\n![display](https://github.com/AIDA64S/MTR-Station-Decoration-Addon/blob/4.0.0/image/2024-06-20_15.09.20.png?raw=true)\n<h1>Support</h1>\n<h2>why does my game not start?</h2>\n<p>It may be because the wrong version of MTR or MSD is used. This mod depends on MTR. Please check whether the versions of MSD and MTR you are using correspond to each other.</p>\n<h2>The version is correct, but the game cannot be launched or a bug is found?</h2>\n<p>Discord is our main communication platform, click <a href=\"https://discord.gg/kBfwGeQMCS\" rel=\"noopener noreferrer ugc\">Discord Server</a> to join us</p>\n<h2>Don't know how to use this mod?</h2>\n<p>You can inquire about the corresponding channel in our Discord, of course we will upload some tutorials step by step.<br>\n<a href=\"https://www.youtube.com/watch?v=QwO3qAMFcQg&list=PL1FAjqz9YsD0XfZHvnp6x6nHil4S--fCy\">The video using old catenary</a>\n\n<a href=\"https://www.youtube.com/watch?v=_Dbnunsjn58\">The video using new catenary</a>\n",
+		"name": "Station Decoration",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/AIDA64S/MTR-Station-Decoration-Addon"
+	},
+	"properties": {
+		"modrinth_id": "AM3NyLOZ",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.5",
+			"1.17.1",
+			"1.18.2",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}

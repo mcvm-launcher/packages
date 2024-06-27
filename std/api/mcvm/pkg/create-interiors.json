@@ -1,0 +1,463 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/bUZG9AJY/interiors-0.5.3%2Bforge-mc1.18.2.jar",
+					"version": "bUZG9AJY"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/d7Enth7o/interiors-0.5.3%2Bfabric-mc1.18.2.jar",
+					"version": "d7Enth7o"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/MIqMtTi6/interiors-0.5.3%2Bfabric-mc1.19.2.jar",
+					"version": "MIqMtTi6"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/2nQniuFS/interiors-0.5.3%2Bforge-mc1.19.2.jar",
+					"version": "2nQniuFS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/tTCNkCHu/interiors-0.5.3%2Bforge-mc1.20.1.jar",
+					"version": "tTCNkCHu"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/7QGvBpZU/interiors-0.5.3%2Bfabric-mc1.20.1.jar",
+					"version": "7QGvBpZU"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/WA1plK3v/interiors-0.5.2%2Bmc1.20.1-FORGE.jar",
+					"version": "WA1plK3v"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/vBK4OJ1O/interiors-0.5.2%2Bmc1.19.2-FORGE.jar",
+					"version": "vBK4OJ1O"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/qC6sNz4d/interiors-0.5.2-mc1.18.2-FORGE.jar",
+					"version": "qC6sNz4d"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/PiVs3PTq/interiors-0.5-30%2Bmc1.20.1.jar",
+					"version": "PiVs3PTq"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/zGkP5Znh/interiors-0.5-30%2Bmc1.19.2.jar",
+					"version": "zGkP5Znh"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/2Rbh73Av/interiors-0.5-30%2Bmc1.18.2.jar",
+					"version": "2Rbh73Av"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/hAFVyCJr/interiors-v0.5-1.18.2.jar",
+					"version": "hAFVyCJr"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/584AhdF6/interiors-v0.5-1.20.1.jar",
+					"version": "584AhdF6"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/8wI1yeNz/interiors-v0.5-1.19.2.jar",
+					"version": "8wI1yeNz"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/aazrcpGq/interiors-0.4.3.jar",
+					"version": "aazrcpGq"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/eTqo4oG8/interiors-v0.4.1-1.19.2.jar",
+					"version": "eTqo4oG8"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/ykJgQ129/interiors-0.4.2.jar",
+					"version": "ykJgQ129"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/GySPSvkg/interiors-v0.4.1-1.19.2.jar",
+					"version": "GySPSvkg"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/qM7Y55Cq/interiors-v0.4.1-1.18.2.jar",
+					"version": "qM7Y55Cq"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/IHYK5eA5/interiors-v0.4-1.18.2.jar",
+					"version": "IHYK5eA5"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/VD1oo7YP/create-interiors-v0.3.3-1.18.2.jar",
+					"version": "VD1oo7YP"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/osWVvmc1/create-interiors-v0.3.1-1.18.2.jar",
+					"version": "osWVvmc1"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/ETGvlEp4/create-interiors-v0.3.1-1.19.2.jar",
+					"version": "ETGvlEp4"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/K0cgcY9F/interiors-0.3.1-1.20.x.jar",
+					"version": "K0cgcY9F"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/SkzP5vbD/create-interiors-0.3-1.20.x.jar",
+					"version": "SkzP5vbD"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/AGhVchAR/create-interiors-v0.3-1.19.2.jar",
+					"version": "AGhVchAR"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/bZKtOYKs/interiors-0.2-1.20.2.jar",
+					"version": "bZKtOYKs"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/r4Knci2k/versions/7mq5DCnd/extendedseating-0.1-1.20.1.jar",
+					"version": "7mq5DCnd"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"lev",
+			"rdh"
+		],
+		"banner": "https://cdn.modrinth.com/data/r4Knci2k/images/7213f4ce1c84436eea0c31e9579395b8f1d6aefe.png",
+		"community": "https://discord.gg/CqP7czdXqp",
+		"description": "A complement to the Create mod that adds new furniture.",
+		"documentation": "https://sudoLev.github.io/CreateInteriorsMod/",
+		"gallery": [
+			"https://cdn.modrinth.com/data/r4Knci2k/images/2509b22141968eec183a65a6cad84329972ebe23.png",
+			"https://cdn.modrinth.com/data/r4Knci2k/images/9a1c1c87005a3df4273d795b79c127cb9122fcde.png",
+			"https://cdn.modrinth.com/data/r4Knci2k/images/10c114e6062e92879f5c4bb28afd50bf70d6bc73.png",
+			"https://cdn.modrinth.com/data/r4Knci2k/images/f58b85f9ce9de650d43a42adb8fde7b6fada150a.png",
+			"https://cdn.modrinth.com/data/r4Knci2k/images/07e2f977451d4c2036a2cb5f57ff99dd0c4fd79e.png",
+			"https://cdn.modrinth.com/data/r4Knci2k/images/7213f4ce1c84436eea0c31e9579395b8f1d6aefe.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/r4Knci2k/f13cf7567aac2a70b1a5e4342a6c379d34591189.png",
+		"issues": "https://github.com/sudoLev/CreateInteriorsMod/issues",
+		"license": "GPL-3.0-or-later",
+		"long_description": "# Create: Interiors⠀[![star](https://img.shields.io/badge/Star%20on%20GitHub-fafbfc?logo=github&logoColor=black)](https://github.com/sudoLev/CreateInteriorsMod)⠀[![discord](https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white)](https://discord.gg/ynQvWygqQT)\n\n<div align=\"center\">\n<h3>Create: Interiors is an addon mod that extends Create's furnishing options.<br></h3>\n   </div>\n<img src=\"https://github.com/alexandsr/ExtendedSeatingMod/assets/61996958/05a2803a-806a-41d6-9fef-6b8730012ea8\">\n\n<h2>Current list of features:</h2> \n<ul>\n\n\n   <li>Chair Blocks\n      <ul>\n         <li>Come in all 16 Minecraft Dye Colors</li>\n         <li>Right-click with a wrench to cycle armrest state (None, Left Only, Right Only, or Both Armrests)</li>\n         <li>Can be crafted either from 1 Colored Wool and 2 Wooden Slabs OR from 1 Colored Seat and 1 Wooden Slab</li>\n         <li>Can be sat on, both as a part of contraptions and standalone.</li>\n         <li>Can pick up entities just like Seat blocks</li>\n         <li>Bouncy!</li>\n      </ul>\n      <img src=\"https://github.com/alexandsr/ExtendedSeatingMod/assets/61996958/5df96470-97e6-4d3e-bd5c-ea18b20f902d\" width=\"150\">\n      <img src=\"https://github.com/alexandsr/ExtendedSeatingMod/assets/61996958/14ce4207-df3e-4ad7-970f-4c9135a2ed08\" width=\"150\"><br><br>\n   </li>\n   <li>Kelp Chair\n     <ul>\n      <li>Cheaper & easier-to-farm alternative to colored chairs</li>\n      <li>Can be crafted either from 1 Dried Kelp and 2 Wooden Slabs OR from 1 Kelp Seat block and 1 Wooden Slab</li>\n      <li>Work exactly the same as colored chairs</li>\n   </ul><br>\n   ⠀⠀⠀<img src=\"https://github.com/alexandsr/ExtendedSeatingMod/assets/61996958/53210a6f-6343-41b9-944b-f9addc3937ce\" width=\"100\"><br><br>\n   </li>\n  <li>Kelp Seat\n  <ul>\n      <li>Cheaper & easier-to-farm alternative to colored seats</li>\n      <li>Can be crafted from 1 Dried Kelp item and 1 Wooden Slab</li>\n      <li>Work exactly like Create's seat blocks</li>\n      <li>Can be crafted or made in a stonecutter</li>\n   </ul><br>\n   ⠀⠀⠀⠀<img src=\"https://github.com/alexandsr/ExtendedSeatingMod/assets/61996958/7c00abef-12eb-4fe5-a304-03dc4f2629d9\" width=\"90\"><br><br>\n\n  </li>\n   <li>Seatwood Planks\n     <ul>\n      <li>Useful together with Copycat Steps & Copycat Panels as a decoration for Seats & Chairs</li>\n      <li>3 Seatwood Planks can be crafted from 2 Wooden Slabs and 2 Wooden Planks</li>\n   </ul><br>\n   ⠀⠀⠀⠀<img src=\"https://github.com/alexandsr/ExtendedSeatingMod/assets/61996958/a32ccba2-8e76-4e02-80b2-32213e0adca2\" width=100>⠀\n      <img src=\"https://github.com/alexandsr/ExtendedSeatingMod/assets/61996958/cb8bbd71-91e9-484a-9c68-c6a7190fb681\" width=250><br>\n      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<i>Seatwood Tray Tables</i>\n   </li>\n\n\n</ul> \n\n---\n\n# Contributions\n\n### Many thanks to [rdh](https://github.com/rhysdh540) for all his many critical contributions!\n\n### Thanks to [Luna](https://modrinth.com/user/LopyLuna) for the wonderful logo :)\n\n<h3>Translations! 🥳</h3>\n\n**Thanks to [@AsseyGithub](https://github.com/AsseyGithub) for translating Create: Interiors to Korean.** 🎉\n\n**Thanks to [@rim4oo](https://github.com/rim4oo) for translating Create: Interiors to Russian.** 🎉\n\nCreate: Interiors is currently available in English, German, Swedish, Russian and Korean. If you don't see your language and want to help, please do feel free! Again, it's much appreciated.\n\n---\n\n<div align=\"center\">\n   \n   <h3>Find Create: Interiors on <a href=\"https://github.com/sudoLev/CreateInteriorsMod\" target=\"_blank\"><span style=\"margin-top:6px\"><img src=\"https://github.com/alexandsr/BellsAndWhistlesMod/assets/61996958/154e2b0b-5df7-4e7e-83c2-0d08a36e535d\" width=\"14\"></span> GitHub</a> or <a href=\"https://curseforge.com/minecraft/mc-mods/interiors\" target=\"_blank\"><span style=\"padding:5px\"><img src=\"https://raw.githubusercontent.com/alexandsr/BellsAndWhistlesMod/9f44e0cb812b00da5d1c60eb691efb9f69761cb3/.assets/curseforge.svg\" width=\"18\"></span> CurseForge</a>\n<br><br>\n   \nReport Issues <a href=\"https://github.com/sudoLev/CreateInteriorsMod/issues\" target=\"_blank\">here</a></h3>\n</div>\n",
+		"name": "Create: Interiors",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/sudolev/CreateInteriorsMod/",
+		"support_link": "https://ko-fi.com/sudolev"
+	},
+	"properties": {
+		"modrinth_id": "r4Knci2k",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19.2",
+			"1.20",
+			"1.20.1"
+		]
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/RhzuAoZx/versions/BrcIOqH1/triqueapi-1.1.1%2Bmc1.20.4.jar",
+					"version": "BrcIOqH1"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mythic-upgrades"
+							},
+							{
+								"value": "warden-tools"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/RhzuAoZx/versions/B6HfSfAK/triqueapi-1.1.1%2Bmc1.20.2.jar",
+					"version": "B6HfSfAK"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/RhzuAoZx/versions/uN4bHTVF/triqueapi-1.1.0%2Bmc1.20.2.jar",
+					"version": "uN4bHTVF"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/RhzuAoZx/versions/FtBAZkxS/triqueapi-mc1.20.1-1.1.0.jar",
+					"version": "FtBAZkxS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"mythic-upgrades",
+							"warden-tools"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/RhzuAoZx/versions/KWVobJd7/triqueapi-mc1.20.1-1.0.0.jar",
+					"version": "KWVobJd7"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"TriQue06"
+		],
+		"description": "A small library mod for compatibility between mods.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/RhzuAoZx/4a46ac852bfe298546663e7040c3f9e5f3c211ae.png",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "## ☕ About TriQue API\n---\n- **TriQue** **API** adds tags and upgrading recipes for better compatibility between Mythic Upgrades and Warden Tools. This small and basic library makes upgrading Topaz Chesplate to Warden Chesplate possible for example.\n\n- More mods will be supported in TriQue API with more recipes and tags soon.",
+		"name": "TriQue API",
+		"package_maintainers": [
+			"mcvm"
+		]
+	},
+	"properties": {
+		"modrinth_id": "RhzuAoZx",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4"
+		]
+	}
+}

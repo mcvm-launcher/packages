@@ -1,0 +1,97 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6EdNfDXb/versions/vhZG1pkF/fleshz-1.5.1.jar",
+					"version": "vhZG1pkF"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6EdNfDXb/versions/uvaogtgz/fleshz-1.1.1.jar",
+					"version": "uvaogtgz"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6EdNfDXb/versions/ulllHFQZ/fleshz-1.5.1.jar",
+					"version": "ulllHFQZ"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6EdNfDXb/versions/o3GVe8XK/fleshz-1.5.0.jar",
+					"version": "o3GVe8XK"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6EdNfDXb/versions/UWaNyG7b/fleshz-1.5.0.jar",
+					"version": "UWaNyG7b"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6EdNfDXb/versions/5Ppj50nT/fleshz-1.5.0.jar",
+					"version": "5Ppj50nT"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6EdNfDXb/versions/CFYSl0sm/rotten-1.4.7.jar",
+					"version": "CFYSl0sm"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Globox1997"
+		],
+		"community": "https://discord.gg/cV4cJyGXqF",
+		"description": "Not another rottenflesh to leather mod anymore",
+		"documentation": "https://globox1997.github.io/wiki/mods/FleshZ/",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/6EdNfDXb/50b458cbf5831744f01c3fdb71b44231cb40aedb.png",
+		"issues": "https://github.com/Globox1997/FleshZ/issues",
+		"license": "MIT",
+		"long_description": "![Headline](https://i.imgur.com/bZ1lDDQ.png)\n\n<center>\n\n[<img src=\"https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge\">](https://discord.gg/cV4cJyGXqF) \n[<img src=\"https://img.shields.io/website?color=7bc466&label=Globox&style=for-the-badge&up_message=Wiki&url=https://globox1997.github.io/wiki/mods/FleshZ/\">](https://globox1997.github.io/wiki/mods/FleshZ/)\n[<img src=\"https://img.shields.io/github/issues/Globox1997/FleshZ?color=c4667b&style=for-the-badge\">](https://github.com/Globox1997/FleshZ/issues)\n</center>\n\n<img src=\"https://i.imgur.com/K0Bn3Mh.png\" alt= “Description” width=\"25%\" height=\"auto\">\n<br><br/>\n\nMobs which used to drop leather, now drop hide which has to get prepared with sugar and dried at the wood rack to get leather now.  \nRottenflesh can be combined to rotten leather which can get dried to get hide.\n\n![Showcase](https://i.imgur.com/zP5ouDw.png)\n\n\n<img src=\"https://i.imgur.com/WKCuHQL.png\" alt= “Misc” width=\"10%\" height=\"auto\">\n<br><br />\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/fabric-api)\n[<img src=\"https://i.imgur.com/7weZ8uu.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/cloth-config)\n\n\n\nThis mod is developed for Fabric.  \nThere are no plans to develop a Forge version. \n\n\nModpack Permission:  \nFeel free to use it in any modpacks.\n\n\nBug Report:  \nJust report bugs at the github page.",
+		"name": "FleshZ",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Globox1997/FleshZ"
+	},
+	"properties": {
+		"modrinth_id": "6EdNfDXb",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.6",
+			"1.21"
+		]
+	},
+	"relations": {
+		"dependencies": "fabriclike-api"
+	}
+}

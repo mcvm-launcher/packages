@@ -5,6 +5,16 @@
 			"versions": [
 				{
 					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/lvXLiyLU/polymorph-fabric-1.0.1%2B1.21.jar",
+					"version": "lvXLiyLU"
+				},
+				{
+					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/7HrMDnJs/polymorph-neoforge-1.0.0%2B1.21.jar",

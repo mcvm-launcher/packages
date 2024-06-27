@@ -1,0 +1,68 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yxfPh2QX/versions/TB30h6E2/angling-1.0.1.jar",
+					"version": "TB30h6E2"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yxfPh2QX/versions/XcxqhCbn/angling-1.0.0.jar",
+					"version": "XcxqhCbn"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"8s2"
+		],
+		"banner": "https://cdn.modrinth.com/data/yxfPh2QX/images/13333f65922efc7d9177ce5bf033b93ed16e0162.png",
+		"community": "https://discord.com/invite/SvV7YNjJcd",
+		"description": "Discover new fish and breed 'em all!",
+		"documentation": "https://www.youtube.com/watch?v=AMJhruPaORM",
+		"gallery": [
+			"https://cdn.modrinth.com/data/yxfPh2QX/images/1070e8083eeff2a5fe7bd78e85c58d4e575c27aa.png",
+			"https://cdn.modrinth.com/data/yxfPh2QX/images/13333f65922efc7d9177ce5bf033b93ed16e0162.png",
+			"https://cdn.modrinth.com/data/yxfPh2QX/images/227b29551bbb5c6f0dd180f51b164f3bf4bba659.png",
+			"https://cdn.modrinth.com/data/yxfPh2QX/images/5eb4445195071acb29a3d8ec59158813802f25ce.png",
+			"https://cdn.modrinth.com/data/yxfPh2QX/images/80b35bd29f1ae3617c8680dc4e59839b2ed8f69a.png",
+			"https://cdn.modrinth.com/data/yxfPh2QX/images/ed9e3f0ff5e2a6c11683b7dfea3121ed8d2fb2d6.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/yxfPh2QX/53761678259566453c19dd35f2f45756639f6c26.png",
+		"issues": "https://github.com/8s2/Anglingissues",
+		"license": "CC0-1.0",
+		"long_description": "A mod to improve your aquariums!\n\nDig up worms from the dirt or mud and feed it to fish to get roe. Place filter feeders such as clams and oysters in your fish tanks to automatically eat up any algae. During the day, players with fish buckets on them may come across the pelican: the wandering trader of fish. Don't let them annoy you too much.\n\nAdds new mobs:\n<ul>\n<li>Fry</li>\n<li>Sunfish*</li>\n<li>Pelican</li>\n<li>Nautilus</li>\n<li>Sea Slug**</li>\n<li>Crab*</li>\n<li>Catfish*</li>\n<li>Seahorse</li>\n<li>Bubble Eye*</li>\n<li>Anglerfish*</li>\n<li>Mahi Mahi*</li>\n<li>Anomalocaris*</li>\n<li>Dongfish*</li>\n</ul>\n\n<i>*Bred with worms </i>|<i> **Bred with algae</i>\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AMJhruPaORM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+		"name": "Angling",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/8s2/Angling"
+	},
+	"properties": {
+		"modrinth_id": "yxfPh2QX",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2"
+		]
+	},
+	"relations": {
+		"dependencies": [
+			"fabriclike-api",
+			"geckolib"
+		]
+	}
+}

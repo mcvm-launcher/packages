@@ -10,15 +10,15 @@
 						"dependencies": "fabriclike-api"
 					},
 					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/JePNBpbY/resourcefullib-fabric-1.21-3.0.3.jar",
-					"version": "JePNBpbY"
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/r38KdzOf/resourcefullib-fabric-1.21-3.0.7.jar",
+					"version": "r38KdzOf"
 				},
 				{
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
 					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/t2JfBos8/resourcefullib-neoforge-1.21-3.0.3.jar",
-					"version": "t2JfBos8"
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/aFZ2neF6/resourcefullib-neoforge-1.21-3.0.7.jar",
+					"version": "aFZ2neF6"
 				},
 				{
 					"minecraft_versions": "1.20.1",
@@ -38,7 +38,10 @@
 					"version": "XO3P1hbK"
 				},
 				{
-					"minecraft_versions": "1.20.5",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
 					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"
@@ -48,7 +51,10 @@
 					"version": "qCuHU37e"
 				},
 				{
-					"minecraft_versions": "1.20.5",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
 					"modloaders": "neoforged",
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/KWy8ghR9/resourcefullib-neoforge-1.20.5-2.5.5.jar",
@@ -155,6 +161,74 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/tNPUniqQ/resourcefullib-forge-1.19.4-1.3.6.jar",
 					"version": "tNPUniqQ"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/LQpfnlYR/resourcefullib-fabric-1.21-3.0.6.jar",
+					"version": "LQpfnlYR"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/BEDBbfUW/resourcefullib-neoforge-1.21-3.0.6.jar",
+					"version": "BEDBbfUW"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/BZQJVDH6/resourcefullib-fabric-1.21-3.0.5.jar",
+					"version": "BZQJVDH6"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/ofZNNOlr/resourcefullib-neoforge-1.21-3.0.5.jar",
+					"version": "ofZNNOlr"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/TKI3QwqC/resourcefullib-fabric-1.21-3.0.4.jar",
+					"version": "TKI3QwqC"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/M8ZqBmqg/resourcefullib-neoforge-1.21-3.0.4.jar",
+					"version": "M8ZqBmqg"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/JePNBpbY/resourcefullib-fabric-1.21-3.0.3.jar",
+					"version": "JePNBpbY"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/t2JfBos8/resourcefullib-neoforge-1.21-3.0.3.jar",
+					"version": "t2JfBos8"
 				},
 				{
 					"minecraft_versions": "1.21",
@@ -1408,6 +1482,7 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.5",
+			"1.20.6",
 			"1.21"
 		]
 	}

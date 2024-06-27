@@ -1,0 +1,530 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/EKlOgVXS/Cobblepedia-Fabric-0.6.4.jar",
+					"version": "EKlOgVXS"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/m2EuE0Xl/Cobblepedia-Forge-0.6.4.jar",
+					"version": "m2EuE0Xl"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/UcCVV7y8/Cobblepedia-Fabric-0.6.3.jar",
+					"version": "UcCVV7y8"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/ckZPRKPh/Cobblepedia-Forge-0.6.3.jar",
+					"version": "ckZPRKPh"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/co1oUNAH/Cobblepedia-Fabric-0.6.2.jar",
+					"version": "co1oUNAH"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/c61kCHDH/Cobblepedia-Forge-0.6.2.jar",
+					"version": "c61kCHDH"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/BNLT7oRV/Cobblepedia-Fabric-0.6.1.jar",
+					"version": "BNLT7oRV"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/Yu1gf9By/Cobblepedia-Forge-0.6.1.jar",
+					"version": "Yu1gf9By"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/bcBAQntR/Cobblepedia-Fabric-0.6.0.jar",
+					"version": "bcBAQntR"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/Lie6zbP3/Cobblepedia-Forge-0.6.0.jar",
+					"version": "Lie6zbP3"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/ZQqfol0h/Cobblepedia-Fabric-0.5.3.jar",
+					"version": "ZQqfol0h"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/A5orHvfC/Cobblepedia-Forge-0.5.3.jar",
+					"version": "A5orHvfC"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/dYSp3ZsV/Cobblepedia-Fabric-0.5.2.jar",
+					"version": "dYSp3ZsV"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/GCC6uN9N/Cobblepedia-Forge-0.5.2.jar",
+					"version": "GCC6uN9N"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/QwbukhS9/Cobblepedia-Fabric-0.5.1.jar",
+					"version": "QwbukhS9"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/ZKLYrlb1/Cobblepedia-Forge-0.5.1.jar",
+					"version": "ZKLYrlb1"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/nmeuW8es/Cobblepedia-Fabric-0.5.0.jar",
+					"version": "nmeuW8es"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/RPkg0hxz/Cobblepedia-Forge-0.5.0.jar",
+					"version": "RPkg0hxz"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/SX2ecxZL/Cobblepedia-fabric-0.4.5%2B1.20.1.jar",
+					"version": "SX2ecxZL"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/1ebcuWK3/Cobblepedia-forge-0.4.5%2B1.20.1.jar",
+					"version": "1ebcuWK3"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/z8G2NkKF/Cobblepedia-forge-0.4.4%2B1.19.2.jar",
+					"version": "z8G2NkKF"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/mQbhZsee/Cobblepedia-fabric-0.4.4%2B1.19.2.jar",
+					"version": "mQbhZsee"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/a0LB7ORV/Cobblepedia-forge-0.4.3%2B1.19.2.jar",
+					"version": "a0LB7ORV"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/h9g9qVJW/Cobblepedia-fabric-0.4.3%2B1.19.2.jar",
+					"version": "h9g9qVJW"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/ECp6vktD/Cobblepedia-forge-0.4.2%2B1.19.2.jar",
+					"version": "ECp6vktD"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/28zLWAmc/Cobblepedia-fabric-0.4.2%2B1.19.2.jar",
+					"version": "28zLWAmc"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/a94ayyQG/Cobblepedia-forge-0.4.1%2B1.19.2.jar",
+					"version": "a94ayyQG"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/kEE0HqZz/Cobblepedia-fabric-0.4.1%2B1.19.2.jar",
+					"version": "kEE0HqZz"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/BZVd7WPz/Cobblepedia-forge-0.4.0%2B1.19.2.jar",
+					"version": "BZVd7WPz"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/ig5HxvHe/Cobblepedia-fabric-0.4.0%2B1.19.2.jar",
+					"version": "ig5HxvHe"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/LZeAkeNn/Cobblepedia-forge-0.3.1%2B1.19.2.jar",
+					"version": "LZeAkeNn"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/cdGcPD3y/Cobblepedia-fabric-0.3.1%2B1.19.2.jar",
+					"version": "cdGcPD3y"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/A4J6CjOa/Cobblepedia-forge-0.3.0%2B1.19.2.jar",
+					"version": "A4J6CjOa"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/BfnQuqNH/Cobblepedia-fabric-0.3.0%2B1.19.2.jar",
+					"version": "BfnQuqNH"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/Nepld7su/Cobblepedia-forge-0.2.2%2B1.19.2.jar",
+					"version": "Nepld7su"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/pHzd5Yj3/Cobblepedia-fabric-0.2.2%2B1.19.2.jar",
+					"version": "pHzd5Yj3"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"patchouli"
+						],
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/NjRy3cN8/Cobblepedia-forge-0.2.1%2B1.19.2.jar",
+					"version": "NjRy3cN8"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/1sKgcgKr/Cobblepedia-fabric-0.2.1.jar",
+					"version": "1sKgcgKr"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/yxP8WYY2/Cobblepedia-0.2.0.jar",
+					"version": "yxP8WYY2"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"VinnyStalck"
+		],
+		"banner": "https://cdn.modrinth.com/data/2obPz7jf/images/751ce0dd2b40960f01c8706dc1c048e49fdfac67.png",
+		"description": "An in-game Poképedia wiki book for Cobblemon using Patchouli.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/2obPz7jf/images/1214c4ffb40231abdf2ad1f2b84b4fceab29902a.png",
+			"https://cdn.modrinth.com/data/2obPz7jf/images/751ce0dd2b40960f01c8706dc1c048e49fdfac67.png",
+			"https://cdn.modrinth.com/data/2obPz7jf/images/f1bb5e096a9126c947ad378e8b464193615a3ea8.png",
+			"https://cdn.modrinth.com/data/2obPz7jf/images/22c30339b207d4af9f12b6f61489d5ace1de85cb.png",
+			"https://cdn.modrinth.com/data/2obPz7jf/images/67879afe3abef2f8eefa63713fb4b1d4aa669306.png",
+			"https://cdn.modrinth.com/data/2obPz7jf/images/b3a01552cc3e319498e4cb633fe52b797c9bd44d.png",
+			"https://cdn.modrinth.com/data/2obPz7jf/images/d202547a045654edc1d44a2cc37261a5a6b7b125.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/2obPz7jf/1066188d8ba4f1a108a1963d24e24c5d7aeb42da.png",
+		"issues": "https://gitlab.com/VinnyStalck/knowlogy/-/issues",
+		"license": "GPL-3.0-only",
+		"long_description": "# Cobblepedia\n\nAn in-game Poképedia wiki book item for [Cobblemon](https://gitlab.com/cable-mc/cobblemon/) using [Patchouli](https://github.com/VazkiiMods/Patchouli/) that shows information from the [official cobblemon wiki](https://wiki.cobblemon.com/index.php/Main_Page) and tracks advancements added by Cobblemon.\n\n## Features:\n\n- Custom UI textures that fits with Cobblemon's aesthetics ([see gallery](https://modrinth.com/mod/cobblepedia/gallery))\n- Advancements\n- Crafting Recipes\n- Basic Tutorial\n\n## How to get the Poképedia:\n\n- Received by completing the \"Choosing a Starter Pokémon\" advancement;\n- Crafted with a book and any apricorn;\n- In creative mode (Found on the Tools and Utilities creative tab);\n- or With the command: `/give @s patchouli:guide_book{\"patchouli:book\": \"cobblepedia:cobblepedia\"}`.\n\n\n<details>\n<summary>Mod Requirements</summary>\n\n### *Patchouli* \n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/patchouli) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/patchouli)[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/requires/fabric-api_vector.svg)](https://curseforge.com/minecraft/mc-mods/patchouli-fabric)\n\nHas the functionality to add the Poképedia to the game.\n\n### *Cobblemon*\n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/cobblemon) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/cobblemon)\n\nAdds the content explained by the book. \n\n</details>\n\n<details>\n<summary>Recommendations</summary>\n\n### *Cobblemon Interface* Resourcepack\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/resourcepack/cobblemon-interface) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/texture-packs/cobblemon-interface)\n\nChanges the minecraft interface to fit better with cobblemon's UI.\n\n### *PatchouliButton* Mod\n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/patchoulibutton) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/patchoulibutton)\n\nAdds a button to the inventory that lists the Poképedia.\nYou can change it's config to go directly to the cobblemon book (useful to modpack makers).\n\n</details>\n\n## Localization\n\nThe mod has translation files for the following languages:\n\n- **Brazilian Portuguese** (pt_br), by me;\n- **Chinese** (zh_cn), by `@x1759603258` on Gitlab;\n- **Italian** (it_it), by `@mik_profilo_di` on Discord;\n- **Spanish** (es_es), by `@lavinytuttini` on Discord;\n\n*Obs: Some of these translations are outdated and/or incomplete.*\n\n## Other:\nTexture based on [Torrezx-Improved Library](https://www.curseforge.com/minecraft/texture-packs/torrezx-improved-library) resourcepack books and inspired by the books in [Legends of Arceus trailer](https://youtu.be/SbIA8FKhwl0) intro books\n\n[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/social/discord-singular_vector.svg)](https://discord.com/channels/934267676354834442/1091579923396820992) on the [Official Cobblemon Discord Server](https://discord.gg/cobblemon)\n\n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/cobblepedia)\n[![Ko-fi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular_vector.svg)](https://ko-fi.com/M4M5K4BDR)",
+		"name": "Cobblepedia",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://gitlab.com/VinnyStalck/knowlogy",
+		"support_link": "https://ko-fi.com/stalck"
+	},
+	"properties": {
+		"modrinth_id": "2obPz7jf",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.20.1"
+		]
+	}
+}

@@ -1,0 +1,1101 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/Hafq3c5d/snowyspirit-1.19.2-2.2.2.jar",
+					"version": "Hafq3c5d"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/mzS7NY06/snowyspirit-1.19.2-2.2.2-fabric.jar",
+					"version": "mzS7NY06"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/7ceNjqvF/snowyspirit-1.20.4-2.3.4-fabric.jar",
+					"version": "7ceNjqvF"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/oFLSOtKt/snowyspirit-1.20.4-2.3.4.jar",
+					"version": "oFLSOtKt"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/4PwNOhcG/snowyspirit-1.20.4-2.3.2.jar",
+					"version": "4PwNOhcG"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/VItD3Q0A/snowyspirit-1.20-3.0.6-fabric.jar",
+					"version": "VItD3Q0A"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/CguFJ6tp/snowyspirit-1.20-3.0.6.jar",
+					"version": "CguFJ6tp"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/oYfJMF2m/snowyspirit-1.20-3.0.5-fabric.jar",
+					"version": "oYfJMF2m"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/jn8841Co/snowyspirit-1.20-3.0.5.jar",
+					"version": "jn8841Co"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/Jy76F2z5/snowyspirit-1.20-3.0.4-fabric.jar",
+					"version": "Jy76F2z5"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/2qnDVH99/snowyspirit-1.20-3.0.4.jar",
+					"version": "2qnDVH99"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/57gIh6BF/snowyspirit-1.20-3.0.3-fabric.jar",
+					"version": "57gIh6BF"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/Gpg267rb/snowyspirit-1.20-3.0.3.jar",
+					"version": "Gpg267rb"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/EptG6SjX/snowyspirit-1.19.2-2.2.0-fabric.jar",
+					"version": "EptG6SjX"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/7uWInQN9/snowyspirit-1.19.2-2.2.0.jar",
+					"version": "7uWInQN9"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/PRP4FXVR/snowyspirit-1.20-3.0.0-fabric.jar",
+					"version": "PRP4FXVR"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/Njp7DwqO/snowyspirit-1.20-3.0.0.jar",
+					"version": "Njp7DwqO"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/Dfk1U496/snowyspirit-1.20.4-2.3.1-fabric.jar",
+					"version": "Dfk1U496"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/rSPL9ybS/snowyspirit-1.20.4-2.3.1.jar",
+					"version": "rSPL9ybS"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/gUMscGnY/snowyspirit-1.20.4-2.3.0-fabric.jar",
+					"version": "gUMscGnY"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/4CdlneFW/snowyspirit-1.20.4-2.3.0.jar",
+					"version": "4CdlneFW"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/5EBfzxfW/snowyspirit-1.20-2.2.6-fabric.jar",
+					"version": "5EBfzxfW"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/ZCy3RVJe/snowyspirit-1.20-2.2.6.jar",
+					"version": "ZCy3RVJe"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/d8zsCtRl/snowyspirit-1.20-2.2.5-fabric.jar",
+					"version": "d8zsCtRl"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/ATl3B8Hf/snowyspirit-1.20-2.2.5.jar",
+					"version": "ATl3B8Hf"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/W4diY5j4/snowyspirit-1.19.2-2.1.13-fabric.jar",
+					"version": "W4diY5j4"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/BBVMNOdb/snowyspirit-1.19.2-2.1.13.jar",
+					"version": "BBVMNOdb"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/eT5mTAw9/snowyspirit-1.19.2-2.1.12-fabric.jar",
+					"version": "eT5mTAw9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/QXY2J4JD/snowyspirit-1.19.2-2.1.12.jar",
+					"version": "QXY2J4JD"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/92h9vZlv/snowyspirit-1.20-2.2.4.jar",
+					"version": "92h9vZlv"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/4I3zHqZu/snowyspirit-1.19.2-2.1.11-fabric.jar",
+					"version": "4I3zHqZu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/vw417w6k/snowyspirit-1.19.2-2.1.11.jar",
+					"version": "vw417w6k"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/3vR7InB6/snowyspirit-1.20-2.2.3-fabric.jar",
+					"version": "3vR7InB6"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/VvDS65Ct/snowyspirit-1.20-2.2.3.jar",
+					"version": "VvDS65Ct"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/NPNhEvEc/snowyspirit-1.20-2.2.2-fabric.jar",
+					"version": "NPNhEvEc"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/nZQGdEtB/snowyspirit-1.20-2.2.1-fabric.jar",
+					"version": "nZQGdEtB"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/u8fnCrxv/snowyspirit-1.20-2.2.1.jar",
+					"version": "u8fnCrxv"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/Zf1L57NG/snowyspirit-1.20-2.2.0-fabric.jar",
+					"version": "Zf1L57NG"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/ebbop84g/snowyspirit-1.20-2.2.0.jar",
+					"version": "ebbop84g"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/4YXylYGD/snowyspirit-1.19.4-2.1.11-fabric.jar",
+					"version": "4YXylYGD"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/iTQh6cTS/snowyspirit-1.19.4-2.1.11.jar",
+					"version": "iTQh6cTS"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/5T3tzDb0/snowyspirit-1.19.2-2.1.10-fabric.jar",
+					"version": "5T3tzDb0"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/o9ykjEvr/snowyspirit-1.19.2-2.1.10.jar",
+					"version": "o9ykjEvr"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/XPjg0cnv/snowyspirit-1.19.2-2.1.9.jar",
+					"version": "XPjg0cnv"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/WRi9p0zV/snowyspirit-1.19.2-2.1.8.jar",
+					"version": "WRi9p0zV"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/BXcyuAot/snowyspirit-1.19.2-2.1.7-fabric.jar",
+					"version": "BXcyuAot"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/oG9BBgoN/snowyspirit-1.19.2-2.1.6-fabric.jar",
+					"version": "oG9BBgoN"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/nfYDd0SY/snowyspirit-1.19.2-2.1.6.jar",
+					"version": "nfYDd0SY"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/zJwUMZQT/snowyspirit-1.19.2-2.1.5-fabric.jar",
+					"version": "zJwUMZQT"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/PxQmMCs9/snowyspirit-1.19.2-2.1.5.jar",
+					"version": "PxQmMCs9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/5ix4mW8L/snowyspirit-1.19.2-2.1.4-fabric.jar",
+					"version": "5ix4mW8L"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/l2BV7CUJ/snowyspirit-1.19.2-2.1.4.jar",
+					"version": "l2BV7CUJ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/BXqvomYH/snowyspirit-1.19.2-2.1.2-fabric.jar",
+					"version": "BXqvomYH"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/xuGIoiAH/snowyspirit-1.19.2-2.1.1-fabric.jar",
+					"version": "xuGIoiAH"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/p3BnJEz2/snowyspirit-1.19.2-2.1.1.jar",
+					"version": "p3BnJEz2"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/3WHbjrr6/snowyspirit-1.19.2-2.1.0.jar",
+					"version": "3WHbjrr6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/SUjQ4Dnl/snowyspirit-1.19.2-2.0.14.jar",
+					"version": "SUjQ4Dnl"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/NnWt1vGe/snowyspirit-1.19.2-2.0.14-fabric.jar",
+					"version": "NnWt1vGe"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/IQyI5HCE/snowyspirit-1.19.2-2.0.13-fabric.jar",
+					"version": "IQyI5HCE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/JFhmpf8E/snowyspirit-1.19.2-2.0.13.jar",
+					"version": "JFhmpf8E"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/3B9jZDgx/snowyspirit-1.19.2-2.0.12-fabric.jar",
+					"version": "3B9jZDgx"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/3WKpcwqF/snowyspirit-1.19.2-2.0.12.jar",
+					"version": "3WKpcwqF"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/GJpv9PDI/snowyspirit-1.19.2-2.0.11-fabric.jar",
+					"version": "GJpv9PDI"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/7397hx8C/snowyspirit-1.19.2-2.0.11.jar",
+					"version": "7397hx8C"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/yqKGGB7K/snowyspirit-1.19.2-2.0.10-fabric.jar",
+					"version": "yqKGGB7K"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/dQ0e0GTk/snowyspirit-1.19.2-2.0.10.jar",
+					"version": "dQ0e0GTk"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/8oB4BHER/snowyspirit-1.19.2-2.0.9.jar",
+					"version": "8oB4BHER"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/agjusHVG/snowyspirit-1.19.2-2.0.8-fabric.jar",
+					"version": "agjusHVG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/6ntLblkE/snowyspirit-1.19.2-2.0.8.jar",
+					"version": "6ntLblkE"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/N4u35BUW/snowyspirit-1.19.2-2.0.7-fabric.jar",
+					"version": "N4u35BUW"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/t8GDqLXS/snowyspirit-1.19.2-2.0.7.jar",
+					"version": "t8GDqLXS"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/5GgOmjno/snowyspirit-1.19.2-2.0.6.jar",
+					"version": "5GgOmjno"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/y0DX07R1/snowyspirit-1.19.2-2.0.6-fabric.jar",
+					"version": "y0DX07R1"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/uDDA9WM8/snowyspirit-1.19.2-2.0.5-fabric.jar",
+					"version": "uDDA9WM8"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/EaTm9Bfy/snowyspirit-1.19.2-2.0.4-fabric.jar",
+					"version": "EaTm9Bfy"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/XRbN2VEG/snowyspirit-1.19.2-2.0.4.jar",
+					"version": "XRbN2VEG"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/UJMx47Qx/snowyspirit-1.19.2-2.0.2.jar",
+					"version": "UJMx47Qx"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/h3z91mWl/snowyspirit-1.19.2-2.0.2-fabric.jar",
+					"version": "h3z91mWl"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/4hcjqmyJ/snowyspirit-1.19.2-2.0.1.jar",
+					"version": "4hcjqmyJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/swDl8eB6/snowyspirit-1.19.2-2.0.1.jar",
+					"version": "swDl8eB6"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/y8zFduzs/snowyspirit-1.19.2-2.0.0.jar",
+					"version": "y8zFduzs"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/wcpwkbz2/snowyspirit-1.19.2-2.0.0.jar",
+					"version": "wcpwkbz2"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/SUn8VEjD/snowyspirit-1.19-1.3.2.jar",
+					"version": "SUn8VEjD"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/xVGHuOSz/snowyspirit-1.18.2-1.3.2.jar",
+					"version": "xVGHuOSz"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/QIIIqI8b/snowyspirit-1.18.2-1.3.1.jar",
+					"version": "QIIIqI8b"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/en0o7UG7/snowyspirit-1.18.2-1.3.0.jar",
+					"version": "en0o7UG7"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/1SPuX4w2/snowyspirit-1.18.2-1.2.2.jar",
+					"version": "1SPuX4w2"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/DC9StqTc/snowyspirit-1.18.2-1.2.1.jar",
+					"version": "DC9StqTc"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/Bk6OM6OW/snowyspirit-1.18.2-1.2.0.jar",
+					"version": "Bk6OM6OW"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/SntgLYbR/snowyspirit-1.18-1.1.0.jar",
+					"version": "SntgLYbR"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/JOepOnZp/snowyspirit-1.18-1.0.10.jar",
+					"version": "JOepOnZp"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/iF3yikvg/snowyspirit-1.18-1.0.9.jar",
+					"version": "iF3yikvg"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/760nGm27/snowyspirit-1.18-1.0.8.jar",
+					"version": "760nGm27"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/NsXd8rim/snowyspirit-1.18-1.0.7.jar",
+					"version": "NsXd8rim"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/PzHcwCbd/snowyspirit-1.18-1.0.6.jar",
+					"version": "PzHcwCbd"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/r8zAJNXA/snowyspirit-1.18-1.0.5.jar",
+					"version": "r8zAJNXA"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/rsXoKTn8/snowyspirit-1.18-1.0.4.jar",
+					"version": "rsXoKTn8"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/5T41W4gk/snowyspirit-1.18-1.0.3.jar",
+					"version": "5T41W4gk"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/JN1fVz3i/snowyspirit-1.18-1.0.2.jar",
+					"version": "JN1fVz3i"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/C1IwCMZi/snowyspirit-1.18-1.0.1.jar",
+					"version": "C1IwCMZi"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/pTWPDpCD/snowyspirit-1.18-1.0.0.jar",
+					"version": "pTWPDpCD"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/Ylwzu9Gx/snowyspirit-1.18-0.0.3.jar",
+					"version": "Ylwzu9Gx"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/UiFDlI7w/versions/DvuLtHIF/snowyspirit-1.18-0.0.1.jar",
+					"version": "DvuLtHIF"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"MehVahdJukaar",
+			"Plantkillable"
+		],
+		"banner": "https://cdn.modrinth.com/data/UiFDlI7w/images/1043894b9a9e6d93c83d250614e76ee632cf4e1a.png",
+		"description": "Sleds, winter/ christmas themed blocks and villagers ai",
+		"gallery": [
+			"https://cdn.modrinth.com/data/UiFDlI7w/images/0d7bf277f113b1c806b22ac211bb208bb20e90d7.png",
+			"https://cdn.modrinth.com/data/UiFDlI7w/images/1043894b9a9e6d93c83d250614e76ee632cf4e1a.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/UiFDlI7w/4b1f000c26e957e435ce7d7298f10956b6556a85.jpeg",
+		"issues": "https://github.com/MehVahdJukaar/Christmas/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "<img src=\"https://i.imgur.com/jOQL2ro.png\" alt=\"\" width=\"900\" height=\"657\">\n<center>\n<a href=\"https://discord.gg/qdKRTDf8Cv\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/790151253144895508?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Discord&\" alt=\"Supplementaries Discord\"></a> <a href=\"https://patreon.com/mehvahdjukaar\" rel=\"nofollow\"><img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=mehvahdjukaar&type=patrons&style=for-the-badge&label=&color=2d2d2d&labelColor=dddddd&\" alt=\"Support me on Patreon\"></a> <a href=\"https://www.twitter.com/Supplementariez\" rel=\"nofollow\"> <img src=\"https://img.shields.io/twitter/follow/Supplementariez?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Twitter&message=Twitter&\" alt=\"Supplementaries Twitter\"></a> <a href=\"https://www.youtube.com/channel/UCOaLLgwzOdbH6rCI7izCptw\" rel=\"nofollow\"> <img src=\"https://img.shields.io/youtube/channel/subscribers/UCOaLLgwzOdbH6rCI7izCptw?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Youtube&message=Twitter&logoColor=ff0000\" alt=\"Supplementaries Twitter\"></a>\n\n## 📖About📖\n</center>\n\nSnowy Spirit is a Winter themed mod that adds many decorative blocks & featuresl This mod is highly configurable and all its blocks and items can be tweaked or disabled. Its main features are:\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6lPE3bSGgok\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Sleds\n- Sleds are new way to get around Snow. Differently from Boats they curve around the terrain they encounter making them able to smoothly climb up and down slopes.\n- When going downhill they will also accelerate further making ski courses possible.\n- Sleds have improved mobility on Ice and while being able to slide on Snow are still able to steer and you can even bring them to a full stop by rotating the sled by 90 degrees, as you would in real life!\n- Chests can be placed on them to give some inventory space. Also works with Shulker Boxes and Sacks from Supplementaries.\n- You can also attach a tamed Wolf with a Lead to it. When Sleds are pulled by Wolves they will have increase mobility, speed and will be able to climb up with minimal deceleration.\n- Igloos can now spawn with an additional Sled with Chest in front that can contain some sweet winter loot.\n- Sleds can be further customized by placing Carpets on top of them. Doing so will additionally prevent freezing when sledding on top of frigid Powdered Snow.\n\n### Villagers AI\n\n- During winter time villagers will occasionally place down Wreaths on their house doors. They can only place one each and don't worry, they will clean them up when winter is over. Wreath placing can happen during idle time so at around 0 for example.\n- If you have Supplementaries installed villagers will also place down Present blocks containing some cool items. They will only be able to place one Present each and will do so during their meet time (after 9000) around their meeting point.\n- Baby villagers from Taiga and Tundra will throw Snowballs at any entity they see during their play time.\n- \"Winter Time\" is a period of time which can be configured with the provided configs and by default goes from the 20th of December to the 30th of January.\n- If you have Serene Seasons installed you can also make the mod follow its seasons instead.\n\n### Winter themed blocks\n\n- Ginger: a new crop that can be crafted into Gingerbread Blocks, a new decorative block. Wild Ginger can be found in Sparse Jungle biomes.\n- Gumdrops: they come in all colors and can be pushed by entities acting as a mix between a Button and a Pressure Plate that works on all directions.\n- Candy Cane: a sweet looking item, literally. Can be crafted in decorative Candy Cane Blocks.\n- Wreaths: can be placed on doors to bring some Christmasy joy to your house. Works with all modded doors as well.\n- Glow Lights: an item that can be placed on any Leaves to give it some glow in the dark action. Can be removed with Shears or broken.\n- Snow Globe: a block that will change to its snowy state when placed in places where it can snow.\n- New music disc: a new winter themed music disc has been added and can be rarely found in Presents and Igloo Sled Chests.\n\n> This project was made during WinterJam 2021\n<center>\n\n## ❤️Support Me❤️\n</center>\n\n<p><span style=\"font-size:18px\">Modding is taking a lot of my time, so if you like what I do, and you would like to support me, you can do so here. If you do, you'll receive a custom Globe and or Statue just for you! This also applies if you purchase a server from Akliz using \"supplementaries\" code.</span></p>\n<center>\n\n<p>&nbsp;<a href=\"https://ko-fi.com/mehvahdjukaar\" rel=\"nofollow\"><br><img src=\"https://i.imgur.com/sroRu1I.png\" alt=\"Ko-Fi\" width=\"346\" height=\"68\"></a></p>\n</center>\n<div style=\"text-align:left\"><br><span style=\"font-size:18px\">Need a server? Check out Akliz, they have top brand servers just for modded minecraft.</span></div>\n<div style=\"text-align:left\"><span style=\"font-size:18px\">They really have a cozy community with great support and the servers wonderfully<br>Use code \"supplementaries\" to get 20% off and also support me in the process!</span><br></div>\n\n<center>\n<br>\n<a href=\"https://www.akliz.net/supplementaries\" rel=\"nofollow\"><img src=\"https://i.imgur.com/g5B76A8.png\" alt=\"Get 20% off the first month using code: Supplementaries\" width=\"640\" height=\"150\"></a></div>\n</center>\n\n<center>\n\n## 🦉 Our Mods🦉\n<p style=\"text-align:center\"><span style=\"font-family:helvetica, arial, sans-serif\"><span style=\"font-size:18px\"> \n<a href=\"https://www.modrinth.com/mod/haunted-harvest\" rel=\"nofollow\"><img src=\"https://i.imgur.com/t1mYf6a.gif\" alt=\"Haunted Harvest\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/snowy-spirit\" rel=\"nofollow\"><img src=\"https://i.imgur.com/f1NuS3t.png\" alt=\"Snowy Spirit\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/labels\" rel=\"nofollow\"><img src=\"https://i.imgur.com/OO7HTbn.png\" alt=\"Storage Labels\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/goated\" rel=\"nofollow\"><img src=\"https://i.imgur.com/rRcgB1P.png\" alt=\"Goated\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mystical-oak-tree\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Gys7BpM.gif\" alt=\"Mysyical Oak Tree\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/carpeted-stairs\" rel=\"nofollow\"><img src=\"https://i.imgur.com/KiuA6oe.png\" alt=\"Carpeted Stairs\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mmmmmmmmmmmm\" rel=\"nofollow\"><img src=\"https://i.imgur.com/eWNxaRZ.png\" alt=\"MmmMmmMmmMmm\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/moyai\" rel=\"nofollow\"><img src=\"https://i.imgur.com/G44hniG.png\" alt=\"Moyai\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/just-enough-effect-descriptions-jeed\" rel=\"nofollow\"><img src=\"https://i.imgur.com/vUw51oj.png\" alt=\"Jeed\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/better-lily-pads\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Bp2FNeY.png\" alt=\"Better Lily Pads\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/advancement-frames\" rel=\"nofollow\"><img src=\"https://i.imgur.com/9trFDsF.png\" alt=\"Advancement Frames\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/randomium-ore\" rel=\"nofollow\"><img src=\"https://i.imgur.com/0RGkl5V.png\" alt=\"Randomium\" width=\"125\" height=\"125\"> </a></span></span></p>\n</center>",
+		"name": "Snowy Spirit",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/MehVahdJukaar/Christmas"
+	},
+	"properties": {
+		"modrinth_id": "UiFDlI7w",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}

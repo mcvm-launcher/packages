@@ -1,0 +1,103 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8FdYDHF5/versions/ocD9XA8D/autotag-2.0.2%2B1.20.jar",
+					"version": "ocD9XA8D"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8FdYDHF5/versions/cC57ynct/autotag-2.0.2%2B1.19.4.jar",
+					"version": "cC57ynct"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8FdYDHF5/versions/sXJE2Hnq/autotag-2.0.2%2B1.19.3.jar",
+					"version": "sXJE2Hnq"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8FdYDHF5/versions/VoyNngbb/autotag-2.0.0%2B1.19.jar",
+					"version": "VoyNngbb"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8FdYDHF5/versions/1.1.0/AutoTag-1.18.2-1.1.0.jar",
+					"version": "50kM3UvN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8FdYDHF5/versions/1.0.1/AutoTag-1.18.2-1.0.1.jar",
+					"version": "iLNm8Z6p"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8FdYDHF5/versions/1.0.0/AutoTag-1.18.2-1.0.0.jar",
+					"version": "zTLVD3Ir"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Apace",
+			"will_bl"
+		],
+		"description": "Automatically populates some item, block and other tags (for mod compatibility)",
+		"documentation": "https://github.com/apace100/autotag/blob/1.18/README.md",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/8FdYDHF5/icon.png",
+		"issues": "https://github.com/apace100/autotag/issues",
+		"license": "MIT",
+		"long_description": "This is a purely technical mod with the aim to increase inter-mod compatibility. By \"purely technical\" I mean that it won't add any content to your game.\n\n### The Problem\n\nMod creators are encouraged to use tags where possible, e.g. when creating a recipe. If mods are supposed to work together though, they should all share a same base of common \"conventional\" tags, which group certain items together. Not all developers add their items to common tags though, which means that a person playing with many mods or a mod pack creator might need to create long lists of all items which fulfill certain criteria to add them to specific tags.\n\n### The Solution\n\nUpon loading a world, this mod will automatically populate some tags based on code conditions, covering all modded content as well.\n\nIt's mostly relevant for mod pack creators who need / want to configure mods by adding to specific tags - this allows them to e.g. easily add all armor items to a tag, because they'll all be bundled in `c:armor`.\n\nAs another example, all items which are equippable in the head slot will land in a tag called `c:head_equippables`:\n\n![Screenshot of the `c:head_equippables` tag](https://i.imgur.com/2E36FZS.png)\n \n\n### Additional Information\n\nFor an overview of the tags the mod currently adds, as well as the blacklist option via datapacks, [view the README on GitHub](https://github.com/apace100/autotag/blob/1.18/README.md).\n\nIf you have any suggestions for new tags, feel free to post them in the comments or [open an issue on GitHub](https://github.com/apace100/autotag/issues)!\n\n\n\nI hope this mod helps someone and makes their life a bit easier. :)\n\n----\n\nThe mod icon is a composition of modified icons created by Lorc and Delapouite, found on game-icons.net.",
+		"name": "AutoTag",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/apace100/autotag"
+	},
+	"properties": {
+		"modrinth_id": "8FdYDHF5",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1"
+		]
+	}
+}

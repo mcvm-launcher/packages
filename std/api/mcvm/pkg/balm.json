@@ -7,6 +7,30 @@
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
 					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/JyUWCsbN/balm-neoforge-1.21-21.0.10-all.jar",
+					"version": "JyUWCsbN"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/mzFmDC1Y/balm-forge-1.21-21.0.10-all.jar",
+					"version": "mzFmDC1Y"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/yWclRdjf/balm-fabric-1.21-21.0.10.jar",
+					"version": "yWclRdjf"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/rGJbXEKn/balm-neoforge-1.21-21.0.9-all.jar",
 					"version": "rGJbXEKn"
 				},

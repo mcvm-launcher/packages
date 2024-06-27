@@ -30,6 +30,36 @@
 						]
 					},
 					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/Tw6VYjjI/ViaFabric-0.4.14%2B74-main.jar",
+					"version": "Tw6VYjjI"
+				},
+				{
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2",
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "fabriclike-api"
+							},
+							{
+								"value": "legacy-fabric-api"
+							}
+						]
+					},
+					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/8w3rJlCB/ViaFabric-0.4.14%2B73-main.jar",
 					"version": "8w3rJlCB"
 				},

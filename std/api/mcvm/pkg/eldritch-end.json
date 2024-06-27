@@ -1,0 +1,172 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"azurelib",
+							"necromicon-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nBaXIQY9/versions/Xx5Bo3G8/Eldritch_End-FABRIC-MC1.20.1-0.2.31.jar",
+					"version": "Xx5Bo3G8"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"azurelib",
+							"forgified-fabric-api",
+							"necromicon-api",
+							"sinytra-connector",
+							"sinytra-connector-extras"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nBaXIQY9/versions/Ua1jQ8xb/Eldritch_End-FORGE-MC1.20.1-0.2.31.jar",
+					"version": "Ua1jQ8xb"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"azurelib",
+							"forgified-fabric-api",
+							"necromicon-api",
+							"sinytra-connector",
+							"sinytra-connector-extras"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nBaXIQY9/versions/vXVJC8l4/Eldritch_End-FORGE-MC1.20.1-0.2.30.jar",
+					"version": "vXVJC8l4"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"azurelib",
+							"necromicon-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nBaXIQY9/versions/hjijvYrR/Eldritch_End-FABRIC-MC1.20.1-0.2.30.jar",
+					"version": "hjijvYrR"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"azurelib",
+							"necromicon-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nBaXIQY9/versions/sIIGq8oW/Eldritch_End-FABRIC-MC1.20.1-0.2.20.jar",
+					"version": "sIIGq8oW"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"azurelib",
+							"forgified-fabric-api",
+							"necromicon-api",
+							"sinytra-connector",
+							"sinytra-connector-extras"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nBaXIQY9/versions/wPFjIqNO/Eldritch_End-FORGE-MC1.20.1-0.2.20.jar",
+					"version": "wPFjIqNO"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"azurelib",
+							"necromicon-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nBaXIQY9/versions/Wh8wEvni/Eldritch_End-FABRIC-MC1.20.1-0.2.12.jar",
+					"version": "Wh8wEvni"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"azurelib",
+							"forgified-fabric-api",
+							"necromicon-api",
+							"sinytra-connector",
+							"sinytra-connector-extras"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nBaXIQY9/versions/DOsTSD8F/Eldritch_End-FORGE-MC1.20.1-0.2.12.jar",
+					"version": "DOsTSD8F"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"ElocinDev",
+			"LunaPixelStudios"
+		],
+		"banner": "https://cdn.modrinth.com/data/nBaXIQY9/images/d733e17a8eca9bfeb54aa1b884ca7582ac8ddd6b.png",
+		"description": "Descend into madness with new end biomes, forbidden magic, and more.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/nBaXIQY9/images/d733e17a8eca9bfeb54aa1b884ca7582ac8ddd6b.png",
+			"https://cdn.modrinth.com/data/nBaXIQY9/images/89acfd60661d47892b06dd5776d72372bf4ceb93.png",
+			"https://cdn.modrinth.com/data/nBaXIQY9/images/0ba37356cb840efe1299d3eacc7db2c5c9b4653b.png",
+			"https://cdn.modrinth.com/data/nBaXIQY9/images/17ce7aec4c5c299e240959b22c9d20e1deef817a.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/nBaXIQY9/9b299f9884a0572ee65e0164b44351c4d56ad89c.png",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "![EE](https://github.com/nvb-uy/cdn/blob/main/desc/eldritch_end/banner.png?raw=true)\n\n[![Discord](https://img.shields.io/discord/790272037578473512?label=Discord&color=393939&labelColor=8c51b0&style=for-the-badge&logo=discord&logoColor=white)](https://legacy.curseforge.com/linkout?remoteUrl=https%253a%252f%252flunapixel.studio%252fdiscord) ![Fabric and Forge](https://img.shields.io/static/v1?label=1.20.1&message=Fabric%20and%20Forge&color=393939&labelColor=8c51b0&style=for-the-badge&logo=curseforge&logoColor=white) [![Support us and get early access!](https://img.shields.io/static/v1?label=&message=Support%20us%20and%20get%20early%20access!&color=393939&labelColor=8c51b0&style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/ElocinDev)\n\n[![FABRIC REQUIRES](https://img.shields.io/static/v1?label=FABRIC%20REQUIRES&message=Necronomicon%20API%20and%20AzureLib&color=393939&labelColor=347564&style=for-the-badge&logo=curseforge&logoColor=white)](https://legacy.curseforge.com/minecraft/mc-mods/eldritch-end/relations/dependencies) [![FORGE REQUIRES](https://img.shields.io/static/v1?label=FORGE%20REQUIRES&message=Necronomicon%20API,%20AzureLib%20and%20Connector&color=393939&labelColor=347564&style=for-the-badge&logo=curseforge&logoColor=white)](https://legacy.curseforge.com/minecraft/mc-mods/eldritch-end/relations/dependencies)\n\n![Eldritch End Description](https://github.com/nvb-uy/cdn/blob/main/desc/eldritch_end/1.png?raw=true)\n[![supportus](https://github.com/nvb-uy/cdn/blob/main/desc/eldritch_end/2.png?raw=true)](https://ko-fi.com/ElocinDev)\n\n**Eldritch End** is an end expansion mod inspired from **H.P. Lovecraft**'s work. It aims to bring the lovecraftian universe to the end, while being original. Adding new biomes, tons of blocks and items, horrible aberrations to fight, its own corruption mechanic, and more. It is also inspired from the **World of Warcraft's Visions of N'zoth** update.\n\n**The Biomes**\n\nFrom the desolated Hasturian Wastes, to the corrupted Primordial Abyss, delve yourself into eerie and dangerous biomes, but beware of the monsters. Tons of new biomes coming soon!\n\n**Configuration**\n\nEverything is configurable. Adjust the mod to fit your modpack perfectly. We aim to make everything configurable, including every detail. Feel free to request configs for features that aren't yet!\n\nThe current release of this mod is on beta. Early access releases will be available for [Ko-fi supporters](https://ko-fi.com/elocindev), including the first bosses, **Hastur, The King In Yellow** and **The Faceless**.\n",
+		"name": "Eldritch End",
+		"package_maintainers": [
+			"mcvm"
+		]
+	},
+	"properties": {
+		"modrinth_id": "nBaXIQY9",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.20.1"
+		]
+	}
+}

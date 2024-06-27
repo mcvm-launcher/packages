@@ -1,0 +1,104 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VgThuZ4x/versions/1.1.1/piglib-1.1.1%2Bfabric-mc1.18.2.jar",
+					"version": "fhLZmMdP"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VgThuZ4x/versions/iIU7M1T1/piglib-1.2.0%2Bfabric-mc1.20.4.jar",
+					"version": "iIU7M1T1"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VgThuZ4x/versions/e6E3lwab/piglib-1.1.2%2Bfabric-mc1.20.1.jar",
+					"version": "e6E3lwab"
+				},
+				{
+					"minecraft_versions": "1.18",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VgThuZ4x/versions/1.1.0/piglib-1.1.0%2Bfabric-mc1.18.jar",
+					"version": "OX7Q05Xb"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VgThuZ4x/versions/1.0.4/piglib-1.0.4%2Bfabric-mc1.17.jar",
+					"version": "pr3LSqoL"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VgThuZ4x/versions/1.0.3-1.16/piglib-1.0.3%2B1.16.5.jar",
+					"version": "mcYxcxnc"
+				},
+				{
+					"minecraft_versions": "20w49a",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VgThuZ4x/versions/1.0.2-1.17/piglib-1.0.2%2B1.17-snapshot.jar",
+					"version": "ybVS4Jl5"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VgThuZ4x/versions/1.0.2-1.16/piglib-1.0.2%2B1.16.jar",
+					"version": "5RwYln7U"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Shnupbups"
+		],
+		"description": "A mod to help other modders and datapack creators mess with Piglins",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/VgThuZ4x/icon.png",
+		"issues": "https://github.com/Shnupbups/Piglib/issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "\n\nAdds item tags for various Piglin related things that Mojang were too silly to add themselves! Useful for mods which add new items that should interact with Piglins, or for datapack makers.\n\n \n\nTags include:\n\n- piglib:piglin_bartering_items - Items in this tag, when picked up by a Piglin or right clicked with, will result in the Piglin bartering\n\n- piglib:piglin_safe_armor - Items in this tag, when worn in an armor slot, will prevent nearby Piglins from being angered\n\n- piglib:piglin_loved_nuggets - Items in this tag, when picked up by Piglins, will be picked up as a whole stack like gold nuggets rather than one at a time. Piglins will not actively seek out these items. Items in this tag should *not* also be in the vanilla minecraft:piglin_loved tag\n\n \n\nNote that adding items to any of these tags doesn't automatically add them to minecraft:piglin_loved, so if you want Piglins to actively seek out the items when dropped on the ground, you will need to add to that as well.\n\n\nThis can be Jar-in-Jar'd to your Fabric mods! Use JitPack.",
+		"name": "Piglib",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Shnupbups/Piglib"
+	},
+	"properties": {
+		"modrinth_id": "VgThuZ4x",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.4",
+			"20w49a",
+			"1.16.5",
+			"1.17.1",
+			"1.18",
+			"1.18.2",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}

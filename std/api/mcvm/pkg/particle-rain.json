@@ -16,8 +16,8 @@
 						}
 					},
 					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/7AaI3XuM/particle-rain-2.1.0.jar",
-					"version": "7AaI3XuM"
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/W0zsxgKR/particle-rain-2.1.1.jar",
+					"version": "W0zsxgKR"
 				},
 				{
 					"minecraft_versions": [
@@ -111,6 +111,22 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/gvhIPF4q/particle-rain-2.0.2.jar",
 					"version": "gvhIPF4q"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/7AaI3XuM/particle-rain-2.1.0.jar",
+					"version": "7AaI3XuM"
 				},
 				{
 					"minecraft_versions": "1.19.4",

@@ -1,0 +1,2740 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ODGbovbq/MTR-forge-4.0.0-beta-8-hotfix-1%2B1.19.2.jar",
+					"version": "ODGbovbq"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/lzFvoCyI/MTR-forge-4.0.0-beta-8-hotfix-1%2B1.18.2.jar",
+					"version": "lzFvoCyI"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/RQGPaRx0/MTR-forge-4.0.0-beta-8-hotfix-1%2B1.17.1.jar",
+					"version": "RQGPaRx0"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/I1zK7TNH/MTR-forge-4.0.0-beta-8%2B1.20.4.jar",
+					"version": "I1zK7TNH"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/32xj6Zpj/MTR-forge-4.0.0-beta-8%2B1.20.1.jar",
+					"version": "32xj6Zpj"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/5WunUz4K/MTR-forge-4.0.0-beta-8%2B1.19.4.jar",
+					"version": "5WunUz4K"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/yAA3iKZ8/MTR-forge-4.0.0-beta-8%2B1.16.5.jar",
+					"version": "yAA3iKZ8"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/gUMwSYv5/MTR-fabric-4.0.0-beta-8%2B1.20.4.jar",
+					"version": "gUMwSYv5"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/w3nUlPaM/MTR-fabric-4.0.0-beta-8%2B1.20.1.jar",
+					"version": "w3nUlPaM"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/aD3AEiIu/MTR-fabric-4.0.0-beta-8%2B1.19.4.jar",
+					"version": "aD3AEiIu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/j1ImPqSZ/MTR-fabric-4.0.0-beta-8%2B1.19.2.jar",
+					"version": "j1ImPqSZ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/vJxANvdE/MTR-fabric-4.0.0-beta-8%2B1.18.2.jar",
+					"version": "vJxANvdE"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1PyohCDM/MTR-fabric-4.0.0-beta-8%2B1.17.1.jar",
+					"version": "1PyohCDM"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/yrxpm50B/MTR-fabric-4.0.0-beta-8%2B1.16.5.jar",
+					"version": "yrxpm50B"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ALVe5AM1/MTR-forge-4.0.0-beta-8%2B1.19.2.jar",
+					"version": "ALVe5AM1"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/SpH7SPti/MTR-forge-4.0.0-beta-8%2B1.18.2.jar",
+					"version": "SpH7SPti"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/CLJSuZff/MTR-forge-4.0.0-beta-8%2B1.17.1.jar",
+					"version": "CLJSuZff"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/YLvg95i9/MTR-forge-1.20.1-3.2.2-hotfix-2.jar",
+					"version": "YLvg95i9"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/pxJCTx9V/MTR-forge-1.20-3.2.2-hotfix-1.jar",
+					"version": "pxJCTx9V"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ytcma4Og/MTR-fabric-1.20-3.2.2-hotfix-1.jar",
+					"version": "ytcma4Og"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/PP5puu9Z/MTR-forge-1.19.4-3.2.2-hotfix-1.jar",
+					"version": "PP5puu9Z"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/UT2U5yfn/MTR-fabric-1.19.4-3.2.2-hotfix-1.jar",
+					"version": "UT2U5yfn"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/hn0IgH6V/MTR-forge-1.19.3-3.2.2-hotfix-1.jar",
+					"version": "hn0IgH6V"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/hhTms0Ge/MTR-fabric-1.19.3-3.2.2-hotfix-1.jar",
+					"version": "hhTms0Ge"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/vkmzH7aU/MTR-forge-1.19.2-3.2.2-hotfix-1.jar",
+					"version": "vkmzH7aU"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/H0yHV2yE/MTR-fabric-1.19.2-3.2.2-hotfix-1.jar",
+					"version": "H0yHV2yE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/aF2FI7ui/MTR-forge-1.18.2-3.2.2-hotfix-1.jar",
+					"version": "aF2FI7ui"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/KD7TXFaw/MTR-fabric-1.18.2-3.2.2-hotfix-1.jar",
+					"version": "KD7TXFaw"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/bUgsbKUr/MTR-forge-1.17.1-3.2.2-hotfix-1.jar",
+					"version": "bUgsbKUr"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/wT190mxx/MTR-fabric-1.17.1-3.2.2-hotfix-1.jar",
+					"version": "wT190mxx"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/BXjGAhyU/MTR-forge-1.16.5-3.2.2-hotfix-1.jar",
+					"version": "BXjGAhyU"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/YoiezDVD/MTR-fabric-1.16.5-3.2.2-hotfix-1.jar",
+					"version": "YoiezDVD"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ERS3ldhj/MTR-forge-1.19.4-3.2.2.jar",
+					"version": "ERS3ldhj"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/XwJwARn7/MTR-fabric-1.19.4-3.2.2.jar",
+					"version": "XwJwARn7"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/bnslw9iv/MTR-forge-1.19.3-3.2.2.jar",
+					"version": "bnslw9iv"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ofttqvi3/MTR-fabric-1.19.3-3.2.2.jar",
+					"version": "ofttqvi3"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/GYN77JiZ/MTR-forge-1.19.2-3.2.2.jar",
+					"version": "GYN77JiZ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/we5R6iNI/MTR-fabric-1.19.2-3.2.2.jar",
+					"version": "we5R6iNI"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/vSyQaDcN/MTR-forge-1.18.2-3.2.2.jar",
+					"version": "vSyQaDcN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/o29tfbAm/MTR-fabric-1.18.2-3.2.2.jar",
+					"version": "o29tfbAm"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/RGfPhi9T/MTR-forge-1.17.1-3.2.2.jar",
+					"version": "RGfPhi9T"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/MZbID2dw/MTR-fabric-1.17.1-3.2.2.jar",
+					"version": "MZbID2dw"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/CB6cGjSM/MTR-forge-1.16.5-3.2.2.jar",
+					"version": "CB6cGjSM"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ygoSCTMM/MTR-fabric-1.16.5-3.2.2.jar",
+					"version": "ygoSCTMM"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/dEqPwbE7/MTR-forge-1.19.4-3.2.1-hotfix-1.jar",
+					"version": "dEqPwbE7"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/qgoyD9dg/MTR-fabric-1.19.4-3.2.1-hotfix-1.jar",
+					"version": "qgoyD9dg"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/g2bz3OL2/MTR-forge-1.19.3-3.2.1-hotfix-1.jar",
+					"version": "g2bz3OL2"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/mGy3nGza/MTR-fabric-1.19.3-3.2.1-hotfix-1.jar",
+					"version": "mGy3nGza"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/XwIPNsu3/MTR-forge-1.19.2-3.2.1-hotfix-1.jar",
+					"version": "XwIPNsu3"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/oAwcHbON/MTR-fabric-1.19.2-3.2.1-hotfix-1.jar",
+					"version": "oAwcHbON"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/EroiRXuf/MTR-forge-1.18.2-3.2.1-hotfix-1.jar",
+					"version": "EroiRXuf"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/NppwLmit/MTR-fabric-1.18.2-3.2.1-hotfix-1.jar",
+					"version": "NppwLmit"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/M7wJQtii/MTR-forge-1.17.1-3.2.1-hotfix-1.jar",
+					"version": "M7wJQtii"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/5tdy2YIi/MTR-fabric-1.17.1-3.2.1-hotfix-1.jar",
+					"version": "5tdy2YIi"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/iqdHSV6b/MTR-forge-1.16.5-3.2.1-hotfix-1.jar",
+					"version": "iqdHSV6b"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/SiccQbqj/MTR-fabric-1.16.5-3.2.1-hotfix-1.jar",
+					"version": "SiccQbqj"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/HcPhfQGI/MTR-forge-1.19.4-3.2.1.jar",
+					"version": "HcPhfQGI"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/47eSoLzS/MTR-fabric-1.19.4-3.2.1.jar",
+					"version": "47eSoLzS"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/vnGatsMO/MTR-forge-1.19.3-3.2.1.jar",
+					"version": "vnGatsMO"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/VoHfvsh9/MTR-fabric-1.19.3-3.2.1.jar",
+					"version": "VoHfvsh9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/9CMnWkY2/MTR-forge-1.19.2-3.2.1.jar",
+					"version": "9CMnWkY2"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/igcvwkEO/MTR-fabric-1.19.2-3.2.1.jar",
+					"version": "igcvwkEO"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FF1pWPdV/MTR-forge-1.18.2-3.2.1.jar",
+					"version": "FF1pWPdV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/cBcHELsi/MTR-fabric-1.18.2-3.2.1.jar",
+					"version": "cBcHELsi"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/Fth57ewu/MTR-forge-1.17.1-3.2.1.jar",
+					"version": "Fth57ewu"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/lACtSRcd/MTR-fabric-1.17.1-3.2.1.jar",
+					"version": "lACtSRcd"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/LRNYQUPj/MTR-forge-1.16.5-3.2.1.jar",
+					"version": "LRNYQUPj"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "nemos-transit-expansion"
+							},
+							{
+								"value": "station-decoration"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/GWzquVTr/MTR-fabric-1.16.5-3.2.1.jar",
+					"version": "GWzquVTr"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/7Z8CiIfQ/MTR-forge-1.19.3-3.2.0.jar",
+					"version": "7Z8CiIfQ"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/pALedwoY/MTR-fabric-1.19.3-3.2.0.jar",
+					"version": "pALedwoY"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/wpxZbSoi/MTR-forge-1.19.2-3.2.0.jar",
+					"version": "wpxZbSoi"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1ksOJbPs/MTR-fabric-1.19.2-3.2.0.jar",
+					"version": "1ksOJbPs"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/f3GHiP7H/MTR-forge-1.18.2-3.2.0.jar",
+					"version": "f3GHiP7H"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/pskTOUcC/MTR-fabric-1.18.2-3.2.0.jar",
+					"version": "pskTOUcC"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/jhuY99Y8/MTR-forge-1.17.1-3.2.0.jar",
+					"version": "jhuY99Y8"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/Mb4IKvps/MTR-fabric-1.17.1-3.2.0.jar",
+					"version": "Mb4IKvps"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/LwrY1lPv/MTR-forge-1.16.5-3.2.0.jar",
+					"version": "LwrY1lPv"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/UqG1AC8T/MTR-fabric-1.16.5-3.2.0.jar",
+					"version": "UqG1AC8T"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/5D8cNISO/MTR-forge-1.19.3-3.1.13-hotfix-1.jar",
+					"version": "5D8cNISO"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/kb4Ao4Hc/MTR-forge-1.19.3-3.1.13.jar",
+					"version": "kb4Ao4Hc"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/vDlVXBcG/MTR-fabric-1.19.3-3.1.13.jar",
+					"version": "vDlVXBcG"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/E2Ft3wMf/MTR-forge-1.19.2-3.1.13.jar",
+					"version": "E2Ft3wMf"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1gxFyPDc/MTR-fabric-1.19.2-3.1.13.jar",
+					"version": "1gxFyPDc"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FnGRgUG3/MTR-forge-1.18.2-3.1.13.jar",
+					"version": "FnGRgUG3"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ZjG8Vp92/MTR-fabric-1.18.2-3.1.13.jar",
+					"version": "ZjG8Vp92"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/Y2HcdySC/MTR-forge-1.17.1-3.1.13.jar",
+					"version": "Y2HcdySC"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/2feVvJGs/MTR-fabric-1.17.1-3.1.13.jar",
+					"version": "2feVvJGs"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/3J7MbSwH/MTR-forge-1.16.5-3.1.13.jar",
+					"version": "3J7MbSwH"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/qyu9ckyW/MTR-fabric-1.16.5-3.1.13.jar",
+					"version": "qyu9ckyW"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/Ji44KXuy/MTR-forge-1.19.3-3.1.12.jar",
+					"version": "Ji44KXuy"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/r6eRGpY7/MTR-fabric-1.19.3-3.1.12.jar",
+					"version": "r6eRGpY7"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/T0eaq9IM/MTR-forge-1.19.2-3.1.12.jar",
+					"version": "T0eaq9IM"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/s7xkvgpS/MTR-fabric-1.19.2-3.1.12.jar",
+					"version": "s7xkvgpS"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/EQiyrNR3/MTR-forge-1.18.2-3.1.12.jar",
+					"version": "EQiyrNR3"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ydnDAPQM/MTR-fabric-1.18.2-3.1.12.jar",
+					"version": "ydnDAPQM"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FoNh3Kxr/MTR-forge-1.17.1-3.1.12.jar",
+					"version": "FoNh3Kxr"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/lUDPVX9K/MTR-fabric-1.17.1-3.1.12.jar",
+					"version": "lUDPVX9K"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ESGLEtHA/MTR-forge-1.16.5-3.1.12.jar",
+					"version": "ESGLEtHA"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/94blG2Pe/MTR-fabric-1.16.5-3.1.12.jar",
+					"version": "94blG2Pe"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/qM6OZMKT/MTR-forge-1.19.2-3.1.11.jar",
+					"version": "qM6OZMKT"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/rWo9lkME/MTR-fabric-1.19.2-3.1.11.jar",
+					"version": "rWo9lkME"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/zVIfBAOA/MTR-forge-1.18.2-3.1.11.jar",
+					"version": "zVIfBAOA"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/gWDemtZb/MTR-fabric-1.18.2-3.1.11.jar",
+					"version": "gWDemtZb"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/2nkJgYfg/MTR-forge-1.17.1-3.1.11.jar",
+					"version": "2nkJgYfg"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/a2pJ9ND8/MTR-fabric-1.17.1-3.1.11.jar",
+					"version": "a2pJ9ND8"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/WcnD96Og/MTR-forge-1.16.5-3.1.11.jar",
+					"version": "WcnD96Og"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/gOhJbYJ0/MTR-fabric-1.16.5-3.1.11.jar",
+					"version": "gOhJbYJ0"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/rapYMHk9/MTR-forge-1.19.2-3.1.10.jar",
+					"version": "rapYMHk9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/W2soZVLs/MTR-fabric-1.19.2-3.1.10.jar",
+					"version": "W2soZVLs"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/d0SD5Uje/MTR-forge-1.18.2-3.1.10.jar",
+					"version": "d0SD5Uje"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ZDstHxrF/MTR-fabric-1.18.2-3.1.10.jar",
+					"version": "ZDstHxrF"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/n8JbWynR/MTR-forge-1.17.1-3.1.10.jar",
+					"version": "n8JbWynR"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/eRcDN7QC/MTR-fabric-1.17.1-3.1.10.jar",
+					"version": "eRcDN7QC"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/lUrJ4X8W/MTR-forge-1.16.5-3.1.10.jar",
+					"version": "lUrJ4X8W"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/OvY1jtYK/MTR-fabric-1.16.5-3.1.10.jar",
+					"version": "OvY1jtYK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/msvPZxym/MTR-forge-1.19.2-3.1.9.jar",
+					"version": "msvPZxym"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/fsq2nisK/MTR-fabric-1.19.2-3.1.9.jar",
+					"version": "fsq2nisK"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/tlMB3bW1/MTR-forge-1.18.2-3.1.9.jar",
+					"version": "tlMB3bW1"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/h1EBrfex/MTR-fabric-1.18.2-3.1.9.jar",
+					"version": "h1EBrfex"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/EC99Abjx/MTR-forge-1.17.1-3.1.9.jar",
+					"version": "EC99Abjx"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/yA2CIbt9/MTR-fabric-1.17.1-3.1.9.jar",
+					"version": "yA2CIbt9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/zW0gEsU3/MTR-forge-1.16.5-3.1.9.jar",
+					"version": "zW0gEsU3"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/T5QHRDYs/MTR-fabric-1.16.5-3.1.9.jar",
+					"version": "T5QHRDYs"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/CFmBe106/MTR-forge-1.19.2-3.1.8.jar",
+					"version": "CFmBe106"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/24NoMgap/MTR-fabric-1.19.2-3.1.8.jar",
+					"version": "24NoMgap"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/KBhIpGMa/MTR-forge-1.18.2-3.1.8.jar",
+					"version": "KBhIpGMa"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/VEmpBflh/MTR-fabric-1.18.2-3.1.8.jar",
+					"version": "VEmpBflh"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/kmfSSZq6/MTR-forge-1.17.1-3.1.8.jar",
+					"version": "kmfSSZq6"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/DvemClPV/MTR-fabric-1.17.1-3.1.8.jar",
+					"version": "DvemClPV"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/EaZXwFWR/MTR-forge-1.16.5-3.1.8.jar",
+					"version": "EaZXwFWR"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/2c5nqj6O/MTR-fabric-1.16.5-3.1.8.jar",
+					"version": "2c5nqj6O"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/MafhuX8H/MTR-forge-1.19.2-3.1.7.jar",
+					"version": "MafhuX8H"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/TIAIeoFa/MTR-fabric-1.19.2-3.1.7.jar",
+					"version": "TIAIeoFa"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/sU6ReBp5/MTR-forge-1.18.2-3.1.7.jar",
+					"version": "sU6ReBp5"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/xwc5QKlX/MTR-fabric-1.18.2-3.1.7.jar",
+					"version": "xwc5QKlX"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/2dbFviqD/MTR-forge-1.17.1-3.1.7.jar",
+					"version": "2dbFviqD"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/tUXN5wK9/MTR-fabric-1.17.1-3.1.7.jar",
+					"version": "tUXN5wK9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/5FZvOSHb/MTR-forge-1.16.5-3.1.7.jar",
+					"version": "5FZvOSHb"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/hse1r7FA/MTR-fabric-1.16.5-3.1.7.jar",
+					"version": "hse1r7FA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/vnE3YIwj/MTR-forge-1.19.2-3.1.6.jar",
+					"version": "vnE3YIwj"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/KIeCK6Dv/MTR-fabric-1.19.2-3.1.6.jar",
+					"version": "KIeCK6Dv"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/X3CfuIam/MTR-forge-1.18.2-3.1.6.jar",
+					"version": "X3CfuIam"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/xuuFOL4A/MTR-fabric-1.18.2-3.1.6.jar",
+					"version": "xuuFOL4A"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/t4AsJaEc/MTR-forge-1.17.1-3.1.6.jar",
+					"version": "t4AsJaEc"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ofBgTjMM/MTR-fabric-1.17.1-3.1.6.jar",
+					"version": "ofBgTjMM"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/IKeapJgz/MTR-forge-1.16.5-3.1.6.jar",
+					"version": "IKeapJgz"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/pyKkR9Mc/MTR-fabric-1.16.5-3.1.6.jar",
+					"version": "pyKkR9Mc"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/MSeQ65sc/MTR-forge-1.19.2-3.1.5.jar",
+					"version": "MSeQ65sc"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/RBrb3yZB/MTR-fabric-1.19.2-3.1.5.jar",
+					"version": "RBrb3yZB"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/WpW5bOap/MTR-forge-1.18.2-3.1.5.jar",
+					"version": "WpW5bOap"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/uYP11ruu/MTR-fabric-1.18.2-3.1.5.jar",
+					"version": "uYP11ruu"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/EifhAHft/MTR-forge-1.17.1-3.1.5.jar",
+					"version": "EifhAHft"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FLZPRc91/MTR-fabric-1.17.1-3.1.5.jar",
+					"version": "FLZPRc91"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/JWowbFHz/MTR-forge-1.16.5-3.1.5.jar",
+					"version": "JWowbFHz"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/Gb7hsblP/MTR-fabric-1.16.5-3.1.5.jar",
+					"version": "Gb7hsblP"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/6eCcP862/MTR-forge-1.19.2-3.1.4.jar",
+					"version": "6eCcP862"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/nGixJ0te/MTR-fabric-1.19.2-3.1.4.jar",
+					"version": "nGixJ0te"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/gu0CR9y7/MTR-forge-1.18.2-3.1.4.jar",
+					"version": "gu0CR9y7"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/kYVgGc5j/MTR-fabric-1.18.2-3.1.4.jar",
+					"version": "kYVgGc5j"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/SBxv1mCf/MTR-forge-1.17.1-3.1.4.jar",
+					"version": "SBxv1mCf"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/TyObx5OU/MTR-fabric-1.17.1-3.1.4.jar",
+					"version": "TyObx5OU"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/h9BUglpV/MTR-forge-1.16.5-3.1.4.jar",
+					"version": "h9BUglpV"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/Odoj4beZ/MTR-fabric-1.16.5-3.1.4.jar",
+					"version": "Odoj4beZ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/m0i8nfzl/MTR-forge-1.19.2-3.1.3.jar",
+					"version": "m0i8nfzl"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ehAnPfWu/MTR-fabric-1.19.2-3.1.3.jar",
+					"version": "ehAnPfWu"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/WMLDZHwE/MTR-forge-1.18.2-3.1.3.jar",
+					"version": "WMLDZHwE"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/K2c2Bd64/MTR-fabric-1.18.2-3.1.3.jar",
+					"version": "K2c2Bd64"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/YDFOWRdX/MTR-forge-1.17.1-3.1.3.jar",
+					"version": "YDFOWRdX"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/OO1rHHNd/MTR-fabric-1.17.1-3.1.3.jar",
+					"version": "OO1rHHNd"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/AJ0E6SRb/MTR-forge-1.16.5-3.1.3.jar",
+					"version": "AJ0E6SRb"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/v8WxALIw/MTR-fabric-1.16.5-3.1.3.jar",
+					"version": "v8WxALIw"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/rSqhHueW/MTR-forge-1.19.2-3.1.2.jar",
+					"version": "rSqhHueW"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/fiOcoExt/MTR-fabric-1.19.2-3.1.2.jar",
+					"version": "fiOcoExt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/LLzA4TvT/MTR-forge-1.18.2-3.1.2.jar",
+					"version": "LLzA4TvT"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/OFNMubA0/MTR-fabric-1.18.2-3.1.2.jar",
+					"version": "OFNMubA0"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/L5n4JMBt/MTR-forge-1.17.1-3.1.2.jar",
+					"version": "L5n4JMBt"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/h7q3N9eJ/MTR-fabric-1.17.1-3.1.2.jar",
+					"version": "h7q3N9eJ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/PQSlwub9/MTR-forge-1.16.5-3.1.2.jar",
+					"version": "PQSlwub9"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/qZdEoHgr/MTR-fabric-1.16.5-3.1.2.jar",
+					"version": "qZdEoHgr"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/bWa1Yvob/MTR-forge-1.19.2-3.1.1.jar",
+					"version": "bWa1Yvob"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/L0oQC0vD/MTR-forge-1.18.2-3.1.1.jar",
+					"version": "L0oQC0vD"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/WOu9ofvU/MTR-forge-1.17.1-3.1.1.jar",
+					"version": "WOu9ofvU"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/TIGbGLOL/MTR-forge-1.16.5-3.1.1.jar",
+					"version": "TIGbGLOL"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/qGJRvWDS/MTR-fabric-1.19.2-3.1.1.jar",
+					"version": "qGJRvWDS"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/dSB2DqXG/MTR-fabric-1.18.2-3.1.1.jar",
+					"version": "dSB2DqXG"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/iMqIPfxC/MTR-fabric-1.17.1-3.1.1.jar",
+					"version": "iMqIPfxC"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/CLd40M5d/MTR-fabric-1.16.5-3.1.1.jar",
+					"version": "CLd40M5d"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/TI99tWLB/MTR-forge-1.19.2-3.1.0.jar",
+					"version": "TI99tWLB"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/isJFoR5B/MTR-forge-1.18.2-3.1.0.jar",
+					"version": "isJFoR5B"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/PMMSZv7q/MTR-forge-1.17.1-3.1.0.jar",
+					"version": "PMMSZv7q"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1t6av1io/MTR-forge-1.16.5-3.1.0.jar",
+					"version": "1t6av1io"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/WMZOZlNV/MTR-fabric-1.19.2-3.1.0.jar",
+					"version": "WMZOZlNV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/dNMwh2Cy/MTR-fabric-1.18.2-3.1.0.jar",
+					"version": "dNMwh2Cy"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/ginuK9Tq/MTR-fabric-1.17.1-3.1.0.jar",
+					"version": "ginuK9Tq"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/lCLfh2FR/MTR-fabric-1.16.5-3.1.0.jar",
+					"version": "lCLfh2FR"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FORGE-1.19-3.0.1/MTR-forge-1.19-3.0.1.jar",
+					"version": "xtLvdX3T"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FORGE-1.18.2-3.0.1/MTR-forge-1.18.2-3.0.1.jar",
+					"version": "L5PZEkXK"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FORGE-1.17.1-3.0.1/MTR-forge-1.17.1-3.0.1.jar",
+					"version": "t9In4ul6"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FORGE-1.16.5-3.0.1/MTR-forge-1.16.5-3.0.1.jar",
+					"version": "G2jXtL5t"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FABRIC-1.19-3.0.1/MTR-fabric-1.19-3.0.1.jar",
+					"version": "9oyMrMXM"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FABRIC-1.18.2-3.0.1/MTR-fabric-1.18.2-3.0.1.jar",
+					"version": "Pmwg3PiY"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FABRIC-1.17.1-3.0.1/MTR-fabric-1.17.1-3.0.1.jar",
+					"version": "OHOWH6Ec"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FABRIC-1.16.5-3.0.1/MTR-fabric-1.16.5-3.0.1.jar",
+					"version": "hpG9OQxh"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FORGE-1.18.2-3.0.0/MTR-forge-1.18.2-3.0.0.jar",
+					"version": "17MvjJvA"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/fabric-1.16.5-3.0.0/MTR-fabric-1.16.5-3.0.0.jar",
+					"version": "VATlWBrO"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/fabric-1.17.1-3.0.0/MTR-fabric-1.17.1-3.0.0.jar",
+					"version": "n4XQAmEJ"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/fabric-1.18.1-3.0.0/MTR-fabric-1.18-3.0.0.jar",
+					"version": "uuo7aZnN"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1.18.2-3.0.0/MTR-fabric-1.18.2-3.0.0.jar",
+					"version": "7zzkD8Ha"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1.16.5-3.0.0/MTR-forge-1.16.5-3.0.0.jar",
+					"version": "5WXihlRE"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1.17.1-3.0.0/MTR-forge-1.17.1-3.0.0.jar",
+					"version": "GHKOYnsh"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/3.0.0/MTR-forge-1.18-3.0.0.jar",
+					"version": "uyut6H24"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FORGE-1.18-3.0.0-beta-8/MTR-forge-1.18-3.0.0-beta-8.jar",
+					"version": "175zNJxd"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FORGE-1.17.1-3.0.0-beta-8/MTR-forge-1.17.1-3.0.0-beta-8.jar",
+					"version": "47iWhpwR"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/FORGE-1.16.5-3.0.0-beta-8/MTR-forge-1.16.5-3.0.0-beta-8.jar",
+					"version": "xRBg4kfT"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/3.0.0-beta-8/MTR-1.18.1-3.0.0-beta-8.jar",
+					"version": "C2NPfT9x"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1.17.1-3.0.0-beta-8/MTR-1.17.1-3.0.0-beta-8.jar",
+					"version": "bPPtBS7y"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1.16.5-3.0.0-beta-8/MTR-1.16.5-3.0.0-beta-8.jar",
+					"version": "sL3syQNO"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com//data/XKPAmI6u/versions/1.17-3.0.0-beta-8-prerelease-1/MTR-1.17-3.0.0-beta-8-prerelease-1.jar",
+					"version": "2g8YM3fW"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com//data/XKPAmI6u/versions/1.16-3.0.0-beta-8-prerelease-1/MTR-1.16-3.0.0-beta-8-prerelease-1.jar",
+					"version": "XNqBqAbN"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1.17-3.0.0-beta-7/MTR-1.17-3.0.0-beta-7.jar",
+					"version": "yX5bgnBs"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/1.16-3.0.0-beta-7/MTR-1.16-3.0.0-beta-7.jar",
+					"version": "Rl1aak6s"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/MTR-1.16-3.0.0-beta-6/MTR-1.16-3.0.0-beta-6.jar",
+					"version": "zdzuHV1e"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"jonafanho"
+		],
+		"banner": "https://cdn.modrinth.com/data/XKPAmI6u/images/41939ace00903808d63bd69d53323eed7dbc0f9c.jpeg",
+		"community": "https://discord.gg/PVZ2nfUaTW",
+		"description": "Build your own transport network with automated trains, boats, cable cars, and planes!",
+		"documentation": "https://wiki.minecrafttransitrailway.com/",
+		"gallery": [
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/0e745ddcaebaed2331e87bbe6208671488aef7cf.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/152b979b94b3a1e47140821af9c2c3ced6f89d00.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/1650d467e1b0ba920b2c5a140b348c88eec5d14b.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/19aa8063786d0212d800f806ff42167acb8de8ca.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/236a062567928fc065a2b71cd9906ada71d021d1.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/28548ac9850a3c107f651c9d9bfc6a647f976c6e.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/2af216f1812b58451a4c940af17af17017569aba.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/32541a495ea2ca8f54d34b6fb729bb44656e8f7d.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/33d4935ce401631582a7cc919705d31f907e8277.jpeg",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/3fa49511ed753f2a146cde846f7f50aae9ff7609.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/416fa6812631691e445affa5c49f4414e7c130f2.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/41939ace00903808d63bd69d53323eed7dbc0f9c.jpeg",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/4e86ffc0a4bf182e0d447d75eb049c8536b95aa9.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/4f39565c0465a9d84a8059c0ae5c2a2a8ae98a62.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/54573f68b1187ae65a34928a43fb7b4799577489.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/5526c1862d4f4977362039c5a3f012ada311517a.jpeg",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/55590e455269c2cbb10375b1eaf1eac6b3e475b7.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/5601d00bdafbdee8ccf2fd91d286b02fe4f975e6.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/568b78e9fb4a0b168cc50fc2f9f895d4090f8781.jpeg",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/5aac3dda7c6d47d02f5b8c8f3c08829ea16e58c4.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/5eeb7efb6f14acf7c35431eaacf584f9045154d4.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/607d12f03b39dd22dc8b678676909725dfc23480.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/63a37914563f2d07ffcace879b217185b6d4630c.jpeg",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/7209ab8236080cfd5988f7f3834823d8f4fa2388.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/742c03af0e5cfa3a3189678c14942865103a2a59.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/75cc81b68e0d36baa880c4dec5da273cc3259782.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/817460727a3e17b7608d4e3c90c657bd52011368.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/8575e6ddac108f353a7554fb8764d42c5d107be4.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/857819b3d8959d288c310bda97d265e8c33a08fd.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/873fd0c88cec46486a4d4bebbc5c5cf54122e2a5.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/89b84dccbc91ab07aa9c711d4fedb625cfec929a.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/8fe405bfca722ae2a2c9a1851a510964cfec353f.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/9115ff843d1f7e6ca7c13eda54ef94e0d721af5c.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/925f30f598b97dff16b48c7a88026c86612c7306.jpeg",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/96ce49705c469ea11b7d1d13fed3a2f219a46bbb.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/979f686534fb2824097cf6af601b5f5f9bc75980.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/98e1b5427886ab3c65eccf3bd41b111efb4f866d.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/9dc7e24325e4f7f843040f155cc69d389b642403.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/9eee01420601d907acd9a56f4ada4d8170f3bee6.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/a30b60cf3efccf1f0ce64ac70c21f42b2dc4cbeb.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/a8f70f900e7d9a8444fbef076a0eb29fdb374b0f.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/ab3ceb08b9e96c9e5a6849df62797803d8719ab1.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/ac634f82bce2e7d4a7f8c37ec8747b5c0642205e.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/acc8e7605645470f5bf0272017cca41f53339de8.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/b233a4f22135b980323fb3f3051b68b579984da7.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/b480e9cb62376b9dd94b1924299a9f88f1820778.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/b597a77c498027d1788d882e70206b92013c81fe.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/c4c2e7a94c756325bd4451c4d40885337c9ddd55.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/c88bb40f14dfacea3788baa3e4b4fbbe1241a705.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/c9852f984a43ddcc1fb8f05ea20e45e529f1b955.jpeg",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/d1731ca3252e1b546557035d17b141390a5f1067.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/d2dd213055723deee1e52e9ff67e49e5780d9b05.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/e5122eb3cb38e34b6924bef0643d2325fdd24b16.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/e5aaf27fad4f2e3eb515241bb801bc56a0580dde.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/e72eb3f6926effd6d72d7d0901a20dbdcdd66768.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/f4b29c1de15524c76c66eb367af3533e6c2e53fd.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/f5e19b6dde0a0945e2bf7e3afc673867ee205081.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/f61f47c68037b5b678b795bed9f545403e7a481f.png",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/f6de70c1f1f632fa97d410462bf712fc5445b287.jpeg",
+			"https://cdn.modrinth.com/data/XKPAmI6u/images/fd508bbe18e565e74c0592540b12a681429a51b3.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/XKPAmI6u/2944b3b7f98c484f8292bde846889fd972a993b0.png",
+		"issues": "https://github.com/jonafanho/Minecraft-Transit-Railway/issues",
+		"license": "MIT",
+		"long_description": "# Please Read!\n\n_Please read the following and back up your worlds before downloading!_\n\n- [Fabric only] [**Fabric API**](https://modrinth.com/mod/fabric-api) is REQUIRED. Install the latest version of Fabric API (for the corresponding Minecraft version).\n- [Fabric only] [**Mod Menu**](https://modrinth.com/mod/modmenu) is optional but provides an easy way to configure the mod's settings.\n- Please **check all addons** and make sure that they are compatible with the latest Minecraft Transit Railway version! Mismatched addon versions won't work.\n- 在 [MTRBBS](https://www.mtrbbs.top/) 加入论坛发问题、建议、或 bug 反馈！\n- This mod **will not** be updated for any older Minecraft version. The source code is publicly available on GitHub, so you are free to do it yourself.\n\n## Minecraft Transit Railway 4.0.0\n\n_Minecraft Transit Railway_ is a [Minecraft mod](https://minecraft.wiki/w/Mods) that allows you to build your own transport network with automated trains, boats, cable cars, and planes!\n\nVersion 4.0.0 is a complete rewrite from scratch. The vehicle simulation code has been separated from the Minecraft instance, greatly reducing lag on Minecraft servers.\n\n## Major Features in 4.0.0\n\n- Custom train configuration\n- Realistic bogies and train movement\n- Improved signalling\n- Sideways elevators\n- OBJ features ported over from Nemo's Transit Expansion\n- Vehicle swaying effect\n- New online system map and OneBusAway integration\n- Clientside FPS improvements and serverside TPS improvements\n\n[See these features in detail.](https://www.youtube.com/playlist?list=PLp0jZgheSlXuQCXu9UynrKuBnq2Ef_TSI)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/1cZfU7t4cAk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Recommended Addons\n\n- [**MTR London Underground Addon**](https://modrinth.com/mod/the-tube)\n- [**Joban Client Mod**](https://modrinth.com/mod/jcm)\n- [**Station Decoration**](https://modrinth.com/mod/station-decoration)\n- [**Russian Metro Addon**](https://modrinth.com/mod/russian-metro-addon)\n\n## Help Translate the Mod!\n\nThe [Crowdin site for the Minecraft Transit Railway mod](https://crwd.in/minecraft-transit-railway) is available!\n\nCrowdin is a cloud-based platform for translators to contribute to a project. With your help, we can translate the mod to many different languages. You may create a free account to start translating.\n\n## Questions? Comments? Complaints?\n\nLet's connect.\n\n<a href=\"https://discord.gg/PVZ2nfUaTW\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/footer/discord.png\" alt=\"Discord\" width=64></a>\n&nbsp;\n<a href=\"https://www.linkedin.com/in/jonathanho33\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/footer/linked_in.png\" alt=\"LinkedIn\" width=64></a>\n&nbsp;\n<a href=\"mailto:jonho.minecraft@gmail.com\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/footer/email.png\" alt=\"Email\" width=64></a>\n&nbsp;\n<a href=\"https://www.patreon.com/minecraft_transit_railway\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/footer/patreon.png\" alt=\"Patreon\" width=64></a>\n\n[![Join us on Discord](https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/footer/join-us-on-discord.png)](https://discord.gg/PVZ2nfUaTW)\n[![Become a Patron on Patreon](https://raw.githubusercontent.com/jonafanho/Minecraft-Transit-Railway/master/images/footer/become-a-patron-on-patreon.png)](https://www.patreon.com/minecraft_transit_railway)\n[![Host your server using Shockbyte!](https://cdn.modrinth.com/data/cached_images/49fd23a75fd384b28d486c1471a72b7d4677c821.jpeg)](https://partners.shockbyte.com/minecrafttransitrailway)",
+		"name": "Minecraft Transit Railway",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/jonafanho/Minecraft-Transit-Railway",
+		"support_link": "https://www.patreon.com/minecraft_transit_railway"
+	},
+	"properties": {
+		"modrinth_id": "XKPAmI6u",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}

@@ -1,0 +1,2873 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/ns7XrzOE/DarkUtilities-NeoForge-1.20.4-19.0.6.jar",
+					"version": "ns7XrzOE"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/daJXeheq/DarkUtilities-Forge-1.20.4-19.0.6.jar",
+					"version": "daJXeheq"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/njRRNm9P/DarkUtilities-Fabric-1.20.4-19.0.6.jar",
+					"version": "njRRNm9P"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/69kxHy5l/DarkUtilities-NeoForge-1.20.4-19.0.5.jar",
+					"version": "69kxHy5l"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/uAZWXibM/DarkUtilities-Forge-1.20.4-19.0.5.jar",
+					"version": "uAZWXibM"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/aef6f371/DarkUtilities-Fabric-1.20.4-19.0.5.jar",
+					"version": "aef6f371"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/sxXKN3YQ/DarkUtilities-NeoForge-1.20.4-19.0.4.jar",
+					"version": "sxXKN3YQ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/IlZV4ho8/DarkUtilities-Forge-1.20.4-19.0.4.jar",
+					"version": "IlZV4ho8"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/boBQXk1E/DarkUtilities-Fabric-1.20.4-19.0.4.jar",
+					"version": "boBQXk1E"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/2uM9KIyE/DarkUtilities-NeoForge-1.20.4-19.0.3.jar",
+					"version": "2uM9KIyE"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/cvGglkh7/DarkUtilities-Forge-1.20.4-19.0.3.jar",
+					"version": "cvGglkh7"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/SmcPn71w/DarkUtilities-Fabric-1.20.4-19.0.3.jar",
+					"version": "SmcPn71w"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/svoMzTSF/DarkUtilities-NeoForge-1.20.4-19.0.2.jar",
+					"version": "svoMzTSF"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/DHa0n7oO/DarkUtilities-Forge-1.20.4-19.0.2.jar",
+					"version": "DHa0n7oO"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/gKR3Oxxw/DarkUtilities-Fabric-1.20.4-19.0.2.jar",
+					"version": "gKR3Oxxw"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/M5D7aYkt/DarkUtilities-NeoForge-1.20.3-18.0.1.jar",
+					"version": "M5D7aYkt"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/dQXT3ndb/DarkUtilities-Forge-1.20.3-18.0.1.jar",
+					"version": "dQXT3ndb"
+				},
+				{
+					"minecraft_versions": "1.20.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/yENeJxvc/DarkUtilities-Fabric-1.20.3-18.0.1.jar",
+					"version": "yENeJxvc"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/k1N10U3z/DarkUtilities-NeoForge-1.20.2-17.0.2.jar",
+					"version": "k1N10U3z"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/D7j1NjCR/DarkUtilities-Forge-1.20.2-17.0.2.jar",
+					"version": "D7j1NjCR"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/fjZlYpo7/DarkUtilities-Fabric-1.20.2-17.0.2.jar",
+					"version": "fjZlYpo7"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/kSd0qVEk/DarkUtilities-NeoForge-1.20.2-17.0.1.jar",
+					"version": "kSd0qVEk"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/6a9bEYZJ/DarkUtilities-Forge-1.20.2-17.0.1.jar",
+					"version": "6a9bEYZJ"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/90DSZ8VI/DarkUtilities-Fabric-1.20.2-17.0.1.jar",
+					"version": "90DSZ8VI"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/82toaoSD/DarkUtilities-Forge-1.20.1-17.0.3.jar",
+					"version": "82toaoSD"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/5IJEIdz7/DarkUtilities-Fabric-1.20.1-17.0.3.jar",
+					"version": "5IJEIdz7"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/BH4BkZQf/DarkUtilities-Forge-1.20.1-17.0.2.jar",
+					"version": "BH4BkZQf"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Vc9aQa3R/DarkUtilities-Fabric-1.20.1-17.0.2.jar",
+					"version": "Vc9aQa3R"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/QFvJ2gMX/DarkUtilities-Forge-1.20.1-17.0.1.jar",
+					"version": "QFvJ2gMX"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/nYB6kVsD/DarkUtilities-Fabric-1.20.1-17.0.1.jar",
+					"version": "nYB6kVsD"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/OITi32qD/DarkUtilities-Forge-1.20-16.0.3.jar",
+					"version": "OITi32qD"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Y1RkENAp/DarkUtilities-Fabric-1.20-16.0.3.jar",
+					"version": "Y1RkENAp"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/3SoEFd85/DarkUtilities-Forge-1.20-16.0.2.jar",
+					"version": "3SoEFd85"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/ek1Km9HI/DarkUtilities-Fabric-1.20-16.0.2.jar",
+					"version": "ek1Km9HI"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/qqP8XgM6/DarkUtilities-Forge-1.20-16.0.1.jar",
+					"version": "qqP8XgM6"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/C7PmyjnD/DarkUtilities-Fabric-1.20-16.0.1.jar",
+					"version": "C7PmyjnD"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/O0CGUXVw/DarkUtilities-Forge-1.19.4-15.0.2.jar",
+					"version": "O0CGUXVw"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/xJsrmP9v/DarkUtilities-Fabric-1.19.4-15.0.2.jar",
+					"version": "xJsrmP9v"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/y2brfScg/DarkUtilities-Forge-1.19.3-14.0.2.jar",
+					"version": "y2brfScg"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/OlzKynpp/DarkUtilities-Fabric-1.19.3-14.0.2.jar",
+					"version": "OlzKynpp"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/uqIswic9/DarkUtilities-Forge-1.19.2-13.1.9.jar",
+					"version": "uqIswic9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/ezGfYQHp/DarkUtilities-Fabric-1.19.2-13.1.9.jar",
+					"version": "ezGfYQHp"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/ci6YzWrU/DarkUtilities-Forge-1.19.2-13.1.8.jar",
+					"version": "ci6YzWrU"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/yxUaBUad/DarkUtilities-Fabric-1.19.2-13.1.8.jar",
+					"version": "yxUaBUad"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Oy7Ssbif/DarkUtilities-Forge-1.19.1-12.0.3.jar",
+					"version": "Oy7Ssbif"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Zb1XqM53/DarkUtilities-Fabric-1.19.1-12.0.3.jar",
+					"version": "Zb1XqM53"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/y7OuhleZ/DarkUtilities-Forge-1.19-11.1.4.jar",
+					"version": "y7OuhleZ"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/XvChfowI/DarkUtilities-Fabric-1.19-11.1.4.jar",
+					"version": "XvChfowI"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/nLt2QmsZ/DarkUtilities-Forge-1.18.2-10.1.7.jar",
+					"version": "nLt2QmsZ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Ks5RCJR7/DarkUtilities-Fabric-1.18.2-10.1.7.jar",
+					"version": "Ks5RCJR7"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/kC9xUxYK/DarkUtilities-Forge-1.18.1-9.0.4.jar",
+					"version": "kC9xUxYK"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/yS1Duzia/DarkUtilities-Fabric-1.18.1-9.0.4.jar",
+					"version": "yS1Duzia"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/CfKg1oaA/DarkUtilities-Forge-1.19.4-15.0.1.jar",
+					"version": "CfKg1oaA"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/SMf8YXQx/DarkUtilities-Fabric-1.19.4-15.0.1.jar",
+					"version": "SMf8YXQx"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/WDJq3dZH/DarkUtilities-Forge-1.19.3-14.0.1.jar",
+					"version": "WDJq3dZH"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/9y2H4P8r/DarkUtilities-Fabric-1.19.3-14.0.1.jar",
+					"version": "9y2H4P8r"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/nh79sjSp/DarkUtilities-Forge-1.19.2-13.1.7.jar",
+					"version": "nh79sjSp"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/NHbQXOgI/DarkUtilities-Fabric-1.19.2-13.1.7.jar",
+					"version": "NHbQXOgI"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Xfh6EFCk/DarkUtilities-Forge-1.18.2-10.1.6.jar",
+					"version": "Xfh6EFCk"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/tuuStpo8/DarkUtilities-Fabric-1.18.2-10.1.6.jar",
+					"version": "tuuStpo8"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/y95YAU0I/DarkUtilities-Forge-1.19.2-13.1.6.jar",
+					"version": "y95YAU0I"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/153Ej6Ul/DarkUtilities-Fabric-1.19.2-13.1.6.jar",
+					"version": "153Ej6Ul"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/G7IyAwre/DarkUtilities-Forge-1.19.2-13.1.5.jar",
+					"version": "G7IyAwre"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/7BNshZnR/DarkUtilities-Fabric-1.19.2-13.1.5.jar",
+					"version": "7BNshZnR"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/64rDVw9q/DarkUtilities-Forge-1.19.2-13.1.4.jar",
+					"version": "64rDVw9q"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/hqKF4Eah/DarkUtilities-Fabric-1.19.2-13.1.4.jar",
+					"version": "hqKF4Eah"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/A0PTR9w9/DarkUtilities-Forge-1.19.2-13.1.3.jar",
+					"version": "A0PTR9w9"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/1K8nXInT/DarkUtilities-Fabric-1.19.2-13.1.3.jar",
+					"version": "1K8nXInT"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/EhtA3AbP/DarkUtilities-Forge-1.19.2-13.1.2.jar",
+					"version": "EhtA3AbP"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/B3MHSZWI/DarkUtilities-Fabric-1.19.2-13.1.2.jar",
+					"version": "B3MHSZWI"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/E0p9OAVE/DarkUtilities-Forge-1.19.2-13.0.1.jar",
+					"version": "E0p9OAVE"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/vm74sxYv/DarkUtilities-Fabric-1.19.2-13.0.1.jar",
+					"version": "vm74sxYv"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/vA4FFUGa/DarkUtilities-Forge-1.19.1-12.0.2.jar",
+					"version": "vA4FFUGa"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/hZvoocSB/DarkUtilities-Fabric-1.19.1-12.0.2.jar",
+					"version": "hZvoocSB"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/dBpO5hyZ/DarkUtilities-Forge-1.19.1-12.0.1.jar",
+					"version": "dBpO5hyZ"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/ml5b2g9p/DarkUtilities-Fabric-1.19.1-12.0.1.jar",
+					"version": "ml5b2g9p"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/KWUGjEov/DarkUtilities-Forge-1.19-11.1.3.jar",
+					"version": "KWUGjEov"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/bV9d2qRt/DarkUtilities-Fabric-1.19-11.1.3.jar",
+					"version": "bV9d2qRt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/d0p1x54Q/DarkUtilities-Forge-1.18.2-10.0.5.jar",
+					"version": "d0p1x54Q"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Mxjm2deG/DarkUtilities-Fabric-1.18.2-10.0.5.jar",
+					"version": "Mxjm2deG"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/IOkcG3MC/DarkUtilities-Forge-1.19-11.0.2.jar",
+					"version": "IOkcG3MC"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/vftb0xTV/DarkUtilities-Fabric-1.19-11.0.2.jar",
+					"version": "vftb0xTV"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/3FBtweoL/DarkUtilities-Forge-1.19-11.0.1.jar",
+					"version": "3FBtweoL"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/orRYwB8g/DarkUtilities-Fabric-1.19-11.0.1.jar",
+					"version": "orRYwB8g"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/TyCE8BIy/DarkUtilities-1.16.5-8.0.14.jar",
+					"version": "TyCE8BIy"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/yHckUyxt/DarkUtilities-Forge-1.18.2-10.0.4.jar",
+					"version": "yHckUyxt"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/uSsjX3mR/DarkUtilities-Fabric-1.18.2-10.0.4.jar",
+					"version": "uSsjX3mR"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/FxSnF2ZU/DarkUtilities-1.16.5-8.0.13.jar",
+					"version": "FxSnF2ZU"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/GagBKHPe/DarkUtilities-Forge-1.18.2-10.0.3.jar",
+					"version": "GagBKHPe"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/KayIUcV6/DarkUtilities-Fabric-1.18.2-10.0.3.jar",
+					"version": "KayIUcV6"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/mDM736wJ/DarkUtilities-1.16.5-8.0.12.jar",
+					"version": "mDM736wJ"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/1w4NbKVO/DarkUtilities-Forge-1.18.2-10.0.2.jar",
+					"version": "1w4NbKVO"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Ju6Eh3W3/DarkUtilities-Fabric-1.18.2-10.0.2.jar",
+					"version": "Ju6Eh3W3"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": [
+						"forgelike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Vxqt7UuP/DarkUtilities-Forge-1.18.1-9.0.2.jar",
+					"version": "Vxqt7UuP"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Ossh7k4X/DarkUtilities-Fabric-1.18.1-9.0.2.jar",
+					"version": "Ossh7k4X"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/kErbf6It/DarkUtilities-Forge-1.18.2-10.0.1.jar",
+					"version": "kErbf6It"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/kZEn9QWJ/DarkUtilities-Fabric-1.18.2-10.0.1.jar",
+					"version": "kZEn9QWJ"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/MseIPrvQ/DarkUtilities-Forge-1.18.1-9.0.1.jar",
+					"version": "MseIPrvQ"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/KTqjTIaJ/DarkUtilities-Fabric-1.18.1-9.0.1.jar",
+					"version": "KTqjTIaJ"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/LEJDFIJv/DarkUtilities-1.16.5-8.0.11.jar",
+					"version": "LEJDFIJv"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/jPUNlbLq/DarkUtilities-1.16.5-8.0.10.jar",
+					"version": "jPUNlbLq"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/6cWn1jn6/DarkUtilities-1.16.5-8.0.9.jar",
+					"version": "6cWn1jn6"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/C0KVRkq5/DarkUtilities-1.16.5-8.0.6.jar",
+					"version": "C0KVRkq5"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/uDmQneiT/DarkUtilities-1.16.5-8.0.5.jar",
+					"version": "uDmQneiT"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/4CMm2l1H/DarkUtilities-1.16.5-8.0.4.jar",
+					"version": "4CMm2l1H"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/tTc9id1c/DarkUtilities-1.16.5-8.0.3.jar",
+					"version": "tTc9id1c"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/xTNYBSFS/DarkUtilities-1.16.5-8.0.2.jar",
+					"version": "xTNYBSFS"
+				},
+				{
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/yER0U2Bx/DarkUtilities-1.16.5-8.0.1.jar",
+					"version": "yER0U2Bx"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/oZEKnTWB/DarkUtilities-1.16.4-7.0.8.jar",
+					"version": "oZEKnTWB"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/yZeu8znx/DarkUtilities-1.16.4-7.0.7.jar",
+					"version": "yZeu8znx"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/EggRzE1W/DarkUtilities-1.16.4-7.0.6.jar",
+					"version": "EggRzE1W"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/mRTDk1kK/DarkUtilities-1.16.4-7.0.3.jar",
+					"version": "mRTDk1kK"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/nzl3iGch/DarkUtilities-1.16.4-7.0.2.jar",
+					"version": "nzl3iGch"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/eqXmVD6Y/DarkUtilities-1.15.2-3.1.9.jar",
+					"version": "eqXmVD6Y"
+				},
+				{
+					"minecraft_versions": "1.16.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/qIO1LpUX/DarkUtilities-1.16.4-7.0.1.jar",
+					"version": "qIO1LpUX"
+				},
+				{
+					"minecraft_versions": "1.16.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/5rLCqipX/DarkUtilities-1.16.3-6.0.3.jar",
+					"version": "5rLCqipX"
+				},
+				{
+					"minecraft_versions": "1.16.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/GA0GenSp/DarkUtilities-1.16.3-6.0.2.jar",
+					"version": "GA0GenSp"
+				},
+				{
+					"minecraft_versions": "1.16.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/l6KKbV0r/DarkUtilities-1.16.3-6.0.1.jar",
+					"version": "l6KKbV0r"
+				},
+				{
+					"minecraft_versions": "1.16.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/mXFAI0n8/DarkUtilities-1.16.2-5.0.1.jar",
+					"version": "mXFAI0n8"
+				},
+				{
+					"minecraft_versions": "1.16.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Fq7yKecR/DarkUtilities-1.16.1-4.0.3.jar",
+					"version": "Fq7yKecR"
+				},
+				{
+					"minecraft_versions": "1.16.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/hxW4LBU6/DarkUtilities-1.16.1-4.0.2.jar",
+					"version": "hxW4LBU6"
+				},
+				{
+					"minecraft_versions": "1.16.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/3piYYJtz/DarkUtilities-1.16.1-4.0.1.jar",
+					"version": "3piYYJtz"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/qOSUDN3j/DarkUtilities-1.15.2-3.1.8.jar",
+					"version": "qOSUDN3j"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/eLWFZAJl/DarkUtilities-1.15.2-3.0.7.jar",
+					"version": "eLWFZAJl"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/1NGHbFoz/DarkUtilities-1.14.4-2.0.14.jar",
+					"version": "1NGHbFoz"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/9irDFh6E/DarkUtilities-1.15.2-3.0.6.jar",
+					"version": "9irDFh6E"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/SCPdknL6/DarkUtilities-1.15.2-3.0.5.jar",
+					"version": "SCPdknL6"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/8sjJI1ez/DarkUtilities-1.15.2-3.0.3.jar",
+					"version": "8sjJI1ez"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/YYw4EaPa/DarkUtilities-1.15.2-3.0.2.jar",
+					"version": "YYw4EaPa"
+				},
+				{
+					"minecraft_versions": "1.15.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/QoQ5ZJnl/DarkUtilities-1.15.2-3.0.1.jar",
+					"version": "QoQ5ZJnl"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/5j5U7Vnt/DarkUtilities-1.14.4-2.0.13.jar",
+					"version": "5j5U7Vnt"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/5aSXtF3M/DarkUtilities-1.14.4-2.0.12.jar",
+					"version": "5aSXtF3M"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Er3hGgFf/DarkUtilities-1.14.4-2.0.11.jar",
+					"version": "Er3hGgFf"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/85J2KZPn/DarkUtilities-1.14.4-2.0.10.jar",
+					"version": "85J2KZPn"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/vJudLd3Q/DarkUtilities-1.14.4-2.0.9.jar",
+					"version": "vJudLd3Q"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/dyPx3oGp/DarkUtilities-1.14.4-2.0.8.jar",
+					"version": "dyPx3oGp"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/oYSk7GfO/DarkUtilities-1.14.4-2.0.7.jar",
+					"version": "oYSk7GfO"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/1P6ZISln/DarkUtilities-1.14.4-2.0.4.jar",
+					"version": "1P6ZISln"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/oQdVighw/DarkUtilities-1.14.4-2.0.3.jar",
+					"version": "oQdVighw"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/W7lKabbq/DarkUtilities-1.14.4-2.0.2.jar",
+					"version": "W7lKabbq"
+				},
+				{
+					"minecraft_versions": "1.14.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/tmVTbnC0/DarkUtilities-1.14.4-2.0..jar",
+					"version": "tmVTbnC0"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/NYqAjxPp/DarkUtils-1.12.2-1.8.230.jar",
+					"version": "NYqAjxPp"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/v5d7JOFv/DarkUtils-1.12.2-1.8.228.jar",
+					"version": "v5d7JOFv"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/WdElPite/DarkUtils-1.12.2-1.8.227.jar",
+					"version": "WdElPite"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/ZcUZaFSp/DarkUtils-1.12.2-1.8.226.jar",
+					"version": "ZcUZaFSp"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/MjWRReOs/DarkUtils-1.12.2-1.8.225.jar",
+					"version": "MjWRReOs"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/8EnnTrlV/DarkUtils-1.12.2-1.8.224.jar",
+					"version": "8EnnTrlV"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/xmuug8Ds/DarkUtils-1.12.2-1.8.223.jar",
+					"version": "xmuug8Ds"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/jcYEPGnb/DarkUtils-1.12.2-1.8.222.jar",
+					"version": "jcYEPGnb"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/FWj6gcxc/DarkUtils-1.12.2-1.8.221.jar",
+					"version": "FWj6gcxc"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/wrMgzLFn/DarkUtils-1.12.2-1.8.220.jar",
+					"version": "wrMgzLFn"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/p1fn5KJf/DarkUtils-1.12.2-1.8.219.jar",
+					"version": "p1fn5KJf"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/aU46YvgO/DarkUtils-1.12.2-1.8.218.jar",
+					"version": "aU46YvgO"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/UTq80JHR/DarkUtils-1.12.2-1.8.217.jar",
+					"version": "UTq80JHR"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/vamR7jaH/DarkUtils-1.12.2-1.8.216.jar",
+					"version": "vamR7jaH"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/PXCkn70I/DarkUtils-1.12.2-1.8.215.jar",
+					"version": "PXCkn70I"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/apRZ8gOi/DarkUtils-1.12.2-1.8.214.jar",
+					"version": "apRZ8gOi"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/N1W6n0Hc/DarkUtils-1.12.2-1.8.213.jar",
+					"version": "N1W6n0Hc"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/scVMAKWw/DarkUtils-1.12.2-1.8.212.jar",
+					"version": "scVMAKWw"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/VuiXqtCt/DarkUtils-1.12.2-1.8.211.jar",
+					"version": "VuiXqtCt"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/VJlUzwpB/DarkUtils-1.12.2-1.8.210.jar",
+					"version": "VJlUzwpB"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/SoE8S72B/DarkUtils-1.12.2-1.8.209.jar",
+					"version": "SoE8S72B"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/aJvDlPT8/DarkUtils-1.12.2-1.8.208.jar",
+					"version": "aJvDlPT8"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/HSMJjTAZ/DarkUtils-1.12.2-1.8.207.jar",
+					"version": "HSMJjTAZ"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/gPP71AjV/DarkUtils-1.12.2-1.8.205.jar",
+					"version": "gPP71AjV"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/xwfoJ1xq/DarkUtils-1.12.2-1.8.204.jar",
+					"version": "xwfoJ1xq"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/b8LslKXd/DarkUtils-1.12.2-1.8.203.jar",
+					"version": "b8LslKXd"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/YbBwRo3v/DarkUtils-1.12.2-1.8.202.jar",
+					"version": "YbBwRo3v"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/5LU1Conx/DarkUtils-1.12.2-1.8.201.jar",
+					"version": "5LU1Conx"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/o6d1SKDR/DarkUtils-1.12.2-1.8.200.jar",
+					"version": "o6d1SKDR"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/iEDvrqtl/DarkUtils-1.12.2-1.8.199.jar",
+					"version": "iEDvrqtl"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/w7HCLoJl/DarkUtils-1.12.2-1.8.198.jar",
+					"version": "w7HCLoJl"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/PZRtLcfv/DarkUtils-1.12.2-1.8.196.jar",
+					"version": "PZRtLcfv"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/to05yTMl/DarkUtils-1.12.2-1.8.195.jar",
+					"version": "to05yTMl"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/YL5I838d/DarkUtils-1.12.2-1.8.194.jar",
+					"version": "YL5I838d"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/jWg8QELw/DarkUtils-1.12.2-1.8.193.jar",
+					"version": "jWg8QELw"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/NRU1AGoO/DarkUtils-1.12.2-1.8.192.jar",
+					"version": "NRU1AGoO"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/AOMdAt99/DarkUtils-1.12.2-1.8.191.jar",
+					"version": "AOMdAt99"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/K29YHn71/DarkUtils-1.12.2-1.8.190.jar",
+					"version": "K29YHn71"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/V46OPd3V/DarkUtils-1.12.2-1.8.188.jar",
+					"version": "V46OPd3V"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/oId5rEcO/DarkUtils-1.12.2-1.8.187.jar",
+					"version": "oId5rEcO"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/1lZW7M6C/DarkUtils-1.12.2-1.8.186.jar",
+					"version": "1lZW7M6C"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/mgXEC3gl/DarkUtils-1.12.2-1.8.185.jar",
+					"version": "mgXEC3gl"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/jrEiB5ij/DarkUtils-1.12.2-1.7.182.jar",
+					"version": "jrEiB5ij"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/fzT9i8kG/DarkUtils-1.12.2-1.7.181.jar",
+					"version": "fzT9i8kG"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/OkPEJFY2/DarkUtils-1.12.2-1.7.180.jar",
+					"version": "OkPEJFY2"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/3H3ipDzI/DarkUtils-1.12.2-1.7.178.jar",
+					"version": "3H3ipDzI"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/jku29s0S/DarkUtils-1.12.2-1.7.177.jar",
+					"version": "jku29s0S"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/5nUwSMWL/DarkUtils-1.12.2-1.7.176.jar",
+					"version": "5nUwSMWL"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/enKMrrH6/DarkUtils-1.12.2-1.7.174.jar",
+					"version": "enKMrrH6"
+				},
+				{
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/7hfkL1k1/DarkUtils-1.12.2-1.7.173.jar",
+					"version": "7hfkL1k1"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/fg95vvAQ/DarkUtils-1.12.1-1.7.171.jar",
+					"version": "fg95vvAQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/PpeAVedP/DarkUtils-1.12.1-1.7.170.jar",
+					"version": "PpeAVedP"
+				},
+				{
+					"minecraft_versions": [
+						"1.12",
+						"1.12.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/rP1AM1Tr/DarkUtils-1.12.1-1.7.169.jar",
+					"version": "rP1AM1Tr"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/sugzB8Oe/DarkUtils-1.12-1.6.167.jar",
+					"version": "sugzB8Oe"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/GiIwl9pT/DarkUtils-1.12-1.6.166.jar",
+					"version": "GiIwl9pT"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/oj1DRSik/DarkUtils-1.12-1.6.164.jar",
+					"version": "oj1DRSik"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/g6zdqENu/DarkUtils-1.12-1.6.163.jar",
+					"version": "g6zdqENu"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/4x3LmQmM/DarkUtils-1.12-1.6.162.jar",
+					"version": "4x3LmQmM"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/cAqKUqXF/DarkUtils-1.12-1.6.161.jar",
+					"version": "cAqKUqXF"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/UZFj5W6N/DarkUtils-1.12-1.6.160.jar",
+					"version": "UZFj5W6N"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/1r6ZyCLu/DarkUtils-1.12-1.6.159.jar",
+					"version": "1r6ZyCLu"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Z6aQP5YA/DarkUtils-1.12-1.6.158.jar",
+					"version": "Z6aQP5YA"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/mPP9ovZF/DarkUtils-1.12-1.6.156.jar",
+					"version": "mPP9ovZF"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/gpiGkGho/DarkUtils-1.12-1.6.155.jar",
+					"version": "gpiGkGho"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/xsYlVsqR/DarkUtils-1.12-1.5.153.jar",
+					"version": "xsYlVsqR"
+				},
+				{
+					"minecraft_versions": "1.12",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/6AuIexcE/DarkUtils-1.12-1.5.151.jar",
+					"version": "6AuIexcE"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/NK7iMFHm/DarkUtilities-1.11.2-1.2.0.147.jar",
+					"version": "NK7iMFHm"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/AxUxnyOd/DarkUtilities-1.11.2-1.2.0.145.jar",
+					"version": "AxUxnyOd"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/WSfqbFB7/DarkUtilities-1.11.2-1.2.0.144.jar",
+					"version": "WSfqbFB7"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/W19EGzQr/DarkUtilities-1.11.2-1.2.0.143.jar",
+					"version": "W19EGzQr"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/fgFl0sf2/DarkUtilities-1.11.2-1.2.0.142.jar",
+					"version": "fgFl0sf2"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/zv4ZuCzU/DarkUtilities-1.11.2-1.2.0.141.jar",
+					"version": "zv4ZuCzU"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/tq7Znezm/DarkUtilities-1.11.2-1.2.0.139.jar",
+					"version": "tq7Znezm"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/LnhlQzLU/DarkUtilities-1.1.8.finalrc2.jar",
+					"version": "LnhlQzLU"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/kz9Y0TqI/DarkUtilities-1.11.2-1.2.0.137.jar",
+					"version": "kz9Y0TqI"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/c3727SgD/DarkUtilities-1.11.2-1.2.0.135.jar",
+					"version": "c3727SgD"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/TE59LECg/DarkUtilities-1.1.8.finalrc1.jar",
+					"version": "TE59LECg"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/KYV6BRfQ/DarkUtilities-1.11.2-1.2.0.134.jar",
+					"version": "KYV6BRfQ"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/WwR0CmoU/DarkUtilities-1.11.2-1.2.0.133.jar",
+					"version": "WwR0CmoU"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/CKutrgnH/DarkUtilities-1.11.2-1.2.0.129.jar",
+					"version": "CKutrgnH"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/W2a21pXl/DarkUtilities-1.11.2-1.2.0.128.jar",
+					"version": "W2a21pXl"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/LSFwC3HP/DarkUtilities-1.11.2-1.2.0.126.jar",
+					"version": "LSFwC3HP"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/ue1tEKLY/DarkUtilities-1.11.2-1.2.0.124.jar",
+					"version": "ue1tEKLY"
+				},
+				{
+					"minecraft_versions": "1.11.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/oGRqekpE/DarkUtilities-1.11.2-1.2.0.122.jar",
+					"version": "oGRqekpE"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/pOGIY3w9/DarkUtilities-1.10.2-1.1.7.120.jar",
+					"version": "pOGIY3w9"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/zZWvdzMj/DarkUtilities-1.10.2-1.1.7.118.jar",
+					"version": "zZWvdzMj"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/xqhlU0OC/DarkUtilities-1.10.2-1.1.7.116.jar",
+					"version": "xqhlU0OC"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Zdopjn37/DarkUtilities-1.10.2-1.1.7.112.jar",
+					"version": "Zdopjn37"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/M86Dmpdw/DarkUtilities-1.10.2-1.1.7.111.jar",
+					"version": "M86Dmpdw"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/elelMojU/DarkUtilities-1.10.2-1.1.6.109.jar",
+					"version": "elelMojU"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/puAHzeUx/DarkUtilities-1.10.2-1.1.6.108.jar",
+					"version": "puAHzeUx"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/CQAMgYoY/DarkUtilities-1.10.2-1.1.6.107.jar",
+					"version": "CQAMgYoY"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/6NkrO236/DarkUtilities-1.10.2-1.1.6.106.jar",
+					"version": "6NkrO236"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/6BojNkP7/DarkUtilities-1.10.2-1.1.6.105.jar",
+					"version": "6BojNkP7"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/QtVoLc91/DarkUtilities-1.10.2-1.1.6.103.jar",
+					"version": "QtVoLc91"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/PhNsi46P/DarkUtilities-1.10.2-1.1.6.100.jar",
+					"version": "PhNsi46P"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/ODM8jP8P/DarkUtilities-1.10.2-1.1.6.99.jar",
+					"version": "ODM8jP8P"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/oAViXfz0/DarkUtilities-1.10.2-1.1.5.98.jar",
+					"version": "oAViXfz0"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/BtKidSUq/DarkUtilities-1.10.2-1.1.5.97.jar",
+					"version": "BtKidSUq"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/MezVoUAF/DarkUtilities-1.10.2-1.1.5.96.jar",
+					"version": "MezVoUAF"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/qY0upzgU/DarkUtilities-1.10.2-1.1.5.95.jar",
+					"version": "qY0upzgU"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/zMk6nUpf/DarkUtilities-1.10.2-1.1.5.93.jar",
+					"version": "zMk6nUpf"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/P06qIvNA/DarkUtilities-1.10.2-1.1.5.92.jar",
+					"version": "P06qIvNA"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/GKydNRO0/DarkUtilities-1.10.2-1.1.5.91.jar",
+					"version": "GKydNRO0"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/rsKFqNA3/DarkUtilities-1.10.2-1.1.4.88.jar",
+					"version": "rsKFqNA3"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/XbqQjBd7/DarkUtilities-1.10.2-1.1.4.87.jar",
+					"version": "XbqQjBd7"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/nRCtP5py/DarkUtilities-1.10.2-1.1.4.86.jar",
+					"version": "nRCtP5py"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/QxQGymSg/DarkUtilities-1.10.2-1.1.4.85.jar",
+					"version": "QxQGymSg"
+				},
+				{
+					"minecraft_versions": "1.10.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/pRE8eJ4r/DarkUtilities-1.10.2-1.1.3.71.jar",
+					"version": "pRE8eJ4r"
+				},
+				{
+					"minecraft_versions": [
+						"1.9.4",
+						"1.10",
+						"1.10.1",
+						"1.10.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/OAr3K0Ay/DarkUtilities-1.10.2-1.1.3.70.jar",
+					"version": "OAr3K0Ay"
+				},
+				{
+					"minecraft_versions": "1.9.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/b9xNqfVl/DarkUtilities-1.9.4-1.1.2.55.jar",
+					"version": "b9xNqfVl"
+				},
+				{
+					"minecraft_versions": "1.9.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/aCxbq1Cm/DarkUtilities-1.9.4-1.1.1.47.jar",
+					"version": "aCxbq1Cm"
+				},
+				{
+					"minecraft_versions": "1.9.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Pvo426y7/DarkUtilities-1.9.4-1.1.1.44.jar",
+					"version": "Pvo426y7"
+				},
+				{
+					"minecraft_versions": "1.9.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/bstIhAlT/DarkUtilities-1.9.4-1.1.1.43.jar",
+					"version": "bstIhAlT"
+				},
+				{
+					"minecraft_versions": "1.9.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/rHwDz195/DarkUtilities-1.9.4-1.1.1.42.jar",
+					"version": "rHwDz195"
+				},
+				{
+					"minecraft_versions": "1.9.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/x8VDgMsl/DarkUtilities-1.9.4-1.1.0.41.jar",
+					"version": "x8VDgMsl"
+				},
+				{
+					"minecraft_versions": "1.9.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/jK3JiTvZ/DarkUtilities-1.9.4-1.1.0.40.jar",
+					"version": "jK3JiTvZ"
+				},
+				{
+					"minecraft_versions": "1.9.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/XxSViJfO/DarkUtilities-1.9.4-1.1.0.38.jar",
+					"version": "XxSViJfO"
+				},
+				{
+					"minecraft_versions": "1.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/nQWTpPgF/DarkUtilities-1.9-1.1.0.35.jar",
+					"version": "nQWTpPgF"
+				},
+				{
+					"minecraft_versions": "1.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/FToOUaFb/DarkUtilities-1.9-1.1.0.34.jar",
+					"version": "FToOUaFb"
+				},
+				{
+					"minecraft_versions": "1.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/NPA0kCrM/DarkUtilities-1.9-1.1.0.33.jar",
+					"version": "NPA0kCrM"
+				},
+				{
+					"minecraft_versions": "1.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/r8cmmlnP/DarkUtilities-1.9-1.1.0.32.jar",
+					"version": "r8cmmlnP"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/SPDoglOx/DarkUtilities-1.8.9-1.0.0.27.jar",
+					"version": "SPDoglOx"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/qsIzCv0H/DarkUtilities-1.8.9-1.0.0.26.jar",
+					"version": "qsIzCv0H"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/ApaC8R2e/DarkUtilities-1.8.9-1.0.0.20.jar",
+					"version": "ApaC8R2e"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/Wgznu9MR/DarkUtilities-1.8.9-1.0.0.19.jar",
+					"version": "Wgznu9MR"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/LwoXRoYG/DarkUtilities-1.8.9-1.0.0.18.jar",
+					"version": "LwoXRoYG"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/DWrQbRS6/DarkUtilities-1.8.9-1.0.0.17.jar",
+					"version": "DWrQbRS6"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/gFyGx9su/DarkUtilities-1.8.9-1.0.0.15.jar",
+					"version": "gFyGx9su"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/qcKC2Xuq/DarkUtilities-1.8.9-1.0.0.8.jar",
+					"version": "qcKC2Xuq"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/TPDOdURp/DarkUtilities-1.8.9-1.0.0.6.jar",
+					"version": "TPDOdURp"
+				},
+				{
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/9t960sw1/DarkUtilities-1.8.9-1.0.0.3.jar",
+					"version": "9t960sw1"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Darkhax"
+		],
+		"description": "Expansive content mod which adds a little bit of everything. ",
+		"documentation": "https://github.com/Darkhax-Minecraft/Dark-Utilities/wiki",
+		"gallery": [
+			"https://cdn.modrinth.com/data/CkqTAIaP/images/429717cbbc91e082904cc1ba0eb5acd0b71d960e.png",
+			"https://cdn.modrinth.com/data/CkqTAIaP/images/5ca88b894aab0a44d2c5510b949268252b4d281c.png",
+			"https://cdn.modrinth.com/data/CkqTAIaP/images/98eefd06c418b69e7ba10331facf942863c6fe8f.png",
+			"https://cdn.modrinth.com/data/CkqTAIaP/images/7d381ec713def85f251bad553f6e8d56cb72c5a6.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/CkqTAIaP/481d16f015f0ece70c70a9fc68c36ffa2580cef6.jpeg",
+		"issues": "https://github.com/Darkhax-Minecraft/Dark-Utilities/issues",
+		"license": "LGPL-2.1-only",
+		"long_description": "<p>The Dark Utilities mod adds many new items and blocks which expand upon the vanilla game. This mod aims to be useful in a wide range of circumstances while also adding fun and interesting mechanics. You can learn more about the mod by checking out the <a href=\"https://github.com/Darkhax-Minecraft/Dark-Utilities/wiki\" rel=\"nofollow\">wiki</a>. All blocks and items in the mod also have tooltips with a brief summary of what they do.</p>\n\n\n<p>This mod requires the <a href=\"https://www.modrinth.com/mod/bookshelf-lib\" rel=\"nofollow\">Bookshelf</a> library! On 1.16+ you will also need the <a href=\"https://www.modrinth.com/mod/runelic\" rel=\"nofollow\">Runelic</a> mod and the <a href=\"https://www.modrinth.com/mod/pig-pen-cipher\" rel=\"nofollow\">Pig Pen Cipher</a> mod.</p>\n\n<h3>Feature Spotlight</h3>\n<ul>\n<li><strong>Vector Plates</strong> - Vector plates are flat rotatable blocks that can push mobs and other entities around. Mobs can spawn on top of them, making them a popular choice for moving mobs in mob farms.</li>\n<li><strong>Mob Filters</strong> - Mob Filters are blocks that allow certain types of mobs to move through them. For example the hostile mob filter will only allow hostile mobs to pass through the block.</li>\n<li><strong>Sleep Charm</strong> - The sleep charm will passively ward off the effects of insomnia while it's in the inventory. This will prevent phantoms from spawning. Additionally you will instantly fall asleep when entering beds.</li>\n<li><strong>Redstone Randomizer</strong> - The Redstone Randomizer is a redstone component that toggles on and off randomly. While on it will emit a redstone signal.</li>\n<li><strong>Player Damage Plate</strong> - The Player Damage Plate is a flat block that will cause player damage to any mob that steps on it.</li>\n<li>This is just a small sample of content added by this mod, check out the <a href=\"https://github.com/Darkhax-Minecraft/Dark-Utilities/wiki\" rel=\"nofollow\">wiki</a> for an extensive list!</li>\n</ul>\n\n<p><strong>Like the mod and want to support me?</strong></p>\n<ul>\n<li>Follow me on <a href=\"https://twitter.com/DarkhaxDev\" rel=\"nofollow\">Twitter</a></li>\n<li>Join my <a href=\"https://discord.darkhax.net/\" rel=\"nofollow\">Discord</a></li>\n<li>Pledge on <a href=\"https://www.patreon.com/Darkhax\" rel=\"nofollow\">Patreon</a></li>\n<li>Check out my <a href=\"https://darkhax.net/\" rel=\"nofollow\">website</a></li>\n</ul>\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**This project is sponsored by Nodecraft. Use code [DARKHAX](https://nodecraft.com/r/darkhax) for 30% off your first month of service!**",
+		"name": "Dark Utilities",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Darkhax-Minecraft/Dark-Utilities"
+	},
+	"properties": {
+		"modrinth_id": "CkqTAIaP",
+		"supported_modloaders": [
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.8.9",
+			"1.9",
+			"1.9.4",
+			"1.10",
+			"1.10.1",
+			"1.10.2",
+			"1.11.2",
+			"1.12",
+			"1.12.1",
+			"1.12.2",
+			"1.14.4",
+			"1.15.2",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4"
+		]
+	}
+}

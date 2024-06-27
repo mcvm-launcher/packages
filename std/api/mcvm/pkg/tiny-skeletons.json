@@ -1,0 +1,449 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/RjTqsILl/TinySkeletons-v20.4.1-1.20.4-NeoForge.jar",
+					"version": "RjTqsILl"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/pLlCY65P/TinySkeletons-v20.4.1-1.20.4-Forge.jar",
+					"version": "pLlCY65P"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/LqfdkRJY/TinySkeletons-v20.4.1-1.20.4-Fabric.jar",
+					"version": "LqfdkRJY"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/H7dcE5Ab/TinySkeletons-v20.4.0-1.20.4-NeoForge.jar",
+					"version": "H7dcE5Ab"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/mOzBEpgc/TinySkeletons-v20.4.0-1.20.4-Forge.jar",
+					"version": "mOzBEpgc"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/P7hGKFF6/TinySkeletons-v20.4.0-1.20.4-Fabric.jar",
+					"version": "P7hGKFF6"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/zKTiapE9/TinySkeletons-v3.3.1-1.18.2-Fabric.jar",
+					"version": "zKTiapE9"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/P0enNJfd/TinySkeletons-v3.3.1-1.18.2-Forge.jar",
+					"version": "P0enNJfd"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/pPzF5vy3/TinySkeletons-v8.0.1-1.20.1-Fabric.jar",
+					"version": "pPzF5vy3"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/bvxrcKcl/TinySkeletons-v8.0.1-1.20.1-Forge.jar",
+					"version": "bvxrcKcl"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/jmaqR4Ag/TinySkeletons-v3.3.0-1.18.2-Fabric.jar",
+					"version": "jmaqR4Ag"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/yCgK4nAd/TinySkeletons-v3.3.0-1.18.2-Forge.jar",
+					"version": "yCgK4nAd"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/978Gh1jG/TinySkeletons-v8.0.0-1.20.1-Fabric.jar",
+					"version": "978Gh1jG"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/tAl8rImt/TinySkeletons-v8.0.0-1.20.1-Forge.jar",
+					"version": "tAl8rImt"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/ekrN994T/TinySkeletons-v6.0.0-1.20-Fabric.jar",
+					"version": "ekrN994T"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/YOBdcjNo/TinySkeletons-v6.0.0-1.20-Forge.jar",
+					"version": "YOBdcjNo"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/2PiaMyxs/TinySkeletons-v6.0.0-1.19.4-Forge.jar",
+					"version": "2PiaMyxs"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/i5e52rd7/TinySkeletons-v6.0.0-1.19.4-Fabric.jar",
+					"version": "i5e52rd7"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/FgHvt70I/TinySkeletons-v5.0.0-1.19.3-Fabric.jar",
+					"version": "FgHvt70I"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/TrCHmze0/TinySkeletons-v5.0.0-1.19.3-Forge.jar",
+					"version": "TrCHmze0"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/sY0Rj3F7/TinySkeletons-v4.2.2-1.19.2-Forge.jar",
+					"version": "sY0Rj3F7"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/4ewo2AQq/TinySkeletons-v4.2.2-1.19.2-Fabric.jar",
+					"version": "4ewo2AQq"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/zhUQYD2W/TinySkeletons-v4.2.1-1.19.2-Forge.jar",
+					"version": "zhUQYD2W"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/8g6slmgu/TinySkeletons-v4.2.1-1.19.2-Fabric.jar",
+					"version": "8g6slmgu"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/j8tuWMAa/TinySkeletons-v4.2.0-1.19.2-Fabric.jar",
+					"version": "j8tuWMAa"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/ZoBxxROx/TinySkeletons-v4.2.0-1.19.2-Forge.jar",
+					"version": "ZoBxxROx"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/v4.1.0-1.19.1-Fabric/TinySkeletons-v4.1.0-1.19.1-Fabric.jar",
+					"version": "gr7oWWdA"
+				},
+				{
+					"minecraft_versions": "1.19.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/v4.1.0-1.19.1-Forge/TinySkeletons-v4.1.0-1.19.1-Forge.jar",
+					"version": "hv3Ov4Qe"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "puzzles-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/v4.0.0-1.19-Forge/TinySkeletons-v4.0.0-1.19-Forge.jar",
+					"version": "hjxpprGz"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/A2xcMSUn/versions/v4.0.0-1.19-Fabric/TinySkeletons-v4.0.0-1.19-Fabric.jar",
+					"version": "1Sf5uRii"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Fuzs",
+			"LunaPixelStudios"
+		],
+		"banner": "https://cdn.modrinth.com/data/A2xcMSUn/images/24dc8dadeb4aff389977cecf9ad6ea921d3b126a.png",
+		"description": "Teeny, tiny skeletons, send shivers down your spine...",
+		"gallery": [
+			"https://cdn.modrinth.com/data/A2xcMSUn/images/24dc8dadeb4aff389977cecf9ad6ea921d3b126a.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/A2xcMSUn/icon.png",
+		"issues": "https://github.com/Fuzss/tinyskeletons/issues",
+		"license": "MPL-2.0",
+		"long_description": "<p><img src=\"https://i.imgur.com/GCYM7Zl.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/jclQJHc.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/Available%20for%20Minecraft-1.19%20%7C%201.18%20%7C%201.17%20%7C%201.16-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"386\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20%26%20Server-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"240\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7498\"><img src=\"https://bit.ly/3yrSsw7\" width=\"320\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><img src=\"https://bit.ly/3clkhvn\" width=\"299\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/jclQJHc.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📖 About:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Ever wondered why baby zombies are a thing, but baby skeletons are nowhere to be found? Wonder no more, <strong>Tiny Skeletons</strong> is here to change just that. A baby variant is added for normal skeletons, strays, and wither skeletons. And they all have unique behaviors to stand out from their adult variants.</span></p>\n<p><img src=\"https://i.imgur.com/jclQJHc.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📚 Contents:</strong></span></p>\n<p><span style=\"font-size: 14px;\">The new baby skeleton variants spawn just like baby zombies; every time an adult skeleton spawn, there is a chance of 5% it's baby counterpart will spawn instead.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Baby Skeletons</strong> are true combat masters. When hunting a target, they'll use their bow for ranged combat. As soon as they come close enough, they'll quickly switch to the wooden sword on their back, and turn to melee combat. All this together with their quick movement speed makes them quite the challenge.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Baby Strays</strong> on the other hand don't inherit the bows from their adult variant. They're equipped with snowballs instead, and will throw those right in your face whenever they have the chance. But be careful, they are quite the tiny jerks: Their snowballs have pebbles mixed in, so they'll deal a very tiny amount of damage on impact.</span></p>\n<p><span style=\"font-size: 14px;\">Last but not least, <strong>Baby Wither Skeletons</strong> are very different from their adult variant. Instead of being aggressive and hunting you down, they're scared you'll steal the wither skeleton skull they carry and will try to flee as soon as you get even a little bit close. But if you manage to corner one and kill it there is a grand reward: You'll be guaranteed to receive that skull! But doesn't that break the balance for obtaining wither skeleton skulls? No, it doesn't, as baby wither skeletons are quite rare. It's just, that when you find one and are able to hunt it down, you'll have a guaranteed wither skeleton skull. You want to get those valuable wither skeleton skulls, but don't want to kill those cute little creatures? Just give them a wither rose, they'll no longer be scared of you and drop the skull they are carrying for you to collect.</span></p>\n<p><img src=\"https://i.imgur.com/jclQJHc.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📷 Media:</strong></span></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/409/174/2021-11-20_18.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/409/175/2021-11-20_18.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Adult skeleton and baby skeleton in a village</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Baby skeletons can quickly switch to the sword carried on their back</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/409/176/2021-11-20_18.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/409/177/2021-11-20_18.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Baby strays ready to throw some snowballs in your face</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Baby wither skeletons holding their precious skulls</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/jclQJHc.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>💡 FAQ:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod on Forge?</strong><br /><strong>A:</strong> Tiny Skeletons doesn't offer any configuration on it's own. The only thing you can modify is the rate at which skeletons will be replaced by their baby variants. This is controlled by the baby chance option in the Forge server config. To edit Forge's server config, install my <span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><span style=\"font-size: 14px;\"><strong>Config Menus for Forge</strong></span></a> mod and do it directly in-game!</span></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Where can I download this mod for Fabric on versions of Minecraft before 1.19?</strong><br /><strong>A:</strong> Older downloads are found on the <a href=\"https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-fabric\"><span style=\"font-size: 14px;\"><strong>old project page</strong></span></a>.</span></p>\n<p><img src=\"https://i.imgur.com/jclQJHc.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>🏆 Credits:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Developing Tiny Skeletons was helped and inspired by:</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/daveyx0\"><span style=\"font-size: 14px;\"><strong>Daveyx0</strong></span></a> for inspiring the baby skeleton's combat behavior with the skeleton warrior from their <a href=\"https://www.curseforge.com/minecraft/mc-mods/primitive-mobs\"><span style=\"font-size: 14px;\">Primitive Mobs</span></a> mod</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/globox_z\"><span style=\"font-size: 14px;\"><strong>Globox_Z</strong></span></a> for some of the code for rendering items on the back of baby skeletons from their <a href=\"https://www.curseforge.com/minecraft/mc-mods/backslot\"><span style=\"font-size: 14px;\">BackSlot</span></a> mod</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/furgle\"><span style=\"font-size: 14px;\"><strong>Furgle</strong></span></a> for inspiring baby wither skeletons carrying skulls from their <a href=\"https://www.curseforge.com/minecraft/mc-mods/baby-mobs\"><span style=\"font-size: 14px;\">Baby Mobs</span></a> mod</span></li>\n</ul>\n<p><img src=\"https://i.imgur.com/jclQJHc.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/lunapixelstudios/projects\"><img src=\"https://img.shields.io/static/v1?label=CurseForge&amp;message=LunaPixelStudios&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"282\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/LunaPixelStudio\"><img src=\"https://img.shields.io/twitter/follow/LunaPixelStudio?label=Twitter&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"149\" height=\"28\" /></a>&emsp;<a href=\"https://discord.gg/8ZmhaPPbjE\"><img src=\"https://img.shields.io/discord/790272037578473512?label=Discord&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"220\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/1MOyd2u.png\" width=\"854\" height=\"300\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/jclQJHc.png\" width=\"854\" height=\"14\" /></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><img src=\"https://i.imgur.com/kiHP8s9.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/better-animations-collection\"><img src=\"https://i.imgur.com/OVV5lXk.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/trading-post\"><img src=\"https://i.imgur.com/UzgNFIB.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier\"><img src=\"https://i.imgur.com/DCwxKZU.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/console-experience\"><img src=\"https://i.imgur.com/aXWOS7B.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-magic\"><img src=\"https://i.imgur.com/Mlxi8cy.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/visual-workbench\"><img src=\"https://i.imgur.com/DTzDrbm.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/diagonal-fences\"><img src=\"https://i.imgur.com/mU9OlhP.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/golden-age-combat\"><img src=\"https://i.imgur.com/sHiR309.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/air-hop\"><img src=\"https://i.imgur.com/MinxlVJ.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/jclQJHc.png\" width=\"854\" height=\"14\" /></p>",
+		"name": "Tiny Skeletons",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Fuzss/tinyskeletons"
+	},
+	"properties": {
+		"modrinth_id": "A2xcMSUn",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.4"
+		]
+	}
+}
