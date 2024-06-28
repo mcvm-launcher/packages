@@ -16,6 +16,80 @@
 						]
 					},
 					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/zzFKvQk1/Sounds-1.0.0%2B1.20.1.jar",
+					"version": "zzFKvQk1"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mineblocks-repeated-utilities"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/T0X33J16/Sounds-1.0.0%2B1.20.4.jar",
+					"version": "T0X33J16"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mineblocks-repeated-utilities"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/YFuNnxOy/Sounds-1.0.0%2B1.20.6.jar",
+					"version": "YFuNnxOy"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mineblocks-repeated-utilities"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/7sHf5jxH/Sounds-1.0.0%2B1.21.jar",
+					"version": "7sHf5jxH"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mineblocks-repeated-utilities"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/fsnwR91d/Sounds-0.7.0%2B1.20.2.jar",
+					"version": "fsnwR91d"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mineblocks-repeated-utilities"
+						]
+					},
+					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/njHRoLWF/Sounds-0.9.0%2B1.20.1.jar",
 					"version": "njHRoLWF"
 				},
@@ -50,19 +124,6 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/FVVoGJgq/Sounds-0.9.0%2B1.20.6.jar",
 					"version": "FVVoGJgq"
-				},
-				{
-					"minecraft_versions": "1.20.2",
-					"modloaders": "fabriclike",
-					"relations": {
-						"dependencies": [
-							"fabriclike-api",
-							"mineblocks-repeated-utilities"
-						]
-					},
-					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/fsnwR91d/Sounds-0.7.0%2B1.20.2.jar",
-					"version": "fsnwR91d"
 				},
 				{
 					"minecraft_versions": [
@@ -480,7 +541,7 @@
 		"authors": [
 			"mineblock11"
 		],
-		"banner": "https://cdn.modrinth.com/data/ZouiUX7t/images/9207fcc48b586dccac3b5351d8a649ecb8ce3fce.png",
+		"banner": "https://cdn.modrinth.com/data/ZouiUX7t/images/2d5f94ff5e98e4139daf8bb1f23f25c6df2dd0b6.png",
 		"community": "https://discord.imb11.dev/",
 		"description": "Elevate your game with this highly configurable sound overhaul mod that adds new sound effects and enhances vanilla sounds, offering a rich array of block, item, inventory, and UI sounds!",
 		"documentation": "https://imb11.dev/",
@@ -537,7 +598,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

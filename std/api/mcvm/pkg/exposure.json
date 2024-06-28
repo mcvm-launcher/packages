@@ -4,6 +4,50 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/DvBGQjb3/exposure-1.20.1-1.7.0-fabric.jar",
+					"version": "DvBGQjb3"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/ooeyPgPm/exposure-1.20.1-1.7.0-forge.jar",
+					"version": "ooeyPgPm"
+				},
+				{
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -899,10 +943,10 @@
 			"https://cdn.modrinth.com/data/hB899VmG/images/7a3daff3a0c8c2ada8844497c0326cc08ebe1a2c.png",
 			"https://cdn.modrinth.com/data/hB899VmG/images/8e1fd6fed485c50c5c37a3060e072b1496446016.png"
 		],
-		"icon": "https://cdn.modrinth.com/data/hB899VmG/679da65e7053e7b90f40ff7cec42da04a9958512.gif",
+		"icon": "https://cdn.modrinth.com/data/hB899VmG/499a3d493635135e188da5fc8482e7490ef6c1c4.gif",
 		"issues": "https://github.com/mortuusars/Exposure/issues",
 		"license": "MIT",
-		"long_description": "<img src=\"https://i.imgur.com/SHVTJjx.png\" alt=\"Exposure\" width=2000/>\n\n### Expose your film, print your photos!<br>\n\n<img  src=\"https://i.imgur.com/2GLTKNg.png\" alt=\"Camera Description\" width=1000/>\n<img  src=\"https://i.imgur.com/5y1ypIB.png\" alt=\"Film, Lightroom and Photograph\" width=1000/>\n<img  src=\"https://i.imgur.com/StzImaM.png\" alt=\"Photograph and negatives\" width=1000/>\n\n<iframe width=\"1000\" height=\"561\" src=\"https://www.youtube.com/embed/rUlfY_wN3MY\" title=\"YouTube Exposure Release Trailer\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<details>\n<summary>Description in text form</summary>\n<h3>Camera</h3>\n\n- Operating the Camera is simple: load a Film Roll, open the Viewfinder,\ncompose your shot and release the shutter.<br>\n- Press/Hold Sneak when looking through Viewfinder to control Camera\nsettings: Focal Length, Shutter Speed, Flash mode, Composition Guides.<br>\n- Use the Camera while sneaking to open the Attachments window,\nwhere you'd be able to:\n    - Load a Film\n    - Equip the Flash (Redstone Lamp)\n    - Modify the Lens (Spyglass)\n    - Put a Filter on the lens (Glass Panes)\n\n<h3>Film</h3>\n\n- To capture an image you'll need to expose light-sensitive film.\n- You can use simpler black and white film or, more sophisticated\nand harder to make and process, color film.\n- Single film roll can fit 16 frames on it.\n- Developing is required to prepare film for printing.\n\n<h3>Lightroom</h3>\n\n- Photographs are printed with the help of a Lightroom block.\n- Negatives can be previewed before printing to help you choose the\nbest exposure.\n- Black and white print requires Paper and Black Dye.\nColor print will require Cyan, Magenta and Yellow dyes on top of that.\n\n<h3>Photograph</h3>\n\nAnd finally, you have your Photograph - a captured moment in time!\nNow it's time to admire the result, hang it on the wall, share with\nfriends, sell it to the National Geographic. The possibilities are endless.\n\n</details>\n\n---\n\n__Addons:__\n- [Catalog]([https://modrinth.com/mod/exposure-catalog](https://modrinth.com/mod/exposure-catalog)) - creative-mode tool to view and manage exposures\n\n---\n\n__Known incompatibilities:__\n- Optifine - known for causing problems with other mods. Use Sodium/Embeddium instead.\n- Visual Overhaul - crashes when opening camera controls - [GitHub Issue](https://github.com/mortuusars/Exposure/issues/19)\n- Exordium - causes issues and flickering when looking through viewfinder.\n- FastAnim (Fabric) - breaks player model animations with camera. [Github Issue](https://github.com/mortuusars/Exposure/issues/71)\n\n\n---\n\n[<img alt=\"Additional info\" src=\"https://raw.githubusercontent.com/mortuusars/Monobank/master/media/additional.png\" width=250/>](https://github.com/mortuusars/Exposure/wiki)\n\n---\n\n[<img alt=\"Discord Server\" src=\"https://i.imgur.com/r1jD0pX.png\" width=350/>](https://discord.gg/FzHKGDW2et)\n\n---\n\n#### Enjoying the mod? Your support would be greatly appreciated!\n[<img alt=\"PayPal\" src=\"https://raw.githubusercontent.com/mortuusars/Monobank/master/media/paypal.png\" width=128/>](https://www.paypal.com/donate/?hosted_button_id=4VPMCBCLZVUEA)[<img alt=\"Buy me a Coffee\" src=\"https://raw.githubusercontent.com/mortuusars/Monobank/master/media/coffee.png\" width=128/>](https://www.buymeacoffee.com/mortuusars)\n",
+		"long_description": "<img src=\"https://i.imgur.com/N0TOEIQ.png\" alt=\"Exposure\" width=2000/>\n\n### Expose your film, print your photos!<br>\n\n<img  src=\"https://i.imgur.com/RM3tuup.png\" alt=\"Camera Description\" width=1000/>\n<img  src=\"https://i.imgur.com/pGaIqx4.png\" alt=\"Film, Lightroom and Photograph\" width=1000/>\n<img  src=\"https://i.imgur.com/GaTNtKF.png\" alt=\"Photograph and negatives\" width=1000/>\n\n<iframe width=\"1000\" height=\"561\" src=\"https://www.youtube.com/embed/rUlfY_wN3MY\" title=\"YouTube Exposure Release Trailer\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<details>\n<summary>Description in text form</summary>\n<h3>Camera</h3>\n\n- Operating the Camera is simple: load a Film Roll, open the Viewfinder,\ncompose your shot and release the shutter.<br>\n- Press/Hold Sneak when looking through Viewfinder to control Camera\nsettings: Focal Length, Shutter Speed, Flash mode, Composition Guides.<br>\n- Use the Camera while sneaking to open the Attachments window,\nwhere you'd be able to:\n    - Load a Film\n    - Equip the Flash (Redstone Lamp)\n    - Modify the Lens (Spyglass)\n    - Put a Filter on the lens (Glass Panes)\n\n<h3>Film</h3>\n\n- To capture an image you'll need to expose light-sensitive film.\n- You can use simpler black and white film or, more sophisticated\nand harder to make and process, color film.\n- Single film roll can fit 16 frames on it.\n- Developing is required to prepare film for printing.\n\n<h3>Lightroom</h3>\n\n- Photographs are printed with the help of a Lightroom block.\n- Negatives can be previewed before printing to help you choose the\nbest exposure.\n- Black and white print requires Paper and Black Dye.\nColor print will require Cyan, Magenta and Yellow dyes on top of that.\n\n<h3>Photograph</h3>\n\nAnd finally, you have your Photograph - a captured moment in time!\nNow it's time to admire the result, hang it on the wall, share with\nfriends, sell it to the National Geographic. The possibilities are endless.\n\n</details>\n\n---\n\n__Addons:__\n- [Catalog]([https://modrinth.com/mod/exposure-catalog](https://modrinth.com/mod/exposure-catalog)) - creative-mode tool to view and manage exposures\n\n---\n\n__Known incompatibilities:__\n- Optifine - known for causing problems with other mods. Use Sodium/Embeddium instead.\n- Visual Overhaul - crashes when opening camera controls - [GitHub Issue](https://github.com/mortuusars/Exposure/issues/19)\n- Exordium - causes issues and flickering when looking through viewfinder.\n- FastAnim (Fabric) - breaks player model animations with camera. [Github Issue](https://github.com/mortuusars/Exposure/issues/71)\n\n\n---\n\n[<img alt=\"Additional info\" src=\"https://raw.githubusercontent.com/mortuusars/Monobank/master/media/additional.png\" width=250/>](https://github.com/mortuusars/Exposure/wiki)\n\n---\n\n[<img alt=\"Discord Server\" src=\"https://i.imgur.com/r1jD0pX.png\" width=350/>](https://discord.gg/FzHKGDW2et)\n\n---\n\n#### Enjoying the mod? Your support would be greatly appreciated!\n[<img alt=\"PayPal\" src=\"https://raw.githubusercontent.com/mortuusars/Monobank/master/media/paypal.png\" width=128/>](https://www.paypal.com/donate/?hosted_button_id=4VPMCBCLZVUEA)[<img alt=\"Buy me a Coffee\" src=\"https://raw.githubusercontent.com/mortuusars/Monobank/master/media/coffee.png\" width=128/>](https://www.buymeacoffee.com/mortuusars)\n",
 		"name": "Exposure",
 		"package_maintainers": [
 			"mcvm"

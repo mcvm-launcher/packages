@@ -12,6 +12,33 @@
 						}
 					},
 					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/fYjkxRNy/Jade-1.21-NeoForge-15.1.1.jar",
+					"version": "fYjkxRNy"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/19gb5iEa/Jade-1.21-Fabric-15.1.0.jar",
+					"version": "19gb5iEa"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/K1QP6zk7/Jade-1.21-NeoForge-15.0.5.jar",
 					"version": "K1QP6zk7"
 				},

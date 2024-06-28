@@ -12,6 +12,404 @@
 						}
 					},
 					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/lSXJY9xl/dynamic-fps-3.5.1%2Bminecraft-1.21.0-neoforge.jar",
+					"version": "lSXJY9xl"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/aLCEN12X/dynamic-fps-3.5.1%2Bminecraft-1.21.0-fabric.jar",
+					"version": "aLCEN12X"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/jVjy8fjK/dynamic-fps-3.5.1%2Bminecraft-1.20.5-neoforge.jar",
+					"version": "jVjy8fjK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/eRegd530/dynamic-fps-3.5.1%2Bminecraft-1.20.5-fabric.jar",
+					"version": "eRegd530"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Xd3OWazo/dynamic-fps-3.5.1%2Bminecraft-1.20.2-neoforge.jar",
+					"version": "Xd3OWazo"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/DdDJ86cX/dynamic-fps-3.5.1%2Bminecraft-1.20.0-quilt.jar",
+					"version": "DdDJ86cX"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/6FJB6Cff/dynamic-fps-3.5.1%2Bminecraft-1.20.0-forge.jar",
+					"version": "6FJB6Cff"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/jdsdQwkB/dynamic-fps-3.5.1%2Bminecraft-1.20.0-fabric.jar",
+					"version": "jdsdQwkB"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/qRc80r3o/dynamic-fps-3.5.1%2Bminecraft-1.19.4-quilt.jar",
+					"version": "qRc80r3o"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/kbiP4CMi/dynamic-fps-3.5.1%2Bminecraft-1.19.4-forge.jar",
+					"version": "kbiP4CMi"
+				},
+				{
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/TSSDSiZP/dynamic-fps-3.5.1%2Bminecraft-1.19.4-fabric.jar",
+					"version": "TSSDSiZP"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RYTZvQBc/dynamic-fps-3.5.1%2Bminecraft-1.19.3-quilt.jar",
+					"version": "RYTZvQBc"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pMITUDDN/dynamic-fps-3.5.1%2Bminecraft-1.19.3-forge.jar",
+					"version": "pMITUDDN"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/KEs1F4M2/dynamic-fps-3.5.1%2Bminecraft-1.19.3-fabric.jar",
+					"version": "KEs1F4M2"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/nTdQW3oL/dynamic-fps-3.5.1%2Bminecraft-1.19.0-quilt.jar",
+					"version": "nTdQW3oL"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/FonmH7YD/dynamic-fps-3.5.1%2Bminecraft-1.19.0-forge.jar",
+					"version": "FonmH7YD"
+				},
+				{
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/YF37wYKK/dynamic-fps-3.5.1%2Bminecraft-1.19.0-fabric.jar",
+					"version": "YF37wYKK"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wBsh7vqV/dynamic-fps-3.5.1%2Bminecraft-1.18.2-quilt.jar",
+					"version": "wBsh7vqV"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/dliDieeY/dynamic-fps-3.5.1%2Bminecraft-1.18.0-forge.jar",
+					"version": "dliDieeY"
+				},
+				{
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/uHnzIEQj/dynamic-fps-3.5.1%2Bminecraft-1.18.0-fabric.jar",
+					"version": "uHnzIEQj"
+				},
+				{
+					"minecraft_versions": [
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tEiWfX1N/dynamic-fps-3.5.1%2Bminecraft-1.17.0-fabric.jar",
+					"version": "tEiWfX1N"
+				},
+				{
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/JRl3y7rm/dynamic-fps-3.5.1%2Bminecraft-1.16.4-fabric.jar",
+					"version": "JRl3y7rm"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/BNf9EmNl/dynamic-fps-3.5.0%2Bminecraft-1.21.0-neoforge.jar",
 					"version": "BNf9EmNl"
 				},

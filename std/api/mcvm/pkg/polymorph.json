@@ -5,6 +5,30 @@
 			"versions": [
 				{
 					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/9dCd6h4k/polymorph-neoforge-1.0.2%2B1.21.jar",
+					"version": "9dCd6h4k"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/p7pF15m3/polymorph-fabric-1.0.2%2B1.21.jar",
+					"version": "p7pF15m3"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/pT1H26Vj/polymorph-forge-1.0.2%2B1.21.jar",
+					"version": "pT1H26Vj"
+				},
+				{
+					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "fabriclike-api"

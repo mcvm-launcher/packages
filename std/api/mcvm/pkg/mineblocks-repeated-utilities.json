@@ -5,6 +5,65 @@
 			"versions": [
 				{
 					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/T06gnMAz/mru-0.4.4%2B1.20.4.jar",
+					"version": "T06gnMAz"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/IWJh0MMO/mru-0.4.4%2B1.20.1.jar",
+					"version": "IWJh0MMO"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/dMTEZn0q/mru-0.4.4%2B1.21.jar",
+					"version": "dMTEZn0q"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/1wTMZgNM/mru-0.4.4%2B1.20.6.jar",
+					"version": "1wTMZgNM"
+				},
+				{
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/AF9f3dW7/mru-0.4.0%2B1.20.2.jar",
+					"version": "AF9f3dW7"
+				},
+				{
+					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
 					],
@@ -51,16 +110,6 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/rRnkp3xe/mru-0.4.3%2B1.20.1.jar",
 					"version": "rRnkp3xe"
-				},
-				{
-					"minecraft_versions": "1.20.2",
-					"modloaders": "fabriclike",
-					"relations": {
-						"dependencies": "fabriclike-api"
-					},
-					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/AF9f3dW7/mru-0.4.0%2B1.20.2.jar",
-					"version": "AF9f3dW7"
 				},
 				{
 					"minecraft_versions": [

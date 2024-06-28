@@ -21,6 +21,50 @@
 						]
 					},
 					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SZQ5qcdn/versions/S34Xrjtg/scorchful-0.7.2.jar",
+					"version": "S34Xrjtg"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "dehydration"
+							},
+							{
+								"value": "frostful"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SZQ5qcdn/versions/ZQZWXIeA/scorchful-0.6.3.jar",
+					"version": "ZQZWXIeA"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "dehydration",
+						"recommendations": [
+							{
+								"value": "frostful"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/SZQ5qcdn/versions/ZnZh1VaC/scorchful-0.7.1.jar",
 					"version": "ZnZh1VaC"
 				},

@@ -20,8 +20,8 @@
 						]
 					},
 					"stability": "latest",
-					"url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/45j4Lh8t/appliedenergistics2-19.0.6-alpha.jar",
-					"version": "45j4Lh8t"
+					"url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/7VNKQE9m/appliedenergistics2-19.0.7-alpha.jar",
+					"version": "7VNKQE9m"
 				},
 				{
 					"minecraft_versions": "1.20.1",
@@ -228,6 +228,26 @@
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/Mdn0ka1O/appliedenergistics2-fabric-15.0.7-beta.jar",
 					"version": "Mdn0ka1O"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/45j4Lh8t/appliedenergistics2-19.0.6-alpha.jar",
+					"version": "45j4Lh8t"
 				},
 				{
 					"minecraft_versions": "1.21",
