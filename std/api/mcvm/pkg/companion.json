@@ -1,0 +1,374 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/gqjOYbM8/Companion-1.20-fabric-5.1.0.jar",
+					"version": "gqjOYbM8"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/VO9SMHm0/Companion-1.20-fabric-5.0.2.jar",
+					"version": "VO9SMHm0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/88BouKtj/Companion-1.20-fabric-5.0.1.jar",
+					"version": "88BouKtj"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/ExeOzSGU/Companion-1.20.1-forge-5.0.1.jar",
+					"version": "ExeOzSGU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/W3ZahCuK/Companion-1.20-fabric-5.0.0.jar",
+					"version": "W3ZahCuK"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/Sn8QNOSu/Companion-1.19.2-fabric-3.2.2.jar",
+					"version": "Sn8QNOSu"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/7NBgz9Ej/Companion-1.19.2-forge-3.1.3.jar",
+					"version": "7NBgz9Ej"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/IsnCKO0T/Companion-1.19.3-forge-4.1.1.jar",
+					"version": "IsnCKO0T"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/6UDLDwOP/Companion-1.19.2-forge-3.1.2.jar",
+					"version": "6UDLDwOP"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/PM6AkvAy/Companion-1.19.2-fabric-3.2.1.jar",
+					"version": "PM6AkvAy"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/JoPnlEZo/Companion-1.19.3-fabric-4.1.1.jar",
+					"version": "JoPnlEZo"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/9tkf3WZe/Companion-1.19.2-fabric-3.2.0.jar",
+					"version": "9tkf3WZe"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/vtfmBN6a/Companion-1.19.3-fabric-4.1.0.jar",
+					"version": "vtfmBN6a"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/DoQmCQei/Companion-1.19.3-fabric-4.0.0.jar",
+					"version": "DoQmCQei"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/SkR84j5T/Companion-1.19.2-forge-3.1.1.jar",
+					"version": "SkR84j5T"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/rn2sV10Q/Companion-1.19.2-fabric-3.1.2.jar",
+					"version": "rn2sV10Q"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "kiwi"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/nVb4BhsV/Companion-1.18.2-fabric-2.0.1.jar",
+					"version": "nVb4BhsV"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "kiwi"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/ow4aP87c/Companion-1.18.2-forge-2.2.0.jar",
+					"version": "ow4aP87c"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Snownee"
+		],
+		"community": "https://discord.gg/KzGQW7a",
+		"description": "Mechanics to avoid losing your pets, but do not break the vanilla feel",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/4w0EzGRW/bf3213bc6a0ad5570d040d5d57672a952a29cae6.gif",
+		"issues": "https://github.com/Snownee/Companion/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "# Companion 🐕\n\nThis mod adds various mechanics to avoid losing your pets, to enhance game experience.\n\n### Features:\n\n - Pets will follow you when you teleport or enter a portal\n - Your leashed mobs will follow you when you enter a portal\n - Pets will be forced to teleport to you if it is about to be unloaded\n - Pets won't attack enemies if their health is lower than 20%\n - Pets will teleport to your back if their health is lower than 20%\n - Pets won't enter a portal unless it is close to you\n - Parrots won't dismount from your shoulder when you are floating on the water\n - Parrots won't dismount from your shoulder unless you jump in place\n - Sweeping Edge effect won't hurt your pets\n - Pet friendly fire game rule\n\nAll these features can be disabled and configured if you have installed [Kiwi](https://modrinth.com/mod/kiwi). Besides, in-game config UI is provided if you have installed [Cloth Config](https://modrinth.com/mod/cloth-config)",
+		"name": "Companion 🐕",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Snownee/Companion",
+		"support_link": "https://ko-fi.com/snownee"
+	},
+	"properties": {
+		"modrinth_id": "4w0EzGRW",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19.2",
+			"1.19.3",
+			"1.20",
+			"1.20.1"
+		]
+	}
+}

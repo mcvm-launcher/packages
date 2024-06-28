@@ -1,0 +1,905 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/EiHVohhQ/MoreChestVariants-1.5.6%2B1.21-Fabric.jar",
+					"version": "EiHVohhQ"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/vNb1rjHH/MoreChestVariants-1.5.6%2B1.21-Neo.jar",
+					"version": "vNb1rjHH"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/bfU1riZk/MoreChestVariants-1.5.6%2B1.20.6-Fabric.jar",
+					"version": "bfU1riZk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/OzNRKYnw/MoreChestVariants-1.5.6%2B1.20.6-Neo.jar",
+					"version": "OzNRKYnw"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/AL5BWAbV/MoreChestVariants-1.5.6%2B1.20.4-Fabric.jar",
+					"version": "AL5BWAbV"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/cvoUOXVE/MoreChestVariants-1.5.6%2B1.20.4-Neo.jar",
+					"version": "cvoUOXVE"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/Ib5AFg4x/MoreChestVariants-1.5.6%2B1.20.4-Forge.jar",
+					"version": "Ib5AFg4x"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/4RTlXzWr/MoreChestVariants-1.5.6%2B1.20.2-Fabric.jar",
+					"version": "4RTlXzWr"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/nzXkg0VS/MoreChestVariants-1.5.6%2B1.20.2-Forge.jar",
+					"version": "nzXkg0VS"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/JFsRsPmu/MoreChestVariants-1.5.5%2B1.21-Fabric.jar",
+					"version": "JFsRsPmu"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/AFbLq8x1/MoreChestVariants-1.5.5%2B1.21-Neo.jar",
+					"version": "AFbLq8x1"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/j7TzFcUJ/MoreChestVariants-1.5.5%2B1.20.6-Fabric.jar",
+					"version": "j7TzFcUJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/HbEjDAgq/MoreChestVariants-1.5.5%2B1.20.6-Neo.jar",
+					"version": "HbEjDAgq"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/alasFHFb/MoreChestVariants-1.5.5%2B1.20.4-Fabric.jar",
+					"version": "alasFHFb"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/KImdBNdI/MoreChestVariants-1.5.5%2B1.20.4-Neo.jar",
+					"version": "KImdBNdI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/afQya3zQ/MoreChestVariants-1.5.5%2B1.20.4-Forge.jar",
+					"version": "afQya3zQ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/D4jJgBcn/MoreChestVariants-1.5.5%2B1.20.2-Fabric.jar",
+					"version": "D4jJgBcn"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/q3AP6Mkn/MoreChestVariants-1.5.5%2B1.20.2-Forge.jar",
+					"version": "q3AP6Mkn"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/f4iNGflt/MoreChestVariants-1.5.4%2B1.20.6-Fabric.jar",
+					"version": "f4iNGflt"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/8QPZJkss/MoreChestVariants-1.5.4%2B1.20.6-Neo.jar",
+					"version": "8QPZJkss"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/Xzim8Cee/MoreChestVariants-1.5.4%2B1.20.2-Fabric.jar",
+					"version": "Xzim8Cee"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/l2vbFfSI/MoreChestVariants-1.5.4%2B1.20.2-Forge.jar",
+					"version": "l2vbFfSI"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/ak991rzW/MoreChestVariants-1.5.3%2B1.20.6-Fabric.jar",
+					"version": "ak991rzW"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/6CFSsiEa/MoreChestVariants-1.5.3%2B1.20.6-Neo.jar",
+					"version": "6CFSsiEa"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/OLwxRjZy/MoreChestVariants-1.5.3%2B1.20.4-Fabric.jar",
+					"version": "OLwxRjZy"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/UYbW9Ham/MoreChestVariants-1.5.3%2B1.20.4-Neo.jar",
+					"version": "UYbW9Ham"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/Nv1bPXup/MoreChestVariants-1.5.3%2B1.20.4-Forge.jar",
+					"version": "Nv1bPXup"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/evfcslZ0/MoreChestVariants-1.5.3%2B1.20.2-Fabric.jar",
+					"version": "evfcslZ0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/O3zQpx8E/MoreChestVariants-1.5.3%2B1.20.2-Forge.jar",
+					"version": "O3zQpx8E"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/pJiiCcxB/MoreChestVariants-1.5.2%2B1.20.4-Fabric.jar",
+					"version": "pJiiCcxB"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/buSNljvE/MoreChestVariants-1.5.2%2B1.20.4-Neo.jar",
+					"version": "buSNljvE"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/3l12ZyuL/MoreChestVariants-1.5.2%2B1.20.4-Forge.jar",
+					"version": "3l12ZyuL"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/M0ekItoU/MoreChestVariants-1.5.2%2B1.20.2-Fabric.jar",
+					"version": "M0ekItoU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/Fn5t5Jzd/MoreChestVariants-1.5.2%2B1.20.2-Forge.jar",
+					"version": "Fn5t5Jzd"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/ITPfhUjH/MoreChestVariants-1.5.1%2B1.20.4-Fabric.jar",
+					"version": "ITPfhUjH"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/chmTLQ49/MoreChestVariants-1.5.1%2B1.20.4-Neo.jar",
+					"version": "chmTLQ49"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/bx00TVXs/MoreChestVariants-1.5.1%2B1.20.4-Forge.jar",
+					"version": "bx00TVXs"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/7hlHYjqZ/MoreChestVariants-1.5.1%2B1.20.2-Fabric.jar",
+					"version": "7hlHYjqZ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/6qW9dlm9/MoreChestVariants-1.5.1%2B1.20.2-Forge.jar",
+					"version": "6qW9dlm9"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/FyWq7taK/MoreChestVariants-1.5.0%2B1.20.4-Fabric.jar",
+					"version": "FyWq7taK"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/MNfSJ4dx/MoreChestVariants-1.5.0%2B1.20.4-Forge.jar",
+					"version": "MNfSJ4dx"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/vtKUFKa1/MoreChestVariants-1.5.0%2B1.20.2-Fabric.jar",
+					"version": "vtKUFKa1"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/kxCH5vog/MoreChestVariants-1.5.0%2B1.20.2-Forge.jar",
+					"version": "kxCH5vog"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/nuCvdI58/MoreChestVariants-1.5.0%2B1.19.4-Fabric.jar",
+					"version": "nuCvdI58"
+				},
+				{
+					"minecraft_versions": [
+						"1.19.3",
+						"1.19.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/25q3filJ/MoreChestVariants-1.5.0%2B1.19.4-Forge.jar",
+					"version": "25q3filJ"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/y4ApPXCr/MoreChestVariants-1.5.0-beta.3%2B1.20.4-Fabric.jar",
+					"version": "y4ApPXCr"
+				},
+				{
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/VxO9lXbl/MoreChestVariants-1.5.0-beta.3%2B1.20.4-Neo.jar",
+					"version": "VxO9lXbl"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/54qNacKk/MoreChestVariants-1.5.0-beta.3%2B1.20.2-Fabric.jar",
+					"version": "54qNacKk"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/t5EEv0ZX/MoreChestVariants-1.5.0-beta.3%2B1.20.2-Forge.jar",
+					"version": "t5EEv0ZX"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/UFmh3Kff/MoreChestVariants-1.5.0-beta.2%2B1.20.2-Fabric.jar",
+					"version": "UFmh3Kff"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/G9Z0bcCA/MoreChestVariants-1.5.0-beta.2%2B1.20.2-Forge.jar",
+					"version": "G9Z0bcCA"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/DZpbtTEi/MoreChestVariants-1.5.0-beta.2%2B1.19.2-Fabric.jar",
+					"version": "DZpbtTEi"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/bgzq5SoD/MoreChestVariants-1.5.0-beta.2%2B1.19.2-Forge.jar",
+					"version": "bgzq5SoD"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/JZiD9xz4/MoreChestVariants-1.5.0-beta.1%2B1.20.2-Fabric.jar",
+					"version": "JZiD9xz4"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/56SowvI6/MoreChestVariants-1.4.1%2B1.20.2-Fabric.jar",
+					"version": "56SowvI6"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/1CzoZkav/MoreChestVariants-1.4.1%2B1.20.2-Forge.jar",
+					"version": "1CzoZkav"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/L8nzs7BJ/MoreChestVariants-1.4.0%2B1.20.1-Fabric.jar",
+					"version": "L8nzs7BJ"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/Y0uBxNdw/MoreChestVariants-1.4.0%2B1.20.1-Forge.jar",
+					"version": "Y0uBxNdw"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/zkGsVkE0/More%20Chest%20Variants-1.3.1%2B1.20.1-Forge.jar",
+					"version": "zkGsVkE0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/FtGtFmMM/MoreChestVariants-1.3.0%2B1.20.1-Fabric.jar",
+					"version": "FtGtFmMM"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/t3utBPnY/MoreChestVariants-1.2.2%2B1.20.1-Fabric.jar",
+					"version": "t3utBPnY"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/UCRi2ugG/MoreChestVariants-1.2.1-1.20.1-Fabric.jar",
+					"version": "UCRi2ugG"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/M3BSVcGI/MoreChestVariants-v1.1.2-1.20.1-Forge.jar",
+					"version": "M3BSVcGI"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"LieOnLion"
+		],
+		"banner": "https://cdn.modrinth.com/data/HKKqmr2p/images/7d968aea0d593d0c1756ed3695a1a4bf4262205f.png",
+		"community": "https://discord.com/invite/sA42pp6cuX",
+		"description": "Chests for all the different woods",
+		"gallery": [
+			"https://cdn.modrinth.com/data/HKKqmr2p/images/7d968aea0d593d0c1756ed3695a1a4bf4262205f.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/HKKqmr2p/663d27b2efc202200ff2270f4edee28eaa3bfa04.gif",
+		"issues": "https://github.com/LieOnLion/More-Chest-Variants/issues",
+		"license": "MIT",
+		"long_description": "![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/mod-titles/more-chest-variants.png)\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/strip/lol.png)\n\n[![discord](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/discord.svg)](https://discord.com/invite/sA42pp6cuX)\n[![youtube](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/youtube.svg)](https://www.youtube.com/@lieonlion?sub_confirmation=1)\n[![github](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/github.svg)](https://github.com/LieOnLion/More-Chest-Variants)\n[![modrinth](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/modrinth.svg)](https://modrinth.com/user/LieOnLion)\n[![curseforge](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/curseforge.svg)](https://www.curseforge.com/members/lieonlion)\n[![patreon](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/patreon.svg)](https://www.patreon.com/LieOnLion)\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/strip/lol.png)\n\n[![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/a-creation-by-lieon-studio.svg)](https://modrinth.com/organization/lieon-studios)\n[![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/featured-in-aof7.svg)](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-7)\n[![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/requires-quad.svg)](https://modrinth.com/mod/quad)\n\n***\n\n## uBlock\n**With recent actions from uBlock Origin, they are now blocking Mod/Modpack developers banners leading to server hosting websites. These, in a sense, are no different to Youtubers having promo links in their descriptions.**\n\n**On top of this, team members have been rude to us, deleting comments on genuine concern or questions and calling us mod devs a \"moronic team\".**\n\n**So this is a message to uBlock, this is a losing battle, we will find ways to get past this. If we don't, many of us might need to start baking ads into our mods, and no one wants that.\nIf you are currently using uBlock, please turn it off for Modrinth and Curseforge so we mod devs can continue releasing *free* quality content**\n\n**also #tryBlockingThis and waste even more time**\n\n***\n\n### Adding the much-needed More Chest Variants. \nFill your builds with colourful storage now each wood type now has its own chest. Unique designs now to not let the default chest ruin your style.\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/banners/mcv/vanillaChests.png)\n\n### Adding 11 new chests to minecraft in the most vanilla way possible.\n\nWith Quad support adding:\n- Chests can be burt for fuel in a furnace (excluding nether woods)\n- Nether wood chests being immune to fire/lava\n- Any chest being usable in vanilla recipes (e.g. Hoppers)\n\n## Star Wars day\n\nMore Chest Variants was released on 4th May 2023. For this reason, from May 3rd to May 5th special Star Wars textures will be rendered on your chests. May the 4th be with you all.\n\n## [Chested Companions](https://www.curseforge.com/minecraft/mc-mods/chested-companions)\n\nDo you want your pets to carry arround little chests? Well now with [Chested Companions](https://www.curseforge.com/minecraft/mc-mods/chested-companions) and More Chest Variants support, they can carry chests from your favourite wood type!\n\n## First Year\n\nMore Chest Variants has now hit 1 years old on 4th May 2024. In this 1st year, it has reached 282k downloads on Curseforge and 93k on Modrinth, with a total of 375k downloads :O. With also getting in [AOF7](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-7)\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/strip/lol.png)\n\n[**![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/banners/bisect-banner-spruce-chest.png)**](https://lieonlion.github.io/link-redirect/)",
+		"name": "More Chests Variants (MCV)",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/LieOnLion/More-Chest-Variants/",
+		"support_link": "https://www.patreon.com/LieOnLion"
+	},
+	"properties": {
+		"modrinth_id": "HKKqmr2p",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
+		]
+	}
+}
