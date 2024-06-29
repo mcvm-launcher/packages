@@ -5,6 +5,67 @@
 			"versions": [
 				{
 					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mineblocks-repeated-utilities"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/QU8UlhwP/Sounds-1.0.1%2B1.20.4.jar",
+					"version": "QU8UlhwP"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mineblocks-repeated-utilities"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/7FsT9weU/Sounds-1.0.1%2B1.20.6.jar",
+					"version": "7FsT9weU"
+				},
+				{
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mineblocks-repeated-utilities"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/5MMDOc9T/Sounds-1.0.1%2B1.20.1.jar",
+					"version": "5MMDOc9T"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mineblocks-repeated-utilities"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/Mg6B68b5/Sounds-1.0.1%2B1.21.jar",
+					"version": "Mg6B68b5"
+				},
+				{
+					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
 					],

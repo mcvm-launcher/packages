@@ -1,0 +1,145 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/B2A3DHhY/darkness-fabric-mc119-2.0.103.jar",
+					"version": "B2A3DHhY"
+				},
+				{
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/nwbxqwzQ/darkness-forge-mc119-2.0.103.jar",
+					"version": "nwbxqwzQ"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/Jknh5xMh/darkness-forge-mc119-2.0.101.jar",
+					"version": "Jknh5xMh"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/4uCbhkGv/darkness-fabric-mc119-2.0.101.jar",
+					"version": "4uCbhkGv"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/VlYcS0AS/darkness-forge-mc119-2.0.98.jar",
+					"version": "VlYcS0AS"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/zjSKuhJ9/darkness-fabric-mc119-2.0.98.jar",
+					"version": "zjSKuhJ9"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/forge-mc119-2.0.95/darkness-forge-mc119-2.0.95.jar",
+					"version": "ie0i133C"
+				},
+				{
+					"minecraft_versions": "1.19",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/fabric-mc119-2.0.94/darkness-fabric-mc119-2.0.94.jar",
+					"version": "7mBWJBUx"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/forge-mc118-2.0.91/darkness-forge-mc118-2.0.91.jar",
+					"version": "vBtZ8eOH"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/fabric-mc118-2.0.91/darkness-fabric-mc118-2.0.91.jar",
+					"version": "Kf8pZbaq"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/forge-mc118-2.0.89/darkness-forge-mc118-2.0.89.jar",
+					"version": "sy3mFfQC"
+				},
+				{
+					"minecraft_versions": "1.18.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/fabric-mc118-2.0.89/darkness-fabric-mc118-2.0.89.jar",
+					"version": "2FFtZocO"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/forge-mc117-2.0.87/darkness-forge-mc117-2.0.87.jar",
+					"version": "ZbQYHbDM"
+				},
+				{
+					"minecraft_versions": "1.17.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Ja7zPEaN/versions/fabric-mc117-2.0.87/darkness-fabric-mc117-2.0.87.jar",
+					"version": "5pfLAqe8"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"grondag"
+		],
+		"community": "https://discord.gg/7NaqR2e",
+		"description": "Moody brightness not dark enough?  Do you want moonless nights and unlit caverns to be pitch black?  This mod is for you!",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/Ja7zPEaN/icon.png",
+		"issues": "https://github.com/grondag/darkness/issues",
+		"license": "LGPL-3.0-only",
+		"long_description": "### Quick Facts\n- Full moon = normal Minecraft brightness\n- New moon = no light at all\n- No torch light and no sky light = pure black, irrespective of moon phase\n- For Fabric Mod Loader\n- Client-side only\n- No dependencies\n\n### Configuration\nConfiguration is in config/darkness.properties\n- dark_overworld: enable in Overworld (default: true)\n- dark_default: enable in modded dimensions with a sky, like Overworld (default: true)\n- dark_nether: enable in Nether (default: true)\n- dark_end: enable in End (default: true)\n- dark_skyless: enable in modded dimensions without a sky, like End and Nether (default: true)\n- dark_nether_fog: Set to a value between 0.0 and 1.0 (inclusive) to make Nether fog darker (default: 0.5) \n- dark_end_fog: Set to a value between 0.0 and 1.0 (inclusive) to make End fog darker (default: 0.0) ",
+		"name": "True Darkness",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/grondag/darkness"
+	},
+	"properties": {
+		"modrinth_id": "Ja7zPEaN",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.17.1",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.2",
+			"1.19.3"
+		]
+	}
+}

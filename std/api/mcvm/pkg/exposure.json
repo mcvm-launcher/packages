@@ -24,6 +24,50 @@
 						]
 					},
 					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/STVFOSon/exposure-1.20.1-1.7.1-fabric.jar",
+					"version": "STVFOSon"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/UAWpsGGe/exposure-1.20.1-1.7.1-forge.jar",
+					"version": "UAWpsGGe"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/DvBGQjb3/exposure-1.20.1-1.7.0-fabric.jar",
 					"version": "DvBGQjb3"
 				},

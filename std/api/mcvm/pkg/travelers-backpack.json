@@ -4,6 +4,72 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cardinal-components-api",
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "crafting-tweaks"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/yec216MV/travelersbackpack-fabric-1.20.1-9.1.15.jar",
+					"version": "yec216MV"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cardinal-components-api",
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "crafting-tweaks"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/70ydZU6U/travelersbackpack-fabric-1.19.2-8.2.39.jar",
+					"version": "70ydZU6U"
+				},
+				{
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cardinal-components-api",
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "crafting-tweaks"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/J9O32xos/travelersbackpack-fabric-1.18.2-7.1.42.jar",
+					"version": "J9O32xos"
+				},
+				{
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -68,72 +134,6 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/Mn84WPSB/travelersbackpack-fabric-1.20.4-9.4.6.jar",
 					"version": "Mn84WPSB"
-				},
-				{
-					"minecraft_versions": "1.20.1",
-					"modloaders": "fabriclike",
-					"relations": {
-						"dependencies": [
-							"cardinal-components-api",
-							"cloth-config",
-							"fabriclike-api"
-						],
-						"recommendations": [
-							{
-								"value": "crafting-tweaks"
-							},
-							{
-								"value": "trinkets"
-							}
-						]
-					},
-					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/IkdXJBjJ/travelersbackpack-fabric-1.20.1-9.1.14.jar",
-					"version": "IkdXJBjJ"
-				},
-				{
-					"minecraft_versions": "1.19.2",
-					"modloaders": "fabriclike",
-					"relations": {
-						"dependencies": [
-							"cardinal-components-api",
-							"cloth-config",
-							"fabriclike-api"
-						],
-						"recommendations": [
-							{
-								"value": "crafting-tweaks"
-							},
-							{
-								"value": "trinkets"
-							}
-						]
-					},
-					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/TRtQYq9y/travelersbackpack-fabric-1.19.2-8.2.38.jar",
-					"version": "TRtQYq9y"
-				},
-				{
-					"minecraft_versions": "1.18.2",
-					"modloaders": "fabriclike",
-					"relations": {
-						"dependencies": [
-							"cardinal-components-api",
-							"cloth-config",
-							"fabriclike-api"
-						],
-						"recommendations": [
-							{
-								"value": "crafting-tweaks"
-							},
-							{
-								"value": "trinkets"
-							}
-						]
-					},
-					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/a33e9yF3/travelersbackpack-fabric-1.18.2-7.1.41.jar",
-					"version": "a33e9yF3"
 				},
 				{
 					"minecraft_versions": "1.21",

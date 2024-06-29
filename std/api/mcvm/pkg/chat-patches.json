@@ -4,6 +4,28 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MOqt4Z5n/versions/mFNwP2dV/chatpatches-206.6.6.jar",
+					"version": "mFNwP2dV"
+				},
+				{
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
 						"fabriclike",

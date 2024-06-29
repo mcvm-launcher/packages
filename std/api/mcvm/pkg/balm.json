@@ -4,6 +4,54 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/lRDrMehk/balm-neoforge-1.20.6-10.3.6-all.jar",
+					"version": "lRDrMehk"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/InVQrh0j/balm-neoforge-1.21-21.0.11-all.jar",
+					"version": "InVQrh0j"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/22lhs0MW/balm-forge-1.20.6-10.3.6-all.jar",
+					"version": "22lhs0MW"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/ryOwjzmq/balm-fabric-1.21-21.0.11.jar",
+					"version": "ryOwjzmq"
+				},
+				{
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/2LJ9NkXc/balm-forge-1.21-21.0.11-all.jar",
+					"version": "2LJ9NkXc"
+				},
+				{
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/A65ALFtK/balm-fabric-1.20.6-10.3.6.jar",
+					"version": "A65ALFtK"
+				},
+				{
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
 					"stability": "stable",

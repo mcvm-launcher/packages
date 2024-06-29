@@ -4,6 +4,17 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/UMmSTwE0/versions/cdG7fvxz/blossom-blade-1.2.jar",
+					"version": "cdG7fvxz"
+				},
+				{
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1",
@@ -99,7 +110,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

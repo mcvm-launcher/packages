@@ -1,0 +1,140 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"extensions": "fabric-seasons"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WBzldFmc/versions/Vh6j7Y0P/spoiledz-1.0.10.jar",
+					"version": "Vh6j7Y0P"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"extensions": "fabric-seasons"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WBzldFmc/versions/5gPTfjEU/spoiledz-1.0.7.jar",
+					"version": "5gPTfjEU"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"extensions": "fabric-seasons"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WBzldFmc/versions/20sKYqCO/spoiledz-1.0.9.jar",
+					"version": "20sKYqCO"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"extensions": "fabric-seasons"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WBzldFmc/versions/fthsYryv/spoiledz-1.0.8.jar",
+					"version": "fthsYryv"
+				},
+				{
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"extensions": "fabric-seasons"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WBzldFmc/versions/K5t5LED4/spoiledz-1.0.7.jar",
+					"version": "K5t5LED4"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"extensions": "fabric-seasons"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WBzldFmc/versions/6AEHJIVm/spoiledz-1.0.6.jar",
+					"version": "6AEHJIVm"
+				},
+				{
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"arrp",
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"extensions": "fabric-seasons"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WBzldFmc/versions/yegkBH4I/spoiledz-1.0.5.jar",
+					"version": "yegkBH4I"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Globox1997"
+		],
+		"community": "https://modrinth.com/mod/additionz/settings/links",
+		"description": "Fabric seasons mod addon which adds spoilage to food items",
+		"documentation": "https://globox1997.github.io/wiki/mods/SpoiledZ/",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/WBzldFmc/ee2d4efb466379a4951f144f70dfb0679a3d3be2.png",
+		"issues": "https://github.com/Globox1997/SpoiledZ/issues",
+		"license": "MIT",
+		"long_description": "![Headline](https://i.imgur.com/I8nVryg.png)\n\n<center>\n\n[<img src=\"https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge\">](https://discord.gg/cV4cJyGXqF) \n[<img src=\"https://img.shields.io/website?color=7bc466&label=Globox&style=for-the-badge&up_message=Wiki&url=https://globox1997.github.io/wiki/mods/SpoiledZ/\">](https://globox1997.github.io/wiki/mods/SpoiledZ/)\n[<img src=\"https://img.shields.io/github/issues/Globox1997/SpoiledZ?color=c4667b&style=for-the-badge\">](https://github.com/Globox1997/SpoiledZ/issues)\n</center>\n\n<img src=\"https://i.imgur.com/K0Bn3Mh.png\" alt= “Description” width=\"25%\" height=\"auto\">\n<br><br/>\n\nThis mod is an addon for the [fabric seasons](https://modrinth.com/mod/fabric-seasons) mod which adds spoilage to food items. This is hardcoded to two years.  \nIf the food item is spoiled and eaten, the nutrition is decreased and the player will get some debuffs.\n\n![Showcase](https://i.imgur.com/SASnm1J.png)\n\n\n<img src=\"https://i.imgur.com/WKCuHQL.png\" alt= “Misc” width=\"10%\" height=\"auto\">\n<br><br />\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/fabric-api)\n[<img src=\"https://i.imgur.com/7weZ8uu.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/cloth-config)\n\n\n\nThis mod is developed for Fabric.  \nThere are no plans to develop a Forge version. \n\n\nModpack Permission:  \nFeel free to use it in any modpacks.\n\n\nBug Report:  \nJust report bugs at the github page.",
+		"name": "SpoiledZ",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Globox1997/SpoiledZ"
+	},
+	"properties": {
+		"modrinth_id": "WBzldFmc",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19.2",
+			"1.20.1"
+		]
+	}
+}
