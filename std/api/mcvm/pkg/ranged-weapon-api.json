@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.2-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -14,6 +15,7 @@
 					"version": "R1YG5awX"
 				},
 				{
+					"content_versions": "1.1.1-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -24,6 +26,7 @@
 					"version": "oEjSAqNj"
 				},
 				{
+					"content_versions": "1.1.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -34,6 +37,7 @@
 					"version": "Mj5snp7k"
 				},
 				{
+					"content_versions": "1.0.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -66,6 +70,12 @@
 		"source": "https://github.com/FabricExtras/RangedWeaponAPI"
 	},
 	"properties": {
+		"content_versions": [
+			"1.1.2-1.20.1",
+			"1.1.1-1.20.1",
+			"1.1.0-1.20.1",
+			"1.0.0-1.20.1"
+		],
 		"modrinth_id": "AqaIIO6D",
 		"supported_modloaders": [
 			"fabriclike"

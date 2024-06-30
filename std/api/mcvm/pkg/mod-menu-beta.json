@@ -4,6 +4,20 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.8.5-beta.4",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "glass-config-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6v8kVRE3/versions/77CNIjtt/ModMenu-1.8.5-beta.4.jar",
+					"version": "77CNIjtt"
+				},
+				{
+					"content_versions": "1.8.5-beta.3",
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"stability": "latest",
@@ -41,6 +55,10 @@
 		"source": "https://github.com/calmilamsy/ModMenu"
 	},
 	"properties": {
+		"content_versions": [
+			"1.8.5-beta.4",
+			"1.8.5-beta.3"
+		],
 		"modrinth_id": "6v8kVRE3",
 		"open_source": true,
 		"supported_modloaders": [

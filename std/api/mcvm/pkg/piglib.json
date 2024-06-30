@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.1",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -11,6 +12,7 @@
 					"version": "fhLZmMdP"
 				},
 				{
+					"content_versions": "1.2.0-mc1.20.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -18,6 +20,7 @@
 					"version": "iIU7M1T1"
 				},
 				{
+					"content_versions": "1.1.2-mc1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -28,6 +31,7 @@
 					"version": "e6E3lwab"
 				},
 				{
+					"content_versions": "1.1.0",
 					"minecraft_versions": "1.18",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -35,6 +39,7 @@
 					"version": "OX7Q05Xb"
 				},
 				{
+					"content_versions": "1.0.4",
 					"minecraft_versions": "1.17.1",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -42,6 +47,7 @@
 					"version": "pr3LSqoL"
 				},
 				{
+					"content_versions": "1.0.3-1.16",
 					"minecraft_versions": "1.16.5",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -49,6 +55,7 @@
 					"version": "mcYxcxnc"
 				},
 				{
+					"content_versions": "1.0.2-1.17",
 					"minecraft_versions": "20w49a",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -56,6 +63,7 @@
 					"version": "ybVS4Jl5"
 				},
 				{
+					"content_versions": "1.0.2-1.16",
 					"minecraft_versions": "1.16.4",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -82,6 +90,16 @@
 		"source": "https://github.com/Shnupbups/Piglib"
 	},
 	"properties": {
+		"content_versions": [
+			"1.2.0-mc1.20.4",
+			"1.1.2-mc1.20.1",
+			"1.1.1",
+			"1.1.0",
+			"1.0.4",
+			"1.0.3-1.16",
+			"1.0.2-1.17",
+			"1.0.2-1.16"
+		],
 		"modrinth_id": "VgThuZ4x",
 		"supported_modloaders": [
 			"fabriclike"

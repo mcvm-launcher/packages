@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "5.2.1",
 					"minecraft_versions": "1.21",
 					"modloaders": [
 						"fabriclike",
@@ -17,6 +18,7 @@
 					"version": "GngqTZ0E"
 				},
 				{
+					"content_versions": "5.2.1-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
 					"relations": {
@@ -27,6 +29,7 @@
 					"version": "TMOdQHDi"
 				},
 				{
+					"content_versions": "5.1.0-neo",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
 					"relations": {
@@ -37,6 +40,7 @@
 					"version": "2hskTr6k"
 				},
 				{
+					"content_versions": "5.1.0",
 					"minecraft_versions": "1.20.4",
 					"modloaders": [
 						"fabriclike",
@@ -50,6 +54,7 @@
 					"version": "2evcQb3y"
 				},
 				{
+					"content_versions": "5.0.1",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -60,6 +65,7 @@
 					"version": "lqH98CUx"
 				},
 				{
+					"content_versions": "5.0.1",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -70,6 +76,7 @@
 					"version": "WisLIPQ9"
 				},
 				{
+					"content_versions": "5.0.1",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -83,6 +90,7 @@
 					"version": "ebyijdsw"
 				},
 				{
+					"content_versions": "5.0.0",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "quilt",
 					"relations": {
@@ -93,6 +101,7 @@
 					"version": "QHceqD2V"
 				},
 				{
+					"content_versions": "5.0.0",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -103,6 +112,7 @@
 					"version": "QE4IlQoJ"
 				},
 				{
+					"content_versions": "5.0.0",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "forgelike",
 					"relations": {
@@ -116,6 +126,7 @@
 					"version": "z8qd9WuG"
 				},
 				{
+					"content_versions": "4.1.1",
 					"minecraft_versions": [
 						"1.19",
 						"1.19.1",
@@ -134,6 +145,7 @@
 					"version": "OXBkbR1M"
 				},
 				{
+					"content_versions": "4.1.0",
 					"minecraft_versions": "1.18.2",
 					"modloaders": [
 						"fabriclike",
@@ -150,6 +162,7 @@
 					"version": "MUk2Z2Zv"
 				},
 				{
+					"content_versions": "5.2.0-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
 					"relations": {
@@ -160,6 +173,7 @@
 					"version": "76fbCyTt"
 				},
 				{
+					"content_versions": "5.2.0",
 					"minecraft_versions": "1.21",
 					"modloaders": [
 						"fabriclike",
@@ -173,6 +187,7 @@
 					"version": "4nC7lhgG"
 				},
 				{
+					"content_versions": "4.0.0",
 					"minecraft_versions": [
 						"1.18",
 						"1.18.1"
@@ -183,6 +198,7 @@
 					"version": "1N6fR5J3"
 				},
 				{
+					"content_versions": "3.3.0",
 					"minecraft_versions": [
 						"1.17",
 						"1.17.1"
@@ -193,6 +209,7 @@
 					"version": "JhRfkHGc"
 				},
 				{
+					"content_versions": "3.2.0",
 					"minecraft_versions": [
 						"1.16",
 						"1.16.1",
@@ -207,6 +224,7 @@
 					"version": "htd4BGhg"
 				},
 				{
+					"content_versions": "3.1.0",
 					"minecraft_versions": [
 						"1.16",
 						"1.16.1",
@@ -221,6 +239,7 @@
 					"version": "RneCYQS9"
 				},
 				{
+					"content_versions": "3.0.0",
 					"minecraft_versions": [
 						"1.16",
 						"1.16.1",
@@ -235,6 +254,7 @@
 					"version": "Jte5pWQ7"
 				},
 				{
+					"content_versions": "2.0.1",
 					"minecraft_versions": [
 						"1.16",
 						"1.16.1",
@@ -249,6 +269,7 @@
 					"version": "dRqQqDV3"
 				},
 				{
+					"content_versions": "1.0.0",
 					"minecraft_versions": [
 						"1.16",
 						"1.16.1",
@@ -291,6 +312,25 @@
 		"source": "https://github.com/TeamMidnightDust/VisualOverhaul"
 	},
 	"properties": {
+		"content_versions": [
+			"5.2.1",
+			"5.2.1-neo",
+			"5.2.0",
+			"5.2.0-neo",
+			"5.1.0",
+			"5.1.0-neo",
+			"5.0.1",
+			"5.0.0",
+			"4.1.1",
+			"4.1.0",
+			"4.0.0",
+			"3.3.0",
+			"3.2.0",
+			"3.1.0",
+			"3.0.0",
+			"2.0.1",
+			"1.0.0"
+		],
 		"modrinth_id": "YQnwl5Vv",
 		"supported_modloaders": [
 			"fabriclike",

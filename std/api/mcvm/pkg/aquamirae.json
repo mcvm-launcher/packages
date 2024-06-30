@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "6",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -17,6 +18,7 @@
 					"version": "ouUaC54p"
 				},
 				{
+					"content_versions": "6",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -27,6 +29,7 @@
 					"version": "Wc9ngskb"
 				},
 				{
+					"content_versions": "5.6",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -37,6 +40,7 @@
 					"version": "v2QyW19e"
 				},
 				{
+					"content_versions": "5",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -47,6 +51,7 @@
 					"version": "CAaXvTip"
 				},
 				{
+					"content_versions": "5.4",
 					"minecraft_versions": "1.16.5",
 					"modloaders": "forgelike",
 					"relations": {
@@ -81,6 +86,12 @@
 		"support_link": "https://www.patreon.com/Obscuria"
 	},
 	"properties": {
+		"content_versions": [
+			"6",
+			"5.6",
+			"5.4",
+			"5"
+		],
 		"modrinth_id": "k23mNPhZ",
 		"supported_modloaders": [
 			"fabriclike",

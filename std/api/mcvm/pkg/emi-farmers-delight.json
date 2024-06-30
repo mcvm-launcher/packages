@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.1",
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
 						"fabriclike",
@@ -20,6 +21,7 @@
 					"version": "e6tPcnEP"
 				},
 				{
+					"content_versions": "1.0.0",
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
 						"fabriclike",
@@ -55,6 +57,10 @@
 		"source": "https://github.com/nnmrts/emi_farmersdelight"
 	},
 	"properties": {
+		"content_versions": [
+			"1.0.1",
+			"1.0.0"
+		],
 		"modrinth_id": "RlrMSsUI",
 		"supported_modloaders": [
 			"fabriclike"

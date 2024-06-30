@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -11,6 +12,7 @@
 					"version": "vTRi53zD"
 				},
 				{
+					"content_versions": "1.0",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
 					"stability": "stable",
@@ -38,6 +40,9 @@
 		"source": "https://github.com/AstralOrdana/DontDropYourCompass"
 	},
 	"properties": {
+		"content_versions": [
+			"1.0"
+		],
 		"modrinth_id": "xzeX4hke",
 		"supported_modloaders": [
 			"fabriclike"

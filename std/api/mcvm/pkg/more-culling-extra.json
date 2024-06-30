@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v1.1-1.20.1",
 					"minecraft_versions": [
 						"1.20.1",
 						"1.20.2",
@@ -30,6 +31,7 @@
 					"version": "5i4XW7V3"
 				},
 				{
+					"content_versions": "v1.1-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
 						"fabriclike",
@@ -51,6 +53,7 @@
 					"version": "iNzUzmM1"
 				},
 				{
+					"content_versions": "v1.1",
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
 						"fabriclike",
@@ -72,6 +75,7 @@
 					"version": "rPGfLpeu"
 				},
 				{
+					"content_versions": "1.0",
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
 						"fabriclike",
@@ -116,6 +120,12 @@
 		"support_link": "https://github.com/sponsors/fxmorin"
 	},
 	"properties": {
+		"content_versions": [
+			"v1.1-1.20.1",
+			"v1.1-1.19.2",
+			"v1.1",
+			"1.0"
+		],
 		"modrinth_id": "dFKMFBrn",
 		"supported_modloaders": [
 			"fabriclike"

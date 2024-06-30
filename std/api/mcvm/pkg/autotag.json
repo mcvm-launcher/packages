@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.0.2-1.20",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -14,6 +15,7 @@
 					"version": "ocD9XA8D"
 				},
 				{
+					"content_versions": "2.0.2-1.19.4",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -21,6 +23,7 @@
 					"version": "cC57ynct"
 				},
 				{
+					"content_versions": "2.0.2-1.19.3",
 					"minecraft_versions": "1.19.3",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -28,6 +31,7 @@
 					"version": "sXJE2Hnq"
 				},
 				{
+					"content_versions": "2.0.0-1.19",
 					"minecraft_versions": [
 						"1.19",
 						"1.19.1",
@@ -39,6 +43,7 @@
 					"version": "VoyNngbb"
 				},
 				{
+					"content_versions": "1.1.0",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -46,6 +51,7 @@
 					"version": "50kM3UvN"
 				},
 				{
+					"content_versions": "1.0.1",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -53,6 +59,7 @@
 					"version": "iLNm8Z6p"
 				},
 				{
+					"content_versions": "1.0.0",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -81,6 +88,15 @@
 		"source": "https://github.com/apace100/autotag"
 	},
 	"properties": {
+		"content_versions": [
+			"2.0.2-1.20",
+			"2.0.2-1.19.4",
+			"2.0.2-1.19.3",
+			"2.0.0-1.19",
+			"1.1.0",
+			"1.0.1",
+			"1.0.0"
+		],
 		"modrinth_id": "8FdYDHF5",
 		"supported_modloaders": [
 			"fabriclike"

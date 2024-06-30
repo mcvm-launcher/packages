@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.0.1",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "quilt",
 					"relations": {
@@ -18,6 +19,7 @@
 					"version": "fKAvwKdl"
 				},
 				{
+					"content_versions": "2.0",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "quilt",
 					"stability": "stable",
@@ -25,6 +27,7 @@
 					"version": "2kkkXRjU"
 				},
 				{
+					"content_versions": "1.4.0",
 					"minecraft_versions": [
 						"1.19",
 						"1.19.1",
@@ -64,6 +67,11 @@
 		"source": "https://github.com/Ladysnake/Rats-Mischief"
 	},
 	"properties": {
+		"content_versions": [
+			"2.0.1",
+			"2.0",
+			"1.4.0"
+		],
 		"modrinth_id": "Jjc1149h",
 		"supported_modloaders": [
 			"fabriclike"

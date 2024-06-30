@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.19.0-1.21",
 					"minecraft_versions": [
 						"1.21-pre2",
 						"1.21-pre3",
@@ -23,6 +24,7 @@
 					"version": "B15xNulD"
 				},
 				{
+					"content_versions": "1.18.0-1.20.5",
 					"minecraft_versions": [
 						"1.20.5",
 						"1.20.6"
@@ -39,6 +41,7 @@
 					"version": "MDK4h8JF"
 				},
 				{
+					"content_versions": "1.16.1-1.20.2",
 					"minecraft_versions": "1.20.2",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -46,6 +49,7 @@
 					"version": "I346Euw7"
 				},
 				{
+					"content_versions": "1.15.6-1.20.1",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -59,6 +63,7 @@
 					"version": "9xYCRuvv"
 				},
 				{
+					"content_versions": "1.17.1-1.20.4",
 					"minecraft_versions": [
 						"1.20.4",
 						"23w51a",
@@ -76,6 +81,7 @@
 					"version": "YbSs9tOG"
 				},
 				{
+					"content_versions": "1.17.0-1.20.4",
 					"minecraft_versions": [
 						"1.20.4",
 						"23w51a",
@@ -93,6 +99,7 @@
 					"version": "rQt5jR0L"
 				},
 				{
+					"content_versions": "1.16.0-1.20.2",
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
 						"fabriclike",
@@ -103,6 +110,7 @@
 					"version": "1szJCpO0"
 				},
 				{
+					"content_versions": "1.15.3-1.19.3",
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
 						"fabriclike",
@@ -113,6 +121,7 @@
 					"version": "zFAxMHkW"
 				},
 				{
+					"content_versions": "1.15.3-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
 						"fabriclike",
@@ -123,6 +132,7 @@
 					"version": "GlNFICBW"
 				},
 				{
+					"content_versions": "1.15.2-1.19.4",
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
 						"fabriclike",
@@ -133,6 +143,7 @@
 					"version": "Oiy7wUe3"
 				},
 				{
+					"content_versions": "1.15.2",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -146,6 +157,7 @@
 					"version": "54qjYmTd"
 				},
 				{
+					"content_versions": "1.15.1",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -159,6 +171,7 @@
 					"version": "ewQpHc8q"
 				},
 				{
+					"content_versions": "1.15.0",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -172,6 +185,7 @@
 					"version": "ePzzvV1b"
 				},
 				{
+					"content_versions": "1.14.0",
 					"minecraft_versions": "1.19.4",
 					"modloaders": [
 						"fabriclike",
@@ -182,6 +196,7 @@
 					"version": "otAnRDcJ"
 				},
 				{
+					"content_versions": "1.13.2-lts",
 					"minecraft_versions": "1.19.2",
 					"modloaders": [
 						"fabriclike",
@@ -192,6 +207,7 @@
 					"version": "99cBvzlK"
 				},
 				{
+					"content_versions": "1.13.2",
 					"minecraft_versions": "1.19.3",
 					"modloaders": [
 						"fabriclike",
@@ -226,6 +242,24 @@
 		"source": "https://github.com/MineLittlePony/Kirin"
 	},
 	"properties": {
+		"content_versions": [
+			"1.19.0-1.21",
+			"1.18.0-1.20.5",
+			"1.17.1-1.20.4",
+			"1.17.0-1.20.4",
+			"1.16.1-1.20.2",
+			"1.16.0-1.20.2",
+			"1.15.6-1.20.1",
+			"1.15.3-1.19.3",
+			"1.15.3-1.19.2",
+			"1.15.2-1.19.4",
+			"1.15.2",
+			"1.15.1",
+			"1.15.0",
+			"1.14.0",
+			"1.13.2",
+			"1.13.2-lts"
+		],
 		"modrinth_id": "9aNz8Zqn",
 		"supported_modloaders": [
 			"fabriclike"

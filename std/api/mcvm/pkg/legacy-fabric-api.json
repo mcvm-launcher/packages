@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.9.4",
 					"minecraft_versions": [
 						"1.7.10",
 						"1.8",
@@ -19,6 +20,7 @@
 					"version": "wNgetlGa"
 				},
 				{
+					"content_versions": "1.9.3",
 					"minecraft_versions": [
 						"1.7.10",
 						"1.8",
@@ -34,6 +36,7 @@
 					"version": "p8Mwfh4Y"
 				},
 				{
+					"content_versions": "1.9.2",
 					"minecraft_versions": [
 						"1.7.10",
 						"1.8",
@@ -49,6 +52,7 @@
 					"version": "huZzMTOS"
 				},
 				{
+					"content_versions": "1.9.0",
 					"minecraft_versions": [
 						"1.7.10",
 						"1.8",
@@ -64,6 +68,7 @@
 					"version": "OVxsYxzW"
 				},
 				{
+					"content_versions": "1.8.0",
 					"minecraft_versions": [
 						"1.7.10",
 						"1.8",
@@ -99,6 +104,13 @@
 		"source": "https://github.com/Legacy-Fabric/fabric"
 	},
 	"properties": {
+		"content_versions": [
+			"1.9.4",
+			"1.9.3",
+			"1.9.2",
+			"1.9.0",
+			"1.8.0"
+		],
 		"modrinth_id": "9CJED7xi",
 		"supported_modloaders": [
 			"fabric"

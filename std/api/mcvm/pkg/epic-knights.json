@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "9.8",
 					"minecraft_versions": "1.20.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -17,6 +18,7 @@
 					"version": "DqSM2XNX"
 				},
 				{
+					"content_versions": "9.8",
 					"minecraft_versions": "1.20.2",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -30,6 +32,7 @@
 					"version": "JDrMlEPq"
 				},
 				{
+					"content_versions": "9.8",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -46,6 +49,7 @@
 					"version": "WHcvqOVl"
 				},
 				{
+					"content_versions": "9.8",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -62,6 +66,7 @@
 					"version": "4h7fF1aA"
 				},
 				{
+					"content_versions": "9.8",
 					"minecraft_versions": [
 						"1.19",
 						"1.19.1",
@@ -79,6 +84,7 @@
 					"version": "BASvFcsU"
 				},
 				{
+					"content_versions": "9.8",
 					"minecraft_versions": [
 						"1.19",
 						"1.19.1",
@@ -96,6 +102,7 @@
 					"version": "53hRuq5v"
 				},
 				{
+					"content_versions": "9.6",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -109,6 +116,7 @@
 					"version": "h56Yc1HR"
 				},
 				{
+					"content_versions": "8.2",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "forgelike",
 					"relations": {
@@ -122,6 +130,7 @@
 					"version": "wC4Nldxb"
 				},
 				{
+					"content_versions": "8.2",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -136,6 +145,7 @@
 					"version": "HqJpjMyJ"
 				},
 				{
+					"content_versions": "8.2",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1",
@@ -154,6 +164,7 @@
 					"version": "k7iuosNS"
 				},
 				{
+					"content_versions": "8.2",
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1",
@@ -171,6 +182,7 @@
 					"version": "GWYd9aZX"
 				},
 				{
+					"content_versions": "7.11",
 					"minecraft_versions": "1.19.3",
 					"modloaders": "forgelike",
 					"relations": {
@@ -184,6 +196,7 @@
 					"version": "iLU76NnU"
 				},
 				{
+					"content_versions": "7.11",
 					"minecraft_versions": "1.19.3",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -198,6 +211,7 @@
 					"version": "5xo1YPpZ"
 				},
 				{
+					"content_versions": "7.11",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -211,6 +225,7 @@
 					"version": "4EwSgOw5"
 				},
 				{
+					"content_versions": "7.11",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -225,6 +240,7 @@
 					"version": "CRd9JWXP"
 				},
 				{
+					"content_versions": "7.11",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -238,6 +254,7 @@
 					"version": "SndsN5ka"
 				},
 				{
+					"content_versions": "7.11",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -252,6 +269,7 @@
 					"version": "bMnOJJBH"
 				},
 				{
+					"content_versions": "7.12",
 					"minecraft_versions": "1.16.5",
 					"modloaders": "forgelike",
 					"relations": {
@@ -265,6 +283,7 @@
 					"version": "ayPvmUtw"
 				},
 				{
+					"content_versions": "6.2",
 					"minecraft_versions": "1.12.2",
 					"modloaders": "forgelike",
 					"stability": "stable",
@@ -272,6 +291,7 @@
 					"version": "s7HoL42h"
 				},
 				{
+					"content_versions": "5.9",
 					"minecraft_versions": [
 						"1.17",
 						"1.17.1"
@@ -282,6 +302,7 @@
 					"version": "3aXIA1N9"
 				},
 				{
+					"content_versions": "6.7",
 					"minecraft_versions": [
 						"1.18",
 						"1.18.1",
@@ -293,6 +314,7 @@
 					"version": "FY86l4mQ"
 				},
 				{
+					"content_versions": "6.7",
 					"minecraft_versions": [
 						"1.19",
 						"1.19.2"
@@ -324,6 +346,16 @@
 		"source": "https://github.com/Magistu/Epic-Knights"
 	},
 	"properties": {
+		"content_versions": [
+			"9.8",
+			"9.6",
+			"8.2",
+			"7.12",
+			"7.11",
+			"6.7",
+			"6.2",
+			"5.9"
+		],
 		"modrinth_id": "L6jvzao4",
 		"supported_modloaders": [
 			"fabriclike",

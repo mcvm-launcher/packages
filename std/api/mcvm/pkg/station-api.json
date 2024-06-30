@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.0-alpha.2.1",
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"stability": "latest",
@@ -11,6 +12,7 @@
 					"version": "kt2r4qkN"
 				},
 				{
+					"content_versions": "2.0-alpha.2",
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"stability": "latest",
@@ -18,6 +20,7 @@
 					"version": "ZiVDNbPV"
 				},
 				{
+					"content_versions": "2.0-alpha.1.1",
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"stability": "latest",
@@ -25,6 +28,7 @@
 					"version": "vVp9vR53"
 				},
 				{
+					"content_versions": "2.0-alpha.1",
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"stability": "latest",
@@ -60,6 +64,12 @@
 		"source": "https://github.com/ModificationStation/StationAPI"
 	},
 	"properties": {
+		"content_versions": [
+			"2.0-alpha.2.1",
+			"2.0-alpha.2",
+			"2.0-alpha.1.1",
+			"2.0-alpha.1"
+		],
 		"modrinth_id": "472oW63Q",
 		"supported_modloaders": [
 			"fabriclike"

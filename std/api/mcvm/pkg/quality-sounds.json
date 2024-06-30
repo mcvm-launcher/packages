@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.5.0",
 					"minecraft_versions": "1.20.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -14,6 +15,7 @@
 					"version": "odY5OxSz"
 				},
 				{
+					"content_versions": "1.5.0",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
 					"relations": {
@@ -24,6 +26,7 @@
 					"version": "9EN2uHaG"
 				},
 				{
+					"content_versions": "1.5.0",
 					"minecraft_versions": "1.20",
 					"modloaders": "forgelike",
 					"relations": {
@@ -34,6 +37,7 @@
 					"version": "WVzW83it"
 				},
 				{
+					"content_versions": "1.5.0",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "forgelike",
 					"relations": {
@@ -44,6 +48,7 @@
 					"version": "w4vOj7kh"
 				},
 				{
+					"content_versions": "1.5.0",
 					"minecraft_versions": "1.19.3",
 					"modloaders": "forgelike",
 					"relations": {
@@ -54,6 +59,7 @@
 					"version": "3eJUnLLt"
 				},
 				{
+					"content_versions": "1.5.0",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
 					"relations": {
@@ -64,6 +70,7 @@
 					"version": "JMmbd03t"
 				},
 				{
+					"content_versions": "1.0.0-1.19.3",
 					"minecraft_versions": "1.19.3",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -74,6 +81,7 @@
 					"version": "B6hHspOM"
 				},
 				{
+					"content_versions": "1.0.0-1.19.4",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -84,6 +92,7 @@
 					"version": "nuhX3Zml"
 				},
 				{
+					"content_versions": "1.0.0-1.20",
 					"minecraft_versions": "1.20",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -94,6 +103,7 @@
 					"version": "BKEUMQy9"
 				},
 				{
+					"content_versions": "1.0.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -104,6 +114,7 @@
 					"version": "b3TuZLve"
 				},
 				{
+					"content_versions": "1.0.0-1.20.2",
 					"minecraft_versions": "1.20.2",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -133,6 +144,14 @@
 		]
 	},
 	"properties": {
+		"content_versions": [
+			"1.5.0",
+			"1.0.0-1.20.2",
+			"1.0.0-1.20.1",
+			"1.0.0-1.20",
+			"1.0.0-1.19.4",
+			"1.0.0-1.19.3"
+		],
 		"modrinth_id": "ZAfRfkTo",
 		"supported_modloaders": [
 			"fabriclike",

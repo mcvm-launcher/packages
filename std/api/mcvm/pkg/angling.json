@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.1",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -11,6 +12,7 @@
 					"version": "TB30h6E2"
 				},
 				{
+					"content_versions": "1.0.0",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -47,6 +49,10 @@
 		"source": "https://github.com/8s2/Angling"
 	},
 	"properties": {
+		"content_versions": [
+			"1.0.1",
+			"1.0.0"
+		],
 		"modrinth_id": "yxfPh2QX",
 		"supported_modloaders": [
 			"fabriclike"

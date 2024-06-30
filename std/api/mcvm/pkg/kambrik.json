@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "7.0.0-1.20.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
 					"relations": {
@@ -14,6 +15,7 @@
 					"version": "zm4X34qZ"
 				},
 				{
+					"content_versions": "7.0.0-1.20.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -24,6 +26,7 @@
 					"version": "SVCm637o"
 				},
 				{
+					"content_versions": "6.1.1-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
 					"relations": {
@@ -34,6 +37,7 @@
 					"version": "er56DwLJ"
 				},
 				{
+					"content_versions": "6.1.1-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -47,6 +51,7 @@
 					"version": "SqVitkHr"
 				},
 				{
+					"content_versions": "6.1.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
 					"relations": {
@@ -57,6 +62,7 @@
 					"version": "E0GS19K7"
 				},
 				{
+					"content_versions": "6.1.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -70,6 +76,7 @@
 					"version": "M4Cmuqql"
 				},
 				{
+					"content_versions": "6.0.1-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
 					"relations": {
@@ -80,6 +87,7 @@
 					"version": "cHGXTQwF"
 				},
 				{
+					"content_versions": "6.0.1-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -93,6 +101,7 @@
 					"version": "kFW8nJA9"
 				},
 				{
+					"content_versions": "3.1.0",
 					"minecraft_versions": [
 						"1.18",
 						"1.18.1"
@@ -103,6 +112,7 @@
 					"version": "eo4IOIRF"
 				},
 				{
+					"content_versions": "3.0.0",
 					"minecraft_versions": "1.18-pre5",
 					"modloaders": "fabriclike",
 					"stability": "latest",
@@ -110,6 +120,7 @@
 					"version": "u28lnZqI"
 				},
 				{
+					"content_versions": "1.1.0",
 					"minecraft_versions": "1.17.1",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -117,6 +128,7 @@
 					"version": "hcUdkfwj"
 				},
 				{
+					"content_versions": "1.0.0",
 					"minecraft_versions": [
 						"1.17",
 						"1.17.1"
@@ -148,6 +160,16 @@
 		"source": "https://github.com/ejektaflex/Kambrik"
 	},
 	"properties": {
+		"content_versions": [
+			"7.0.0-1.20.4",
+			"6.1.1-1.20.1",
+			"6.1.0-1.20.1",
+			"6.0.1-1.20.1",
+			"3.1.0",
+			"3.0.0",
+			"1.1.0",
+			"1.0.0"
+		],
 		"modrinth_id": "zfbCkvdZ",
 		"supported_modloaders": [
 			"fabriclike",

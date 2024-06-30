@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.20.4-1.2.2",
 					"minecraft_versions": "1.20.4",
 					"modloaders": [
 						"fabriclike",
@@ -23,6 +24,7 @@
 					"version": "LdxJnj5h"
 				},
 				{
+					"content_versions": "1.20.3-1.2.2",
 					"minecraft_versions": "1.20.3",
 					"modloaders": [
 						"fabriclike",
@@ -42,6 +44,7 @@
 					"version": "XXXFbAx3"
 				},
 				{
+					"content_versions": "1.20.2-1.2.2",
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
 						"fabriclike",
@@ -61,6 +64,7 @@
 					"version": "2nLaZYLh"
 				},
 				{
+					"content_versions": "1.20.1-1.2.2",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
 						"fabriclike",
@@ -80,6 +84,7 @@
 					"version": "o64NJE0v"
 				},
 				{
+					"content_versions": "1.20.1-1.2.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
 						"fabriclike",
@@ -99,6 +104,7 @@
 					"version": "noGUzrDC"
 				},
 				{
+					"content_versions": "1.19.4-1.2.1",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -115,6 +121,7 @@
 					"version": "mkISAEp8"
 				},
 				{
+					"content_versions": "1.2.0",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -131,6 +138,7 @@
 					"version": "9uSxVNoz"
 				},
 				{
+					"content_versions": "1.2.0",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"relations": {
@@ -147,6 +155,7 @@
 					"version": "5o1bNuED"
 				},
 				{
+					"content_versions": "1.1.2",
 					"minecraft_versions": [
 						"1.19.3",
 						"1.19.4"
@@ -157,6 +166,7 @@
 					"version": "jQvsnRrr"
 				},
 				{
+					"content_versions": "1.19.4-1.1.1",
 					"minecraft_versions": "1.19.4",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -164,6 +174,7 @@
 					"version": "KuAReuCW"
 				},
 				{
+					"content_versions": "1.19.3-1.1.1",
 					"minecraft_versions": "1.19.3",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -190,6 +201,18 @@
 		"source": "https://github.com/netcatgirl/ImmersiveThunder"
 	},
 	"properties": {
+		"content_versions": [
+			"1.20.4-1.2.2",
+			"1.20.3-1.2.2",
+			"1.20.2-1.2.2",
+			"1.20.1-1.2.2",
+			"1.20.1-1.2.1",
+			"1.19.4-1.2.1",
+			"1.19.4-1.1.1",
+			"1.19.3-1.1.1",
+			"1.2.0",
+			"1.1.2"
+		],
 		"modrinth_id": "uKjKoMsj",
 		"supported_modloaders": [
 			"fabriclike"

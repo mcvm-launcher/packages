@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -31,6 +32,9 @@
 		"source": "https://github.com/FabricExtras/StructurePoolAPI"
 	},
 	"properties": {
+		"content_versions": [
+			"1.0-1.20.1"
+		],
 		"modrinth_id": "LrYZi08Q",
 		"supported_modloaders": [
 			"fabriclike"

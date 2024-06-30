@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.0",
 					"minecraft_versions": [
 						"1.12.2",
 						"1.14.4",
@@ -36,6 +37,9 @@
 		"source": "https://github.com/LXGaming/MixinBootstrap"
 	},
 	"properties": {
+		"content_versions": [
+			"1.1.0"
+		],
 		"modrinth_id": "6a16628x",
 		"supported_modloaders": [
 			"forgelike"

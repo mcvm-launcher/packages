@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "mc1.19.x-0.8.1",
 					"minecraft_versions": [
 						"1.19",
 						"1.19.1",
@@ -17,6 +18,7 @@
 					"version": "Di0Jgej2"
 				},
 				{
+					"content_versions": "mc1.18.x-0.8.1",
 					"minecraft_versions": [
 						"1.18",
 						"1.18.1",
@@ -28,6 +30,7 @@
 					"version": "HG1UaV1y"
 				},
 				{
+					"content_versions": "mc1.17.x-0.8.0",
 					"minecraft_versions": [
 						"1.17",
 						"1.17.1"
@@ -38,6 +41,7 @@
 					"version": "7cdD4A3A"
 				},
 				{
+					"content_versions": "mc1.16.2-0.8.0",
 					"minecraft_versions": [
 						"1.16.2",
 						"1.16.3",
@@ -50,6 +54,7 @@
 					"version": "nZsp5YpW"
 				},
 				{
+					"content_versions": "mc1.16.2-0.7.2",
 					"minecraft_versions": [
 						"1.16.2",
 						"1.16.3",
@@ -62,6 +67,7 @@
 					"version": "1mUlojUQ"
 				},
 				{
+					"content_versions": "mc1.16.2-0.7.1",
 					"minecraft_versions": [
 						"1.16.2",
 						"1.16.3",
@@ -74,6 +80,7 @@
 					"version": "C9Witfc8"
 				},
 				{
+					"content_versions": "mc1.16.3-0.7.0",
 					"minecraft_versions": [
 						"1.16.3",
 						"1.16.4",
@@ -106,6 +113,15 @@
 		"source": "https://github.com/CaffeineMC/phosphor-fabric"
 	},
 	"properties": {
+		"content_versions": [
+			"mc1.19.x-0.8.1",
+			"mc1.18.x-0.8.1",
+			"mc1.17.x-0.8.0",
+			"mc1.16.3-0.7.0",
+			"mc1.16.2-0.8.0",
+			"mc1.16.2-0.7.2",
+			"mc1.16.2-0.7.1"
+		],
 		"modrinth_id": "hEOCdOgW",
 		"supported_modloaders": [
 			"fabriclike"

@@ -4,6 +4,7 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
 						"fabriclike",
@@ -14,6 +15,7 @@
 					"version": "pv8P20wE"
 				},
 				{
+					"content_versions": "1.0.0-1.20.4",
 					"minecraft_versions": [
 						"1.20.3",
 						"1.20.4"
@@ -27,6 +29,7 @@
 					"version": "njEoL6NK"
 				},
 				{
+					"content_versions": "1.0.0-1.20.2",
 					"minecraft_versions": "1.20.2",
 					"modloaders": [
 						"fabriclike",
@@ -57,6 +60,11 @@
 		"source": "https://github.com/TriQue06/mythic-lib-1.20.x"
 	},
 	"properties": {
+		"content_versions": [
+			"1.0.0-1.20.4",
+			"1.0.0-1.20.2",
+			"1.0.0-1.20.1"
+		],
 		"modrinth_id": "Umsczw3y",
 		"supported_modloaders": [
 			"fabriclike"
