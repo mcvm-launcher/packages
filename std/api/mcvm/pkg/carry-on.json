@@ -4,6 +4,62 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.2.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/joEfVgkn/versions/2LfOJ5LW/carryon-neoforge-1.21-2.2.1.jar",
+					"version": "2LfOJ5LW"
+				},
+				{
+					"content_versions": "2.2.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/joEfVgkn/versions/v6jFgMGH/carryon-fabric-1.21-2.2.1.jar",
+					"version": "v6jFgMGH"
+				},
+				{
+					"content_versions": "2.2.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/joEfVgkn/versions/lSa8MVef/carryon-fabric-1.21-2.2.0.jar",
+					"version": "lSa8MVef"
+				},
+				{
+					"content_versions": "2.2.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/joEfVgkn/versions/xsWKlT1A/carryon-forge-1.21-2.2.0.jar",
+					"version": "xsWKlT1A"
+				},
+				{
+					"content_versions": "2.2.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/joEfVgkn/versions/7FcWNYcV/carryon-neoforge-1.21-2.2.0.jar",
+					"version": "7FcWNYcV"
+				},
+				{
+					"content_versions": "2.1.4",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/joEfVgkn/versions/85jjKm7u/carryon-fabric-1.20.6-2.1.4.20.jar",
+					"version": "85jjKm7u"
+				},
+				{
+					"content_versions": "2.1.4",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/joEfVgkn/versions/b33iu1N6/carryon-neoforge-1.20.6-2.1.4.20.jar",
+					"version": "b33iu1N6"
+				},
+				{
 					"content_versions": "2.1.3",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -505,6 +561,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.2.1",
+			"2.2.0",
+			"2.1.4",
 			"2.1.3",
 			"2.1.2.23",
 			"2.1.2.7",
@@ -564,7 +623,9 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

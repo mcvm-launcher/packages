@@ -4,6 +4,28 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.11.2-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": [
+							{
+								"value": "curios-api-continuation"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/71ZoZ58B/winterly-0.11.2%2B1.21.jar",
+					"version": "71ZoZ58B"
+				},
+				{
 					"content_versions": "0.10.1-1.20.4",
 					"minecraft_versions": [
 						"1.20.3",
@@ -213,6 +235,34 @@
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/0.5.1/winterly-0.5.1.jar",
 					"version": "PnsEAyXk"
+				},
+				{
+					"content_versions": "0.11.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/h8jGqPDv/winterly-0.11.1%2B1.21.jar",
+					"version": "h8jGqPDv"
+				},
+				{
+					"content_versions": "0.11.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/CEvDfomf/versions/SGt2iTCP/winterly-0.11.0%2B1.21.jar",
+					"version": "SGt2iTCP"
 				},
 				{
 					"content_versions": "0.10.1-1.20.4-neo",
@@ -526,7 +576,7 @@
 		"icon": "https://cdn.modrinth.com/data/CEvDfomf/8e1c8ac5a0ff140553d92c3b90a211a7b4109e71.png",
 		"issues": "https://github.com/tyap-lyap/winterly/issues",
 		"license": "MIT",
-		"long_description": "## About\n\nWinterly is a Minecraft mod for fabric loader. The mod is revolving around winter and holiday themed things. This simple mod will add some decorations that you can build with and cosmetics that you can wear. For example, the Santa hat or presents under the Christmas tree. This project participated in WinterJam 2021.\n\n[![Discord Server](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/DcemWeskeZ)\n[![CurseForge Page](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/winterly)\n\n![Preview](https://cdn.modrinth.com/data/cached_images/6f0d4504bfe0132492a351739e62226ae011dabb.png)\n",
+		"long_description": "## About\n\nWinterly is a Minecraft mod for fabric loader. The mod is revolving around winter and holiday themed things. This simple mod will add some decorations that you can build with and cosmetics that you can wear. For example, the Santa hat or presents under the Christmas tree. This project participated in WinterJam 2021. \n\nFancy title by [TheSamir02](https://twitter.com/TheSamir02)\n\n[![Discord Server](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/DcemWeskeZ)\n[![CurseForge Page](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/winterly)\n\n![Winterly Title](https://cdn.modrinth.com/data/cached_images/2fae6352cc362754f5332921ded32fd81a496f2d.png)\n\n![Preview](https://cdn.modrinth.com/data/cached_images/6f0d4504bfe0132492a351739e62226ae011dabb.png)\n",
 		"name": "Winterly",
 		"package_maintainers": [
 			"mcvm"
@@ -535,6 +585,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.11.2-1.21",
+			"0.11.1-1.21",
+			"0.11.0-1.21",
 			"0.10.1-1.20.4",
 			"0.10.1-1.20.4-neo",
 			"0.10.0-1.20.4",
@@ -587,7 +640,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

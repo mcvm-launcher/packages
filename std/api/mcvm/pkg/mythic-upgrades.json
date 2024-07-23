@@ -4,6 +4,165 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "4.0.2-mc1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mythic-lib",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ERH7cFoy/versions/KqpOSqHC/mythicupgrades-4.0.2%2Bmc1.20.4.jar",
+					"version": "KqpOSqHC"
+				},
+				{
+					"content_versions": "4.0.2-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mythic-lib",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ERH7cFoy/versions/zJAuidYK/mythicupgrades-4.0.2%2Bmc1.20.1.jar",
+					"version": "zJAuidYK"
+				},
+				{
+					"content_versions": "4.0.1-mc1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mythic-lib",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ERH7cFoy/versions/A2AAH7Aq/mythicupgrades-4.0.1%2Bmc1.20.4.jar",
+					"version": "A2AAH7Aq"
+				},
+				{
+					"content_versions": "4.0.1-mc1.20.2",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mythic-lib",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ERH7cFoy/versions/QngIDLwP/mythicupgrades-4.0.1%2Bmc1.20.2.jar",
+					"version": "QngIDLwP"
+				},
+				{
+					"content_versions": "4.0.1-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mythic-lib",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ERH7cFoy/versions/CVYBhY6J/mythicupgrades-4.0.1%2Bmc1.20.1.jar",
+					"version": "CVYBhY6J"
+				},
+				{
+					"content_versions": "4.0.0-mc1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mythic-lib",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ERH7cFoy/versions/tiUpiCAf/mythicupgrades-4.0.0%2Bmc1.20.4.jar",
+					"version": "tiUpiCAf"
+				},
+				{
+					"content_versions": "4.0.0-mc1.20.2",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mythic-lib",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ERH7cFoy/versions/iOcV6yET/mythicupgrades-4.0.0%2Bmc1.20.2.jar",
+					"version": "iOcV6yET"
+				},
+				{
+					"content_versions": "4.0.0-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"mythic-lib",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ERH7cFoy/versions/7upUIt84/mythicupgrades-4.0.0%2Bmc1.20.1.jar",
+					"version": "7upUIt84"
+				},
+				{
 					"content_versions": "3.1.0.1-mc1.20.4",
 					"minecraft_versions": [
 						"1.20.3",
@@ -609,7 +768,8 @@
 	"meta": {
 		"authors": [
 			"CyberSteve777",
-			"TriQue06"
+			"TriQue06",
+			"zyablik"
 		],
 		"banner": "https://cdn.modrinth.com/data/ERH7cFoy/images/c220f11435ecf2f254ea376faa9d7d8b14a9d421.png",
 		"community": "https://discord.gg/gT8864sMNQ",
@@ -621,7 +781,7 @@
 		"icon": "https://cdn.modrinth.com/data/ERH7cFoy/f5daf0cbb2b8b9094c1aca76bd7092d0aa0ecedf.gif",
 		"issues": "https://github.com/TriQue06/mythic-upgrades-1.20.x/issues",
 		"license": "MIT",
-		"long_description": "- ## TriQue API is hardly recommended in older versions (2.4.2 and older) for compatibility! [Click here to download!](https://modrinth.com/mod/trique-api)\n\n<a href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://img.shields.io/badge/dependency-fabric-darkred?labelColor=2D2D2D&amp;style=for-the-badge\" /> </a>&nbsp; <a href=\"https://modrinth.com/mod/owo-lib\"><img src=\"https://img.shields.io/badge/requires-owo lib-purple?labelColor=2D2D2D&amp;style=for-the-badge\" /> </a>&nbsp; <a href=\"https://discord.gg/gT8864sMNQ\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/1005186301496131634?color=blue&amp;labelColor=2D2D2D&amp;label=JOIN DISCORD&amp;style=for-the-badge\" /> </a>&nbsp; <img src=\"https://cf.way2muchnoise.eu/short_906394.svg?badge_style=for_the_badge\" /></p>\n\n![Mythic Upgrades Title](https://i.imgur.com/jWd37fx.png)\n\n[![We're partnered with BisectHosting! Use code trique to get a 25% discount!](https://i.imgur.com/BeZMFYy.png)](https://www.bisecthosting.com/trique)\n\n![Mythic Upgrades adds six new ores to the game such as Jade, Topaz, Aquamarine, Sapphire, Ruby, Peridot, Zircon, Citrine, Necoium and Ametrine. All these can be used to craft their own ingots and upgrading netherite gear in different ways.](https://i.imgur.com/SfsBAHP.png)\n\n[![Join Kinetic Hosting with my code!](https://i.imgur.com/Ko1TqPG.png)](https://billing.kinetichosting.net/aff.php?aff=116)",
+		"long_description": "- ## TriQue API is hardly recommended in older versions (2.4.2 and older) for compatibility! [Click here to download!](https://modrinth.com/mod/trique-api)\n\n<a href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://img.shields.io/badge/dependency-fabric-darkred?labelColor=2D2D2D&amp;style=for-the-badge\" /> </a>&nbsp; <a href=\"https://modrinth.com/mod/owo-lib\"><img src=\"https://img.shields.io/badge/requires-owo lib-purple?labelColor=2D2D2D&amp;style=for-the-badge\" /> </a>&nbsp; <a href=\"https://discord.gg/gT8864sMNQ\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/1005186301496131634?color=blue&amp;labelColor=2D2D2D&amp;label=JOIN DISCORD&amp;style=for-the-badge\" /> </a>&nbsp; <img src=\"https://cf.way2muchnoise.eu/short_906394.svg?badge_style=for_the_badge\" /></p>\n\n![Mythic Upgrades Title](https://i.imgur.com/jWd37fx.png)\n\n[![We're partnered with BisectHosting! Use code trique to get a 25% discount!](https://i.imgur.com/BeZMFYy.png)](https://www.bisecthosting.com/trique)\n\n![Mythic Upgrades adds six new ores to the game such as Jade, Topaz, Aquamarine, Sapphire, Ruby, Peridot, Zircon, Citrine, Necoium and Ametrine. All these can be used to craft their own ingots and upgrading netherite gear in different ways.](https://i.imgur.com/9Jegz8k.png)\n\n[![Join Kinetic Hosting with my code!](https://i.imgur.com/Ko1TqPG.png)](https://billing.kinetichosting.net/aff.php?aff=116)",
 		"name": "Mythic Upgrades",
 		"package_maintainers": [
 			"mcvm"
@@ -633,6 +793,14 @@
 			"mc1.20.1-2.2.2",
 			"mc1.20.1-2.2.1",
 			"mc1.20.1-2.2.0",
+			"4.0.2-mc1.20.4",
+			"4.0.2-mc1.20.1",
+			"4.0.1-mc1.20.4",
+			"4.0.1-mc1.20.2",
+			"4.0.1-mc1.20.1",
+			"4.0.0-mc1.20.4",
+			"4.0.0-mc1.20.2",
+			"4.0.0-mc1.20.1",
 			"3.1.0.1-mc1.20.4",
 			"3.1.0-mc1.20.4",
 			"3.1.0-mc1.20.2",

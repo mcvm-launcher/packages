@@ -4,6 +4,135 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "19.0.0.90",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/IsClCU50/BiomesOPlenty-neoforge-1.20.4-19.0.0.90.jar",
+					"version": "IsClCU50"
+				},
+				{
+					"content_versions": "19.0.0.90",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/TCPjNaJ0/BiomesOPlenty-fabric-1.20.4-19.0.0.90.jar",
+					"version": "TCPjNaJ0"
+				},
+				{
+					"content_versions": "19.0.0.90",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/BMDgLzfj/BiomesOPlenty-forge-1.20.4-19.0.0.90.jar",
+					"version": "BMDgLzfj"
+				},
+				{
+					"content_versions": "21.0.0.12",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/tP5kEGoi/BiomesOPlenty-fabric-1.21-21.0.0.12.jar",
+					"version": "tP5kEGoi"
+				},
+				{
+					"content_versions": "21.0.0.12",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/6sMfZ38c/BiomesOPlenty-neoforge-1.21-21.0.0.12.jar",
+					"version": "6sMfZ38c"
+				},
+				{
+					"content_versions": "21.0.0.12",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/9CmFSZqn/BiomesOPlenty-forge-1.21-21.0.0.12.jar",
+					"version": "9CmFSZqn"
+				},
+				{
+					"content_versions": "21.0.0.11",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/okPCWByE/BiomesOPlenty-fabric-1.21-21.0.0.11.jar",
+					"version": "okPCWByE"
+				},
+				{
+					"content_versions": "21.0.0.11",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/aL6CCPnK/BiomesOPlenty-neoforge-1.21-21.0.0.11.jar",
+					"version": "aL6CCPnK"
+				},
+				{
+					"content_versions": "21.0.0.11",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"glitchcore",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HXF82T3G/versions/75aDMan9/BiomesOPlenty-forge-1.21-21.0.0.11.jar",
+					"version": "75aDMan9"
+				},
+				{
 					"content_versions": "21.0.0.10",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -15706,6 +15835,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"21.0.0.12",
+			"21.0.0.11",
 			"21.0.0.10",
 			"21.0.0.9",
 			"21.0.0.8",
@@ -15715,6 +15846,7 @@
 			"21.0.0.4",
 			"21.0.0.3",
 			"21.0.0.2",
+			"19.0.0.90",
 			"19.0.0.89",
 			"19.0.0.88",
 			"19.0.0.87",

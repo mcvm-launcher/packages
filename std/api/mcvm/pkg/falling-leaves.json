@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.16.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/HtuOat2a/fallingleaves-1.16.1%2B1.21.jar",
+					"version": "HtuOat2a"
+				},
+				{
 					"content_versions": "1.16.0-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -520,6 +537,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.16.1-1.21",
 			"1.16.0-1.21",
 			"1.15.9-1.20.5",
 			"1.15.8-1.20.5",

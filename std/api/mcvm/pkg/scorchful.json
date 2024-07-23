@@ -4,6 +4,89 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.9",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cardinal-components-api",
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
+						"recommendations": [
+							{
+								"value": "dehydration"
+							},
+							{
+								"value": "frostful"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SZQ5qcdn/versions/xe9r6roa/scorchful-0.9.jar",
+					"version": "xe9r6roa"
+				},
+				{
+					"content_versions": "0.9-beta.1",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cardinal-components-api",
+							"cloth-config",
+							"fabriclike-api",
+							"satin-api",
+							"thermoo"
+						],
+						"recommendations": [
+							{
+								"value": "dehydration"
+							},
+							{
+								"value": "frostful"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SZQ5qcdn/versions/uQ7IZ1zW/scorchful-0.9-beta.1.jar",
+					"version": "uQ7IZ1zW"
+				},
+				{
+					"content_versions": "0.8",
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "dehydration",
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
+						"recommendations": {
+							"value": "frostful"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/SZQ5qcdn/versions/C0yoAQq3/scorchful-0.8.jar",
+					"version": "C0yoAQq3"
+				},
+				{
 					"content_versions": "0.7.2",
 					"minecraft_versions": "1.20.4",
 					"modloaders": [
@@ -12,6 +95,11 @@
 					],
 					"relations": {
 						"conflicts": "dehydration",
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "frostful"
@@ -33,6 +121,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "dehydration"
@@ -58,6 +151,11 @@
 					],
 					"relations": {
 						"conflicts": "dehydration",
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "frostful"
@@ -80,6 +178,11 @@
 					],
 					"relations": {
 						"conflicts": "dehydration",
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "cardinal-components-api"
@@ -104,6 +207,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "dehydration"
@@ -128,6 +236,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "dehydration"
@@ -149,6 +262,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "dehydration"
@@ -173,6 +291,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "dehydration"
@@ -197,6 +320,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "dehydration"
@@ -221,6 +349,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "frostful"
@@ -242,6 +375,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "frostful"
@@ -263,6 +401,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "frostful"
@@ -284,6 +427,11 @@
 						"quilt"
 					],
 					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"thermoo"
+						],
 						"recommendations": [
 							{
 								"value": "dehydration"
@@ -332,6 +480,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.9",
+			"0.9-beta.1",
+			"0.8",
 			"0.7.2",
 			"0.7.1",
 			"0.7",
@@ -356,14 +507,8 @@
 		],
 		"supported_versions": [
 			"1.20.1",
-			"1.20.4"
-		]
-	},
-	"relations": {
-		"dependencies": [
-			"cloth-config",
-			"fabriclike-api",
-			"thermoo"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

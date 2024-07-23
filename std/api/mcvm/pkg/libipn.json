@@ -4,6 +4,117 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "neo-1.21-6.0.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ztRNOmLN/libIPN-neoforge-1.21-6.0.0.jar",
+					"version": "ztRNOmLN"
+				},
+				{
+					"content_versions": "-1.21-rc1-6.0.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/2aBSL3js/libIPN-fabric-1.21-6.0.0.jar",
+					"version": "2aBSL3js"
+				},
+				{
+					"content_versions": "-1.20.6-6.0.0",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/eevCkyLQ/libIPN-fabric-1.20.6-6.0.0.jar",
+					"version": "eevCkyLQ"
+				},
+				{
+					"content_versions": "-1.21-6.0.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Q9Z7Lfo6/libIPN-forge-1.21-6.0.0.jar",
+					"version": "Q9Z7Lfo6"
+				},
+				{
+					"content_versions": "-1.20.6-6.0.0",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/HUJzdFjq/libIPN-forge-1.20.6-6.0.0.jar",
+					"version": "HUJzdFjq"
+				},
+				{
+					"content_versions": "-1.20.6-5.0.2",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/8WeQtm9L/libIPN-fabric-1.20.6-5.0.2.jar",
+					"version": "8WeQtm9L"
+				},
+				{
+					"content_versions": "-1.20.6-5.0.2",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/FJv7qbUJ/libIPN-forge-1.20.6-5.0.2.jar",
+					"version": "FJv7qbUJ"
+				},
+				{
+					"content_versions": "-1.21-5.0.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/K3RyxVfM/libIPN-fabric-1.21-5.0.2.jar",
+					"version": "K3RyxVfM"
+				},
+				{
+					"content_versions": "-1.21-5.0.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/NzUfRupp/libIPN-forge-1.21-5.0.2.jar",
+					"version": "NzUfRupp"
+				},
+				{
 					"content_versions": "-1.21-rc1-5.0.0",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -3683,7 +3794,12 @@
 	"properties": {
 		"content_versions": [
 			"-23w33a-4.0.0",
+			"-1.21-rc1-6.0.0",
 			"-1.21-rc1-5.0.0",
+			"-1.21-6.0.0",
+			"-1.21-5.0.2",
+			"-1.20.6-6.0.0",
+			"-1.20.6-5.0.2",
 			"-1.20.4-4.0.2",
 			"-1.20-pre2-3.0.1",
 			"-1.20-pre2-3.0.0",
@@ -3805,7 +3921,8 @@
 			"-1.14.4-1.0.4",
 			"-1.14.4-1.0.3",
 			"-1.14.4-1.0.1",
-			"-1.14.4-1.0.0"
+			"-1.14.4-1.0.0",
+			"neo-1.21-6.0.0"
 		],
 		"modrinth_id": "onSQdWhM",
 		"supported_modloaders": [
@@ -3852,6 +3969,7 @@
 			"1.20.3-pre2",
 			"1.20.3",
 			"1.20.4",
+			"1.20.6",
 			"1.21"
 		]
 	}

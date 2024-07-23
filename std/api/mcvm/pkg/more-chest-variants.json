@@ -4,6 +4,42 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.5.8-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/A83kdmZ4/MoreChestVariants-1.5.8%2B1.21-Neo.jar",
+					"version": "A83kdmZ4"
+				},
+				{
+					"content_versions": "1.5.8-1.20.6-Neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/NHmsw0fx/MoreChestVariants-1.5.8%2B1.20.6-Neo.jar",
+					"version": "NHmsw0fx"
+				},
+				{
+					"content_versions": "1.5.7-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/cCChDmo7/MoreChestVariants-1.5.7%2B1.21-Neo.jar",
+					"version": "cCChDmo7"
+				},
+				{
 					"content_versions": "1.5.6-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -943,6 +979,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.5.8-1.21-Neo",
+			"1.5.8-1.20.6-Neo",
+			"1.5.7-1.21-Neo",
 			"1.5.6-1.21",
 			"1.5.6-1.21-Neo",
 			"1.5.6-1.20.6",

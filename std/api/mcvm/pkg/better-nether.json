@@ -4,6 +4,121 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "21.0.8",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MpzVLzy5/versions/X0EFJ5IG/better-nether-21.0.8.jar",
+					"version": "X0EFJ5IG"
+				},
+				{
+					"content_versions": "21.0.7",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MpzVLzy5/versions/iz7PX1xX/better-nether-21.0.7.jar",
+					"version": "iz7PX1xX"
+				},
+				{
+					"content_versions": "21.0.6",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MpzVLzy5/versions/zvfv1sJF/better-nether-21.0.6.jar",
+					"version": "zvfv1sJF"
+				},
+				{
+					"content_versions": "21.0.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MpzVLzy5/versions/CtncSDC8/better-nether-21.0.5.jar",
+					"version": "CtncSDC8"
+				},
+				{
+					"content_versions": "21.0.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "wthit"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MpzVLzy5/versions/1485z59I/better-nether-21.0.4.jar",
+					"version": "1485z59I"
+				},
+				{
 					"content_versions": "21.0.3",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -729,9 +844,7 @@
 		}
 	},
 	"meta": {
-		"authors": [
-			"quiqueck"
-		],
+		"authors": [],
 		"community": "https://discord.gg/kYuATbYbKW",
 		"description": "More Biomes, More Mobs, More Tools for the fiery Dimension",
 		"gallery": [
@@ -755,6 +868,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"21.0.8",
+			"21.0.7",
+			"21.0.6",
+			"21.0.5",
+			"21.0.4",
 			"21.0.3",
 			"21.0.2",
 			"21.0.1",

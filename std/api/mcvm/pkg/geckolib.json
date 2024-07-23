@@ -4,6 +4,33 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "4.5.7",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/kFy9fnMx/geckolib-neoforge-1.21-4.5.7.jar",
+					"version": "kFy9fnMx"
+				},
+				{
+					"content_versions": "4.5.7",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/lwqsfRMW/geckolib-forge-1.21-4.5.7.jar",
+					"version": "lwqsfRMW"
+				},
+				{
+					"content_versions": "4.5.7",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/yzLdtOfi/geckolib-fabric-1.21-4.5.7.jar",
+					"version": "yzLdtOfi"
+				},
+				{
 					"content_versions": "4.4.7",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "neoforged",
@@ -3232,6 +3259,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"4.5.7",
 			"4.5.6",
 			"4.5.5",
 			"4.5.4.1",

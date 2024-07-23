@@ -4,6 +4,25 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.2.6-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/LXyrdywi/cristellib-neoforge-1.2.6.jar",
+					"version": "LXyrdywi"
+				},
+				{
+					"content_versions": "1.2.6",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/QKpglnFb/cristellib-fabric-1.2.6.jar",
+					"version": "QKpglnFb"
+				},
+				{
 					"content_versions": "1.2.5",
 					"minecraft_versions": "1.20.6",
 					"modloaders": "fabriclike",
@@ -402,6 +421,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.2.6",
+			"1.2.6-neo",
 			"1.2.5",
 			"1.2.5-neo",
 			"1.2.4",
@@ -437,7 +458,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.4",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

@@ -1,7 +1,21 @@
 {
 	"addons": {
 		"addon": {
-			"kind": "mod"
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "1.4.3",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hIpLSyga/versions/NRM5UZpn/HopoBetterRuinedPortals-%5B1.21%5D-1.4.3.jar",
+					"version": "NRM5UZpn"
+				}
+			]
 		}
 	},
 	"meta": {
@@ -31,7 +45,9 @@
 		]
 	},
 	"properties": {
-		"content_versions": [],
+		"content_versions": [
+			"1.4.3"
+		],
 		"modrinth_id": "hIpLSyga",
 		"supported_modloaders": [
 			"fabriclike",

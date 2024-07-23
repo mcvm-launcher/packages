@@ -4,6 +4,164 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.20-2.6.68",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/YP3jL2J4/everycomp-1.20-2.6.68.jar",
+					"version": "YP3jL2J4"
+				},
+				{
+					"content_versions": "1.20-2.6.68",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OPaZmjJa/everycomp-1.20-2.6.68-fabric.jar",
+					"version": "OPaZmjJa"
+				},
+				{
+					"content_versions": "1.20-2.6.67",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/76Bk6xHw/everycomp-1.20-2.6.67-fabric.jar",
+					"version": "76Bk6xHw"
+				},
+				{
+					"content_versions": "1.20-2.6.67",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/IBW3vDwc/everycomp-1.20-2.6.67.jar",
+					"version": "IBW3vDwc"
+				},
+				{
+					"content_versions": "1.18.2-1.6.14",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/nWjn764k/everycomp-1.18.2-1.6.14.jar",
+					"version": "nWjn764k"
+				},
+				{
+					"content_versions": "1.20-2.6.66",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/M1B7lyV7/everycomp-1.20-2.6.66.jar",
+					"version": "M1B7lyV7"
+				},
+				{
+					"content_versions": "1.20-2.6.66",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/K4LxVpkN/everycomp-1.20-2.6.66-fabric.jar",
+					"version": "K4LxVpkN"
+				},
+				{
+					"content_versions": "1.18.2-1.6.13",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zPwOkG1I/everycomp-1.18.2-1.6.13.jar",
+					"version": "zPwOkG1I"
+				},
+				{
+					"content_versions": "1.19.2-2.5.24",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NieADfwl/everycomp-1.19.2-2.5.24.jar",
+					"version": "NieADfwl"
+				},
+				{
+					"content_versions": "1.19.2-2.5.24",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/IAZ1dsP7/everycomp-1.19.2-2.5.24-fabric.jar",
+					"version": "IAZ1dsP7"
+				},
+				{
+					"content_versions": "1.18.2-1.6.12",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ls71g31A/everycomp-1.18.2-1.6.12.jar",
+					"version": "ls71g31A"
+				},
+				{
+					"content_versions": "1.19.2-2.5.23",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/bERqOkFX/everycomp-1.19.2-2.5.23.jar",
+					"version": "bERqOkFX"
+				},
+				{
+					"content_versions": "1.19.2-2.5.23",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/w0bhjBJs/everycomp-1.19.2-2.5.23-fabric.jar",
+					"version": "w0bhjBJs"
+				},
+				{
 					"content_versions": "1.20-2.6.65",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -2986,7 +3144,7 @@
 		"icon": "https://cdn.modrinth.com/data/eiktJyw1/e6c88fba4670875b67f2a860beb64f52ffbfb46e.png",
 		"issues": "https://github.com/MehVahdJukaar/WoodGoodissues",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "<center>\n\n## Every Compat: Wood Good\n<a href=\"https://discord.gg/qdKRTDf8Cv\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/790151253144895508?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Discord&\" alt=\"Supplementaries Discord\"></a> <a href=\"https://patreon.com/mehvahdjukaar\" rel=\"nofollow\"><img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=mehvahdjukaar&type=patrons&style=for-the-badge&label=&color=2d2d2d&labelColor=dddddd&\" alt=\"Support me on Patreon\"></a> <a href=\"https://www.twitter.com/Supplementariez\" rel=\"nofollow\"> <img src=\"https://img.shields.io/twitter/follow/Supplementariez?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Twitter&message=Twitter&\" alt=\"Supplementaries Twitter\"></a> <a href=\"https://www.youtube.com/channel/UCOaLLgwzOdbH6rCI7izCptw\" rel=\"nofollow\"> <img src=\"https://img.shields.io/youtube/channel/subscribers/UCOaLLgwzOdbH6rCI7izCptw?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Youtube&message=Twitter&logoColor=ff0000\" alt=\"Supplementaries Twitter\"></a>\n<hr>\n\n## 📖About 📖\n</center>\n\nTired of incomplete wood sets? Well you came to the right place!\n\nThis Mod serves as an addon to many popular mods and is meant to fill in the gaps by adding all the blocks that such mods add in all wood types currently installed.\n\nEvery block type added is available in ALL wood types.\n\nWith this mod you won't need extra compatibility addons and instead only rely on a single universal one! It's all automatic!\n\nAdditionally the mod will try to convert any block from other uninstalled compat mods into its equivalent ones.\n\n<center>\n\n## 🪑 Supported Blocks🪑\n</center>\n\n### Quark\n- Posts\n- Stripped posts\n- Hedges\n- Bookshelves\n- Vertical Planks\n- Ladders\n- Chests\n\n### Farmers Delight\n- Cabinets\n\n### Twilight Forest\n- Hollow Logs\n- Banisters\n\n### Decorative Blocks\n- Seats\n- Palisades\n- Supports\n- Beams\n\n### Architects Palette\n- Boards\n- Railings\n\n### Valhesia Structures\n- Posts\n- Cut Posts\n\n### Another Furniture\n- Tables\n- Chairs\n- Shelves\n- Flower Boxes\n- Shutters\n- Drawers\n- Benches\n\n### Storage Drawers\n- Drawers\n\n### Furnish\n- All wooden blocks\n\n### Builders and Craft Additions\n- All wooden blocks\n\n### Mosaic Carpentry\n- Mosaics\n\n### MrCrayfish Furniture Mod\n- All wooden blocks\n\n### Twigs\n- Tables\n\n### Macaw's Mods\n- Fences\n- Windows\n- Bridges\n- Lights\n- Paths\n- Furnitures\n- Rooves\n\n<center>\n\n## ❓ F. A. Q. ❓\n</center>\n\nQ: How the heck does this work?\n> A: Magic.\n\nQ: Is this compatible with other compat mods?\n> A: Yes, I've included a list of many popular compat mods. The mod will do its best not to register stuff that's already in them when they are installed\n\nQ: I'm a mod author, could I use this mod to add support to my blocks?\n> A: Yes! The mod includes a very simple and easy to use API with which modders can register an entire block definition in only 10 lines! The mod will automatically generate all assets automatically\n\nQ: Can you add support for \"x\" wood type?\n> A: Go try the mod\n\nQ: A block type isnt supported, can I add it myself?\n> A: Not directly as registration cant be conditional and cant depend on config files. If you are a modder and know code you can make a pull request to the mod or use the EveryCompatAPI class directly in your mods (check their javadocs & mod modules for info)\n\n<center>\n\n## ❤️Support Me❤️\n</center>\n\n<p><span style=\"font-size:18px\">Modding is taking a lot of my time, so if you like what I do, and you would like to support me, you can do so here. If you do, you'll receive a custom Globe and or Statue just for you! This also applies if you purchase a server from Akliz using \"supplementaries\" code.</span></p>\n<center>\n\n<a href=\"https://ko-fi.com/mehvahdjukaar\"><br><img src=\"https://i.imgur.com/sroRu1I.png\" alt=\"Ko-Fi\" width=\"346\" height=\"68\"></a>\n</center>\n<br>Need a server? Check out Akliz, they have top brand servers just for modded minecraft.\nThey really have a cozy community with great support and the servers wonderfully<br>Use code \"supplementaries\" to get 20% off and also support me in the process!\n<br>\n\n<center>\n<br>\n\n[![Get 20% off the first month using code: Supplementaries](https://i.imgur.com/g5B76A8.png)](https://www.akliz.net/supplementaries)\n\n## 🦉 Our Mods🦉\n<a href=\"https://www.modrinth.com/mod/haunted-harvest\" rel=\"nofollow\"><img src=\"https://i.imgur.com/t1mYf6a.gif\" alt=\"Haunted Harvest\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/snowy-spirit\" rel=\"nofollow\"><img src=\"https://i.imgur.com/f1NuS3t.png\" alt=\"Snowy Spirit\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/labels\" rel=\"nofollow\"><img src=\"https://i.imgur.com/OO7HTbn.png\" alt=\"Storage Labels\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/goated\" rel=\"nofollow\"><img src=\"https://i.imgur.com/rRcgB1P.png\" alt=\"Goated\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mystical-oak-tree\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Gys7BpM.gif\" alt=\"Mysyical Oak Tree\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/carpeted-stairs\" rel=\"nofollow\"><img src=\"https://i.imgur.com/KiuA6oe.png\" alt=\"Carpeted Stairs\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mmmmmmmmmmmm\" rel=\"nofollow\"><img src=\"https://i.imgur.com/eWNxaRZ.png\" alt=\"MmmMmmMmmMmm\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/moyai\" rel=\"nofollow\"><img src=\"https://i.imgur.com/G44hniG.png\" alt=\"Moyai\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/just-enough-effect-descriptions-jeed\" rel=\"nofollow\"><img src=\"https://i.imgur.com/vUw51oj.png\" alt=\"Jeed\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/better-lily-pads\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Bp2FNeY.png\" alt=\"Better Lily Pads\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/advancement-frames\" rel=\"nofollow\"><img src=\"https://i.imgur.com/9trFDsF.png\" alt=\"Advancement Frames\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/randomium-ore\" rel=\"nofollow\"><img src=\"https://i.imgur.com/0RGkl5V.png\" alt=\"Randomium\" width=\"125\" height=\"125\"> </a>\n</center>",
+		"long_description": "<center>\n\n## Every Compat: Wood Good\n<a href=\"https://discord.gg/qdKRTDf8Cv\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/790151253144895508?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Discord&\" alt=\"Supplementaries Discord\"></a> <a href=\"https://patreon.com/mehvahdjukaar\" rel=\"nofollow\"><img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=mehvahdjukaar&type=patrons&style=for-the-badge&label=&color=2d2d2d&labelColor=dddddd&\" alt=\"Support me on Patreon\"></a> <a href=\"https://www.twitter.com/Supplementariez\" rel=\"nofollow\"> <img src=\"https://img.shields.io/twitter/follow/Supplementariez?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Twitter&message=Twitter&\" alt=\"Supplementaries Twitter\"></a> <a href=\"https://www.youtube.com/channel/UCOaLLgwzOdbH6rCI7izCptw\" rel=\"nofollow\"> <img src=\"https://img.shields.io/youtube/channel/subscribers/UCOaLLgwzOdbH6rCI7izCptw?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Youtube&message=Twitter&logoColor=ff0000\" alt=\"Supplementaries Twitter\"></a>\n<hr>\n\n## 📖About 📖\n</center>\n\nTired of incomplete wood sets? Well you came to the right place!\n\nThis Mod serves as an addon to many popular mods and is meant to fill in the gaps by adding all the blocks that such mods add in all wood types currently installed.\n\nEvery block type added is available in ALL wood types.\n\nWith this mod you won't need extra compatibility addons and instead only rely on a single universal one! It's all automatic!\n\nAdditionally the mod will try to convert any block from other uninstalled compat mods into its equivalent ones.\n\n<center>\n\n## 🪑 Supported Blocks🪑\n</center>\n\n![Supported Mods Image](https://cdn.modrinth.com/data/cached_images/46dffe3f5006989c79974118b8cabf3558520c61.png)\n\n<center>LEGENDS:</center>\n\n- 1.18.2 - 🟫\n\n- 1.19.2 - 🟦\n\n- 1.20.1 - 🟩\n\n- Only available in FORGE or FABRIC or BOTH - ⬜\n\n- Not available - ❌\n\n<center>\n\n## ❓ F. A. Q. ❓\n</center>\n\nQ: How the heck does this work?\n> A: Magic.\n\nQ: Is this compatible with other compat mods?\n> A: Yes, I've included a list of many popular compat mods. The mod will do its best not to register stuff that's already in them when they are installed\n\nQ: I'm a mod author, could I use this mod to add support to my blocks?\n> A: Yes! The mod includes a very simple and easy to use API with which modders can register an entire block definition in only 10 lines! The mod will automatically generate all assets automatically\n\nQ: Can you add support for \"x\" wood type?\n> A: Go try the mod\n\nQ: A block type isnt supported, can I add it myself?\n> A: Not directly as registration cant be conditional and cant depend on config files. If you are a modder and know code you can make a pull request to the mod or use the EveryCompatAPI class directly in your mods (check their javadocs & mod modules for info)\n\n<center>\n\n## ❤️Support Me❤️\n</center>\n\n<p><span style=\"font-size:18px\">Modding is taking a lot of my time, so if you like what I do, and you would like to support me, you can do so here. If you do, you'll receive a custom Globe and or Statue just for you! This also applies if you purchase a server from Akliz using \"supplementaries\" code.</span></p>\n<center>\n\n<a href=\"https://ko-fi.com/mehvahdjukaar\"><br><img src=\"https://i.imgur.com/sroRu1I.png\" alt=\"Ko-Fi\" width=\"346\" height=\"68\"></a>\n</center>\n<br>Need a server? Check out Akliz, they have top brand servers just for modded minecraft.\nThey really have a cozy community with great support and the servers wonderfully<br>Use code \"supplementaries\" to get 20% off and also support me in the process!\n<br>\n\n<center>\n<br>\n\n[![Get 20% off the first month using code: Supplementaries](https://i.imgur.com/g5B76A8.png)](https://www.akliz.net/supplementaries)\n\n## 🦉 Our Mods🦉\n<a href=\"https://www.modrinth.com/mod/haunted-harvest\" rel=\"nofollow\"><img src=\"https://i.imgur.com/t1mYf6a.gif\" alt=\"Haunted Harvest\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/snowy-spirit\" rel=\"nofollow\"><img src=\"https://i.imgur.com/f1NuS3t.png\" alt=\"Snowy Spirit\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/labels\" rel=\"nofollow\"><img src=\"https://i.imgur.com/OO7HTbn.png\" alt=\"Storage Labels\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/goated\" rel=\"nofollow\"><img src=\"https://i.imgur.com/rRcgB1P.png\" alt=\"Goated\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mystical-oak-tree\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Gys7BpM.gif\" alt=\"Mysyical Oak Tree\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/carpeted-stairs\" rel=\"nofollow\"><img src=\"https://i.imgur.com/KiuA6oe.png\" alt=\"Carpeted Stairs\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mmmmmmmmmmmm\" rel=\"nofollow\"><img src=\"https://i.imgur.com/eWNxaRZ.png\" alt=\"MmmMmmMmmMmm\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/moyai\" rel=\"nofollow\"><img src=\"https://i.imgur.com/G44hniG.png\" alt=\"Moyai\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/just-enough-effect-descriptions-jeed\" rel=\"nofollow\"><img src=\"https://i.imgur.com/vUw51oj.png\" alt=\"Jeed\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/better-lily-pads\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Bp2FNeY.png\" alt=\"Better Lily Pads\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/advancement-frames\" rel=\"nofollow\"><img src=\"https://i.imgur.com/9trFDsF.png\" alt=\"Advancement Frames\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/randomium-ore\" rel=\"nofollow\"><img src=\"https://i.imgur.com/0RGkl5V.png\" alt=\"Randomium\" width=\"125\" height=\"125\"> </a>\n</center>",
 		"name": "Every Compat (Wood Good)",
 		"package_maintainers": [
 			"mcvm"
@@ -3049,6 +3207,9 @@
 			"4",
 			"3",
 			"2",
+			"1.20-2.6.68",
+			"1.20-2.6.67",
+			"1.20-2.6.66",
 			"1.20-2.6.65",
 			"1.20-2.6.64",
 			"1.20-2.6.63",
@@ -3110,6 +3271,8 @@
 			"1.20-2.6.2",
 			"1.20-2.6.1",
 			"1.20-2.6.0",
+			"1.19.2-2.5.24",
+			"1.19.2-2.5.23",
 			"1.19.2-2.5.22",
 			"1.19.2-2.5.21",
 			"1.19.2-2.5.20",
@@ -3147,6 +3310,9 @@
 			"1.19.2-2.3.2",
 			"1.19.2-2.3.1",
 			"1.19.2-2.3.0",
+			"1.18.2-1.6.14",
+			"1.18.2-1.6.13",
+			"1.18.2-1.6.12",
 			"1.18.2-1.6.11",
 			"1.18.2-1.6.10",
 			"1.18.2-1.6.9",

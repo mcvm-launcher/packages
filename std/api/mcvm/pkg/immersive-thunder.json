@@ -4,6 +4,26 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21-1.2.2",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/6TiQdfiz/ImmersiveThunder-1.21%2B1.2.2.jar",
+					"version": "6TiQdfiz"
+				},
+				{
 					"content_versions": "1.20.4-1.2.2",
 					"minecraft_versions": "1.20.4",
 					"modloaders": [
@@ -202,6 +222,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21-1.2.2",
 			"1.20.4-1.2.2",
 			"1.20.3-1.2.2",
 			"1.20.2-1.2.2",
@@ -226,7 +247,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

@@ -4,6 +4,40 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.15.7-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"player-animator",
+							"spell-power-attributes",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/qkL60F6g/spell_engine-0.15.7%2B1.20.1.jar",
+					"version": "qkL60F6g"
+				},
+				{
+					"content_versions": "0.15.6-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"player-animator",
+							"spell-power-attributes",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/5qhQxhiU/spell_engine-0.15.6%2B1.20.1.jar",
+					"version": "5qhQxhiU"
+				},
+				{
 					"content_versions": "0.15.6-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -996,6 +1030,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.15.7-1.20.1",
 			"0.15.6-1.20.1",
 			"0.15.5-1.20.1",
 			"0.15.4-1.20.1",

@@ -4,6 +4,81 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "5.1.0",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar",
+					"version": "BbFqiKvi"
+				},
+				{
+					"content_versions": "5.0.1",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/RfFxanNh/versions/39yHBKs1/fasterrandom-5.0.1.jar",
+					"version": "39yHBKs1"
+				},
+				{
+					"content_versions": "5.0.0",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/RfFxanNh/versions/PDCyV1Qp/fasterrandom-5.0.0.jar",
+					"version": "PDCyV1Qp"
+				},
+				{
 					"content_versions": "4.1.0",
 					"minecraft_versions": [
 						"1.19",
@@ -344,12 +419,15 @@
 			"AnOpenSauceDev",
 			"Steveplays"
 		],
+		"banner": "https://cdn.modrinth.com/data/RfFxanNh/images/82eea890803dd2bdbae639fefcb23a79387f77ae.png",
 		"description": "An up to 100X* faster Random Generator implementation for Minecraft, with near vanilla parity.",
-		"gallery": [],
+		"gallery": [
+			"https://cdn.modrinth.com/data/RfFxanNh/images/82eea890803dd2bdbae639fefcb23a79387f77ae.png"
+		],
 		"icon": "https://cdn.modrinth.com/data/RfFxanNh/b761d0a683116a072c199bd86ae171f88419179b.png",
 		"issues": "https://github.com/AnOpenSauceDev/FastRandom/issues",
 		"license": "Apache-2.0",
-		"long_description": "# Faster Random\nThis mod rewrites Minecraft's RNG system with a much faster alternative, **making random operations _up to_ 100X\\*** faster, and makes parts of minecraft load faster in some cases.\n\n_\\* In the worst-case-scenario with CheckedRandom. Realistically performance is 4-8x faster._\n\n## Should you use this mod?\n\nIt's likely that Faster Random will only improve worldgen performance up to a certain extent, as **you'll quickly hit a RAM and I/O bottleneck from the increased amount of chunks stored in RAM/being written to disk.** This isn't a bad thing, this just means that you're generating chunks faster than the rest of your system can store them. Depending on your system, your mileage may vary greatly.\n\nOther \"random\" parts of the game may also have potential performance increases reduced due to bottlenecks.\n\nAs a result, this mod provides the most performance in situations where **the server thread(s) are CPU bottlenecked** (singleplayer runs on an internal server), but have access to a decent amount of fast memory and storage (DDR4 RAM, and a SATA III or better HDD).\n\nFor world generation, Faster Random is _almost_ 1:1, but **some cave shapes will generate differently to Vanilla.** Everything else is 1:1. It's likely that these differences will be unnoticiable, but shouldn't be used for parity-sensitive things like speedrunning. **Optifine's math optimizations do far more damaging changes to worldgen than Faster Random.**\n\nFaster Random does not need to be on both the client and server. Faster Random can provide a small performance boost client-side, as quite a few things are still random there.\n\n## System Requirements (3.0.0+)\n- A JVM that [fully supports Java 17's new `RandomGenerator` system](https://gist.github.com/AnOpenSauceDev/36719f1ed2770fa0094d6be618b137e3), **and implementations of the [LXM generators alongside it](https://openjdk.org/jeps/356)**. (example: [GraalVM](https://www.graalvm.org )). **Having an unsupported JVM will cause crashes,** and will require you to use Faster Random 1.6.0. If your JVM doesn't support this, chances are it's not a good JVM.\n\n(**Note:** You may be unknowingly using a headless JDK for Minecraft, which breaks Faster Random due to a variety of strange reasons. Please check if you have downloaded the correct JDK/Package if Faster Random is crashing.)\n\n## Usage with other mods\n\nFaster Random should work well with a large variety of mods, especially after 4.0.0.\n\nFaster Random also **can perform better alongside other terrain optimization mods such as Noisium and C2ME**, thanks to them making better leverage of Minecraft's random systems with multithreading. **Ideally,** you should use Noisium + Faster Random, and throw as much ram (10GB+) as you can spare at Minecraft when using Distant Horizons (C2ME has a performance hit with DH). Faster Random can leverage Noisium for a significant reduction in CPU usage from world generation.\n\n## Forge?\n\n[**Francium**](https://modrinth.com/mod/francium-optimization) is an _unofficial_ forge variant for **1.16 and 1.18**, which mostly does what Faster Random does, albeit **without the worldgen optimizations.** For 1.20.1 and these worldgen changes, [**Sinytra Connector**](https://modrinth.com/mod/connector) should be able to run the mod with a \"stable enough\" experience. For 1.20.1+, you can try using the NeoForge port.\n\n\nFaster Random's Icon is licensed under **CC-BY-SA**. Code is licensed under **Apache 2.0**.\n\nLike this mod? Feel free to support development by contributing code, creating bug reports, and letting others know about it!",
+		"long_description": "# Faster Random\nThis mod rewrites Minecraft's RNG system with a much faster alternative, **making random operations _up to_ 100X\\*** faster, and makes parts of minecraft load faster in some cases.\n\n_\\* In the worst-case-scenario with CheckedRandom. Realistically performance on most operations are 4-8x faster._\n\n## Should you use this mod?\n\nIt's likely that Faster Random will only improve worldgen performance up to a certain extent, as **you'll quickly hit a RAM and I/O bottleneck from the increased amount of chunks stored in RAM/being written to disk.** This isn't a bad thing, this just means that you're generating chunks faster than the rest of your system can store them. Depending on your system, your mileage may vary greatly.\n\nOther \"random\" parts of the game may also have potential performance increases reduced due to bottlenecks.\n\nAs a result, this mod provides the most performance in situations where **the server thread(s) are CPU bottlenecked** (singleplayer runs on an internal server), but have access to a decent amount of fast memory and storage (DDR4 RAM, and a SATA III or better HDD).\n\nFor world generation, Faster Random is _almost_ 1:1, but **some cave shapes will generate differently to Vanilla.** Everything else is 1:1. It's likely that these differences will be unnoticiable, but shouldn't be used for parity-sensitive things like speedrunning. **Optifine's math optimizations do far more damaging changes to worldgen than Faster Random.**\n\nFaster Random does not need to be on both the client and server. Faster Random can provide a small performance boost client-side, as quite a few things are still random there.\n\n## System Requirements (3.0.0+)\n- A JVM that [fully supports Java 17's new `RandomGenerator` system](https://gist.github.com/AnOpenSauceDev/36719f1ed2770fa0094d6be618b137e3), **and implementations of the [LXM generators alongside it](https://openjdk.org/jeps/356)**. (example: [GraalVM](https://www.graalvm.org )). **Having an unsupported JVM will cause crashes,** and will require you to use Faster Random 1.6.0. If your JVM doesn't support this, chances are it's not a good JVM.\n\n(**Note:** You may be unknowingly using a headless JDK for Minecraft, which breaks Faster Random due to a variety of strange reasons. Please check if you have downloaded the correct JDK/Package if Faster Random is crashing.)\n\n## Usage with other mods\n\nFaster Random should work well with a large variety of mods, especially after 4.0.0.\n\nFaster Random also **can perform better alongside other terrain optimization mods such as Noisium and C2ME**, thanks to them making better leverage of Minecraft's random systems with multithreading. **Ideally,** you should use Noisium + Faster Random, and throw as much ram (10GB+) as you can spare at Minecraft when using Distant Horizons (C2ME has a performance hit with DH). Faster Random can leverage Noisium for a significant reduction in CPU usage from world generation.\n\n## Forge?\n\n[**Francium**](https://modrinth.com/mod/francium-optimization) is an _unofficial_ forge variant for **1.16 and 1.18**, which mostly does what Faster Random does, albeit **without the worldgen optimizations.** For 1.20.1 and these worldgen changes, [**Sinytra Connector**](https://modrinth.com/mod/connector) should be able to run the mod with a \"stable enough\" experience. For 1.20.1+, you can try using the NeoForge port.\n\n\nFaster Random's Icon is licensed under **CC-BY-SA**. Code is licensed under **Apache 2.0**.\n\nLike this mod? Feel free to support development by contributing code, creating bug reports, and letting others know about it (it helps a lot)!",
 		"name": "Faster Random",
 		"package_maintainers": [
 			"mcvm"
@@ -358,6 +436,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"5.1.0",
+			"5.0.1",
+			"5.0.0",
 			"4.1.0",
 			"4.0.1",
 			"4.0.0",

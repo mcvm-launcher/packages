@@ -4,6 +4,45 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.0-1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Umsczw3y/versions/sR7BFOki/mythiclib-1.1.0%2B1.20.4.jar",
+					"version": "sR7BFOki"
+				},
+				{
+					"content_versions": "1.1.0-1.20.2",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Umsczw3y/versions/IwRGINHa/mythiclib-1.1.0%2B1.20.2.jar",
+					"version": "IwRGINHa"
+				},
+				{
+					"content_versions": "1.1.0-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Umsczw3y/versions/hjc0Imm7/mythiclib-1.1.0%2B1.20.1.jar",
+					"version": "hjc0Imm7"
+				},
+				{
 					"content_versions": "1.0.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -61,6 +100,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.1.0-1.20.4",
+			"1.1.0-1.20.2",
+			"1.1.0-1.20.1",
 			"1.0.0-1.20.4",
 			"1.0.0-1.20.2",
 			"1.0.0-1.20.1"
@@ -73,6 +115,7 @@
 			"server"
 		],
 		"supported_versions": [
+			"1.20",
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",

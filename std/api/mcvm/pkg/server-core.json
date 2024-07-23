@@ -4,6 +4,22 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.5.4-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/B3eN97DO/servercore-neoforge-1.5.4%2B1.21.jar",
+					"version": "B3eN97DO"
+				},
+				{
+					"content_versions": "1.5.4-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/pdvZYDOA/servercore-fabric-1.5.4%2B1.21.jar",
+					"version": "pdvZYDOA"
+				},
+				{
 					"content_versions": "1.5.1-1.20.5",
 					"minecraft_versions": [
 						"1.20.5",
@@ -442,6 +458,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.5.4-1.21",
 			"1.5.3-1.21",
 			"1.5.3-1.20.6",
 			"1.5.2-1.20.6",

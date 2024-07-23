@@ -4,6 +4,18 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.6.6-fix4-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bad-packets",
+						"extensions": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/VhcPzhEp/emi_loot-0.6.6%2Bfix4%2B1.19.2%2Bforge.jar",
+					"version": "VhcPzhEp"
+				},
+				{
 					"content_versions": "0.6.6-fix3-1.20.1",
 					"minecraft_versions": [
 						"1.20",
@@ -818,6 +830,7 @@
 			"0.6.6-1.19.3",
 			"0.6.6-1.19.2",
 			"0.6.6-1.19",
+			"0.6.6-fix4-1.19.2",
 			"0.6.6-fix3-1.20.1",
 			"0.6.6-fix3-1.19.2",
 			"0.6.6-fix2-1.20.1",

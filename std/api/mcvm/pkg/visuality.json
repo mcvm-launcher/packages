@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.7.7-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/dhKbgdIb/visuality-0.7.7%2B1.21.jar",
+					"version": "dhKbgdIb"
+				},
+				{
 					"content_versions": "0.7.6-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -505,6 +522,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.7.7-1.21",
 			"0.7.6-1.21",
 			"0.7.5-1.21",
 			"0.7.4-1.21",

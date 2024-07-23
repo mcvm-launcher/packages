@@ -4,6 +4,40 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.4.26",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/IVgBjB7L/letsdo-vinery-forge-1.4.26.jar",
+					"version": "IVgBjB7L"
+				},
+				{
+					"content_versions": "1.4.26",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/UPNUujMk/letsdo-vinery-fabric-1.4.26.jar",
+					"version": "UPNUujMk"
+				},
+				{
 					"content_versions": "1.4.25",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -968,8 +1002,6 @@
 	"meta": {
 		"authors": [
 			"Cristelknight",
-			"ECarrascon",
-			"IamJannik",
 			"satisfyu"
 		],
 		"banner": "https://cdn.modrinth.com/data/1DWmBJVA/images/7159134e41fb605a66cde1e0ecc499e0d0dd2518.png",
@@ -994,6 +1026,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.4.26",
 			"1.4.25",
 			"1.4.24",
 			"1.4.23",

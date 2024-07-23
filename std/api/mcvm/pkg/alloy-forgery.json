@@ -4,6 +4,48 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.2.2-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/jhl28YkY/versions/iOz4UvJY/alloy-forgery-2.2.2%2B1.21.jar",
+					"version": "iOz4UvJY"
+				},
+				{
+					"content_versions": "2.2.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/jhl28YkY/versions/8OIstC18/alloy-forgery-2.2.1%2B1.21.jar",
+					"version": "8OIstC18"
+				},
+				{
+					"content_versions": "2.2.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/jhl28YkY/versions/i6Zj3EuN/alloy-forgery-2.2.0%2B1.21.jar",
+					"version": "i6Zj3EuN"
+				},
+				{
 					"content_versions": "2.1.4-1.20.3",
 					"minecraft_versions": [
 						"1.20.3",
@@ -462,6 +504,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.2.2-1.21",
+			"2.2.1-1.21",
+			"2.2.0-1.21",
 			"2.1.4-1.20.3",
 			"2.1.3-1.20.3",
 			"2.1.2-1.20.4",
@@ -520,7 +565,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

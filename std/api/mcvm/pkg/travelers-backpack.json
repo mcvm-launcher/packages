@@ -4,6 +4,202 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.20.4-9.4.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/5qngrLbH/travelersbackpack-forge-1.20.4-9.4.3.jar",
+					"version": "5qngrLbH"
+				},
+				{
+					"content_versions": "1.20.1-9.1.15",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/FDqFhZfz/travelersbackpack-forge-1.20.1-9.1.15.jar",
+					"version": "FDqFhZfz"
+				},
+				{
+					"content_versions": "1.19.2-8.2.41",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/SDFfEpIi/travelersbackpack-forge-1.19.2-8.2.41.jar",
+					"version": "SDFfEpIi"
+				},
+				{
+					"content_versions": "1.18.2-7.1.49",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/voGeNbOd/travelersbackpack-forge-1.18.2-7.1.49.jar",
+					"version": "voGeNbOd"
+				},
+				{
+					"content_versions": "1.21-10.0.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/RspsLAbI/travelersbackpack-neoforge-1.21-10.0.2.jar",
+					"version": "RspsLAbI"
+				},
+				{
+					"content_versions": "1.20.6-9.6.3",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/7F2hRnJ3/travelersbackpack-neoforge-1.20.6-9.6.3.jar",
+					"version": "7F2hRnJ3"
+				},
+				{
+					"content_versions": "1.20.6-9.6.3",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/Kv95LgOu/travelersbackpack-neoforge-1.20.6-9.6.3.jar",
+					"version": "Kv95LgOu"
+				},
+				{
+					"content_versions": "1.21-10.0.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/eu0U8r3V/travelersbackpack-forge-1.21-10.0.0.jar",
+					"version": "eu0U8r3V"
+				},
+				{
+					"content_versions": "1.20.6-9.6.0",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/KZG9ydbw/travelersbackpack-forge-1.20.6-9.6.0.jar",
+					"version": "KZG9ydbw"
+				},
+				{
+					"content_versions": "1.21-10.0.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/G6djNRS8/travelersbackpack-neoforge-1.21-10.0.1.jar",
+					"version": "G6djNRS8"
+				},
+				{
+					"content_versions": "1.20.6-9.6.2",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/OM68XX8U/travelersbackpack-neoforge-1.20.6-9.6.2.jar",
+					"version": "OM68XX8U"
+				},
+				{
+					"content_versions": "1.20.4-9.4.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/BNberKGE/travelersbackpack-neoforge-1.20.4-9.4.4.jar",
+					"version": "BNberKGE"
+				},
+				{
+					"content_versions": "1.21-10.0.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cardinal-components-api",
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "crafting-tweaks"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/HArCuJ2Z/travelersbackpack-fabric-1.21-10.0.4.jar",
+					"version": "HArCuJ2Z"
+				},
+				{
+					"content_versions": "1.20.6-9.6.4",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cardinal-components-api",
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": [
+							{
+								"value": "crafting-tweaks"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/AzNT1Qxf/travelersbackpack-fabric-1.20.6-9.6.4.jar",
+					"version": "AzNT1Qxf"
+				},
+				{
+					"content_versions": "1.21-10.0.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "crafting-tweaks"
+							},
+							{
+								"value": "curios-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/BoUdQ73s/travelersbackpack-neoforge-1.21-10.0.0.jar",
+					"version": "BoUdQ73s"
+				},
+				{
+					"content_versions": "1.20.6-9.6.1",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "crafting-tweaks"
+							},
+							{
+								"value": "curios-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/CHwiS74Y/travelersbackpack-neoforge-1.20.6-9.6.1.jar",
+					"version": "CHwiS74Y"
+				},
+				{
+					"content_versions": "1.20.4-9.4.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "crafting-tweaks"
+							},
+							{
+								"value": "curios-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rlloIFEV/versions/76XQtjol/travelersbackpack-neoforge-1.20.4-9.4.3.jar",
+					"version": "76XQtjol"
+				},
+				{
 					"content_versions": "1.20.1-9.1.15",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -4011,7 +4207,7 @@
 		"icon": "https://cdn.modrinth.com/data/rlloIFEV/271b2133a315ee3d864ea5a429472f0e71591fe3.gif",
 		"issues": "https://github.com/Tiviacz1337/Travelers-Backpack/issues",
 		"license": "LGPL-3.0-only",
-		"long_description": "## Traveler's Backpack\n...is a Minecraft mod, which adds unique **backpacks**. The mod is a successor of **[JavierDarkona](https://www.curseforge.com/members/darkona/projects)'s** **Adventure Backpack** and since 1.16 all textures have been completely remade to fit the new style. Furthermore, functionality of backpack has been expanded by various new features. Traveler's Backpack is the [official port](https://i.imgur.com/Su1JySt.png).\n\n![travelers backpack text](https://i.imgur.com/OwJ2twO.png)\n\n[![Discord badge](https://img.shields.io/discord/724696823276503210?color=542c14&amp;labelColor=261509&amp;label=&amp;logo=discord&amp;logoColor=white&amp;style=for-the-badge)](https://discord.gg/f8Nnj5VuFj) [![Github badge](https://img.shields.io/static/v1?label=&amp;message=Github&amp;color=542c14&amp;labelColor=261509&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Tiviacz1337/Travelers-Backpack) [![Wiki badge](https://img.shields.io/static/v1?label=&amp;message=Wiki&amp;color=542c14&amp;labelColor=261509&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Tiviacz1337/Travelers-Backpack/wiki)  [![Patreon badge](https://img.shields.io/static/v1?label=&amp;message=Donate&amp;color=542c14&amp;labelColor=261509&amp;style=for-the-badge&amp;logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=KE52UJ7TAZAC4) [![Paypal badge](https://img.shields.io/static/v1?label=&amp;message=Become%20My%20Patron&amp;color=542c14&amp;labelColor=261509&amp;style=for-the-badge&amp;logo=patreon&amp;logoColor=white)](https://www.patreon.com/tiviacz1337)\n\n![travelers backpack bar](https://i.imgur.com/xjdqPMI.png)\n\n- **Full inventory? No more!**\n\nUpgraded backpack can provide about **63 inventory slots** and **2 fluid tanks**, each of which can store up to 7 buckets of fluid or even 28 bottles of potion (Now even more, since it's configurable!). All inventory slots and tanks can be accessed via external pipes. The backpack also provides special buttons - **sort**, **quick stack** and **transfer** to seamlessly manage inventory!\n\n- **Tier Upgrades**\n\nBackpack has to be **upgraded** to reach its maximum storage and tank capacity. Upgrading can be done at a **smithing table** by placing a leather in template slot, tier upgrade and a backpack in next slots. Although the backpack can't be directly upgraded to the Netherite tier, it has to be upgraded to all lower tiers first. To reset backpack upgrades and settings, place the backpack on the ground and Shift + Right-click while holding a Blank Upgrade in your hand.\n\n- **Chestplate or backpack? Why not both?**\n\nTraveler's backpack doesn't need any empty armor slot (or other slot, unless Curios/Trinkets integration is enabled) to be worn. The player can wear one backpack on their back at a time and its inventory can be accessed via the **B** (Configurable) button.\n\n- **The best gear for adventures!**\n\nCrafting Table is your bestfriend? Equip your backpack with Crafting Upgrade! Unroll the sleeping bag whenever you want! Don't worry, you won't lose your spawn point! Also it's worth taking advantage of handy tool slots (Tool swapping described on Wiki). The fluid tanks, in combination with Hose Item (Hose functioning described on Wiki) provide good portable fluid storage.\n\n- **Customization that you have never seen!**\n\nChoose your personal style from over 45 custom backpacks, which represent various creatures and blocks. As if that weren't enough, some of them can provide special abilities! 1.16+ versions provide **dyed backpack**. You can combine whichever dyes you want to create a unique look!\n\n![end travelers backpack showcase](https://i.imgur.com/E1YYiRf.png)\n\n## Backpacks and Inventory Preview\n<details>\n<summary>Click</summary>\n\n<img src=\"https://i.imgur.com/8wR8Thg.png\" alt=\"all backpacks showcase\" height=\"650\" width = \"584\"/>\n\n<p><img src=\"https://i.imgur.com/c9Ojonb.gif\" width=\"584\" height=\"650\" /></p>\n\n<p><img src=\"https://i.imgur.com/fmjcSej.gif\" width=\"584\" height=\"650\" /></p>\n\n</details>\n\n![bee travelers backpack showcase](https://i.imgur.com/HpldKTS.png)\n\n*** \n\n[<img src=\"https://i.imgur.com/np93li4.png\" alt=\"kinetic hosting banner\" width=\"800\" height=\"281\"/>](https://billing.kinetichosting.net/aff.php?aff=102)\n\n## Modpacks\nYou are allowed to use this mod in public/private modpacks. I do not allow anyone to repost mod on other sites without my permission or link to this Modrinth page.\n\n## Localization\nIf you want to help translate Traveler's Backpack to other languages, you can do it here: **[Localazy!](https://localazy.com/p/travelers-backpack)**\n\n![bookshelf backpack showcase](https://i.imgur.com/PyTvjJ6.png)\n\nTranslated in the following languages:\n\n*Arabic | Czech | German | British English | Spanish | Mexican Spanish | Finnish | French | Italian | Japanese | Korean | Dutch | Polish | Brazilian Portuguese | Romanian | Russian | Swedish | Turkish | Ukrainian | Vietnamese | Simplified Chinese | Traditional Chinese*\n\n![travelers backpack bar](https://i.imgur.com/xjdqPMI.png)\n\n[<img src=\"https://i.imgur.com/kKBvbr7.png\" alt=\"pizzacraft banner\" width=\"150\" height=\"150\"/>](https://modrinth.com/mod/pizzacraft)[<img src=\"https://i.imgur.com/9euilOy.png\" alt=\"cloud boots banner\" width=\"150\" height=\"150\"/>](https://modrinth.com/mod/cloud-boots)[<img src=\"https://i.imgur.com/gFjUqX6.png\" alt=\"warrior rage banner\" width=\"150\" height=\"150\"/>](https://modrinth.com/mod/warrior-rage)",
+		"long_description": "## Traveler's Backpack\n...is a Minecraft mod, which adds unique **backpacks**. The mod is a successor of **[JavierDarkona](https://www.curseforge.com/members/darkona/projects)'s** **Adventure Backpack** and since 1.16 all textures have been completely remade to fit the new style. Furthermore, functionality of backpack has been expanded by various new features. Traveler's Backpack is the [official port](https://i.imgur.com/Su1JySt.png).\n\n![travelers backpack text](https://i.imgur.com/OwJ2twO.png)\n\n[![Discord badge](https://img.shields.io/discord/724696823276503210?color=542c14&amp;labelColor=261509&amp;label=&amp;logo=discord&amp;logoColor=white&amp;style=for-the-badge)](https://discord.gg/f8Nnj5VuFj) [![Github badge](https://img.shields.io/static/v1?label=&amp;message=Github&amp;color=542c14&amp;labelColor=261509&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Tiviacz1337/Travelers-Backpack) [![Wiki badge](https://img.shields.io/static/v1?label=&amp;message=Wiki&amp;color=542c14&amp;labelColor=261509&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Tiviacz1337/Travelers-Backpack/wiki)  [![Patreon badge](https://img.shields.io/static/v1?label=&message=Support&color=542c14&labelColor=261509&style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/tiviacz1337) [![Ko-Fi badge](https://img.shields.io/static/v1?label=&amp;message=Become%20My%20Patron&amp;color=542c14&amp;labelColor=261509&amp;style=for-the-badge&amp;logo=patreon&amp;logoColor=white)](https://www.patreon.com/tiviacz1337)\n\n![travelers backpack bar](https://i.imgur.com/xjdqPMI.png)\n\n- **Full inventory? No more!**\n\nUpgraded backpack can provide about **63 inventory slots** and **2 fluid tanks**, each of which can store up to 7 buckets of fluid or even 28 bottles of potion (Now even more, since it's configurable!). All inventory slots and tanks can be accessed via external pipes. The backpack also provides special buttons - **sort**, **quick stack** and **transfer** to seamlessly manage inventory!\n\n- **Tier Upgrades**\n\nBackpack has to be **upgraded** to reach its maximum storage and tank capacity. Upgrading can be done at a **smithing table** by placing a leather in template slot, tier upgrade and a backpack in next slots. Although the backpack can't be directly upgraded to the Netherite tier, it has to be upgraded to all lower tiers first. To reset backpack upgrades and settings, place the backpack on the ground and Shift + Right-click while holding a Blank Upgrade in your hand.\n\n- **Chestplate or backpack? Why not both?**\n\nTraveler's backpack doesn't need any empty armor slot (or other slot, unless Curios/Trinkets integration is enabled) to be worn. The player can wear one backpack on their back at a time and its inventory can be accessed via the **B** (Configurable) button.\n\n- **The best gear for adventures!**\n\nCrafting Table is your bestfriend? Equip your backpack with Crafting Upgrade! Unroll the sleeping bag whenever you want! Don't worry, you won't lose your spawn point! Also it's worth taking advantage of handy tool slots (Tool swapping described on Wiki). The fluid tanks, in combination with Hose Item (Hose functioning described on Wiki) provide good portable fluid storage.\n\n- **Customization that you have never seen!**\n\nChoose your personal style from over 45 custom backpacks, which represent various creatures and blocks. As if that weren't enough, some of them can provide special abilities! 1.16+ versions provide **dyed backpack**. You can combine whichever dyes you want to create a unique look!\n\n![end travelers backpack showcase](https://i.imgur.com/E1YYiRf.png)\n\n## Backpacks and Inventory Preview\n<details>\n<summary>Click</summary>\n\n<img src=\"https://i.imgur.com/8wR8Thg.png\" alt=\"all backpacks showcase\" height=\"650\" width = \"584\"/>\n\n<p><img src=\"https://i.imgur.com/c9Ojonb.gif\" width=\"584\" height=\"650\" /></p>\n\n<p><img src=\"https://i.imgur.com/fmjcSej.gif\" width=\"584\" height=\"650\" /></p>\n\n</details>\n\n![bee travelers backpack showcase](https://i.imgur.com/HpldKTS.png)\n\n*** \n\n[<img src=\"https://i.imgur.com/np93li4.png\" alt=\"kinetic hosting banner\" width=\"800\" height=\"281\"/>](https://billing.kinetichosting.net/aff.php?aff=102)\n\n## Modpacks\nYou are allowed to use this mod in public/private modpacks. I do not allow anyone to repost mod on other sites without my permission or link to this Modrinth page.\n\n## Localization\nIf you want to help translate Traveler's Backpack to other languages, you can do it here: **[Localazy!](https://localazy.com/p/travelers-backpack)**\n\n![bookshelf backpack showcase](https://i.imgur.com/PyTvjJ6.png)\n\nTranslated in the following languages:\n\n*Arabic | Czech | German | British English | Spanish | Mexican Spanish | Finnish | French | Italian | Japanese | Korean | Dutch | Polish | Brazilian Portuguese | Romanian | Russian | Swedish | Turkish | Ukrainian | Vietnamese | Simplified Chinese | Traditional Chinese*\n\n![travelers backpack bar](https://i.imgur.com/xjdqPMI.png)\n\n[<img src=\"https://i.imgur.com/kKBvbr7.png\" alt=\"pizzacraft banner\" width=\"150\" height=\"150\"/>](https://modrinth.com/mod/pizzacraft)[<img src=\"https://i.imgur.com/9euilOy.png\" alt=\"cloud boots banner\" width=\"150\" height=\"150\"/>](https://modrinth.com/mod/cloud-boots)[<img src=\"https://i.imgur.com/gFjUqX6.png\" alt=\"warrior rage banner\" width=\"150\" height=\"150\"/>](https://modrinth.com/mod/warrior-rage)",
 		"name": "Traveler's Backpack",
 		"package_maintainers": [
 			"mcvm"
@@ -4021,11 +4217,15 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21-10.0.4",
 			"1.21-10.0.3",
 			"1.21-10.0.2",
+			"1.21-10.0.1",
 			"1.21-10.0.0",
+			"1.20.6-9.6.4",
 			"1.20.6-9.6.3",
 			"1.20.6-9.6.2",
+			"1.20.6-9.6.1",
 			"1.20.6-9.6.0",
 			"1.20.4-9.4.6",
 			"1.20.4-9.4.5",
@@ -4054,11 +4254,11 @@
 			"1.20.1-9.1.3",
 			"1.20.1-9.1.2",
 			"1.20.1-9.1.1",
-			"1.20.1-9.1.0",
 			"1.20-rc1-9.0.0",
 			"1.20-9.0.2",
 			"1.20-9.0.1",
 			"1.20-9.0.0",
+			"1.20.1-9.1.0",
 			"1.19.4-8.4.20",
 			"1.19.4-8.4.19",
 			"1.19.4-8.4.18",
@@ -4084,6 +4284,7 @@
 			"1.19.3-8.3.8",
 			"1.19.3-8.3.7",
 			"1.19.3-8.3.6",
+			"1.19.2-8.2.41",
 			"1.19.2-8.2.40",
 			"1.19.2-8.2.39",
 			"1.19.2-8.2.38",
@@ -4108,6 +4309,7 @@
 			"1.19.2-8.2.19",
 			"1.19.2-8.2.18",
 			"1.19.2-8.2.17",
+			"1.18.2-7.1.49",
 			"1.18.2-7.1.48",
 			"1.18.2-7.1.47",
 			"1.18.2-7.1.46",

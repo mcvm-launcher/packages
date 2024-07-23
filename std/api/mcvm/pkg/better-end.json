@@ -4,6 +4,174 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "21.0.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "patchouli"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/FSsjVa6J/better-end-21.0.5.jar",
+					"version": "FSsjVa6J"
+				},
+				{
+					"content_versions": "21.0.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "patchouli"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/KYp60fr2/better-end-21.0.4.jar",
+					"version": "KYp60fr2"
+				},
+				{
+					"content_versions": "21.0.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/yvOGk2s5/better-end-21.0.3.jar",
+					"version": "yvOGk2s5"
+				},
+				{
+					"content_versions": "21.0.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "patchouli"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/FetSp6Um/better-end-21.0.3.jar",
+					"version": "FetSp6Um"
+				},
+				{
+					"content_versions": "21.0.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "patchouli"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/ZG3hVtPL/better-end-21.0.2.jar",
+					"version": "ZG3hVtPL"
+				},
+				{
+					"content_versions": "21.0.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "patchouli"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/ZqwBf6Kh/better-end-21.0.1.jar",
+					"version": "ZqwBf6Kh"
+				},
+				{
 					"content_versions": "21.0.0",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -1031,9 +1199,7 @@
 		}
 	},
 	"meta": {
-		"authors": [
-			"quiqueck"
-		],
+		"authors": [],
 		"community": "https://discord.gg/kYuATbYbKW",
 		"description": "New Biomes, mysterious rituals and Mobs for your End",
 		"gallery": [
@@ -1052,6 +1218,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"21.0.5",
+			"21.0.4",
+			"21.0.3",
+			"21.0.2",
+			"21.0.1",
 			"21.0.0",
 			"4.30.1",
 			"4.30.0",

@@ -4,6 +4,50 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.8.5-beta.7",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "glass-config-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6v8kVRE3/versions/cGZeiHlu/modmenu-1.8.5-beta.7.jar",
+					"version": "cGZeiHlu"
+				},
+				{
+					"content_versions": "1.8.5-beta.6",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "glass-config-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6v8kVRE3/versions/hUSUYlSK/modmenu-1.8.5-beta.6.jar",
+					"version": "hUSUYlSK"
+				},
+				{
+					"content_versions": "1.8.5-beta.5",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "glass-config-api"
+							},
+							{
+								"value": "station-api"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6v8kVRE3/versions/tdbLWJwb/ModMenu-1.8.5-beta.5.jar",
+					"version": "tdbLWJwb"
+				},
+				{
 					"content_versions": "1.8.5-beta.4",
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
@@ -56,6 +100,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.8.5-beta.7",
+			"1.8.5-beta.6",
+			"1.8.5-beta.5",
 			"1.8.5-beta.4",
 			"1.8.5-beta.3"
 		],

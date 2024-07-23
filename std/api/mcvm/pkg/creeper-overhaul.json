@@ -4,6 +4,36 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "4.0.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/sU6yfd5f/Creeperoverhaul-neoforge-1.21-4.0.4.jar",
+					"version": "sU6yfd5f"
+				},
+				{
+					"content_versions": "4.0.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/pv1EuPwm/Creeperoverhaul-fabric-1.21-4.0.4.jar",
+					"version": "pv1EuPwm"
+				},
+				{
 					"content_versions": "4.0.2",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -339,6 +369,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"4.0.4",
 			"4.0.2",
 			"4.0.1",
 			"4.0.0",

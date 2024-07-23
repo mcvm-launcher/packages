@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.3.6-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qWDh3G0p/versions/XLaPPlG2/dehydration-1.3.6.jar",
+					"version": "XLaPPlG2"
+				},
+				{
 					"content_versions": "1.3.6-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -66,6 +74,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.3.6-1.21",
 			"1.3.6-1.20.1",
 			"1.3.5-1.20.1",
 			"1.3.4-1.20.1",
@@ -83,7 +92,8 @@
 		"supported_versions": [
 			"1.19.2",
 			"1.20",
-			"1.20.1"
+			"1.20.1",
+			"1.21"
 		]
 	},
 	"relations": {

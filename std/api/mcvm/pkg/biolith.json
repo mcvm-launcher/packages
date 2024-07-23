@@ -4,6 +4,107 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.0.0-beta.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/nEaXpQxw/biolith-neoforge-3.0.0-beta.1.jar",
+					"version": "nEaXpQxw"
+				},
+				{
+					"content_versions": "3.0.0-beta.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/DjQLB3sa/biolith-forge-3.0.0-beta.1.jar",
+					"version": "DjQLB3sa"
+				},
+				{
+					"content_versions": "3.0.0-beta.1",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/DsO2W2DP/biolith-fabric-3.0.0-beta.1.jar",
+					"version": "DsO2W2DP"
+				},
+				{
+					"content_versions": "2.1.0-beta.1",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/qUDtGhhw/biolith-neoforge-2.1.0-beta.1.jar",
+					"version": "qUDtGhhw"
+				},
+				{
+					"content_versions": "2.1.0-beta.1",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/DD7EEkNB/biolith-fabric-2.1.0-beta.1.jar",
+					"version": "DD7EEkNB"
+				},
+				{
+					"content_versions": "2.1.0-beta.1",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/XYNBL6EA/biolith-forge-2.1.0-beta.1.jar",
+					"version": "XYNBL6EA"
+				},
+				{
+					"content_versions": "3.0.0-alpha.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/tXUG57UZ/biolith-neoforge-3.0.0-alpha.4.jar",
+					"version": "tXUG57UZ"
+				},
+				{
+					"content_versions": "3.0.0-alpha.4",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/KHLVQ5gk/biolith-fabric-3.0.0-alpha.4.jar",
+					"version": "KHLVQ5gk"
+				},
+				{
+					"content_versions": "3.0.0-alpha.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/VgXIsZwu/biolith-neoforge-3.0.0-alpha.3.jar",
+					"version": "VgXIsZwu"
+				},
+				{
+					"content_versions": "3.0.0-alpha.3",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/x63oW1If/biolith-fabric-3.0.0-alpha.3.jar",
+					"version": "x63oW1If"
+				},
+				{
 					"content_versions": "3.0.0-alpha.2",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -818,10 +919,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.0.0-beta.1",
+			"3.0.0-alpha.4",
+			"3.0.0-alpha.3",
 			"3.0.0-alpha.2",
 			"3.0.0-alpha.1",
 			"2.2.0-alpha.2",
 			"2.2.0-alpha.1",
+			"2.1.0-beta.1",
 			"2.1.0-alpha.4",
 			"2.1.0-alpha.3",
 			"2.1.0-alpha.2",

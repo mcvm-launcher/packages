@@ -4,6 +4,69 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.2-neo-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tPe4xnPd/versions/7KzsjTQH/formations-1.0.2-neoforge-mc1.21.jar",
+					"version": "7KzsjTQH"
+				},
+				{
+					"content_versions": "1.0.2-neo-mc1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tPe4xnPd/versions/bR8SR8zU/formations-1.0.2-neoforge-mc1.20.6.jar",
+					"version": "bR8SR8zU"
+				},
+				{
+					"content_versions": "1.0.2-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tPe4xnPd/versions/MWH0DcT7/formations-1.0.2-fabric-mc1.21.jar",
+					"version": "MWH0DcT7"
+				},
+				{
+					"content_versions": "1.0.2-mc1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tPe4xnPd/versions/a4aHS3Kq/formations-1.0.2-fabric-mc1.20.6.jar",
+					"version": "a4aHS3Kq"
+				},
+				{
+					"content_versions": "1.0.2-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tPe4xnPd/versions/xk9zbpzu/formations-1.0.2-forge-mc1.21.jar",
+					"version": "xk9zbpzu"
+				},
+				{
+					"content_versions": "1.0.2-mc1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/tPe4xnPd/versions/FIoxInI6/formations-1.0.2-forge-mc1.20.6.jar",
+					"version": "FIoxInI6"
+				},
+				{
 					"content_versions": "1.0.2-neo-mc1.20.4",
 					"minecraft_versions": [
 						"1.20.3",
@@ -254,7 +317,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.2-neo-mc1.21",
+			"1.0.2-neo-mc1.20.6",
 			"1.0.2-neo-mc1.20.4",
+			"1.0.2-mc1.21",
+			"1.0.2-mc1.20.6",
 			"1.0.2-mc1.20.4",
 			"1.0.2-mc1.20",
 			"1.0.2-mc1.19.4",
@@ -271,7 +338,6 @@
 			"forgelike"
 		],
 		"supported_sides": [
-			"client",
 			"server"
 		],
 		"supported_versions": [
@@ -281,7 +347,10 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

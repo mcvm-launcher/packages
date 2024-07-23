@@ -4,6 +4,33 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "10.0.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/Z0Rgfk1f/cherishedworlds-neoforge-10.0.1%2B1.21.jar",
+					"version": "Z0Rgfk1f"
+				},
+				{
+					"content_versions": "10.0.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/vCRsB8j7/cherishedworlds-fabric-10.0.1%2B1.21.jar",
+					"version": "vCRsB8j7"
+				},
+				{
+					"content_versions": "10.0.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/cMq41xS4/cherishedworlds-forge-10.0.1%2B1.21.jar",
+					"version": "cMq41xS4"
+				},
+				{
 					"content_versions": "10.0.0-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -675,6 +702,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"10.0.1-1.21",
 			"10.0.0-1.21",
 			"9.0.0-1.20.6",
 			"8.0.2-1.20.4",

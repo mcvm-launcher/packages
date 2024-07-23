@@ -4,6 +4,28 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.9.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "carpet"
+							},
+							{
+								"value": "create"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/oGmBThKh/versions/OMInTIaI/more-geodes-1.9.2.jar",
+					"version": "OMInTIaI"
+				},
+				{
 					"content_versions": "1.9.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -390,6 +412,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.9.2",
 			"1.9.1",
 			"1.9",
 			"1.8.2",

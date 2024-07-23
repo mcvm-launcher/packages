@@ -4,6 +4,47 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21-2.1.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/S7mFltFy/polytone-1.21-2.1.3.jar",
+					"version": "S7mFltFy"
+				},
+				{
+					"content_versions": "1.21-2.1.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/3EhTLs1b/polytone-1.21-2.1.3-fabric.jar",
+					"version": "3EhTLs1b"
+				},
+				{
+					"content_versions": "1.20-2.1.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/IjGJR6j9/polytone-1.20-2.1.3.jar",
+					"version": "IjGJR6j9"
+				},
+				{
+					"content_versions": "1.20-2.1.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/tQcdGX36/polytone-1.20-2.1.3-fabric.jar",
+					"version": "tQcdGX36"
+				},
+				{
 					"content_versions": "1.20-2.1.2",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -2547,6 +2588,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21-2.1.3",
 			"1.21-2.1.1",
 			"1.21-2.1.0",
 			"1.21-2.0.3",
@@ -2592,6 +2634,7 @@
 			"1.20.4-1.13.0",
 			"1.20.4-1.12.1",
 			"1.20.4-1.12.0",
+			"1.20-2.1.3",
 			"1.20-2.1.2",
 			"1.20-2.1.1",
 			"1.20-2.1.0",

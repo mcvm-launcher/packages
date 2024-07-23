@@ -4,6 +4,102 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v21.0.2-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/trjwwMwS/EasyAnvils-v21.0.2-1.21-NeoForge.jar",
+					"version": "trjwwMwS"
+				},
+				{
+					"content_versions": "v21.0.2-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/aoKqxPcT/EasyAnvils-v21.0.2-1.21-Fabric.jar",
+					"version": "aoKqxPcT"
+				},
+				{
+					"content_versions": "v21.0.1-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/Y6ReS4Ma/EasyAnvils-v21.0.1-1.21-NeoForge.jar",
+					"version": "Y6ReS4Ma"
+				},
+				{
+					"content_versions": "v21.0.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/5EgPCAhx/EasyAnvils-v21.0.1-1.21-Fabric.jar",
+					"version": "5EgPCAhx"
+				},
+				{
+					"content_versions": "v21.0.0-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/rAK1COML/EasyAnvils-v21.0.0-1.21-NeoForge.jar",
+					"version": "rAK1COML"
+				},
+				{
+					"content_versions": "v21.0.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/hLCdPdnt/EasyAnvils-v21.0.0-1.21-Fabric.jar",
+					"version": "hLCdPdnt"
+				},
+				{
 					"content_versions": "v20.4.6-1.20.4-Neo",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -911,6 +1007,12 @@
 			"v4.0.1-1.19.2",
 			"v4.0.0-1.19.2",
 			"v3.0.0-1.18.2",
+			"v21.0.2-1.21",
+			"v21.0.2-1.21-Neo",
+			"v21.0.1-1.21",
+			"v21.0.1-1.21-Neo",
+			"v21.0.0-1.21",
+			"v21.0.0-1.21-Neo",
 			"v20.4.6-1.20.4",
 			"v20.4.6-1.20.4-Neo",
 			"v20.4.5-1.20.4",
@@ -942,7 +1044,8 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

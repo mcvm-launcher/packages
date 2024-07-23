@@ -4,6 +4,25 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.111.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/kUFMdbvN/cc-tweaked-1.21-fabric-1.111.1.jar",
+					"version": "kUFMdbvN"
+				},
+				{
+					"content_versions": "1.111.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/wCkKW6lz/cc-tweaked-1.21-forge-1.111.1.jar",
+					"version": "wCkKW6lz"
+				},
+				{
 					"content_versions": "1.111.0",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -1231,6 +1250,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.111.1",
 			"1.111.0",
 			"1.110.3",
 			"1.110.2",

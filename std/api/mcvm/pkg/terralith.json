@@ -4,6 +4,40 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.5.4",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/Mm6TmSwo/Terralith_1.21_v2.5.4.jar",
+					"version": "Mm6TmSwo"
+				},
+				{
+					"content_versions": "2.5.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar",
+					"version": "WeYhEb5d"
+				},
+				{
 					"content_versions": "2.5.3",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -600,6 +634,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.5.4",
 			"2.5.3",
 			"2.5.2",
 			"2.5.1",

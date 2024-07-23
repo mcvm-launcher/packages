@@ -4,6 +4,20 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "7.5.4-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"midnightlib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/muf0XoRe/versions/ayr5NDIc/repurposed_structures-7.5.4%2B1.21-fabric.jar",
+					"version": "ayr5NDIc"
+				},
+				{
 					"content_versions": "7.5.3-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -2555,6 +2569,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"7.5.4-1.21",
 			"7.5.3-1.21",
 			"7.5.2-1.21",
 			"7.5.1-1.21",

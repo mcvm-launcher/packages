@@ -4,6 +4,68 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.14",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WFwYiVoG/versions/TsfsouU8/letsdo-bakery-forge-1.1.14.jar",
+					"version": "TsfsouU8"
+				},
+				{
+					"content_versions": "1.1.14",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WFwYiVoG/versions/cEBkgawP/letsdo-bakery-fabric-1.1.14.jar",
+					"version": "cEBkgawP"
+				},
+				{
+					"content_versions": "1.1.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WFwYiVoG/versions/mmOt4p2B/letsdo-bakery-fabric-1.1.13.jar",
+					"version": "mmOt4p2B"
+				},
+				{
+					"content_versions": "1.1.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/WFwYiVoG/versions/gNLVOiVd/letsdo-bakery-forge-1.1.13.jar",
+					"version": "gNLVOiVd"
+				},
+				{
 					"content_versions": "1.1.12.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -492,6 +554,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.1.14",
+			"1.1.13",
 			"1.1.12.1",
 			"1.1.12",
 			"1.1.11",

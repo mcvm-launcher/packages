@@ -4,6 +4,28 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.0.0",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hl5OLM95/versions/PTRQLP5p/Geophilic%20v3.0.0%20f15-48.jar",
+					"version": "PTRQLP5p"
+				},
+				{
 					"content_versions": "2.4.0",
 					"minecraft_versions": [
 						"1.20",
@@ -22,6 +44,27 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/hl5OLM95/versions/9mPgtCnM/Geophilic%20v2.4.0%20f15-48.jar",
 					"version": "9mPgtCnM"
+				},
+				{
+					"content_versions": "2.4.3",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hl5OLM95/versions/x6WC71YJ/Geophilic%20v2.4.3%20f15-48.jar",
+					"version": "x6WC71YJ"
 				},
 				{
 					"content_versions": "2.4.2",
@@ -348,31 +391,26 @@
 		"authors": [
 			"bebebea_loste"
 		],
-		"banner": "https://cdn.modrinth.com/data/hl5OLM95/images/54b2b6f08b335992a9067fdcd00e371adcafa6ad.jpeg",
+		"banner": "https://cdn.modrinth.com/data/hl5OLM95/images/5cbbe481978c2e51f7a972619ed1fe455c33aede.png",
 		"community": "https://discord.gg/4qE2GuGz2J",
-		"description": "A subtle overhaul of vanilla Overworld biomes.",
+		"description": "A subtle-ish overhaul of vanilla Overworld biomes! Reworked!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/hl5OLM95/images/0d6d6d6a16a5345f3f80794e48cddec1a2bcf20b.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/1d3f28d1d3ea9fcd8e5a36deb5f8d192e910d8bc.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/25515fd7f9e8585b98f44d9bf0d68156e5d119c4.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/3e82432a098be8139f5781f6bf2c3136d393dcd2.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/42d9f206e3433f28322fc0cd76597f121f15e335.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/47e1149e0ef37e4b41ea69a52b808da99babb15c.jpeg",
 			"https://cdn.modrinth.com/data/hl5OLM95/images/54b2b6f08b335992a9067fdcd00e371adcafa6ad.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/5876021ff4c320aea0c9a93a11c8a00bb3765944.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/94342267c71f5ed0ecf350b8ce6968325aafb31c.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/9491070c6891d490fd9270ab7301a950787af61e.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/a2a858d844a8161239b71999dd73f6cf2993662b.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/a2c21aaa864e394cfe71b33c6bca784e96c4f73d.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/a58e08c8181ee57590127b077294d3fa981aac57.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/b5ffce04932af5e07cb9a0ab089e0207d98a362f.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/bf8da8c0738d0d774ddace95991cd4e7cae74be1.jpeg",
-			"https://cdn.modrinth.com/data/hl5OLM95/images/f637a304aa04e0de6055313fde3c9c7beee60089.jpeg"
+			"https://cdn.modrinth.com/data/hl5OLM95/images/5cbbe481978c2e51f7a972619ed1fe455c33aede.png",
+			"https://cdn.modrinth.com/data/hl5OLM95/images/031c97e62fe8ce836d2aa24819dcaeb0608553e9.png",
+			"https://cdn.modrinth.com/data/hl5OLM95/images/1fcadf030b006a43dcf2e322e1b5e375584aa9f7.png",
+			"https://cdn.modrinth.com/data/hl5OLM95/images/22dc24219fe0b135c40709a37cd5afe43df2eff7.png",
+			"https://cdn.modrinth.com/data/hl5OLM95/images/389c2b7bce8e077df0846929c855f96a37612d50.png",
+			"https://cdn.modrinth.com/data/hl5OLM95/images/3f633cb7238a24d9c055e028e38db7bcf244698e.png",
+			"https://cdn.modrinth.com/data/hl5OLM95/images/7dc2c9baec20dbc45780b41646abf59432418425.png",
+			"https://cdn.modrinth.com/data/hl5OLM95/images/a444618ec4a12ffd34f1be681631380985a124d7.png",
+			"https://cdn.modrinth.com/data/hl5OLM95/images/ed2565da9c7626c3a78422134147457c20d7530f.png",
+			"https://cdn.modrinth.com/data/hl5OLM95/images/f5607ddb4b95cd2ecb06bc8d212222322192bbf2.png"
 		],
 		"icon": "https://cdn.modrinth.com/data/hl5OLM95/0a857b9f9e96f9f09fe6a32868be3bbb07f1fed1.jpeg",
-		"issues": "https://legacy.curseforge.com/minecraft/mc-mods/geophilic/issues",
+		"issues": "https://github.com/everloste/my-mc-projects/issues",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "![](https://i.imgur.com/yJbL99N.png)  \n\n### 🌲 About\n**Geophilic** is a data pack that improves vanilla Overworld biomes in a subtle and simple way! The main inspiration comes from scrapped illustrations for what was supposed to be the *Wild Update* — this is essentially a collection of light improvements to vanilla biomes without any new blocks, items, or even new biomes.  \n\nMain changes are made to the rarity and density of certain biome features, such as trees, grass, or flowers. New features are added too — rocks, fallen trees, moss, tree stumps, bushes, and sometimes new types of trees. Most trees are however left almost fully vanilla, with the only major change being how tall trees generate, so you don't bump your head so often!  \n\nIn short, this isn't meant to be an epic worldgen overhaul, but rather a simplistic and nice update to the feel of vanilla biomes.\n\n### 📦 Content\n**v2.4.0:** Badlands, Birch Forest, Cherry Grove, Dark Forest, Deep Ocean, Desert, Eroded Badlands, Flower Forest, Forest, Jungle, Meadow, Old Growth Birch Forest, Old Growth Pine Taiga, Old Growth Spruce Taiga, Plains, Savanna, Savanna Plateau, Snowy Plains, Snowy Slopes, Stony Shore, Sunflower Plains, Swamp, Taiga, Windswept Forest, Windswept Savanna, Wooded Badlands  \n\nSee the gallery for pictures!\n\n### 📝 Notes\nFabric mod version requires **[Fabric API](https://modrinth.com/mod/fabric-api)**!  \n\nThis pack only modifies vanilla biome files and adds configured and placed features, which means it's fully compatible with mods and data packs that modify terrain, such as **[Tectonic](https://modrinth.com/datapack/tectonic)**.\n\nNew versions of the pack may differ slightly. I may make any changes, including the removal of features. While Minecraft can handle this and updating the mod won't corrupt your world, it's still good practice to make regular backups.  \n\n",
+		"long_description": "![](https://i.imgur.com/yJbL99N.png)  \n\n### 🌲 About\n**Geophilic** is a data pack/mod that improves vanilla Overworld biomes in a subtle and simple way! Main inspiration comes from scrapped illustrations for what was supposed to be the *Wild Update* — this is essentially a collection of light improvements to vanilla biomes without any new blocks, items, or even biomes.  \n\nMain changes are made to the rarity and density of certain biome features, such as trees, grass, or flowers. New features are added too — boulders, fallen trees, moss, tree stumps, bushes, and sometimes new types of trees. Most trees are however left almost fully vanilla, with the only major change being how tall trees generate, so you don't bump your head so often!  \n\nIn short, this isn't meant to be an epic worldgen overhaul, but rather a simplistic and nice update to the feel of vanilla biomes.\n\n### 📦 Content\n**v2.4.0:** Badlands, Birch Forest, Cherry Grove, Dark Forest, Deep Ocean, Desert, Eroded Badlands, Flower Forest, Forest, Jungle, Meadow, Old Growth Birch Forest, Old Growth Pine Taiga, Old Growth Spruce Taiga, Plains, Savanna, Savanna Plateau, Snowy Plains, Snowy Slopes, Stony Shore, Sunflower Plains, Swamp, Taiga, Windswept Forest, Windswept Savanna, Wooded Badlands  \n\n**v3.0.0 and above,** _almost_ every non-ocean biome gets an overhaul!\n\nSee the gallery for pictures!\n\n### 📝 Notes\nFabric/Quilt mod version requires either **[Fabric API](https://modrinth.com/mod/fabric-api)** or **[Quilted Fabric API](https://modrinth.com/mod/qsl)**!  \n\nThis pack adds configured and placed features and modifies vanilla biome files, which means it's fully compatible with mods and data packs that modify terrain, such as **[Tectonic](https://modrinth.com/datapack/tectonic)**! It is generally not compatible with other mods and data packs that overhaul vanilla biomes.\n\nNew versions of the pack may differ slightly. I may make any changes, including the removal of features. While Minecraft can handle this and updating the mod won't corrupt your world, it's still good practice to make regular backups.  \n",
 		"name": "Geophilic",
 		"package_maintainers": [
 			"mcvm"
@@ -380,6 +418,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.0.0",
+			"2.4.3",
 			"2.4.2",
 			"2.4.1",
 			"2.4.0",

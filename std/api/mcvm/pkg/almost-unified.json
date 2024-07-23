@@ -4,6 +4,51 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.20.1-0.9.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/oTclC5Xa/almostunified-forge-1.20.1-0.9.4.jar",
+					"version": "oTclC5Xa"
+				},
+				{
+					"content_versions": "1.20.1-0.9.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/iVBf0ICr/almostunified-fabric-1.20.1-0.9.4.jar",
+					"version": "iVBf0ICr"
+				},
+				{
 					"content_versions": "1.20.1-0.9.3",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -3463,6 +3508,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.20.1-0.9.4",
 			"1.20.1-0.9.3",
 			"1.20.1-0.9.2",
 			"1.20.1-0.9.1",

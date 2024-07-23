@@ -4,6 +4,40 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.3.18",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/B80G8xT0/letsdo-meadow-forge-1.3.18.jar",
+					"version": "B80G8xT0"
+				},
+				{
+					"content_versions": "1.3.18",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/O3PNP7F7/letsdo-meadow-fabric-1.3.18.jar",
+					"version": "O3PNP7F7"
+				},
+				{
 					"content_versions": "1.3.17",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -724,6 +758,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.3.18",
 			"1.3.17",
 			"1.3.16",
 			"1.3.15",

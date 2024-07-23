@@ -4,6 +4,33 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib",
+							"patchouli",
+							"trinkets"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x9tvGmvR/versions/H5zHMPMc/mythic_charms-1.1.2.jar",
+					"version": "H5zHMPMc"
+				},
+				{
 					"content_versions": "1.0.0",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -29,6 +56,60 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/x9tvGmvR/versions/HAudWJDd/mythic_charms-1.0.0.jar",
 					"version": "HAudWJDd"
+				},
+				{
+					"content_versions": "1.1.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib",
+							"patchouli",
+							"trinkets"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x9tvGmvR/versions/8xdKvg4y/mythic_charms-1.1.1.jar",
+					"version": "8xdKvg4y"
+				},
+				{
+					"content_versions": "1.1.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib",
+							"patchouli",
+							"trinkets"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x9tvGmvR/versions/nFHFxBAL/mythic_charms-1.1.0.jar",
+					"version": "nFHFxBAL"
 				},
 				{
 					"content_versions": "0.7.0",
@@ -265,7 +346,7 @@
 		"icon": "https://cdn.modrinth.com/data/x9tvGmvR/34ee455e56f3cd62dc9acdbcc5eab1f5ca98cb56.png",
 		"issues": "https://github.com/masik16u/Mythic-Charms/issues",
 		"license": "GPL-3.0-only",
-		"long_description": "![Title](https://imgur.com/V0gVr5C.png)\n\n*Inspired by Hollow Knight*\n\n![Chapter About](https://imgur.com/VI9S2hW.png)\n\nMythic Charms is a Fabric mod that adds 20+ charms to the game, each granting the player a unique ability. You can have up to three charms equipped simultaneously(some combinations even have unique effects). Mod requires [Fabric API](https://modrinth.com/mod/fabric-api), [Trinkets](https://modrinth.com/mod/trinkets), [owo-lib](https://modrinth.com/mod/owo-lib) and optional - [REI](https://modrinth.com/mod/rei) or [EMI](https://modrinth.com/mod/emi). [Mod Menu](https://modrinth.com/mod/modmenu) is recommended to access configs(there you can disable charms and combinations).\n\n_For updates and teasers, you can join my [Discord Server](https://discord.gg/6d52nzVFJY) :D_\n\n\n***\n\n\n![Intro to Charmicon](https://imgur.com/U2k7v7L.png)\n\nAn old explorer's journal, Charmicon will guide you through the intricate history of the Sound Carvers tribe and reveal the secrets of crafting the mysterious artifacts known as \"Charms\".\n\n![Archaeology](https://imgur.com/CLeoToa.png)\n\nAs you embark on your journey, you will come across many ruins that may appear empty at first glance. However, prepare your archaeological tools, for these ruins hold hidden treasures. You will uncover all kinds of loot, some crucial for your progression and others simply fascinating discoveries.\n\n![First Charm](https://imgur.com/ontKV4Q.png)\n\nGather the ingredients according to the recipes left by the Sound Carvers and step into their shoes. Become a master Sound Carver by crafting your own powerful charms.\n\n![Upgrade Charm](https://imgur.com/56bzmMi.png)\n\nEnhance the durability of your freshly made charm to ensure it withstands the test of time and adventure.\n\n![Trade with Wandering Trader](https://imgur.com/o0RhcG2.png)\n\nAll crafts in the mod can be seen in the in-game guide Charmicon or with the help of the mods [REI](https://modrinth.com/mod/rei) or [EMI](https://modrinth.com/mod/emi).\n\n\n***\n\n\n![Chapter Help Me](https://imgur.com/dVblQz2.png)\n\nYou can help me and the development of this mod by giving your feedback or typing your ideas about new charms and combinations in the [GitHub discussions](https://github.com/masik16u/Mythic-Charms/discussions) or on my [Discord Server](https://discord.gg/6d52nzVFJY).\n\n![Chapter Thanks](https://imgur.com/J2uj4O6.png)\n\n<details>\n<summary>Localization</summary>\n\n- English\n\n- Ukrainian\n\n- Brazilian Portuguese by JosePi (outdated)\n\n- Italian by Zano1999 (outdated)\n\n</details>\n\ncupidFrostik and Tori for playtesting\n\nand all Fabric community\n\n*play Hollow Knight*\n\n![Other Projects](https://imgur.com/qJIVtFH.png)\n\n[![More Armor Trims](https://imgur.com/uG4WJHv.png)](https://modrinth.com/mod/more-armor-trims)",
+		"long_description": "![Title](https://imgur.com/V0gVr5C.png)\n\n*Inspired by Hollow Knight*\n\n![Chapter About](https://imgur.com/VI9S2hW.png)\n\nMythic Charms is a Fabric mod that adds 20+ charms to the game, each granting the player a unique ability. You can have up to three charms equipped simultaneously(some combinations even have unique effects). Mod requires [Fabric API](https://modrinth.com/mod/fabric-api), [Trinkets](https://modrinth.com/mod/trinkets), [owo-lib](https://modrinth.com/mod/owo-lib) and optional - [REI](https://modrinth.com/mod/rei) or [EMI](https://modrinth.com/mod/emi). [Mod Menu](https://modrinth.com/mod/modmenu) is recommended to access configs(there you can disable charms and combinations).\n\n_For updates and teasers, you can join my [Discord Server](https://discord.gg/6d52nzVFJY) :D_\n\n\n***\n\n\n![Intro to Charmicon](https://imgur.com/U2k7v7L.png)\n\nAn old explorer's journal, Charmicon will guide you through the intricate history of the Sound Carvers tribe and reveal the secrets of crafting the mysterious artifacts known as \"Charms\".\n\n![Archaeology](https://imgur.com/CLeoToa.png)\n\nAs you embark on your journey, you will come across many ruins that may appear empty at first glance. However, prepare your archaeological tools, for these ruins hold hidden treasures. You will uncover all kinds of loot, some crucial for your progression and others simply fascinating discoveries.\n\n![First Charm](https://imgur.com/ontKV4Q.png)\n\nGather the ingredients according to the recipes left by the Sound Carvers and step into their shoes. Become a master Sound Carver by crafting your own powerful charms.\n\n![Upgrade Charm](https://imgur.com/56bzmMi.png)\n\nEnhance the durability of your freshly made charm to ensure it withstands the test of time and adventure.\n\n![Trade with Wandering Trader](https://imgur.com/o0RhcG2.png)\n\nAll crafts in the mod can be seen in the in-game guide Charmicon or with the help of the mods [REI](https://modrinth.com/mod/rei) or [EMI](https://modrinth.com/mod/emi).\n\n\n***\n\n\n![Chapter Showcase](https://imgur.com/hqeuC9k.png)\n\n**Full showcase before 1.0.0 by SirColor**\n\n[![Full showcase before 1.0.0](https://img.youtube.com/vi/fiLDvLztiZM/maxresdefault.jpg)](https://www.youtube.com/watch?v=fiLDvLztiZM)\n\n**Changes showcase after 1.0.0 by SirColor**\n\n[![Changes showcase after 1.0.0](https://img.youtube.com/vi/25tFtEU4EE4/maxresdefault.jpg)](https://www.youtube.com/watch?v=25tFtEU4EE4)\n\n***\n\n\n![Chapter Help Me](https://imgur.com/dVblQz2.png)\n\nYou can help me and the development of this mod by giving your feedback or typing your ideas about new charms and combinations in the [GitHub discussions](https://github.com/masik16u/Mythic-Charms/discussions) or on my [Discord Server](https://discord.gg/6d52nzVFJY).\n\n![Chapter Thanks](https://imgur.com/J2uj4O6.png)\n\n<details>\n<summary>Localization</summary>\n\n- English\n\n- Ukrainian\n\n- Brazilian Portuguese by JosePi (outdated)\n\n- Italian by Zano1999 (outdated)\n\n</details>\n\nHappy1speed for advising\n\ncupidFrostik and Tori for playtesting\n\nand all Fabric community\n\n*play Hollow Knight*\n\n![Other Projects](https://imgur.com/qJIVtFH.png)\n\n[![More Armor Trims](https://imgur.com/uG4WJHv.png)](https://modrinth.com/mod/more-armor-trims)",
 		"name": "Mythic Charms",
 		"package_maintainers": [
 			"mcvm"
@@ -275,6 +356,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.1.2",
+			"1.1.1",
+			"1.1.0",
 			"1.0.0",
 			"0.7.0",
 			"0.6.0",

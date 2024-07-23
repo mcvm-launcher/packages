@@ -4,6 +4,25 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.2.1-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/P6U3Rw6d/noisium-neoforge-2.2.1%2Bmc1.21.jar",
+					"version": "P6U3Rw6d"
+				},
+				{
+					"content_versions": "2.2.1-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/W8V2bkLB/noisium-fabric-2.2.1%2Bmc1.21.jar",
+					"version": "W8V2bkLB"
+				},
+				{
 					"content_versions": "2.2.0-mc1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -296,6 +315,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.2.1-mc1.21",
 			"2.2.0-mc1.21",
 			"2.1.0-mc1.20.5-1.20.6",
 			"2.0.3-mc1.20.2-1.20.4",

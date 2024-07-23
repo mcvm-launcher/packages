@@ -4,6 +4,21 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Lq6ojcWv/versions/yJgJprOk/endermanoverhaul-neoforge-1.21-2.0.0.jar",
+					"version": "yJgJprOk"
+				},
+				{
 					"content_versions": "1.1.8",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -317,6 +332,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.0.0",
 			"1.1.8",
 			"1.1.0",
 			"1.0.4",
@@ -340,7 +356,8 @@
 		"supported_versions": [
 			"1.19.2",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

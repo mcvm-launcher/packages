@@ -4,6 +4,47 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "mc1.21-1.7.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/6gZ19wc6/reeses_sodium_options-1.7.3%2Bmc1.21.jar",
+					"version": "6gZ19wc6"
+				},
+				{
+					"content_versions": "mc1.20.6-1.7.3",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/eVQOh2ku/reeses_sodium_options-1.7.3%2Bmc1.20.6.jar",
+					"version": "eVQOh2ku"
+				},
+				{
 					"content_versions": "mc1.21-1.7.2",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -1194,7 +1235,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"mc1.21-1.7.3",
 			"mc1.21-1.7.2",
+			"mc1.20.6-1.7.3",
 			"mc1.20.5-1.7.2",
 			"mc1.20.4-1.7.2",
 			"mc1.20.4-1.7.1",

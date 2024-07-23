@@ -4,6 +4,40 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "4.1.1",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cardinal-components-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9TbXlAut/versions/3ygtHQSk/thermoo-4.1.1.jar",
+					"version": "3ygtHQSk"
+				},
+				{
+					"content_versions": "4.1",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cardinal-components-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9TbXlAut/versions/rZ2qtLcg/thermoo-4.1.jar",
+					"version": "rZ2qtLcg"
+				},
+				{
 					"content_versions": "4.0",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -451,6 +485,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"4.1.1",
+			"4.1",
 			"4.0",
 			"3.2.1",
 			"3.2",

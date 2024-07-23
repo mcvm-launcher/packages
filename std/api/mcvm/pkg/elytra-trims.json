@@ -4,6 +4,771 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.4.3",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/GoqNDJJB/elytratrims-fabric-3.4.3%2B1.20.1.jar",
+					"version": "GoqNDJJB"
+				},
+				{
+					"content_versions": "3.4.3",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/oDIYAiK8/elytratrims-forge-3.4.3%2B1.20.1.jar",
+					"version": "oDIYAiK8"
+				},
+				{
+					"content_versions": "3.4.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/WogixOVW/elytratrims-fabric-3.4.3%2B1.20.4.jar",
+					"version": "WogixOVW"
+				},
+				{
+					"content_versions": "3.4.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/e5KdrhzO/elytratrims-neoforge-3.4.3%2B1.20.4.jar",
+					"version": "e5KdrhzO"
+				},
+				{
+					"content_versions": "3.4.3",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/iVgQTTGf/elytratrims-neoforge-3.4.3%2B1.20.6.jar",
+					"version": "iVgQTTGf"
+				},
+				{
+					"content_versions": "3.4.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/5FRneJuO/elytratrims-fabric-3.4.3%2B1.21.jar",
+					"version": "5FRneJuO"
+				},
+				{
+					"content_versions": "3.4.3",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/nmnP1gPf/elytratrims-fabric-3.4.3%2B1.20.6.jar",
+					"version": "nmnP1gPf"
+				},
+				{
+					"content_versions": "3.4.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/hbjEhWjZ/elytratrims-neoforge-3.4.3%2B1.21.jar",
+					"version": "hbjEhWjZ"
+				},
+				{
+					"content_versions": "3.4.2",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/gJMWOCva/elytratrims-fabric-3.4.2%2B1.20.1.jar",
+					"version": "gJMWOCva"
+				},
+				{
+					"content_versions": "3.4.2",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/kuEjy7AB/elytratrims-forge-3.4.2%2B1.20.1.jar",
+					"version": "kuEjy7AB"
+				},
+				{
+					"content_versions": "3.4.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/65GOT9mN/elytratrims-fabric-3.4.2%2B1.20.4.jar",
+					"version": "65GOT9mN"
+				},
+				{
+					"content_versions": "3.4.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/QUALwGes/elytratrims-neoforge-3.4.2%2B1.20.4.jar",
+					"version": "QUALwGes"
+				},
+				{
+					"content_versions": "3.4.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/oQeHtlMz/elytratrims-neoforge-3.4.2%2B1.21.jar",
+					"version": "oQeHtlMz"
+				},
+				{
+					"content_versions": "3.4.2",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/iDYDltQv/elytratrims-fabric-3.4.2%2B1.20.6.jar",
+					"version": "iDYDltQv"
+				},
+				{
+					"content_versions": "3.4.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/Wc3UUoxH/elytratrims-fabric-3.4.2%2B1.21.jar",
+					"version": "Wc3UUoxH"
+				},
+				{
+					"content_versions": "3.4.2",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/TDhrnrn5/elytratrims-neoforge-3.4.2%2B1.20.6.jar",
+					"version": "TDhrnrn5"
+				},
+				{
+					"content_versions": "3.4.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/r6apLAXP/elytratrims-fabric-3.4.1%2B1.20.1.jar",
+					"version": "r6apLAXP"
+				},
+				{
+					"content_versions": "3.4.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/zEx20eAP/elytratrims-forge-3.4.1%2B1.20.1.jar",
+					"version": "zEx20eAP"
+				},
+				{
+					"content_versions": "3.4.1",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/sTiqwOsB/elytratrims-fabric-3.4.1%2B1.20.4.jar",
+					"version": "sTiqwOsB"
+				},
+				{
+					"content_versions": "3.4.1",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/GXlerKFd/elytratrims-neoforge-3.4.1%2B1.20.4.jar",
+					"version": "GXlerKFd"
+				},
+				{
+					"content_versions": "3.4.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/cFuKPzqb/elytratrims-fabric-3.4.1%2B1.21.jar",
+					"version": "cFuKPzqb"
+				},
+				{
+					"content_versions": "3.4.1",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/d2sLsWu1/elytratrims-fabric-3.4.1%2B1.20.6.jar",
+					"version": "d2sLsWu1"
+				},
+				{
+					"content_versions": "3.4.1",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/ydRBpezs/elytratrims-neoforge-3.4.1%2B1.20.6.jar",
+					"version": "ydRBpezs"
+				},
+				{
+					"content_versions": "3.4.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/2swPtPF6/elytratrims-neoforge-3.4.1%2B1.21.jar",
+					"version": "2swPtPF6"
+				},
+				{
+					"content_versions": "3.4.0",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/ZMXbucPY/elytratrims-fabric-3.4.0%2B1.20.1.jar",
+					"version": "ZMXbucPY"
+				},
+				{
+					"content_versions": "3.4.0",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/AS3nMXNP/elytratrims-forge-3.4.0%2B1.20.1.jar",
+					"version": "AS3nMXNP"
+				},
+				{
+					"content_versions": "3.4.0",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/fbJK4N3D/elytratrims-fabric-3.4.0%2B1.20.4.jar",
+					"version": "fbJK4N3D"
+				},
+				{
+					"content_versions": "3.4.0",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/lIKkk8nR/elytratrims-neoforge-3.4.0%2B1.20.4.jar",
+					"version": "lIKkk8nR"
+				},
+				{
+					"content_versions": "3.4.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/JwzzMol6/elytratrims-fabric-3.4.0%2B1.21.jar",
+					"version": "JwzzMol6"
+				},
+				{
+					"content_versions": "3.4.0",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/ObIqFAEa/elytratrims-fabric-3.4.0%2B1.20.6.jar",
+					"version": "ObIqFAEa"
+				},
+				{
+					"content_versions": "3.4.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/9iz9nhE1/elytratrims-neoforge-3.4.0%2B1.21.jar",
+					"version": "9iz9nhE1"
+				},
+				{
+					"content_versions": "3.4.0",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/kJl777eP/elytratrims-neoforge-3.4.0%2B1.20.6.jar",
+					"version": "kJl777eP"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/WrT3g90N/elytratrims-fabric-3.3.0%2B1.20.1.jar",
+					"version": "WrT3g90N"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/I86VQGYT/elytratrims-forge-3.3.0%2B1.20.1.jar",
+					"version": "I86VQGYT"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/XhnGzwb5/elytratrims-fabric-3.3.0%2B1.20.6.jar",
+					"version": "XhnGzwb5"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/2zojIDtZ/elytratrims-neoforge-3.3.0%2B1.20.4.jar",
+					"version": "2zojIDtZ"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/uELB3wsb/elytratrims-fabric-3.3.0%2B1.21.jar",
+					"version": "uELB3wsb"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/RRtMmfpd/elytratrims-fabric-3.3.0%2B1.20.4.jar",
+					"version": "RRtMmfpd"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/Fjik2cps/elytratrims-neoforge-3.3.0%2B1.20.6.jar",
+					"version": "Fjik2cps"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-support",
+						"recommendations": {
+							"value": "yacl"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/N3uhCCJq/elytratrims-neoforge-3.3.0%2B1.21.jar",
+					"version": "N3uhCCJq"
+				},
+				{
 					"content_versions": "3.2.0",
 					"minecraft_versions": [
 						"1.20",
@@ -3178,6 +3943,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.4.3",
+			"3.4.2",
+			"3.4.1",
+			"3.4.0",
+			"3.3.0",
 			"3.2.0",
 			"3.1.9",
 			"3.1.8",

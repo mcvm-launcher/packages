@@ -4,6 +4,126 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "6.4.5-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"pehkui",
+							"spell-engine"
+						],
+						"extensions": "origins"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3FJ8AhW0/versions/goRtT5Tq/MedievalOriginsRevival-6.4.5%2B1.20.1-fabric.jar",
+					"version": "goRtT5Tq"
+				},
+				{
+					"content_versions": "6.4.5-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "pehkui",
+						"extensions": "origins"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3FJ8AhW0/versions/4X4ROLk5/MedievalOriginsRevival-6.4.5%2B1.20.1-forge.jar",
+					"version": "4X4ROLk5"
+				},
+				{
+					"content_versions": "6.4.4-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "pehkui",
+						"extensions": "origins"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3FJ8AhW0/versions/wiR6x39F/MedievalOriginsRevival-6.4.4%2B1.20.1-forge.jar",
+					"version": "wiR6x39F"
+				},
+				{
+					"content_versions": "6.4.4-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"pehkui",
+							"spell-engine"
+						],
+						"extensions": "origins"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3FJ8AhW0/versions/fkhalvVp/MedievalOriginsRevival-6.4.4%2B1.20.1-fabric.jar",
+					"version": "fkhalvVp"
+				},
+				{
+					"content_versions": "6.4.3-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"pehkui",
+							"spell-engine"
+						],
+						"extensions": "origins"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3FJ8AhW0/versions/IxFl5dv5/MedievalOriginsRevival-6.4.3%2B1.20.1-fabric.jar",
+					"version": "IxFl5dv5"
+				},
+				{
+					"content_versions": "6.4.3-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "pehkui",
+						"extensions": "origins"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3FJ8AhW0/versions/965Zbai1/MedievalOriginsRevival-6.4.3%2B1.20.1-forge.jar",
+					"version": "965Zbai1"
+				},
+				{
+					"content_versions": "6.4.2-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"pehkui",
+							"spell-engine"
+						],
+						"extensions": "origins"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3FJ8AhW0/versions/QkPbMC2S/MedievalOriginsRevival-6.4.2%2B1.20.1-fabric.jar",
+					"version": "QkPbMC2S"
+				},
+				{
+					"content_versions": "6.4.2-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "pehkui",
+						"extensions": "origins"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3FJ8AhW0/versions/m764GGOl/MedievalOriginsRevival-6.4.2%2B1.20.1-forge.jar",
+					"version": "m764GGOl"
+				},
+				{
 					"content_versions": "6.4.1-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -360,6 +480,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"6.4.5-1.20.1",
+			"6.4.4-1.20.1",
+			"6.4.3-1.20.1",
+			"6.4.2-1.20.1",
 			"6.4.1-1.20.1",
 			"6.4.0-1.20.1",
 			"6.3.10-1.20.1",

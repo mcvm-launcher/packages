@@ -4,6 +4,22 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "15.0.128-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9s6osm5g/versions/jMyYg8Uv/cloth-config-15.0.128-neoforge.jar",
+					"version": "jMyYg8Uv"
+				},
+				{
+					"content_versions": "15.0.128",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gY9NB5Rj/cloth-config-15.0.128-fabric.jar",
+					"version": "gY9NB5Rj"
+				},
+				{
 					"content_versions": "15.0.127-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -1034,6 +1050,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"15.0.128",
+			"15.0.128-neo",
 			"15.0.127",
 			"15.0.127-neo",
 			"14.0.126",

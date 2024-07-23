@@ -81,6 +81,28 @@
 					"version": "mgtR7Ajv"
 				},
 				{
+					"content_versions": "0.2.5-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/1RGuUTi1/wakes-0.2.5%2B1.21.jar",
+					"version": "1RGuUTi1"
+				},
+				{
 					"content_versions": "0.2.4",
 					"minecraft_versions": [
 						"1.20.3",
@@ -409,6 +431,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.2.5-1.21",
 			"0.2.4-1.20.1",
 			"0.2.4",
 			"0.2.3-1.19.2",
@@ -439,7 +462,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

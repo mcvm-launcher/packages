@@ -44,6 +44,34 @@
 					"version": "vHB74V8C"
 				},
 				{
+					"content_versions": "1.13.2",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/MntMLupc/t_and_t-neoforge-fabric-1.13.2.jar",
+					"version": "MntMLupc"
+				},
+				{
+					"content_versions": "1.13.1",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "cristel-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/vZlrPBae/t_and_t-neoforge-fabric-1.13.1.jar",
+					"version": "vZlrPBae"
+				},
+				{
 					"content_versions": "1.13.1",
 					"minecraft_versions": "1.20.6",
 					"modloaders": [
@@ -424,6 +452,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.13.2",
 			"1.13.1",
 			"1.12.2",
 			"1.12.1.1",
@@ -464,7 +493,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.4",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

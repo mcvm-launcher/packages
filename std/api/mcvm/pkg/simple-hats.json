@@ -4,6 +4,106 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.18.2-0.3.1",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/szSHfB2g/simplehats-forge-1.18.2-0.3.1.jar",
+					"version": "szSHfB2g"
+				},
+				{
+					"content_versions": "1.19.2-0.3.1",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/2q50AHaO/simplehats-forge-1.19.2-0.3.1.jar",
+					"version": "2q50AHaO"
+				},
+				{
+					"content_versions": "1.20.1-0.3.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/DCQKjXqf/simplehats-forge-1.20.1-0.3.1.jar",
+					"version": "DCQKjXqf"
+				},
+				{
+					"content_versions": "1.20.4-0.3.1",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/aMqFZCVW/simplehats-forge-1.20.4-0.3.1.jar",
+					"version": "aMqFZCVW"
+				},
+				{
+					"content_versions": "1.18.2-0.3.1",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/zg4ehRjw/simplehats-fabric-1.18.2-0.3.1.jar",
+					"version": "zg4ehRjw"
+				},
+				{
+					"content_versions": "1.19.2-0.3.1",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/x0VTqfHJ/simplehats-fabric-1.19.2-0.3.1.jar",
+					"version": "x0VTqfHJ"
+				},
+				{
+					"content_versions": "1.20.1-0.3.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/6c4xGP7h/simplehats-fabric-1.20.1-0.3.1.jar",
+					"version": "6c4xGP7h"
+				},
+				{
+					"content_versions": "1.20.4-0.3.1",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/5sxpkpe7/simplehats-fabric-1.20.4-0.3.1.jar",
+					"version": "5sxpkpe7"
+				},
+				{
 					"content_versions": "1.18.2-0.3.0",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
@@ -518,10 +618,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.20.4-0.3.1",
 			"1.20.4-0.3.0",
 			"1.20.4-0.2.4",
 			"1.20.4-0.2.3",
 			"1.20.4-0.2.2",
+			"1.20.1-0.3.1",
 			"1.20.1-0.3.0",
 			"1.20.1-0.2.4",
 			"1.20.1-0.2.2",
@@ -532,9 +634,11 @@
 			"1.19.4-0.2.3",
 			"1.19.4-0.2.0",
 			"-1.19.4-0.1.7",
+			"1.19.2-0.3.1",
 			"1.19.2-0.3.0",
 			"1.19.2-0.2.4",
 			"1.19.2-0.1.6",
+			"1.18.2-0.3.1",
 			"1.18.2-0.3.0",
 			"1.18.2-0.2.3",
 			"1.18.2-0.2.0",

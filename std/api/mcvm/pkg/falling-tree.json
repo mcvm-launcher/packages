@@ -4,6 +4,31 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21-1.21.0.6",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "fabriclike-api"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/CfGRP162/FallingTree-1.21-1.21.0.6.jar",
+					"version": "CfGRP162"
+				},
+				{
 					"content_versions": "1.21-1.21.0.5",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -2467,6 +2492,7 @@
 			"2.14.0",
 			"2.13.0",
 			"2.11.7",
+			"1.21-1.21.0.6",
 			"1.21-1.21.0.5",
 			"1.21-1.21.0.4",
 			"1.21-1.21.0.3",

@@ -44,6 +44,30 @@
 					"version": "owkrXX1s"
 				},
 				{
+					"content_versions": "4.1.2-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OQAgZMH1/versions/mIRzn48P/mvs-4.1.2-1.20.4.jar",
+					"version": "mIRzn48P"
+				},
+				{
+					"content_versions": "4.1.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OQAgZMH1/versions/mMiZm0yg/mvs-4.1.3-1.21.jar",
+					"version": "mMiZm0yg"
+				},
+				{
+					"content_versions": "4.1.3-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/OQAgZMH1/versions/e6PhniyV/mvs-4.1.3-1.21.jar",
+					"version": "e6PhniyV"
+				},
+				{
 					"content_versions": "4.1.3",
 					"minecraft_versions": [
 						"1.20.5",
@@ -444,8 +468,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"4.1.3-1.21",
 			"4.1.3-1.20.6",
 			"4.1.3",
+			"4.1.2-1.20.4",
 			"4.1.2-1.20",
 			"4.1.2-1.19.4",
 			"4.1.2-1.19.2",
@@ -494,7 +520,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

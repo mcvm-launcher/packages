@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.26.0",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "sodium"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/BUxgeDdf/moreculling-1.21-0.26.0.jar",
+					"version": "BUxgeDdf"
+				},
+				{
 					"content_versions": "0.25.0",
 					"minecraft_versions": [
 						"1.20.5",
@@ -1318,6 +1335,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.26.0",
 			"0.25.0",
 			"0.25.0-beta.1",
 			"0.24.0",
@@ -1428,7 +1446,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

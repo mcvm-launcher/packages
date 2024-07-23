@@ -4,6 +4,46 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.6.4-beta-16",
+					"minecraft_versions": "1.6.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/ZpspnX2M/Botania-1.6.4-beta-16-FORGE.jar",
+					"version": "ZpspnX2M"
+				},
+				{
+					"content_versions": "1.20.1-445",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"curios-api",
+							"patchouli"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/U5dEkBtT/Botania-1.20.1-445-FORGE.jar",
+					"version": "U5dEkBtT"
+				},
+				{
+					"content_versions": "1.20.1-445",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"patchouli",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/2vyR6kP9/Botania-1.20.1-445-FABRIC.jar",
+					"version": "2vyR6kP9"
+				},
+				{
 					"content_versions": "1.20.1-444",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -486,6 +526,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.20.1-445",
 			"1.20.1-444",
 			"1.20.1-443",
 			"1.20.1-442",
@@ -505,7 +546,8 @@
 			"1.10-364.4",
 			"1.9-345",
 			"1.9-341",
-			"1.8-249"
+			"1.8-249",
+			"1.6.4-beta-16"
 		],
 		"modrinth_id": "pfjLUfGv",
 		"supported_modloaders": [
@@ -517,6 +559,7 @@
 			"server"
 		],
 		"supported_versions": [
+			"1.6.4",
 			"1.7.10",
 			"1.10.2",
 			"1.11.2",

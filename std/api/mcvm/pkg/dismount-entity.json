@@ -4,6 +4,54 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.0-3.4-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "collective"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/H7N61Wcl/versions/xZ2sWkpI/dismountentity-1.21.0-3.4.jar",
+					"version": "xZ2sWkpI"
+				},
+				{
+					"content_versions": "1.20.6-3.4-neo",
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "collective"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/H7N61Wcl/versions/Z1RiLkcY/dismountentity-1.20.6-3.4.jar",
+					"version": "Z1RiLkcY"
+				},
+				{
+					"content_versions": "1.20.1-3.4-neo",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "collective"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/H7N61Wcl/versions/lryBt5u7/dismountentity-1.20.1-3.4.jar",
+					"version": "lryBt5u7"
+				},
+				{
 					"content_versions": "1.21.0-3.3-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -525,8 +573,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.0-3.4-neo",
 			"1.21.0-3.3-neo",
 			"1.21.0-3.2-neo",
+			"1.20.6-3.4-neo",
 			"1.20.6-3.3-neo",
 			"1.20.6-3.2-neo",
 			"1.20.5-3.2-neo",
@@ -537,6 +587,7 @@
 			"1.20.2-3.2-neo",
 			"1.20.2-3.1",
 			"1.20.2-3.0",
+			"1.20.1-3.4-neo",
 			"1.20.1-3.3-neo",
 			"1.20.1-3.2-neo",
 			"1.20.1-3.1",

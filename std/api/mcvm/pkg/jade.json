@@ -4,6 +4,131 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "11.10.0",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/vlM1OUBd/Jade-1.20-fabric-11.10.0.jar",
+					"version": "vlM1OUBd"
+				},
+				{
+					"content_versions": "15.1.4-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/NVvPo5yc/Jade-1.21-NeoForge-15.1.4.jar",
+					"version": "NVvPo5yc"
+				},
+				{
+					"content_versions": "15.1.4",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/Um5AmLft/Jade-1.21-Fabric-15.1.4.jar",
+					"version": "Um5AmLft"
+				},
+				{
+					"content_versions": "11.9.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/MLYKnVCk/Jade-1.20.1-forge-11.9.4.jar",
+					"version": "MLYKnVCk"
+				},
+				{
+					"content_versions": "15.1.3",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/4O1mPdg9/Jade-1.21-Fabric-15.1.3.jar",
+					"version": "4O1mPdg9"
+				},
+				{
+					"content_versions": "15.1.3-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/YWwchlKJ/Jade-1.21-NeoForge-15.1.3.jar",
+					"version": "YWwchlKJ"
+				},
+				{
+					"content_versions": "15.1.2-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/y0Qgfue5/Jade-1.21-NeoForge-15.1.2.jar",
+					"version": "y0Qgfue5"
+				},
+				{
+					"content_versions": "15.1.2",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/xzFnPn44/Jade-1.21-Fabric-15.1.2.jar",
+					"version": "xzFnPn44"
+				},
+				{
 					"content_versions": "15.1.1-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -1787,6 +1912,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"15.1.4",
+			"15.1.4-neo",
+			"15.1.3",
+			"15.1.3-neo",
+			"15.1.2",
+			"15.1.2-neo",
 			"15.1.1-neo",
 			"15.1.0",
 			"15.0.5-neo",
@@ -1825,6 +1956,8 @@
 			"12.1.2",
 			"12.1.1",
 			"12.0.0",
+			"11.10.0",
+			"11.9.4",
 			"11.9.3",
 			"11.9.2",
 			"11.9.1",

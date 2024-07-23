@@ -4,6 +4,28 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KX1XC0Oo/versions/APtZazrk/formationsoverworld-1.0.4.jar",
+					"version": "APtZazrk"
+				},
+				{
 					"content_versions": "1.0.3",
 					"minecraft_versions": [
 						"1.20",
@@ -126,6 +148,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.4",
 			"1.0.3",
 			"1.0.2",
 			"1.0.1",
@@ -137,7 +160,6 @@
 			"forgelike"
 		],
 		"supported_sides": [
-			"client",
 			"server"
 		],
 		"supported_versions": [
@@ -145,7 +167,10 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21"
 		]
 	},
 	"relations": {

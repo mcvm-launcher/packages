@@ -4,6 +4,76 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.2.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/GDyNpDy7/sliceanddice-forge-3.2.1.jar",
+					"version": "GDyNpDy7"
+				},
+				{
+					"content_versions": "1.3.3",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/spsGZIJQ/sliceanddice-forge-1.3.3.jar",
+					"version": "spsGZIJQ"
+				},
+				{
+					"content_versions": "2.3.3",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/eBrGzRXM/sliceanddice-forge-2.3.3.jar",
+					"version": "eBrGzRXM"
+				},
+				{
+					"content_versions": "3.2.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/kgYlBrag/sliceanddice-fabric-3.2.3.jar",
+					"version": "kgYlBrag"
+				},
+				{
+					"content_versions": "2.3.5",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/N8SSdoeZ/sliceanddice-fabric-2.3.5.jar",
+					"version": "N8SSdoeZ"
+				},
+				{
 					"content_versions": "3.2.2",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -794,6 +864,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.2.3",
 			"3.2.2",
 			"3.2.1",
 			"3.2.0",
@@ -804,6 +875,7 @@
 			"3.0.2",
 			"3.0.1",
 			"3.0.0",
+			"2.3.5",
 			"2.3.4",
 			"2.3.3",
 			"2.3.2",
@@ -822,6 +894,7 @@
 			"2.0.2",
 			"2.0.1",
 			"2.0.0",
+			"1.3.3",
 			"1.3.2",
 			"1.3.1",
 			"1.3.0",

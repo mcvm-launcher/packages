@@ -4,6 +4,54 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.0-4.1-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "collective"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/aEK1KhsC/versions/hCvvvlWc/fullbrightnesstoggle-1.21.0-4.1.jar",
+					"version": "hCvvvlWc"
+				},
+				{
+					"content_versions": "1.20.6-4.1-neo",
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "collective"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/aEK1KhsC/versions/ht79LQ2X/fullbrightnesstoggle-1.20.6-4.1.jar",
+					"version": "ht79LQ2X"
+				},
+				{
+					"content_versions": "1.20.1-4.1-neo",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "collective"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/aEK1KhsC/versions/EenpGt3Q/fullbrightnesstoggle-1.20.1-4.1.jar",
+					"version": "EenpGt3Q"
+				},
+				{
 					"content_versions": "1.21.0-4.0-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -622,7 +670,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.0-4.1-neo",
 			"1.21.0-4.0-neo",
+			"1.20.6-4.1-neo",
 			"1.20.6-4.0-neo",
 			"1.20.5-4.0-neo",
 			"1.20.4-4.0-neo",
@@ -636,6 +686,7 @@
 			"1.20.2-3.2-neo",
 			"1.20.2-3.1",
 			"1.20.2-3.0",
+			"1.20.1-4.1-neo",
 			"1.20.1-4.0-neo",
 			"1.20.1-3.2-neo",
 			"1.20.1-3.1",

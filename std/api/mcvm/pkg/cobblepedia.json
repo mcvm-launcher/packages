@@ -4,6 +4,54 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.6.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/rfnSy2K4/Cobblepedia-Fabric-0.6.6.jar",
+					"version": "rfnSy2K4"
+				},
+				{
+					"content_versions": "0.6.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/6GzF5EAf/Cobblepedia-Forge-0.6.6.jar",
+					"version": "6GzF5EAf"
+				},
+				{
+					"content_versions": "0.6.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/y5n3C62u/Cobblepedia-Fabric-0.6.5.jar",
+					"version": "y5n3C62u"
+				},
+				{
+					"content_versions": "0.6.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/P7At3ONV/Cobblepedia-Forge-0.6.5.jar",
+					"version": "P7At3ONV"
+				},
+				{
 					"content_versions": "0.6.4",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -553,6 +601,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.6.6",
+			"0.6.5",
 			"0.6.4",
 			"0.6.3",
 			"0.6.2",

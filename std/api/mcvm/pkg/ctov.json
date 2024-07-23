@@ -73,6 +73,100 @@
 					"version": "wP8LFpoA"
 				},
 				{
+					"content_versions": "3.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/A6fGB12B/%5BFabric%5DCTOV-v3.5.jar",
+					"version": "A6fGB12B"
+				},
+				{
+					"content_versions": "3.4.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/b9dX0alZ/%5BNeoforge%5Dctov-3.5.jar",
+					"version": "b9dX0alZ"
+				},
+				{
+					"content_versions": "3.4.6",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/LKEra9cd/%5BFabric%5DCTOV-v3.4.6.jar",
+					"version": "LKEra9cd"
+				},
+				{
+					"content_versions": "3.4.5",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/Hxo3cge6/%5BForge%5DCTOV-v3.4.5.jar",
+					"version": "Hxo3cge6"
+				},
+				{
+					"content_versions": "3.4.5",
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/Y209IY74/%5BNeoforge%5DCTOV-v3.4.5.jar",
+					"version": "Y209IY74"
+				},
+				{
+					"content_versions": "3.4.5",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/wwPFyS91/%5BFabric%5DCTOV-v3.4.5.jar",
+					"version": "wwPFyS91"
+				},
+				{
 					"content_versions": "3.4.4",
 					"minecraft_versions": [
 						"1.20",
@@ -724,6 +818,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.5",
+			"3.4.6",
+			"3.4.5",
 			"3.4.4",
 			"3.4.3",
 			"3.4.2",
@@ -785,7 +882,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21"
 		]
 	}
 }

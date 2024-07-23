@@ -4,6 +4,38 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.34-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/K4hsdO9H/indium-1.0.34%2Bmc1.21.jar",
+					"version": "K4hsdO9H"
+				},
+				{
+					"content_versions": "1.0.34-mc1.20.1",
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/gofbpynL/indium-1.0.34%2Bmc1.20.1.jar",
+					"version": "gofbpynL"
+				},
+				{
 					"content_versions": "1.0.33-mc1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -586,6 +618,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.34-mc1.21",
+			"1.0.34-mc1.20.1",
 			"1.0.33-mc1.21",
 			"1.0.32-mc1.20.1",
 			"1.0.31-mc1.20.4",

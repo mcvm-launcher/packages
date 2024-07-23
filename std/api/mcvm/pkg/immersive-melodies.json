@@ -4,6 +4,63 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.1.2-1.18.2",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/CZVt3wTn/immersive_melodies-0.1.2%2B1.18.2-forge.jar",
+					"version": "CZVt3wTn"
+				},
+				{
+					"content_versions": "0.1.2-1.18.2",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/4vg3ftle/immersive_melodies-0.1.2%2B1.18.2-fabric.jar",
+					"version": "4vg3ftle"
+				},
+				{
+					"content_versions": "0.1.2-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/YtTU5kjw/immersive_melodies-0.1.2%2B1.19.2-forge.jar",
+					"version": "YtTU5kjw"
+				},
+				{
+					"content_versions": "0.1.2-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/bi5WeHMA/immersive_melodies-0.1.2%2B1.19.2-fabric.jar",
+					"version": "bi5WeHMA"
+				},
+				{
+					"content_versions": "0.3.0-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/zjMy2oFH/immersive_melodies-0.3.0%2B1.20.1-forge.jar",
+					"version": "zjMy2oFH"
+				},
+				{
+					"content_versions": "0.3.0-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/oVk9fOQD/immersive_melodies-0.3.0%2B1.20.1-fabric.jar",
+					"version": "oVk9fOQD"
+				},
+				{
 					"content_versions": "0.2.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -78,6 +135,44 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/2rT4Wzec/immersive_melodies-0.1.0%2B1.19.4-fabric.jar",
 					"version": "2rT4Wzec"
+				},
+				{
+					"content_versions": "0.1.1-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/zsdELKMg/immersive_melodies-0.1.1%2B1.19.2-forge.jar",
+					"version": "zsdELKMg"
+				},
+				{
+					"content_versions": "0.1.1-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/1xJ89w29/immersive_melodies-0.1.1%2B1.19.2-fabric.jar",
+					"version": "1xJ89w29"
+				},
+				{
+					"content_versions": "0.1.1-1.18.2",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/ZjqbGWHp/immersive_melodies-0.1.1%2B1.18.2-forge.jar",
+					"version": "ZjqbGWHp"
+				},
+				{
+					"content_versions": "0.1.1-1.18.2",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/zacCN6GW/immersive_melodies-0.1.1%2B1.18.2-fabric.jar",
+					"version": "zacCN6GW"
 				},
 				{
 					"content_versions": "0.1.2-1.20.1",
@@ -577,9 +672,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.3.0-1.20.1",
 			"0.2.0-1.20.1",
 			"0.1.2-1.20.1",
+			"0.1.2-1.19.2",
+			"0.1.2-1.18.2",
 			"0.1.1-1.20.1",
+			"0.1.1-1.19.2",
+			"0.1.1-1.18.2",
 			"0.1.0-1.20.1",
 			"0.1.0-1.19.4",
 			"0.1.0-1.19.2",

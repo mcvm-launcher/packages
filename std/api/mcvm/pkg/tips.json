@@ -4,6 +4,56 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "12.1.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/uq5F0GNj/Tips-Fabric-1.20.1-12.1.8.jar",
+					"version": "uq5F0GNj"
+				},
+				{
+					"content_versions": "12.1.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/Op6VN0JV/Tips-Forge-1.20.1-12.1.8.jar",
+					"version": "Op6VN0JV"
+				},
+				{
+					"content_versions": "12.1.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/9cxq59ws/Tips-Fabric-1.20.1-12.1.7.jar",
+					"version": "9cxq59ws"
+				},
+				{
+					"content_versions": "12.1.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/oxDrv9qB/Tips-Forge-1.20.1-12.1.7.jar",
+					"version": "oxDrv9qB"
+				},
+				{
 					"content_versions": "15.0.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -2289,6 +2339,8 @@
 			"13.0.3",
 			"13.0.2",
 			"13.0.1",
+			"12.1.8",
+			"12.1.7",
 			"12.0.5",
 			"12.0.4",
 			"12.0.3",

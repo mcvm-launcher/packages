@@ -4,6 +4,28 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.20.6-86-neo",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/ZHpyaRGe/Patchouli-1.20.6-86-NEOFORGE.jar",
+					"version": "ZHpyaRGe"
+				},
+				{
+					"content_versions": "1.20.6-86",
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/vdu73DZ0/Patchouli-1.20.6-86-FABRIC.jar",
+					"version": "vdu73DZ0"
+				},
+				{
 					"content_versions": "1.20.4-85-neo",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -614,6 +636,7 @@
 	},
 	"meta": {
 		"authors": [
+			"Minecraftschurli",
 			"Vazkii",
 			"williewillus"
 		],
@@ -638,6 +661,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.20.6-86",
+			"1.20.6-86-neo",
 			"1.20.4-85",
 			"1.20.4-85-neo",
 			"1.20.1-84",
@@ -698,7 +723,8 @@
 			"1.19.3",
 			"1.19.4",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.20.6"
 		]
 	}
 }

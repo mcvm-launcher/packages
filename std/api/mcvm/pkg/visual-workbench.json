@@ -4,6 +4,70 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v21.0.1-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/Tp5b9TyW/VisualWorkbench-v21.0.1-1.21-NeoForge.jar",
+					"version": "Tp5b9TyW"
+				},
+				{
+					"content_versions": "v21.0.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/VO22sn7H/VisualWorkbench-v21.0.1-1.21-Fabric.jar",
+					"version": "VO22sn7H"
+				},
+				{
+					"content_versions": "v21.0.0-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/IXNeE4X3/VisualWorkbench-v21.0.0-1.21-NeoForge.jar",
+					"version": "IXNeE4X3"
+				},
+				{
+					"content_versions": "v21.0.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/Pj1Q3lig/VisualWorkbench-v21.0.0-1.21-Fabric.jar",
+					"version": "Pj1Q3lig"
+				},
+				{
 					"content_versions": "v20.4.2-1.20.4-Neo",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -557,6 +621,10 @@
 			"v4.1.1-1.19.1",
 			"v4.1.0-1.19.1",
 			"v4.0.0-1.19",
+			"v21.0.1-1.21",
+			"v21.0.1-1.21-Neo",
+			"v21.0.0-1.21",
+			"v21.0.0-1.21-Neo",
 			"v20.4.2-1.20.4",
 			"v20.4.2-1.20.4-Neo",
 			"v20.4.1-1.20.4",
@@ -581,7 +649,8 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

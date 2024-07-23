@@ -4,6 +4,80 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.20.0-1.21-alpha5",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/Exq0Shst/mythicmetals-0.20.0%2B1.21-alpha5.jar",
+					"version": "Exq0Shst"
+				},
+				{
+					"content_versions": "0.20.0-1.21-alpha4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/hw7jWnfE/mythicmetals-0.20.0%2B1.21-alpha4.jar",
+					"version": "hw7jWnfE"
+				},
+				{
+					"content_versions": "0.20.0-1.21-alpha3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/8N8VZHRm/mythicmetals-0.20.0%2B1.21-alpha3.jar",
+					"version": "8N8VZHRm"
+				},
+				{
+					"content_versions": "0.20.0-1.21-alpha2",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/RvsUYNm5/mythicmetals-0.20.0%2B1.21-alpha2.jar",
+					"version": "RvsUYNm5"
+				},
+				{
+					"content_versions": "0.20.0-1.21-alpha",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/6TgXIBYQ/mythicmetals-0.20.0%2B1.21-alpha.jar",
+					"version": "6TgXIBYQ"
+				},
+				{
 					"content_versions": "0.19.9-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -1296,6 +1370,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.20.0-1.21-alpha5",
+			"0.20.0-1.21-alpha4",
+			"0.20.0-1.21-alpha3",
+			"0.20.0-1.21-alpha2",
+			"0.20.0-1.21-alpha",
 			"0.19.9-1.20.1",
 			"0.19.8-1.20.1",
 			"0.19.8-1.20.1-hotfix",
@@ -1396,7 +1475,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

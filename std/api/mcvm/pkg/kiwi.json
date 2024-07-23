@@ -4,6 +4,74 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "11.6.3",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/eHo98RlA/Kiwi-1.20.1-fabric-11.6.3.jar",
+					"version": "eHo98RlA"
+				},
+				{
+					"content_versions": "11.8.14",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/xmCZa1a2/Kiwi-1.20.1-Forge-11.8.14.jar",
+					"version": "xmCZa1a2"
+				},
+				{
+					"content_versions": "11.8.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/SDBOOyWI/Kiwi-1.20.1-Forge-11.8.13.jar",
+					"version": "SDBOOyWI"
+				},
+				{
+					"content_versions": "11.8.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/LLZFCcpR/Kiwi-1.20.1-Forge-11.8.12.jar",
+					"version": "LLZFCcpR"
+				},
+				{
 					"content_versions": "15.1.0",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -1233,6 +1301,9 @@
 			"13.1.0",
 			"13.0.0",
 			"12.0.0",
+			"11.8.14",
+			"11.8.13",
+			"11.8.12",
 			"11.8.11",
 			"11.8.10",
 			"11.8.9",
@@ -1243,6 +1314,7 @@
 			"11.8.3",
 			"11.8.2",
 			"11.8.1",
+			"11.6.3",
 			"11.6.2",
 			"11.6.1",
 			"11.6.0",

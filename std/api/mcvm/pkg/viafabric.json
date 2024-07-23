@@ -4,6 +4,46 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.4.14-77-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/H5kLGJTQ/ViaFabric-0.4.14%2B77-main.jar",
+					"version": "H5kLGJTQ"
+				},
+				{
+					"content_versions": "0.4.14-76-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/1bSBOMnV/ViaFabric-0.4.14%2B76-legacy.jar",
+					"version": "1bSBOMnV"
+				},
+				{
 					"content_versions": "0.4.14-74-main",
 					"minecraft_versions": [
 						"1.8.9",
@@ -1693,7 +1733,7 @@
 		"icon": "https://cdn.modrinth.com/data/YlKdE5VK/icon.png",
 		"issues": "https://github.com/ViaVersion/ViaFabric",
 		"license": "GPL-3.0-only",
-		"long_description": "This mod implements [ViaVersion](https://viaversion.com/) on Fabric servers and clients, allowing you to connect to different Minecraft versions.\n\nIt can be installed on Legacy Fabric 1.8.9, and Fabric 1.14.4-1.20.4.\n\nRequires [Fabric API](https://modrinth.com/mod/fabric-api) for Minecraft 1.14+.\n\nRequires [Legacy Fabric API](https://modrinth.com/mod/legacy-fabric-api) for Minecraft 1.8.9\n\nFor more information, go to [GitHub repository](https://github.com/ViaVersion/ViaFabric).\n\nAddons (allows older clients on newer servers):\n\n- https://modrinth.com/mod/viabackwards\n\n- https://modrinth.com/mod/viarewind\n\nWhat's is the difference between ViaFabric and [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)?\n\n**Differences with ViaFabricPlus**\n\n|                                  | ViaFabric                                       | ViaFabricPlus                                                   |\n|----------------------------------|-------------------------------------------------|-----------------------------------------------------------------|\n| Can be installed on              | Multiple client/server versions with fabric     | Latest client-side version with fabric                          |\n| Objectives                       | Simply implement ViaVersion                     | Implements ViaVersion with client-side fixes to version changes |\n| How does it work?                | Modifying packets at network code               | Modifying client code more deeply                               |\n| Triggering anti-cheats           | Very likely                                     | Mostly not                                                      |\n\n\nForge version: https://modrinth.com/mod/viaforge\n\nDiscord: https://discord.gg/viaversion",
+		"long_description": "This mod implements [ViaVersion](https://viaversion.com/) on Fabric servers and clients, allowing you to connect to different Minecraft versions.\n\nIt can be installed on Legacy Fabric 1.8.9 and 1.12.2, and Fabric 1.14.4-1.20.4.\n\nIf you are using the latest Minecraft version and **care about the gameplay being more enjoyable/functional**, you may want to \ncheck [ViaFabricPlus](https://www.modrinth.com/mod/viafabricplus) out.\n\nRequires [Fabric API](https://modrinth.com/mod/fabric-api) for Minecraft 1.14+.\n\nRequires [Legacy Fabric API](https://modrinth.com/mod/legacy-fabric-api) for Minecraft 1.8.9\n\nFor more information, go to [GitHub repository](https://github.com/ViaVersion/ViaFabric).\n\nAddons (allows older clients on newer servers):\n\n- https://modrinth.com/mod/viabackwards\n\n- https://modrinth.com/mod/viarewind\n\nWhat's is the difference between ViaFabric and [ViaFabricPlus](https://modrinth.com/mod/viafabricplus)?\n\n**Differences with ViaFabricPlus**\n\n|                                  | ViaFabric                                       | ViaFabricPlus                                                   |\n|----------------------------------|-------------------------------------------------|-----------------------------------------------------------------|\n| Can be installed on              | Multiple client/server versions with fabric     | Latest client-side version with fabric                          |\n| Objectives                       | Simply implement ViaVersion                     | Implements ViaVersion with client-side fixes to version changes |\n| How does it work?                | Modifying packets at network code               | Modifying client code more deeply                               |\n| Triggering anti-cheats           | Very likely                                     | Mostly not                                                      |\n\n\nForge version: https://modrinth.com/mod/viaforge\n\nDiscord: https://discord.gg/viaversion",
 		"name": "ViaFabric",
 		"package_maintainers": [
 			"mcvm"
@@ -1703,6 +1743,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.4.14-77-main",
+			"0.4.14-76-legacy",
 			"0.4.14-74-main",
 			"0.4.14-73-main",
 			"0.4.14-72-dev",

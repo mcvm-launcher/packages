@@ -4,6 +4,262 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "-1.21-1.4.5",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/8w6T0wDj/sound-physics-remastered-fabric-1.21-1.4.5.jar",
+					"version": "8w6T0wDj"
+				},
+				{
+					"content_versions": "neo-1.21-1.4.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Tbtajy1X/sound-physics-remastered-neoforge-1.21-1.4.5.jar",
+					"version": "Tbtajy1X"
+				},
+				{
+					"content_versions": "-1.21-1.4.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/rRjQmiWc/sound-physics-remastered-forge-1.21-1.4.5.jar",
+					"version": "rRjQmiWc"
+				},
+				{
+					"content_versions": "-1.20.6-1.4.5",
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/s5PSGIl7/sound-physics-remastered-fabric-1.20.6-1.4.5.jar",
+					"version": "s5PSGIl7"
+				},
+				{
+					"content_versions": "neo-1.20.6-1.4.5",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/BwDWoRgh/sound-physics-remastered-neoforge-1.20.6-1.4.5.jar",
+					"version": "BwDWoRgh"
+				},
+				{
+					"content_versions": "-1.20.6-1.4.5",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/MgbZRiG5/sound-physics-remastered-forge-1.20.6-1.4.5.jar",
+					"version": "MgbZRiG5"
+				},
+				{
+					"content_versions": "-1.20.4-1.4.5",
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Yh3XWCNn/sound-physics-remastered-fabric-1.20.4-1.4.5.jar",
+					"version": "Yh3XWCNn"
+				},
+				{
+					"content_versions": "neo-1.20.4-1.4.5",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/eQg3x7U0/sound-physics-remastered-neoforge-1.20.4-1.4.5.jar",
+					"version": "eQg3x7U0"
+				},
+				{
+					"content_versions": "-1.20.4-1.4.5",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/mKQcogVn/sound-physics-remastered-forge-1.20.4-1.4.5.jar",
+					"version": "mKQcogVn"
+				},
+				{
+					"content_versions": "-1.20.1-1.4.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/MmKSrFU9/sound-physics-remastered-fabric-1.20.1-1.4.5.jar",
+					"version": "MmKSrFU9"
+				},
+				{
+					"content_versions": "-1.20.1-1.4.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/AGRkYn5p/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
+					"version": "AGRkYn5p"
+				},
+				{
+					"content_versions": "-1.19.2-1.4.5",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/D7fOLtmp/sound-physics-remastered-fabric-1.19.2-1.4.5.jar",
+					"version": "D7fOLtmp"
+				},
+				{
+					"content_versions": "-1.19.2-1.4.5",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/cT0aLJ8N/sound-physics-remastered-forge-1.19.2-1.4.5.jar",
+					"version": "cT0aLJ8N"
+				},
+				{
+					"content_versions": "-1.21-1.4.4",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/DZclhMyL/sound-physics-remastered-fabric-1.21-1.4.4.jar",
+					"version": "DZclhMyL"
+				},
+				{
+					"content_versions": "neo-1.21-1.4.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/TsHpz1nS/sound-physics-remastered-neoforge-1.21-1.4.4.jar",
+					"version": "TsHpz1nS"
+				},
+				{
+					"content_versions": "-1.21-1.4.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/1ecXPX5o/sound-physics-remastered-forge-1.21-1.4.4.jar",
+					"version": "1ecXPX5o"
+				},
+				{
 					"content_versions": "-1.21-1.4.3",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -2298,13 +2554,17 @@
 	},
 	"properties": {
 		"content_versions": [
+			"-1.21-1.4.5",
+			"-1.21-1.4.4",
 			"-1.21-1.4.3",
 			"-1.21-1.4.2",
+			"-1.20.6-1.4.5",
 			"-1.20.6-1.4.3",
 			"-1.20.6-1.4.2",
 			"-1.20.6-1.4.1",
 			"-1.20.6-1.4.0",
 			"-1.20.6-1.3.1",
+			"-1.20.4-1.4.5",
 			"-1.20.4-1.4.2",
 			"-1.20.4-1.4.1",
 			"-1.20.4-1.4.0",
@@ -2313,6 +2573,7 @@
 			"-1.20.2-1.3.1",
 			"-1.20.2-1.3.0",
 			"-1.20.2-1.2.1",
+			"-1.20.1-1.4.5",
 			"-1.20.1-1.4.2",
 			"-1.20.1-1.4.1",
 			"-1.20.1-1.4.0",
@@ -2331,6 +2592,7 @@
 			"-1.19.3-1.0.18",
 			"-1.19.3-1.0.17",
 			"-1.19.3-1.0.16",
+			"-1.19.2-1.4.5",
 			"-1.19.2-1.4.2",
 			"-1.19.2-1.4.1",
 			"-1.19.2-1.4.0",
@@ -2360,13 +2622,17 @@
 			"-1.19-1.0.8",
 			"-1.19-1.0.7",
 			"-1.19-1.0.6",
+			"neo-1.21-1.4.5",
+			"neo-1.21-1.4.4",
 			"neo-1.21-1.4.3",
 			"neo-1.21-1.4.2",
+			"neo-1.20.6-1.4.5",
 			"neo-1.20.6-1.4.3",
 			"neo-1.20.6-1.4.2",
 			"neo-1.20.6-1.4.1",
 			"neo-1.20.6-1.4.0",
 			"neo-1.20.6-1.3.1",
+			"neo-1.20.4-1.4.5",
 			"neo-1.20.4-1.4.2",
 			"neo-1.20.4-1.4.1",
 			"neo-1.20.4-1.4.0",

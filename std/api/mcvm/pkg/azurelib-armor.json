@@ -4,6 +4,85 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.3.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pduQXSbl/versions/aSrUCIgH/azurelibarmor-neo-1.21-2.3.2.jar",
+					"version": "aSrUCIgH"
+				},
+				{
+					"content_versions": "2.3.2",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pduQXSbl/versions/fcYA5aZr/azurelibarmor-fabric-1.21-2.3.2.jar",
+					"version": "fcYA5aZr"
+				},
+				{
+					"content_versions": "2.2.3",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pduQXSbl/versions/vpBNaWPb/azurelibarmor-neo-1.20.6-2.2.3.jar",
+					"version": "vpBNaWPb"
+				},
+				{
+					"content_versions": "2.2.3",
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pduQXSbl/versions/gvfnqPDh/azurelibarmor-fabric-1.20.6-2.2.3.jar",
+					"version": "gvfnqPDh"
+				},
+				{
+					"content_versions": "2.1.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pduQXSbl/versions/vxo6gO2M/azurelibarmor-neo-1.20.4-2.1.2.jar",
+					"version": "vxo6gO2M"
+				},
+				{
+					"content_versions": "2.1.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pduQXSbl/versions/Qm3kUy7D/azurelibarmor-fabric-1.20.4-2.1.2.jar",
+					"version": "Qm3kUy7D"
+				},
+				{
+					"content_versions": "2.0.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pduQXSbl/versions/DLqxipmE/azurelibarmor-fabric-1.20.1-2.0.6.jar",
+					"version": "DLqxipmE"
+				},
+				{
+					"content_versions": "2.0.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pduQXSbl/versions/pj8riCZf/azurelibarmor-neo-1.20.1-2.0.6.jar",
+					"version": "pj8riCZf"
+				},
+				{
 					"content_versions": "2.3.1",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -542,14 +621,17 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.3.2",
 			"2.3.1",
 			"2.3.0",
+			"2.2.3",
 			"2.2.2",
 			"2.2.1",
 			"2.2.0",
 			"2.1.2",
 			"2.1.1",
 			"2.1.0",
+			"2.0.6",
 			"2.0.5",
 			"2.0.3",
 			"2.0.2",

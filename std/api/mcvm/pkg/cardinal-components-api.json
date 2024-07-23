@@ -4,6 +4,17 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "6.1.1",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/tVPYyTPV/cardinal-components-api-6.1.1.jar",
+					"version": "tVPYyTPV"
+				},
+				{
 					"content_versions": "6.1.0",
 					"minecraft_versions": [
 						"1.21-pre1",
@@ -334,6 +345,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"6.1.1",
 			"6.1.0",
 			"6.0.0",
 			"6.0.0-rc1",

@@ -4,6 +4,70 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v21.0.1-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9hx3AbJM/versions/zHVaWHWN/EasyMagic-v21.0.1-1.21-NeoForge.jar",
+					"version": "zHVaWHWN"
+				},
+				{
+					"content_versions": "v21.0.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9hx3AbJM/versions/2GX2kGu1/EasyMagic-v21.0.1-1.21-Fabric.jar",
+					"version": "2GX2kGu1"
+				},
+				{
+					"content_versions": "v21.0.0-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9hx3AbJM/versions/W3oGYo0X/EasyMagic-v21.0.0-1.21-NeoForge.jar",
+					"version": "W3oGYo0X"
+				},
+				{
+					"content_versions": "v21.0.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9hx3AbJM/versions/xG5K1L6j/EasyMagic-v21.0.0-1.21-Fabric.jar",
+					"version": "xG5K1L6j"
+				},
+				{
 					"content_versions": "v20.4.0-1.20.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "forgelike",
@@ -446,6 +510,10 @@
 			"v4.2.0-1.19.1",
 			"v4.1.0-1.19.1",
 			"v4.0.0-1.19",
+			"v21.0.1-1.21",
+			"v21.0.1-1.21-Neo",
+			"v21.0.0-1.21",
+			"v21.0.0-1.21-Neo",
 			"v20.4.0-1.20.4",
 			"v20.4.0-1.20.4-Neo"
 		],
@@ -466,7 +534,8 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

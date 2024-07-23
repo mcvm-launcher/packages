@@ -4,6 +4,62 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "_1.20-2.12.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/DJ6tP5np/moonlight-1.20-2.12.9-forge.jar",
+					"version": "DJ6tP5np"
+				},
+				{
+					"content_versions": "_1.20-2.12.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/30ASngKM/moonlight-1.20-2.12.9-fabric.jar",
+					"version": "30ASngKM"
+				},
+				{
+					"content_versions": "_1.20-2.12.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/BvIUpTIY/moonlight-1.20-2.12.8-fabric.jar",
+					"version": "BvIUpTIY"
+				},
+				{
+					"content_versions": "_1.20-2.12.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/pshgj8UJ/moonlight-1.20-2.12.8-forge.jar",
+					"version": "pshgj8UJ"
+				},
+				{
+					"content_versions": "1.18.2-1.17.15",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/KnihOToW/selene-1.18.2-1.17.15.jar",
+					"version": "KnihOToW"
+				},
+				{
 					"content_versions": "_1.20-2.12.6",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -4267,6 +4323,8 @@
 			"_1.20.4-2.9.3",
 			"_1.20.4-2.9.2",
 			"_1.20.4-2.9.0",
+			"_1.20-2.12.9",
+			"_1.20-2.12.8",
 			"_1.20-2.12.6",
 			"_1.20-2.12.4",
 			"_1.20-2.12.2",
@@ -4487,6 +4545,7 @@
 			"1.19.2-2.2.19",
 			"1.19.2-2.2.3",
 			"1.19.2-2.1.9",
+			"1.18.2-1.17.15",
 			"1.9.0"
 		],
 		"modrinth_id": "twkfQtEc",
@@ -4500,6 +4559,9 @@
 		],
 		"supported_versions": [
 			"1.16.5",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
 			"1.19",
 			"1.19.1",
 			"1.19.2",

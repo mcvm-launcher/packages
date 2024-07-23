@@ -4,6 +4,101 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.4.6-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtHRJSUW/versions/Vx3Fr262/WilderWild-2.4.6-mc1.21.jar",
+					"version": "Vx3Fr262"
+				},
+				{
+					"content_versions": "2.4.6-mc1.20.6",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtHRJSUW/versions/IitZptqg/WilderWild-2.4.6-mc1.20.6.jar",
+					"version": "IitZptqg"
+				},
+				{
+					"content_versions": "2.4.6-mc1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtHRJSUW/versions/u9FT37VO/WilderWild-2.4.6-mc1.20.4.jar",
+					"version": "u9FT37VO"
+				},
+				{
+					"content_versions": "2.4.6-mc1.20.2",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtHRJSUW/versions/inytHjJe/WilderWild-2.4.6-mc1.20.2.jar",
+					"version": "inytHjJe"
+				},
+				{
+					"content_versions": "2.4.6-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AtHRJSUW/versions/P0MAa5Ji/WilderWild-2.4.6-mc1.20.1.jar",
+					"version": "P0MAa5Ji"
+				},
+				{
 					"content_versions": "2.4.5-mc1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -3220,6 +3315,7 @@
 			"I_am_Merp",
 			"LIUKRAST",
 			"LudoCrypt",
+			"Lunade_",
 			"Soro335",
 			"Xfrtrex",
 			"osmiooo"
@@ -3252,6 +3348,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.4.6-mc1.21",
+			"2.4.6-mc1.20.6",
+			"2.4.6-mc1.20.4",
+			"2.4.6-mc1.20.2",
+			"2.4.6-mc1.20.1",
 			"2.4.5-mc1.21",
 			"2.4.5-mc1.20.6",
 			"2.4.5-mc1.20.4",

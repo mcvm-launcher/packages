@@ -4,6 +4,20 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.7.3-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/kuOV4Ece/iris-1.7.3%2Bmc1.21.jar",
+					"version": "kuOV4Ece"
+				},
+				{
 					"content_versions": "1.7.2-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -1832,6 +1846,7 @@
 			"mc1.16.5-1.1.2",
 			"mc1.16.5-v1.1.1",
 			"mc1.16.5-v1.1.0",
+			"1.7.3-1.21",
 			"1.7.2-1.21",
 			"1.7.2-1.20.6",
 			"1.7.2-1.20.4",

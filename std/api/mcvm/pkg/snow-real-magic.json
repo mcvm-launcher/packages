@@ -4,6 +4,43 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "10.4.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/R6XD8AfG/SnowRealMagic-1.20.1-forge-10.4.4.jar",
+					"version": "R6XD8AfG"
+				},
+				{
+					"content_versions": "11.0.2",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/uZKvBhPE/SnowRealMagic-1.21-Fabric-11.0.2.jar",
+					"version": "uZKvBhPE"
+				},
+				{
 					"content_versions": "11.0.1",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -1374,8 +1411,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"11.0.2",
 			"11.0.1",
 			"11.0.0",
+			"10.4.4",
 			"10.4.3",
 			"10.4.2",
 			"10.4.1",

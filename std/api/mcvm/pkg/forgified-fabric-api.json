@@ -4,6 +4,70 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.100.7-2.0.6-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/Qd8IgKpP/forgified-fabric-api-0.100.7%2B2.0.6%2B1.21.jar",
+					"version": "Qd8IgKpP"
+				},
+				{
+					"content_versions": "0.100.6-2.0.5-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/3mpYn8s1/forgified-fabric-api-0.100.6%2B2.0.5%2B1.21.jar",
+					"version": "3mpYn8s1"
+				},
+				{
+					"content_versions": "0.100.6-2.0.4-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/GhYDWoPi/forgified-fabric-api-0.100.6%2B2.0.4%2B1.21.jar",
+					"version": "GhYDWoPi"
+				},
+				{
+					"content_versions": "0.100.6-2.0.3-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/NCJnp0bi/forgified-fabric-api-0.100.6%2B2.0.3%2B1.21.jar",
+					"version": "NCJnp0bi"
+				},
+				{
+					"content_versions": "0.100.6-2.0.2-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/Yzs19UrY/forgified-fabric-api-0.100.6%2B2.0.2%2B1.21.jar",
+					"version": "Yzs19UrY"
+				},
+				{
+					"content_versions": "0.100.6-2.0.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/da3fCzkD/forgified-fabric-api-0.100.6%2B2.0.1%2B1.21.jar",
+					"version": "da3fCzkD"
+				},
+				{
+					"content_versions": "0.100.6-2.0.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/Ch8k8D3T/forgified-fabric-api-0.100.6%2B2.0.0%2B1.21.jar",
+					"version": "Ch8k8D3T"
+				},
+				{
+					"content_versions": "0.100.4-2.0.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/40eWdJ1X/forgified-fabric-api-0.100.4%2B2.0.0%2B1.21.jar",
+					"version": "40eWdJ1X"
+				},
+				{
 					"content_versions": "0.92.2-1.11.8-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -577,6 +641,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.100.7-2.0.6-1.21",
+			"0.100.6-2.0.5-1.21",
+			"0.100.6-2.0.4-1.21",
+			"0.100.6-2.0.3-1.21",
+			"0.100.6-2.0.2-1.21",
+			"0.100.6-2.0.1-1.21",
+			"0.100.6-2.0.0-1.21",
+			"0.100.4-2.0.0-1.21",
 			"0.92.2-1.11.8-1.20.1",
 			"0.92.1-1.11.8-1.20.1",
 			"0.92.1-1.11.7-1.20.1",
@@ -656,7 +728,8 @@
 			"server"
 		],
 		"supported_versions": [
-			"1.20.1"
+			"1.20.1",
+			"1.21"
 		]
 	}
 }

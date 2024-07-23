@@ -4,6 +4,34 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.19.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9aNz8Zqn/versions/UTkVrMp1/kirin-1.19.1%2B1.21.jar",
+					"version": "UTkVrMp1"
+				},
+				{
+					"content_versions": "1.19.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9aNz8Zqn/versions/vG685onG/kirin-1.19.1%2B1.21.jar",
+					"version": "vG685onG"
+				},
+				{
 					"content_versions": "1.19.0-1.21",
 					"minecraft_versions": [
 						"1.21-pre2",
@@ -243,6 +271,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.19.1-1.21",
 			"1.19.0-1.21",
 			"1.18.0-1.20.5",
 			"1.17.1-1.20.4",

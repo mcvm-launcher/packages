@@ -4,6 +4,108 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "21.0.9",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/BgNRHReB/versions/5NRCb8hh/bclib-21.0.9.jar",
+					"version": "5NRCb8hh"
+				},
+				{
+					"content_versions": "21.0.8",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/BgNRHReB/versions/vG7JnDsd/bclib-21.0.8.jar",
+					"version": "vG7JnDsd"
+				},
+				{
+					"content_versions": "21.0.7",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/BgNRHReB/versions/vz0CZ7K5/bclib-21.0.7.jar",
+					"version": "vz0CZ7K5"
+				},
+				{
+					"content_versions": "21.0.6",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/BgNRHReB/versions/8CFJ4Oi8/bclib-21.0.6.jar",
+					"version": "8CFJ4Oi8"
+				},
+				{
+					"content_versions": "21.0.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/BgNRHReB/versions/obkxwoJB/bclib-21.0.5.jar",
+					"version": "obkxwoJB"
+				},
+				{
+					"content_versions": "21.0.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/BgNRHReB/versions/RY7JTBN9/bclib-21.0.4.jar",
+					"version": "RY7JTBN9"
+				},
+				{
 					"content_versions": "21.0.3",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -609,9 +711,7 @@
 		}
 	},
 	"meta": {
-		"authors": [
-			"quiqueck"
-		],
+		"authors": [],
 		"categories": [
 			"library",
 			"technical"
@@ -635,6 +735,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"21.0.9",
+			"21.0.8",
+			"21.0.7",
+			"21.0.6",
+			"21.0.5",
+			"21.0.4",
 			"21.0.3",
 			"21.0.2",
 			"21.0.1",

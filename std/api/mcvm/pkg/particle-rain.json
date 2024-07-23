@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.1.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nrikgvxm/versions/UQKVXNOt/particle-rain-2.1.2.jar",
+					"version": "UQKVXNOt"
+				},
+				{
 					"content_versions": "2.1.1",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -188,6 +205,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.1.2",
 			"2.1.1",
 			"2.1.0",
 			"v2.0.8",

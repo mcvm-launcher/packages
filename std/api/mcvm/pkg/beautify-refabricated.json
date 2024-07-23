@@ -4,6 +4,19 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.2.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "jade"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DhSSvaxs/versions/tHOYXwOR/beautify-1.2.1%2B1.21.jar",
+					"version": "tHOYXwOR"
+				},
+				{
 					"content_versions": "1.2.0-1.20.1",
 					"minecraft_versions": [
 						"1.20",
@@ -345,6 +358,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.2.1-1.21",
 			"1.2.0-1.21",
 			"1.2.0-1.20.6",
 			"1.2.0-1.20.4",

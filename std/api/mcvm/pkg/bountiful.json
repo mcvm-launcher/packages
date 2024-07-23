@@ -4,6 +4,41 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "7.0.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kambrik",
+							"kotlin-support"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BpwWFOVM/versions/m8TNePN3/Bountiful-7.0.3%2B1.20.4-neoforge.jar",
+					"version": "m8TNePN3"
+				},
+				{
+					"content_versions": "7.0.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kambrik",
+							"kotlin-support"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BpwWFOVM/versions/rylv8YCZ/Bountiful-7.0.3%2B1.20.4-fabric.jar",
+					"version": "rylv8YCZ"
+				},
+				{
 					"content_versions": "7.0.2-1.20.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -216,6 +251,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"7.0.3",
 			"7.0.2-1.20.4",
 			"7.0.1-1.20.4",
 			"7.0.0-1.20.4",

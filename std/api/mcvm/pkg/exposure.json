@@ -4,6 +4,144 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.7.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/TJf7A440/exposure-1.20.1-1.7.4-forge.jar",
+					"version": "TJf7A440"
+				},
+				{
+					"content_versions": "1.7.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/qTof0mm9/exposure-1.20.1-1.7.4-fabric.jar",
+					"version": "qTof0mm9"
+				},
+				{
+					"content_versions": "1.7.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/PA8uBFD6/exposure-1.20.1-1.7.3-forge.jar",
+					"version": "PA8uBFD6"
+				},
+				{
+					"content_versions": "1.7.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/eeGX4U8x/exposure-1.20.1-1.7.3-fabric.jar",
+					"version": "eeGX4U8x"
+				},
+				{
+					"content_versions": "1.7.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/xFW7G1Eo/exposure-1.20.1-1.7.2-fabric.jar",
+					"version": "xFW7G1Eo"
+				},
+				{
+					"content_versions": "1.7.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "jei"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/hB899VmG/versions/UOdAzPFs/exposure-1.20.1-1.7.2-forge.jar",
+					"version": "UOdAzPFs"
+				},
+				{
 					"content_versions": "1.7.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -1052,6 +1190,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.7.4",
+			"1.7.3",
+			"1.7.2",
 			"1.7.1",
 			"1.7.0",
 			"1.6.0",
