@@ -1,0 +1,151 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "1.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s5d4P01r/versions/eh9J38KG/Species-1.20.1-1.3-Fabric.jar",
+					"version": "eh9J38KG"
+				},
+				{
+					"content_versions": "1.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s5d4P01r/versions/WWJ8Aftw/Species-1.20.1-1.3-Forge.jar",
+					"version": "WWJ8Aftw"
+				},
+				{
+					"content_versions": "1.2",
+					"minecraft_versions": "1.20",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s5d4P01r/versions/N2f1rDUx/Species-1.20-1.2-Fabric.jar",
+					"version": "N2f1rDUx"
+				},
+				{
+					"content_versions": "1.2",
+					"minecraft_versions": "1.20",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s5d4P01r/versions/kSFqAtmP/Species-1.20-1.2-Forge.jar",
+					"version": "kSFqAtmP"
+				},
+				{
+					"content_versions": "1.1",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s5d4P01r/versions/9ZfJNolt/species-1.1-fabric.jar",
+					"version": "9ZfJNolt"
+				},
+				{
+					"content_versions": "1.1",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s5d4P01r/versions/lWHLuPSH/species-1.1-forge.jar",
+					"version": "lWHLuPSH"
+				},
+				{
+					"content_versions": "1.19.2-1.0.0",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s5d4P01r/versions/nHxVZylc/Species-1.0.0-forge.jar",
+					"version": "nHxVZylc"
+				},
+				{
+					"content_versions": "1.0.0",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s5d4P01r/versions/qcbzdebQ/species-1.0.0-fabric.jar",
+					"version": "qcbzdebQ"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Bornulhu",
+			"FloofHips",
+			"Ninni",
+			"Noonyeyz",
+			"Orcinus",
+			"bunten"
+		],
+		"banner": "https://cdn.modrinth.com/data/s5d4P01r/images/f42248a42ef2f67496ff0d4d073e3a5fb4f19470.png",
+		"community": "https://discord.gg/gt74VjsggK",
+		"description": "A mod that adds fictional mobs to the game, with cool and unique functions",
+		"documentation": "https://github.com/N1nn1/species/wiki",
+		"gallery": [
+			"https://cdn.modrinth.com/data/s5d4P01r/images/f42248a42ef2f67496ff0d4d073e3a5fb4f19470.png",
+			"https://cdn.modrinth.com/data/s5d4P01r/images/33e652f09cb0cb35fbcfe2ec20b5198629a5815d.png",
+			"https://cdn.modrinth.com/data/s5d4P01r/images/3c5c526ad7f6668ad73f96ef8858d29f8878f54e.png",
+			"https://cdn.modrinth.com/data/s5d4P01r/images/5e7fe8fedbd58fa5be4fcc7de3a5355182a67e34.png",
+			"https://cdn.modrinth.com/data/s5d4P01r/images/627bb46bf2a31eac9d4bb55ff002826c15ea8345.png",
+			"https://cdn.modrinth.com/data/s5d4P01r/images/8288180d0d30af678c8c9537721f2e36e3fccb8d.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/s5d4P01r/970ae7779b7c083369189aa8cc236321ee9c5494.png",
+		"issues": "https://github.com/N1nn1/species/issues",
+		"license": "LicenseRef-All-Rights-Reserved",
+		"long_description": "![](https://i.imgur.com/76AajU8.png)\n\n\n## About Species\nHave you ever wanted more fictional, made-up mobs that fit well inside the base game? Species is a mod that does exactly that! Reda, Ninni, Noon, GLaDOS edition and Bornulhu have joined forces to come up and add all sorts of creatures and critters made with tender love and care.\n\n \n## Updates\nUpdates are going to have a specific theme tied to them, which could be anything! Look out for the next update and get early looks at the features in our DISCORD SERVER!\n\n \n## Features for Each Update\nEvery update adds one animal or plant designed by each of the team members above, fitting the update's theme. Of course there's not going to be only mobs! There's a lot of room for items and blocks based on the mob's function...\n\n \n## Modloader and Version\nThis mod is being developed for Fabric and Forge. No backports are planned.\n\n\n## Music Disc\nHere's a [link](https://soundcloud.com/lunarbunten/dial) to listen to the Dial music disc on Soundcloud!\n\n\n\n![](https://i.imgur.com/FOQn6SE.png)\n\n### To know more about these mobs, take a look at the images section or even look at our wiki!",
+		"name": "Species",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/N1nn1/species"
+	},
+	"properties": {
+		"content_versions": [
+			"1.19.2-1.0.0",
+			"1.3",
+			"1.2",
+			"1.1",
+			"1.0.0"
+		],
+		"modrinth_id": "s5d4P01r",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.20",
+			"1.20.1"
+		]
+	}
+}
