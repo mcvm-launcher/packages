@@ -4,6 +4,124 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.4-5.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/qGXmN34R/YungsExtras-1.21.4-Fabric-5.4.0.jar",
+					"version": "qGXmN34R"
+				},
+				{
+					"content_versions": "1.21.4-Neo-5.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/i6hi0ZAg/YungsExtras-1.21.4-NeoForge-5.4.0.jar",
+					"version": "i6hi0ZAg"
+				},
+				{
+					"content_versions": "1.21.1-5.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/aVsikHca/YungsExtras-1.21.1-Fabric-5.1.1.jar",
+					"version": "aVsikHca"
+				},
+				{
+					"content_versions": "1.21.1-Neo-5.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/N2EpMhR7/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+					"version": "N2EpMhR7"
+				},
+				{
+					"content_versions": "1.21.1-5.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/7dBOlmn7/YungsExtras-1.21.1-Forge-5.1.1.jar",
+					"version": "7dBOlmn7"
+				},
+				{
+					"content_versions": "1.21.1-Neo-5.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/uE6pFqck/YungsExtras-1.21.1-NeoForge-5.1.0.jar",
+					"version": "uE6pFqck"
+				},
+				{
+					"content_versions": "1.21.1-5.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/mx6Qu9h5/YungsExtras-1.21.1-Forge-5.1.0.jar",
+					"version": "mx6Qu9h5"
+				},
+				{
+					"content_versions": "1.21.1-5.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/dAsYjQpz/YungsExtras-1.21.1-Fabric-5.1.0.jar",
+					"version": "dAsYjQpz"
+				},
+				{
 					"content_versions": "1.20.4-4.4.2",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -300,25 +418,25 @@
 			"Drullkus",
 			"YUNGNICKYOUNG"
 		],
-		"banner": "https://cdn.modrinth.com/data/ZYgyPyfq/images/03212b89fe65986e8e5734719a8eff4820d68d4c.png",
+		"banner": "https://cdn.modrinth.com/data/ZYgyPyfq/images/5ad6cf5c4fc3b4b83e73768c35a321d1e62f6fc5_350.webp",
 		"categories": [
 			"worldgen"
 		],
 		"community": "https://discord.gg/rns3beq",
 		"description": "Extra structures, features, and vanilla+ content suitable for any modpack!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/ZYgyPyfq/images/03212b89fe65986e8e5734719a8eff4820d68d4c.png",
-			"https://cdn.modrinth.com/data/ZYgyPyfq/images/1520712d84f41bf86cdc4a90e8df21109560d146.png",
-			"https://cdn.modrinth.com/data/ZYgyPyfq/images/46d3b4ef0e51afd34abd7b651bdd8cd6597216e0.png",
-			"https://cdn.modrinth.com/data/ZYgyPyfq/images/b53da67c6e510c52b0b574343d2abb6f3c77230f.png"
+			"https://cdn.modrinth.com/data/ZYgyPyfq/images/2f2f512a6eb27ddd9da1bf77685c52448041263b_350.webp",
+			"https://cdn.modrinth.com/data/ZYgyPyfq/images/5ad6cf5c4fc3b4b83e73768c35a321d1e62f6fc5_350.webp",
+			"https://cdn.modrinth.com/data/ZYgyPyfq/images/b4c0b27b0d42a8b23855d4df79d6898739155faa_350.webp",
+			"https://cdn.modrinth.com/data/ZYgyPyfq/images/e88b25f17fdf090fe3a16ff99d3264fa3134fd14_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/ZYgyPyfq/709b076c9de735145c95fb44c5239ff794ffac17.png",
+		"icon": "https://cdn.modrinth.com/data/ZYgyPyfq/153c00f1d64b90c8b5fd0c5136df91a65efc1df2_96.webp",
 		"issues": "https://github.com/YUNG-GANG/YUNGs-Extras/issues",
 		"keywords": [
 			"yungs"
 		],
 		"license": "LGPL-3.0-only",
-		"long_description": "<p>\n<img src=\"https://i.imgur.com/hvBicGR.png\" alt=\"YUNG's Extras\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/2HNgRET.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\n A myriad of structures, features, and vanilla+ content. This mod is a collection of upgrades to vanilla Minecraft that are each individually too small for their own mods, but together create a nice finishing touch for your modpack. <b>It's the cherry on top for any modpack.</b></p>\n<p>\nThe most recent release is the <b>Swamp Structures</b> for 1.18+, featuring:\n<ul>\n<li>Lots of Ruins</li>\n<li>Ancient Pillars</li>\n<li>A few very rare easter egg structures ;)</li>\n</ul>\n</p>\n<p>\nThe initial release was the <b>Desert Decorations</b> update, which included:\n<ul>\n<li>New and improved Desert Wells (including rare <b>Wishing Wells</b> which may have some treasure at the bottom!)</li>\n<li>Desert Obelisks</li>\n<li>Flame Outposts</li>\n<li>And more!</li>\n</ul>\n</p>\nThis mod will receive content updates over time improving different parts of the game! <br />\nThis mod is very lightweight and has minimal performance impact.\n</p>\n<p>\n<img src=\"https://i.imgur.com/0XXV7z4.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Extras is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Desert Temples\" href=\"https://modrinth.com/mod/yungs-better-desert-temples\" target=\"_blank\" rel=\"noopener\">YUNG's Better Desert Temples</a></li>\n<li><a title=\"YUNG's Better Ocean Monuments\" href=\"https://modrinth.com/mod/yungs-better-ocean-monuments\" target=\"_blank\" rel=\"noopener\">YUNG's Better Ocean Monuments</a></li>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Better Witch Huts\" href=\"https://modrinth.com/mod/yungs-better-witch-huts\" target=\"_blank\" rel=\"noopener\">YUNG's Witch Huts</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+		"long_description": "<p>\n<img src=\"https://i.imgur.com/hvBicGR.png\" alt=\"YUNG's Extras\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"76\" height=\"27\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/2HNgRET.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\n A myriad of structures, features, and vanilla+ content. This mod is a collection of upgrades to vanilla Minecraft that are each individually too small for their own mods, but together create a nice finishing touch for your modpack. <b>It's the cherry on top for any modpack.</b></p>\n<p>\nThe most recent release is the <b>Swamp Structures</b> for 1.18+, featuring:\n<ul>\n<li>Lots of Ruins</li>\n<li>Ancient Pillars</li>\n<li>A few very rare easter egg structures ;)</li>\n</ul>\n</p>\n<p>\nThe initial release was the <b>Desert Decorations</b> update, which included:\n<ul>\n<li>New and improved Desert Wells (including rare <b>Wishing Wells</b> which may have some treasure at the bottom!)</li>\n<li>Desert Obelisks</li>\n<li>Flame Outposts</li>\n<li>And more!</li>\n</ul>\n</p>\nThis mod will receive content updates over time improving different parts of the game! <br />\nThis mod is very lightweight and has minimal performance impact.\n</p>\n<p>\n<img src=\"https://i.imgur.com/0XXV7z4.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Extras is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Desert Temples\" href=\"https://modrinth.com/mod/yungs-better-desert-temples\" target=\"_blank\" rel=\"noopener\">YUNG's Better Desert Temples</a></li>\n<li><a title=\"YUNG's Better Ocean Monuments\" href=\"https://modrinth.com/mod/yungs-better-ocean-monuments\" target=\"_blank\" rel=\"noopener\">YUNG's Better Ocean Monuments</a></li>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Better Witch Huts\" href=\"https://modrinth.com/mod/yungs-better-witch-huts\" target=\"_blank\" rel=\"noopener\">YUNG's Witch Huts</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
 		"name": "YUNG's Extras",
 		"package_maintainers": [
 			"mcvm"
@@ -328,6 +446,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.4-Neo-5.4.0",
+			"1.21.4-5.4.0",
+			"1.21.1-Neo-5.1.1",
+			"1.21.1-Neo-5.1.0",
+			"1.21.1-5.1.1",
+			"1.21.1-5.1.0",
 			"1.20.4-Neo-4.4.2",
 			"1.20.4-Neo-4.4.1",
 			"1.20.4-4.4.2",
@@ -355,7 +479,10 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1",
+			"1.21.4"
 		]
 	}
 }

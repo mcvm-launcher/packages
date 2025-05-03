@@ -4,6 +4,92 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.1.15-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/D5h9NKNI/versions/Q986CZXM/lavender-0.1.15%2B1.21.4.jar",
+					"version": "Q986CZXM"
+				},
+				{
+					"content_versions": "0.1.15-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/D5h9NKNI/versions/gdB0WW0x/lavender-0.1.15%2B1.21.jar",
+					"version": "gdB0WW0x"
+				},
+				{
+					"content_versions": "0.1.14-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/D5h9NKNI/versions/UWM5wnrd/lavender-0.1.14%2B1.21.4.jar",
+					"version": "UWM5wnrd"
+				},
+				{
+					"content_versions": "0.1.14-1.21.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/D5h9NKNI/versions/FUjD5p59/lavender-0.1.14%2B1.21.2.jar",
+					"version": "FUjD5p59"
+				},
+				{
+					"content_versions": "0.1.14-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/D5h9NKNI/versions/cAWHE1fJ/lavender-0.1.14%2B1.21.jar",
+					"version": "cAWHE1fJ"
+				},
+				{
+					"content_versions": "0.1.13-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/D5h9NKNI/versions/aIAIBtB3/lavender-0.1.13%2B1.21.jar",
+					"version": "aIAIBtB3"
+				},
+				{
+					"content_versions": "0.1.12-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/D5h9NKNI/versions/oj8KkSca/lavender-0.1.12%2B1.21.jar",
+					"version": "oj8KkSca"
+				},
+				{
 					"content_versions": "0.1.11-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -276,9 +362,9 @@
 		"description": "A Guidebook API and alternative to Patchouli",
 		"gallery": [
 			"https://cdn.modrinth.com/data/D5h9NKNI/images/ed7daa42a82c61305de1d4ba5e19c7627adaad01.png",
-			"https://cdn.modrinth.com/data/D5h9NKNI/images/b8d3950ba69601e57ee80dd569083a755dbc335a.png"
+			"https://cdn.modrinth.com/data/D5h9NKNI/images/3436ee730d7f9c00208d56fa86f526f50a84f7ca_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/D5h9NKNI/60b3afb91ceb3453cbc8dd451a1910b6622a7ab9.png",
+		"icon": "https://cdn.modrinth.com/data/D5h9NKNI/3f61ea6e17fe21b512940d36419facd387790e37_96.webp",
 		"issues": "https://github.com/wisp-forest/lavender/issues",
 		"license": "MIT",
 		"long_description": "![The landing page of a Lavender book](https://cdn.modrinth.com/data/D5h9NKNI/images/ed7daa42a82c61305de1d4ba5e19c7627adaad01.png)\n\nLavender is tool allowing modders, modpack makers and everybody else to create player guides and other in-game documentation in the form of easy-to-read, intuitive guide books.\n\nEverything is written using easy to learn, familiar and, most importantly, readable markdown with a bunch of [special syntax](https://docs.wispforest.io/lavender/markdown-syntax/) to seamlessly integrate with the game. This is augmented with support for powerful macros and the entirety of the [owo-ui framework](https://docs.wispforest.io/owo/ui/) at your fingertips\n\nFurther, for the first time in any guidebook mod (we believe), all books can be viewed in-game when placed in the offhand - extremely useful for referencing an entry while carrying out its instructions\n\n![A Lavender book being displayed in the offhand](https://cdn.modrinth.com/data/D5h9NKNI/images/b8d3950ba69601e57ee80dd569083a755dbc335a.png)\n\n## Features\n- Fully data-driven book authoring with near-instant hot reloading\n- Optional grouping of entries into categories for easy discovery\n- Deep linking between entries and categories\n- Structure/Multiblock visualization and building assistance\n- Gradual content unlocking, backed by the game's advancement system\n- Built-in support for visualizing all vanilla recipe types and an easy framework for implementing custom ones\n- Localization support\n- Individual bookmarks for each save\n- Support for extending another mod's books, extremely useful for seamlessly integrating your addon's documentation\n\n## Getting started\nTo start making your own Lavender book right now, complete the [setup](https://docs.wispforest.io/lavender/setup/) and then follow [Getting Started](https://docs.wispforest.io/lavender/getting-started/) in the comprehensive documentation over at https://docs.wispforest.io.\n\nFor reference, it might be helpful to check out Affinity's [Wispen Testament](https://github.com/wisp-forest/affinity/tree/main/src/main/resources/assets/affinity/lavender) as a solid example book made using Lavender\n\n## Credits\n- [The Patchouli team](https://modrinth.com/mod/patchouli) for making the original mod that inspired Lavender\n- [chyzman](https://modrinth.com/user/chyzman) for inspiring a range of features, notably offhand viewing",
@@ -290,6 +376,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.1.15-1.21.4",
+			"0.1.15-1.21",
+			"0.1.14-1.21.4",
+			"0.1.14-1.21.2",
+			"0.1.14-1.21",
+			"0.1.13-1.21",
+			"0.1.12-1.21",
 			"0.1.11-1.21",
 			"0.1.10-1.21",
 			"0.1.9-1.20.5",
@@ -326,7 +419,11 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4"
 		]
 	},
 	"relations": {

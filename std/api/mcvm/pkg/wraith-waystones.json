@@ -46,6 +46,65 @@
 					"version": "QkFeyvMH"
 				},
 				{
+					"content_versions": "3.3.3-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/sTZr7NVo/versions/pVMFGW45/wraith-waystones-3.3.3%2Bmc1.20.1.jar",
+					"version": "pVMFGW45"
+				},
+				{
+					"content_versions": "3.3.5-mc1.21.4",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/sTZr7NVo/versions/UVLcoIVQ/wraith-waystones-3.3.5%2Bmc1.21.4.jar",
+					"version": "UVLcoIVQ"
+				},
+				{
+					"content_versions": "3.3.4-mc1.21.1",
+					"minecraft_versions": [
+						"1.21.1",
+						"1.21.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/sTZr7NVo/versions/LUSqgrjd/wraith-waystones-3.3.4%2Bmc1.21.1.jar",
+					"version": "LUSqgrjd"
+				},
+				{
+					"content_versions": "3.3.3-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/sTZr7NVo/versions/Mjhs3Aqs/wraith-waystones-3.3.3%2Bmc1.21.jar",
+					"version": "Mjhs3Aqs"
+				},
+				{
 					"content_versions": "3.3.2-mc1.20.2",
 					"minecraft_versions": "1.20.2",
 					"modloaders": "fabriclike",
@@ -478,14 +537,14 @@
 		"authors": [
 			"LordDeatHunter"
 		],
-		"banner": "https://cdn.modrinth.com/data/sTZr7NVo/images/1854f501a6d520b50dc7a87a179e34cb7b3fc7d5.png",
-		"community": "https://discord.ggvMjzgS4",
+		"banner": "https://cdn.modrinth.com/data/sTZr7NVo/images/0f5c27ebf166b7f5ff238333d60b47f61147facf_350.webp",
+		"community": "https://discord.gg/vMjzgS4",
 		"description": "A better way of transport",
 		"documentation": "https://github.com/LordDeatHunter/FabricWaystones/wiki/",
 		"gallery": [
-			"https://cdn.modrinth.com/data/sTZr7NVo/images/1854f501a6d520b50dc7a87a179e34cb7b3fc7d5.png",
-			"https://cdn.modrinth.com/data/sTZr7NVo/images/f436852038c435812a8f5acbb4c612f433f9a5ee.png",
-			"https://cdn.modrinth.com/data/sTZr7NVo/images/fd591f931e9e17e9e882a8a9bce8d0921aabd3ee.png"
+			"https://cdn.modrinth.com/data/sTZr7NVo/images/0f5c27ebf166b7f5ff238333d60b47f61147facf_350.webp",
+			"https://cdn.modrinth.com/data/sTZr7NVo/images/f436852038c435812a8f5acbb4c612f433f9a5ee_350.webp",
+			"https://cdn.modrinth.com/data/sTZr7NVo/images/fd591f931e9e17e9e882a8a9bce8d0921aabd3ee_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/sTZr7NVo/icon.png",
 		"issues": "https://github.com/LordDeatHunter/FabricWaystones/issues",
@@ -500,6 +559,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.3.5-mc1.21.4",
+			"3.3.4-mc1.21.1",
+			"3.3.3-mc1.21",
+			"3.3.3-mc1.20.1",
 			"3.3.2-mc1.20.4",
 			"3.3.2-mc1.20.2",
 			"3.3.2-mc1.20.1",
@@ -560,7 +623,12 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4"
 		]
 	}
 }

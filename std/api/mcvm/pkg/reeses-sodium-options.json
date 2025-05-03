@@ -4,6 +4,237 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "mc1.21.4-1.8.3-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
+					"version": "xAiCe6w8"
+				},
+				{
+					"content_versions": "mc1.21.4-1.8.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar",
+					"version": "KoUrx3jJ"
+				},
+				{
+					"content_versions": "mc1.21.3-1.8.0-beta.5-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/icTy71Cf/reeses-sodium-options-neoforge-1.8.0-beta.5%2Bmc1.21.3.jar",
+					"version": "icTy71Cf"
+				},
+				{
+					"content_versions": "mc1.21.3-1.8.0-beta.5",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/WeqF4XuB/reeses-sodium-options-fabric-1.8.0-beta.5%2Bmc1.21.3.jar",
+					"version": "WeqF4XuB"
+				},
+				{
+					"content_versions": "mc1.21.1-1.8.0-beta.4-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/orx6Yu4G/reeses-sodium-options-neoforge-1.8.0-beta.4%2Bmc1.21.1.jar",
+					"version": "orx6Yu4G"
+				},
+				{
+					"content_versions": "mc1.21.1-1.8.0-beta.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/DSxKPh7H/reeses-sodium-options-fabric-1.8.0-beta.4%2Bmc1.21.1.jar",
+					"version": "DSxKPh7H"
+				},
+				{
+					"content_versions": "mc1.21.1-1.8.0-beta.3-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/CfK2T1jj/reeses-sodium-options-neoforge-1.8.0-beta.3%2Bmc1.21.1.jar",
+					"version": "CfK2T1jj"
+				},
+				{
+					"content_versions": "mc1.21.1-1.8.0-beta.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/wnRbkR4U/reeses-sodium-options-fabric-1.8.0-beta.3%2Bmc1.21.1.jar",
+					"version": "wnRbkR4U"
+				},
+				{
+					"content_versions": "mc1.21.1-1.8.0-beta.2-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/pRWqnC7z/reeses-sodium-options-neoforge-1.8.0-beta.2%2Bmc1.21.1.jar",
+					"version": "pRWqnC7z"
+				},
+				{
+					"content_versions": "mc1.21.1-1.8.0-beta.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/YFHMOEkE/reeses-sodium-options-fabric-1.8.0-beta.2%2Bmc1.21.1.jar",
+					"version": "YFHMOEkE"
+				},
+				{
 					"content_versions": "mc1.21-1.7.3",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -234,6 +465,172 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/Em4mC86n/reeses_sodium_options-1.6.3%2Bmc1.16.5-build.86.jar",
 					"version": "Em4mC86n"
+				},
+				{
+					"content_versions": "mc1.21.4-1.8.2-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/e4jCLNKA/reeses-sodium-options-neoforge-1.8.2%2Bmc1.21.4.jar",
+					"version": "e4jCLNKA"
+				},
+				{
+					"content_versions": "mc1.21.4-1.8.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/FK8MhLvJ/reeses-sodium-options-fabric-1.8.2%2Bmc1.21.4.jar",
+					"version": "FK8MhLvJ"
+				},
+				{
+					"content_versions": "mc1.21.4-1.8.1-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/r722WRxp/reeses-sodium-options-neoforge-1.8.1%2Bmc1.21.4.jar",
+					"version": "r722WRxp"
+				},
+				{
+					"content_versions": "mc1.21.4-1.8.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/PxI5NDgM/reeses-sodium-options-fabric-1.8.1%2Bmc1.21.4.jar",
+					"version": "PxI5NDgM"
+				},
+				{
+					"content_versions": "mc1.21.3-1.8.0-neo",
+					"minecraft_versions": [
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/zFB5NVXk/reeses-sodium-options-neoforge-1.8.0%2Bmc1.21.3.jar",
+					"version": "zFB5NVXk"
+				},
+				{
+					"content_versions": "mc1.21.3-1.8.0",
+					"minecraft_versions": [
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/4sugrjBi/reeses-sodium-options-fabric-1.8.0%2Bmc1.21.3.jar",
+					"version": "4sugrjBi"
+				},
+				{
+					"content_versions": "mc1.21.1-1.8.0-beta.1-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/mEkSOCYW/reeses-sodium-options-neoforge-1.8.0-beta.1%2Bmc1.21.1.jar",
+					"version": "mEkSOCYW"
+				},
+				{
+					"content_versions": "mc1.21.1-1.8.0-beta.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "sodium",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "sodium-extra"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/H5Nu8zIm/reeses-sodium-options-fabric-1.8.0-beta.1%2Bmc1.21.1.jar",
+					"version": "H5Nu8zIm"
 				},
 				{
 					"content_versions": "mc1.20.4-1.7.1",
@@ -1235,8 +1632,26 @@
 	},
 	"properties": {
 		"content_versions": [
+			"mc1.21.4-1.8.3",
+			"mc1.21.4-1.8.3-neo",
+			"mc1.21.4-1.8.2",
+			"mc1.21.4-1.8.2-neo",
+			"mc1.21.4-1.8.1",
+			"mc1.21.4-1.8.1-neo",
+			"mc1.21.3-1.8.0",
+			"mc1.21.3-1.8.0-neo",
+			"mc1.21.3-1.8.0-beta.5",
+			"mc1.21.3-1.8.0-beta.5-neo",
 			"mc1.21-1.7.3",
 			"mc1.21-1.7.2",
+			"mc1.21.1-1.8.0-beta.4",
+			"mc1.21.1-1.8.0-beta.4-neo",
+			"mc1.21.1-1.8.0-beta.3",
+			"mc1.21.1-1.8.0-beta.3-neo",
+			"mc1.21.1-1.8.0-beta.2",
+			"mc1.21.1-1.8.0-beta.2-neo",
+			"mc1.21.1-1.8.0-beta.1",
+			"mc1.21.1-1.8.0-beta.1-neo",
 			"mc1.20.6-1.7.3",
 			"mc1.20.5-1.7.2",
 			"mc1.20.4-1.7.2",
@@ -1350,7 +1765,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

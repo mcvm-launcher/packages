@@ -4,6 +4,22 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "7.7.0-0.92.2-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qvIfYCYJ/versions/s8dfz9Xa/qfapi-7.7.0_qsl-6.3.0_fapi-0.92.2_mc-1.20.1.jar",
+					"version": "s8dfz9Xa"
+				},
+				{
+					"content_versions": "11.0.0-alpha.3-0.102.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "quilt",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/qvIfYCYJ/versions/WDWNp8qJ/quilted-fabric-api-11.0.0-alpha.3%2B0.102.0-1.21.jar",
+					"version": "WDWNp8qJ"
+				},
+				{
 					"content_versions": "11.0.0-alpha.3-0.100.7-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "quilt",
@@ -1323,7 +1339,9 @@
 	},
 	"meta": {
 		"authors": [
-			"OroArmor"
+			"OroArmor",
+			"glitch",
+			"ix0rai"
 		],
 		"categories": [
 			"api",
@@ -1349,6 +1367,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"11.0.0-alpha.3-0.102.0-1.21",
 			"11.0.0-alpha.3-0.100.7-1.21",
 			"11.0.0-alpha.2-0.100.4-1.21",
 			"11.0.0-alpha.1-0.100.4-1.21",
@@ -1364,6 +1383,7 @@
 			"8.0.0-alpha.3-0.91.2-1.20.2",
 			"8.0.0-alpha.2-0.91.2-1.20.2",
 			"8.0.0-alpha.1-0.91.2-1.20.2",
+			"7.7.0-0.92.2-1.20.1",
 			"7.6.0-0.92.2-1.20.1",
 			"7.5.0-0.92.2-1.20.1",
 			"7.5.0-0.91.0-1.20.1",

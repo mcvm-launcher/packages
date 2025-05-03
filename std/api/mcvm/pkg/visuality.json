@@ -4,6 +4,20 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.7.10-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/W7vlELm0/visuality-0.7.10%2B1.21.5.jar",
+					"version": "W7vlELm0"
+				},
+				{
 					"content_versions": "0.7.7-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -122,6 +136,42 @@
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/0.4.2/visuality-0.4.2.jar",
 					"version": "LDbM6HWy"
+				},
+				{
+					"content_versions": "0.7.9-1.21.4",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/76p4pDXc/visuality-0.7.9%2B1.21.4.jar",
+					"version": "76p4pDXc"
+				},
+				{
+					"content_versions": "0.7.8-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/Ko9S6AMz/visuality-0.7.8%2B1.21.3.jar",
+					"version": "Ko9S6AMz"
 				},
 				{
 					"content_versions": "0.7.4-1.21",
@@ -522,6 +572,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.7.10-1.21.5",
+			"0.7.9-1.21.4",
+			"0.7.8-1.21.3",
 			"0.7.7-1.21",
 			"0.7.6-1.21",
 			"0.7.5-1.21",
@@ -582,7 +635,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

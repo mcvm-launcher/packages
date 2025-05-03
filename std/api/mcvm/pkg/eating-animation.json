@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.9.73",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rUgZvGzi/versions/Mr1c5IWQ/eating-animation-1.21.3%2B1.9.73.jar",
+					"version": "Mr1c5IWQ"
+				},
+				{
 					"content_versions": "1.9.72",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -231,7 +239,7 @@
 		"description": "A mod that adds sprite animations for edible and drinkable items.",
 		"documentation": "https://github.com/Theoness1/EatingAnimation/wiki/For-texture-packs!",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com//data/rUgZvGzi/icon.gif",
+		"icon": "https://cdn.modrinth.com/data/rUgZvGzi/c2c13c8cfcb2644190baa8435a461c10399b1148_96.webp",
 		"issues": "https://github.com/Theoness1/EatingAnimation/issues",
 		"license": "MIT",
 		"long_description": "**! REQUIRES FABRIC API !**\n\n-\n   **Eating Animation a mod that adds sprite animations for edible and drinkable items.**\n\nMod works in a single player :\n-\n![sin](https://i.imgur.com/pA3iI8d.gif)\n\nAnd in multiplayer! :\n-\n![mult](https://i.imgur.com/lUafo7V.gif)\n\n\n\n- **For mod support to work, you need to enable the resourcepack**\n*(resourcepack already built into minecraft)*\n![supguid](https://i.imgur.com/mkXq5GI.png)\n\n**Supported mods list:**\n<details>\n<summary>Spoiler</summary>\n\n- Food +\n\n- Winterly\n\n- Farmer's Delight\n\n- Botania\n\n- Hybrid Aquatic\n\n- The Bumblezone\n\n- Additional Additions\n\n- Adorn\n\n- BetterEnd\n\n- BetterNether\n\n- Create\n\n- Duckling\n\n- Expanded Delight\n\n- Naturalist\n\n- Snow Pig\n\n</details>\n\n**[My resource pack supports the Eating Animation Mod](https://modrinth.com/resourcepack/theones-items-pack)**\n**<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/VB-fj2ITVYQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>**\n\n**How to animate custom model data**\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/0Ico2DYjiVY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n![wik](https://i.imgur.com/QRjSa1h.png)\n\n**Forge Port** [EatingAnimation [Forge]](https://modrinth.com/mod/eating-animations)\n\n*Big thanks for helping me with the code:* **spusik_, PinkGoosik and DoctorNight1 \\ (•◡•) /**\n\nඞ",
@@ -243,6 +251,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.9.73",
 			"1.9.72",
 			"1.9.71",
 			"1.9.62",
@@ -291,7 +300,9 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3"
 		]
 	}
 }

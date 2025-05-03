@@ -4,12 +4,119 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.2-1.21.1.neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/tNXLlCY0/extra-mod-integrations-all-neoforge-1.0.2%2B1.21.1.jar",
+					"version": "tNXLlCY0"
+				},
+				{
+					"content_versions": "1.0.2-1.21.1.",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/ZYDIdTej/extra-mod-integrations-all-fabric-1.0.2%2B1.21.1.jar",
+					"version": "ZYDIdTej"
+				},
+				{
+					"content_versions": "1.0.1-1.21.1.",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/o9mJcnve/extra-mod-integrations-all-fabric-1.0.1%2B1.21.1.jar",
+					"version": "o9mJcnve"
+				},
+				{
+					"content_versions": "1.0.1-1.21.1.neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/sxnnAXQg/extra-mod-integrations-all-neoforge-1.0.1%2B1.21.1.jar",
+					"version": "sxnnAXQg"
+				},
+				{
+					"content_versions": "1.0.0-1.21.1.",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/d5p7j8TM/extra-mod-integrations-all-fabric-1.0.0%2B1.21.1.jar",
+					"version": "d5p7j8TM"
+				},
+				{
+					"content_versions": "1.0.0-1.21.1.neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "emi"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/thKvgaKO/extra-mod-integrations-all-neoforge-1.0.0%2B1.21.1.jar",
+					"version": "thKvgaKO"
+				},
+				{
+					"content_versions": "0.4.7-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/V1QbMdYW/extra-mod-integrations-0.4.7%2B1.20.1.jar",
+					"version": "V1QbMdYW"
+				},
+				{
 					"content_versions": "0.4.6-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/IobIopQf/extra-mod-integrations-0.4.6%2B1.20.1.jar",
 					"version": "IobIopQf"
@@ -21,6 +128,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/3MNWOVKW/extra-mod-integrations-0.4.5%2B1.20.1.jar",
 					"version": "3MNWOVKW"
@@ -32,6 +145,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/kTtFhI1L/extra-mod-integrations-0.4.4%2B1.20.1.jar",
 					"version": "kTtFhI1L"
@@ -43,6 +162,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/YSn9Of5z/extra-mod-integrations-0.4.3%2B1.20.1.jar",
 					"version": "YSn9Of5z"
@@ -54,6 +179,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/InD7xPaR/extra-mod-integrations-0.4.2%2B1.20.1.jar",
 					"version": "InD7xPaR"
@@ -65,6 +196,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/juXS5CaW/extra-mod-integrations-0.4.1%2B1.20.1.jar",
 					"version": "juXS5CaW"
@@ -76,6 +213,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/OH8w3wQs/extra-mod-integrations-0.4.0%2B1.20.1.jar",
 					"version": "OH8w3wQs"
@@ -91,6 +234,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/PonhJfmU/extra-mod-integrations-0.1.2%2B1.19.2.jar",
 					"version": "PonhJfmU"
@@ -102,6 +251,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/O2NqCpFM/extra-mod-integrations-0.0.3%2B1.18.2.jar",
 					"version": "O2NqCpFM"
@@ -113,6 +268,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/c0TRVjro/extra-mod-integrations-0.3.0%2B1.19.4.jar",
 					"version": "c0TRVjro"
@@ -124,6 +285,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/cidyrqss/extra-mod-integrations-0.2.0%2B1.19.3.jar",
 					"version": "cidyrqss"
@@ -135,6 +302,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/IH4rYB6v/extra-mod-integrations-0.0.2%2B1.18.2.jar",
 					"version": "IH4rYB6v"
@@ -150,6 +323,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/MIE6CJpz/extra-mod-integrations-0.1.1%2B1.19.2.jar",
 					"version": "MIE6CJpz"
@@ -161,6 +340,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/JjBDui5l/extra-mod-integrations-0.0.1%2B1.18.2.jar",
 					"version": "JjBDui5l"
@@ -176,6 +361,12 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": [
+							"emi",
+							"fabriclike-api"
+						]
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/bpRHnWUb/versions/zkXM1MQ0/extra-mod-integrations-0.1.0%2B1.19.2.jar",
 					"version": "zkXM1MQ0"
@@ -192,13 +383,13 @@
 		"community": "https://discord.gg/6vgpHcKmxg",
 		"description": "EMI addon adding support for as many mods as possible",
 		"gallery": [
-			"https://cdn.modrinth.com/data/bpRHnWUb/images/274b2566e63966a9cd6554b98352fab1874a00cd.png",
-			"https://cdn.modrinth.com/data/bpRHnWUb/images/4909b816de6dbd612a821e0a54e0460914cb6fb4.png"
+			"https://cdn.modrinth.com/data/bpRHnWUb/images/274b2566e63966a9cd6554b98352fab1874a00cd_350.webp",
+			"https://cdn.modrinth.com/data/bpRHnWUb/images/9d219cbf41551e36a1b1ac48a622591154658af2_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/bpRHnWUb/9add5839ec6212d291da16c50e6fd7327e993b2c.png",
 		"issues": "https://github.com/Kneelawk/extra-mod-integrations/issues",
 		"license": "MIT",
-		"long_description": "# Extra Mod Integrations\n\nThis mod is an addon for the powerful, new recipe viewer [EMI]. This addon adds support for viewing the listed mods' recipes in EMI, including in the EMI Recipe Tree. This addon is still under construction and support for more mods is planned!\n\n[EMI]: https://modrinth.com/mod/emi\n\n## Supported Mods\n\n| Mod                   | Support | Notes                                                                                        |\n|-----------------------|:-------:|----------------------------------------------------------------------------------------------|\n| Tech Reborn           |    ✅   | Added in `v0.1.0`                                                                            |\n| Advanced Reborn       |    🔲   |                                                                                              |\n| Industrial Revolution |    ✅   | Added in `v0.1.2`                                                                            |\n| Extra Generators      |    ⁇   |                                                                                              |\n| Hephaestus            |    ✅   | Added in `0.4.3`                                                                             |\n| Farmers' Delight      |    ✅   | Added in `0.4.1`                                                                             |\n| Conjuring             |    ✅   | Added in `0.4.1`                                                                             |\n| Applied Energistics 2 |    🚧   | Support incomplete. Added in `0.4.2`. Does not support AE terminals. See [AE2 EMI Crafting]. |\n| Dimensional Doors     |    ✅   | Added in `0.4.5`                                                                             |\n\n✅: Support Completed<br>\n🚧: Support In Progress<br>\n🔲: Support Planned<br>\n⁇: Maybe Support Eventually<br>\n❌: Not Supported<br>\n\n[AE2 EMI Crafting]: https://modrinth.com/mod/ae2-emi-crafting\n\n## Screenshots\n\n![Quantum Armor Recipe Tree](https://raw.githubusercontent.com/Kneelawk/extra-mod-integrations/1.20.1/screenshots/qarmor-recipe-tree.png)\n\n![Fusion Reactor Recipes](https://raw.githubusercontent.com/Kneelawk/extra-mod-integrations/1.20.1/screenshots/fusion-recipes.png)\n\n![Entity Melting Recipes](https://raw.githubusercontent.com/Kneelawk/extra-mod-integrations/1.20.1/screenshots/entity-melting.png)\n\n## License\n\nThis mod is licensed under the [CC0] License. This means you can do pretty much whet ever you want with it, including\nadding it to your modpacks, or using its code or assets in your mod.\n\n[CC0]: https://creativecommons.org/publicdomain/zero/1.0/\n",
+		"long_description": "# Extra Mod Integrations\n\nThis mod is an addon for the powerful, new recipe viewer [EMI]. This addon adds support for viewing the listed mods'\nrecipes in EMI, including in the EMI Recipe Tree. This addon is still under construction and support for more mods is\nplanned!\n\n[EMI]: https://modrinth.com/mod/emi\n\n## Supported Mods\n\n| Mod                         | Support | Notes                                                             |\n|-----------------------------|:-------:|-------------------------------------------------------------------|\n| Actually Additions          |    ✅    | NeoForge only, v1.0+ only                                         |\n| Chipped                     |    ✅    | Fabric & NeoForge, v1.0+ only                                     |\n| Farmer's Delight            |    ✅    | NeoForge only (Fabric version has native EMI support), v1.0+ only |\n| Iron's Spells 'n Spellbooks |    ✅    | NeoForge only, v1.0+ only                                         |\n| PneumaticCraft              |    ✅    | NeoForge only, v1.0+ only                                         |\n| Rechiseled                  |    ✅    | Fabric & NeoForge, v1.0+ only                                     |\n| Reliquary                   |    ✅    | NeoForge only, v1.0+ only                                         |\n| Tech Reborn                 |    ✅    | Fabric only                                                       |\n\n✅: Support Completed<br>\n🚧: Support In Progress<br>\n🔲: Support Planned<br>\n⁇: Maybe Support Eventually<br>\n❌: Not Supported<br>\n\n[AE2 EMI Crafting]: https://modrinth.com/mod/ae2-emi-crafting\n\n## Screenshots\n\n![Quantum Armor Recipe Tree](https://raw.githubusercontent.com/Kneelawk/extra-mod-integrations/1.20.1/screenshots/qarmor-recipe-tree.png)\n\n![Fusion Reactor Recipes](https://raw.githubusercontent.com/Kneelawk/extra-mod-integrations/1.20.1/screenshots/fusion-recipes.png)\n\n![Entity Melting Recipes](https://raw.githubusercontent.com/Kneelawk/extra-mod-integrations/1.20.1/screenshots/entity-melting.png)\n\n## License\n\nThis mod is licensed under the [CC0] License. This means you can do pretty much whet ever you want with it, including\nadding it to your modpacks, or using its code or assets in your mod.\n\n[CC0]: https://creativecommons.org/publicdomain/zero/1.0/\n",
 		"name": "EMI Addon: Extra Mod Integrations",
 		"package_maintainers": [
 			"mcvm"
@@ -208,6 +399,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.2-1.21.1.",
+			"1.0.2-1.21.1.neo",
+			"1.0.1-1.21.1.",
+			"1.0.1-1.21.1.neo",
+			"1.0.0-1.21.1.",
+			"1.0.0-1.21.1.neo",
+			"0.4.7-1.20.1",
 			"0.4.6-1.20.1",
 			"0.4.5-1.20.1",
 			"0.4.4-1.20.1",
@@ -238,13 +436,8 @@
 			"1.19.2",
 			"1.19.3",
 			"1.19.4",
-			"1.20.1"
-		]
-	},
-	"relations": {
-		"dependencies": [
-			"emi",
-			"fabriclike-api"
+			"1.20.1",
+			"1.21.1"
 		]
 	}
 }

@@ -4,6 +4,62 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.5.12-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/MjstdyLD/MoreChestVariants-1.5.12%2B1.21.5-Fabric.jar",
+					"version": "MjstdyLD"
+				},
+				{
+					"content_versions": "1.5.11-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/tpVlB73U/MoreChestVariants-1.5.11%2B1.21.4-Fabric.jar",
+					"version": "tpVlB73U"
+				},
+				{
+					"content_versions": "1.5.10-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/ovJuA36e/MoreChestVariants-1.5.10%2B1.21.4-Fabric.jar",
+					"version": "ovJuA36e"
+				},
+				{
+					"content_versions": "1.5.9-1.21.1-Neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "quad"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/HKKqmr2p/versions/H9TwIeCP/MoreChestVariants-1.5.9%2B1.21.1-Neo.jar",
+					"version": "H9TwIeCP"
+				},
+				{
 					"content_versions": "1.5.8-1.21-Neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -960,16 +1016,16 @@
 		"authors": [
 			"LieOnLion"
 		],
-		"banner": "https://cdn.modrinth.com/data/HKKqmr2p/images/7d968aea0d593d0c1756ed3695a1a4bf4262205f.png",
+		"banner": "https://cdn.modrinth.com/data/HKKqmr2p/images/d490a4c394cfa0f3d48b136a0a7a5fe1938a5421_350.webp",
 		"community": "https://discord.com/invite/sA42pp6cuX",
 		"description": "Chests for all the different woods",
 		"gallery": [
-			"https://cdn.modrinth.com/data/HKKqmr2p/images/7d968aea0d593d0c1756ed3695a1a4bf4262205f.png"
+			"https://cdn.modrinth.com/data/HKKqmr2p/images/d490a4c394cfa0f3d48b136a0a7a5fe1938a5421_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/HKKqmr2p/663d27b2efc202200ff2270f4edee28eaa3bfa04.gif",
+		"icon": "https://cdn.modrinth.com/data/HKKqmr2p/fe6e2ff8cf06672daf4df31f4f37698a35431545_96.webp",
 		"issues": "https://github.com/LieOnLion/More-Chest-Variants/issues",
 		"license": "MIT",
-		"long_description": "![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/mod-titles/more-chest-variants.png)\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/strip/lol.png)\n\n[![discord](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/discord.svg)](https://discord.com/invite/sA42pp6cuX)\n[![youtube](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/youtube.svg)](https://www.youtube.com/@lieonlion?sub_confirmation=1)\n[![github](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/github.svg)](https://github.com/LieOnLion/More-Chest-Variants)\n[![modrinth](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/modrinth.svg)](https://modrinth.com/user/LieOnLion)\n[![curseforge](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/curseforge.svg)](https://www.curseforge.com/members/lieonlion)\n[![patreon](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/patreon.svg)](https://www.patreon.com/LieOnLion)\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/strip/lol.png)\n\n[![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/a-creation-by-lieon-studio.svg)](https://modrinth.com/organization/lieon-studios)\n[![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/featured-in-aof7.svg)](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-7)\n[![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/requires-quad.svg)](https://modrinth.com/mod/quad)\n\n***\n\n## uBlock\n**With recent actions from uBlock Origin, they are now blocking Mod/Modpack developers banners leading to server hosting websites. These, in a sense, are no different to Youtubers having promo links in their descriptions.**\n\n**On top of this, team members have been rude to us, deleting comments on genuine concern or questions and calling us mod devs a \"moronic team\".**\n\n**So this is a message to uBlock, this is a losing battle, we will find ways to get past this. If we don't, many of us might need to start baking ads into our mods, and no one wants that.\nIf you are currently using uBlock, please turn it off for Modrinth and Curseforge so we mod devs can continue releasing *free* quality content**\n\n**also #tryBlockingThis and waste even more time**\n\n***\n\n### Adding the much-needed More Chest Variants. \nFill your builds with colourful storage now each wood type now has its own chest. Unique designs now to not let the default chest ruin your style.\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/banners/mcv/vanillaChests.png)\n\n### Adding 11 new chests to minecraft in the most vanilla way possible.\n\nWith Quad support adding:\n- Chests can be burt for fuel in a furnace (excluding nether woods)\n- Nether wood chests being immune to fire/lava\n- Any chest being usable in vanilla recipes (e.g. Hoppers)\n\n## Star Wars day\n\nMore Chest Variants was released on 4th May 2023. For this reason, from May 3rd to May 5th special Star Wars textures will be rendered on your chests. May the 4th be with you all.\n\n## [Chested Companions](https://www.curseforge.com/minecraft/mc-mods/chested-companions)\n\nDo you want your pets to carry arround little chests? Well now with [Chested Companions](https://www.curseforge.com/minecraft/mc-mods/chested-companions) and More Chest Variants support, they can carry chests from your favourite wood type!\n\n## First Year\n\nMore Chest Variants has now hit 1 years old on 4th May 2024. In this 1st year, it has reached 282k downloads on Curseforge and 93k on Modrinth, with a total of 375k downloads :O. With also getting in [AOF7](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-7)\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/strip/lol.png)\n\n[**![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/banners/bisect-banner-spruce-chest.png)**](https://lieonlion.github.io/link-redirect/)",
+		"long_description": "![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/mod-titles/more-chest-variants.png)\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/strip/lol.png)\n\n[![discord](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/discord.svg)](https://discord.com/invite/sA42pp6cuX)\n[![youtube](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/youtube.svg)](https://www.youtube.com/@lieonlion?sub_confirmation=1)\n[![github](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/github.svg)](https://github.com/LieOnLion/More-Chest-Variants)\n[![modrinth](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/modrinth.svg)](https://modrinth.com/user/LieOnLion)\n[![curseforge](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/curseforge.svg)](https://www.curseforge.com/members/lieonlion)\n[![patreon](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/buttons/patreon.svg)](https://www.patreon.com/LieOnLion)\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/strip/lol.png)\n\n[![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/a-creation-by-lieon-studio.svg)](https://modrinth.com/organization/lieonstudios)\n[![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/featured-in-aof7.svg)](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-7)\n[![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/badges/requires-quad.svg)](https://modrinth.com/mod/quad)\n\n### Adding the much-needed More Chest Variants. \nFill your builds with colourful storage now each wood type now has its own chest. Unique designs now to not let the default chest ruin your style.\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/banners/mcv/vanillaChests.png)\n\n### Adding 11 new chests to minecraft in the most vanilla way possible.\n\nWith **Quad** support adding:\n- Chests can be burnt for fuel in a furnace (excluding nether woods)\n- Nether wood chests being immune to fire/lava\n- Any chest being usable in vanilla recipes (e.g. Hoppers)\n- **Coming Soon** - Chest generating in natural structures (Quad 1.3.0-beta.1 and above)\n\n## Star Wars day\n\nMore Chest Variants was released on 4th May 2023. For this reason, from May 3rd to May 5th special Star Wars textures will be rendered on your chests. May the 4th be with you all.\n\n## [Chested Companions](https://www.curseforge.com/minecraft/mc-mods/chested-companions)\n\nDo you want your pets to carry arround little chests? Well now with [Chested Companions](https://www.curseforge.com/minecraft/mc-mods/chested-companions) and More Chest Variants support, they can carry chests from your favourite wood type!\n\n## First Year\n\nMore Chest Variants has now hit 1 years old on 4th May 2024. In this 1st year, it has reached 282k downloads on Curseforge and 93k on Modrinth, with a total of **375k** downloads :O. With also getting in [AOF7](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-7).\n\n![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/strip/lol.png)\n\n[**![](https://raw.githubusercontent.com/LieOnLion/LieOnLion/main/images/banners/bisect-banner-spruce-chest.png)**](https://lieonlion.github.io/link-redirect/)",
 		"name": "More Chests Variants (MCV)",
 		"package_maintainers": [
 			"mcvm"
@@ -979,6 +1035,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.5.12-1.21.5",
+			"1.5.11-1.21.4",
+			"1.5.10-1.21.4",
+			"1.5.9-1.21.1-Neo",
 			"1.5.8-1.21-Neo",
 			"1.5.8-1.20.6-Neo",
 			"1.5.7-1.21-Neo",
@@ -1045,7 +1105,10 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

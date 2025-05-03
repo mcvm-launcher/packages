@@ -37,6 +37,104 @@
 					"version": "XNoZrlnx"
 				},
 				{
+					"content_versions": "neo-1.21.1-1.4.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/k3vtnT8F/createaddition-1.4.2.jar",
+					"version": "k3vtnT8F"
+				},
+				{
+					"content_versions": "neo-1.21.1-1.4.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/94nPrXZX/createaddition-1.4.1.jar",
+					"version": "94nPrXZX"
+				},
+				{
+					"content_versions": "neo-1.4.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/WI7xXjbx/createaddition-1.4.0.jar",
+					"version": "WI7xXjbx"
+				},
+				{
+					"content_versions": "1.20.1-1.3.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/SecVSw22/createaddition-1.20.1-1.3.1.jar",
+					"version": "SecVSw22"
+				},
+				{
+					"content_versions": "1.20.1-1.3.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/wD9umcpu/createaddition-1.20.1-1.3.0.jar",
+					"version": "wD9umcpu"
+				},
+				{
+					"content_versions": "1.20.1-1.2.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/VTTLcYWM/createaddition-1.20.1-1.2.5.jar",
+					"version": "VTTLcYWM"
+				},
+				{
+					"content_versions": "1.20.1-1.2.4e",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/4DW3pAsX/createaddition-1.20.1-1.2.4e.jar",
+					"version": "4DW3pAsX"
+				},
+				{
 					"content_versions": "1.20.1-1.2.4d",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -493,7 +591,7 @@
 		"gallery": [
 			"https://cdn.modrinth.com/data/kU1G12Nn/images/cf8302e146a4073891eb5355e1b11380a6a8098d.png"
 		],
-		"icon": "https://cdn.modrinth.com/data/kU1G12Nn/543e9fba168a8a5fc24764d79ad42f872aaf1920.png",
+		"icon": "https://cdn.modrinth.com/data/kU1G12Nn/d8d1ec226747a800ba175f70ad00a80f37047cb6_96.webp",
 		"issues": "https://github.com/mrh0/createaddition/issues",
 		"license": "MIT",
 		"long_description": "# Create Crafts & Additions\n### For Minecraft Forge 1.15.2, 1.16.4/5, 1.17.1, 1.18.1/2, 1.19.2, and 1.20.1\nThanks to community contributions, now also for Fabric 1.18.2, and 1.19.2\nWarning! Please note that the Fabric build is currently not actively maintained!\n\n### Also, check out:\n- Builders Crafts & Additions!\n- Beekeeping!\n\n### Community Discord for CC&A:\n[https://discord.gg/mRbNnyKTEu](https://discord.gg/mRbNnyKTEu)\n\n## About:\nCreate Crafts & Additions extends Create and acts as a bridge between electricity and kinetic energy from Create by adding an Electric Motor which generates kinetic energy from Forge energy and an Alternator which does the opposite at 75% efficiency. To craft these items you need to make a Rolling Mill which is a kinetic machine that is used to make rods and wires. All the recipes are available through JEI.\n\n## Content:\n- Electric Motor: Generates kinetic energy from Forge Energy, provides a ComputerCraft peripheral.\n- Alternator: Generates Forge Energy from kinetic energy.\n- Rolling Mill: Used to craft Wires and Rods.\n- Creative Generator: Generates a limitless supply of Forge Energy.\n- Connector & Wires: Wires for energy transfer.\n- Redstone Relay: Controls energy flow with Redstone.\n- Accumulator: Multiblock energy storage.\n- Portable Energy Interface: Transfer energy to and from contraptions.\n- Tesla Coil: Charges electric items, and can also be used to inflict damage to Players and Mobs.\n- Digital Adapter: Allows Computercraft computers to talk to various Create blocks (See API).\n- Biomass: Pellet, Fuel.\n- Chocolate and Honey Cake.\n- Diamond Grit Sandpaper.\n- Straw: Applied to a Blaze Burner will give it the ability to burn liquid fuels.\n- Barbed Wire block.\n- Biomass, Biomass Pellet, Sead Oil, and Bioethanol.\n- Various wires, rods, spools, and other crafting components.\n\n### Legacy Features:\n- Induction Heater (Removed in 20220710a): Heats furnaces using Forge Energy (Replaces External Heater from Immersive Engineering).\n- Charging Station (Removed in 20211122a): Charges electric items.\n- Furnace Burner (Removed in 20220709a): Furnace which doesn't require a smelting recipe to run.\n- Crude Burner (Removed in 20220709a): A Furnace Burner that is fueled by liquids such as Seed, Plant, Crude, and Creosote Oil.\n- Accumulator (Replaced with multiblock): Energy storage.\n- Overcharged Hammer: A powerful throwable melee weapon (only in 1.16).\n- Multimeter  (only in 1.16).\n\n### Added Compatibility & Integration:\n- Recipe compatibility with Simple Jetpacks 2 (Electric Jetpacks).\n- Recipe compatibility with Immersive Engineering (External Heater, Lapis Sheet pressing, Sphalerite mineral deposit, Alloys, Treated Wood).\n- Recipe compatibility with Mekanism (Rose Quartz Enriching & Metallurgic Infusing).\n- Recipe compatibility with Tinkers Construct (Alloys).\n- Recipe compatibility with Applied Energistics 2, the Tesla Coil can be used to charge Certus Quartz.\n- Integration with ComputerCraft, the Electric Motor, and more can be used as a peripheral (See API).\n\n## FAQ:\n- What is the recipe for X? - Use JEI to see the current recipes.\n- Can I use this in a modpack? - Yes, distributed with credits to the source on GitHub (Which an unmodified release has), and in accordance with the MIT license.\n- I found a bug, what do I do? - Create an issue on my GitHub page by clicking the Issues tab above or leave a comment below, please always provide, the Forge version, Create version, and Create Crafts & Additions version and a log in the event of a crash.\n- I have a suggestion, where can I be heard? - Create an issue on my GitHub page by clicking the Issues tab above or put it on Discord.\n- Can I create a language translation? - Yes, get the current translation on my Github and then create a pull request to submit your translation.\n\n## Translations:\n- en_us, sv_se\n- ko_kr thanks to KyleHeren\n- es_es thanks to FrannDzs, Authoralbertosaurio65\n- pt_br thanks to Mikeliro (outdated)\n- zh_cn thanks to liuseniubi\n- ru_ru thanks to sashafiesta, Cheeese\n- de_de thanks to Knalli65 HD\n- ja_jp thanks to CkenJa\nCredits:\nFabric port thanks to thatguynamedalpha, Fluffy Bumblebee.\n1.15 Backport thanks to LobsterJonn (outdated)\nNew item sprites by THEREDSTONEBRO.\nLogo by Facunditto",
@@ -506,7 +604,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.20.1-1.3.1",
+			"1.20.1-1.3.0",
+			"1.20.1-1.2.5",
 			"1.20.1-1.2.4",
+			"1.20.1-1.2.4e",
 			"1.20.1-1.2.4d",
 			"1.20.1-1.2.4c",
 			"1.20.1-1.2.4b",
@@ -541,7 +643,10 @@
 			"-1.18.2-20230426a",
 			"-1.18.2-20230411a",
 			"-1.18.2-20230211a",
-			"1.18.2-1.0.0"
+			"1.18.2-1.0.0",
+			"neo-1.21.1-1.4.2",
+			"neo-1.21.1-1.4.1",
+			"neo-1.4.0-1.21.1"
 		],
 		"modrinth_id": "kU1G12Nn",
 		"supported_modloaders": [
@@ -555,7 +660,7 @@
 			"1.18.2",
 			"1.19.2",
 			"1.20.1",
-			"1.20.2"
+			"1.21.1"
 		]
 	}
 }

@@ -4,6 +4,107 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.5-1.12",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/lQ3JGwIv/modelfix-1.21.5-1.12.jar",
+					"version": "lQ3JGwIv"
+				},
+				{
+					"content_versions": "1.21.5-1.12",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/WcDxGReS/modelfix-1.21.5-1.12-fabric.jar",
+					"version": "WcDxGReS"
+				},
+				{
+					"content_versions": "1.21.5-1.12",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/uAVKgiJR/modelfix-1.21.5-1.12.jar",
+					"version": "uAVKgiJR"
+				},
+				{
+					"content_versions": "1.21.5-1.12",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/Thqn8UQh/modelfix-1.21.5-1.12-fabric.jar",
+					"version": "Thqn8UQh"
+				},
+				{
+					"content_versions": "1.21.3-1.11",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/tgaRyAbD/modelfix-1.21.3-1.11.jar",
+					"version": "tgaRyAbD"
+				},
+				{
+					"content_versions": "1.21.3-1.10",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/h47zwBfZ/modelfix-1.21.3-1.10-fabric.jar",
+					"version": "h47zwBfZ"
+				},
+				{
+					"content_versions": "1.21.3-1.10",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/qZtmLtKR/modelfix-1.21.3-1.10.jar",
+					"version": "qZtmLtKR"
+				},
+				{
+					"content_versions": "1.21-1.10",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar",
+					"version": "X2U8ceG9"
+				},
+				{
+					"content_versions": "1.21-1.9",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/Q9L2TePN/modelfix-1.21-1.9.jar",
+					"version": "Q9L2TePN"
+				},
+				{
+					"content_versions": "1.21-1.8",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/9fHBXiaj/modelfix-1.21-1.8.jar",
+					"version": "9fHBXiaj"
+				},
+				{
 					"content_versions": "1.21-1.6",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -199,6 +300,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.5-1.12",
+			"1.21.3-1.11",
+			"1.21.3-1.10",
+			"1.21-1.10",
+			"1.21-1.9",
+			"1.21-1.8",
 			"1.21-1.6",
 			"1.15",
 			"1.14",
@@ -229,7 +336,11 @@
 			"1.20.1",
 			"1.20.3",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

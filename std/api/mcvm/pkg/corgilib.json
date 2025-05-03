@@ -4,7 +4,227 @@
 			"kind": "mod",
 			"versions": [
 				{
-					"content_versions": "4.0.2.0",
+					"content_versions": "1.21.4-6.0.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/WZ5EDEhZ/Corgilib-Fabric-1.21.4-6.0.0.0.jar",
+					"version": "WZ5EDEhZ"
+				},
+				{
+					"content_versions": "1.21.4-6.0.0.0-Neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/rmLuzTFd/Corgilib-NeoForge-1.21.4-6.0.0.0.jar",
+					"version": "rmLuzTFd"
+				},
+				{
+					"content_versions": "1.21.4-6.0.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/6QJqMNX6/Corgilib-Forge-1.21.4-6.0.0.0.jar",
+					"version": "6QJqMNX6"
+				},
+				{
+					"content_versions": "1.21.1-5.0.0.3-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/69UDOQnE/Corgilib-NeoForge-1.21.1-5.0.0.3.jar",
+					"version": "69UDOQnE"
+				},
+				{
+					"content_versions": "1.21.1-5.0.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/JCOOSJBb/Corgilib-Forge-1.21.1-5.0.0.3.jar",
+					"version": "JCOOSJBb"
+				},
+				{
+					"content_versions": "1.21.1-5.0.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/F8Qpytbx/Corgilib-Fabric-1.21.1-5.0.0.3.jar",
+					"version": "F8Qpytbx"
+				},
+				{
+					"content_versions": "1.20.1-4.0.3.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/Vu79GVBm/Corgilib-Forge-1.20.1-4.0.3.3.jar",
+					"version": "Vu79GVBm"
+				},
+				{
+					"content_versions": "1.20.1-4.0.3.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/Gnum5EJm/Corgilib-Fabric-1.20.1-4.0.3.3.jar",
+					"version": "Gnum5EJm"
+				},
+				{
+					"content_versions": "1.21.1-5.0.0.2-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/d53JbW2S/Corgilib-NeoForge-1.21.1-5.0.0.2.jar",
+					"version": "d53JbW2S"
+				},
+				{
+					"content_versions": "1.21.1-5.0.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/ojJLKRIl/Corgilib-Forge-1.21.1-5.0.0.2.jar",
+					"version": "ojJLKRIl"
+				},
+				{
+					"content_versions": "1.21.1-5.0.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/5eNAyr5h/Corgilib-Fabric-1.21.1-5.0.0.2.jar",
+					"version": "5eNAyr5h"
+				},
+				{
+					"content_versions": "1.20.1-4.0.3.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/RE7m8W42/Corgilib-Forge-1.20.1-4.0.3.2.jar",
+					"version": "RE7m8W42"
+				},
+				{
+					"content_versions": "1.20.1-4.0.3.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/CtEbg5dY/Corgilib-Fabric-1.20.1-4.0.3.2.jar",
+					"version": "CtEbg5dY"
+				},
+				{
+					"content_versions": "1.21.1-5.0.0.1-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/QWtmKNAu/Corgilib-NeoForge-1.21.1-5.0.0.1.jar",
+					"version": "QWtmKNAu"
+				},
+				{
+					"content_versions": "1.21.1-5.0.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/b8mrYTp2/Corgilib-Forge-1.21.1-5.0.0.1.jar",
+					"version": "b8mrYTp2"
+				},
+				{
+					"content_versions": "1.21.1-5.0.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/XsJ3PWeY/Corgilib-Fabric-1.21.1-5.0.0.1.jar",
+					"version": "XsJ3PWeY"
+				},
+				{
+					"content_versions": "1.20.1-4.0.3.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/qqiyBjTC/Corgilib-Fabric-1.20.1-4.0.3.1.jar",
+					"version": "qqiyBjTC"
+				},
+				{
+					"content_versions": "1.20.1-4.0.3.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/Yqj1EXvL/Corgilib-Forge-1.20.1-4.0.3.1.jar",
+					"version": "Yqj1EXvL"
+				},
+				{
+					"content_versions": "1.20.1-4.0.3.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/dhFhhZbu/Corgilib-Fabric-1.20.1-4.0.3.0.jar",
+					"version": "dhFhhZbu"
+				},
+				{
+					"content_versions": "1.20.1-4.0.3.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/h6OcIaNc/Corgilib-Forge-1.20.1-4.0.3.0.jar",
+					"version": "h6OcIaNc"
+				},
+				{
+					"content_versions": "1.20.1-4.0.2.0",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
 						"fabriclike",
@@ -14,8 +234,19 @@
 						"dependencies": "fabriclike-api"
 					},
 					"stability": "latest",
-					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/I3mHWD58/corgilib-fabric-1.20.1-4.0.2.0.jar",
-					"version": "I3mHWD58"
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/IvDwZPb0/corgilib-fabric-1.20.1-4.0.2.0.jar",
+					"version": "IvDwZPb0"
+				},
+				{
+					"content_versions": "1.20.1-4.0.2.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/4aaJIxlh/corgilib-forge-1.20.1-4.0.2.0.jar",
+					"version": "4aaJIxlh"
 				},
 				{
 					"content_versions": "4.0.2.0",
@@ -781,7 +1012,7 @@
 		],
 		"description": "A library mod containing code used across Corgi Taco's mods.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/ziOp6EO8/b964b11f110e660f9818aa2870499cd076b82a8a.png",
+		"icon": "https://cdn.modrinth.com/data/ziOp6EO8/46be0599bd15d6eff8c6da814b28700dc53a3eb7_96.webp",
 		"issues": "https://github.com/CorgiTaco/CorgiLib/issues",
 		"license": "LGPL-3.0-only",
 		"long_description": "This is a mod containing code used in Corgi Taco's mods including the following helpful features:\n\n- `.json5` Config Serialization with Mojang's codecs. Commented json files.\n\n- Commented Codecs.\n\n- Trees from NBT feature.\n\n- Blending/Easing Functions codec registry for easy codec config serialization.\n\n- Entity Filters.\n\n- Villager trade codec registry for easy codec config serialization.",
@@ -794,6 +1025,19 @@
 	"properties": {
 		"content_versions": [
 			"4.0.2.0",
+			"1.21.4-6.0.0.0",
+			"1.21.4-6.0.0.0-Neo",
+			"1.21.1-5.0.0.3",
+			"1.21.1-5.0.0.3-Neo",
+			"1.21.1-5.0.0.2",
+			"1.21.1-5.0.0.2-Neo",
+			"1.21.1-5.0.0.1",
+			"1.21.1-5.0.0.1-Neo",
+			"1.20.1-4.0.3.3",
+			"1.20.1-4.0.3.2",
+			"1.20.1-4.0.3.1",
+			"1.20.1-4.0.3.0",
+			"1.20.1-4.0.2.0",
 			"1.20.1-4.0.1.3",
 			"1.20.1-4.0.1.2",
 			"1.20.1-4.0.1.1",
@@ -853,7 +1097,9 @@
 			"1.19.2",
 			"1.19.3",
 			"1.19.4",
-			"1.20.1"
+			"1.20.1",
+			"1.21.1",
+			"1.21.4"
 		]
 	}
 }

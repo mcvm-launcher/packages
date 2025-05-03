@@ -4,6 +4,213 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.4-5.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/jPsIaxuA/YungsBetterStrongholds-1.21.4-Fabric-5.4.0.jar",
+					"version": "jPsIaxuA"
+				},
+				{
+					"content_versions": "1.21.4-Neo-5.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/jCEcgyYA/YungsBetterStrongholds-1.21.4-NeoForge-5.4.0.jar",
+					"version": "jCEcgyYA"
+				},
+				{
+					"content_versions": "1.21.1-5.1.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/uYZShp1p/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+					"version": "uYZShp1p"
+				},
+				{
+					"content_versions": "1.21.1-Neo-5.1.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/8U0dIfSM/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+					"version": "8U0dIfSM"
+				},
+				{
+					"content_versions": "1.21.1-5.1.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/c0W8r0up/YungsBetterStrongholds-1.21.1-Forge-5.1.3.jar",
+					"version": "c0W8r0up"
+				},
+				{
+					"content_versions": "1.21.1-5.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/mPpbOC9S/YungsBetterStrongholds-1.21.1-Fabric-5.1.2.jar",
+					"version": "mPpbOC9S"
+				},
+				{
+					"content_versions": "1.21.1-Neo-5.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/Vq5mh4Ot/YungsBetterStrongholds-1.21.1-NeoForge-5.1.2.jar",
+					"version": "Vq5mh4Ot"
+				},
+				{
+					"content_versions": "1.21.1-5.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/Obu9j1Gb/YungsBetterStrongholds-1.21.1-Forge-5.1.2.jar",
+					"version": "Obu9j1Gb"
+				},
+				{
+					"content_versions": "1.21.1-5.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/etOyue7V/YungsBetterStrongholds-1.21.1-Fabric-5.1.1.jar",
+					"version": "etOyue7V"
+				},
+				{
+					"content_versions": "1.21.1-Neo-5.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/iYcIMEyR/YungsBetterStrongholds-1.21.1-NeoForge-5.1.1.jar",
+					"version": "iYcIMEyR"
+				},
+				{
+					"content_versions": "1.21.1-5.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/VEaeaYpM/YungsBetterStrongholds-1.21.1-Forge-5.1.1.jar",
+					"version": "VEaeaYpM"
+				},
+				{
+					"content_versions": "1.21.1-Neo-5.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/vCpjpgcD/YungsBetterStrongholds-1.21.1-NeoForge-5.1.0.jar",
+					"version": "vCpjpgcD"
+				},
+				{
+					"content_versions": "1.21.1-5.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/5jFtA2mx/YungsBetterStrongholds-1.21.1-Forge-5.1.0.jar",
+					"version": "5jFtA2mx"
+				},
+				{
+					"content_versions": "1.21.1-5.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/2jdAGxkZ/YungsBetterStrongholds-1.21.1-Fabric-5.1.0.jar",
+					"version": "2jdAGxkZ"
+				},
+				{
 					"content_versions": "1.20.4-4.4.3",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -329,26 +536,26 @@
 			"Drullkus",
 			"YUNGNICKYOUNG"
 		],
-		"banner": "https://cdn.modrinth.com/data/kidLKymU/images/dea5e5a5f1422dfa68a90c35e873fe988782552d.png",
+		"banner": "https://cdn.modrinth.com/data/kidLKymU/images/8c0bd0448a8e3ebf0abb741b225e19dd46b82dad_350.webp",
 		"categories": [
 			"worldgen"
 		],
 		"community": "https://discord.gg/rns3beq",
 		"description": "A complete redesign of Minecraft's strongholds!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/kidLKymU/images/050aa0d8f566091b387eb44817f40d59808a9a25.png",
-			"https://cdn.modrinth.com/data/kidLKymU/images/50ee9e455a7a61cdb4652e5922ffaa573e33e377.png",
-			"https://cdn.modrinth.com/data/kidLKymU/images/b9781f7c78d89a5d4d34a41b9636055cf251800c.png",
-			"https://cdn.modrinth.com/data/kidLKymU/images/dea5e5a5f1422dfa68a90c35e873fe988782552d.png",
-			"https://cdn.modrinth.com/data/kidLKymU/images/fd07e825b22e252f5d6f52db53461d97b4e3362e.png"
+			"https://cdn.modrinth.com/data/kidLKymU/images/050aa0d8f566091b387eb44817f40d59808a9a25_350.webp",
+			"https://cdn.modrinth.com/data/kidLKymU/images/50ee9e455a7a61cdb4652e5922ffaa573e33e377_350.webp",
+			"https://cdn.modrinth.com/data/kidLKymU/images/7848b93348eb9a21cf90d2e643c526b9b7712c09_350.webp",
+			"https://cdn.modrinth.com/data/kidLKymU/images/8c0bd0448a8e3ebf0abb741b225e19dd46b82dad_350.webp",
+			"https://cdn.modrinth.com/data/kidLKymU/images/fd07e825b22e252f5d6f52db53461d97b4e3362e_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/kidLKymU/c3c33be1c8b83ae8f69ba76cf0974cefcc620c47.png",
+		"icon": "https://cdn.modrinth.com/data/kidLKymU/bfb3cac4ca4d7d891fbbcb34a1d61eaa1d6f3e9a_96.webp",
 		"issues": "https://github.com/YUNG-GANG/YUNGs-Better-Strongholds/issues",
 		"keywords": [
 			"yungs"
 		],
 		"license": "LGPL-3.0-only",
-		"long_description": "<p>\n<img src=\"https://i.imgur.com/xorwZ5Z.png\" alt=\"YUNG's Better Strongholds\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/ePR2LMC.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nA complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes. There are over 15 different rooms, various types of tunnels and hallways, staircases, traps, and even hidden areas!\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gD7AqVZYgk0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/zMhFcqM.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Strongholds is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Dungeons\" href=\"https://modrinth.com/mod/yungs-better-dungeons\" target=\"_blank\" rel=\"noopener\">YUNG's Better Dungeons</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Better End</li>\n<li>End Remastered</li>\n<li><b>Repurposed Structures</b> - If RS strongholds are enabled, Eyes of Ender will locate whichever stronghold is closest, regardless of if it's an RS stronghold or a Better Stronghold. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of Better Strongholds to the Nether and End! <a title=\"RS Data pack\" href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack\" target=\"_blank\" rel=\"noopener\">Check it out here.</a><b> Use the latest version of Repurposed Structures!!</b></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+		"long_description": "<p>\n<img src=\"https://i.imgur.com/xorwZ5Z.png\" alt=\"YUNG's Better Strongholds\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"76\" height=\"27\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/ePR2LMC.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nA complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes. There are over 15 different rooms, various types of tunnels and hallways, staircases, traps, and even hidden areas!\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gD7AqVZYgk0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/zMhFcqM.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Strongholds is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Dungeons\" href=\"https://modrinth.com/mod/yungs-better-dungeons\" target=\"_blank\" rel=\"noopener\">YUNG's Better Dungeons</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Better End</li>\n<li>End Remastered</li>\n<li><b>Repurposed Structures</b> - If RS strongholds are enabled, Eyes of Ender will locate whichever stronghold is closest, regardless of if it's an RS stronghold or a Better Stronghold. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of Better Strongholds to the Nether and End! <a title=\"RS Data pack\" href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack\" target=\"_blank\" rel=\"noopener\">Check it out here.</a><b> Use the latest version of Repurposed Structures!!</b></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
 		"name": "YUNG's Better Strongholds",
 		"package_maintainers": [
 			"mcvm"
@@ -358,6 +565,16 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.4-Neo-5.4.0",
+			"1.21.4-5.4.0",
+			"1.21.1-Neo-5.1.3",
+			"1.21.1-Neo-5.1.2",
+			"1.21.1-Neo-5.1.1",
+			"1.21.1-Neo-5.1.0",
+			"1.21.1-5.1.3",
+			"1.21.1-5.1.2",
+			"1.21.1-5.1.1",
+			"1.21.1-5.1.0",
 			"1.20.4-Neo-4.4.3",
 			"1.20.4-Neo-4.4.2",
 			"1.20.4-4.4.3",
@@ -386,7 +603,10 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1",
+			"1.21.4"
 		]
 	}
 }

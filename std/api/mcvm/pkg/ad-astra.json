@@ -4,6 +4,124 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.15.20",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"botarium",
+							"fabriclike-api",
+							"resourceful-config",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "argonauts"
+							},
+							{
+								"value": "athena"
+							},
+							{
+								"value": "cadmus"
+							},
+							{
+								"value": "shimmer"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/gZClwdxY/ad_astra-fabric-1.20.1-1.15.20.jar",
+					"version": "gZClwdxY"
+				},
+				{
+					"content_versions": "1.15.20",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"botarium",
+							"resourceful-config",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "argonauts"
+							},
+							{
+								"value": "athena"
+							},
+							{
+								"value": "cadmus"
+							},
+							{
+								"value": "shimmer"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Qf7QFXk2/ad_astra-forge-1.20.1-1.15.20.jar",
+					"version": "Qf7QFXk2"
+				},
+				{
+					"content_versions": "1.15.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"botarium",
+							"fabriclike-api",
+							"resourceful-config",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "argonauts"
+							},
+							{
+								"value": "athena"
+							},
+							{
+								"value": "cadmus"
+							},
+							{
+								"value": "shimmer"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Xtm1uo8F/ad_astra-fabric-1.20.1-1.15.19.jar",
+					"version": "Xtm1uo8F"
+				},
+				{
+					"content_versions": "1.15.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"botarium",
+							"resourceful-config",
+							"resourceful-lib"
+						],
+						"recommendations": [
+							{
+								"value": "argonauts"
+							},
+							{
+								"value": "athena"
+							},
+							{
+								"value": "cadmus"
+							},
+							{
+								"value": "shimmer"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/ZXcgZ31q/ad_astra-forge-1.20.1-1.15.19.jar",
+					"version": "ZXcgZ31q"
+				},
+				{
 					"content_versions": "1.16.5",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -2791,20 +2909,20 @@
 			"ThatGravyBoat",
 			"fizziy"
 		],
-		"banner": "https://cdn.modrinth.com/data/3ufwT9JF/images/e906c30339fd7e05e40bf350854c87ccbc9b53b0.png",
+		"banner": "https://cdn.modrinth.com/data/3ufwT9JF/images/608c0354187296edf5d6008282302cf44568068a_350.webp",
 		"community": "https://discord.terrarium.earth/",
 		"description": "Live long and prosper, Ad Astra!",
 		"documentation": "https://ad-astra.terrarium.wiki/ad-astra",
 		"gallery": [
-			"https://cdn.modrinth.com/data/3ufwT9JF/images/e906c30339fd7e05e40bf350854c87ccbc9b53b0.png",
-			"https://cdn.modrinth.com/data/3ufwT9JF/images/e84f3074f6f14a059a7cc5d153f547bb4ede0b5f.png",
-			"https://cdn.modrinth.com/data/3ufwT9JF/images/9c8a1a1ecb2f49df7c80e832abd58390612d2a67.png",
-			"https://cdn.modrinth.com/data/3ufwT9JF/images/782bb1d94ab843e15e2e6b767ca5f290a7b1a2cd.png",
-			"https://cdn.modrinth.com/data/3ufwT9JF/images/73a9eb7c59f84a0689bacf8874b84b625f2c161d.png",
-			"https://cdn.modrinth.com/data/3ufwT9JF/images/8bef55cf2219cb7cba5ba55d3b7143bc1430d61b.png",
-			"https://cdn.modrinth.com/data/3ufwT9JF/images/030c652a854034c9bcec813e68e1a5f388ddffcc.png"
+			"https://cdn.modrinth.com/data/3ufwT9JF/images/608c0354187296edf5d6008282302cf44568068a_350.webp",
+			"https://cdn.modrinth.com/data/3ufwT9JF/images/75c397fb852024a673bc594d7c21965d80d0a3ec_350.webp",
+			"https://cdn.modrinth.com/data/3ufwT9JF/images/c00af499f6bdbccd9f938eded4e6e4b08d25c0b2_350.webp",
+			"https://cdn.modrinth.com/data/3ufwT9JF/images/961b90f43141e51784be8eadb06f2cf8b72f71fa_350.webp",
+			"https://cdn.modrinth.com/data/3ufwT9JF/images/df07a0c1766eb217e233f4242b22c4a68daa08fa_350.webp",
+			"https://cdn.modrinth.com/data/3ufwT9JF/images/2175dd5c10e9ed30c0d7b8a8ec16dca9e3ca24a6_350.webp",
+			"https://cdn.modrinth.com/data/3ufwT9JF/images/763c9a697701501698aef1167e7293a35cbae579_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/3ufwT9JF/2a15f23b7ffa2d50fc6ae1c42029a728ce3e2847.jpeg",
+		"icon": "https://cdn.modrinth.com/data/3ufwT9JF/2e903114b7d89b5e1adc7e15dcfd1ba7a1c59505_96.webp",
 		"issues": "https://github.com/terrarium-earth/Ad-Astra/issues",
 		"license": "LicenseRef-Terrarium-Licence",
 		"long_description": "<center>\n\n## Ad Astra\n\n[![Requires Resourceful Config](https://images.teamresourceful.com/u/jUWHY2.svg)](http://modrinth.com/mod/resourceful-lib)\n[![Requires Resourceful Config](https://images.teamresourceful.com/u/LpeOQr.svg)](http://modrinth.com/mod/resourceful-config)\n[![Requires Botarium](http://images.teamresourceful.com/u/zxI5UF.svg)](http://modrinth.com/mod/botarium)\n\n[![Made by Terrarium](https://images.teamresourceful.com/u/I80VLV.svg)](https://discord.terrarium.earth)\n[![Incompatible with Optifine](https://images.teamresourceful.com/u/8vCLgK.svg)](https://lambdaurora.dev/optifine_alternatives)\n<hr>\n\n### 📖About 📖\n\n<hr>\n</center>\n\nAd Astra! (translation: \"To the Stars!\") is a space mod for Fabric and Forge with a focus on technology, travel and\nexploration. We've got everything you need to become an astronaut: rockets, space suits, space stations and machines.\nWhy not take a stroll on the Moon? Build a self-sustaining bunker on Mars? Go mining on Venus? The entire Solar System,\nbetter yet, Milky Way, is at your disposal!\n\n- Five celestial bodies: The Moon, Mars, Venus, Mercury and Glacio, in two different solar systems. Each planet\n  expresses a distinctive flair, with specific mobs and unique materials.\n- Vehicles: Four rocket tiers for interplanetary travel and a rover for traversing the rough, alien terrain ahead.\n- Technology: Standard processing machines and generators, along with oxygen generation and distribution, fuel refining,\n  water pumping, cable, fluid pipes and a rocket workbench.\n- Building: Spruce up your builds with over 250 building blocks, ranging from planet-specific bricks and stones to space\n  station deco and metal plating.\n- An in-game guidebook, explaining everything you need to progress and prosper in Ad Astra!\n\n<center>\n  \n<hr>\n\n\n### Socials\n\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/user/Terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n---\n\n\n### Check Out our Other Projects\n\n<a href=\"https://www.modrinth.com/mod/handcrafted\"><img src=\"https://images.teamresourceful.com/u/9DjUsr.svg\" alt=\"Handcrafted\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/chipped\"><img src=\"https://images.teamresourceful.com/u/lRunun.svg\" alt=\"Chipped\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/ad-astra\"><img src=\"https://images.teamresourceful.com/u/snZW6z.svg\" alt=\"Ad Astra\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/tempad\"><img src=\"https://images.teamresourceful.com/u/HPp8Fo.svg\" alt=\"Tempad\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/spirit\"><img src=\"https://images.teamresourceful.com/u/SQ4Me7.svg\" alt=\"Colorful Azalaeas\" width=\"96\"></a>\n\n<a href=\"https://www.modrinth.com/mod/argonauts\"><img src=\"https://images.teamresourceful.com/u/05PfzF.svg\" alt=\"Lil Wings\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/cadmus\"><img src=\"https://images.teamresourceful.com/u/YqZ7Hf.svg\" alt=\"Vitalize\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/heracles\"><img src=\"https://images.teamresourceful.com/u/RzlEoy.svg\" alt=\"Spirit\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/prometheus\"><img src=\"https://images.teamresourceful.com/u/DP8PUz.svg\" alt=\"Reaper\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/common-storage-lib\"><img src=\"http://images.teamresourceful.com/u/wP2ReQ.svg\" alt=\"Experience Obelisk\" width=\"96\"></a>\n</center>",
@@ -2823,6 +2941,8 @@
 			"1.16.2",
 			"1.16.1",
 			"1.16.0",
+			"1.15.20",
+			"1.15.19",
 			"1.15.18",
 			"1.15.17",
 			"1.15.16",

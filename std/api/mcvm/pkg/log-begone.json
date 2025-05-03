@@ -4,6 +4,25 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/otWPOwjw/logbegone-fabric-1.21.1-1.0.3.jar",
+					"version": "otWPOwjw"
+				},
+				{
+					"content_versions": "1.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/1OrkaiPD/logbegone-neoforge-1.21.1-1.0.3.jar",
+					"version": "1OrkaiPD"
+				},
+				{
 					"content_versions": "1.0.2",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -469,13 +488,13 @@
 		"authors": [
 			"AzureDoom"
 		],
-		"banner": "https://cdn.modrinth.com/data/9ON3zv6e/images/91f0819d0e7579b44218d7592811830e7b63c6c8.png",
+		"banner": "https://cdn.modrinth.com/data/9ON3zv6e/images/7a757ef684094973e8edf850bac0e97909249bf5_350.webp",
 		"community": "https://discord.gg/4vEKxfK",
 		"description": "Fork of Shut Up Console - Tell those those annoy logs lines begone!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/9ON3zv6e/images/91f0819d0e7579b44218d7592811830e7b63c6c8.png"
+			"https://cdn.modrinth.com/data/9ON3zv6e/images/7a757ef684094973e8edf850bac0e97909249bf5_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/9ON3zv6e/icon.png",
+		"icon": "https://cdn.modrinth.com/data/9ON3zv6e/ded874bdb0598a1b40cdd94d4ccb35faca275e18_96.webp",
 		"issues": "https://github.com/AzureDoom/Log-Begone/issues",
 		"license": "LGPL-3.0-only",
 		"long_description": "<center>\n<img src=\"https://www.bisecthosting.com/images/CF/Log_Begone/BH_NU_HEADER.png\" alt=\"logo\"/> \n\n<a href=\"https://discord.gg/4vEKxfK\"> <img src=\"https://img.shields.io/discord/574529906076286996?color=blue&label=Discord&logo=Discord&logoColor=blue&style=for-the-badge\" alt=\"discord\"/> </a>\n<a href=\"https://www.patreon.com/azurezdoom\"> <img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=azurezdoom&type=patrons&style=for-the-badge&color=blue&logoColor=blue\" alt=\"patreon\"/> </a>\n\n\n</br>\n<font size=+1><b>Log Begone is a fork of <a href=\"https://www.curseforge.com/minecraft/mc-mods/shut-up-console\"> Shut Up Console by Bravarly</a> that simply allows you to remove annoying logs from your log when you remove structures, biomes, blocks, or items that spam your log saying missing. By default, it removes any the_aether log spam as this was made by a modpack that removed it recently.</b>\n\n</br></br>\n\nNeed a server to play with friends? Don't know how to setup one? Just rent an already configured server from BisectHosting!\n<a href=\"https://bisecthosting.com/azuredoom\"> <img src=\"https://www.bisecthosting.com/images/CF/Log_Begone/BH_NU_PROMO.png\" alt=\"logo\"/> </a>\n\nClick on the picture above, select plan(at least 4GB), and use my code azuredoom to get 25% off your first month and enjoy playing with your friends!\n</font>\n</center>",
@@ -520,7 +539,8 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

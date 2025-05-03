@@ -81,6 +81,21 @@
 					"version": "yjxych8u"
 				},
 				{
+					"content_versions": "2.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"geckolib",
+							"resourceful-config",
+							"resourceful-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Lq6ojcWv/versions/MQTydAay/endermanoverhaul-neoforge-1.21.1-2.0.2.jar",
+					"version": "MQTydAay"
+				},
+				{
 					"content_versions": "0.0.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
@@ -295,30 +310,31 @@
 	"meta": {
 		"authors": [
 			"AlexNijjar",
+			"HellionGames",
 			"Joo5h"
 		],
 		"community": "https://discord.gg/sGwxnFV",
 		"description": "Enderman Overhaul adds over 20 new enderman variants, each with their own sounds, models, and animations!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/0379755028157678517d4a62432fd0cc9c85a6cb.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/137cf5774d95bec6ea27c07b6c7bdb36a2114f50.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/70c481d2310e569b167ccc17183a039ebc47eb3b.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/73bcd7cc8687b3c162dad3c2dfc335aa3c5ff1cd.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/7c9cf119c273ca0acb9ec63f1eca895722ccc85b.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/80c536454d7ea393974b687368634eda9e625e2a.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/87d91bbe53b81449fdc4c4724429c2d2e954ce04.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/95af16482d7717f7c0371c44bce4f12330c0948d.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/99477447348571cad110561ff704f80b204e528c.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/9b05679d520981245ee054025503f9057686ff65.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/9faf284321b5dbc51213e4dbc6c8eed08602466c.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/aee2bf928b29586c030889935fcb5f297bb7ca4b.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/c5ece771c81201223d87cba2d9bbf7fc05fa8154.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/c80c9851ae4b9c72ad7bdd40fb5146fd3f11619e.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/cb893c05a2df17bfc39789d4a7002cfcc27ca399.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/fd4da71c1a16b35b91e5e9b5f7b1d8b52d54e14c.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/b0aaecb1d9e2ee317fd743cd059a35c85f0e5967.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/97157616d707ee5106c4a442336ea78363cbe418.png",
-			"https://cdn.modrinth.com/data/Lq6ojcWv/images/47c3012ca92c644e5e013efb841cf2c343d3f948.png"
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/02165223332e62239708f8e0630767b070843750_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/2450cf31cf04f99040de0f310638c487f4fc48c9_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/30c3ccd17d0ee1054917e857be06909ab32a4ec5_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/3f85dbd4eacf0a6d5d14f62d60004812e4b065b9_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/430d01f70bd03771c7620722458f73c9f782ee2a_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/4c645dfc1cf331d8f3498b680653e66dff01a2ac_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/5a4f00932b238b6a48e0eafc9c48389b17cfa3a6_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/8d921174ee8ed19a06cf04837193abcaea43d4cc_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/990240c79670539bf855db4eb5bda7209153b6dd_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/9e630db94de6e680e2d11d63f7ed802374ed7f16_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/b8bf2acb8b7bcb10e14ac2d25e7272c4da003e4d_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/d351b16ec9fb1a1cd46536708057e08cd83a0f26_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/d9e589718ec036fd4dae3604830101d36b7443b6_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/dbf3dc988a074cd2c01528da20e8ac0099f0b04a_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/e03fa7c0e6d76b488c3bd2b77bdf5941f92e0c85_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/e85f6df086f53808baaf8e1fc9e4f9405eaef2eb_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/622404c5b181ef8affb974e15bd386a265f407a4_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/7416ba143a7f2e0b25c05a4b2d329cf17e6e01bb_350.webp",
+			"https://cdn.modrinth.com/data/Lq6ojcWv/images/c4edd4bf39dc375361abe720e01136eee7b43260_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/Lq6ojcWv/bd2b1e2cc0a730dbefcb1604638e34b9bed21d85.png",
 		"issues": "https://github.com/bonsaistudi0s/Enderman-Overhaul/issues",
@@ -332,6 +348,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.0.2",
 			"2.0.0",
 			"1.1.8",
 			"1.1.0",
@@ -357,7 +374,8 @@
 			"1.19.2",
 			"1.20.1",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

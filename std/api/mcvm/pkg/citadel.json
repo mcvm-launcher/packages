@@ -4,6 +4,50 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.6.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jJfV67b1/versions/a7H8TGhJ/citadel-2.6.1-1.20.1.jar",
+					"version": "a7H8TGhJ"
+				},
+				{
+					"content_versions": "2.6.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jJfV67b1/versions/mL5pYWWo/citadel-2.6.0-1.20.1.jar",
+					"version": "mL5pYWWo"
+				},
+				{
+					"content_versions": "2.5.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jJfV67b1/versions/zVGb8jz5/citadel-2.5.7-1.20.1.jar",
+					"version": "zVGb8jz5"
+				},
+				{
+					"content_versions": "2.5.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lAATACbp/citadel-2.5.6-1.20.1.jar",
+					"version": "lAATACbp"
+				},
+				{
 					"content_versions": "2.5.4",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -168,7 +212,7 @@
 		"community": "https://discord.gg/alexsmods",
 		"description": "A Lightweight Library",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/jJfV67b1/dea486e5291c6f8ca8813a22e1fa32fa14a4a47f.png",
+		"icon": "https://cdn.modrinth.com/data/jJfV67b1/0aa5d9f63754fa9a39b9d3deff95e5819fa5b721_96.webp",
 		"issues": "https://github.com/Alex-the-666/Citadel/issues",
 		"license": "LGPL-3.0-only",
 		"long_description": "![Citadel-Logo](https://i.imgur.com/KyeiwRx.png)\n\"My analysis of historical data suggests an 97.34% probability that you are aware of my birth on your planet, and my rebirth into beauty on Citadel Station.\" -System Shock 2\n\n \n\nCitadel is a Library mod required for advanced animations and entity properties in 1.14 and beyond. Citadel, being a Library, does not add many features by itself, but rather provides a frame work for other mods when it comes to animating entities, loading .tbl Tabula and .obj Waveront models, and for keeping track of entity properties. Citadel's predecessor, LLibrary, will no longer be updated from 1.12.2, and from now on all of my mods will use Citadel. Citadel's code base is largely derived from LLibrary, and the code is used with permission from Gegy1000, the maintainer of LLibrary and its author in recent versions.\n\n \n\nIn versions 1.6.3 and above, there is also a config option for changing the cap on how many mobs spawn on chunk generation. This is useful when used with the many mob mods that require Citadel, as without changing this they can make it quite difficult to find vanilla mobs.\n\n \n\nDevelopers who want to use Citadel can read [the guide on how to add it to their development environment](https://github.com/Alex-the-666/Citadel/wiki/Getting-Started).",
@@ -180,6 +224,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.6.1",
+			"2.6.0",
+			"2.5.7",
+			"2.5.6",
 			"2.5.4",
 			"2.5.3",
 			"2.5.2",

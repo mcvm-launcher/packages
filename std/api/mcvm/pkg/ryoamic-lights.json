@@ -1,0 +1,1393 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "0.2.11-mc1.21.1-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/tApwsw9C/RyoamicLights-neoforge-0.2.11%2Bmc1.21.1.jar",
+					"version": "tApwsw9C"
+				},
+				{
+					"content_versions": "0.2.11-mc1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/eFFsHtIr/RyoamicLights-fabric-0.2.11%2Bmc1.21.1.jar",
+					"version": "eFFsHtIr"
+				},
+				{
+					"content_versions": "0.2.10-mc1.21.1-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/TEiHtdfP/RyoamicLights-neoforge-0.2.10%2Bmc1.21.1.jar",
+					"version": "TEiHtdfP"
+				},
+				{
+					"content_versions": "0.2.10-mc1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/ojqaR5dJ/RyoamicLights-fabric-0.2.10%2Bmc1.21.1.jar",
+					"version": "ojqaR5dJ"
+				},
+				{
+					"content_versions": "0.2.9-mc1.21-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/lvpfsK5V/RyoamicLights-neoforge-0.2.9%2Bmc1.21.jar",
+					"version": "lvpfsK5V"
+				},
+				{
+					"content_versions": "0.2.9-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/lSVpt79H/RyoamicLights-fabric-0.2.9%2Bmc1.21.jar",
+					"version": "lSVpt79H"
+				},
+				{
+					"content_versions": "0.2.8-mc1.21-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/SZrWYqw9/RyoamicLights-neoforge-0.2.8%2Bmc1.21.jar",
+					"version": "SZrWYqw9"
+				},
+				{
+					"content_versions": "0.2.8-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/cWVKZOIE/RyoamicLights-fabric-0.2.8%2Bmc1.21.jar",
+					"version": "cWVKZOIE"
+				},
+				{
+					"content_versions": "0.2.7-mc1.21-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/zYTGJ1uH/RyoamicLights-neoforge-0.2.7%2Bmc1.21.jar",
+					"version": "zYTGJ1uH"
+				},
+				{
+					"content_versions": "0.2.7-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/7Np8Rk9W/RyoamicLights-fabric-0.2.7%2Bmc1.21.jar",
+					"version": "7Np8Rk9W"
+				},
+				{
+					"content_versions": "0.2.6-mc1.20.6-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/A1Z7TP49/RyoamicLights-neoforge-0.2.6%2Bmc1.20.6.jar",
+					"version": "A1Z7TP49"
+				},
+				{
+					"content_versions": "0.2.6-mc1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/7lXeYdGV/RyoamicLights-fabric-0.2.6%2Bmc1.20.6.jar",
+					"version": "7lXeYdGV"
+				},
+				{
+					"content_versions": "0.2.5-mc1.20.6-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/57hUqHDh/RyoamicLights-neoforge-0.2.5%2Bmc1.20.6.jar",
+					"version": "57hUqHDh"
+				},
+				{
+					"content_versions": "0.2.5-mc1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/fIzuAgUh/RyoamicLights-fabric-0.2.5%2Bmc1.20.6.jar",
+					"version": "fIzuAgUh"
+				},
+				{
+					"content_versions": "0.2.3-mc1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/PJHSvVOR/RyoamicLights-forge-0.2.3%2Bmc1.16.5.jar",
+					"version": "PJHSvVOR"
+				},
+				{
+					"content_versions": "0.2.3-mc1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/qGKe5QHU/RyoamicLights-fabric-0.2.3%2Bmc1.16.5.jar",
+					"version": "qGKe5QHU"
+				},
+				{
+					"content_versions": "0.2.3-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/c2Th4NIB/RyoamicLights-forge-0.2.3%2Bmc1.20.1.jar",
+					"version": "c2Th4NIB"
+				},
+				{
+					"content_versions": "0.2.3-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/VTzHz71U/RyoamicLights-fabric-0.2.3%2Bmc1.20.1.jar",
+					"version": "VTzHz71U"
+				},
+				{
+					"content_versions": "0.2.2-mc1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/ux5bh0h1/RyoamicLights-forge-0.2.2%2Bmc1.19.2.jar",
+					"version": "ux5bh0h1"
+				},
+				{
+					"content_versions": "0.2.2-mc1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/pu9jKeK9/RyoamicLights-fabric-0.2.2%2Bmc1.19.2.jar",
+					"version": "pu9jKeK9"
+				},
+				{
+					"content_versions": "0.2.2-mc1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/KIUKMIXH/RyoamicLights-forge-0.2.2%2Bmc1.18.2.jar",
+					"version": "KIUKMIXH"
+				},
+				{
+					"content_versions": "0.2.2-mc1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/EdjwaXwJ/RyoamicLights-fabric-0.2.2%2Bmc1.18.2.jar",
+					"version": "EdjwaXwJ"
+				},
+				{
+					"content_versions": "0.2.5-mc1.20.4-neo",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/tO1MiEO4/RyoamicLights-neoforge-0.2.5%2Bmc1.20.4.jar",
+					"version": "tO1MiEO4"
+				},
+				{
+					"content_versions": "0.2.5-mc1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/pg7wiFsB/RyoamicLights-fabric-0.2.5%2Bmc1.20.4.jar",
+					"version": "pg7wiFsB"
+				},
+				{
+					"content_versions": "0.2.2-mc1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/cMsJhzz1/RyoamicLights-forge-0.2.2%2Bmc1.16.5.jar",
+					"version": "cMsJhzz1"
+				},
+				{
+					"content_versions": "0.2.2-mc1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/6ke1hVvZ/RyoamicLights-fabric-0.2.2%2Bmc1.16.5.jar",
+					"version": "6ke1hVvZ"
+				},
+				{
+					"content_versions": "0.2.4-mc1.20.4-neo",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/rg95B4dn/RyoamicLights-neoforge-0.2.4%2Bmc1.20.4.jar",
+					"version": "rg95B4dn"
+				},
+				{
+					"content_versions": "0.2.4-mc1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/1GpjHSCQ/RyoamicLights-fabric-0.2.4%2Bmc1.20.4.jar",
+					"version": "1GpjHSCQ"
+				},
+				{
+					"content_versions": "0.2.2-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/zfxPcTIH/RyoamicLights-forge-0.2.2%2Bmc1.20.1.jar",
+					"version": "zfxPcTIH"
+				},
+				{
+					"content_versions": "0.2.2-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/KMEZDiuh/RyoamicLights-fabric-0.2.2%2Bmc1.20.1.jar",
+					"version": "KMEZDiuh"
+				},
+				{
+					"content_versions": "0.2.1-mc1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/Ibl9WDtW/RyoamicLights-forge-0.2.1%2Bmc1.19.2.jar",
+					"version": "Ibl9WDtW"
+				},
+				{
+					"content_versions": "0.2.1-mc1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/uWZt54MJ/RyoamicLights-fabric-0.2.1%2Bmc1.19.2.jar",
+					"version": "uWZt54MJ"
+				},
+				{
+					"content_versions": "0.2.1-mc1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/d9jnqqBp/RyoamicLights-forge-0.2.1%2Bmc1.18.2.jar",
+					"version": "d9jnqqBp"
+				},
+				{
+					"content_versions": "0.2.1-mc1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/LghoZVDG/RyoamicLights-fabric-0.2.1%2Bmc1.18.2.jar",
+					"version": "LghoZVDG"
+				},
+				{
+					"content_versions": "0.2.1-mc1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/2q05WlUa/RyoamicLights-fabric-0.2.1%2Bmc1.16.5.jar",
+					"version": "2q05WlUa"
+				},
+				{
+					"content_versions": "0.2.1-mc1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/8UDusBKo/RyoamicLights-fabric-0.2.1%2Bmc1.16.5.jar",
+					"version": "8UDusBKo"
+				},
+				{
+					"content_versions": "0.2.1-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"obsidianui"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/WRwefikH/RyoamicLights-forge-0.2.1%2Bmc1.20.1.jar",
+					"version": "WRwefikH"
+				},
+				{
+					"content_versions": "0.2.1-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/aMDVprYS/RyoamicLights-fabric-0.2.1%2Bmc1.20.1.jar",
+					"version": "aMDVprYS"
+				},
+				{
+					"content_versions": "0.2.0-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"obsidianui"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/euzZ7R0y/RyoamicLights-forge-0.2.0%2Bmc1.20.1.jar",
+					"version": "euzZ7R0y"
+				},
+				{
+					"content_versions": "0.2.0-mc1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/UGTsNdUR/RyoamicLights-fabric-0.2.0%2Bmc1.20.1.jar",
+					"version": "UGTsNdUR"
+				},
+				{
+					"content_versions": "0.2.3-mc1.20.4-neo",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"obsidianui"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/Uz6TYn6f/RyoamicLights-neoforge-0.2.3%2Bmc1.20.4.jar",
+					"version": "Uz6TYn6f"
+				},
+				{
+					"content_versions": "0.2.3-mc1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/GXdBQIBF/RyoamicLights-fabric-0.2.3%2Bmc1.20.4.jar",
+					"version": "GXdBQIBF"
+				},
+				{
+					"content_versions": "0.2.0-mc1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"obsidianui"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/CbDFbHrH/RyoamicLights-forge-0.2.0%2Bmc1.19.2.jar",
+					"version": "CbDFbHrH"
+				},
+				{
+					"content_versions": "0.2.0-mc1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/HOHsa6Ij/RyoamicLights-fabric-0.2.0%2Bmc1.19.2.jar",
+					"version": "HOHsa6Ij"
+				},
+				{
+					"content_versions": "0.2.0-mc1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"obsidianui"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/wGVPnuOQ/RyoamicLights-forge-0.2.0%2Bmc1.18.2.jar",
+					"version": "wGVPnuOQ"
+				},
+				{
+					"content_versions": "0.2.0-mc1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/qO6GwRlw/RyoamicLights-fabric-0.2.0%2Bmc1.18.2.jar",
+					"version": "qO6GwRlw"
+				},
+				{
+					"content_versions": "0.2.0-mc1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"obsidianui"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/X857RLfZ/RyoamicLights-forge-0.2.0%2Bmc1.16.5.jar",
+					"version": "X857RLfZ"
+				},
+				{
+					"content_versions": "0.2.0-mc1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/YyRYjgpq/RyoamicLights-fabric-0.2.0%2Bmc1.16.5.jar",
+					"version": "YyRYjgpq"
+				},
+				{
+					"content_versions": "0.2.2-mc1.20.4-neo",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"obsidianui"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/doJw68CH/RyoamicLights-neoforge-0.2.2%2Bmc1.20.4.jar",
+					"version": "doJw68CH"
+				},
+				{
+					"content_versions": "0.2.2-mc1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/AMvRSg7p/RyoamicLights-fabric-0.2.2%2Bmc1.20.4.jar",
+					"version": "AMvRSg7p"
+				},
+				{
+					"content_versions": "0.2.1-mc1.20.4-neo",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"obsidianui"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/3nMO9jfc/RyoamicLights-neoforge-0.2.1%2Bmc1.20.4.jar",
+					"version": "3nMO9jfc"
+				},
+				{
+					"content_versions": "0.2.1-mc1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/IQ1uiXHc/RyoamicLights-fabric-0.2.1%2Bmc1.20.4.jar",
+					"version": "IQ1uiXHc"
+				},
+				{
+					"content_versions": "0.2.0-mc1.20.4-neo",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"obsidianui"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/oN4QkegK/RyoamicLights-neoforge-0.2.0%2Bmc1.20.4.jar",
+					"version": "oN4QkegK"
+				},
+				{
+					"content_versions": "0.2.0-mc1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/sS8xNLfi/RyoamicLights-fabric-0.2.0%2Bmc1.20.4.jar",
+					"version": "sS8xNLfi"
+				},
+				{
+					"content_versions": "0.1.1-1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/29VEzD1q/Ryoamiclights-0.1.1%2B1.20.4.jar",
+					"version": "29VEzD1q"
+				},
+				{
+					"content_versions": "0.1.7-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/gL4xb5aw/Ryoamiclights-0.1.7%2B1.20.1.jar",
+					"version": "gL4xb5aw"
+				},
+				{
+					"content_versions": "0.1.1-1.20.2",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/Q3dbVMx1/Ryoamiclights-neoforge-0.1.1%2B1.20.2.jar",
+					"version": "Q3dbVMx1"
+				},
+				{
+					"content_versions": "0.1.5-1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/moeCujqS/Ryoamiclights-0.1.5%2B1.18.2.jar",
+					"version": "moeCujqS"
+				},
+				{
+					"content_versions": "0.1.5-1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/urYBzvtU/Ryoamiclights-0.1.5%2B1.19.2.jar",
+					"version": "urYBzvtU"
+				},
+				{
+					"content_versions": "0.1.6-1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/Q5QeW2N7/Ryoamiclights-0.1.6%2B1.16.5.jar",
+					"version": "Q5QeW2N7"
+				},
+				{
+					"content_versions": "0.1.0-1.20.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/iN95aGh4/Ryoamiclights-0.1.0%2B1.20.4.jar",
+					"version": "iN95aGh4"
+				},
+				{
+					"content_versions": "0.1.6-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/8xdhlPCJ/Ryoamiclights-0.1.6%2B1.20.1.jar",
+					"version": "8xdhlPCJ"
+				},
+				{
+					"content_versions": "neo-0.1.0-1.20.2",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/BAVFDr9B/Ryoamiclights-neoforge-0.1.0%2B1.20.2.jar",
+					"version": "BAVFDr9B"
+				},
+				{
+					"content_versions": "lex-0.1.1-1.20.2",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/BzdfpZfe/Ryoamiclights-lexforge-0.1.1%2B1.20.2.jar",
+					"version": "BzdfpZfe"
+				},
+				{
+					"content_versions": "0.1.5-1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/1HYIaLuU/Ryoamiclights-0.1.5%2B1.16.5.jar",
+					"version": "1HYIaLuU"
+				},
+				{
+					"content_versions": "0.1.4-1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/d4rDqsnh/Ryoamiclights-0.1.4%2B1.18.2.jar",
+					"version": "d4rDqsnh"
+				},
+				{
+					"content_versions": "0.1.4-1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/bhpUY0SA/Ryoamiclights-0.1.4%2B1.19.2.jar",
+					"version": "bhpUY0SA"
+				},
+				{
+					"content_versions": "0.1.4-1.19.3",
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/xoCdiQHY/Ryoamiclights-0.1.4%2B1.19.3.jar",
+					"version": "xoCdiQHY"
+				},
+				{
+					"content_versions": "0.1.5-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/18FTecpJ/Ryoamiclights-0.1.5%2B1.20.1.jar",
+					"version": "18FTecpJ"
+				},
+				{
+					"content_versions": "0.1.4-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/T4KlCMzj/Ryoamiclights-0.1.4%2B1.19.4.jar",
+					"version": "T4KlCMzj"
+				},
+				{
+					"content_versions": "0.1.3-1.19.3",
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/kgF8B46D/Ryoamiclights-0.1.3%2B1.19.3.jar",
+					"version": "kgF8B46D"
+				},
+				{
+					"content_versions": "0.1.4-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/YgHO99D8/Ryoamiclights-0.1.4%2B1.20.1.jar",
+					"version": "YgHO99D8"
+				},
+				{
+					"content_versions": "0.1.3-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/cYFh4a2b/Ryoamiclights-0.1.3%2B1.19.4.jar",
+					"version": "cYFh4a2b"
+				},
+				{
+					"content_versions": "0.1.3-1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/RrIca7qx/Ryoamiclights-0.1.3%2B1.19.2.jar",
+					"version": "RrIca7qx"
+				},
+				{
+					"content_versions": "0.1.4-1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/uzzXZrCs/Ryoamiclights-0.1.4%2B1.16.5.jar",
+					"version": "uzzXZrCs"
+				},
+				{
+					"content_versions": "0.1.3-1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/jsZuXFzy/Ryoamiclights-0.1.3%2B1.18.2.jar",
+					"version": "jsZuXFzy"
+				},
+				{
+					"content_versions": "0.1.3-1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/IZqfjY96/Ryoamiclights-0.1.3%2B1.16.5.jar",
+					"version": "IZqfjY96"
+				},
+				{
+					"content_versions": "0.1.2-1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/L5KtvJvn/Ryoamiclights-0.1.2%2B1.18.2.jar",
+					"version": "L5KtvJvn"
+				},
+				{
+					"content_versions": "0.1.2-1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/bwlFgqWO/Ryoamiclights-0.1.2%2B1.19.2.jar",
+					"version": "bwlFgqWO"
+				},
+				{
+					"content_versions": "0.1.2-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/DdwTwijv/Ryoamiclights-0.1.2%2B1.19.4.jar",
+					"version": "DdwTwijv"
+				},
+				{
+					"content_versions": "0.1.3-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/BgMtpRGo/Ryoamiclights-0.1.3%2B1.20.1.jar",
+					"version": "BgMtpRGo"
+				},
+				{
+					"content_versions": "0.1.2-1.19.3",
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/7dqU8eac/Ryoamiclights-0.1.2%2B1.19.3.jar",
+					"version": "7dqU8eac"
+				},
+				{
+					"content_versions": "0.1.2-1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/RhNYCcIM/Ryoamiclights-0.1.2%2B1.16.5.jar",
+					"version": "RhNYCcIM"
+				},
+				{
+					"content_versions": "0.1.1-1.16.5",
+					"minecraft_versions": [
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/zWFbKQhD/Ryoamiclights-fabric-0.1.1%2B1.16.5.jar",
+					"version": "zWFbKQhD"
+				},
+				{
+					"content_versions": "0.1.1-1.19.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/1erCetvG/Ryoamiclights-0.1.1%2B1.19.2.jar",
+					"version": "1erCetvG"
+				},
+				{
+					"content_versions": "0.1.1-1.19.3",
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/igllhLFS/Ryoamiclights-0.1.1%2B1.19.3.jar",
+					"version": "igllhLFS"
+				},
+				{
+					"content_versions": "0.1.1-1.18.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/nIO7QC7M/Ryoamiclights-0.1.1%2B1.18.2.jar",
+					"version": "nIO7QC7M"
+				},
+				{
+					"content_versions": "0.1.1-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/LZLtVgqa/Ryoamiclights-0.1.1%2B1.19.4.jar",
+					"version": "LZLtVgqa"
+				},
+				{
+					"content_versions": "0.1.2-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "obsidianui"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/m7Lgm8hK/Ryoamiclights-0.1.2%2B1.20.1.jar",
+					"version": "m7Lgm8hK"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [],
+		"community": "https://discord.gg/8RzfTANuaV",
+		"description": "LambDynamicLights unofficial architectury port.\nA dynamic lights mod for Minecraft.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/reCfnRvJ/f300dbab39c5628d9293980cddb8bf7451e2c5d7_96.webp",
+		"issues": "https://github.com/ThinkingStudios/LambDynamicLights-Forge/issues",
+		"license": "MIT",
+		"long_description": "# RyoamicLights\n\n<img alt=\"forge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\">\n<img alt=\"fabric\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg\">\n\n[LambDynamicLights](https://www.modrinth.com/mod/lambdynamiclights) **unofficial architectury port**.\n\nA dynamic lights mod for Minecraft.\n\n## 📖 What's this mod?\n\nThis mod adds dynamic lights to Minecraft. Dynamic lights are lights created by an entity holding an\nitem which makes light as a block, or created by an entity on fire, etc.\n\nSearching other mods to replace OptiFine? \n[Check out this list!](https://lambdaurora.dev/optifine_alternatives)\n\n### What's this name?\n\nNow the name wasn't even born in the beginning, it was going to be called TexTrue's Dynamic Lights, but I don't really like having anything named after me, and then I started to think about combining Dynamic Lights with other Japanese anime character names, and realized that Ryo Yamada (\"Bocchi The Rock!\" Kessoku Band's bassist) was the best choice (maybe?).\n\n## ✅ Features:\n\n- Dynamic lights.\n- Settings to select how smooth the dynamic lighting is.\n- Works with some modded items.\n- Any entity holding an item which emits light will emit light!\n- Magma cubes emit light.\n- Spectral arrows emit light.\n- Burning entities emit light.\n- Blazes emit light.\n- Some items like torches, soul torches, etc. will not light up in water.\n- Quick and simple API for developers.\n- And more!\n\n## 📖 Usage\n\nUsing this mod is very simple!\n\nInstall it in your mods folder along with  [ObsidianUI](https://modrinth.com/mod/obsidianui)\n, (and [Sodium (Fabric/Quilt)](https://modrinth.com/mod/sodium)/[Embeddium (Fabric/Forge/NeoForge)](https://modrinth.com/mod/embeddium) if wanted for better performances).\n\nYou will notice nothing at first but if you go into the video options or into the settings screen of the mod via Mod List, you will notice an option called Dynamic Lights which is by default off, choose the wanted configuration and enjoy!\nYou can also configure the mod by editing the file in `config/ryoamiclights.toml`.\n\n## 📖 Compatibility\n\n- [Sodium (Fabric/Quilt)](https://modrinth.com/mod/sodium)/[Embeddium (Forge/NeoForge)](https://modrinth.com/mod/embeddium) is recommended for better performances.\n- **OptiFine/OptiForge/OptiFabric is obviously incompatible.**\n- [Incompatible list](https://github.com/ThinkingStudios/RyoamicLights/issues/6)\n\n## 📖 License\nThis mod is under MIT license.",
+		"name": "RyoamicLights",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/ThinkingStudios/LambDynamicLights-Forge/"
+	},
+	"properties": {
+		"content_versions": [
+			"0.2.11-mc1.21.1",
+			"0.2.11-mc1.21.1-neo",
+			"0.2.10-mc1.21.1",
+			"0.2.10-mc1.21.1-neo",
+			"0.2.9-mc1.21",
+			"0.2.9-mc1.21-neo",
+			"0.2.8-mc1.21",
+			"0.2.8-mc1.21-neo",
+			"0.2.7-mc1.21",
+			"0.2.7-mc1.21-neo",
+			"0.2.6-mc1.20.6",
+			"0.2.6-mc1.20.6-neo",
+			"0.2.5-mc1.20.6",
+			"0.2.5-mc1.20.6-neo",
+			"0.2.5-mc1.20.4",
+			"0.2.5-mc1.20.4-neo",
+			"0.2.4-mc1.20.4",
+			"0.2.4-mc1.20.4-neo",
+			"0.2.3-mc1.20.4",
+			"0.2.3-mc1.20.4-neo",
+			"0.2.3-mc1.20.1",
+			"0.2.3-mc1.16.5",
+			"0.2.2-mc1.20.4",
+			"0.2.2-mc1.20.4-neo",
+			"0.2.2-mc1.20.1",
+			"0.2.2-mc1.19.2",
+			"0.2.2-mc1.18.2",
+			"0.2.2-mc1.16.5",
+			"0.2.1-mc1.20.4",
+			"0.2.1-mc1.20.4-neo",
+			"0.2.1-mc1.20.1",
+			"0.2.1-mc1.19.2",
+			"0.2.1-mc1.18.2",
+			"0.2.1-mc1.16.5",
+			"0.2.0-mc1.20.4",
+			"0.2.0-mc1.20.4-neo",
+			"0.2.0-mc1.20.1",
+			"0.2.0-mc1.19.2",
+			"0.2.0-mc1.18.2",
+			"0.2.0-mc1.16.5",
+			"0.1.7-1.20.1",
+			"0.1.6-1.20.1",
+			"0.1.6-1.16.5",
+			"0.1.5-1.20.1",
+			"0.1.5-1.19.2",
+			"0.1.5-1.18.2",
+			"0.1.5-1.16.5",
+			"0.1.4-1.20.1",
+			"0.1.4-1.19.4",
+			"0.1.4-1.19.3",
+			"0.1.4-1.19.2",
+			"0.1.4-1.18.2",
+			"0.1.4-1.16.5",
+			"0.1.3-1.20.1",
+			"0.1.3-1.19.4",
+			"0.1.3-1.19.3",
+			"0.1.3-1.19.2",
+			"0.1.3-1.18.2",
+			"0.1.3-1.16.5",
+			"0.1.2-1.20.1",
+			"0.1.2-1.19.4",
+			"0.1.2-1.19.3",
+			"0.1.2-1.19.2",
+			"0.1.2-1.18.2",
+			"0.1.2-1.16.5",
+			"0.1.1-1.20.4",
+			"0.1.1-1.20.2",
+			"0.1.1-1.19.4",
+			"0.1.1-1.19.3",
+			"0.1.1-1.19.2",
+			"0.1.1-1.18.2",
+			"0.1.1-1.16.5",
+			"0.1.0-1.20.4",
+			"neo-0.1.0-1.20.2",
+			"lex-0.1.1-1.20.2"
+		],
+		"modrinth_id": "reCfnRvJ",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.16.4",
+			"1.16.5",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21",
+			"1.21.1"
+		]
+	}
+}

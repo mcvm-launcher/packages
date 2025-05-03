@@ -4,6 +4,911 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "-1.21.5-6.5.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/cyV6tfJI/libIPN-fabric-1.21.5-6.5.0.jar",
+					"version": "cyV6tfJI"
+				},
+				{
+					"content_versions": "-1.21.4-6.5.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/XlXyBJTi/libIPN-fabric-1.21.4-6.5.0.jar",
+					"version": "XlXyBJTi"
+				},
+				{
+					"content_versions": "-1.21-6.5.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/L8oOJIG9/libIPN-fabric-1.21-6.5.0.jar",
+					"version": "L8oOJIG9"
+				},
+				{
+					"content_versions": "neo-1.21.1-6.5.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/jLoEF5th/libIPN-neoforge-1.21-6.5.0.jar",
+					"version": "jLoEF5th"
+				},
+				{
+					"content_versions": "neo-1.21.5-6.5.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/sVcsjFSj/libIPN-neoforge-1.21.5-6.5.0.jar",
+					"version": "sVcsjFSj"
+				},
+				{
+					"content_versions": "neo-1.21.4-6.5.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/E0jC4Bwj/libIPN-neoforge-1.21.4-6.5.0.jar",
+					"version": "E0jC4Bwj"
+				},
+				{
+					"content_versions": "-1.21.5-6.5.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/5ojAXs4L/libIPN-forge-1.21.5-6.5.0.jar",
+					"version": "5ojAXs4L"
+				},
+				{
+					"content_versions": "-1.21.4-6.5.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/jq3enBIn/libIPN-forge-1.21.4-6.5.0.jar",
+					"version": "jq3enBIn"
+				},
+				{
+					"content_versions": "-1.21-6.5.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/T2crlGpe/libIPN-forge-1.21-6.5.0.jar",
+					"version": "T2crlGpe"
+				},
+				{
+					"content_versions": "-1.21-6.4.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/GnltIwjx/libIPN-fabric-1.21-6.4.0.jar",
+					"version": "GnltIwjx"
+				},
+				{
+					"content_versions": "-1.21.5-pre1-6.4.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/6dNmrnGF/libIPN-fabric-1.21.5-6.4.0.jar",
+					"version": "6dNmrnGF"
+				},
+				{
+					"content_versions": "-1.21.4-6.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/cAYrzp02/libIPN-fabric-1.21.4-6.4.0.jar",
+					"version": "cAYrzp02"
+				},
+				{
+					"content_versions": "-1.21.3-6.4.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/5pxwi7tn/libIPN-fabric-1.21.3-6.4.0.jar",
+					"version": "5pxwi7tn"
+				},
+				{
+					"content_versions": "neo-1.21.1-6.4.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/seepTS1B/libIPN-neoforge-1.21-6.4.0.jar",
+					"version": "seepTS1B"
+				},
+				{
+					"content_versions": "neo-1.21.3-6.4.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/cFhDWMjS/libIPN-neoforge-1.21.3-6.4.0.jar",
+					"version": "cFhDWMjS"
+				},
+				{
+					"content_versions": "neo-1.21.4-6.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/3CHDrlUb/libIPN-neoforge-1.21.4-6.4.0.jar",
+					"version": "3CHDrlUb"
+				},
+				{
+					"content_versions": "-1.21.3-6.4.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/GBFl6yEw/libIPN-forge-1.21.3-6.4.0.jar",
+					"version": "GBFl6yEw"
+				},
+				{
+					"content_versions": "-1.21.4-6.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/F5GNmm6W/libIPN-forge-1.21.4-6.4.0.jar",
+					"version": "F5GNmm6W"
+				},
+				{
+					"content_versions": "-1.21-6.4.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pSFEMSOO/libIPN-forge-1.21-6.4.0.jar",
+					"version": "pSFEMSOO"
+				},
+				{
+					"content_versions": "neo-1.21.3-6.3.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/qDQTiiQA/libIPN-neoforge-1.21.3-6.3.1.jar",
+					"version": "qDQTiiQA"
+				},
+				{
+					"content_versions": "-1.21.3-6.3.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/9mA0Jd5T/libIPN-forge-1.21.3-6.3.1.jar",
+					"version": "9mA0Jd5T"
+				},
+				{
+					"content_versions": "-1.21.3-6.3.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/z7dPehJn/libIPN-fabric-1.21.3-6.3.1.jar",
+					"version": "z7dPehJn"
+				},
+				{
+					"content_versions": "-1.21-6.3.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/KOBnnT1S/libIPN-fabric-1.21-6.3.1.jar",
+					"version": "KOBnnT1S"
+				},
+				{
+					"content_versions": "-25w05a-6.3.1",
+					"minecraft_versions": [
+						"25w04a",
+						"25w05a",
+						"25w06a"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/sGgALBSS/libIPN-fabric-1.21.5-6.3.1.jar",
+					"version": "sGgALBSS"
+				},
+				{
+					"content_versions": "-1.21.4-6.3.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/fvP77N0g/libIPN-fabric-1.21.4-6.3.1.jar",
+					"version": "fvP77N0g"
+				},
+				{
+					"content_versions": "neo-1.21.4-6.3.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/3MYAsmyP/libIPN-neoforge-1.21.4-6.3.1.jar",
+					"version": "3MYAsmyP"
+				},
+				{
+					"content_versions": "neo-1.21.1-6.3.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/2Udx6CE2/libIPN-neoforge-1.21-6.3.1.jar",
+					"version": "2Udx6CE2"
+				},
+				{
+					"content_versions": "-1.21-6.3.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/5yaAzJQS/libIPN-forge-1.21-6.3.1.jar",
+					"version": "5yaAzJQS"
+				},
+				{
+					"content_versions": "-1.21.4-6.3.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/bcSvExiP/libIPN-forge-1.21.4-6.3.1.jar",
+					"version": "bcSvExiP"
+				},
+				{
+					"content_versions": "neo-1.21.3-6.2.1",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/qjhgeKOL/libIPN-neoforge-1.21.3-6.2.1.jar",
+					"version": "qjhgeKOL"
+				},
+				{
+					"content_versions": "neo-1.21.1-6.2.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/dCjCMdfM/libIPN-neoforge-1.21-6.2.1.jar",
+					"version": "dCjCMdfM"
+				},
+				{
+					"content_versions": "-1.21.3-6.2.1",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/WjkY5TfC/libIPN-forge-1.21.3-6.2.1.jar",
+					"version": "WjkY5TfC"
+				},
+				{
+					"content_versions": "-1.21-6.2.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/HaegpLNg/libIPN-forge-1.21-6.2.1.jar",
+					"version": "HaegpLNg"
+				},
+				{
+					"content_versions": "-1.21.3-6.2.1",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/d0hbyJyn/libIPN-fabric-1.21.3-6.2.1.jar",
+					"version": "d0hbyJyn"
+				},
+				{
+					"content_versions": "-1.21-6.2.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/acVocwK7/libIPN-fabric-1.21-6.2.1.jar",
+					"version": "acVocwK7"
+				},
+				{
+					"content_versions": "-1.21.3-6.2.0",
+					"minecraft_versions": [
+						"1.21.3",
+						"24w44a",
+						"24w45a",
+						"24w46a",
+						"1.21.4-pre1",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/QQPcmgx7/libIPN-fabric-1.21.3-6.2.0.jar",
+					"version": "QQPcmgx7"
+				},
+				{
+					"content_versions": "-1.21-6.2.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pomcIFya/libIPN-fabric-1.21-6.2.0.jar",
+					"version": "pomcIFya"
+				},
+				{
+					"content_versions": "neo-1.21-6.2.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/DehZXTAZ/libIPN-neoforge-1.21-6.2.0.jar",
+					"version": "DehZXTAZ"
+				},
+				{
+					"content_versions": "-1.21-6.2.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/sVRTZwnO/libIPN-forge-1.21-6.2.0.jar",
+					"version": "sVRTZwnO"
+				},
+				{
+					"content_versions": "-1.21.3-6.2.0",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/mr5QbVPy/libIPN-forge-1.21.3-6.2.0.jar",
+					"version": "mr5QbVPy"
+				},
+				{
+					"content_versions": "neo-1.21.3-6.2.0",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/kASWgok5/libIPN-neoforge-1.21.3-6.2.0.jar",
+					"version": "kASWgok5"
+				},
+				{
+					"content_versions": "-1.21-6.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Gq4t7guf/libIPN-fabric-1.21-6.1.1.jar",
+					"version": "Gq4t7guf"
+				},
+				{
+					"content_versions": "-1.21.3-6.1.1",
+					"minecraft_versions": [
+						"1.21.3",
+						"24w44a",
+						"24w45a",
+						"24w46a"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/zF9pzspj/libIPN-fabric-1.21.3-6.1.1.jar",
+					"version": "zF9pzspj"
+				},
+				{
+					"content_versions": "neo-1.21-6.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/fXRpgTYg/libIPN-neoforge-1.21-6.1.1.jar",
+					"version": "fXRpgTYg"
+				},
+				{
+					"content_versions": "neo-1.21.3-6.1.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Fm1w4a28/libIPN-neoforge-1.21.3-6.1.1.jar",
+					"version": "Fm1w4a28"
+				},
+				{
+					"content_versions": "-1.21-6.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/nMLehNBm/libIPN-forge-1.21-6.1.1.jar",
+					"version": "nMLehNBm"
+				},
+				{
+					"content_versions": "-1.21.3-6.1.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/LHnSkZZ2/libIPN-forge-1.21.3-6.1.1.jar",
+					"version": "LHnSkZZ2"
+				},
+				{
+					"content_versions": "-1.21.3-6.1.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/OfvNtF84/libIPN-fabric-1.21.3-6.1.0.jar",
+					"version": "OfvNtF84"
+				},
+				{
+					"content_versions": "-1.21-6.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/JoEbBET0/libIPN-fabric-1.21-6.1.0.jar",
+					"version": "JoEbBET0"
+				},
+				{
+					"content_versions": "neo-1.21-6.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/4dBma8Ef/libIPN-neoforge-1.21-6.1.0.jar",
+					"version": "4dBma8Ef"
+				},
+				{
+					"content_versions": "neo-1.21.3-6.1.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/bazdZ7p9/libIPN-neoforge-1.21.3-6.1.0.jar",
+					"version": "bazdZ7p9"
+				},
+				{
+					"content_versions": "-1.21-6.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/7YTatPIQ/libIPN-forge-1.21-6.1.0.jar",
+					"version": "7YTatPIQ"
+				},
+				{
+					"content_versions": "-1.21.3-6.1.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/ZpDkuSWs/libIPN-forge-1.21.3-6.1.0.jar",
+					"version": "ZpDkuSWs"
+				},
+				{
+					"content_versions": "-1.21-6.0.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/CVJ80D3k/libIPN-fabric-1.21-6.0.3.jar",
+					"version": "CVJ80D3k"
+				},
+				{
+					"content_versions": "neo-1.21-6.0.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/wW2vqpkP/libIPN-neoforge-1.21-6.0.3.jar",
+					"version": "wW2vqpkP"
+				},
+				{
+					"content_versions": "-1.21-6.0.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/bAx9HIOY/libIPN-forge-1.21-6.0.3.jar",
+					"version": "bAx9HIOY"
+				},
+				{
+					"content_versions": "-1.21-rc1-6.0.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/Gw5ZLCvi/libIPN-fabric-1.21-6.0.2.jar",
+					"version": "Gw5ZLCvi"
+				},
+				{
+					"content_versions": "-1.21-6.0.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/P2E4l86S/libIPN-forge-1.21-6.0.2.jar",
+					"version": "P2E4l86S"
+				},
+				{
+					"content_versions": "neo-1.21-6.0.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/mwHaCe5H/libIPN-neoforge-1.21-6.0.2.jar",
+					"version": "mwHaCe5H"
+				},
+				{
+					"content_versions": "-1.21-6.0.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabric-language-kotlin",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/34NUh0ko/libIPN-fabric-1.21-6.0.1.jar",
+					"version": "34NUh0ko"
+				},
+				{
+					"content_versions": "neo-1.21-6.0.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/VVWWmuhh/libIPN-neoforge-1.21-6.0.1.jar",
+					"version": "VVWWmuhh"
+				},
+				{
+					"content_versions": "-1.21-6.0.1",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kotlin-for-forge"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/onSQdWhM/versions/pIcDmlY9/libIPN-forge-1.21-6.0.1.jar",
+					"version": "pIcDmlY9"
+				},
+				{
 					"content_versions": "neo-1.21-6.0.0",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -3781,7 +4686,7 @@
 		"community": "https://discord.gg/23YCxmveUM",
 		"description": "Inventory Profiles Next GUI/Config library",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/onSQdWhM/5f9116f2d79dd5767fd936f1786262b54edac0ec.png",
+		"icon": "https://cdn.modrinth.com/data/onSQdWhM/feb2d62d9f150539bfd2a69d373866b1e643545c_96.webp",
 		"issues": "https://github.com/blackd/libIPNissues",
 		"license": "AGPL-3.0-or-later",
 		"long_description": "## Description \nThis is the GUI/Config library used by Inventory Profiles Next \n\nThis lib will be shared between IPN and Any future mod I make\n\n## FAQ\n\nCan I use it in my mods?\n\nFeel free to use it, but at this point there is no documentation or examples. And the code is not that clear.",
@@ -3795,9 +4700,30 @@
 		"content_versions": [
 			"-23w33a-4.0.0",
 			"-1.21-rc1-6.0.0",
+			"-1.21-6.5.0",
 			"-1.21-rc1-5.0.0",
+			"-1.21-6.4.0",
+			"-1.21-6.3.1",
+			"-1.21-6.2.1",
+			"-1.21-6.2.0",
+			"-1.21-6.1.1",
+			"-1.21-6.1.0",
+			"-1.21-6.0.3",
+			"-1.21-6.0.1",
 			"-1.21-6.0.0",
+			"-1.21.5-pre1-6.4.0",
+			"-1.21.5-6.5.0",
 			"-1.21-5.0.2",
+			"-1.21.4-6.5.0",
+			"-1.21.4-6.4.0",
+			"-1.21.3-6.4.0",
+			"-1.21.3-6.3.1",
+			"-1.21.3-6.2.1",
+			"-1.21.3-6.2.0",
+			"-1.21.3-6.1.1",
+			"-1.21.3-6.1.0",
+			"-1.21-rc1-6.0.2",
+			"-1.21-6.0.2",
 			"-1.20.6-6.0.0",
 			"-1.20.6-5.0.2",
 			"-1.20.4-4.0.2",
@@ -3847,8 +4773,6 @@
 			"-1.19.2-1.0.5",
 			"-1.19.2-1.0.4",
 			"-1.19.2-1.0.3",
-			"-1.19.2-1.0.1",
-			"-1.19.2-1.0.0",
 			"-1.18.2-4.0.2",
 			"-1.18.2-4.0.1",
 			"-1.18.2-4.0.0",
@@ -3870,23 +4794,18 @@
 			"-1.18.2-1.0.4",
 			"-1.18.2-1.0.3",
 			"-1.18.2-1.0.1",
-			"-1.18.2-1.0.0",
 			"-1.18.1-1.0.8",
 			"-1.18.1-1.0.7",
 			"-1.18.1-1.0.6",
 			"-1.18.1-1.0.5",
 			"-1.18.1-1.0.4",
 			"-1.18.1-1.0.3",
-			"-1.18.1-1.0.1",
-			"-1.18.1-1.0.0",
 			"-1.17.1-1.0.8",
 			"-1.17.1-1.0.7",
 			"-1.17.1-1.0.6",
 			"-1.17.1-1.0.5",
 			"-1.17.1-1.0.4",
 			"-1.17.1-1.0.3",
-			"-1.17.1-1.0.1",
-			"-1.17.1-1.0.0",
 			"-1.16.5-3.0.2",
 			"-1.16.5-3.0.1",
 			"-1.16.5-3.0.0",
@@ -3904,25 +4823,54 @@
 			"-1.16.5-1.0.5",
 			"-1.16.5-1.0.4",
 			"-1.16.5-1.0.3",
-			"-1.16.5-1.0.1",
-			"-1.16.5-1.0.0",
 			"-1.15.2-1.0.8",
 			"-1.15.2-1.0.7",
 			"-1.15.2-1.0.6",
 			"-1.15.2-1.0.5",
 			"-1.15.2-1.0.4",
 			"-1.15.2-1.0.3",
-			"-1.15.2-1.0.1",
-			"-1.15.2-1.0.0",
 			"-1.14.4-1.0.8",
 			"-1.14.4-1.0.7",
 			"-1.14.4-1.0.6",
 			"-1.14.4-1.0.5",
 			"-1.14.4-1.0.4",
 			"-1.14.4-1.0.3",
+			"neo-1.21-6.2.0",
+			"neo-1.21-6.1.1",
+			"neo-1.21-6.1.0",
+			"neo-1.21-6.0.3",
+			"neo-1.21-6.0.2",
+			"neo-1.21-6.0.1",
+			"neo-1.21-6.0.0",
+			"neo-1.21.5-6.5.0",
+			"neo-1.21.4-6.5.0",
+			"neo-1.21.4-6.4.0",
+			"neo-1.21.3-6.4.0",
+			"neo-1.21.3-6.3.1",
+			"neo-1.21.3-6.2.1",
+			"neo-1.21.3-6.2.0",
+			"neo-1.21.3-6.1.1",
+			"neo-1.21.3-6.1.0",
+			"neo-1.21.1-6.5.0",
+			"neo-1.21.1-6.4.0",
+			"neo-1.21.1-6.2.1",
+			"-25w05a-6.3.1",
+			"-1.21.4-6.3.1",
+			"-1.19.2-1.0.1",
+			"-1.19.2-1.0.0",
+			"-1.18.2-1.0.0",
+			"-1.18.1-1.0.1",
+			"-1.18.1-1.0.0",
+			"-1.17.1-1.0.1",
+			"-1.17.1-1.0.0",
+			"-1.16.5-1.0.1",
+			"-1.16.5-1.0.0",
+			"-1.15.2-1.0.1",
+			"-1.15.2-1.0.0",
 			"-1.14.4-1.0.1",
 			"-1.14.4-1.0.0",
-			"neo-1.21-6.0.0"
+			"neo-1.21.4-6.3.1",
+			"neo-1.21.1-6.3.1"
 		],
 		"modrinth_id": "onSQdWhM",
 		"supported_modloaders": [
@@ -3970,7 +4918,18 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"24w44a",
+			"24w45a",
+			"24w46a",
+			"1.21.4-pre1",
+			"1.21.4",
+			"25w04a",
+			"25w05a",
+			"25w06a",
+			"1.21.5"
 		]
 	}
 }

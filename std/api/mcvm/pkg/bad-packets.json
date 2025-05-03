@@ -4,6 +4,150 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "neo-0.8.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/RNyYl9M3/badpackets-neo-0.8.2.jar",
+					"version": "RNyYl9M3"
+				},
+				{
+					"content_versions": "-0.8.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/hjhT2sMz/badpackets-fabric-0.8.2.jar",
+					"version": "hjhT2sMz"
+				},
+				{
+					"content_versions": "-0.8.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/PXf9r02i/badpackets-forge-0.8.2.jar",
+					"version": "PXf9r02i"
+				},
+				{
+					"content_versions": "neo-0.7.4",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/Cn58uH65/badpackets-neo-0.7.4.jar",
+					"version": "Cn58uH65"
+				},
+				{
+					"content_versions": "-0.7.4",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/vZWHaqvo/badpackets-forge-0.7.4.jar",
+					"version": "vZWHaqvo"
+				},
+				{
+					"content_versions": "-0.7.4",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/51Q6yUsH/badpackets-fabric-0.7.4.jar",
+					"version": "51Q6yUsH"
+				},
+				{
+					"content_versions": "-0.6.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/cJeV31is/badpackets-fabric-0.6.2.jar",
+					"version": "cJeV31is"
+				},
+				{
+					"content_versions": "neo-0.6.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/TrWvbYAw/badpackets-neo-0.6.2.jar",
+					"version": "TrWvbYAw"
+				},
+				{
+					"content_versions": "-0.6.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/Om734hK8/badpackets-forge-0.6.2.jar",
+					"version": "Om734hK8"
+				},
+				{
+					"content_versions": "neo-0.5.7",
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/jyFCivlP/badpackets-neo-0.5.7.jar",
+					"version": "jyFCivlP"
+				},
+				{
+					"content_versions": "-0.5.7",
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/ZKydYmib/badpackets-fabric-0.5.7.jar",
+					"version": "ZKydYmib"
+				},
+				{
+					"content_versions": "-0.5.7",
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/c4qUyPqh/badpackets-forge-0.5.7.jar",
+					"version": "c4qUyPqh"
+				},
+				{
 					"content_versions": "neo-0.8.1",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -724,13 +868,17 @@
 	},
 	"properties": {
 		"content_versions": [
+			"-0.8.2",
 			"-0.8.1",
 			"-0.8.0",
+			"-0.7.4",
 			"-0.7.3",
 			"-0.7.2",
 			"-0.7.1",
+			"-0.6.2",
 			"-0.6.1",
 			"-0.6.0",
+			"-0.5.7",
 			"-0.5.6",
 			"-0.5.5",
 			"-0.5.4",
@@ -757,11 +905,15 @@
 			"-0.1.2",
 			"-0.1.1",
 			"-0.1.0",
+			"neo-0.8.2",
 			"neo-0.8.1",
+			"neo-0.7.4",
 			"neo-0.7.3",
 			"neo-0.7.2",
+			"neo-0.6.2",
 			"neo-0.6.1",
 			"neo-0.6.0",
+			"neo-0.5.7",
 			"neo-0.5.6",
 			"neo-0.5.5",
 			"neo-0.5.4"
@@ -795,7 +947,12 @@
 			"24w18a",
 			"24w19b",
 			"1.21-pre2",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

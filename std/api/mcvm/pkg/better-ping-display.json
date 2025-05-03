@@ -4,6 +4,22 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.2-1.1.1",
+					"minecraft_versions": "1.21.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MS1ZMyR7/versions/vTQINH8N/BetterPingDisplay-Fabric-1.21.2-1.1.1.jar",
+					"version": "vTQINH8N"
+				},
+				{
+					"content_versions": "1.21.1-1.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MS1ZMyR7/versions/xCWQ8iLW/BetterPingDisplay-Fabric-1.21.1-1.1.1.jar",
+					"version": "xCWQ8iLW"
+				},
+				{
 					"content_versions": "1.20.6-1.1.1",
 					"minecraft_versions": "1.20.6",
 					"modloaders": "fabriclike",
@@ -26,6 +42,22 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/MS1ZMyR7/versions/DCWtLDt7/BetterPingDisplay-Fabric-1.19.2-1.1.1.jar",
 					"version": "DCWtLDt7"
+				},
+				{
+					"content_versions": "1.21.4-1.1.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MS1ZMyR7/versions/HwP123tD/BetterPingDisplay-Fabric-1.21.4-1.1.1.jar",
+					"version": "HwP123tD"
+				},
+				{
+					"content_versions": "1.21.3-1.1.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MS1ZMyR7/versions/eXVJHSUI/BetterPingDisplay-Fabric-1.21.3-1.1.1.jar",
+					"version": "eXVJHSUI"
 				},
 				{
 					"content_versions": "1.21-1.1.1",
@@ -138,7 +170,7 @@
 		"icon": "https://cdn.modrinth.com/data/MS1ZMyR7/icon.png",
 		"issues": "https://github.com/vladmarica/better-ping-display-fabric/issues",
 		"license": "MIT",
-		"long_description": "# Better Ping Display - Fabric Edition\n\n_This is a Fabric mod. For the Forge version of this mod, click [here](https://modrinth.com/mod/better-ping-display)._\n\nA mod that displays each player's ping in the player list as a number.\n\nGo [**here**](https://modrinth.com/mod/better-ping-display) for the Minecraft Forge edition of this mod.\n\n![](https://i.imgur.com/HTrH0i2.png)\n\nThis is a client-side mod. The server doesn't need to have it installed. It works even when playing on vanilla servers.\n\n## Configuration\nThis mod's config file is `betterpingdisplay.json`. It contains the following options:\n\n| Option  | Default Value  | Description  |\n|---|---|---|\n| autoColorPingText  | `true` | Whether to color a player's ping based on their latency. E.g, low latency = green, high latency = red |\n| renderPingBars  | `false` | Whether to also draw the default Minecraft ping bars  |\n| pingTextColor  | `#A0A0A0`  | The ping text color to use. Only works whens `autoColorPingText` is false |\n| pingTextFormatString | `%dms` | The format string for ping text. Must include a `%d`, which will be replaced dynamically by the actual ping value.\n",
+		"long_description": "# Better Ping Display - Fabric Edition\n\n_This is a Fabric mod. For the Forge version of this mod, click [here](https://modrinth.com/mod/better-ping-display)._\n\nA mod that displays each player's ping in the player list as a number.\n\nGo [**here**](https://modrinth.com/mod/better-ping-display) for the Minecraft Forge edition of this mod.\n\n![](https://vladmarica.com/assets/minecraft/better-ping-display.png)\n\nThis is a client-side mod. The server doesn't need to have it installed. It works even when playing on vanilla servers.\n\n## Configuration\nThis mod's config file is `betterpingdisplay.json`. It contains the following options:\n\n| Option  | Default Value  | Description  |\n|---|---|---|\n| autoColorPingText  | `true` | Whether to color a player's ping based on their latency. E.g, low latency = green, high latency = red |\n| renderPingBars  | `false` | Whether to also draw the default Minecraft ping bars  |\n| pingTextColor  | `#A0A0A0`  | The ping text color to use. Only works whens `autoColorPingText` is false |\n| pingTextFormatString | `%dms` | The format string for ping text. Must include a `%d`, which will be replaced dynamically by the actual ping value.\n",
 		"name": "Better Ping Display [Fabric]",
 		"package_maintainers": [
 			"mcvm"
@@ -147,6 +179,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.4-1.1.1",
+			"1.21.3-1.1.1",
+			"1.21.2-1.1.1",
+			"1.21.1-1.1.1",
 			"1.21-1.1.1",
 			"1.20.6-1.1.1",
 			"1.20.5-1.1.1",
@@ -186,7 +222,11 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4"
 		]
 	}
 }

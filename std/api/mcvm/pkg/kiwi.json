@@ -4,6 +4,607 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "15.5.2-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/ZvGKDVT9/Kiwi-1.21.1-NeoForge-15.5.2.jar",
+					"version": "ZvGKDVT9"
+				},
+				{
+					"content_versions": "11.8.29",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/bYC491Ev/Kiwi-1.20.1-Fabric-11.8.29.jar",
+					"version": "bYC491Ev"
+				},
+				{
+					"content_versions": "11.8.31",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/MuVJPnGY/Kiwi-1.20.1-Forge-11.8.31.jar",
+					"version": "MuVJPnGY"
+				},
+				{
+					"content_versions": "15.5.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/vM3lLRYY/Kiwi-1.21.1-NeoForge-15.5.1.jar",
+					"version": "vM3lLRYY"
+				},
+				{
+					"content_versions": "15.5.0-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/LYebfwDu/Kiwi-1.21.1-NeoForge-15.5.0.jar",
+					"version": "LYebfwDu"
+				},
+				{
+					"content_versions": "15.1.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/iAK06iqs/Kiwi-1.21-Fabric-15.1.5.jar",
+					"version": "iAK06iqs"
+				},
+				{
+					"content_versions": "15.4.2-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/fTiNeCk9/Kiwi-1.21.1-NeoForge-15.4.2.jar",
+					"version": "fTiNeCk9"
+				},
+				{
+					"content_versions": "15.4.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/yGy49Ijh/Kiwi-1.21.1-NeoForge-15.4.1.jar",
+					"version": "yGy49Ijh"
+				},
+				{
+					"content_versions": "15.4.0-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/CD51qDur/Kiwi-1.21.1-NeoForge-15.4.0.jar",
+					"version": "CD51qDur"
+				},
+				{
+					"content_versions": "15.3.5-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/v22N1NhV/Kiwi-1.21.1-NeoForge-15.3.5.jar",
+					"version": "v22N1NhV"
+				},
+				{
+					"content_versions": "15.3.4-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/GjElIJ7a/Kiwi-1.21.1-NeoForge-15.3.4.jar",
+					"version": "GjElIJ7a"
+				},
+				{
+					"content_versions": "15.3.3-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/DKRu9xp6/Kiwi-1.21.1-NeoForge-15.3.3.jar",
+					"version": "DKRu9xp6"
+				},
+				{
+					"content_versions": "11.8.30",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/SpmpxVSh/Kiwi-1.20.1-Forge-11.8.30.jar",
+					"version": "SpmpxVSh"
+				},
+				{
+					"content_versions": "15.1.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/LzP2xOQB/Kiwi-1.21-Fabric-15.1.4.jar",
+					"version": "LzP2xOQB"
+				},
+				{
+					"content_versions": "15.3.2-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/M8h5uYyf/Kiwi-1.21.1-NeoForge-15.3.2.jar",
+					"version": "M8h5uYyf"
+				},
+				{
+					"content_versions": "11.8.29",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/A4YxIHAO/Kiwi-1.20.1-Forge-11.8.29.jar",
+					"version": "A4YxIHAO"
+				},
+				{
+					"content_versions": "15.3.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/vegHxm9d/Kiwi-1.21.1-NeoForge-15.3.1.jar",
+					"version": "vegHxm9d"
+				},
+				{
+					"content_versions": "15.1.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/RhkbUeKS/Kiwi-1.21-Fabric-15.1.3.jar",
+					"version": "RhkbUeKS"
+				},
+				{
+					"content_versions": "11.8.28",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/nxSd3PG9/Kiwi-1.20.1-Forge-11.8.28.jar",
+					"version": "nxSd3PG9"
+				},
+				{
+					"content_versions": "11.8.28",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/vXiIlQ0y/Kiwi-1.20.1-Fabric-11.8.28.jar",
+					"version": "vXiIlQ0y"
+				},
+				{
+					"content_versions": "11.8.27",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/e0ANOFVW/Kiwi-1.20.1-Fabric-11.8.27.jar",
+					"version": "e0ANOFVW"
+				},
+				{
+					"content_versions": "15.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/Vby6TNe4/Kiwi-1.21-Fabric-15.1.2.jar",
+					"version": "Vby6TNe4"
+				},
+				{
+					"content_versions": "15.2.2-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/AhP0x6rX/Kiwi-1.21.1-NeoForge-15.2.2.jar",
+					"version": "AhP0x6rX"
+				},
+				{
+					"content_versions": "11.8.26",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/lhlLIEoV/Kiwi-1.20.1-Fabric-11.8.26.jar",
+					"version": "lhlLIEoV"
+				},
+				{
+					"content_versions": "15.2.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/UlUhN02s/Kiwi-1.21.1-NeoForge-15.2.1.jar",
+					"version": "UlUhN02s"
+				},
+				{
+					"content_versions": "15.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/r8MVp0Lk/Kiwi-1.21-Fabric-15.1.1.jar",
+					"version": "r8MVp0Lk"
+				},
+				{
+					"content_versions": "11.8.24",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/G3h00JKd/Kiwi-1.20.1-Fabric-11.8.24.jar",
+					"version": "G3h00JKd"
+				},
+				{
+					"content_versions": "11.8.23",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/51iUE2ht/Kiwi-1.20.1-Fabric-11.8.23.jar",
+					"version": "51iUE2ht"
+				},
+				{
+					"content_versions": "11.8.22",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/T0vKL7sT/Kiwi-1.20.1-Fabric-11.8.22.jar",
+					"version": "T0vKL7sT"
+				},
+				{
+					"content_versions": "11.8.21",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/Hjlv8Bs2/Kiwi-1.20.1-Fabric-11.8.21.jar",
+					"version": "Hjlv8Bs2"
+				},
+				{
+					"content_versions": "11.8.20",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/Zd09X9xP/Kiwi-1.20.1-Forge-11.8.20.jar",
+					"version": "Zd09X9xP"
+				},
+				{
+					"content_versions": "11.8.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/KHPmloYE/Kiwi-1.20.1-Forge-11.8.19.jar",
+					"version": "KHPmloYE"
+				},
+				{
+					"content_versions": "11.8.19",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/WlxfPLdR/Kiwi-1.20.1-Fabric-11.8.19.jar",
+					"version": "WlxfPLdR"
+				},
+				{
+					"content_versions": "11.8.18",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/Egcry8Dd/Kiwi-1.20.1-Fabric-11.8.18.jar",
+					"version": "Egcry8Dd"
+				},
+				{
+					"content_versions": "11.8.17",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/6k91KQQx/Kiwi-1.20.1-Fabric-11.8.17.jar",
+					"version": "6k91KQQx"
+				},
+				{
+					"content_versions": "11.8.15",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/u0erKlAo/Kiwi-1.20.1-Forge-11.8.15.jar",
+					"version": "u0erKlAo"
+				},
+				{
 					"content_versions": "11.6.3",
 					"minecraft_versions": [
 						"1.20",
@@ -1268,10 +1869,10 @@
 		"community": "https://discord.gg/KzGQW7a",
 		"description": "Minecraft modding library",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/ufdDoWPd/d4bee9dbab2628cf7b6f46fb50990f21c881c164.png",
+		"icon": "https://cdn.modrinth.com/data/ufdDoWPd/c8271bb2f34ff7af3768f103d50bceee8435b49c_96.webp",
 		"issues": "https://github.com/Snownee/Kiwi/issues",
 		"license": "MIT",
-		"long_description": "# Kiwi 🥝\n\nMinecraft modding library used by Snownee's mods.\n\nIt provides some QoL features (configurable):\n\n- Shows item NBT and tags in tooltips\n- Disables Microsoft's telemetry\n- Suppress experimental world settings warning (disabled by default)\n\nInstall [Cloth Config](https://modrinth.com/mod/cloth-config) to change settings in-game.",
+		"long_description": "# Kiwi 🥝\n\nMinecraft modding library used by Snownee's mods.\n\nIt provides some QoL features (configurable):\n\n- Shows item NBT and tags in tooltips\n- Disables Microsoft's telemetry\n- Simple command calculator - `/kalc`\n- Command to mute current toast notifications and sounds - `/kiwic quiet`\n- Suppress experimental world settings warning (disabled by default)\n- Disables the fading effect on resource reload or main menu (disabled by default)\n\nInstall [Cloth Config](https://modrinth.com/mod/cloth-config) to change settings in-game.\n\n[![Interested in supporting me and the development of mods? BisectHosting is the perfect solution. New customers can use the promotion code \"snownee\" to get a 25% discount on their first month of a gaming server. With 24/7 support and fast response times, you can expect top-notch service for all your gaming needs.](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
 		"name": "Kiwi 🥝",
 		"package_maintainers": [
 			"mcvm"
@@ -1281,6 +1882,24 @@
 	},
 	"properties": {
 		"content_versions": [
+			"15.5.2-neo",
+			"15.5.1-neo",
+			"15.5.0-neo",
+			"15.4.2-neo",
+			"15.4.1-neo",
+			"15.4.0-neo",
+			"15.3.5-neo",
+			"15.3.4-neo",
+			"15.3.3-neo",
+			"15.3.2-neo",
+			"15.3.1-neo",
+			"15.2.2-neo",
+			"15.2.1-neo",
+			"15.1.5",
+			"15.1.4",
+			"15.1.3",
+			"15.1.2",
+			"15.1.1",
 			"15.1.0",
 			"15.0.2",
 			"15.0.1",
@@ -1301,6 +1920,21 @@
 			"13.1.0",
 			"13.0.0",
 			"12.0.0",
+			"11.8.31",
+			"11.8.30",
+			"11.8.29",
+			"11.8.28",
+			"11.8.27",
+			"11.8.26",
+			"11.8.24",
+			"11.8.23",
+			"11.8.22",
+			"11.8.21",
+			"11.8.20",
+			"11.8.19",
+			"11.8.18",
+			"11.8.17",
+			"11.8.15",
 			"11.8.14",
 			"11.8.13",
 			"11.8.12",
@@ -1377,7 +2011,8 @@
 			"1.20.5-rc2",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

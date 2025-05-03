@@ -4,6 +4,139 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "6.0.0-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/4vFSkqtd/Companion-1.21.1-NeoForge-6.0.0.jar",
+					"version": "4vFSkqtd"
+				},
+				{
+					"content_versions": "6.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/EjnMGH53/Companion-1.21.1-Fabric-6.0.0.jar",
+					"version": "EjnMGH53"
+				},
+				{
+					"content_versions": "5.2.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/SPXivNuG/Companion-1.20.1-Fabric-5.2.2.jar",
+					"version": "SPXivNuG"
+				},
+				{
+					"content_versions": "5.2.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/kto11H3W/Companion-1.20.1-Forge-5.2.2.jar",
+					"version": "kto11H3W"
+				},
+				{
+					"content_versions": "5.2.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/b6AjkVeU/Companion-1.20.1-Forge-5.2.1.jar",
+					"version": "b6AjkVeU"
+				},
+				{
+					"content_versions": "5.2.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/9brvHbXW/Companion-1.20.1-fabric-5.2.1.jar",
+					"version": "9brvHbXW"
+				},
+				{
+					"content_versions": "5.2.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/Shfpdcwi/Companion-1.20.1-Forge-5.2.0.jar",
+					"version": "Shfpdcwi"
+				},
+				{
+					"content_versions": "5.2.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/8TD76y1j/Companion-1.20.1-fabric-5.2.0.jar",
+					"version": "8TD76y1j"
+				},
+				{
 					"content_versions": "5.1.0",
 					"minecraft_versions": [
 						"1.20",
@@ -361,10 +494,10 @@
 		"community": "https://discord.gg/KzGQW7a",
 		"description": "Mechanics to avoid losing your pets, but do not break the vanilla feel",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/4w0EzGRW/bf3213bc6a0ad5570d040d5d57672a952a29cae6.gif",
+		"icon": "https://cdn.modrinth.com/data/4w0EzGRW/eee1fcac73e9c7a07d3091e4abbbc3106871d919_96.webp",
 		"issues": "https://github.com/Snownee/Companion/issues",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "# Companion 🐕\n\nThis mod adds various mechanics to avoid losing your pets, to enhance game experience.\n\n### Features:\n\n - Pets will follow you when you teleport or enter a portal\n - Your leashed mobs will follow you when you enter a portal\n - Pets will be forced to teleport to you if it is about to be unloaded\n - Pets won't attack enemies if their health is lower than 20%\n - Pets will teleport to your back if their health is lower than 20%\n - Pets won't enter a portal unless it is close to you\n - Parrots won't dismount from your shoulder when you are floating on the water\n - Parrots won't dismount from your shoulder unless you jump in place\n - Sweeping Edge effect won't hurt your pets\n - Pet friendly fire game rule\n\nAll these features can be disabled and configured if you have installed [Kiwi](https://modrinth.com/mod/kiwi). Besides, in-game config UI is provided if you have installed [Cloth Config](https://modrinth.com/mod/cloth-config)",
+		"long_description": "# Companion 🐕\n\nThis mod adds various mechanics to avoid losing your pets, to enhance game experience.\n\n### Features:\n\n - Pets will follow you when you teleport or enter a portal\n - Your leashed mobs will follow you when you enter a portal\n - Pets will be forced to teleport to you if it is about to be unloaded\n - Pets won't attack enemies if their health is lower than 20%\n - Pets will teleport to your back if their health is lower than 20%\n - Pets won't enter a portal unless it is close to you\n - Parrots won't dismount from your shoulder when you are floating on the water\n - Parrots won't dismount from your shoulder unless you jump in place\n - Sweeping Edge effect won't hurt your pets\n - Pet friendly fire game rule\n\nAll these features can be disabled and configured if you have installed [Kiwi](https://modrinth.com/mod/kiwi). Besides, in-game config UI is provided if you have installed [Cloth Config](https://modrinth.com/mod/cloth-config)\n\n[![Interested in supporting me and the development of mods? BisectHosting is the perfect solution. New customers can use the promotion code \"snownee\" to get a 25% discount on their first month of a gaming server. With 24/7 support and fast response times, you can expect top-notch service for all your gaming needs.](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
 		"name": "Companion 🐕",
 		"package_maintainers": [
 			"mcvm"
@@ -374,6 +507,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"6.0.0",
+			"6.0.0-neo",
+			"5.2.2",
+			"5.2.1",
+			"5.2.0",
 			"5.1.0",
 			"5.0.2",
 			"5.0.1",
@@ -403,7 +541,8 @@
 			"1.19.2",
 			"1.19.3",
 			"1.20",
-			"1.20.1"
+			"1.20.1",
+			"1.21.1"
 		]
 	}
 }

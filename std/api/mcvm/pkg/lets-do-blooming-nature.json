@@ -4,6 +4,146 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/FEPCy4JB/letsdo-bloomingnature-forge-1.0.12.jar",
+					"version": "FEPCy4JB"
+				},
+				{
+					"content_versions": "1.0.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/j67RfSlZ/letsdo-bloomingnature-fabric-1.0.12.jar",
+					"version": "j67RfSlZ"
+				},
+				{
+					"content_versions": "1.0.11",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/Fcnwocfp/letsdo-bloomingnature-fabric-1.0.11.jar",
+					"version": "Fcnwocfp"
+				},
+				{
+					"content_versions": "1.0.11",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/i8mHpIF4/letsdo-bloomingnature-forge-1.0.11.jar",
+					"version": "i8mHpIF4"
+				},
+				{
+					"content_versions": "1.0.10",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/Gu0KoWND/letsdo-bloomingnature-forge-1.0.10.jar",
+					"version": "Gu0KoWND"
+				},
+				{
+					"content_versions": "1.0.10",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/jxDLVV6U/letsdo-bloomingnature-fabric-1.0.10.jar",
+					"version": "jxDLVV6U"
+				},
+				{
+					"content_versions": "1.0.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/uv8Phd5M/letsdo-bloomingnature-fabric-1.0.9.jar",
+					"version": "uv8Phd5M"
+				},
+				{
+					"content_versions": "1.0.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/Br0wYTzz/letsdo-bloomingnature-forge-1.0.9.jar",
+					"version": "Br0wYTzz"
+				},
+				{
+					"content_versions": "1.0.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/UvQ6SuGu/letsdo-bloomingnature-fabric-1.0.8.jar",
+					"version": "UvQ6SuGu"
+				},
+				{
+					"content_versions": "1.0.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/4Vno77MY/versions/CTmmeYUR/letsdo-bloomingnature-forge-1.0.8.jar",
+					"version": "CTmmeYUR"
+				},
+				{
 					"content_versions": "1.0.7",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -223,38 +363,35 @@
 		"authors": [
 			"satisfyu"
 		],
-		"banner": "https://cdn.modrinth.com/data/4Vno77MY/images/0f8eeb76d134a3d6db76eb52fdc37d197ba0164a.png",
+		"banner": "https://cdn.modrinth.com/data/4Vno77MY/images/7f05eb685586665b8ff916c6cf7b554527be860c_350.webp",
 		"community": "https://discord.gg/Vqu6wYZwdZ",
 		"description": "Explore a redesigned overworld: new animals, reshaped biomes, livelier landscapes.",
 		"documentation": "https://discord.gg/Vqu6wYZwdZ",
 		"gallery": [
-			"https://cdn.modrinth.com/data/4Vno77MY/images/0f8eeb76d134a3d6db76eb52fdc37d197ba0164a.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/1f4455178956edf6dccd38633dc7080b3c8cbc1e.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/1fb3e54c2cb300bb2ab7f93a8f89a9d8cc4a2140.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/5d1ec09f89e06498d56c239ed7a5b4df786912dd.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/694c67757cc1601218b02db48a3c31b4492ea87b.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/6c30112bcf4d901cb68c456620f5037182aa541e.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/8487f11fbcedb94e523d5f958d4063132560a2d7.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/9609884bed8c09a464c25e5aacb1e02677cad19d.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/a169addf026862f9d92670c7d73fd9e94d7c9498.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/cd22a3adb9ef459c59786694f0b2fa80eb9f2bc1.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/d2753f2c6d51e7ba125e3fa9ee27b0353cc2aee8.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/f3ec704a878347e943ce43763d310f3fdeee7057.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/800abf2206a3425f020c001358ecb69d69067e5a.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/b408cdbbd21641cebc9461a8db1ebdfc0fc0fa2d.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/bc4ea5cd9cecc61f5202e3df1ca8f917b86dd5b7.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/7398559948cca1140cb1acefd32ddc41c251d71f.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/843c345829312fda6758f653ecead6c43726f6a5.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/a1176bab775f96a2258f710d84e85cbbb3c35155.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/b571b3eec4b7508a9962244bc418c2d795a4cd01.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/b88fe8a94f13fc208a7d375f851791f6cb26b78d.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/2a0afaa76bb1d5d326e058f4e416ab0795009354.png",
-			"https://cdn.modrinth.com/data/4Vno77MY/images/35ee5b3cb3bff760f92befc42249bd411919bab3.png"
+			"https://cdn.modrinth.com/data/4Vno77MY/images/101aff697fb20564a019632b43225ef4a74dfbd5_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/37b612ee2a7fe8f5ba2016b7977f9f2c592ff3c2_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/4867dde72b8700cffcf6447bb726809f41e391da_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/79e7c520a5aa6bc2918d806dd82eaa4aa1721c27_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/7f05eb685586665b8ff916c6cf7b554527be860c_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/815f91ed177d40dc23eda3432c3fdf943e83d4e5_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/9609884bed8c09a464c25e5aacb1e02677cad19d_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/b34bebdb37c1b5625893bad3b6d22c25150a2d23_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/d3d41ccc0f93b3762912bcd93524a66bad3596ee_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/3671f25a08ebe3b1ca723fe22a1693f908c8e637_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/5767db03fa3c59522b775279ad70b9ee80b43836_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/3458c255632301a56581d8bd9f0ddffcfa54db87_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/dcd5d94bf95aa96b9819e85c4007f68d2b694830_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/45cac97c523dac20af88c06b0ed55bafde7d2abd_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/cbff1a224b1b73bede07ba5bed58ac9f6249fb88_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/64e8fdf5d3157b97aa689f7dd11d486cbbb9cf09_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/c8f2158c02cb47f92cb9fc17ed5992ab65d8aa3d_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/4fbc82f716f0ffcac65930f4585529df2fcff833_350.webp",
+			"https://cdn.modrinth.com/data/4Vno77MY/images/7f1a01debd6f6383f0cd73cccebcd5fac492ef34_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/4Vno77MY/e66918aa854afbc03d071ac1368d7d53f00a1e38.png",
+		"icon": "https://cdn.modrinth.com/data/4Vno77MY/716247c19ceb40af35d01d34f8f35e2d0b29b4e9_96.webp",
 		"issues": "https://github.com/satisfyu/Let-s-Do-Hub/issues",
 		"license": "https://github.com/satisfyu/BloomingNature/blob/main/License",
-		"long_description": "![Logo](https://imgur.com/7uxw0PL.png)\n\n<br>\n<br>\n<br>\n\n<center>Hey and welcome to BloomingNature!\n\n<br>\n<br>\n<br>\n\nBloomingNature overhauls nearly all Vanilla Minecraft Biomes by replacing features with new shapes Trees, new Tree Variants, Flowers and much more. It also adds a few more Animals. The goal was to make the world feel wilder, overgrown, and more alive. </center>\n\n<br>\n<br>\n<br>\n\n### Features\n### \n* Overhauls all Biomes except Badlands, Mushroom Islands, and Deserts.\n* The Old Growth Birch Forest has been replaced by an Aspen Forest.\n* The Old Growth Pine Taiga has been replaced by a Larch Forest.\n* 26 new flowers such as Bluebells, Foxgloves, and many more.\n* New animals! Bisons, Turkeys, Deers, and more.\n* New stone variants: Laterite and Travertine. You can now craft Mushroom Bricks.\n* New blocks such as Quicksand, Marsh Blocks, and Forest Moss.\n* Lots of new wood sets. If you're familiar with other [Let's Do] Mods, you'll remember these wood colors well. All of them come with unique windows.\n<br>\n<br>\n<br>\n###  Notable Changes\n### \n* Chickens have been removed from Forest, Savanna, and Jungle Biomes. Turkeys now spawn in the forest as a replacement.\n* Cows have been removed from Forest Biomes, Savanna, and Jungle Biomes. Bisons now spawn in the savanna as a replacement.\n* Pigs have been removed from Forest Biomes, Savanna, and Jungle Biomes. Boars now spawn in the savanna and forest as a replacement.\n* Vindicators and Pillagers have a small chance to spawn in Dark Forests.\n* Now, the universally disliked beachparty pelicans can be found here.\n\n<br>\n<br>\n<br>\n<br>\n<center>\nBloomingNature only changes Vanilla features by removing and/or replacing them. It doesn't alter how the world generates or the biome placement.\n\n<br>\n<br>\n<br>\n<br>\nApart from the farm animal replacements, the new animals don't drop anything special. Their purpose is simply to make the world more immersive and exciting.\n</center>\n\n<br>\n<br>\n<br>\n\n### Where do i find...  \n### \n\n<br>\n\n**... Travertine?**<br>\nTravertine can mostly be found in River and Plains \n\n<br>\n\n**... Laterit?**<br>\nLaterit can be found in Jungles\n\n<br>\n\n**... certain Animals?**<br>\nDeers, Turkeys, and Owls can be found in Forests; Boars in Forests and Savanna; Raccoons and Squirrels in Plains; Red Wolves in Larch Forests; Pelicans on Beaches; Mossy Sheeps and Muddy Pigs in Swamps; and Bisons in Savannas. Termites have a small chance of spawning nearby Termite Mounds in Savannas.\n\n<br>\n<br>\n\nTested for compatibility and confirmed to work with the following Worldgen Mods:\n* Terralith \n* Meadow\n* Beachparty\n* Natures Spirit \n* Regions Unexplored \n* Reterraforged\n* William Wythers Expanded Ecosphere \n* William Wythers Overhauled Overworld \n* Continents \n* BiomeMakeover\n* Ecologics \n* Naturalist\n* Spawn\n* Good Ending\n  \n<br>\n<br>\n<br>\n\n_<center>BloomingNature is not intended to be realistic or adhere to the real world in terms of the presentation of biomes or the occurrence of plants, even though the biomes may be inspired by certain regions.</center>_\n\n<br>\n<br>\n<br>\n\nPlease Note: BloomingNature wont be available for forge - don't ask for it. Thank you. \n\n<br>\n<br>\n<br>\n\n<center>Requires Architectury</center>\n\n<br>\n<br>\n<br>\n\n<center>_Dedicated to MissLilitu_</center>\n",
+		"long_description": "![Logo](https://imgur.com/7uxw0PL.png)\n\n<br>\n<br>\n<br>\n\n<center>Hey and welcome to BloomingNature!\n\n<br>\n<br>\n<br>\n\nBloomingNature overhauls nearly all Vanilla Minecraft Biomes by replacing features with new shapes Trees, new Tree Variants, Flowers and much more. It also adds a few more Animals. The goal was to make the world feel wilder, overgrown, and more alive. </center>\n\n<br>\n<br>\n<br>\n\n### Features\n### \n* Overhauls all Biomes except Badlands, Mushroom Islands, and Deserts.\n* The Old Growth Birch Forest has been replaced by an Aspen Forest.\n* The Old Growth Pine Taiga has been replaced by a Larch Forest.\n* 26 new flowers such as Bluebells, Foxgloves, and many more.\n* New stone variants: Laterite and Travertine. You can now craft Mushroom Bricks.\n* New blocks such as Quicksand, Marsh Blocks, and Forest Moss.\n* Lots of new wood sets. If you're familiar with other [Let's Do] Mods, you'll remember these wood colors well. All of them come with unique windows.\n<br>\n<br>\n<br>\n<br>\n<center>\nBloomingNature only changes Vanilla features by removing and/or replacing them. It doesn't alter how the world generates or the biome placement.\n\n<br>\n<br>\n<br>\n<br>\n</center>\n\n<br>\n<br>\n<br>\n\n### Where do i find...  \n### \n\n<br>\n\n**... Travertine?**<br>\nTravertine can mostly be found in River and Plains \n\n<br>\n\n**... Laterit?**<br>\nLaterit can be found in Jungles\n\n<br>\n<br>\n\nTested for compatibility and confirmed to work with the following Worldgen Mods:\n* Terralith \n* Meadow\n* Beachparty\n* Natures Spirit \n* Regions Unexplored \n* Reterraforged\n* William Wythers Expanded Ecosphere \n* William Wythers Overhauled Overworld \n* Continents \n* BiomeMakeover\n* Ecologics \n* Naturalist\n* Spawn\n* Good Ending\n  \n<br>\n<br>\n<br>\n\n_<center>BloomingNature is not intended to be realistic or adhere to the real world in terms of the presentation of biomes or the occurrence of plants, even though the biomes may be inspired by certain regions.</center>_\n\n<br>\n<br>\n<br>\n\n<center>Requires Architectury</center>\n\n<br>\n<br>\n<br>\n\n<center>_Dedicated to MissLilitu_</center>\n",
 		"name": "[Let's Do] BloomingNature",
 		"package_maintainers": [
 			"mcvm"
@@ -264,6 +401,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.12",
+			"1.0.11",
+			"1.0.10",
+			"1.0.9",
+			"1.0.8",
 			"1.0.7",
 			"1.0.6",
 			"1.0.5",

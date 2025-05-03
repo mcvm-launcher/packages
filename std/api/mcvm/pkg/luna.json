@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": [
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/T3yEYSUT/versions/J72toqtI/Luna-NeoForge-2.0.0.jar",
+					"version": "J72toqtI"
+				},
+				{
 					"content_versions": "1.0.0",
 					"minecraft_versions": [
 						"1.19",
@@ -15,6 +32,9 @@
 						"1.20.1"
 					],
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/T3yEYSUT/versions/XTvbSFNh/Luna-FABRIC-MC1.19.X-1.0.1.jar",
 					"version": "XTvbSFNh"
@@ -31,6 +51,9 @@
 						"1.20.1"
 					],
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/T3yEYSUT/versions/lJsS1j7C/Luna-FORGE-MC1.19.X-1.0.1.jar",
 					"version": "lJsS1j7C"
@@ -43,6 +66,9 @@
 						"1.18.2"
 					],
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/T3yEYSUT/versions/QTQnGYRR/Luna-FABRIC-MC1.18.X-1.0.0.jar",
 					"version": "QTQnGYRR"
@@ -57,6 +83,9 @@
 						"1.18.2"
 					],
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "kotlin-support"
+					},
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/T3yEYSUT/versions/JdfDvtJ7/Luna-FORGE-MC1.18.X-1.0.0.jar",
 					"version": "JdfDvtJ7"
@@ -66,18 +95,17 @@
 	},
 	"meta": {
 		"authors": [
-			"ElocinDev",
 			"LunaPixelStudios"
 		],
-		"banner": "https://cdn.modrinth.com/data/T3yEYSUT/images/91a12d7679232b9d2fe0a5706939d6b62961667c.png",
+		"banner": "https://cdn.modrinth.com/data/T3yEYSUT/images/a4871abc2590dc9f8df685a7b875cf42b22620b4_350.webp",
 		"community": "https://ww.discord.gg/9S5tfrY4Fr",
 		"description": "Core mod for all Luna Pixel Studios modpacks.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/T3yEYSUT/images/91a12d7679232b9d2fe0a5706939d6b62961667c.png"
+			"https://cdn.modrinth.com/data/T3yEYSUT/images/a4871abc2590dc9f8df685a7b875cf42b22620b4_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/T3yEYSUT/5f0051b1b6f925d12252252b4f1d43360e9bd01c.png",
+		"icon": "https://cdn.modrinth.com/data/T3yEYSUT/df79d648c88dce48b1d0e57112b108de7a9b8a6c_96.webp",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "[![This is an image](https://i.imgur.com/eCqrFBC.jpeg)](https://www.discord.gg/LunaPixel)\n\n[1]:\nhttps://cdn.discordapp.com/attachments/1148115823970492467/1148115879599542272/Background.jpg\n\n[2]:\nhttps://www.discord.gg/9S5tfrY4Fr \n\n### Luna \n\nThe core mod of Luna Pixel Studios' modpacks. This mod adds resources and features needed in all of our packs, including world sharing.\n\nThis mod was solely made to be used in LPS modpacks so it isn't guaranteed to work outside them.",
+		"long_description": "[![This is an image](https://i.imgur.com/eCqrFBC.jpeg)](https://www.discord.gg/LunaPixel)\n\n[1]:\nhttps://cdn.discordapp.com/attachments/1148115823970492467/1148115879599542272/Background.jpg\n\n[2]:\nhttps://www.discord.gg/9S5tfrY4Fr \n\n### Luna \n\nThe core mod of Luna Pixel Studios' modpacks. This mod adds resources and features needed in all of our packs, including world sharing.\n\nThis mod was solely made to be used in LPS modpacks so it isn't guaranteed to work outside them.\n\n\n<details>\n<summary>License & Privacy Policy</summary>\n\n## License\nCopyright (C) 2025 Luna Pixel Studios\nAll rights reserved unless explicitly stated.\n\nThe project is provided \"as is\", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the author or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the project or the use or other dealings in the project.\n\n## Privacy Policy\nLast Change: January 25th 2025\n\nLuna Pixel Studios (\"we,\" \"our,\" or \"us\") provides a free reverse proxy service called Luna World Sharing to users while prioritizing privacy and security. This Privacy Policy outlines how we handle data transmitted through our service.\n\n## Data Collection\nWhen using our reverse proxy service, certain data is transmitted to our servers to ensure proper functionality and security.\n\n**Data collection begins when you:**\n- Use the \"Share World\" or \"Open to LAN\" button in the game menu.\n- Execute the /luna start command in Minecraft.\n\n**The collected data includes, but is not limited to:**\n- IP Addresses: Collected temporarily to process requests and safeguard the service.\n- UUID (Universally Unique Identifier): Collected to distinguish the user's Minecraft Account UUID.\n- Network Data (Packets) from the Minecraft Integrated Server.\n\n**We use the collected data for the following purposes:**\n- To provide players with a way to create temporary servers to play with other players without the need of opening ports or creating a server, using reverse-proxy technology.\n- To protect our systems by detecting and mitigating potential abuse, spam, or malicious activity.\nIP addresses and UUIDs may be cross-checked against databases of known spam or malicious activity sources. If a match is found, the connection may be automatically blocked to maintain the integrity of our services.\n\n## Data Storage\nWe do not store any data collected during your use of our services. All information, including IP addresses, UUIDs and network data, is processed in real-time and discarded immediately after its intended use.\n\n## Third-Party Services\nWe do not share your data with third-party services unless required by law or to comply with applicable regulations.\n\n## Your Rights\nSince we do not store any user data, there is no information retained that can be accessed, modified, or deleted.\n\n## Changes to This Policy\nWe reserve the right to update this Privacy Policy as necessary to reflect changes to our practices or legal requirements. Updates will be posted with a revised effective date.\n\n</details>\n\n",
 		"name": "Luna",
 		"package_maintainers": [
 			"mcvm"
@@ -85,6 +113,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.0.0",
 			"1.0.0"
 		],
 		"modrinth_id": "T3yEYSUT",
@@ -107,10 +136,15 @@
 			"1.19.3",
 			"1.19.4",
 			"1.20",
-			"1.20.1"
+			"1.20.1",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4"
 		]
-	},
-	"relations": {
-		"dependencies": "kotlin-support"
 	}
 }

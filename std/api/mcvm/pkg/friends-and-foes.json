@@ -4,6 +4,193 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "-mc1.21.5-4.0.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/z0BXpsnn/friendsandfoes-fabric-4.0.1%2Bmc1.21.5.jar",
+					"version": "z0BXpsnn"
+				},
+				{
+					"content_versions": "-mc1.21.4-4.0.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/FstUS8oz/friendsandfoes-fabric-4.0.1%2Bmc1.21.4.jar",
+					"version": "FstUS8oz"
+				},
+				{
+					"content_versions": "-mc1.21.1-4.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/uomsf4t1/friendsandfoes-fabric-4.0.1%2Bmc1.21.1.jar",
+					"version": "uomsf4t1"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.9",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/ByIM0Ee2/friendsandfoes-fabric-mc1.20.2-3.0.9.jar",
+					"version": "ByIM0Ee2"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.9",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/rHPSYLGZ/friendsandfoes-fabric-mc1.19.4-3.0.9.jar",
+					"version": "rHPSYLGZ"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.9",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/Bapt9K7H/friendsandfoes-fabric-mc1.20.4-3.0.9.jar",
+					"version": "Bapt9K7H"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.9",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/lhVThITB/friendsandfoes-fabric-mc1.19.2-3.0.9.jar",
+					"version": "lhVThITB"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.9",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/qM59djUH/friendsandfoes-fabric-mc1.19.3-3.0.9.jar",
+					"version": "qM59djUH"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.9",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/6hhOJ747/friendsandfoes-fabric-mc1.20.1-3.0.9.jar",
+					"version": "6hhOJ747"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/sCdOjYyM/friendsandfoes-fabric-mc1.21.1-3.0.9.jar",
+					"version": "sCdOjYyM"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.9",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/ANOmXl1J/friendsandfoes-fabric-mc1.20.6-3.0.9.jar",
+					"version": "ANOmXl1J"
+				},
+				{
 					"content_versions": "-mc1.20.6-2.0.15",
 					"minecraft_versions": "1.20.6",
 					"modloaders": [
@@ -233,6 +420,1409 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/UBXgjNPD/friendsandfoes-fabric-mc1.18.2-1.4.7.jar",
 					"version": "UBXgjNPD"
+				},
+				{
+					"content_versions": "-mc1.21.5-4.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/K7c9YeVB/friendsandfoes-fabric-4.0.0%2Bmc1.21.5.jar",
+					"version": "K7c9YeVB"
+				},
+				{
+					"content_versions": "-mc1.21.4-4.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/7MwP2SVQ/friendsandfoes-fabric-4.0.0%2Bmc1.21.4.jar",
+					"version": "7MwP2SVQ"
+				},
+				{
+					"content_versions": "-mc1.21.1-4.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"resourceful-lib",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/4DnhRfM1/friendsandfoes-fabric-4.0.0%2Bmc1.21.1.jar",
+					"version": "4DnhRfM1"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/LqBCYpdL/friendsandfoes-fabric-mc1.21.1-3.0.8.jar",
+					"version": "LqBCYpdL"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.8",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/d6E14Dk2/friendsandfoes-fabric-mc1.20.4-3.0.8.jar",
+					"version": "d6E14Dk2"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.8",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/7peqXF19/friendsandfoes-fabric-mc1.20.2-3.0.8.jar",
+					"version": "7peqXF19"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.8",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/rnMzhyIB/friendsandfoes-fabric-mc1.20.6-3.0.8.jar",
+					"version": "rnMzhyIB"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.8",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/Q1pmTghE/friendsandfoes-fabric-mc1.19.4-3.0.8.jar",
+					"version": "Q1pmTghE"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.8",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/V4OZlybX/friendsandfoes-fabric-mc1.19.2-3.0.8.jar",
+					"version": "V4OZlybX"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.8",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/WnoStx9X/friendsandfoes-fabric-mc1.19.3-3.0.8.jar",
+					"version": "WnoStx9X"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.8",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/UBwahzRd/friendsandfoes-fabric-mc1.20.1-3.0.8.jar",
+					"version": "UBwahzRd"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.7",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/DX12SGBP/friendsandfoes-fabric-mc1.20.2-3.0.7.jar",
+					"version": "DX12SGBP"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.7",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/90ZDpSw0/friendsandfoes-fabric-mc1.20.1-3.0.7.jar",
+					"version": "90ZDpSw0"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.7",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/NnTEjnt5/friendsandfoes-fabric-mc1.20.4-3.0.7.jar",
+					"version": "NnTEjnt5"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.7",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/3L4gcadj/friendsandfoes-fabric-mc1.19.4-3.0.7.jar",
+					"version": "3L4gcadj"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.7",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/cgQIZvFr/friendsandfoes-fabric-mc1.19.3-3.0.7.jar",
+					"version": "cgQIZvFr"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.7",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/Dre4egDp/friendsandfoes-fabric-mc1.19.2-3.0.7.jar",
+					"version": "Dre4egDp"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.7",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/rlRfmczX/friendsandfoes-fabric-mc1.20.6-3.0.7.jar",
+					"version": "rlRfmczX"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/hNMiHkkw/friendsandfoes-fabric-mc1.21.1-3.0.7.jar",
+					"version": "hNMiHkkw"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.6",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/7H0cR4ue/friendsandfoes-fabric-mc1.20.1-3.0.6.jar",
+					"version": "7H0cR4ue"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.6",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/3DQnUAq9/friendsandfoes-fabric-mc1.20.2-3.0.6.jar",
+					"version": "3DQnUAq9"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.6",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/OHBzRj5J/friendsandfoes-fabric-mc1.20.4-3.0.6.jar",
+					"version": "OHBzRj5J"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/P8g07TQ8/friendsandfoes-fabric-mc1.21.1-3.0.6.jar",
+					"version": "P8g07TQ8"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/ttW14dpC/friendsandfoes-fabric-mc1.20.6-3.0.6.jar",
+					"version": "ttW14dpC"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.6",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/ksNJ0MUr/friendsandfoes-fabric-mc1.19.3-3.0.6.jar",
+					"version": "ksNJ0MUr"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.6",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/2M9cVIeN/friendsandfoes-fabric-mc1.19.4-3.0.6.jar",
+					"version": "2M9cVIeN"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.6",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/fwc8FvYc/friendsandfoes-fabric-mc1.19.2-3.0.6.jar",
+					"version": "fwc8FvYc"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/eUncYB8D/friendsandfoes-fabric-mc1.21.1-3.0.5.jar",
+					"version": "eUncYB8D"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.5",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/y6qspcQ4/friendsandfoes-fabric-mc1.20.2-3.0.5.jar",
+					"version": "y6qspcQ4"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.5",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/cEaVEM7z/friendsandfoes-fabric-mc1.20.4-3.0.5.jar",
+					"version": "cEaVEM7z"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.5",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/XKsxVC47/friendsandfoes-fabric-mc1.20.6-3.0.5.jar",
+					"version": "XKsxVC47"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.5",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/Kp2MCk9J/friendsandfoes-fabric-mc1.19.3-3.0.5.jar",
+					"version": "Kp2MCk9J"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.5",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/M0tkPvo4/friendsandfoes-fabric-mc1.20.1-3.0.5.jar",
+					"version": "M0tkPvo4"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.5",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/OL74ojaF/friendsandfoes-fabric-mc1.19.4-3.0.5.jar",
+					"version": "OL74ojaF"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.5",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/ZAKnzUfs/friendsandfoes-fabric-mc1.19.2-3.0.5.jar",
+					"version": "ZAKnzUfs"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.4",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/GOLXqUaN/friendsandfoes-fabric-mc1.20.2-3.0.4.jar",
+					"version": "GOLXqUaN"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.4",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/pir3nz4j/friendsandfoes-fabric-mc1.20.6-3.0.4.jar",
+					"version": "pir3nz4j"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/EhZRdHtd/friendsandfoes-fabric-mc1.21.1-3.0.4.jar",
+					"version": "EhZRdHtd"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/j0gtpOd3/friendsandfoes-fabric-mc1.19.4-3.0.4.jar",
+					"version": "j0gtpOd3"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.4",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/BVjUYfVL/friendsandfoes-fabric-mc1.20.4-3.0.4.jar",
+					"version": "BVjUYfVL"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.4",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/dY7lgDiF/friendsandfoes-fabric-mc1.19.2-3.0.4.jar",
+					"version": "dY7lgDiF"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.4",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/poxBZknH/friendsandfoes-fabric-mc1.19.3-3.0.4.jar",
+					"version": "poxBZknH"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/L8RF1KKq/friendsandfoes-fabric-mc1.20.1-3.0.4.jar",
+					"version": "L8RF1KKq"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.3",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/5JACGulF/friendsandfoes-fabric-mc1.20.2-3.0.3.jar",
+					"version": "5JACGulF"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.3",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/xgZPVICe/friendsandfoes-fabric-mc1.20.6-3.0.3.jar",
+					"version": "xgZPVICe"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.3",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/n5oz4Ydm/friendsandfoes-fabric-mc1.19.4-3.0.3.jar",
+					"version": "n5oz4Ydm"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.3",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/ZSr2YsBe/friendsandfoes-fabric-mc1.20.1-3.0.3.jar",
+					"version": "ZSr2YsBe"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.3",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/2A83FJwN/friendsandfoes-fabric-mc1.19.3-3.0.3.jar",
+					"version": "2A83FJwN"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.3",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/expW1tv2/friendsandfoes-fabric-mc1.19.2-3.0.3.jar",
+					"version": "expW1tv2"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/Le3XofBl/friendsandfoes-fabric-mc1.21.1-3.0.3.jar",
+					"version": "Le3XofBl"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.3",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/VNu1bPWS/friendsandfoes-fabric-mc1.20.4-3.0.3.jar",
+					"version": "VNu1bPWS"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.2",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/wKAjf80B/friendsandfoes-fabric-mc1.20.6-3.0.2.jar",
+					"version": "wKAjf80B"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.2",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/7H2O2HVg/friendsandfoes-fabric-mc1.20.2-3.0.2.jar",
+					"version": "7H2O2HVg"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.2",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/TIy4ZkZe/friendsandfoes-fabric-mc1.19.3-3.0.2.jar",
+					"version": "TIy4ZkZe"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.2",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/5B8K9BRa/friendsandfoes-fabric-mc1.20.1-3.0.2.jar",
+					"version": "5B8K9BRa"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.2",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/8wqpEEmj/friendsandfoes-fabric-mc1.19.4-3.0.2.jar",
+					"version": "8wqpEEmj"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.2",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/n4kTZhnE/friendsandfoes-fabric-mc1.20.4-3.0.2.jar",
+					"version": "n4kTZhnE"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/7QU0yvgE/friendsandfoes-fabric-mc1.21.1-3.0.2.jar",
+					"version": "7QU0yvgE"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/tx8HV8gp/friendsandfoes-fabric-mc1.19.2-3.0.2.jar",
+					"version": "tx8HV8gp"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.1",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/21lJOsTk/friendsandfoes-fabric-mc1.20.4-3.0.1.jar",
+					"version": "21lJOsTk"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.1",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/ydUkArmS/friendsandfoes-fabric-mc1.20.2-3.0.1.jar",
+					"version": "ydUkArmS"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/8Iv72Kgd/friendsandfoes-fabric-mc1.20.1-3.0.1.jar",
+					"version": "8Iv72Kgd"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.1",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/TvegKPwE/friendsandfoes-fabric-mc1.19.4-3.0.1.jar",
+					"version": "TvegKPwE"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.1",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/ErErgFVE/friendsandfoes-fabric-mc1.19.3-3.0.1.jar",
+					"version": "ErErgFVE"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.1",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/i9JXqQnK/friendsandfoes-fabric-mc1.20.6-3.0.1.jar",
+					"version": "i9JXqQnK"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.1",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/AFFM6KYr/friendsandfoes-fabric-mc1.19.2-3.0.1.jar",
+					"version": "AFFM6KYr"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/kFz4ptFN/friendsandfoes-fabric-mc1.21.1-3.0.1.jar",
+					"version": "kFz4ptFN"
+				},
+				{
+					"content_versions": "-mc1.20.2-3.0.0",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/jOTe7wyH/friendsandfoes-fabric-mc1.20.2-3.0.0.jar",
+					"version": "jOTe7wyH"
+				},
+				{
+					"content_versions": "-mc1.20.4-3.0.0",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/Qu9MAUUp/friendsandfoes-fabric-mc1.20.4-3.0.0.jar",
+					"version": "Qu9MAUUp"
+				},
+				{
+					"content_versions": "-mc1.20.6-3.0.0",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/3h9veQU0/friendsandfoes-fabric-mc1.20.6-3.0.0.jar",
+					"version": "3h9veQU0"
+				},
+				{
+					"content_versions": "-mc1.19.3-3.0.0",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/j4mKBY7M/friendsandfoes-fabric-mc1.19.3-3.0.0.jar",
+					"version": "j4mKBY7M"
+				},
+				{
+					"content_versions": "-mc1.19.4-3.0.0",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/gu1D8ECp/friendsandfoes-fabric-mc1.19.4-3.0.0.jar",
+					"version": "gu1D8ECp"
+				},
+				{
+					"content_versions": "-mc1.20.1-3.0.0",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/8C32FQuX/friendsandfoes-fabric-mc1.20.1-3.0.0.jar",
+					"version": "8C32FQuX"
+				},
+				{
+					"content_versions": "-mc1.21.1-3.0.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/WAKPIink/friendsandfoes-fabric-mc1.21.1-3.0.0.jar",
+					"version": "WAKPIink"
+				},
+				{
+					"content_versions": "-mc1.19.2-3.0.0",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/chzc9BP8/friendsandfoes-fabric-mc1.19.2-3.0.0.jar",
+					"version": "chzc9BP8"
+				},
+				{
+					"content_versions": "-mc1.21.1-2.0.17",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/3Y6apbIK/friendsandfoes-fabric-mc1.21.1-2.0.17.jar",
+					"version": "3Y6apbIK"
+				},
+				{
+					"content_versions": "-mc1.20.6-2.0.17",
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/avTx0RSj/friendsandfoes-fabric-mc1.20.6-2.0.17.jar",
+					"version": "avTx0RSj"
+				},
+				{
+					"content_versions": "-mc1.20.4-2.0.17",
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/Em08bS6u/friendsandfoes-fabric-mc1.20.4-2.0.17.jar",
+					"version": "Em08bS6u"
+				},
+				{
+					"content_versions": "-mc1.20.2-2.0.17",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/tNRWD5PE/friendsandfoes-fabric-mc1.20.2-2.0.17.jar",
+					"version": "tNRWD5PE"
+				},
+				{
+					"content_versions": "-mc1.20.1-2.0.17",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/WSL8y5Nt/friendsandfoes-fabric-mc1.20.1-2.0.17.jar",
+					"version": "WSL8y5Nt"
+				},
+				{
+					"content_versions": "-mc1.19.4-2.0.17",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/U9XPE39a/friendsandfoes-fabric-mc1.19.4-2.0.17.jar",
+					"version": "U9XPE39a"
+				},
+				{
+					"content_versions": "-mc1.19.3-2.0.17",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/WMRdC3YW/friendsandfoes-fabric-mc1.19.3-2.0.17.jar",
+					"version": "WMRdC3YW"
+				},
+				{
+					"content_versions": "-mc1.19.2-2.0.17",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/CLBUaxAz/friendsandfoes-fabric-mc1.19.2-2.0.17.jar",
+					"version": "CLBUaxAz"
+				},
+				{
+					"content_versions": "-mc1.20.6-2.0.16",
+					"minecraft_versions": "1.20.6",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/8XKWbNSM/friendsandfoes-fabric-mc1.20.6-2.0.16.jar",
+					"version": "8XKWbNSM"
+				},
+				{
+					"content_versions": "-mc1.21-2.0.16",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/QDAD0EqU/friendsandfoes-fabric-mc1.21-2.0.16.jar",
+					"version": "QDAD0EqU"
+				},
+				{
+					"content_versions": "-mc1.20.4-2.0.16",
+					"minecraft_versions": "1.20.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/iaCS8mXi/friendsandfoes-fabric-mc1.20.4-2.0.16.jar",
+					"version": "iaCS8mXi"
+				},
+				{
+					"content_versions": "-mc1.20.2-2.0.16",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/pBMhNQrV/friendsandfoes-fabric-mc1.20.2-2.0.16.jar",
+					"version": "pBMhNQrV"
+				},
+				{
+					"content_versions": "-mc1.20.1-2.0.16",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/RwSCWy4k/friendsandfoes-fabric-mc1.20.1-2.0.16.jar",
+					"version": "RwSCWy4k"
+				},
+				{
+					"content_versions": "-mc1.19.4-2.0.16",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/UEvmY4bD/friendsandfoes-fabric-mc1.19.4-2.0.16.jar",
+					"version": "UEvmY4bD"
+				},
+				{
+					"content_versions": "-mc1.19.3-2.0.16",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/YBFdVqeB/friendsandfoes-fabric-mc1.19.3-2.0.16.jar",
+					"version": "YBFdVqeB"
+				},
+				{
+					"content_versions": "-mc1.19.2-2.0.16",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/hlo9X0CC/friendsandfoes-fabric-mc1.19.2-2.0.16.jar",
+					"version": "hlo9X0CC"
 				},
 				{
 					"content_versions": "-mc1.21-2.0.14",
@@ -2831,28 +4421,38 @@
 		"authors": [
 			"faboslav"
 		],
-		"banner": "https://cdn.modrinth.com/data/POQ2i9zu/images/838bc8d410b57bd84bc66ab53fb764e4c1953d1f.jpeg",
+		"banner": "https://cdn.modrinth.com/data/POQ2i9zu/images/e82a9ac0080130093b637ebcf6d754c684103eb0_350.webp",
 		"community": "https://discord.com/invite/QGwFvvMQCn",
-		"description": "Adds outvoted and forgotten mobs from the mob votes in a believable vanilla plus style. (Copper Golem, Glare, Moobloom, Iceologer, Barnacle, Wildfire, Illusioner, Rascal, Tuff Golem)",
+		"description": "Adds outvoted and forgotten mobs from the mob vote, expanding on their original concepts and adding new vanilla-like features. The mod includes: Copper Golem, Crab, Glare, Moobloom, Iceologer, Rascal, Tuff Golem, Wildfire, Illusioner, Zombie Horse",
 		"documentation": "https://github.com/Faboslav/friends-and-foes/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/838bc8d410b57bd84bc66ab53fb764e4c1953d1f.jpeg",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/3da3b283e6e705dd9ba7351400cf8da513ca55ec.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/4bc74af0418cc347868c5865f544d5b675280392.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/57118a145f44eee48c85318f72c56d672a6624b2.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/75785182602f9fd39c71935c7be422141270b8ab.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/9b7825bec480cd5eb728c2ae69b21a10a624dfce.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/e8211ce28dda0bb5d754d003ec9fcdce2ec9d3c2.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/f793db73879387337198b2725deca9dc20733527.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/f9dca10e24d6dd10a67e6d1a8797f9b71dac10ab.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/fc7d4198ca82933401b316e10cf59114a646a167.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/fe5f53aecd1e97f18552914f00847d4f8c8a8297.png",
-			"https://cdn.modrinth.com/data/POQ2i9zu/images/ffd03e2c2530397a503874e5c3546d3b3f30e709.png"
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/e82a9ac0080130093b637ebcf6d754c684103eb0_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/ac3ed2d429a4b300c0f7892f88ce7e5b141e95f3_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/abe4e1b7e600dd637e1155c8e0c97b64ff18ffe1_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/9480c1a0056b068a2199e14cf21b788d27a8edc5_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/b255834dc5a5a55c24f3ff08562bc428c8d746c1_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/43fc1817bcb96a975ad8d3d7ac5fcae0cfd7eadc_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/a94a5b935a43e3a5be607155f8f6afbe944b65f9_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/ff071dcbb0ec6f197fd6f77621d2ae7b6dc8dcb6_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/502921357d6656042c6537b616254f0dabb203cd_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/87bab43aadea35f943ece5e0e6e06e229542279d_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/a2a2df46670e0fa2643e08d076ea02bfcd9d4ddb_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/9c5d640ee5070ac9eb2dd7a01a06201288e158f3_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/7a05c06f92f5a75994449139670686b593d3c3a9_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/4c06e17444bee6f0a23e56451a5788f889cf4f28_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/3265740c52749c655071ec4b7662431a9cfebb9e_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/ce46d285ff3fa704bbb3bd338b9957ead5bfa0d6_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/c4dfe7ce331935e8a2de1b54788d1737b3d632d2_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/1a159b48d78bc2701d63a827dc8b69f3cbdda0b4_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/35db7af08d7d094c92460f86543871e25a4dd141_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/4844b313794b10ef83c6b696c9715a664248c4ea_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/53bbdd36824dfce9d3aa526d0ed921d67b9eeb31_350.webp",
+			"https://cdn.modrinth.com/data/POQ2i9zu/images/5d893d17419fbc4562f99e80bb0f569ecbbbb493_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/POQ2i9zu/fe23f8f297e91811bc1cdff3a617b4a5249fae16.jpeg",
+		"icon": "https://cdn.modrinth.com/data/POQ2i9zu/21fc204176fc381b20482365c3a36574e706b4d0_96.webp",
 		"issues": "https://github.com/Faboslav/friends-and-foes/issues",
 		"license": "CC-BY-NC-ND-4.0",
-		"long_description": "<br>\n\n<center>\n\t<img title=\"Friends&amp;Foes\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/page/logo.png\" alt=\"Friends&amp;Foes\" width=\"743\" height=\"110\">\n</center>\n\n<br>\n\n<center>\n\t<a style=\"text-decoration: none;\" href=\"https://ko-fi.com/faboslav\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=Support me on&message=Ko-fi&color=5b9c51&labelColor=5b9c51&logoColor=ffffff&style=for-the-badge&logo=ko-fi\" alt=\"Ko-fi\">\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://www.patreon.com/Faboslav\">\n\t\t<img src=\"https://img.shields.io/endpoint.svg?color=5b9c51&label=Support me on&labelColor=5b9c51&logoColor=ffffff&url=https://shieldsio-patreon.vercel.app/api?username=Faboslav&type=patrons&style=for-the-badge\" alt=\"Patreon\">\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://discord.gg/QGwFvvMQCn\">\n\t\t<img src=\"https://img.shields.io/discord/924964658169913404?style=for-the-badge&logo=discord&logoColor=ffffff&label=Community&labelColor=5b9c51&color=5b9c51\" alt=\"Discord\">\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://github.com/Faboslav/friends-and-foes/wiki\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=&message=Wiki&logoColor=ffffff&style=for-the-badge&logo=github&labelColor=5b9c51&color=5b9c51\" alt=\"Wiki\">\n\t</a>\n</center>\n\n<br>\n\n<p style=\"font-size: 18px;\">\n\tFriends&amp;Foes adds outvoted and forgotten mobs from the mob vote. One of the main goals is to further expand upon original concepts and add new vanilla-like features related to all the mobs.\n</p>\n\n<p style=\"font-size: 18px;\">\n\tYou can check <a title=\"wiki\" href=\"https://github.com/Faboslav/friends-and-foes/wiki\">wiki</a> for a detailed overview of implemented mobs and features.\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Tuff Golem\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem.gif\" alt=\"Tuff Golem\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Tuff Golem</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\t<a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem\">Tuff Golem</a>, a statuesque mob, which can hold and display any item you give it, but be careful when it is not sleeping it loves to take spontaneous strolls.\n\tWant your tuff golem to stay put? Stick it in place with a <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem#glueing\">honeycomb</a>. If you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem#creation\">build</a> this sleeping beauty, gather a tuff block, a wool block of any <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem#dyeing\">color</a>, and a pumpkin.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_1.webp\" width=\"49.4%\" alt=\"Tuff Golem holding enchanted book\" title=\"Tuff Golem holding enchanted book\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_2.webp\" width=\"49.4%\" alt=\"Sleeping Tuff Golems\" title=\"Sleeping Tuff Golems\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Rascal\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal.gif\" alt=\"Rascal\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Rascal</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tDiscover <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Rascal\">Rascal</a>, a mischievous little creature located in the mines, that finds joy in the game of hide-and-seek.\n\tIt’s both playful and helpful, giving you hints as you search for it.\n\tFind it three times and it will reward you with the bundle of your dreams!\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_1.webp\" width=\"49.4%\" alt=\"Rascal in the mines\" title=\"Rascal in the mines\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_2.webp\" width=\"49.4%\" alt=\"Rascal throwing out the bundle\" title=\"Rascal throwing out the bundle\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Copper Golem\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem.gif\" alt=\"Copper Golem\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Copper Golem</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tMeet the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem\">Copper Golem</a>, a pocket-sized, comedic marvel that finds joy in randomly pressing copper buttons.\n\tLike any other copper creations it will <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#oxidation\">oxidize</a> over time, but do not worry, maintenance is a breeze! For a quick makeover, grab an <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#scraping\">axe</a> or a <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#waxing\">honeycomb</a>.\n\tIf you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#creation\">build</a> this little creature, gather a copper block, a pumpkin, and a lightning rod.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_1.webp\" width=\"49.4%\" alt=\"Copper Golem Workstation structure in the village\" title=\"Copper Golem Workstation structure in the village\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_2.webp\" width=\"49.4%\" alt=\"Copper Golems\" title=\"Copper Golems\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the copper golem:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem-Workstation\">Copper Golem Workstation</a> village structure</li>\n\t<li>All copper variants of <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Button\">Copper Buttons</a></li>\n\t<li>All copper variants of <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Lightning-Rod\">Lightning Rods</a></li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img style=\"height: 40px; margin-bottom: 0px;\" title=\"Glare\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare.webp\" alt=\"Glare\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Glare</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tIntroducing the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Glare\">Glare</a>, grumpy and cute mossy companion living in the lush caves that hates the darkness.\n\tDo you share a disdain for the dark? In that case glare can show you areas that are dark enough for monsters to spawn.\n\tIf you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Glare#taming\">tame</a> or <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Glare#breeding\">breed</a> this little cutie, you will need the glow berries, but be careful, glares tends to snack on them regularly, leaving no leftovers.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_1.webp\" width=\"49.4%\" alt=\"Baby and adult Glare\" title=\"Baby and adult Glare\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_2.webp\" width=\"49.4%\" alt=\"Flying Glare in the lush caves\" title=\"Flying Glare in the lush caves\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Iceologer\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer.webp\" alt=\"Iceologer\" width=\"25\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Iceologer</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tEncounter the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer\">Iceologer</a>, a lonely illager who lives deep in the snows.\n\tYou can find him by searching for a small spruce <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer-Cabin\">cabin</a> among the trees.\n\tBut be careful on your adventure though, as years of living in the wild has made his heart colder than the ice around him. If he spots you, brace for <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer-Cabin\">icy attacks</a>, turning your adventure into a frosty challenge.\n</p>\t\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_1.webp\" width=\"49.4%\" alt=\"Iceologer Cabin in the snows\" title=\"Iceologer Cabin in the snows\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_2.webp\" width=\"49.4%\" alt=\"Iceologer attacking the villager\" title=\"Iceologer attacking the villager\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the iceologer:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer-Cabin\">Iceologer Cabin</a> structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Totem-of-Freezing\">Totem of Freezing</a> item</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Moobloom\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom.webp\" alt=\"Moobloom\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Moobloom</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\t\tPresenting the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Moobloom\">Moobloom</a>, sun-kissed cow, covered with a beautiful flowers, living mostly in the flower forests.\n\t\tThese flower-covered companions are not only a sight to behold, but also engage in a harmonious synergy with bees.\n\t\tAs they traverse, the mooblooms leave a trail of blooming flora, turning each step into a mesmerizing journey through nature's wonders.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_1.webp\" width=\"49.4%\" alt=\"Buttercup Mooblooms\" title=\"Buttercup Mooblooms\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_2.webp\" width=\"49.4%\" alt=\"Flowery Mooblooms\" title=\"Flowery Mooblooms\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the moobloom:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Buttercup\">Buttercup</a> flower</li>\n\t<li>All wood variants of <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Beehives\">Beehives</a></li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Beekeeper-Area\">Beekeeper Area</a> village structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Beekeeper\">Beekeeper</a> villager profession</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Wildfire\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire.webp\" alt=\"Wildfire\" width=\"50\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Wildfire</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\t<a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Wildfire\">Wildfire</a>, the master of blazes, which is protected by four shields.\n\tThis encounter is not a friendly one, watch out for its shield debris barrage and ground-shaking shockwave attack.\n\tWhen cornered, it summons blazes for reinforcement. Conquer the challenge, wield strategy against this fiery sentinel in it's <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Citadel\">citadel</a> domain.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_1.webp\" width=\"49.4%\" alt=\"Citadel structure in the nether\" title=\"Citadel structure in the nether\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_2.webp\" width=\"49.4%\" alt=\"Wildfire in the citadel\" title=\"Wildfire in the citadel\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the wildfire:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Citadel\">Citadel</a> structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Wildfire-Crown\">Wildfire Crown</a> item</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Wildfire-Crown-Fragment\">Wildfire Crown Fragment</a> item</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Mauler (The Great Hunger)\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler.webp\" alt=\"Mauler\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Mauler (The Great Hunger)</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tIntroducing the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Mauler-(The-Great-Hunger)\">Mauler</a>, pint-sized predator roaming savannas, badlands, and deserts. They are on a quest for chickens, rabbits, and more.\n\tYou can feed them enchanted goodies to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Mauler-(The-Great-Hunger)#storing-and-extracting-experience-points\">store experience points</a> and later extract them using bottles. But beware the more experience points, the bigger and hungrier the Mauler!\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_1.webp\" width=\"49.4%\" alt=\"Maulers hunting the chicken\" title=\"Maulers hunting the chicken\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_2.webp\" width=\"49.4%\"  alt=\"Fed Mauler\" title=\"Fed Mauler\" title=\"Fed Mauler\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Illusioner\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner.webp\" alt=\"Illusioner\" width=\"25\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Illusioner</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tEncounter the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner\">Illusioner</a>, a cunning trickster armed with a bow who lives in the taiga. You can find him by searching for a small shack or his training grounds.\n\tApproach with caution, for the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner#casting-blindness\">blinding spell</a> may leave you in the dark, making it challenging to distinguish between <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner#summoning-illusions\">illusion</a> and reality.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_1.webp\" width=\"49.4%\" alt=\"Illusioner Shack in the taiga\" title=\"Illusioner Shack in the taiga\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_2.webp\" width=\"49.4%\" alt=\"Illusioner in the training grounds\" title=\"Illusioner in the training grounds\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the illusioner:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner-Shack\">Illusioner Shack</a> structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Totem-of-Illusion\">Totem of Illusion</a> item</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Zombie Horse (Trap)\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse.webp\" alt=\"Zombie Horse (Trap)\" width=\"50\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Zombie Horse (Trap)</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tEver wanted to ride a <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Zombie-Horse-(Trap)\">Zombie Horse</a>? If so, approach one during a thunderstorm, and magic may happen – you might even catch a glimpse of the four horsemen.\"\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_1.webp\" width=\"49.4%\" alt=\"Zombie Horse during thunderstorm\" title=\"Zombie Horse during thunderstorm\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_2.webp\" width=\"49.4%\" alt=\"Four Horsemen during thunderstorm\" title=\"Four Horsemen during thunderstorm\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>⚙️ Compatibility / addons</h1>\n\n<p style=\"font-size: 18px;\">\n\tFriends&Foes is designed to be fully compatible with all other mods, and it currently offers few addons and datapacks:\n</p>\n\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric\">Friends&Foes - Flowery Mooblooms</a></li>\n\t<li><a href=\"https://modrinth.com/mod/friends-and-foes-beekeeper-hut-fabric\">Friends&Foes - Beekeeper Hut</a></li>\n\t<li><a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-friends-and-foes-datapack\">Repurposed Structures - Friends and Foes Compat Datapack</a></li>\n\t<li><a href=\"https://modrinth.com/datapack/ctov-friends-and-foes-compat\">CTOV - Friends and Foes Compat Datapack</a></li>\n</ul>\n\n<br>\n<br>\n\n<h1>💬 Community</h1>\n\n<p style=\"font-size: 18px;\">\n\tFeel free to <a href=\"https://discord.gg/QGwFvvMQCn\">join our community at the discord server</a> to chat, share your creations, ask any question or to simply be updated about the latest development of the mod and notified when the new release is out.\n\tAlso don't hesitate to <a href=\"https://github.com/Faboslav/friends-and-foes/issues\">report any crash or bug via GitHub issues</a>.\n</p>\n\n<br>\n<br>\n\n<h1>👋 Support</h1>\n\n<p style=\"font-size: 18px;\">\n\tI will continue developing my mods as a hobby because I truly enjoy it. If you'd like to support me, you can do so on <a href=\"https://www.patreon.com/Faboslav\">Patreon</a> or <a href=\"https://ko-fi.com/faboslav\">Ko-fi</a>. Your support is greatly appreciated.\n</p>\n\n<br>\n<br>\n\n<h1>📜 License</h1>\n\n<p style=\"font-size: 18px;\">\n\tThe mod is licensed with <a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/LICENSE.txt\">CC BY-NC-ND 4.0</a> license.\n</p>\n\n<p style=\"font-size: 18px;\">\n\tPlease feel free to explore my code for examples of how I've tackled and solved various challenges while developing this mod. You're welcome to incorporate code snippets into your own projects. Also feel free to use this mod in any modpack (although credit/link back to this page will be greatly appreciated).\n</p>\n\n<p style=\"font-size: 18px;\">\n\tYou can also look into the <a href=\"https://github.com/Faboslav/friends-and-foes/tree/master/blockbench\">blockbench directory</a> which contains all the models &amp; palettes and into the <a href=\"https://github.com/Faboslav/friends-and-foes/tree/master/common/src/main/resources/assets/friendsandfoes/textures\">textures directory</a> for textures. Get inspired, but please don't just copy &amp; paste any of it as your own.\n</p>",
+		"long_description": "<br>\n\n<center>\n\t<img title=\"Friends&amp;Foes\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/page/logo.png\" alt=\"Friends&amp;Foes\" width=\"743\" height=\"110\">\n</center>\n\n<br>\n\n<center>\n\t<a style=\"text-decoration: none;\" href=\"https://ko-fi.com/faboslav\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=Support me on&message=Ko-fi&color=5b9c51&labelColor=5b9c51&logoColor=ffffff&style=for-the-badge&logo=ko-fi\" alt=\"Support me on Ko-fi\" title=\"Support me on Ko-fi\">\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://www.patreon.com/Faboslav\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=Support me on&message=Patreon&color=5b9c51&labelColor=5b9c51&logoColor=ffffff&style=for-the-badge&logo=patreon\" alt=\"Support me on Patreon\" title=\"Support me on Patreon\">\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://discord.gg/QGwFvvMQCn\">\n\t\t<img src=\"https://img.shields.io/discord/924964658169913404?style=for-the-badge&logo=discord&logoColor=ffffff&label=Join discord&labelColor=5b9c51&color=5b9c51\" alt=\"Discord\">\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://github.com/Faboslav/friends-and-foes/wiki\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=&message=Wiki&logoColor=ffffff&style=for-the-badge&logo=github&labelColor=5b9c51&color=5b9c51\" alt=\"Wiki\">\n\t</a>\n</center>\n\n<br>\n\n<p style=\"font-size: 18px;\">\n\tFriends&amp;Foes adds outvoted and forgotten mobs from the mob vote. One of the main goals is to further expand upon original concepts and add new vanilla-like features related to all the mobs.\n</p>\n\n<p style=\"font-size: 18px;\">\n\tYou can check <a title=\"wiki\" href=\"https://github.com/Faboslav/friends-and-foes/wiki\">wiki</a> for a detailed overview of implemented mobs and features.\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Crab\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab.gif\" alt=\"Crab\" width=\"60\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Crab</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tIntroducing the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Crab\">Crab</a>, a friendly creature wandering the mangrove swamps and beaches.\n\tLooking to extend your reach? The crab claw can be used to craft a potion that increases your reach, giving you a valuable advantage in your adventures.\n\tIf you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Crab#breeding\">breed</a> this little fella, you’ll need kelp and patience, as crabs need to \"bury\" their eggs in a safe place.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab_1.webp\" width=\"49.4%\" alt=\"Waving Crab\" title=\"Waving Crab\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab_2.webp\" width=\"49.4%\" alt=\"Crab climbing a mangrove tree\" title=\"Crab climbing a mangrove tree\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the crab:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Craw-Claw\">Crab Claw</a> item</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Reaching\">Reaching</a> status effect</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Tuff Golem\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem.gif\" alt=\"Tuff Golem\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Tuff Golem</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\t<a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem\">Tuff Golem</a>, a statuesque mob, which can hold and display any item you give it, but be careful when it is not sleeping it loves to take spontaneous strolls.\n\tWant your tuff golem to stay put? Stick it in place with a <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem#glueing\">honeycomb</a>. If you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem#creation\">build</a> this sleeping beauty, gather a tuff block, a wool block of any <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem#dyeing\">color</a>, and a pumpkin.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_1.webp\" width=\"49.4%\" alt=\"Tuff Golem holding enchanted book\" title=\"Tuff Golem holding enchanted book\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_2.webp\" width=\"49.4%\" alt=\"Sleeping Tuff Golems\" title=\"Sleeping Tuff Golems\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Rascal\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal.gif\" alt=\"Rascal\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Rascal</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tDiscover <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Rascal\">Rascal</a>, a mischievous little creature located in the mines, that finds joy in the game of hide-and-seek.\n\tIt’s both playful and helpful, giving you hints as you search for it.\n\tFind it three times and it will reward you with the bundle of your dreams!\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_1.webp\" width=\"49.4%\" alt=\"Rascal in the mines\" title=\"Rascal in the mines\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_2.webp\" width=\"49.4%\" alt=\"Rascal throwing out the bundle\" title=\"Rascal throwing out the bundle\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Copper Golem\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem.gif\" alt=\"Copper Golem\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Copper Golem</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tMeet the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem\">Copper Golem</a>, a pocket-sized, comedic marvel that finds joy in randomly pressing copper buttons.\n\tLike any other copper creations it will <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#oxidation\">oxidize</a> over time, but do not worry, maintenance is a breeze! For a quick makeover, grab an <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#scraping\">axe</a> or a <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#waxing\">honeycomb</a>.\n\tIf you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#creation\">build</a> this little creature, gather a copper block, a pumpkin, and a lightning rod.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_1.webp\" width=\"49.4%\" alt=\"Copper Golem Workstation structure in the village\" title=\"Copper Golem Workstation structure in the village\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_2.webp\" width=\"49.4%\" alt=\"Copper Golems\" title=\"Copper Golems\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the copper golem:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem-Workstation\">Copper Golem Workstation</a> village structure</li>\n\t<li>All copper variants of <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Button\">Copper Buttons</a></li>\n\t<li>All copper variants of <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Lightning-Rod\">Lightning Rods</a></li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img style=\"height: 40px; margin-bottom: 0px;\" title=\"Glare\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare.webp\" alt=\"Glare\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Glare</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tIntroducing the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Glare\">Glare</a>, grumpy and cute mossy companion living in the lush caves that hates the darkness.\n\tDo you share a disdain for the dark? In that case glare can show you areas that are dark enough for monsters to spawn.\n\tIf you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Glare#taming\">tame</a> or <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Glare#breeding\">breed</a> this little cutie, you will need the glow berries, but be careful, glares tends to snack on them regularly, leaving no leftovers.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_1.webp\" width=\"49.4%\" alt=\"Baby and adult Glare\" title=\"Baby and adult Glare\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_2.webp\" width=\"49.4%\" alt=\"Flying Glare in the lush caves\" title=\"Flying Glare in the lush caves\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Iceologer\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer.webp\" alt=\"Iceologer\" width=\"25\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Iceologer</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tEncounter the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer\">Iceologer</a>, a lonely illager who lives deep in the snows.\n\tYou can find him by searching for a small spruce <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer-Cabin\">cabin</a> among the trees.\n\tBut be careful on your adventure though, as years of living in the wild has made his heart colder than the ice around him. If he spots you, brace for <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer-Cabin\">icy attacks</a>, turning your adventure into a frosty challenge.\n</p>\t\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_1.webp\" width=\"49.4%\" alt=\"Iceologer Cabin in the snows\" title=\"Iceologer Cabin in the snows\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_2.webp\" width=\"49.4%\" alt=\"Iceologer attacking the villager\" title=\"Iceologer attacking the villager\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the iceologer:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer-Cabin\">Iceologer Cabin</a> structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Totem-of-Freezing\">Totem of Freezing</a> item</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Moobloom\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom.webp\" alt=\"Moobloom\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Moobloom</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\t\tPresenting the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Moobloom\">Moobloom</a>, sun-kissed cow, covered with a beautiful flowers, living mostly in the flower forests.\n\t\tThese flower-covered companions are not only a sight to behold, but also engage in a harmonious synergy with bees.\n\t\tAs they traverse, the mooblooms leave a trail of blooming flora, turning each step into a mesmerizing journey through nature's wonders.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_1.webp\" width=\"49.4%\" alt=\"Buttercup Mooblooms\" title=\"Buttercup Mooblooms\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_2.webp\" width=\"49.4%\" alt=\"Flowery Mooblooms\" title=\"Flowery Mooblooms\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the moobloom:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Buttercup\">Buttercup</a> flower</li>\n\t<li>All wood variants of <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Beehives\">Beehives</a></li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Beekeeper-Area\">Beekeeper Area</a> village structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Beekeeper\">Beekeeper</a> villager profession</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Wildfire\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire.webp\" alt=\"Wildfire\" width=\"50\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Wildfire</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\t<a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Wildfire\">Wildfire</a>, the master of blazes, which is protected by four shields.\n\tThis encounter is not a friendly one, watch out for its shield debris barrage and ground-shaking shockwave attack.\n\tWhen cornered, it summons blazes for reinforcement. Conquer the challenge, wield strategy against this fiery sentinel in it's <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Citadel\">citadel</a> domain.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_1.webp\" width=\"49.4%\" alt=\"Citadel structure in the nether\" title=\"Citadel structure in the nether\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_2.webp\" width=\"49.4%\" alt=\"Wildfire in the citadel\" title=\"Wildfire in the citadel\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the wildfire:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Citadel\">Citadel</a> structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Wildfire-Crown\">Wildfire Crown</a> item</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Wildfire-Crown-Fragment\">Wildfire Crown Fragment</a> item</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Mauler (The Great Hunger)\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler.webp\" alt=\"Mauler\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Mauler (The Great Hunger)</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tIntroducing the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Mauler-(The-Great-Hunger)\">Mauler</a>, pint-sized predator roaming savannas, badlands, and deserts. They are on a quest for chickens, rabbits, and more.\n\tYou can feed them enchanted goodies to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Mauler-(The-Great-Hunger)#storing-and-extracting-experience-points\">store experience points</a> and later extract them using bottles. But beware the more experience points, the bigger and hungrier the Mauler!\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_1.webp\" width=\"49.4%\" alt=\"Maulers hunting the chicken\" title=\"Maulers hunting the chicken\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_2.webp\" width=\"49.4%\"  alt=\"Fed Mauler\" title=\"Fed Mauler\" title=\"Fed Mauler\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Illusioner\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner.webp\" alt=\"Illusioner\" width=\"25\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Illusioner</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tEncounter the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner\">Illusioner</a>, a cunning trickster armed with a bow who lives in the taiga. You can find him by searching for a small shack or his training grounds.\n\tApproach with caution, for the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner#casting-blindness\">blinding spell</a> may leave you in the dark, making it challenging to distinguish between <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner#summoning-illusions\">illusion</a> and reality.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_1.webp\" width=\"49.4%\" alt=\"Illusioner Shack in the taiga\" title=\"Illusioner Shack in the taiga\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_2.webp\" width=\"49.4%\" alt=\"Illusioner in the training grounds\" title=\"Illusioner in the training grounds\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the illusioner:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner-Shack\">Illusioner Shack</a> structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Totem-of-Illusion\">Totem of Illusion</a> item</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Zombie Horse (Trap)\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse.webp\" alt=\"Zombie Horse (Trap)\" width=\"50\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Zombie Horse (Trap)</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tEver wanted to ride a <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Zombie-Horse-(Trap)\">Zombie Horse</a>? If so, approach one during a thunderstorm, and magic may happen – you might even catch a glimpse of the four horsemen.\"\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_1.webp\" width=\"49.4%\" alt=\"Zombie Horse during thunderstorm\" title=\"Zombie Horse during thunderstorm\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_2.webp\" width=\"49.4%\" alt=\"Four Horsemen during thunderstorm\" title=\"Four Horsemen during thunderstorm\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>⚙️ Compatibility / addons</h1>\n\n<p style=\"font-size: 18px;\">\n\tFriends&Foes is designed to be fully compatible with all other mods, and it currently offers few addons and datapacks:\n</p>\n\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric\">Friends&Foes - Flowery Mooblooms</a></li>\n\t<li><a href=\"https://modrinth.com/mod/friends-and-foes-beekeeper-hut-fabric\">Friends&Foes - Beekeeper Hut</a></li>\n\t<li><a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-friends-and-foes-datapack\">Repurposed Structures - Friends and Foes Compat Datapack</a></li>\n\t<li><a href=\"https://modrinth.com/datapack/ctov-friends-and-foes-compat\">CTOV - Friends and Foes Compat Datapack</a></li>\n</ul>\n\n<br>\n<br>\n\n<h1>💬 Community</h1>\n\n<p style=\"font-size: 18px;\">\n\tFeel free to <a href=\"https://discord.gg/QGwFvvMQCn\">join our community at the discord server</a> to chat, share your creations, ask any question or to simply be updated about the latest development of the mod and notified when the new release is out.\n\tAlso don't hesitate to <a href=\"https://github.com/Faboslav/friends-and-foes/issues\">report any crash or bug via GitHub issues</a>.\n</p>\n\n<br>\n<br>\n\n<h1>👋 Support</h1>\n\n<p style=\"font-size: 18px;\">\n\tI will continue developing my mods as a hobby because I truly enjoy it. If you'd like to support me, you can do so on <a href=\"https://www.patreon.com/Faboslav\">Patreon</a> or <a href=\"https://ko-fi.com/faboslav\">Ko-fi</a>. Your support is greatly appreciated.\n</p>\n\n<br>\n<br>\n\n<h1>📜 License</h1>\n\n<p style=\"font-size: 18px;\">\n\tThe mod is licensed with <a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/LICENSE.txt\">CC BY-NC-ND 4.0</a> license.\n</p>\n\n<p style=\"font-size: 18px;\">\n\tPlease feel free to explore my code for examples of how I've tackled and solved various challenges while developing this mod. You're welcome to incorporate code snippets into your own projects. Also feel free to use this mod in any modpack (although credit/link back to this page will be greatly appreciated).\n</p>\n\n<p style=\"font-size: 18px;\">\n\tYou can also look into the <a href=\"https://github.com/Faboslav/friends-and-foes/tree/master/blockbench\">blockbench directory</a> which contains all the models &amp; palettes and into the <a href=\"https://github.com/Faboslav/friends-and-foes/tree/master/common/src/main/resources/assets/friendsandfoes/textures\">textures directory</a> for textures. Get inspired, but please don't just copy &amp; paste any of it as your own.\n</p>",
 		"name": "Friends&Foes (Fabric/Quilt)",
 		"package_maintainers": [
 			"mcvm"
@@ -2862,16 +4462,58 @@
 	},
 	"properties": {
 		"content_versions": [
+			"-mc1.21.5-4.0.1",
+			"-mc1.21.5-4.0.0",
+			"-mc1.21.4-4.0.1",
+			"-mc1.21.4-4.0.0",
+			"-mc1.21-2.0.16",
 			"-mc1.21-2.0.15",
 			"-mc1.21-2.0.14",
 			"-mc1.21-2.0.13",
 			"-mc1.21-2.0.12",
 			"-mc1.21-2.0.11",
+			"-mc1.21.1-4.0.1",
+			"-mc1.21.1-4.0.0",
+			"-mc1.21.1-3.0.9",
+			"-mc1.21.1-3.0.8",
+			"-mc1.21.1-3.0.7",
+			"-mc1.21.1-3.0.6",
+			"-mc1.21.1-3.0.5",
+			"-mc1.21.1-3.0.4",
+			"-mc1.21.1-3.0.3",
+			"-mc1.21.1-3.0.2",
+			"-mc1.21.1-3.0.1",
+			"-mc1.21.1-3.0.0",
+			"-mc1.21.1-2.0.17",
+			"-mc1.20.6-3.0.9",
+			"-mc1.20.6-3.0.8",
+			"-mc1.20.6-3.0.7",
+			"-mc1.20.6-3.0.6",
+			"-mc1.20.6-3.0.5",
+			"-mc1.20.6-3.0.4",
+			"-mc1.20.6-3.0.3",
+			"-mc1.20.6-3.0.2",
+			"-mc1.20.6-3.0.1",
+			"-mc1.20.6-3.0.0",
+			"-mc1.20.6-2.0.17",
+			"-mc1.20.6-2.0.16",
 			"-mc1.20.6-2.0.15",
 			"-mc1.20.6-2.0.14",
 			"-mc1.20.6-2.0.13",
 			"-mc1.20.6-2.0.12",
 			"-mc1.20.6-2.0.11",
+			"-mc1.20.4-3.0.9",
+			"-mc1.20.4-3.0.8",
+			"-mc1.20.4-3.0.7",
+			"-mc1.20.4-3.0.6",
+			"-mc1.20.4-3.0.5",
+			"-mc1.20.4-3.0.4",
+			"-mc1.20.4-3.0.3",
+			"-mc1.20.4-3.0.2",
+			"-mc1.20.4-3.0.1",
+			"-mc1.20.4-3.0.0",
+			"-mc1.20.4-2.0.17",
+			"-mc1.20.4-2.0.16",
 			"-mc1.20.4-2.0.15",
 			"-mc1.20.4-2.0.14",
 			"-mc1.20.4-2.0.13",
@@ -2881,6 +4523,18 @@
 			"-mc1.20.4-2.0.9",
 			"-mc1.20.4-2.0.8",
 			"-mc1.20.4-2.0.7",
+			"-mc1.20.2-3.0.9",
+			"-mc1.20.2-3.0.8",
+			"-mc1.20.2-3.0.7",
+			"-mc1.20.2-3.0.6",
+			"-mc1.20.2-3.0.5",
+			"-mc1.20.2-3.0.4",
+			"-mc1.20.2-3.0.3",
+			"-mc1.20.2-3.0.2",
+			"-mc1.20.2-3.0.1",
+			"-mc1.20.2-3.0.0",
+			"-mc1.20.2-2.0.17",
+			"-mc1.20.2-2.0.16",
 			"-mc1.20.2-2.0.15",
 			"-mc1.20.2-2.0.14",
 			"-mc1.20.2-2.0.13",
@@ -2898,6 +4552,18 @@
 			"-mc1.20.2-2.0.1",
 			"-mc1.20.2-2.0.0",
 			"-mc1.20-1.9.0",
+			"-mc1.20.1-3.0.9",
+			"-mc1.20.1-3.0.8",
+			"-mc1.20.1-3.0.7",
+			"-mc1.20.1-3.0.6",
+			"-mc1.20.1-3.0.5",
+			"-mc1.20.1-3.0.4",
+			"-mc1.20.1-3.0.3",
+			"-mc1.20.1-3.0.2",
+			"-mc1.20.1-3.0.1",
+			"-mc1.20.1-3.0.0",
+			"-mc1.20.1-2.0.17",
+			"-mc1.20.1-2.0.16",
 			"-mc1.20.1-2.0.15",
 			"-mc1.20.1-2.0.14",
 			"-mc1.20.1-2.0.13",
@@ -2923,6 +4589,18 @@
 			"-mc1.20.1-1.9.3",
 			"-mc1.20.1-1.9.2",
 			"-mc1.20.1-1.9.1",
+			"-mc1.19.4-3.0.9",
+			"-mc1.19.4-3.0.8",
+			"-mc1.19.4-3.0.7",
+			"-mc1.19.4-3.0.6",
+			"-mc1.19.4-3.0.5",
+			"-mc1.19.4-3.0.4",
+			"-mc1.19.4-3.0.3",
+			"-mc1.19.4-3.0.2",
+			"-mc1.19.4-3.0.1",
+			"-mc1.19.4-3.0.0",
+			"-mc1.19.4-2.0.17",
+			"-mc1.19.4-2.0.16",
 			"-mc1.19.4-2.0.15",
 			"-mc1.19.4-2.0.14",
 			"-mc1.19.4-2.0.13",
@@ -2951,6 +4629,18 @@
 			"-mc1.19.4-1.8.2",
 			"-mc1.19.4-1.8.1",
 			"-mc1.19.4-1.8.0",
+			"-mc1.19.3-3.0.9",
+			"-mc1.19.3-3.0.8",
+			"-mc1.19.3-3.0.7",
+			"-mc1.19.3-3.0.6",
+			"-mc1.19.3-3.0.5",
+			"-mc1.19.3-3.0.4",
+			"-mc1.19.3-3.0.3",
+			"-mc1.19.3-3.0.2",
+			"-mc1.19.3-3.0.1",
+			"-mc1.19.3-3.0.0",
+			"-mc1.19.3-2.0.17",
+			"-mc1.19.3-2.0.16",
 			"-mc1.19.3-2.0.15",
 			"-mc1.19.3-2.0.14",
 			"-mc1.19.3-2.0.13",
@@ -2985,6 +4675,18 @@
 			"-mc1.19.3-1.7.2",
 			"-mc1.19.3-1.7.1",
 			"-mc1.19.3-1.7.0",
+			"-mc1.19.2-3.0.9",
+			"-mc1.19.2-3.0.8",
+			"-mc1.19.2-3.0.7",
+			"-mc1.19.2-3.0.6",
+			"-mc1.19.2-3.0.5",
+			"-mc1.19.2-3.0.4",
+			"-mc1.19.2-3.0.3",
+			"-mc1.19.2-3.0.2",
+			"-mc1.19.2-3.0.1",
+			"-mc1.19.2-3.0.0",
+			"-mc1.19.2-2.0.17",
+			"-mc1.19.2-2.0.16",
 			"-mc1.19.2-2.0.15",
 			"-mc1.19.2-2.0.14",
 			"-mc1.19.2-2.0.13",
@@ -3086,8 +4788,12 @@
 			"1.20.2",
 			"1.20.3",
 			"1.20.4",
+			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

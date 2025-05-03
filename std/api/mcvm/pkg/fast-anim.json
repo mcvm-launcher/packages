@@ -198,13 +198,13 @@
 	},
 	"meta": {
 		"authors": [
-			"Lunade_"
+			"Lunade"
 		],
 		"description": "Speeds up entity animation calculations!",
 		"gallery": [],
 		"icon": "https://cdn.modrinth.com/data/yHf7SALy/icon.png",
 		"license": "MIT",
-		"long_description": "How does this benefit performance?\n\nEach time Minecraft wants to draw a frame, ALL entities recalculate the angles of each of their limbs. However, due to a huge oversight by Mojang, MANY of these calculations can easily be sped up, and are sometimes flat-out unnecessary. This mod fixes that by making PI/180 a stored value that isn't calculated multiple times for each entity, using variables instead of repeated calculations, and more. This, when applied to all entities, does indeed speed up performance, whether it be a small bit or a noticeable bit, depending on the surrounding entities and your PC.",
+		"long_description": "How does this benefit performance?\n\nEach time Minecraft wants to draw a frame, ALL entities recalculate the angles of each of their limbs. However, due to a huge oversight by Mojang, MANY of these calculations can easily be sped up, and are sometimes flat-out unnecessary. This mod fixes that by making PI/180 a stored value that isn't calculated multiple times for each entity, using variables instead of repeated calculations, and more. This, when applied to all entities, does indeed speed up performance, whether it be a small bit or a noticeable bit, depending on the surrounding entities and your PC.\n\nThis mod is archived.\n\n[![Use code FROZENBLOCK with Kinetic Hosting for 15% off your first month!](https://i.imgur.com/9ZfqfCq.png)](https://tinyurl.com/3xhmk7fb)",
 		"name": "FastAnim",
 		"package_maintainers": [
 			"mcvm"

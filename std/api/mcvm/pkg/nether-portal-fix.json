@@ -4,6 +4,230 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "21.5.2-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/YclUHpwK/netherportalfix-forge-1.21.5-21.5.2.jar",
+					"version": "YclUHpwK"
+				},
+				{
+					"content_versions": "21.5.1-neo-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/Hg8R1sPY/netherportalfix-neoforge-1.21.5-21.5.1.jar",
+					"version": "Hg8R1sPY"
+				},
+				{
+					"content_versions": "21.5.1-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/3xwbxqcv/netherportalfix-fabric-1.21.5-21.5.1.jar",
+					"version": "3xwbxqcv"
+				},
+				{
+					"content_versions": "21.1.3-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/9KrnphgC/netherportalfix-fabric-1.21.1-21.1.3.jar",
+					"version": "9KrnphgC"
+				},
+				{
+					"content_versions": "21.1.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/7XsUi5vc/netherportalfix-fabric-1.21.1-21.1.2.jar",
+					"version": "7XsUi5vc"
+				},
+				{
+					"content_versions": "21.4.3-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/DuRtZjks/netherportalfix-fabric-1.21.4-21.4.3.jar",
+					"version": "DuRtZjks"
+				},
+				{
+					"content_versions": "13.0.2-1.20",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/SL5baWpT/netherportalfix-fabric-1.20-13.0.2.jar",
+					"version": "SL5baWpT"
+				},
+				{
+					"content_versions": "21.4.2-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/GkAPtE30/netherportalfix-forge-1.21.4-21.4.2.jar",
+					"version": "GkAPtE30"
+				},
+				{
+					"content_versions": "21.4.1-neo-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/Vs09Rou7/netherportalfix-neoforge-1.21.4-21.4.1.jar",
+					"version": "Vs09Rou7"
+				},
+				{
+					"content_versions": "21.4.1-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/QFwLWcVf/netherportalfix-fabric-1.21.4-21.4.1.jar",
+					"version": "QFwLWcVf"
+				},
+				{
+					"content_versions": "21.3.2-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/CKuAgwFH/netherportalfix-fabric-1.21.3-21.3.2.jar",
+					"version": "CKuAgwFH"
+				},
+				{
+					"content_versions": "21.3.1-neo-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/TBPNXUfZ/netherportalfix-neoforge-1.21.3-21.3.1.jar",
+					"version": "TBPNXUfZ"
+				},
+				{
+					"content_versions": "21.3.1-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/ATG8u3b3/netherportalfix-fabric-1.21.3-21.3.1.jar",
+					"version": "ATG8u3b3"
+				},
+				{
+					"content_versions": "21.1.1-neo-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+					"version": "O09BGtgh"
+				},
+				{
+					"content_versions": "21.1.1-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/MIhTEvQr/netherportalfix-forge-1.21.1-21.1.1.jar",
+					"version": "MIhTEvQr"
+				},
+				{
+					"content_versions": "21.1.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nPZr02ET/versions/KtMN6zDF/netherportalfix-fabric-1.21.1-21.1.1.jar",
+					"version": "KtMN6zDF"
+				},
+				{
 					"content_versions": "21.0.2-neo-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -573,10 +797,10 @@
 		"description": "Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer.",
 		"documentation": "https://mods.twelveiterations.com/mc/netherportalfix",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/nPZr02ET/icon.png",
+		"icon": "https://cdn.modrinth.com/data/nPZr02ET/1496de70af297897258b7520aafc0886fa0ad918_96.webp",
 		"issues": "https://github.com/TwelveIterationMods/NetherPortalFix/issues",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "![](https://blay09.net/files/brand/netherportalfix.png)\n\n[![](https://mods.twelveiterations.com/img/sponsor.png)](https://mods.twelveiterations.com/sponsor)\n\nEver played on a multiplayer server, built near other players and when returning from the Nether, surprisingly found yourself in another player's base? It's because of the 8:1 block ratio between the Nether and the Overworld. It's really weird though that you enter a portal in the overworld, and then when going back through where you came, come out of a different portal in the overworld. This mod fixes that issue.\n\nIt keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. The 1:8 ratio remains, portals just get smarter and remember where you came from.\n\n<p>\n    <a style=\"text-decoration: none;\" href=\"https://modrinth.com/mod/balm\"> \n        <img src=\"https://blay09.net/files/brand/requires_balm.png\" alt=\"Requires Balm\" width=\"217\" height=\"51\" /> \n    </a>\n    <img src=\"https://blay09.net/files/brand/spacer.png\" alt=\"\" width=\"21\" height=\"51\" /> \n    <a style=\"text-decoration: none;\" href=\"https://discord.gg/VAfZ2Nau6j\">\n        <img src=\"https://blay09.net/files/brand/discord.png\" alt=\"Join our Discord\" width=\"51\" height=\"51\" />\n    </a>\n</p>\n\n## Features\n\n- As long as players use the same portal to return to the overworld, they will end up where they came from\n- Only needs to be installed on the server (but works in singleplayer as well)\n\n\n<p>\n    <img src=\"https://blay09.net/files/brand/netherportalfix_broken.png\" alt=\"\" width=\"256\" height=\"256\" /> \n    <img src=\"https://blay09.net/files/brand/netherportalfix_fixed.png\" alt=\"\" width=\"256\" height=\"256\" />\n</p>",
+		"long_description": "<p><img src=\"https://blay09.net/files/brand/netherportalfix.png\" alt=\"NetherPortalFix\" width=\"480\" height=\"200\"></p>\n<p style=\"display: flex;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/balm\" rel=\"nofollow\"><img src=\"https://mods.twelveiterations.com/img/requires-balm.png\" alt=\"Requires Balm\" width=\"260\" height=\"80\"></a> <a href=\"https://mods.twelveiterations.com/sponsor\" rel=\"nofollow\"><img style=\"margin-left: 26px;\" src=\"https://mods.twelveiterations.com/img/new-patreon.png\" alt=\"Support on Patreon\" width=\"550\" height=\"80\"></a></p>\n<p>Ever played on a multiplayer server, built near other players and when returning from the Nether, surprisingly found yourself in another player's base? It's because of the 8:1 block ratio between the Nether and the Overworld. It's really weird though that you enter a portal in the overworld, and then when going back through where you came, come out of a different portal in the overworld. This mod fixes that issue.</p>\n<p>It keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. The 1:8 ratio remains, portals just get smarter and remember where you came from.</p>\n<p>This mod is available for NeoForge, Fabric and Forge. It requires <a href=\"https://www.curseforge.com/minecraft/mc-mods/balm\" target=\"_blank\" rel=\"nofollow noopener\">Balm</a>, which must be installed alongside the mod.</p>\n<h3><img src=\"https://mods.twelveiterations.com/img/features-header.png\" alt=\"Features\" width=\"836\" height=\"40\"></h3>\n<ul>\n<li>As long as players use the same portal to return to the overworld, they will end up where they came from</li>\n<li>Only needs to be installed on the server (but works in singleplayer as well)</li>\n</ul>\n<p><img src=\"https://media.forgecdn.net/attachments/31/473/broken2.png\" alt=\"\" width=\"256\" height=\"256\"> <img src=\"https://media.forgecdn.net/attachments/31/474/fixed2.png\" alt=\"\" width=\"256\" height=\"256\"></p>",
 		"name": "NetherPortalFix",
 		"package_maintainers": [
 			"mcvm"
@@ -586,6 +810,20 @@
 	},
 	"properties": {
 		"content_versions": [
+			"21.5.2-1.21.5",
+			"21.5.1-1.21.5",
+			"21.5.1-neo-1.21.5",
+			"21.4.3-1.21.4",
+			"21.4.2-1.21.4",
+			"21.4.1-1.21.4",
+			"21.4.1-neo-1.21.4",
+			"21.3.2-1.21.3",
+			"21.3.1-1.21.3",
+			"21.3.1-neo-1.21.3",
+			"21.1.3-1.21.1",
+			"21.1.2-1.21.1",
+			"21.1.1-1.21.1",
+			"21.1.1-neo-1.21.1",
 			"21.0.2-1.21",
 			"21.0.2-neo-1.21",
 			"21.0.1-1.21",
@@ -599,6 +837,7 @@
 			"14.0.2-1.20.2",
 			"14.0.2-neo-1.20.2",
 			"14.0.0-1.20.2",
+			"13.0.2-1.20",
 			"13.0.1-1.20",
 			"13.0.0-1.20",
 			"12.0.1-1.19.4",
@@ -633,7 +872,12 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

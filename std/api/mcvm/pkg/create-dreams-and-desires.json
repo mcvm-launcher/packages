@@ -4,6 +4,34 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JmybsfWs/versions/zUkXiIr8/Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
+					"version": "zUkXiIr8"
+				},
+				{
+					"content_versions": "1.2cBetaMidDev",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JmybsfWs/versions/n3bakyiQ/Create-DnDesire-1.19.2-1.2c.Beta%20Mid-Dev.jar",
+					"version": "n3bakyiQ"
+				},
+				{
 					"content_versions": "1.20.1-0.1b.Release-Early-Dev",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -446,26 +474,25 @@
 		"authors": [
 			"End_Rage",
 			"LopyLuna",
-			"iglee42",
+			"PouffyDev",
 			"naomi",
-			"pouffy",
 			"serenya"
 		],
-		"banner": "https://cdn.modrinth.com/data/JmybsfWs/images/174d0d55937391091adcf7bf9f4d835f146398f4.png",
+		"banner": "https://cdn.modrinth.com/data/JmybsfWs/images/6dfb64bfa97a609c436f15fd09dcb6093e45eb4d_350.webp",
 		"description": "A mod that adds random stuff & that may try to fit within creates theme!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/JmybsfWs/images/174d0d55937391091adcf7bf9f4d835f146398f4.png",
-			"https://cdn.modrinth.com/data/JmybsfWs/images/1f4df16ee7fcc26567eb869357d1e56f82398306.png",
-			"https://cdn.modrinth.com/data/JmybsfWs/images/43693c621633e855b49fe07f6252c6363603acd5.png",
-			"https://cdn.modrinth.com/data/JmybsfWs/images/6e64e31a8abb63137d86859b3a5fc417a18e6889.png",
+			"https://cdn.modrinth.com/data/JmybsfWs/images/3deb58b203f9f42e1f107f6ad5dab365f01d4eda_350.webp",
+			"https://cdn.modrinth.com/data/JmybsfWs/images/6dfb64bfa97a609c436f15fd09dcb6093e45eb4d_350.webp",
+			"https://cdn.modrinth.com/data/JmybsfWs/images/6f8482eff73694308ff02459773719a707d0b587_350.webp",
+			"https://cdn.modrinth.com/data/JmybsfWs/images/8fc1378f61e2725c668e2e9cf88010d58db045eb_350.webp",
 			"https://cdn.modrinth.com/data/JmybsfWs/images/92a7ca6939ac4acddfca6093ce303514849b40df.png",
-			"https://cdn.modrinth.com/data/JmybsfWs/images/aa3cfa153e5fe298f25a5084cdd9ac383af47f7f.png",
+			"https://cdn.modrinth.com/data/JmybsfWs/images/9f42f2bbd89ce44295d1c65e6a6ae5e616d95676_350.webp",
 			"https://cdn.modrinth.com/data/JmybsfWs/images/acb8002560c889c31fb4c6f765d9b2e63cb5dd9e.png",
-			"https://cdn.modrinth.com/data/JmybsfWs/images/c7318d4aea92b250b5a4a3c60a7194b0749875eb.png"
+			"https://cdn.modrinth.com/data/JmybsfWs/images/e5a0d4cc0738f7aa0b6fb34b6d9596d5daa5afa4_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/JmybsfWs/89337b68f81be643468a2ec86a52ec3254d953fb.gif",
+		"icon": "https://cdn.modrinth.com/data/JmybsfWs/10e9ec54bd09e581dda15fc57eb754eca199ef10_96.webp",
 		"issues": "https://discord.gg/bg6yukb83f",
-		"license": "MIT",
+		"license": "LicenseRef-MIT-Code-AND-ARR-Art",
 		"long_description": "![LOGO](https://cdn.modrinth.com/data/JmybsfWs/images/6e64e31a8abb63137d86859b3a5fc417a18e6889.png)\n\n## Overview  \n### Create: Dreams & Desires is an addon for the Create mod that add random QoL, items, & blocks features that relates to old Create & New Create versions!\n\n![https://cdn.modrinth.com/data/JmybsfWs/images/174d0d55937391091adcf7bf9f4d835f146398f4.png](https://cdn.modrinth.com/data/JmybsfWs/images/174d0d55937391091adcf7bf9f4d835f146398f4.png)\n![https://cdn.modrinth.com/data/JmybsfWs/images/43693c621633e855b49fe07f6252c6363603acd5.png](https://cdn.modrinth.com/data/JmybsfWs/images/43693c621633e855b49fe07f6252c6363603acd5.png)\n![https://cdn.modrinth.com/data/JmybsfWs/images/92a7ca6939ac4acddfca6093ce303514849b40df.png](https://cdn.modrinth.com/data/JmybsfWs/images/92a7ca6939ac4acddfca6093ce303514849b40df.png)\n![https://cdn.modrinth.com/data/JmybsfWs/images/c7318d4aea92b250b5a4a3c60a7194b0749875eb.png](https://cdn.modrinth.com/data/JmybsfWs/images/c7318d4aea92b250b5a4a3c60a7194b0749875eb.png)\n![https://cdn.modrinth.com/data/JmybsfWs/images/acb8002560c889c31fb4c6f765d9b2e63cb5dd9e.png](https://cdn.modrinth.com/data/JmybsfWs/images/acb8002560c889c31fb4c6f765d9b2e63cb5dd9e.png)\n\nCommunity Fabric Managed Githubs & I also suggest reporting issue to here & the discord\n[https://codeberg.org/sappho/create_dd_fabric/](https://codeberg.org/sappho/create_dd_fabric/)  \n  \n\n[![Discord](https://media.discordapp.net/attachments/812868981806465075/1228620245732691988/image.png?ex=662cb4c5&is=661a3fc5&hm=501bb1bf1d4948f07516bdff76b9bdb50a60c46016cc6edad253252be1ae3636&=&format=webp&quality=lossless)](https://discord.gg/C4xeUJrmtH)  \n\n[![BisecthostingPromo](https://media.discordapp.net/attachments/812868981806465075/1228619170615263283/image.png?ex=662cb3c4&is=661a3ec4&hm=0b533f867374aaaa365fd49bd3b1ccde55680fb7f8a01975b7bfd6bf133c4a8a&=&format=webp&quality=lossless)](https://bisecthosting.com/Luna)",
 		"name": "Create: Dreams & Desires",
 		"package_maintainers": [
@@ -476,6 +503,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.0.0",
 			"1.20.1-0.2c.PREBETA",
 			"1.20.1-0.1b.Release-Early-Dev",
 			"1.20.1-0.1a.Release-Early-Dev",
@@ -484,18 +512,19 @@
 			"1.19.2-0.1c.Release-Early-Dev",
 			"1.19.2-0.1a.PREBETA",
 			"1.18.2-0.2c.PREBETA",
+			"1.2cBetaMidDev",
 			"0.2b.PREBETA",
 			"0.2a.PREBETA",
 			"0.2.5a.PREBETA",
+			"0.1c",
+			"-0.1b",
 			"0.1b.Release-Early-Dev",
 			"0.1b.BETA.Early-Dev",
 			"0.1a",
 			"0.1a.Release-Early-Dev",
-			"0.0.5a.ALPHA",
 			"Early-Dev.0.1a.BETA",
 			"0.1d",
-			"0.1c",
-			"-0.1b",
+			"0.0.5a.ALPHA",
 			"0.0.4a.ALPHA",
 			"0.0.3a.ALPHA",
 			"0.0.2c.ALPHA",
@@ -515,7 +544,9 @@
 		"supported_versions": [
 			"1.18.2",
 			"1.19.2",
-			"1.20.1"
+			"1.20.1",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

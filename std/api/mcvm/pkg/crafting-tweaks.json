@@ -4,6 +4,437 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "21.5.2-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/rgqfKwhj/craftingtweaks-forge-1.21.5-21.5.2.jar",
+					"version": "rgqfKwhj"
+				},
+				{
+					"content_versions": "21.4.4-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/3vrypRRR/craftingtweaks-forge-1.21.4-21.4.4.jar",
+					"version": "3vrypRRR"
+				},
+				{
+					"content_versions": "21.4.4-neo-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/CSyhtZFm/craftingtweaks-neoforge-1.21.4-21.4.4.jar",
+					"version": "CSyhtZFm"
+				},
+				{
+					"content_versions": "21.4.4-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/yDJ2rwns/craftingtweaks-fabric-1.21.4-21.4.4.jar",
+					"version": "yDJ2rwns"
+				},
+				{
+					"content_versions": "21.5.1-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/fJArpptg/craftingtweaks-fabric-1.21.5-21.5.1.jar",
+					"version": "fJArpptg"
+				},
+				{
+					"content_versions": "21.5.1-neo-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/Y7lithNW/craftingtweaks-neoforge-1.21.5-21.5.1.jar",
+					"version": "Y7lithNW"
+				},
+				{
+					"content_versions": "21.4.3-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/IRbl0jTY/craftingtweaks-forge-1.21.4-21.4.3.jar",
+					"version": "IRbl0jTY"
+				},
+				{
+					"content_versions": "21.4.2-neo-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/5f2vV3c8/craftingtweaks-neoforge-1.21.4-21.4.2.jar",
+					"version": "5f2vV3c8"
+				},
+				{
+					"content_versions": "21.4.2-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/xJxVL9NN/craftingtweaks-fabric-1.21.4-21.4.2.jar",
+					"version": "xJxVL9NN"
+				},
+				{
+					"content_versions": "21.1.5-neo-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/uFQrAvJM/craftingtweaks-neoforge-1.21.1-21.1.5.jar",
+					"version": "uFQrAvJM"
+				},
+				{
+					"content_versions": "21.1.5-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/7UPNoGd5/craftingtweaks-forge-1.21.1-21.1.5.jar",
+					"version": "7UPNoGd5"
+				},
+				{
+					"content_versions": "21.1.5-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/GauFSLw1/craftingtweaks-fabric-1.21.1-21.1.5.jar",
+					"version": "GauFSLw1"
+				},
+				{
+					"content_versions": "21.4.1-neo-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/gDsJuIU6/craftingtweaks-neoforge-1.21.4-21.4.1.jar",
+					"version": "gDsJuIU6"
+				},
+				{
+					"content_versions": "21.4.1-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/fHj0yJmW/craftingtweaks-fabric-1.21.4-21.4.1.jar",
+					"version": "fHj0yJmW"
+				},
+				{
+					"content_versions": "21.3.3-neo-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/JxycJDDK/craftingtweaks-neoforge-1.21.3-21.3.3.jar",
+					"version": "JxycJDDK"
+				},
+				{
+					"content_versions": "21.3.3-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/fBy338Q2/craftingtweaks-fabric-1.21.3-21.3.3.jar",
+					"version": "fBy338Q2"
+				},
+				{
+					"content_versions": "21.1.3-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/kIpeDi8R/craftingtweaks-forge-1.21.1-21.1.3.jar",
+					"version": "kIpeDi8R"
+				},
+				{
+					"content_versions": "21.1.3-neo-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/x75PnAkU/craftingtweaks-neoforge-1.21.1-21.1.3.jar",
+					"version": "x75PnAkU"
+				},
+				{
+					"content_versions": "21.1.3-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/EauT7WNY/craftingtweaks-fabric-1.21.1-21.1.3.jar",
+					"version": "EauT7WNY"
+				},
+				{
+					"content_versions": "21.3.2-neo-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/2GHXdCDQ/craftingtweaks-neoforge-1.21.3-21.3.2.jar",
+					"version": "2GHXdCDQ"
+				},
+				{
+					"content_versions": "21.3.2-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/m0uSEkaq/craftingtweaks-fabric-1.21.3-21.3.2.jar",
+					"version": "m0uSEkaq"
+				},
+				{
+					"content_versions": "21.3.1-neo-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/ZSU4oZas/craftingtweaks-neoforge-1.21.3-21.3.1.jar",
+					"version": "ZSU4oZas"
+				},
+				{
+					"content_versions": "21.3.1-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/x99ZqCGa/craftingtweaks-fabric-1.21.3-21.3.1.jar",
+					"version": "x99ZqCGa"
+				},
+				{
+					"content_versions": "21.1.2-neo-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/A1ed7hgc/craftingtweaks-neoforge-1.21.1-21.1.2.jar",
+					"version": "A1ed7hgc"
+				},
+				{
+					"content_versions": "21.1.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/MFV1WX8C/craftingtweaks-forge-1.21.1-21.1.2.jar",
+					"version": "MFV1WX8C"
+				},
+				{
+					"content_versions": "21.1.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/9juc6CQ3/craftingtweaks-fabric-1.21.1-21.1.2.jar",
+					"version": "9juc6CQ3"
+				},
+				{
+					"content_versions": "18.2.5-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/toAiSZzl/craftingtweaks-forge-1.20.1-18.2.5.jar",
+					"version": "toAiSZzl"
+				},
+				{
+					"content_versions": "18.2.5-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/bss6C81q/craftingtweaks-fabric-1.20.1-18.2.5.jar",
+					"version": "bss6C81q"
+				},
+				{
+					"content_versions": "21.1.1-neo-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/SqpZ6h4S/craftingtweaks-neoforge-1.21.1-21.1.1.jar",
+					"version": "SqpZ6h4S"
+				},
+				{
+					"content_versions": "21.1.1-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "balm"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/7PxQ35zP/craftingtweaks-forge-1.21.1-21.1.1.jar",
+					"version": "7PxQ35zP"
+				},
+				{
+					"content_versions": "21.1.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"balm",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/XVxoXU3d/craftingtweaks-fabric-1.21.1-21.1.1.jar",
+					"version": "XVxoXU3d"
+				},
+				{
 					"content_versions": "21.0.3-neo-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -991,10 +1422,10 @@
 		"description": "Allows you to rotate, balance or clear the crafting matrix by the press of a button, in any (supported) crafting window.",
 		"documentation": "https://mods.twelveiterations.com/mc/crafting-tweaks",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/DMu0oBKf/9f2a32d53d372659e464fd18be6d6c0ba2035b0d.png",
+		"icon": "https://cdn.modrinth.com/data/DMu0oBKf/e0ba8860a4352911234e3c8f6e5118ba652f5fc8_96.webp",
 		"issues": "https://github.com/TwelveIterationMods/CraftingTweaks/issues",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "![](https://blay09.net/files/brand/craftingtweaks.png)\n\n[![](https://mods.twelveiterations.com/img/sponsor.png)](https://mods.twelveiterations.com/sponsor)\n\nThis mod adds buttons to many supported Crafting Tables (including modded ones) allowing you to quickly rotate, balance or clear the crafting grid.\n\nAdditionally, holding shift on the balance button you can also quickly spread a single stack over the entire grid, right-clicking the result slot will craft en entire stack, and there's a keybind for compressing stacks of items to its 3x3 or 2x2 recipe through a key press.\n\n<p>\n    <a style=\"text-decoration: none;\" href=\"https://modrinth.com/mod/balm\"> \n        <img src=\"https://blay09.net/files/brand/requires_balm.png\" alt=\"Requires Balm\" width=\"217\" height=\"51\" /> \n    </a>\n    <img src=\"https://blay09.net/files/brand/spacer.png\" alt=\"\" width=\"21\" height=\"51\" /> \n    <a style=\"text-decoration: none;\" href=\"https://discord.gg/VAfZ2Nau6j\">\n        <img src=\"https://blay09.net/files/brand/discord.png\" alt=\"Join our Discord\" width=\"51\" height=\"51\" />\n    </a>\n</p>\n\n## Features\n\n- Rotate the outer circle of the crafting grid\n- Balance the materials in the crafting grid to even stack sizes\n- Clear the crafting grid into your inventory\n- Transfer items into the grid by holding the W key while clicking them (Shift+W transfers all of type)\n- Instantly compress or decompress blocks into their block/ingot forms through a keybind\n- Right-click the result slot to craft a full stack\n- Supports many modded Crafting Tables\n- Bi-optional. Only those who want to use it need to install it, and if the server doesn't have it installed, it will still work for people who do have it installed.\n\n<p>\n    <img src=\"https://media.forgecdn.net/attachments/32/561/ctspread.gif\" alt=\"\" width=\"300\" height=\"265\" />\n    <img src=\"https://media.forgecdn.net/attachments/32/562/ctclear.gif\" alt=\"\" width=\"300\" height=\"265\" />\n</p>\n<p>\n    <img src=\"https://media.forgecdn.net/attachments/32/563/ctrotate.gif\" alt=\"\" width=\"300\" height=\"265\" />\n    <img src=\"https://media.forgecdn.net/attachments/32/560/ctbalance.gif\" alt=\"\" width=\"300\" height=\"265\" />\n</p>",
+		"long_description": "<p><img src=\"https://blay09.net/files/brand/craftingtweaks.png\" alt=\"Crafting Tweaks\" width=\"836\" height=\"200\"></p>\n<p style=\"display: flex;\"><a href=\"https://modrinth.com/mod/balm\" rel=\"nofollow\"><img src=\"https://mods.twelveiterations.com/img/requires-balm.png\" alt=\"Requires Balm\" width=\"260\" height=\"80\"></a> <a href=\"https://mods.twelveiterations.com/sponsor\" rel=\"nofollow\"><img style=\"margin-left: 26px;\" src=\"https://mods.twelveiterations.com/img/new-patreon.png\" alt=\"Support on Patreon\" width=\"550\" height=\"80\"></a></p>\n<p>This mod adds buttons to many supported Crafting Tables (including modded ones) allowing you to quickly rotate, balance or clear the crafting grid.</p>\n<p>Additionally, holding shift on the balance button you can also quickly spread a single stack over the entire grid, right-clicking the result slot will craft en entire stack, and there's a keybind for compressing stacks of items to its 3x3 or 2x2 recipe through a key press.</p>\n<p>This mod is available for NeoForge, Fabric and Forge. It requires <a href=\"https://modrinth.com/mod/balm\" target=\"_blank\" rel=\"nofollow noopener\">Balm</a>, which must be installed alongside the mod.</p>\n<h3><img src=\"https://mods.twelveiterations.com/img/features-header.png\" alt=\"Features\" width=\"836\" height=\"40\"></h3>\n<ul>\n<li>Rotate the outer circle of the crafting grid</li>\n<li>Balance the materials in the crafting grid to even stack sizes</li>\n<li>Clear the crafting grid into your inventory</li>\n<li>Transfer items into the grid by holding the W key while clicking them (Shift+W transfers all of type)</li>\n<li>Instantly compress or decompress blocks into their block/ingot forms through a keybind</li>\n<li>Right-click the result slot to craft a full stack</li>\n<li>Supports many modded Crafting Tables</li>\n<li>Bi-optional. Only those who want to use it need to install it, and if the server doesn't have it installed, it will still work for people who do have it installed.</li>\n</ul>\n<p><img src=\"https://media.forgecdn.net/attachments/32/561/ctspread.gif\" alt=\"\" width=\"300\" height=\"265\"> <img src=\"https://media.forgecdn.net/attachments/32/562/ctclear.gif\" alt=\"\" width=\"300\" height=\"265\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/32/563/ctrotate.gif\" alt=\"\" width=\"300\" height=\"265\"> <img src=\"https://media.forgecdn.net/attachments/32/560/ctbalance.gif\" alt=\"\" width=\"300\" height=\"265\"></p>",
 		"name": "Crafting Tweaks",
 		"package_maintainers": [
 			"mcvm"
@@ -1004,6 +1435,30 @@
 	},
 	"properties": {
 		"content_versions": [
+			"21.5.2-1.21.5",
+			"21.5.1-1.21.5",
+			"21.5.1-neo-1.21.5",
+			"21.4.4-1.21.4",
+			"21.4.4-neo-1.21.4",
+			"21.4.3-1.21.4",
+			"21.4.2-1.21.4",
+			"21.4.2-neo-1.21.4",
+			"21.4.1-1.21.4",
+			"21.4.1-neo-1.21.4",
+			"21.3.3-1.21.3",
+			"21.3.3-neo-1.21.3",
+			"21.3.2-1.21.3",
+			"21.3.2-neo-1.21.3",
+			"21.3.1-1.21.3",
+			"21.3.1-neo-1.21.3",
+			"21.1.5-1.21.1",
+			"21.1.5-neo-1.21.1",
+			"21.1.3-1.21.1",
+			"21.1.3-neo-1.21.1",
+			"21.1.2-1.21.1",
+			"21.1.2-neo-1.21.1",
+			"21.1.1-1.21.1",
+			"21.1.1-neo-1.21.1",
 			"21.0.3-1.21",
 			"21.0.3-neo-1.21",
 			"21.0.2-1.21",
@@ -1019,6 +1474,7 @@
 			"19.0.2-1.20.2",
 			"19.0.2-neo-1.20.2",
 			"19.0.1-1.20.2",
+			"18.2.5-1.20.1",
 			"18.2.4-1.20.1",
 			"18.2.3-1.20.1",
 			"18.2.2-1.20",
@@ -1070,7 +1526,12 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

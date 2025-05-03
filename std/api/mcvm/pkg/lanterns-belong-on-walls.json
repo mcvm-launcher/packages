@@ -18,6 +18,62 @@
 					"version": "THNjUqgV"
 				},
 				{
+					"content_versions": "2.2.0-beta-Neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "arrp-but-different"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V1CFwy2A/versions/7Ltk7HW9/lanterns-belong-on-walls-neoforge-2.2.0-beta.jar",
+					"version": "7Ltk7HW9"
+				},
+				{
+					"content_versions": "2.2.0-beta",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"arrp-but-different",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V1CFwy2A/versions/nE7HOF4u/lanterns-belong-on-walls-fabric-2.2.0-beta.jar",
+					"version": "nE7HOF4u"
+				},
+				{
+					"content_versions": "2.1.0-beta.1-1.21.4-Neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "arrp-but-different"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V1CFwy2A/versions/gpoiRy9y/lanterns-belong-on-walls-neoforge-2.1.0%2Bbeta.1.jar",
+					"version": "gpoiRy9y"
+				},
+				{
+					"content_versions": "2.1.0-beta.1-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"arrp-but-different",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/V1CFwy2A/versions/5D7RgiYL/lanterns-belong-on-walls-fabric-2.1.0%2Bbeta.1.jar",
+					"version": "5D7RgiYL"
+				},
+				{
 					"content_versions": "1.6.1-1.20.1",
 					"minecraft_versions": [
 						"1.20",
@@ -210,23 +266,28 @@
 		"authors": [
 			"ThePoultryMan"
 		],
-		"banner": "https://cdn.modrinth.com/data/V1CFwy2A/images/fea6962b2b73ce147f6114103f85e6b6a06d29d4.png",
+		"banner": "https://cdn.modrinth.com/data/V1CFwy2A/images/872acad240434e84476851974fc8bb66c6ed8836_350.webp",
 		"description": "Allows the placement of lanterns on walls.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/V1CFwy2A/images/fea6962b2b73ce147f6114103f85e6b6a06d29d4.png"
+			"https://cdn.modrinth.com/data/V1CFwy2A/images/872acad240434e84476851974fc8bb66c6ed8836_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/V1CFwy2A/icon.png",
 		"issues": "https://github.com/ThePoultryMan/Lanterns-Belong-On-Walls/issues",
 		"license": "MIT",
-		"long_description": "## How?\n\nFor supported lanterns, place the lantern on the side of the block, and the lantern will attach to that side.\n\n## Compatibility\n\nFor another mod's lanterns to be compatible, the other mod must add the compatibility (see here).\n\n_Note: If you're using a resource pack that changes the lantern blockstate file, then the visual connection to the wall_ might _not appear._\n\n<details>\n<summary>For mod developers</summary>\n\nAdding support for lanterns is a straightforward process.\n\n1. Add the Gradle dependency:\n   ```gradle\n   repositories {\n       //...\n       maven {\n           name = \"Modrinth\"\n           url = \"https://api.modrinth.com/maven\"\n       }\n   }\n\n   dependencies {\n       //...\n       modImplementation \"maven.modrinth:lanterns-bow:${lanterns_bow_version}\"\n   }\n   ```\n   Refer to the versions page for the most recent version.  \n   _Read about the Modrinth Maven [here](https://support.modrinth.com/en/articles/8801191-modrinth-maven)._\n2. Create an entrypoint class:\n   ```java\n   public class ExampleLanternModWall implements WallLanternsEntrypoint {\n       @Override\n       public void patchLanterns() {\n           this.addLantern(new Identifier(\"example_mod\", \"example_lantern\"));\n       }\n   }\n   ```\n3. Add the entrypoint to your `fabric.mod.json`:\n   ```json\n   ...\n   \"entrypoints\": {\n       ...\n       \"walllanterns\": \"com.example.mod.examplemod.ExampleLanternModWall\"\n   }\n   ```\n4. Add the proper blockstates and models to your mod. Take a look [here](https://github.com/ThePoultryMan/Lanterns-Belong-On-Walls/tree/main/src/main/resources/assets) for a general idea of what it should look like.  \n   The only major difference is that your blockstate file will need to include variants that have the facing property and variants that lack it. This will help to ensure compatibility when Lanterns Belong on Walls is not installed.\n\n</details>\n\n---\n\n[![BisectHosting Promo Banner](https://cdn.modrinth.com/data/cached_images/753a8bcd08c02b15194b3989506799de12b4f8f7.webp)](https://bisecthosting.com/poultryman)",
+		"long_description": "## How?\n\nFor supported lanterns, place the lantern on the side of the block, and the lantern will attach to that side.\n\n## Compatibility\n\nFor another mod's lanterns to be compatible, the other mod must add the compatibility.\n\n_Note: If you're using a resource pack that changes the lantern blockstate file, then the visual connection to the wall_ might _not appear._\n\n<details>\n<summary>For mod developers</summary>\n\nThe basics for adding support for lanterns differs between mod loaders.\n\n_The details below are for Fabric/Architectury Loom._\n\n### For NeoForge\n\n<details>\n\n1. Add the Gradle dependency:\n   ```gradle\n   repositories {\n       //...\n       maven {\n           name = \"Modrinth\"\n           url = \"https://api.modrinth.com/maven\"\n       }\n   }\n\n   dependencies {\n       //...\n       modImplementation \"maven.modrinth:lanterns-bow:${lanterns_bow_version}\"\n   }\n   ```\n   Refer to the versions page for the most recent version.  \n   _Read about the Modrinth Maven [here](https://support.modrinth.com/en/articles/8801191-modrinth-maven)._\n2. In your mod constructor, listen for the mod bus event, then add the lanterns:\n   ```java\n   public ExampleModContstructor(IEventBus modBus) {\n       modBus.addListener((WallLanternsEvent event) -> {\n           event.addLantern(new WallLantern(\n                   WallLantern.Type.StandardCutout,\n                   ResourceLocation.parse(\"example:example_lantern\"))\n           );\n           event.addLantern(new WallLantern(\n                   WallLantern.Type.Standard,\n                   ResourceLocation.parse(\"example:example_lantern_two\"))\n           );\n       });\n   }\n   ```\n\n</details>\n\n### For Fabric\n\n<details>\n\n1. Add the Gradle dependency:\n    ```gradle\n    repositories {\n        //...\n        maven {\n            name = \"Modrinth\"\n            url = \"https://api.modrinth.com/maven\"\n        }\n    }\n\n    dependencies {\n        //...\n        modImplementation \"maven.modrinth:lanterns-bow:${lanterns_bow_version}\"\n    }\n    ```\n   Refer to the versions page for the most recent version.  \n   _Read about the Modrinth Maven [here](https://support.modrinth.com/en/articles/8801191-modrinth-maven)._\n2. Create an entrypoint class:\n   ```java\n   public class ExampleLanternModWall implements WallLanternsEntrypoint {\n       @Override\n       public void registerLanterns(WallLanternsRegistry registry) {\n           registry.registerLantern(ResourceLocation.fromNamespaceAndPath(\"examplemod\", \"lantern\"));\n       }\n   }\n   ```\n3. Add the entrypoint to your `fabric.mod.json`:\n   ```json\n   ...\n   \"entrypoints\": {\n       ...\n       \"walllanterns\": \"com.example.mod.examplemod.ExampleLanternModWall\"\n   }\n   ```\n\n</details>\n\n### Lantern Types\n\n_Unless otherwise specified all models for lanterns are derived from the standing\nmodel of the provided lantern._\n\nThere are a few lantern types available:\n* Standard - Uses the vanilla standing lantern shape.\n* StandardCutout - Designed for NeoForge. Follows the same rules as Standard,\n  but forces the use of the cutout Render Type on NeoForge.\n\n</details>\n\n***\n\n[![BisectHosting Promo Banner](https://cdn.modrinth.com/data/cached_images/753a8bcd08c02b15194b3989506799de12b4f8f7.webp)](https://bisecthosting.com/poultryman)",
 		"name": "Lanterns Belong on Walls",
 		"package_maintainers": [
 			"mcvm"
 		],
-		"source": "https://github.com/ThePoultryMan/Lanterns-Belong-On-Walls"
+		"source": "https://github.com/ThePoultryMan/Lanterns-Belong-On-Walls",
+		"support_link": "https://ko-fi.com/thepoultryman"
 	},
 	"properties": {
 		"content_versions": [
+			"2.2.0-beta",
+			"2.2.0-beta-Neo",
+			"2.1.0-beta.1-1.21.4",
+			"2.1.0-beta.1-1.21.4-Neo",
 			"1.7.0-1.20.4",
 			"1.6.1-1.20.1",
 			"1.6.0-1.19.4",
@@ -261,7 +322,9 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

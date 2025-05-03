@@ -4,6 +4,121 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "6.3.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/wOvzypca/cardinal-components-api-6.3.1.jar",
+					"version": "wOvzypca"
+				},
+				{
+					"content_versions": "6.3.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/74T4Ovhm/cardinal-components-api-6.3.0.jar",
+					"version": "74T4Ovhm"
+				},
+				{
+					"content_versions": "6.3.0-alpha.1-25w09b",
+					"minecraft_versions": [
+						"25w09b",
+						"25w10a",
+						"1.21.5-pre1",
+						"1.21.5-pre2",
+						"1.21.5-pre3",
+						"1.21.5-rc1",
+						"1.21.5-rc2",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/AYKRzqea/cardinal-components-api-6.3.0-alpha.1%2B25w09b.jar",
+					"version": "AYKRzqea"
+				},
+				{
+					"content_versions": "5.2.3",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/Ielhod3p/cardinal-components-api-5.2.3.jar",
+					"version": "Ielhod3p"
+				},
+				{
+					"content_versions": "6.2.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/iKXDXx3i/cardinal-components-api-6.2.2.jar",
+					"version": "iKXDXx3i"
+				},
+				{
+					"content_versions": "6.2.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/HDcFuFlE/cardinal-components-api-6.2.1.jar",
+					"version": "HDcFuFlE"
+				},
+				{
+					"content_versions": "6.2.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/YphZmEo8/cardinal-components-api-6.2.0.jar",
+					"version": "YphZmEo8"
+				},
+				{
+					"content_versions": "6.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/xzMJDzyx/cardinal-components-api-6.1.2.jar",
+					"version": "xzMJDzyx"
+				},
+				{
 					"content_versions": "6.1.1",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -345,6 +460,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"6.3.1",
+			"6.3.0",
+			"6.3.0-alpha.1-25w09b",
+			"6.2.2",
+			"6.2.1",
+			"6.2.0",
+			"6.1.2",
 			"6.1.1",
 			"6.1.0",
 			"6.0.0",
@@ -356,6 +478,7 @@
 			"6.0.0-beta.1",
 			"5.4.0",
 			"5.3.0",
+			"5.2.3",
 			"5.2.2",
 			"5.2.1",
 			"5.2.0",
@@ -408,7 +531,19 @@
 			"1.21-pre3",
 			"1.21-pre4",
 			"1.21-rc1",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"25w09b",
+			"25w10a",
+			"1.21.5-pre1",
+			"1.21.5-pre2",
+			"1.21.5-pre3",
+			"1.21.5-rc1",
+			"1.21.5-rc2",
+			"1.21.5"
 		]
 	}
 }

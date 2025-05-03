@@ -4,6 +4,173 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.4-4.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/GArxaRHI/YungsBetterOceanMonuments-1.21.4-Fabric-4.4.0.jar",
+					"version": "GArxaRHI"
+				},
+				{
+					"content_versions": "1.21.4-Neo-4.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/MrBSbUVj/YungsBetterOceanMonuments-1.21.4-NeoForge-4.4.0.jar",
+					"version": "MrBSbUVj"
+				},
+				{
+					"content_versions": "1.21.1-4.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/TGK6gpeO/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar",
+					"version": "TGK6gpeO"
+				},
+				{
+					"content_versions": "1.21.1-Neo-4.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/yFjEcj2g/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+					"version": "yFjEcj2g"
+				},
+				{
+					"content_versions": "1.21.1-4.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/qfvHcr2E/YungsBetterOceanMonuments-1.21.1-Forge-4.1.2.jar",
+					"version": "qfvHcr2E"
+				},
+				{
+					"content_versions": "1.21.1-Neo-4.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/NWit9vEK/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.1.jar",
+					"version": "NWit9vEK"
+				},
+				{
+					"content_versions": "1.21.1-4.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/PdTNjoJy/YungsBetterOceanMonuments-1.21.1-Forge-4.1.1.jar",
+					"version": "PdTNjoJy"
+				},
+				{
+					"content_versions": "1.21.1-4.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/WMftpBdb/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.1.jar",
+					"version": "WMftpBdb"
+				},
+				{
+					"content_versions": "1.21.1-Neo-4.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/qlBCWBBz/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.0.jar",
+					"version": "qlBCWBBz"
+				},
+				{
+					"content_versions": "1.21.1-4.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/mg62uzD5/YungsBetterOceanMonuments-1.21.1-Forge-4.1.0.jar",
+					"version": "mg62uzD5"
+				},
+				{
+					"content_versions": "1.21.1-4.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/irEDTCHk/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.0.jar",
+					"version": "irEDTCHk"
+				},
+				{
 					"content_versions": "1.20.4-3.4.3",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -393,25 +560,25 @@
 			"TeraBuildsStuff",
 			"YUNGNICKYOUNG"
 		],
-		"banner": "https://cdn.modrinth.com/data/3dT9sgt4/images/442fae567e021185475ff9b2565eecd3b9bdff09.png",
+		"banner": "https://cdn.modrinth.com/data/3dT9sgt4/images/f4cd2bbe82593190c58cb124d1b4d386d6184251_350.webp",
 		"categories": [
 			"worldgen"
 		],
 		"community": "https://discord.gg/rns3beq",
 		"description": "A complete redesign of Minecraft's ocean monuments!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/3dT9sgt4/images/2391636af9661c98c7818bb5d3e5a78ee4fbebbe.png",
-			"https://cdn.modrinth.com/data/3dT9sgt4/images/442fae567e021185475ff9b2565eecd3b9bdff09.png",
-			"https://cdn.modrinth.com/data/3dT9sgt4/images/51b111effed634b83de06dbf73fcdc088b9116d1.png",
-			"https://cdn.modrinth.com/data/3dT9sgt4/images/f0c8d67dc8dc17e029d6f327e1c33b6a4bb657e2.png"
+			"https://cdn.modrinth.com/data/3dT9sgt4/images/27999ea23da185b04447ede57466f2fabbffda82_350.webp",
+			"https://cdn.modrinth.com/data/3dT9sgt4/images/8f7ccf9448509c1cf29ccb1ed57d1c83a7972fc7_350.webp",
+			"https://cdn.modrinth.com/data/3dT9sgt4/images/b36ab978fca1f17e91d5f38eef102014f3c6a821_350.webp",
+			"https://cdn.modrinth.com/data/3dT9sgt4/images/f4cd2bbe82593190c58cb124d1b4d386d6184251_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/3dT9sgt4/d8c15602c866a1cdddb10caec83e57f8ca33e146.png",
+		"icon": "https://cdn.modrinth.com/data/3dT9sgt4/05c04c64ab9e5bf523701fa7bc0ac54adec25337_96.webp",
 		"issues": "https://github.com/YUNG-GANG/YUNGs-Better-Ocean-Monuments/issues",
 		"keywords": [
 			"yungs"
 		],
 		"license": "LGPL-3.0-only",
-		"long_description": "<p>\n<img src=\"https://i.imgur.com/4IgKuSq.png\" alt=\"YUNG's Better Ocean Monuments\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/qs5CKD3.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nA complete overhaul of Minecraft's ocean monuments! YUNG's Better Ocean Monuments fundamentally redesigns ocean monuments to be much more engaging and rewarding. Better Monuments are much larger than their vanilla counterparts and have completely randomized layouts. You'll find much better loot for your troubles, including Tridents and a Heart of the Sea!\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QavgJ5oL5SI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/61NjpSv.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Ocean Monuments is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a href=\"https://modrinth.com/mod/yungs-better-desert-temples\" target=\"_blank\" rel=\"noopener\">YUNG's Better Desert Temples</a></li>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Repurposed Structures. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of these overhauled monuments! <a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-ocean-monuments\" target=\"_blank\" rel=\"noopener\">Check it out here.</a></li>\n</ul>\n<p><img src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+		"long_description": "<p>\n<img src=\"https://i.imgur.com/4IgKuSq.png\" alt=\"YUNG's Better Ocean Monuments\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"76\" height=\"27\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/qs5CKD3.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nA complete overhaul of Minecraft's ocean monuments! YUNG's Better Ocean Monuments fundamentally redesigns ocean monuments to be much more engaging and rewarding. Better Monuments are much larger than their vanilla counterparts and have completely randomized layouts. You'll find much better loot for your troubles, including Tridents and a Heart of the Sea!\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QavgJ5oL5SI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/61NjpSv.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Ocean Monuments is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a href=\"https://modrinth.com/mod/yungs-better-desert-temples\" target=\"_blank\" rel=\"noopener\">YUNG's Better Desert Temples</a></li>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Repurposed Structures. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of these overhauled monuments! <a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-ocean-monuments\" target=\"_blank\" rel=\"noopener\">Check it out here.</a></li>\n</ul>\n<p><img src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
 		"name": "YUNG's Better Ocean Monuments",
 		"package_maintainers": [
 			"mcvm"
@@ -421,6 +588,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.4-Neo-4.4.0",
+			"1.21.4-4.4.0",
+			"1.21.1-Neo-4.1.2",
+			"1.21.1-Neo-4.1.1",
+			"1.21.1-Neo-4.1.0",
+			"1.21.1-4.1.2",
+			"1.21.1-4.1.1",
+			"1.21.1-4.1.0",
 			"1.20.4-3.4.3",
 			"1.20.4-3.4.2",
 			"1.20.4-3.4.1",
@@ -451,7 +626,10 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1",
+			"1.21.4"
 		]
 	}
 }

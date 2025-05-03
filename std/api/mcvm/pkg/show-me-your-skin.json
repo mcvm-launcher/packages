@@ -4,6 +4,37 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.11.3-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cicada",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bD7YqcA3/versions/qnCeuBkc/show-me-your-skin-1.11.3%2B1.21.jar",
+					"version": "qnCeuBkc"
+				},
+				{
+					"content_versions": "1.11.2-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cicada",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bD7YqcA3/versions/82Atknsb/show-me-your-skin-1.11.2%2B1.21.jar",
+					"version": "82Atknsb"
+				},
+				{
 					"content_versions": "1.11.2-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -883,7 +914,7 @@
 		"icon": "https://cdn.modrinth.com/data/bD7YqcA3/icon.png",
 		"issues": "https://github.com/enjarai/show-me-your-skin/issues",
 		"license": "MIT",
-		"long_description": "# Show Me Your Skin!\n\nShow Me Your Skin! (the exclamation mark is important) is a client-side mod with\noptional server-side support that enables extensive customization of armor \nrendering. Every feature is toggleable and designed to be as flexible as possible.\n\n## Sliders galore\n\nAll the armor hiding options you could ever need, in one intuitive GUI. \nIncluding:\n\n- Individual configuration of each armor piece and elytra/shield:\n  - Arbitrary transparency\n  - Invisibility\n  - Enchant glint hiding\n- Server-based syncing of settings\n- Player name tag display toggle\n- Context-sensitive armor hiding\n- Per-player settings overrides\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/sliders.gif)\n\n## Truly flexible\n\nBelow are a few examples of the flexibility this mod offers. You can\nfully cater the settings to your preference, and change them on the fly if needed.\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/merged-framed.gif)\n\n## Context-sensitive hiding\n\nArmor can be restored to vanilla behavior based on certain conditions, \nsuch as being in combat. This means the armor will be shown for a\nconfigurable amount of seconds after a player is damaged.\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/combat.gif)\n\n## Multiplayer support\n\nWhen the mod is installed on a server, it'll enter \"server mode\" and any settings \nyou configure for yourself will be visible in real-time to other players. \nThough admins can enforce certain restrictions on what settings are available \nif they feel the need for it.\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/multiplayer.gif)\n\nWhen the mod is only installed on your client however, you'll be able to\nconfigure personal settings for every player on the server. Though these are\nonly visible to you.\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/overrides.gif)\n",
+		"long_description": "# Show Me Your Skin!\n\nShow Me Your Skin! (the exclamation mark is important) is a client-side mod with\noptional server-side support that enables extensive customization of armor \nrendering. Every feature is toggleable and designed to be as flexible as possible.\n\n![https://i.enjarai.dev/u/4Dv46a.png](https://i.enjarai.dev/u/4Dv46a.png)\n\n## Sliders galore\n\nAll the armor hiding options you could ever need, in one intuitive GUI. \nIncluding:\n\n- Individual configuration of each armor piece and elytra/shield:\n  - Arbitrary transparency\n  - Invisibility\n  - Enchant glint hiding\n- Server-based syncing of settings\n- Player name tag display toggle\n- Context-sensitive armor hiding\n- Per-player settings overrides\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/sliders.gif)\n\n## Truly flexible\n\nBelow are a few examples of the flexibility this mod offers. You can\nfully cater the settings to your preference, and change them on the fly if needed.\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/merged-framed.gif)\n\n## Context-sensitive hiding\n\nArmor can be restored to vanilla behavior based on certain conditions, \nsuch as being in combat. This means the armor will be shown for a\nconfigurable amount of seconds after a player is damaged.\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/combat.gif)\n\n## Multiplayer support\n\nWhen the mod is installed on a server, it'll enter \"server mode\" and any settings \nyou configure for yourself will be visible in real-time to other players. \nThough admins can enforce certain restrictions on what settings are available \nif they feel the need for it.\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/multiplayer.gif)\n\nWhen the mod is only installed on your client however, you'll be able to\nconfigure personal settings for every player on the server. Though these are\nonly visible to you.\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/overrides.gif)\n",
 		"name": "Show Me Your Skin!",
 		"package_maintainers": [
 			"mcvm"
@@ -893,6 +924,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.11.3-1.21",
 			"1.11.2-1.21",
 			"1.11.1-1.21",
 			"1.11.0-1.20.6",
@@ -984,7 +1016,8 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

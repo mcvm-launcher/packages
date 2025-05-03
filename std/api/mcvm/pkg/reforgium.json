@@ -1,0 +1,83 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "1.18.2-1.0.12a",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "rubidium"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vmn85VI7/versions/uCq6zZWl/reforgium-1.18.2-1.0.12a.jar",
+					"version": "uCq6zZWl"
+				},
+				{
+					"content_versions": "1.19.2-1.0.12a",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "rubidium"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vmn85VI7/versions/OcW1M8PC/reforgium-1.0.12a.jar",
+					"version": "OcW1M8PC"
+				},
+				{
+					"content_versions": "1.19.2-1.0.12",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "rubidium"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vmn85VI7/versions/QgYvyx2c/reforgium-1.0.12.jar",
+					"version": "QgYvyx2c"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Asek3"
+		],
+		"community": "https://discord.gg/UCsyn5RS4s",
+		"description": "Unofficial Fork of FRAPI and Indium that works with Forge",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/vmn85VI7/c79e6228f560d6fe855795e6f8b0a25205fffb4d_96.webp",
+		"issues": "https://github.com/Asek3/Reforgium/issues",
+		"license": "Apache-2.0",
+		"long_description": "# Reforgium\n\nReforgium is an unofficial fork of the Fabric Rendering API and Indium, designed to facilitate easier porting of client-side mods. The mod includes two types of rendering: Indigo and ReforgiumRenderer (Indium).\n\nReforgiumRenderer is activated when Rubidium is present in the modpack, otherwise Indigo is used.\n\n## Mods that use Reforgium\n\n- Connectedness\n\n*Note: Reforgium is not affiliated with Fabric or Indium.*",
+		"name": "Reforgium",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Asek3/Reforgium"
+	},
+	"properties": {
+		"content_versions": [
+			"1.19.2-1.0.12",
+			"1.19.2-1.0.12a",
+			"1.18.2-1.0.12a"
+		],
+		"modrinth_id": "vmn85VI7",
+		"supported_modloaders": [
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19.2"
+		]
+	}
+}

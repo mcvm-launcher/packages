@@ -20,6 +20,30 @@
 					"version": "cmWbslFO"
 				},
 				{
+					"content_versions": "3.0.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ulloLmqG/versions/aR6kgnDf/another_furniture-forge-1.20.1-3.0.2.jar",
+					"version": "aR6kgnDf"
+				},
+				{
+					"content_versions": "4.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ulloLmqG/versions/y4yMDiD3/another_furniture-fabric-4.0.0.jar",
+					"version": "y4yMDiD3"
+				},
+				{
+					"content_versions": "4.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ulloLmqG/versions/QB6CceI5/another_furniture-neoforge-4.0.0.jar",
+					"version": "QB6CceI5"
+				},
+				{
 					"content_versions": "1.19.2-2.1.4",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
@@ -160,19 +184,18 @@
 	},
 	"meta": {
 		"authors": [
-			"Synthestra",
-			"crispytwig"
+			"Synthestra"
 		],
-		"banner": "https://cdn.modrinth.com/data/ulloLmqG/images/8fdd243fb34d17154a9bc0e2b896c8a99e71158c.png",
+		"banner": "https://cdn.modrinth.com/data/ulloLmqG/images/a86829a92f8e47f15a706605c8ddf4a3cd8a1a1a_350.webp",
 		"community": "https://discord.gg/starfishstudios",
 		"description": "Vanilla-styled Minecraft furniture mod.",
 		"documentation": "https://starfish-studios.com/mods/another-furniture",
 		"gallery": [
-			"https://cdn.modrinth.com/data/ulloLmqG/images/51dd1500e651135851f4b3a3489ccf4e2b841aff.png",
-			"https://cdn.modrinth.com/data/ulloLmqG/images/8fdd243fb34d17154a9bc0e2b896c8a99e71158c.png",
-			"https://cdn.modrinth.com/data/ulloLmqG/images/c50078ef31fca12299b647eab9c0c88dfe033b54.png"
+			"https://cdn.modrinth.com/data/ulloLmqG/images/a86829a92f8e47f15a706605c8ddf4a3cd8a1a1a_350.webp",
+			"https://cdn.modrinth.com/data/ulloLmqG/images/c50078ef31fca12299b647eab9c0c88dfe033b54_350.webp",
+			"https://cdn.modrinth.com/data/ulloLmqG/images/e2d31c3c9bf4190336d2e3978130795b6d3de5e5_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/ulloLmqG/c3741a740ede138ab2d62ca49add0ab69dd828d4.png",
+		"icon": "https://cdn.modrinth.com/data/ulloLmqG/041973654454890a48f437d8257e7be3ca53b7b2_96.webp",
 		"issues": "https://github.com/starfish-studios/AnotherFurniture/issues",
 		"license": "https://github.com/starfish-studios/AnotherFurniture/blob/1.19/LICENSE",
 		"long_description": "<p><img src=\"https://i.imgur.com/QiboDom.jpg\" alt=\"\" width=\"1127\" height=\"634\" /></p>\n<div style=\"text-align: center;\">\n<p><span style=\"font-size: 14px;\"><strong><b><a href=\"https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252f3sEFCSkUcV\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/878598895788240936?label=&amp;color=cd904d&amp;labelColor=5f331a&amp;logo=Discord&amp;logoColor=ffffff&amp;style=for-the-badge\" alt=\"Discord\" width=\"137\" height=\"28\" /></a> <a href=\"https://www.twitter.com/starfishstudios\" rel=\"nofollow\"><img src=\"https://img.shields.io/twitter/follow/starfishstudios?label=&amp;color=cd904d&amp;labelColor=5f331a&amp;logo=Twitter&amp;logoColor=ffffff&amp;style=for-the-badge\" alt=\"Twitter\" width=\"86\" height=\"28\" /></a></b></strong></span></p>\n</div>\n<p><span style=\"font-size: 14px;\"><b>Decorating your home just got better!</b><strong><b> Another Furniture </b></strong>adds various furniture, with the goal of staying vanilla-styled and consistently sized, keeping normal blocks and player sizes in mind.</span><span style=\"font-size: 14px;\"><br /></span></p>\n<p><span style=\"font-size: 18px;\"><strong>📝 Frequently Asked Questions</strong></span></p>\n<div class=\"spoiler\">\n<p><span style=\"font-size: 14px;\"><strong>Q: Can I use this mod in my modpack or make videos about it?<br /></strong>A: Yes! Feel free to include Another Furniture in your modpack or make videos about it. Just make sure to give credit, and don't claim Another Furniture as your own creation.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Will you backport to 1.16.5 or other previous versions?</strong></span></p>\n<p><span style=\"font-size: 14px;\">A: Backports are not planned. The earliest version this mod will support is 1.18.2.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Will you be adding furniture compatibility for other wood types?<br /></strong></span></p>\n<p><span style=\"font-size: 14px;\">A: Download <a href=\"https://www.curseforge.com/minecraft/mc-mods/every-compat\">Every Compat</a>, which already does this for Another Furniture, as well as other popular mods that add wooden blocks.<br /></span></p>\n</div>",
@@ -184,6 +207,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"4.0.0",
+			"3.0.2",
 			"3.0.1",
 			"-2.1.2-1.19.2",
 			"-2.1.2-1.18.2",
@@ -212,7 +237,8 @@
 			"1.18.2",
 			"1.19",
 			"1.19.2",
-			"1.20.1"
+			"1.20.1",
+			"1.21.1"
 		]
 	}
 }

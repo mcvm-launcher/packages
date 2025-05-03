@@ -4,6 +4,98 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "21.1.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/5LEcXxOJ/tipsmod-neoforge-1.21.1-21.1.2.jar",
+					"version": "5LEcXxOJ"
+				},
+				{
+					"content_versions": "21.1.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/U8M9il2s/Tips-forge-1.21.1-21.1.2.jar",
+					"version": "U8M9il2s"
+				},
+				{
+					"content_versions": "21.1.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/Hj3RJihq/tipsmod-fabric-1.21.1-21.1.2.jar",
+					"version": "Hj3RJihq"
+				},
+				{
+					"content_versions": "21.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/T6aW58s2/tipsmod-neoforge-1.21.1-21.1.1.jar",
+					"version": "T6aW58s2"
+				},
+				{
+					"content_versions": "21.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/687Jjyj3/Tips-forge-1.21.1-21.1.1.jar",
+					"version": "687Jjyj3"
+				},
+				{
+					"content_versions": "21.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/KNxc6OME/tipsmod-fabric-1.21.1-21.1.1.jar",
+					"version": "KNxc6OME"
+				},
+				{
 					"content_versions": "12.1.8",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -2331,6 +2423,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"21.1.2",
+			"21.1.1",
 			"15.0.4",
 			"15.0.3",
 			"15.0.2",
@@ -2469,7 +2563,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21.1"
 		]
 	}
 }

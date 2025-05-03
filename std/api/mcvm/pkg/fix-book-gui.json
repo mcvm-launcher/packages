@@ -4,6 +4,33 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.8.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/myKgAJq6/versions/CtFT7bxE/fixbookgui-1.8.1%2B1.21.5.jar",
+					"version": "CtFT7bxE"
+				},
+				{
+					"content_versions": "1.8.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/myKgAJq6/versions/3XqZJYmn/fixbookgui-1.8.0%2B1.21.4.jar",
+					"version": "3XqZJYmn"
+				},
+				{
+					"content_versions": "1.7.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/myKgAJq6/versions/2P5vw4V5/fixbookgui-neoforge-mc1.21-1.7.0.jar",
+					"version": "2P5vw4V5"
+				},
+				{
 					"content_versions": "1.6.2-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -82,6 +109,25 @@
 					"version": "AYSscJAQ"
 				},
 				{
+					"content_versions": "1.8.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/myKgAJq6/versions/HsuyRRoL/fixbookgui-1.8.0%2B1.21.5.jar",
+					"version": "HsuyRRoL"
+				},
+				{
+					"content_versions": "1.7.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/myKgAJq6/versions/GhLqjaKr/fixbookgui-fabric-mc1.21-1.7.0.jar",
+					"version": "GhLqjaKr"
+				},
+				{
 					"content_versions": "1.6.1-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -151,23 +197,25 @@
 			"KosmoMoustache"
 		],
 		"banner": "https://cdn.modrinth.com/data/myKgAJq6/images/48dfd47c7c1ebae83386f71996a9c7675ef84a86.jpeg",
-		"description": "Fix the book gui by translating it in the middle of the screen",
+		"description": "Fix the book gui placement to be in middle center instead of the top center of the screen (bug report: MC-61489)",
 		"gallery": [
 			"https://cdn.modrinth.com/data/myKgAJq6/images/48dfd47c7c1ebae83386f71996a9c7675ef84a86.jpeg"
 		],
 		"icon": "https://cdn.modrinth.com/data/myKgAJq6/03493147acd0237900b9aa6f32eba6c657fcfaa0.png",
 		"issues": "https://github.com/KosmoMoustache/FixBookGUI/issues",
 		"license": "LGPL-3.0-only",
-		"long_description": "<a href=\"https://www.bisecthosting.com/kosmo\" target=\"_blank\"><img alt=\"bisecthosting parnet banner, get 25% off your first month with the code kosmo\" src=\"https://www.bisecthosting.com/partners/custom-banners/671fae50-e894-42ee-aa80-027eca1d8629.webp\"></a>\n\n\n# FixBookGUI\n\nTranslate the book gui in the middle of the screen\nThis mod intent to fix [MC-61489](https://bugs.mojang.com/projects/MC/issues/MC-61489)\n\nMost of fix logic come from [mworzala's gist](https://gist.github.com/mworzala/9a8d86803784c9c81aac77d9a7f9fb2b) so credit\nto them for the fix, I just made it a mod. (They are not involved in the creation of it)\n\n### Comparison\n\n<div>\n    <table>\n        <tr>\n            <td align=\"middle\">\n            <img alt=\"Difference: Book\" src=\"https://github.com/KosmoMoustache/FixBookGUI/raw/main/img/book.jpg\">\n            <figcaption align=\"middle\">Book</figcaption>\n            </td>\n        </tr>\n        <tr>\n            <td align=\"middle\">\n                <img alt=\"Difference: Writing book\" src=\"https://github.com/KosmoMoustache/FixBookGUI/raw/main/img/write.jpg\">\n                <figcaption align=\"middle\">Writing book</figcaption>\n            </td>\n        </tr>\n        <tr>\n            <td align=\"middle\">\n                <img alt=\"Difference: Lectern\" src=\"https://github.com/KosmoMoustache/FixBookGUI/raw/main/img/lectern.jpg\">\n                <figcaption align=\"middle\">Lectern</figcaption>\n            </td>\n        </tr>\n    </table>\n</div>\n",
+		"long_description": "# FixBookGUI\n\nTranslate the book gui in the middle of the screen\nThis mod intent to fix [MC-61489](https://bugs.mojang.com/projects/MC/issues/MC-61489)\n\nMost of fix logic come from [mworzala's gist](https://gist.github.com/mworzala/9a8d86803784c9c81aac77d9a7f9fb2b) so credit\nto them for the fix, I just made it a mod. (They are not involved in the creation of it)\n\n### Comparison\n\n<div>\n    <table>\n        <tr>\n            <td align=\"middle\">\n            <img alt=\"Difference: Book\" src=\"https://github.com/KosmoMoustache/FixBookGUI/raw/main/img/book.jpg\">\n            <figcaption align=\"middle\">Book</figcaption>\n            </td>\n        </tr>\n        <tr>\n            <td align=\"middle\">\n                <img alt=\"Difference: Writing book\" src=\"https://github.com/KosmoMoustache/FixBookGUI/raw/main/img/write.jpg\">\n                <figcaption align=\"middle\">Writing book</figcaption>\n            </td>\n        </tr>\n        <tr>\n            <td align=\"middle\">\n                <img alt=\"Difference: Lectern\" src=\"https://github.com/KosmoMoustache/FixBookGUI/raw/main/img/lectern.jpg\">\n                <figcaption align=\"middle\">Lectern</figcaption>\n            </td>\n        </tr>\n    </table>\n</div>\n",
 		"name": "FixBookGUI",
 		"package_maintainers": [
 			"mcvm"
 		],
-		"source": "https://github.com/KosmoMoustache/FixBookGUI",
-		"support_link": "https://ko-fi.com/kosmomoustache"
+		"source": "https://github.com/KosmoMoustache/FixBookGUI"
 	},
 	"properties": {
 		"content_versions": [
+			"1.8.1",
+			"1.8.0",
+			"1.7.0",
 			"1.6.2-1.21",
 			"1.6.1-1.21",
 			"1.6.1-1.20.6",
@@ -199,7 +247,10 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

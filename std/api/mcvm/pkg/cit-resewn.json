@@ -4,6 +4,67 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.2.2-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/otVJckYQ/versions/PWzftv7C/citresewn-1.2.2%2B1.19.4.jar",
+					"version": "PWzftv7C"
+				},
+				{
+					"content_versions": "1.2.2-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/otVJckYQ/versions/VzDTHJkq/citresewn-1.2.2%2B1.20.1.jar",
+					"version": "VzDTHJkq"
+				},
+				{
+					"content_versions": "1.2.2-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/otVJckYQ/versions/fLxqKl9W/citresewn-1.2.2%2B1.20.4.jar",
+					"version": "fLxqKl9W"
+				},
+				{
+					"content_versions": "1.2.2-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/otVJckYQ/versions/JUnP9V1A/citresewn-1.2.2%2B1.21.jar",
+					"version": "JUnP9V1A"
+				},
+				{
+					"content_versions": "1.2.1-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/otVJckYQ/versions/FnarCxUt/citresewn-1.2.1%2B1.21.jar",
+					"version": "FnarCxUt"
+				},
+				{
+					"content_versions": "1.2.0-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/otVJckYQ/versions/G6VEzcyZ/citresewn-1.2.0%2B1.21.jar",
+					"version": "G6VEzcyZ"
+				},
+				{
 					"content_versions": "1.1.5-1.20.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -461,7 +522,7 @@
 		"description": "Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)",
 		"documentation": "https://citresewn.shcm.io/",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/otVJckYQ/icon.png",
+		"icon": "https://cdn.modrinth.com/data/otVJckYQ/4d29d9564b0ec6e21841097527c0b489dcc6a318_96.webp",
 		"issues": "https://github.com/SHsuperCM/CITResewn/issues",
 		"keywords": [
 			"graphics"
@@ -476,6 +537,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.2.2-1.21",
+			"1.2.2-1.20.4",
+			"1.2.2-1.20.1",
+			"1.2.2-1.19.4",
+			"1.2.1-1.21",
+			"1.2.0-1.21",
 			"1.1.5-1.20.4",
 			"1.1.5-1.20.1",
 			"1.1.5-1.19.4",
@@ -539,7 +606,10 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.2",
+			"1.20.4",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

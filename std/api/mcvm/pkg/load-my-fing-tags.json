@@ -4,6 +4,32 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.0-1.21.4",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/67kVxsaO/versions/jEDKD9YH/lmft-1.1.0%2B1.21.4-fabric.jar",
+					"version": "jEDKD9YH"
+				},
+				{
+					"content_versions": "1.1.0-1.21.4",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/67kVxsaO/versions/dihEczPf/lmft-1.1.0%2B1.21.4-neoforge.jar",
+					"version": "dihEczPf"
+				},
+				{
 					"content_versions": "1.0.4-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -280,9 +306,9 @@
 			"Blodhgarm"
 		],
 		"community": "https://discord.com/invite/xrwHKktV2d",
-		"description": "Prevents Incorrect Tag Entries from breaking an entrie Tag",
+		"description": "Prevents Incorrect Tag Entries from breaking an entire Tag",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/67kVxsaO/icon.png",
+		"icon": "https://cdn.modrinth.com/data/67kVxsaO/7dcdbb029ee6ca870cfb67ede4937d132705f5dd_96.webp",
 		"issues": "https://github.com/Dragon-Seeker/LoadMyFuckingTags/issues",
 		"license": "CC0-1.0",
 		"long_description": "![Title Image](https://cdn.modrinth.com/data/cached_images/2755f12b234e5834d2ad31ef93a6eb745f29ab10.png)\n\n<hr>\n\nA Simple mod that prevents Minecraft from throwing out an entire tag of its contents if one or more entries within the tag are invalid. There will be a message found within the game if the tags are \"cooked\" and more info similar to the base game can be found within the Log of the Server/Client the mod is running.\n\nThe reason behind this mod is the issue that some mod or data pack may add an invalid entry to let's say \"minecraft:mineable/pickaxe\" leading to all pickaxe mineable blocks being unmineable which breaks the game.\n\n**TLDR:** This mod prevents Mod/Datapack mistakes from breaking entire portions of the game. For more Info involved in either **Understanding** or **Silencing** the Ingame Chat Message go to the [Github Link](https://github.com/Dragon-Seeker/LoadMyFingTags/blob/3961e898550c4d996199bea0fa408a61e87e8dba/info.md) for more info\n\n## Note about Versioning\n- **[MultiLoader Update]** Ver1.0.1: Fix issue involved with mixins only applying client side\n### Forge\n- **[47.1.44 - 47.2.5]** Ver1.0.3: Fix issues with forge reimplementing Singleplayer Modmenu \n- **[47.2.6 and Up]** Ver1.0.4: Fix issue with forge patch bug with TagGroup.Loader with HashSet instead of LinkedHashSet",
@@ -295,6 +321,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.1.0-1.21.4",
 			"1.0.4-1.21",
 			"1.0.4-1.20.4",
 			"1.0.4-1.20.1",
@@ -333,7 +360,12 @@
 			"1.20.2",
 			"1.20.3",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

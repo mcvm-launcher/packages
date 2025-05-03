@@ -4,6 +4,134 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.20.1-448",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"curios-api",
+							"patchouli"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/19mwqT4M/Botania-1.20.1-448-FORGE.jar",
+					"version": "19mwqT4M"
+				},
+				{
+					"content_versions": "1.20.1-448",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"patchouli",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/t7kGxx07/Botania-1.20.1-448-FABRIC.jar",
+					"version": "t7kGxx07"
+				},
+				{
+					"content_versions": "1.20.1-447",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"curios-api",
+							"patchouli"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/ucCteATJ/Botania-1.20.1-447-FORGE.jar",
+					"version": "ucCteATJ"
+				},
+				{
+					"content_versions": "1.20.1-447",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"patchouli",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/kzY0l6pf/Botania-1.20.1-447-FABRIC.jar",
+					"version": "kzY0l6pf"
+				},
+				{
+					"content_versions": "1.19.2-440.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"patchouli",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/rY2B5H93/Botania-1.19.2-440.2-FABRIC.jar",
+					"version": "rY2B5H93"
+				},
+				{
+					"content_versions": "1.19.2-440.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"curios-api",
+							"patchouli"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/aTGY8zMJ/Botania-1.19.2-440.2-FORGE.jar",
+					"version": "aTGY8zMJ"
+				},
+				{
+					"content_versions": "1.20.1-446",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"curios-api",
+							"patchouli"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/QXK1IBLc/Botania-1.20.1-446-FORGE.jar",
+					"version": "QXK1IBLc"
+				},
+				{
+					"content_versions": "1.20.1-446",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"patchouli",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/8kglDuQk/Botania-1.20.1-446-FABRIC.jar",
+					"version": "8kglDuQk"
+				},
+				{
 					"content_versions": "1.6.4-beta-16",
 					"minecraft_versions": "1.6.4",
 					"modloaders": "forgelike",
@@ -513,7 +641,7 @@
 		"community": "https://discord.com/invite/vm",
 		"description": "An innovative natural magic themed tech mod",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/pfjLUfGv/4c006056fd05fdd63b83d79c7c3bb9712d2f49bc.png",
+		"icon": "https://cdn.modrinth.com/data/pfjLUfGv/e40d77bf0245907048fb71b5a64ec3de10099ef1_96.webp",
 		"issues": "https://github.com/VazkiiMods/Botania/issues",
 		"license": "LicenseRef-Botania-License",
 		"long_description": "[![](https://violetmoon.org/branding/vm0.png)](https://violetmoon.org)[![](https://violetmoon.org/branding/vm1.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/vm2.png)](https://twitter.com/vazkiimods)[![](https://violetmoon.org/branding/vm3.png)](https://discord.gg/vm)\n![](https://violetmoon.org/branding/hero/botania.png)\n\n---\n\n# About\n\nWarning: Botania **Requires [Patchouli](https://modrinth.com/mod/patchouli) and [Curios (Forge)](https://www.curseforge.com/minecraft/mc-mods/curios) or [Trinkets (Fabric/Quilt)](https://modrinth.com/mod/trinkets)!**  \n\n**Botania** is a tech mod themed around natural magic. Gameplay is centered around creating magical flowers and devices using Mana, the power of the earth. Botania is fully playable as a standalone mod (and is designed as such), but it functions just well in conjunction with other mods.\n\nThe mod focuses on automation, but without elements that make it feel grindy-- systems can be thought out and designed, rather than built blindly from blueprints in JEI or a wiki.\n\n**Botania's design philosophy**\n\n* No pipes, wires, etc-- they're boring and overdone;\n* No GUIs-- interact with everything in-world;\n* No numbers-- players shouldn't try to minmax everything;\n* Keep all resources as renewable as possible;\n* Provide pleasing visuals, despite using only two different particle effects.\n\n**Botania's goals**\n\n* Break the mold of mods being means to ends-- be engaging in gameplay as well as in rewards;\n* Deliver fun and balanced gameplay without forcing players to grind;\n* Incentivize sandbox gameplay and allow players to create fun contraptions;\n* Create an overall immersive experience.\n\n---\n\n# Learn more about Botania today\n### Visit the **[Official Website](https://botaniamod.net/index.html)**\n\n---\n\n\n\n![](https://violetmoon.org/branding/support.png)\n[![](https://violetmoon.org/branding/patreon.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/store.png)](https://store.vazkii.net)\n[![](https://violetmoon.org/branding/ch.png)](https://violetmoon.org/creeperhost)- - ",
@@ -526,11 +654,15 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.20.1-448",
+			"1.20.1-447",
+			"1.20.1-446",
 			"1.20.1-445",
 			"1.20.1-444",
 			"1.20.1-443",
 			"1.20.1-442",
 			"1.20.1-441",
+			"1.19.2-440.2",
 			"1.19.2-440",
 			"1.19.2-439",
 			"1.19.2-438",

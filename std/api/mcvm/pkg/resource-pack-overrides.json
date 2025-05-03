@@ -4,6 +4,82 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v21.5.0-1.21.5-Neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YsFycamt/versions/8JY8q9DY/ResourcePackOverrides-v21.5.0-1.21.5-NeoForge.jar",
+					"version": "8JY8q9DY"
+				},
+				{
+					"content_versions": "v21.5.0-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YsFycamt/versions/gWcaClSA/ResourcePackOverrides-v21.5.0-1.21.5-Fabric.jar",
+					"version": "gWcaClSA"
+				},
+				{
+					"content_versions": "v21.4.0-1.21.4-Neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YsFycamt/versions/GURkprWX/ResourcePackOverrides-v21.4.0-1.21.4-NeoForge.jar",
+					"version": "GURkprWX"
+				},
+				{
+					"content_versions": "v21.4.0-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YsFycamt/versions/1L9bzrdn/ResourcePackOverrides-v21.4.0-1.21.4-Fabric.jar",
+					"version": "1L9bzrdn"
+				},
+				{
+					"content_versions": "v21.3.0-1.21.3-Neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YsFycamt/versions/BvEzCtnR/ResourcePackOverrides-v21.3.0-1.21.3-NeoForge.jar",
+					"version": "BvEzCtnR"
+				},
+				{
+					"content_versions": "v21.3.0-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YsFycamt/versions/9HSPhi5D/ResourcePackOverrides-v21.3.0-1.21.3-Fabric.jar",
+					"version": "9HSPhi5D"
+				},
+				{
+					"content_versions": "v21.1.0-1.21.1-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YsFycamt/versions/xf3H2eJV/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+					"version": "xf3H2eJV"
+				},
+				{
+					"content_versions": "v21.1.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YsFycamt/versions/MIxxajqC/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
+					"version": "MIxxajqC"
+				},
+				{
 					"content_versions": "v21.0.0-1.21-Neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -179,12 +255,12 @@
 			"Fuzs",
 			"LunaPixelStudios"
 		],
-		"banner": "https://cdn.modrinth.com/data/YsFycamt/images/9d67b1e8477c0b0720858f8700b4e92a6d006001.png",
+		"banner": "https://cdn.modrinth.com/data/YsFycamt/images/f0e917473cb0b36e64e94952a31811ff2e30fbbe_350.webp",
 		"description": "Ensures important resource packs stay always active and helps clean up the pack selection screen.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/YsFycamt/images/9d67b1e8477c0b0720858f8700b4e92a6d006001.png"
+			"https://cdn.modrinth.com/data/YsFycamt/images/f0e917473cb0b36e64e94952a31811ff2e30fbbe_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/YsFycamt/e7e3f23803e72f3e3b480c15f640a8f93a60bcb4.png",
+		"icon": "https://cdn.modrinth.com/data/YsFycamt/41ffb6bab050b997fc863d7691a4ef73f0880cf2_96.webp",
 		"issues": "https://github.com/Fuzss/resourcepackoverrides/issues",
 		"license": "MPL-2.0",
 		"long_description": "<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/banner.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://lunapixel.studio/discord\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Discord&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"117\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Twitter&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"116\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=YouTube&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Patreon&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=patreon&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.paypal.com/donate/?hosted_button_id=TYG7QUSWMVSNG\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=PayPal&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=paypal&amp;logoColor=white\" width=\"107\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"108\" height=\"28\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/about.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Resource Pack Overrides exists to help mod pack makers with managing pre-installed resource packs. It's especially useful for making sure important resource packs always stay enabled no matter what and also allows for cleaning up the resource pack selection screen to give users less of a chance to accidentially mess with important packs.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/features.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Define a default list and order of resource packs that persists accross failed resource pack reloads.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Override certain resource pack display attributes for the resource pack selection list, mainly such as compatibility and visibility.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Hide resource packs users are not supposed to be able to interact with.</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/media.png\" width=\"854\" height=\"32\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/media/1.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/media/2.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/installation.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">INSTALLATION REQUIRED ON CLIENT</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/fabric-api\"><strong><span style=\"font-size: 14px;\">FABRIC API</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/configuration.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Resource Pack Overrides is configured via a single config file located at </span><code><span style=\"font-size: 14px;\">.minecraft/config/resourcepackoverrides.json</span></code><span style=\"font-size: 14px;\">. The file generates as blank when absent.</span></p>\n<p><span style=\"font-size: 14px;\">Find out all the details on the </span><a href=\"https://github.com/Fuzss/resourcepackoverrides\"><span style=\"font-size: 14px;\">GitHub repository</span></a><span style=\"font-size: 14px;\">!</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/support.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://modrinth.com/mod/better-tridents\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/bettertridents/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/combat-nouveau\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/combatnouveau/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/easy-magic\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/easymagic/banner.png\" width=\"854\" height=\"240\" /></a></p><p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://lunapixel.studio/discord\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/studio.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/resourcepackoverrides/strip.png\" width=\"854\" height=\"14\" /></p>\n",
@@ -201,6 +277,14 @@
 			"v8.0.1-1.20.1",
 			"v8.0.0-1.20.1",
 			"v7.0.0-1.20",
+			"v21.5.0-1.21.5",
+			"v21.5.0-1.21.5-Neo",
+			"v21.4.0-1.21.4",
+			"v21.4.0-1.21.4-Neo",
+			"v21.3.0-1.21.3",
+			"v21.3.0-1.21.3-Neo",
+			"v21.1.0-1.21.1",
+			"v21.1.0-1.21.1-Neo",
 			"v21.0.0-1.21",
 			"v21.0.0-1.21-Neo",
 			"v20.4.2-1.20.4",
@@ -220,7 +304,11 @@
 			"1.20",
 			"1.20.1",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

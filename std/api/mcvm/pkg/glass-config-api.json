@@ -4,10 +4,92 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.1.0",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "glass-networking",
+						"recommendations": {
+							"value": "mod-menu-beta"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rFeWTq4G/versions/LFYZx7JL/GlassConfigAPI-3.1.0.jar",
+					"version": "LFYZx7JL"
+				},
+				{
+					"content_versions": "3.0.4",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "glass-networking",
+						"recommendations": {
+							"value": "mod-menu-beta"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rFeWTq4G/versions/J8KPb8tK/GlassConfigAPI-3.0.4.jar",
+					"version": "J8KPb8tK"
+				},
+				{
+					"content_versions": "3.0.3",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "glass-networking",
+						"recommendations": {
+							"value": "mod-menu-beta"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rFeWTq4G/versions/vGu1hQcq/GlassConfigAPI-3.0.3.jar",
+					"version": "vGu1hQcq"
+				},
+				{
+					"content_versions": "3.0.2",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "glass-networking",
+						"recommendations": {
+							"value": "mod-menu-beta"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rFeWTq4G/versions/gPcdl13a/GlassConfigAPI-3.0.2.jar",
+					"version": "gPcdl13a"
+				},
+				{
+					"content_versions": "3.0.1",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "glass-networking",
+						"recommendations": {
+							"value": "mod-menu-beta"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rFeWTq4G/versions/514T9ST5/GlassConfigAPI-3.0.1.jar",
+					"version": "514T9ST5"
+				},
+				{
+					"content_versions": "3.0.0",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "glass-networking"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rFeWTq4G/versions/GVxiV4DR/GlassConfigAPI-3.0.0.jar",
+					"version": "GVxiV4DR"
+				},
+				{
 					"content_versions": "2.0.2",
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"relations": {
+						"dependencies": "station-api",
 						"recommendations": {
 							"value": "mod-menu-beta"
 						}
@@ -21,6 +103,7 @@
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"relations": {
+						"dependencies": "station-api",
 						"recommendations": {
 							"value": "mod-menu-beta"
 						}
@@ -34,6 +117,7 @@
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"relations": {
+						"dependencies": "station-api",
 						"recommendations": {
 							"value": "mod-menu-beta"
 						}
@@ -47,6 +131,7 @@
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"relations": {
+						"dependencies": "station-api",
 						"recommendations": {
 							"value": "mod-menu-beta"
 						}
@@ -60,6 +145,7 @@
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
 					"relations": {
+						"dependencies": "station-api",
 						"recommendations": {
 							"value": "mod-menu-beta"
 						}
@@ -84,6 +170,7 @@
 		"description": "An API for easily creating and syncing configs in b1.7.3, with optional ModMenu support.",
 		"documentation": "https://github.com/calmilamsy/glass-config-api/wiki",
 		"gallery": [
+			"https://cdn.modrinth.com/data/rFeWTq4G/images/a477e930dd2ec0716755f75ef07889ff6db48a7f.png",
 			"https://cdn.modrinth.com/data/rFeWTq4G/images/0d32f506b4e6e993724bad1bd9db7d4839f53433.png",
 			"https://cdn.modrinth.com/data/rFeWTq4G/images/d92cbb0bf2410d320ae976fd9593b9d59c96d9ab.png"
 		],
@@ -102,6 +189,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.1.0",
+			"3.0.4",
+			"3.0.3",
+			"3.0.2",
+			"3.0.1",
+			"3.0.0",
 			"2.0.2",
 			"2.0.1",
 			"2.0.0",
@@ -120,8 +213,5 @@
 		"supported_versions": [
 			"b1.7.3"
 		]
-	},
-	"relations": {
-		"dependencies": "station-api"
 	}
 }

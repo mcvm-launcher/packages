@@ -4,6 +4,55 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "16.0.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vuGFx44e/versions/o4CYZoEP/ToolStats-Fabric-1.20.1-16.0.9.jar",
+					"version": "o4CYZoEP"
+				},
+				{
+					"content_versions": "16.0.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vuGFx44e/versions/gGAIQFeH/ToolStats-Forge-1.20.1-16.0.9.jar",
+					"version": "gGAIQFeH"
+				},
+				{
+					"content_versions": "19.0.5",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vuGFx44e/versions/H3Rkyf5D/ToolStats-Fabric-1.20.4-19.0.5.jar",
+					"version": "H3Rkyf5D"
+				},
+				{
+					"content_versions": "19.0.5",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vuGFx44e/versions/gH3YLlHq/ToolStats-NeoForge-1.20.4-19.0.5.jar",
+					"version": "gH3YLlHq"
+				},
+				{
+					"content_versions": "19.0.5",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vuGFx44e/versions/ihLzcPw7/ToolStats-Forge-1.20.4-19.0.5.jar",
+					"version": "ihLzcPw7"
+				},
+				{
 					"content_versions": "12.1.6",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
@@ -1187,7 +1236,7 @@
 		],
 		"description": "Provides additional tooltip info for items",
 		"gallery": [
-			"https://cdn.modrinth.com/data/vuGFx44e/images/34c20f349a00f3727fc8dbb22778eb76fa996798.png"
+			"https://cdn.modrinth.com/data/vuGFx44e/images/6abffc80e3e7961e616a5492be004a6a5402ec21_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/vuGFx44e/192346136bf85057e4602adade6eae5a324f7323.png",
 		"issues": "https://github.com/Darkhax-Minecraft/Tool-Stats/issues",
@@ -1201,12 +1250,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"19.0.5",
 			"19.0.3",
 			"19.0.2",
 			"19.0.1",
 			"18.0.1",
 			"17.0.2",
 			"17.0.1",
+			"16.0.9",
 			"16.0.8",
 			"16.0.7",
 			"16.0.6",

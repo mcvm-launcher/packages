@@ -4,6 +4,20 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.5.2-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/GzGXRgXC/MTR-NTE-0.5.2%2B1.20.1.jar",
+					"version": "GzGXRgXC"
+				},
+				{
 					"content_versions": "0.5.1-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -58,6 +72,76 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/LYMRCdSM/MTR-NTE-0.4.2%2B1.19.2.jar",
 					"version": "LYMRCdSM"
+				},
+				{
+					"content_versions": "0.5.2-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/JcADLY4p/MTR-NTE-0.5.2%2B1.19.4.jar",
+					"version": "JcADLY4p"
+				},
+				{
+					"content_versions": "0.5.2-1.19.3",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/F9HDDQl2/MTR-NTE-0.5.2%2B1.19.3.jar",
+					"version": "F9HDDQl2"
+				},
+				{
+					"content_versions": "0.5.2-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/t6W3sW39/MTR-NTE-0.5.2%2B1.19.2.jar",
+					"version": "t6W3sW39"
+				},
+				{
+					"content_versions": "0.5.2-1.18.2",
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/qv0p1m18/MTR-NTE-0.5.2%2B1.18.2.jar",
+					"version": "qv0p1m18"
+				},
+				{
+					"content_versions": "0.5.2-1.17.1",
+					"minecraft_versions": "1.17.1",
+					"modloaders": [
+						"fabriclike",
+						"forgelike"
+					],
+					"relations": {
+						"extensions": "minecraft-transit-railway"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/6tJ8ewOP/MTR-NTE-0.5.2%2B1.17.1.jar",
+					"version": "6tJ8ewOP"
 				},
 				{
 					"content_versions": "0.5.1-1.19.4",
@@ -1454,7 +1538,7 @@
 			"https://cdn.modrinth.com/data/8pXSjgW8/images/c0f1f16082dbab91d73db4d67b0ed9652f97fff9.jpeg",
 			"https://cdn.modrinth.com/data/8pXSjgW8/images/ee89bb65e6a254f2d8f9a19922bf24f369e30e54.jpeg"
 		],
-		"icon": "https://cdn.modrinth.com/data/8pXSjgW8/48b967161087d0713ead7561f8aa81c8698f4d1c.png",
+		"icon": "https://cdn.modrinth.com/data/8pXSjgW8/0e51dfcbd0e593788fd61573abcabfc05d0e188e_96.webp",
 		"issues": "https://github.com/zbx1425/mtr-nte/issues",
 		"license": "MIT",
 		"long_description": "本模组还在开发测试阶段，如有问题请报告。  \nThis mod is experimental and is still being developed, so please report should you encounter any issues.\n\n最新版对 MTR 版本的要求是 MTR 3.1.12。\nThe latest version requires MTR 3.1.12.\n\n**使用前请您先阅读 [此文档](https://www.zbx1425.cn/nautilus/mtr-nte/#/) 。**  \n**Make sure you read [THIS](https://www.zbx1425.cn/nautilus/mtr-nte/#/) before using.**\n\n![Feature Grid Image](https://www.zbx1425.cn/nautilus/mtr-nte/img/featgrid.jpg)\n\n功能介绍影片 Video for feature introduction:  \nhttps://www.bilibili.com/video/BV1kG4y1G7yx\n\n---\nNemo's Transit Expansion, created by Zbx1425, includes some experimental extension functionalities to the Minecraft Transit Mod. As a contributor to MTR's development, the author hopes to initially release, exhibit and experiment with these new features with this medium, and later merge its stable aspects into the MTR mod itself.\n\nInitially published at the [Teacon 2022 mod development jam](https://teacon.cn), the mod was originally named MTRSteamLoco.\n\n本模组 NTE（Nemo's Transit Expansion, 纸板箱的交通扩展）包含一些由 Zbx1425 制作的对 MTR 模组本体的实验性扩展功能。作为 MTR 开发贡献者之一，作者希望对这些新颖的功能作为独立扩展模组先行发布、展示与实验，并将稳定的部分稍后合并入 MTR 本体中。\n\n本模组最初在 [Teacon 2022 模组开发茶会](https://teacon.cn) 上公开，当时名为蒸汽动力 (MTRSteamLoco)，并荣获 “癫火之王” 荣誉。",
@@ -1466,6 +1550,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.5.2-1.20.1",
+			"0.5.2-1.19.4",
+			"0.5.2-1.19.3",
+			"0.5.2-1.19.2",
+			"0.5.2-1.18.2",
+			"0.5.2-1.17.1",
 			"0.5.1-1.20.1",
 			"0.5.1-1.19.4",
 			"0.5.1-1.19.3",

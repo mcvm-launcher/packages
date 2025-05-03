@@ -1,0 +1,597 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "1.0.6-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "palladium"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/kEIISdEU/GpuTape-1.0.6.1-1.21.5.jar",
+					"version": "kEIISdEU"
+				},
+				{
+					"content_versions": "1.0.5.1",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "video-tape",
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "palladium"
+							},
+							{
+								"value": "vulkanmod"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/ZoOH4tOq/GpuTape-1.18x-1.21x-1.0.5.1.jar",
+					"version": "ZoOH4tOq"
+				},
+				{
+					"content_versions": "1.0.5.1",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/mMc55fB1/GPUTape-1.18x-1.21x-1.0.5.1.jar",
+					"version": "mMc55fB1"
+				},
+				{
+					"content_versions": "1.0.5",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/87d73ndl/GPUTape-1.18x-1.21x-1.0.5.jar",
+					"version": "87d73ndl"
+				},
+				{
+					"content_versions": "1.0.5",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "video-tape",
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "vulkanmod"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/BMbuXZoR/GpuTape-1.21x-1.18x-1.0.5.jar",
+					"version": "BMbuXZoR"
+				},
+				{
+					"content_versions": "1.0.4-1.12",
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/Kml7i540/GPUTape-1.12.2-1.0.4.jar",
+					"version": "Kml7i540"
+				},
+				{
+					"content_versions": "1.0.4-1.16x",
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5",
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "video-tape"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/k3YT2628/GpuTape-1.16x-1.17x-1.0.4.jar",
+					"version": "k3YT2628"
+				},
+				{
+					"content_versions": "1.0.4",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "video-tape"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/12I0XpZi/GpuTape-1.18x-1.21x-1.0.4.jar",
+					"version": "12I0XpZi"
+				},
+				{
+					"content_versions": "1.0.3-1.16x",
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5",
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "video-tape"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/i0yZbFf8/GPUTape-1.16x-1.17x-1.0.3.jar",
+					"version": "i0yZbFf8"
+				},
+				{
+					"content_versions": "1.0.3-neo",
+					"minecraft_versions": [
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/nlerwS8N/GPUTape-1.20.6-1.21x-1.0.3.jar",
+					"version": "nlerwS8N"
+				},
+				{
+					"content_versions": "1.0.3",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "video-tape",
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/nccnGF7N/GpuTape-1.18x-1.21x-1.0.3.jar",
+					"version": "nccnGF7N"
+				},
+				{
+					"content_versions": "1.0.2-1.16x",
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5",
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "video-tape"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/Km1tyyQ3/GPUTape-1.16x-1.17x-1.0.2.jar",
+					"version": "Km1tyyQ3"
+				},
+				{
+					"content_versions": "1.0.2",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "video-tape",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/DENVQGNf/GpuTape-1.18x-1.21x-1.0.2.jar",
+					"version": "DENVQGNf"
+				},
+				{
+					"content_versions": "1.0.0-1.16x",
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5",
+						"1.17",
+						"1.17.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/VfBauQfj/GPUTape-1.16.1-1.17.1-1.0.0.jar",
+					"version": "VfBauQfj"
+				},
+				{
+					"content_versions": "1.0.1-neo",
+					"minecraft_versions": [
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/VPmOx7d3/GPUTape-1.20.6-1.21x-1.0.1.jar",
+					"version": "VPmOx7d3"
+				},
+				{
+					"content_versions": "1.0.0-1.21x",
+					"minecraft_versions": [
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"conflicts": "video-tape"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/5HTmn2Gr/GPUTape-1.20.6-1.21.1-1.0.0.jar",
+					"version": "5HTmn2Gr"
+				},
+				{
+					"content_versions": "1.0.0-neo",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/V54afQdx/GPUTape-1.0.0-1.20.1-neo.jar",
+					"version": "V54afQdx"
+				},
+				{
+					"content_versions": "1.0.1",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "video-tape",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/aYEk8yru/GpuTape-1.0.1-1.18-1.20.4.jar",
+					"version": "aYEk8yru"
+				},
+				{
+					"content_versions": "1.0.0",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/fpJ5PcCQ/GPUTape-1.0.0-1.18-1.20.4.jar",
+					"version": "fpJ5PcCQ"
+				},
+				{
+					"content_versions": "1.0.0",
+					"minecraft_versions": [
+						"1.18",
+						"1.18.1",
+						"1.18.2",
+						"1.19",
+						"1.19.1",
+						"1.19.2",
+						"1.19.3",
+						"1.19.4",
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "video-tape",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/ptxcOQyv/GPUTape-1.18.x-1.21.1-1.0.0.jar",
+					"version": "ptxcOQyv"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Mr.Toad"
+		],
+		"description": "Fix VRAM leaks.\n\n\nBased on VideoTape.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/5CTSrY8X/images/d71fcaacda6901eb979e3b053fc5351e3978c03b.png",
+			"https://cdn.modrinth.com/data/5CTSrY8X/images/9d69d0ffa3e64019feee961d9ec2291317cde23b.png"
+		],
+		"icon": "https://cdn.modrinth.com/data/5CTSrY8X/d71fcaacda6901eb979e3b053fc5351e3978c03b_96.webp",
+		"issues": "https://github.com/ITsMrToad/GpuTape/issues",
+		"license": "GPL-3.0-only",
+		"long_description": "# GpuTape 🩹\n![fo](https://cdn.modrinth.com/data/cached_images/8457cf2b01e18302ef61da3256328bfb4b94ad14.png)\n![fa](https://cdn.modrinth.com/data/cached_images/6c152554bb3141433b6dca087131f96f00a876ba.png)\n![qu](https://cdn.modrinth.com/data/cached_images/554809ee9ae740db0707b7cd1420d937b490cd6b.png)\n![neo](https://cdn.modrinth.com/data/cached_images/5d6378864df2d8f2699289ec7f439e26b5c8db60.png)\n</br>\n![i](https://cdn.modrinth.com/data/cached_images/ca0de18375553419eff9ce315dccceb885971010.png)\n<br />\n Fix video memory leaks, based on [VideoTape](https://modrinth.com/mod/videotape/versions) by Anthus(Velum).\n\n### Comparing with original:\n\n- GPUTape is only client \n- GPUTape does not use deprecated java methods(on 1.19+)\n- GPUTape available for forge, neoforge and quilt (VideoTape available only on fabric)\n- GPUTape is available on older versions(1.18-)\n- GPUTape is vulkan compatible\n\n**Available languanges🌐(for [ModMenu](https://modrinth.com/mod/modmenu)):**\n- English(en_us) - Mr.Toad\n- Russian(ru_ru) - Mr.Toad\n- German(de_de) - Mr.Toad\n- Ukrainian(uk_ua) - StarmanMine142\n\n### Other my mods:\n- [H+](https://modrinth.com/mod/h_plus)(New content & Difficulty Improvements)\n- [EnlightenedBlockEntities/EBEReforged](https://modrinth.com/mod/ebe-forge)(Fork of enchanced block entities)[DISCONTINUED]\n- [Palladium](https://modrinth.com/mod/mpalladium)(Optimization)\n",
+		"name": "GpuTape",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/ITsMrToad/GpuTape",
+		"support_link": "https://boosty.to/mr_toad"
+	},
+	"properties": {
+		"content_versions": [
+			"1.0.6-1.21.5",
+			"1.0.5.1",
+			"1.0.5",
+			"1.0.4-1.16x",
+			"1.0.4-1.12",
+			"1.0.4",
+			"1.0.3-1.16x",
+			"1.0.3",
+			"1.0.3-neo",
+			"1.0.2-1.16x",
+			"1.0.2",
+			"1.0.1",
+			"1.0.1-neo",
+			"1.0.0-1.21x",
+			"1.0.0-1.16x",
+			"1.0.0",
+			"1.0.0-neo"
+		],
+		"modrinth_id": "5CTSrY8X",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.12.2",
+			"1.16",
+			"1.16.1",
+			"1.16.2",
+			"1.16.3",
+			"1.16.4",
+			"1.16.5",
+			"1.17",
+			"1.17.1",
+			"1.18",
+			"1.18.1",
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
+		]
+	}
+}

@@ -4,6 +4,20 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.2.3-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "owo-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ErpAAAaf/versions/PGo6qQqQ/interactic-0.2.3%2B1.21.jar",
+					"version": "PGo6qQqQ"
+				},
+				{
 					"content_versions": "0.2.2-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -235,7 +249,7 @@
 		"community": "https://discord.gg/xrwHKktV2d",
 		"description": "Refined item interactions",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/ErpAAAaf/icon.png",
+		"icon": "https://cdn.modrinth.com/data/ErpAAAaf/820dcc30e36f46c9c2576301629940738cb13b40_96.webp",
 		"issues": "https://github.com/glisco03/interactic/issues",
 		"license": "MIT",
 		"long_description": "![Mod Name](https://i.imgur.com/G6YQuwu.png)\n \n![bruh](https://i.imgur.com/7EMSOPX.gif)\n\nInteractic adds more ways to interact with dropped items, hence the name. Many of it's features are inspired by ItemPhysic, this mod has however been built from the ground up for Fabric.\n\n \n\n## Features\n\n\n - **Fancy Item Rendering**: Items will spin while they fall, at a changing speed depending on how fast they're falling. When on the ground, they'll lay flat and compact stacks\n\n \n\n - **Enhanced Pickup and Tooltips**: You can pick up items by right-clicking them, even from a few blocks away. When looking at one, you'll see it's tooltip rendered below your crosshair.\n\n \n\n - **Item Filter**: The Item Filter is an Item that allows you to finely control which items you want to automatically pick up. You can configure it to use either a white- or blacklist and any items affected by that lsit will require you to explicitly pick them up using either a right-click or by sneaking. You can also globally disable auto-pickup in the config to force everyone to explicitly pick up all items.\n\n \n\n - **Item Throwing**: You can throw items by holding down the drop key for a period of time. The longer you hold it, the further you'll throw it. Items which have a damage modifier on them like Sword and Axes will also deal damage when they hit something after being thrown this way.\n\n \n\n - **Client-Only Mode**: You can use Interactic in a mode where it will automatically disable all server-side features and give you only the enhanced rendering and tooltips.\n\n \n\nAll of these features can be individually toggled in the config",
@@ -247,6 +261,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.2.3-1.21",
 			"0.2.2-1.21",
 			"0.2.2-1.20.3",
 			"0.2.1-1.20.2",

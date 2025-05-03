@@ -1,0 +1,686 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "1.0.0.15",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/QzFtoZ5W/Data_Anchor-forge-1.20.1-1.0.0.15.jar",
+					"version": "QzFtoZ5W"
+				},
+				{
+					"content_versions": "1.0.0.15",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/GMdIC6qu/Data_Anchor-fabric-1.20.1-1.0.0.15.jar",
+					"version": "GMdIC6qu"
+				},
+				{
+					"content_versions": "2.0.0.5-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/M3BAdnAj/Data_Anchor-neoforge-1.21.1-2.0.0.5.jar",
+					"version": "M3BAdnAj"
+				},
+				{
+					"content_versions": "2.0.0.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/sqky87CM/Data_Anchor-forge-1.21.1-2.0.0.5.jar",
+					"version": "sqky87CM"
+				},
+				{
+					"content_versions": "2.0.0.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/aLzwi8BB/Data_Anchor-fabric-1.21.1-2.0.0.5.jar",
+					"version": "aLzwi8BB"
+				},
+				{
+					"content_versions": "3.0.0.1-neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/FE9IGLNz/Data_Anchor-neoforge-1.21.5-3.0.0.1.jar",
+					"version": "FE9IGLNz"
+				},
+				{
+					"content_versions": "3.0.0.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/ycmPkEV3/Data_Anchor-forge-1.21.5-3.0.0.1.jar",
+					"version": "ycmPkEV3"
+				},
+				{
+					"content_versions": "3.0.0.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/gFT8MCTo/Data_Anchor-fabric-1.21.5-3.0.0.1.jar",
+					"version": "gFT8MCTo"
+				},
+				{
+					"content_versions": "3.0.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/mq7WbuZO/Data_Anchor-fabric-1.21.5-3.0.0.0.jar",
+					"version": "mq7WbuZO"
+				},
+				{
+					"content_versions": "3.0.0.0-neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/HlPZDOTM/Data_Anchor-neoforge-1.21.5-3.0.0.0.jar",
+					"version": "HlPZDOTM"
+				},
+				{
+					"content_versions": "3.0.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/j2lkVHUl/Data_Anchor-forge-1.21.5-3.0.0.0.jar",
+					"version": "j2lkVHUl"
+				},
+				{
+					"content_versions": "2.0.0.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/JCiZHPnn/Data_Anchor-forge-1.21.1-2.0.0.4.jar",
+					"version": "JCiZHPnn"
+				},
+				{
+					"content_versions": "2.0.0.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/D3z4pTH6/Data_Anchor-fabric-1.21.1-2.0.0.4.jar",
+					"version": "D3z4pTH6"
+				},
+				{
+					"content_versions": "2.0.0.4-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/jv5ONwCg/Data_Anchor-neoforge-1.21.1-2.0.0.4.jar",
+					"version": "jv5ONwCg"
+				},
+				{
+					"content_versions": "2.0.0.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/VcjTOTVF/Data_Anchor-forge-1.21.1-2.0.0.4.jar",
+					"version": "VcjTOTVF"
+				},
+				{
+					"content_versions": "2.0.0.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/O6tYQ9mO/Data_Anchor-fabric-1.21.1-2.0.0.4.jar",
+					"version": "O6tYQ9mO"
+				},
+				{
+					"content_versions": "2.0.0.3-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/DJrZHOZW/Data_Anchor-neoforge-1.21.1-2.0.0.3.jar",
+					"version": "DJrZHOZW"
+				},
+				{
+					"content_versions": "2.0.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/ZrOXl9MK/Data_Anchor-forge-1.21.1-2.0.0.3.jar",
+					"version": "ZrOXl9MK"
+				},
+				{
+					"content_versions": "2.0.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/HdxFQv4r/Data_Anchor-fabric-1.21.1-2.0.0.3.jar",
+					"version": "HdxFQv4r"
+				},
+				{
+					"content_versions": "2.0.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/cypJ0YB8/Data_Anchor-forge-1.21.1-2.0.0.2.jar",
+					"version": "cypJ0YB8"
+				},
+				{
+					"content_versions": "2.0.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/TYnJdgCM/Data_Anchor-fabric-1.21.1-2.0.0.2.jar",
+					"version": "TYnJdgCM"
+				},
+				{
+					"content_versions": "2.0.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/eLsqhWhw/Data_Anchor-forge-1.21.1-2.0.0.1.jar",
+					"version": "eLsqhWhw"
+				},
+				{
+					"content_versions": "2.0.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/gHu3wVeQ/Data_Anchor-fabric-1.21.1-2.0.0.1.jar",
+					"version": "gHu3wVeQ"
+				},
+				{
+					"content_versions": "1.0.0.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/bCCJ6RU0/Data_Anchor-forge-1.20.1-1.0.0.13.jar",
+					"version": "bCCJ6RU0"
+				},
+				{
+					"content_versions": "1.0.0.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/RM8ef88N/Data_Anchor-fabric-1.20.1-1.0.0.13.jar",
+					"version": "RM8ef88N"
+				},
+				{
+					"content_versions": "2.0.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/DA7QWdHh/Data_Anchor-forge-1.21.1-2.0.0.0.jar",
+					"version": "DA7QWdHh"
+				},
+				{
+					"content_versions": "2.0.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/PWgvMrP6/Data_Anchor-fabric-1.21.1-2.0.0.0.jar",
+					"version": "PWgvMrP6"
+				},
+				{
+					"content_versions": "1.0.0.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/YFjvgkbs/Data_Anchor-forge-1.20.1-1.0.0.12.jar",
+					"version": "YFjvgkbs"
+				},
+				{
+					"content_versions": "1.0.0.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/RRm7DWlK/Data_Anchor-fabric-1.20.1-1.0.0.12.jar",
+					"version": "RRm7DWlK"
+				},
+				{
+					"content_versions": "1.0.0.11",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/J3g9y9Ok/Data_Anchor-forge-1.20.1-1.0.0.11.jar",
+					"version": "J3g9y9Ok"
+				},
+				{
+					"content_versions": "1.0.0.11",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/WjQRTAOX/Data_Anchor-fabric-1.20.1-1.0.0.11.jar",
+					"version": "WjQRTAOX"
+				},
+				{
+					"content_versions": "1.0.0.10",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/ZewGKe7m/Data_Anchor-forge-1.20.1-1.0.0.10.jar",
+					"version": "ZewGKe7m"
+				},
+				{
+					"content_versions": "1.0.0.10",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/MUqRdsVP/Data_Anchor-fabric-1.20.1-1.0.0.10.jar",
+					"version": "MUqRdsVP"
+				},
+				{
+					"content_versions": "1.0.0.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/t66gn3dq/Data_Anchor-forge-1.20.1-1.0.0.9.jar",
+					"version": "t66gn3dq"
+				},
+				{
+					"content_versions": "1.0.0.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/celM8ZQk/Data_Anchor-fabric-1.20.1-1.0.0.9.jar",
+					"version": "celM8ZQk"
+				},
+				{
+					"content_versions": "1.0.0.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/4T7Ectl3/Data_Anchor-forge-1.20.1-1.0.0.8.jar",
+					"version": "4T7Ectl3"
+				},
+				{
+					"content_versions": "1.0.0.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/Y8jtBuaI/Data_Anchor-fabric-1.20.1-1.0.0.8.jar",
+					"version": "Y8jtBuaI"
+				},
+				{
+					"content_versions": "1.0.0.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/254k6Mkj/Data_Anchor-forge-1.20.1-1.0.0.7.jar",
+					"version": "254k6Mkj"
+				},
+				{
+					"content_versions": "1.0.0.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/U0P7ThgR/Data_Anchor-fabric-1.20.1-1.0.0.7.jar",
+					"version": "U0P7ThgR"
+				},
+				{
+					"content_versions": "1.0.0.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/sIXU5znd/Data_Anchor-forge-1.20.1-1.0.0.6.jar",
+					"version": "sIXU5znd"
+				},
+				{
+					"content_versions": "1.0.0.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/uTaAmX1H/Data_Anchor-fabric-1.20.1-1.0.0.6.jar",
+					"version": "uTaAmX1H"
+				},
+				{
+					"content_versions": "1.0.0.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/DPFmNxwu/Data_Anchor-forge-1.20.1-1.0.0.5.jar",
+					"version": "DPFmNxwu"
+				},
+				{
+					"content_versions": "1.0.0.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/2q8LRFdU/Data_Anchor-fabric-1.20.1-1.0.0.5.jar",
+					"version": "2q8LRFdU"
+				},
+				{
+					"content_versions": "1.0.0.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/OGlzI6wL/Data_Anchor-forge-1.20.1-1.0.0.4.jar",
+					"version": "OGlzI6wL"
+				},
+				{
+					"content_versions": "1.0.0.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/5FhaayKI/Data_Anchor-fabric-1.20.1-1.0.0.4.jar",
+					"version": "5FhaayKI"
+				},
+				{
+					"content_versions": "1.0.0.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/gYb5hoED/Data_Anchor-forge-1.20.1-1.0.0.3.jar",
+					"version": "gYb5hoED"
+				},
+				{
+					"content_versions": "1.0.0.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/O3kNu6co/Data_Anchor-fabric-1.20.1-1.0.0.3.jar",
+					"version": "O3kNu6co"
+				},
+				{
+					"content_versions": "1.0.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/s0P2EhzE/Data_Anchor-forge-1.20.1-1.0.0.1.jar",
+					"version": "s0P2EhzE"
+				},
+				{
+					"content_versions": "1.0.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/BL5IIEIf/Data_Anchor-fabric-1.20.1-1.0.0.1.jar",
+					"version": "BL5IIEIf"
+				},
+				{
+					"content_versions": "1.0.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/U5ZqPYvJ/Data_Anchor-forge-1.20.1-1.0.0.0.jar",
+					"version": "U5ZqPYvJ"
+				},
+				{
+					"content_versions": "1.0.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/GNDL38yn/Data_Anchor-fabric-1.20.1-1.0.0.0.jar",
+					"version": "GNDL38yn"
+				},
+				{
+					"content_versions": "-1.20.1-1.0.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/z2XEADmE/versions/WGalw0qQ/Data_Anchor-fabric-1.20.1-1.0.0.0.jar",
+					"version": "WGalw0qQ"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"CorgiTaco"
+		],
+		"description": "Simple mod with helpful data attaching and networking utilities including attaching data to entities, chunks, players, and worlds with low boilerplate code. Its own system built from the ground up for multiloader support.",
+		"documentation": "https://github.com/CorgiTaco/Data-Anchor/wiki",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/z2XEADmE/5dc6ca415537540bbe4f75e324aebb4e327148bc.png",
+		"issues": "https://github.com/CorgiTaco/Data-Anchor/issues",
+		"license": "MPL-2.0",
+		"long_description": "# What is this\nSimple library mod with helpful data attaching and networking utilities including attaching data to entities, chunks, players, and worlds with low boilerplate code. Its own system built from the ground up for multiloader support. Offers an incredible packet utility for multiloader network packet handling for all directions.\n\n \n\n# For players\nYour favorite mods may use this to attach data to things or to send things across the network.\n\n \n\n# For devs\nThis library offers two primarily utilities: attaching data to chunks, levels, players, entities, and block entities. This project is aimed at multiloader projects that support forge, fabric, and neoforge. This mod does NOT save to the internal data systems said loaders have such as Forge Capabilities at the moment, this may be subject to change in the future though! This mod also offers multiloader network/packet registration and handling. For examples on how to do custom networking or attaching data, please see the wiki.",
+		"name": "Data Anchor",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/CorgiTaco/Data-Anchor"
+	},
+	"properties": {
+		"content_versions": [
+			"3.0.0.1",
+			"3.0.0.1-neo",
+			"3.0.0.0",
+			"3.0.0.0-neo",
+			"2.0.0.5",
+			"2.0.0.5-neo",
+			"2.0.0.4",
+			"2.0.0.4-neo",
+			"2.0.0.3",
+			"2.0.0.3-neo",
+			"2.0.0.2",
+			"2.0.0.1",
+			"2.0.0.0",
+			"-1.20.1-1.0.0.0",
+			"1.0.0.15",
+			"1.0.0.13",
+			"1.0.0.12",
+			"1.0.0.11",
+			"1.0.0.10",
+			"1.0.0.9",
+			"1.0.0.8",
+			"1.0.0.7",
+			"1.0.0.6",
+			"1.0.0.5",
+			"1.0.0.4",
+			"1.0.0.3",
+			"1.0.0.1",
+			"1.0.0.0"
+		],
+		"modrinth_id": "z2XEADmE",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.20.1",
+			"1.21.1",
+			"1.21.5"
+		]
+	}
+}

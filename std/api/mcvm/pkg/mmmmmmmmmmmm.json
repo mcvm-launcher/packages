@@ -4,6 +4,426 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "neo_1.21-2.0.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/4CScWyO3/dummmmmmy-1.21-2.0.7-neoforge.jar",
+					"version": "4CScWyO3"
+				},
+				{
+					"content_versions": "_1.21-2.0.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/CSS3KuSz/dummmmmmy-1.21-2.0.7-fabric.jar",
+					"version": "CSS3KuSz"
+				},
+				{
+					"content_versions": "1.20-2.0.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/L8421Hiw/dummmmmmy-1.20-2.0.6.jar",
+					"version": "L8421Hiw"
+				},
+				{
+					"content_versions": "1.20-2.0.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/fcSXO1Qb/dummmmmmy-1.20-2.0.6-fabric.jar",
+					"version": "fcSXO1Qb"
+				},
+				{
+					"content_versions": "_1.21-2.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/d1TKoLnB/dummmmmmy-1.21-2.0.6-fabric.jar",
+					"version": "d1TKoLnB"
+				},
+				{
+					"content_versions": "1.20-2.0.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/LUaKZqUd/dummmmmmy-1.20-2.0.5-fabric.jar",
+					"version": "LUaKZqUd"
+				},
+				{
+					"content_versions": "neo_1.21-2.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/cW10IFuy/dummmmmmy-1.21-2.0.6-neoforge.jar",
+					"version": "cW10IFuy"
+				},
+				{
+					"content_versions": "_1.21-2.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/IwQ2C8ir/dummmmmmy-1.21-2.0.6-fabric.jar",
+					"version": "IwQ2C8ir"
+				},
+				{
+					"content_versions": "1.20-2.0.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/o2545dR2/dummmmmmy-1.20-2.0.3-fabric.jar",
+					"version": "o2545dR2"
+				},
+				{
+					"content_versions": "_1.21-2.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/ehPPBLBm/dummmmmmy-1.21-2.0.5-fabric.jar",
+					"version": "ehPPBLBm"
+				},
+				{
+					"content_versions": "_1.21-2.0.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/Ku7wBUSo/dummmmmmy-1.21-2.0.4-fabric.jar",
+					"version": "Ku7wBUSo"
+				},
+				{
+					"content_versions": "neo_1.21-2.0.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/W4kreeaE/dummmmmmy-1.21-2.0.4-neoforge.jar",
+					"version": "W4kreeaE"
+				},
+				{
+					"content_versions": "1.20-2.0.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/NRqFuyt1/dummmmmmy-1.20-2.0.2.jar",
+					"version": "NRqFuyt1"
+				},
+				{
+					"content_versions": "1.20-2.0.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/1lUjy629/dummmmmmy-1.20-2.0.2-fabric.jar",
+					"version": "1lUjy629"
+				},
+				{
+					"content_versions": "_1.21-2.0.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/RaClaPUJ/dummmmmmy-1.21-2.0.3-fabric.jar",
+					"version": "RaClaPUJ"
+				},
+				{
+					"content_versions": "neo_1.21-2.0.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/gPss13UC/dummmmmmy-1.21-2.0.3-neoforge.jar",
+					"version": "gPss13UC"
+				},
+				{
+					"content_versions": "1.20-2.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/kDOX4QqW/dummmmmmy-1.20-2.0.1.jar",
+					"version": "kDOX4QqW"
+				},
+				{
+					"content_versions": "1.20-2.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/NLG8HOhY/dummmmmmy-1.20-2.0.1-fabric.jar",
+					"version": "NLG8HOhY"
+				},
+				{
+					"content_versions": "1.20-2.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/15D70qSo/dummmmmmy-1.20-2.0.0.jar",
+					"version": "15D70qSo"
+				},
+				{
+					"content_versions": "1.20-2.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/wmBJI3zP/dummmmmmy-1.20-2.0.0-fabric.jar",
+					"version": "wmBJI3zP"
+				},
+				{
+					"content_versions": "_1.20-2.0.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/zwjdnxxq/dummmmmmy-1.20-2.0.2-fabric.jar",
+					"version": "zwjdnxxq"
+				},
+				{
+					"content_versions": "neo_1.20-2.0.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/iBzF4aPL/dummmmmmy-1.20-2.0.2-neoforge.jar",
+					"version": "iBzF4aPL"
+				},
+				{
+					"content_versions": "_1.20-2.0.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/TQl3sj1z/dummmmmmy-1.20-2.0.0-fabric.jar",
+					"version": "TQl3sj1z"
+				},
+				{
+					"content_versions": "neo_1.20-2.0.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/xH13cuu8/dummmmmmy-1.20-2.0.0-neoforge.jar",
+					"version": "xH13cuu8"
+				},
+				{
+					"content_versions": "_1.20-1.10.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/IKj5wbhH/dummmmmmy-1.20-1.10.0-fabric.jar",
+					"version": "IKj5wbhH"
+				},
+				{
+					"content_versions": "1.20-1.9.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/QEO0CrpO/dummmmmmy-1.20-1.9.0.jar",
+					"version": "QEO0CrpO"
+				},
+				{
+					"content_versions": "1.20-1.9.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/8JckO35K/dummmmmmy-1.20-1.9.0-fabric.jar",
+					"version": "8JckO35K"
+				},
+				{
+					"content_versions": "1.20-1.8.20",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/5kujqgKn/dummmmmmy-1.20-1.8.20-fabric.jar",
+					"version": "5kujqgKn"
+				},
+				{
+					"content_versions": "1.20-1.8.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/sJQnQaMg/dummmmmmy-1.20-1.8.19.jar",
+					"version": "sJQnQaMg"
+				},
+				{
+					"content_versions": "1.20-1.8.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Adega8YN/versions/v0spf9jE/dummmmmmy-1.20-1.8.19-fabric.jar",
+					"version": "v0spf9jE"
+				},
+				{
 					"content_versions": "1.20-1.8.17b",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -658,6 +1078,23 @@
 	},
 	"properties": {
 		"content_versions": [
+			"_1.21-2.0.7",
+			"_1.21-2.0.6",
+			"_1.21-2.0.5",
+			"_1.21-2.0.4",
+			"_1.21-2.0.3",
+			"1.20-2.0.6",
+			"1.20-2.0.5",
+			"1.20-2.0.3",
+			"1.20-2.0.2",
+			"_1.20-2.0.2",
+			"1.20-2.0.1",
+			"1.20-2.0.0",
+			"_1.20-2.0.0",
+			"_1.20-1.10.0",
+			"1.20-1.9.0",
+			"1.20-1.8.20",
+			"1.20-1.8.19",
 			"1.20-1.8.17",
 			"1.20-1.8.17b",
 			"1.20-1.8.16",
@@ -686,7 +1123,13 @@
 			"1.19-1.5.3",
 			"1.18-1.5.3",
 			"1.7.2",
-			"1.5.2"
+			"1.5.2",
+			"neo_1.21-2.0.7",
+			"neo_1.21-2.0.6",
+			"neo_1.21-2.0.4",
+			"neo_1.21-2.0.3",
+			"neo_1.20-2.0.2",
+			"neo_1.20-2.0.0"
 		],
 		"modrinth_id": "Adega8YN",
 		"supported_modloaders": [
@@ -706,7 +1149,9 @@
 			"1.19.2",
 			"1.19.3",
 			"1.19.4",
-			"1.20.1"
+			"1.20.1",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

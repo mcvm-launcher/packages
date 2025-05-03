@@ -4,6 +4,68 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.4.1-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jhl28YkY/versions/czJc7eUX/alloy-forgery-2.4.1%2B1.21.jar",
+					"version": "czJc7eUX"
+				},
+				{
+					"content_versions": "2.4.0-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jhl28YkY/versions/fMjYkEPl/alloy-forgery-2.4.0%2B1.21.jar",
+					"version": "fMjYkEPl"
+				},
+				{
+					"content_versions": "2.3.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jhl28YkY/versions/ReIpcJ2f/alloy-forgery-2.3.1%2B1.21.jar",
+					"version": "ReIpcJ2f"
+				},
+				{
+					"content_versions": "2.3.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/jhl28YkY/versions/t40qyg4s/alloy-forgery-2.3.0%2B1.21.jar",
+					"version": "t40qyg4s"
+				},
+				{
 					"content_versions": "2.2.2-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -504,6 +566,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.4.1-1.21",
+			"2.4.0-1.21",
+			"2.3.1-1.21",
+			"2.3.0-1.21",
 			"2.2.2-1.21",
 			"2.2.1-1.21",
 			"2.2.0-1.21",
@@ -566,7 +632,8 @@
 			"1.20.1",
 			"1.20.3",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

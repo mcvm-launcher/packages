@@ -4,6 +4,41 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "6.0.4-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kambrik",
+							"kotlin-support"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BpwWFOVM/versions/E9PUxeM9/Bountiful-6.0.4%2B1.20.1-fabric.jar",
+					"version": "E9PUxeM9"
+				},
+				{
+					"content_versions": "6.0.4-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kambrik",
+							"kotlin-support"
+						],
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BpwWFOVM/versions/EM7Su3PD/Bountiful-6.0.4%2B1.20.1-forge.jar",
+					"version": "EM7Su3PD"
+				},
+				{
 					"content_versions": "7.0.3",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -229,14 +264,14 @@
 		"authors": [
 			"ejektaflex"
 		],
-		"banner": "https://cdn.modrinth.com/data/BpwWFOVM/images/f8a1ba317e326ebac2f450070ee2662c0fb8a841.png",
+		"banner": "https://cdn.modrinth.com/data/BpwWFOVM/images/66cb4f05c0399fc23e3c7d66b0dc968f92a2455c_350.webp",
 		"community": "https://discord.gg/TCsRjJ6vwZ",
 		"description": "Adds bounty boards, giving rewards for collecting different blocks and items.",
 		"documentation": "https://kambrik.ejekta.io/mods/bountiful/",
 		"gallery": [
-			"https://cdn.modrinth.com/data/BpwWFOVM/images/f8a1ba317e326ebac2f450070ee2662c0fb8a841.png",
-			"https://cdn.modrinth.com/data/BpwWFOVM/images/308f4086f9931dac96bcc4a6ad3b5dcfc8d62c8f.png",
-			"https://cdn.modrinth.com/data/BpwWFOVM/images/596a7df97ff452b296f50fb9a4a0f507622de6bc.png"
+			"https://cdn.modrinth.com/data/BpwWFOVM/images/66cb4f05c0399fc23e3c7d66b0dc968f92a2455c_350.webp",
+			"https://cdn.modrinth.com/data/BpwWFOVM/images/689216f5c70347411a7c93c00de46a7d9f1ce5c9_350.webp",
+			"https://cdn.modrinth.com/data/BpwWFOVM/images/dc663925af3fdacaf3c516e5a4e363f7c15ba616_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/BpwWFOVM/icon.png",
 		"issues": "https://github.com/ejektaflex/Bountiful",
@@ -255,6 +290,7 @@
 			"7.0.2-1.20.4",
 			"7.0.1-1.20.4",
 			"7.0.0-1.20.4",
+			"6.0.4-1.20.1",
 			"6.0.3-1.20.1",
 			"6.0.2-1.20.1",
 			"6.0.1-1.20.1",

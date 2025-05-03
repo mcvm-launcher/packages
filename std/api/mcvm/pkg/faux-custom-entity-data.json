@@ -4,6 +4,94 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "17.0.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E7ZFR7qk/versions/fIOVMUXR/FauxCustomEntityData-fabric-1.21.5-17.0.1.jar",
+					"version": "fIOVMUXR"
+				},
+				{
+					"content_versions": "14.0.2",
+					"minecraft_versions": "1.21.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E7ZFR7qk/versions/YjGWyepr/FauxCustomEntityData-fabric-1.21.2-14.0.2.jar",
+					"version": "YjGWyepr"
+				},
+				{
+					"content_versions": "15.0.2",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E7ZFR7qk/versions/LrTyvjZL/FauxCustomEntityData-fabric-1.21.3-15.0.2.jar",
+					"version": "LrTyvjZL"
+				},
+				{
+					"content_versions": "16.0.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E7ZFR7qk/versions/4ym1BPSk/FauxCustomEntityData-fabric-1.21.4-16.0.2.jar",
+					"version": "4ym1BPSk"
+				},
+				{
+					"content_versions": "16.0.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E7ZFR7qk/versions/dAwR380O/FauxCustomEntityData-fabric-1.21.4-16.0.1.jar",
+					"version": "dAwR380O"
+				},
+				{
+					"content_versions": "15.0.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E7ZFR7qk/versions/tgNqr6gM/FauxCustomEntityData-fabric-1.21.3-15.0.1.jar",
+					"version": "tgNqr6gM"
+				},
+				{
+					"content_versions": "14.0.1",
+					"minecraft_versions": "1.21.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E7ZFR7qk/versions/GremMWf0/FauxCustomEntityData-fabric-1.21.2-14.0.1.jar",
+					"version": "GremMWf0"
+				},
+				{
+					"content_versions": "13.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/E7ZFR7qk/versions/XvAeY9KZ/FauxCustomEntityData-fabric-1.21.1-13.0.1.jar",
+					"version": "XvAeY9KZ"
+				},
+				{
 					"content_versions": "12.0.1",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -194,6 +282,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"17.0.1",
+			"16.0.2",
+			"16.0.1",
+			"15.0.2",
+			"15.0.1",
+			"14.0.2",
+			"14.0.1",
+			"13.0.1",
 			"12.0.1",
 			"11.0.2",
 			"11.0.1",
@@ -233,7 +329,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

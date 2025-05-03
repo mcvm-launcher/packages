@@ -4,6 +4,28 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.4.0b-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x49wilh8/versions/6bv4ASFG/design_decor-0.4.0b_fabric%2B1.20.1.jar",
+					"version": "6bv4ASFG"
+				},
+				{
+					"content_versions": "0.4.0b",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/x49wilh8/versions/JtCSM1oV/design_decor-0.4.0b-1.20.1.jar",
+					"version": "JtCSM1oV"
+				},
+				{
 					"content_versions": "0.4-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -160,26 +182,26 @@
 		"authors": [
 			"LopyLuna",
 			"MilkyFur",
+			"Pepa",
 			"Szedann",
 			"acidpanic.zip",
-			"drmangotea",
-			"pepagg"
+			"drmangotea"
 		],
-		"banner": "https://cdn.modrinth.com/data/x49wilh8/images/51520f401629a93c2966a18a2b1baab0a2161821.png",
+		"banner": "https://cdn.modrinth.com/data/x49wilh8/images/000cf6560e879cfe530185d8eb24e3250857b19a_350.webp",
 		"description": "a create addon that adds decor blocks to spice up your factory!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/x49wilh8/images/45bd5011897df65770b4218f7ed8f2b5624b9beb.png",
-			"https://cdn.modrinth.com/data/x49wilh8/images/51520f401629a93c2966a18a2b1baab0a2161821.png",
-			"https://cdn.modrinth.com/data/x49wilh8/images/606741a822d4423452e35e4555bc20951464f839.png",
-			"https://cdn.modrinth.com/data/x49wilh8/images/73a72b814a60d94ff9e0b7cbd62443e4969b0a75.png",
-			"https://cdn.modrinth.com/data/x49wilh8/images/b9591d3cfc8f4aae3dec6792ac0eb11c5cf85351.png",
-			"https://cdn.modrinth.com/data/x49wilh8/images/bf44623c59ac41459a93e5095e61c6e8ab7341cb.png"
+			"https://cdn.modrinth.com/data/x49wilh8/images/000cf6560e879cfe530185d8eb24e3250857b19a_350.webp",
+			"https://cdn.modrinth.com/data/x49wilh8/images/21a9fb903f21d9a06720a82a83a7df0875d6e7ab_350.webp",
+			"https://cdn.modrinth.com/data/x49wilh8/images/21b760c442c576a1406372f42280c90cdd78d1ba_350.webp",
+			"https://cdn.modrinth.com/data/x49wilh8/images/45bd5011897df65770b4218f7ed8f2b5624b9beb_350.webp",
+			"https://cdn.modrinth.com/data/x49wilh8/images/66edbb5fac5249d6bc6ef6d80ae2d52fdab7abf9_350.webp",
+			"https://cdn.modrinth.com/data/x49wilh8/images/6adfe6f860f3ba1cb959b0662f56e9d5202c91f3_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/x49wilh8/819c2cd03f3fc28aa64db424ce9cf5f0509fca0b.png",
+		"icon": "https://cdn.modrinth.com/data/x49wilh8/950dfd3017b85a2667cb3a5d07eda92b320f2eac_96.webp",
 		"issues": "https://github.com/DrMango14/Create-Design-n-Decor/issues",
-		"license": "MIT",
-		"long_description": "![LOGO](https://cdn.modrinth.com/data/x49wilh8/images/51520f401629a93c2966a18a2b1baab0a2161821.png)\n## Overview  \nCreate: Design 'n' Decor is a Create addon focused on QOL decoration features that expand on the base decoration ability of Create whilst focusing on community feedback.\n\nIt comes with variants of normal blocks, such as many new boilers, crushing wheels, vaults, and extra blocks the Create: Design 'n' Decor devs thought fit in well with create!\n\n![e](https://cdn.modrinth.com/data/x49wilh8/images/b9591d3cfc8f4aae3dec6792ac0eb11c5cf85351.png\n)  \n![e](https://cdn.modrinth.com/data/x49wilh8/images/bf44623c59ac41459a93e5095e61c6e8ab7341cb.png\n)  \n![e](https://cdn.modrinth.com/data/x49wilh8/images/73a72b814a60d94ff9e0b7cbd62443e4969b0a75.png\n)  \n\n\n[![AddonDiscord](https://cdn.discordapp.com/attachments/812868981806465075/1123495571626410104/image.png)](https://discord.gg/KahW4GqpQs)\n",
-		"name": "Create: Design n' Decor",
+		"license": "LicenseRef-MIT-Code-AND-ARR-Art",
+		"long_description": "![LOGO](https://cdn.modrinth.com/data/x49wilh8/images/51520f401629a93c2966a18a2b1baab0a2161821.png)\n\n## _**new update estimate release date is roughly before end of May/June depends but cant promise**_\n\n       \n## Overview  \nCreate: Design 'n' Decor is a Create addon focused on QOL decoration features that expand on the base decoration ability of Create whilst focusing on community feedback.\n\nIt comes with variants of normal blocks, such as many new boilers, crushing wheels, vaults, and extra blocks the Create: Design 'n' Decor devs thought fit in well with create!\n\n![e](https://cdn.modrinth.com/data/x49wilh8/images/b9591d3cfc8f4aae3dec6792ac0eb11c5cf85351.png\n)  \n![e](https://cdn.modrinth.com/data/x49wilh8/images/bf44623c59ac41459a93e5095e61c6e8ab7341cb.png\n)  \n![e](https://cdn.modrinth.com/data/x49wilh8/images/73a72b814a60d94ff9e0b7cbd62443e4969b0a75.png\n)  \n\n\n[![AddonDiscord](https://cdn.discordapp.com/attachments/812868981806465075/1123495571626410104/image.png)](https://discord.gg/KahW4GqpQs)\n",
+		"name": "Create: Design n' Decor [ARCHIVED] \"new update soon\"",
 		"package_maintainers": [
 			"mcvm"
 		],
@@ -190,6 +212,8 @@
 			"0.4-1.20.1",
 			"0.4-1.19.2",
 			"0.4.0",
+			"0.4.0b-1.20.1",
+			"0.4.0b",
 			"0.2a-1.20.1-12",
 			"0.2a-1.20.1",
 			"0.2a-1.19.2-13",

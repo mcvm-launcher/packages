@@ -4,6 +4,149 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.4.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"octolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/xXZC30LF/Not%20Enough%20Recipe%20Book-FABRIC-0.4.2%2B1.21.4.jar",
+					"version": "xXZC30LF"
+				},
+				{
+					"content_versions": "0.4.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"octolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/fLXi6m0L/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.2%2B1.21.4.jar",
+					"version": "fLXi6m0L"
+				},
+				{
+					"content_versions": "0.4.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"octolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/oJLEqcbX/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.2%2B1.21.jar",
+					"version": "oJLEqcbX"
+				},
+				{
+					"content_versions": "0.4.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"octolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/vGcRkqkx/Not%20Enough%20Recipe%20Book-FABRIC-0.4.2%2B1.21.jar",
+					"version": "vGcRkqkx"
+				},
+				{
+					"content_versions": "0.4.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "octolib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/xXV9YBzF/Not%20Enough%20Recipe%20Book-FORGE-0.4.1%2B1.20.1.jar",
+					"version": "xXV9YBzF"
+				},
+				{
+					"content_versions": "0.4.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "octolib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/hiLb6QFe/Not%20Enough%20Recipe%20Book-FABRIC-0.4.1%2B1.20.1.jar",
+					"version": "hiLb6QFe"
+				},
+				{
+					"content_versions": "0.4.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "octolib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/6oul90SP/Not%20Enough%20Recipe%20Book-QUILT-0.4.1%2B1.20.1.jar",
+					"version": "6oul90SP"
+				},
+				{
+					"content_versions": "0.4.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"octolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/k4zfEWz6/Not%20Enough%20Recipe%20Book-FABRIC-0.4.1.jar",
+					"version": "k4zfEWz6"
+				},
+				{
+					"content_versions": "0.4.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"octolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/bnjKtdpy/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.1.jar",
+					"version": "bnjKtdpy"
+				},
+				{
+					"content_versions": "0.4.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"octolib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/3wNsfxgo/Not%20Enough%20Recipe%20Book-QUILT-0.4.1.jar",
+					"version": "3wNsfxgo"
+				},
+				{
 					"content_versions": "0.4",
 					"minecraft_versions": "1.21",
 					"modloaders": "quilt",
@@ -281,7 +424,7 @@
 		"community": "https://discord.gg/pHren9yxzW",
 		"description": "Completely removes recipe book from the game, optimizing player data.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/bQh7xzFq/dd1604a4f53f765a1443db9fccae511a406df85d.gif",
+		"icon": "https://cdn.modrinth.com/data/bQh7xzFq/9071fc29ed5898a26c59fdb89c449e868edac7b3.gif",
 		"issues": "https://github.com/SSKirillSS/nerb/issues",
 		"license": "LicenseRef-All-Rights-Reserved",
 		"long_description": "This mod was created for only one simple purpose - completely remove recipe book from the game. However, unlike other similar mods, this one does not just hide the recipe book button. NERB completely removes its functionality.\n\n \n\nIf you have a fully unlocked recipe book in a large modpack and run the command /data get entity @s, you will see how horrible the amount of data it gives (most of them are recipe names). However, after installing this mod, these recipe names will disappear, which greatly improves the performance of CraftTweaker / KubeJS (e.g. using event.player.data in event scripts) or other mods to read player data, and speeds up data sync between the server and the client & makes player join world faster.\n\nThis mod should be installed both on client- and server-side!",
@@ -293,6 +436,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.4.2",
+			"0.4.1",
 			"0.4",
 			"0.3.1",
 			"0.3"
@@ -317,7 +462,9 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.4"
 		]
 	}
 }

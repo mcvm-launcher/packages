@@ -4,6 +4,28 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.9.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "carpet"
+							},
+							{
+								"value": "create"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/oGmBThKh/versions/cdyZ8z8R/more-geodes-1.9.3.jar",
+					"version": "cdyZ8z8R"
+				},
+				{
 					"content_versions": "1.9.2",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -385,19 +407,19 @@
 		"authors": [
 			"TheDeathlyCow"
 		],
-		"banner": "https://cdn.modrinth.com/data/oGmBThKh/images/70b5ac11e8b5f5428b89d15b146cfe3ea63ef7e7.png",
+		"banner": "https://cdn.modrinth.com/data/oGmBThKh/images/5cf94e1d0f54e3cb52667c00043fe4cb027d5aa0_350.webp",
 		"community": "https://discord.gg/aqASuWebRU",
 		"description": "Adds Emerald, Quartz, Diamond, and more geodes!",
 		"documentation": "https://github.com/TheDeathlyCow/more-geodes/blob/main/README.md",
 		"gallery": [
-			"https://cdn.modrinth.com/data/oGmBThKh/images/0a7c35cd111b85512af868d002969a6dab8348b4.png",
-			"https://cdn.modrinth.com/data/oGmBThKh/images/3eb15c51172d134a3578203fd4bce6fe8723710d.png",
-			"https://cdn.modrinth.com/data/oGmBThKh/images/70b5ac11e8b5f5428b89d15b146cfe3ea63ef7e7.png",
-			"https://cdn.modrinth.com/data/oGmBThKh/images/78b92b4831c1b4846795750174bb0725080e6720.png",
-			"https://cdn.modrinth.com/data/oGmBThKh/images/9739a6cbcfcf355ebae542f9d0e075d8a4a73d20.png",
-			"https://cdn.modrinth.com/data/oGmBThKh/images/a0af09d903c7fb0931df095bb068ae96d19a6d00.png",
-			"https://cdn.modrinth.com/data/oGmBThKh/images/76a71f67bc2548728607584e31335e90963ab544.png",
-			"https://cdn.modrinth.com/data/oGmBThKh/images/c2234a4348f0fb503634ffa361fb1c008a1cc940.png"
+			"https://cdn.modrinth.com/data/oGmBThKh/images/0a7c35cd111b85512af868d002969a6dab8348b4_350.webp",
+			"https://cdn.modrinth.com/data/oGmBThKh/images/3eb15c51172d134a3578203fd4bce6fe8723710d_350.webp",
+			"https://cdn.modrinth.com/data/oGmBThKh/images/5cf94e1d0f54e3cb52667c00043fe4cb027d5aa0_350.webp",
+			"https://cdn.modrinth.com/data/oGmBThKh/images/78b92b4831c1b4846795750174bb0725080e6720_350.webp",
+			"https://cdn.modrinth.com/data/oGmBThKh/images/9739a6cbcfcf355ebae542f9d0e075d8a4a73d20_350.webp",
+			"https://cdn.modrinth.com/data/oGmBThKh/images/a0af09d903c7fb0931df095bb068ae96d19a6d00_350.webp",
+			"https://cdn.modrinth.com/data/oGmBThKh/images/76a71f67bc2548728607584e31335e90963ab544_350.webp",
+			"https://cdn.modrinth.com/data/oGmBThKh/images/c2234a4348f0fb503634ffa361fb1c008a1cc940_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/oGmBThKh/icon.png",
 		"issues": "https://github.com/TheDeathlyCow/more-geodes/issues",
@@ -412,6 +434,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.9.3",
 			"1.9.2",
 			"1.9.1",
 			"1.9",

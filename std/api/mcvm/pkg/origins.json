@@ -4,6 +4,113 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.13.0-alpha.12-mc.1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/RzhrT8Th/Origins-1.13.0-alpha.12%2Bmc.1.21.1.jar",
+					"version": "RzhrT8Th"
+				},
+				{
+					"content_versions": "1.13.0-alpha.11-mc.1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/wWB8cMrv/Origins-1.13.0-alpha.11%2Bmc.1.21.1.jar",
+					"version": "wWB8cMrv"
+				},
+				{
+					"content_versions": "1.13.0-alpha.10-mc.1.21.x",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/nznoDHZS/Origins-1.13.0-alpha.10%2Bmc.1.21.x.jar",
+					"version": "nznoDHZS"
+				},
+				{
+					"content_versions": "1.13.0-alpha.9-mc.1.21.x",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/BUZYwxOO/Origins-1.13.0-alpha.9%2Bmc.1.21.x.jar",
+					"version": "BUZYwxOO"
+				},
+				{
+					"content_versions": "1.13.0-alpha.8-mc.1.21.x",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/vo8NtpKy/Origins-1.13.0-alpha.8%2Bmc.1.21.x.jar",
+					"version": "vo8NtpKy"
+				},
+				{
+					"content_versions": "1.13.0-alpha.7-mc.1.21.x",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/Id29Bg5V/Origins-1.13.0-alpha.7%2Bmc.1.21.x.jar",
+					"version": "Id29Bg5V"
+				},
+				{
+					"content_versions": "1.13.0-alpha.6-mc.1.21.x",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/gLtbSVWh/Origins-1.13.0-alpha.6%2Bmc.1.21.x.jar",
+					"version": "gLtbSVWh"
+				},
+				{
 					"content_versions": "1.13.0-alpha.5-mc.1.21.x",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -682,7 +789,7 @@
 		"icon": "https://cdn.modrinth.com/data/3BeIrqZR/icon.png",
 		"issues": "https://github.com/apace100/origins-fabric/issues",
 		"license": "MIT",
-		"long_description": "## Description\nChoose an Origin and begin your game with special abilities, some of which help you out, while others hinder you in your gameplay. The different Origins all have a different impact on the vanilla gameplay. If you don't like these at all, you can also pick the \"Human\" origin while playing with friends on a server.\n\n## Currently featuring 9 Origins (+ Human):\n![OriginDescriptions](https://i.imgur.com/617o2yF.png)\n\n## Data-driven\nOrigins is very data-driven, allowing you to add, modify and remove origins as you like. There is an active community of data pack makers on the Discord, with ready-made data packs for you to download and enjoy, as well as for getting help if you want to try your hand at creating your own data pack.\n\nIf you want to get started, I suggest visiting the wiki of the mod on GitHub: https://github.com/apace100/origins-fabric/wiki\n\n## Community\nThere are a lot of enthusiasts of the mod and people who make data packs on the Discord! There are channels for discussion, posting origin ideas, sharing data packs, and more. You'll find me there from time to time as well. :)\nFeel free to join: https://discord.gg/4mTMHu3",
+		"long_description": "## Description\nChoose an Origin and begin your game with special abilities, some of which help you out, while others hinder you in your gameplay. The different Origins all have a different impact on the vanilla gameplay. If you don't like these at all, you can also pick the \"Human\" origin while playing with friends on a server.\n\n## Currently featuring 9 Origins (+ Human):\n![OriginDescriptions](https://i.imgur.com/617o2yF.png)\n\n## Data-driven\nOrigins is very data-driven, allowing you to add, modify and remove origins as you like. There is an active community of data pack makers on the Discord, with ready-made data packs for you to download and enjoy, as well as for getting help if you want to try your hand at creating your own data pack.\n\nIf you want to get started, I suggest visiting the wiki of the mod on GitHub: https://github.com/apace100/origins-fabric/wiki\n\n## Community\nThere are a lot of enthusiasts of the mod and people who make data packs on the Discord! There are channels for discussion, posting origin ideas, sharing data packs, and more. You'll find me there from time to time as well. :)\nFeel free to join: https://discord.gg/4mTMHu3\n\n## Server Hosting\n[![Lilypad promotion banner](https://cdn.modrinth.com/data/cached_images/46a9b823df315502294c077504d234d5f054233b_0.webp)](https://lilypad.gg/origins)",
 		"name": "Origins",
 		"package_maintainers": [
 			"mcvm"
@@ -692,6 +799,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.13.0-alpha.12-mc.1.21.1",
+			"1.13.0-alpha.11-mc.1.21.1",
+			"1.13.0-alpha.10-mc.1.21.x",
+			"1.13.0-alpha.9-mc.1.21.x",
+			"1.13.0-alpha.8-mc.1.21.x",
+			"1.13.0-alpha.7-mc.1.21.x",
+			"1.13.0-alpha.6-mc.1.21.x",
 			"1.13.0-alpha.5-mc.1.21.x",
 			"1.13.0-alpha.4-mc.1.20.4",
 			"1.13.0-alpha.3-mc.1.20.4",
@@ -769,7 +883,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

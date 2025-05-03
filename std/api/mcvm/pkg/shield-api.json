@@ -4,6 +4,44 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.0.0-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/y9clIFY4/versions/fllnpOlz/ShieldAPI-3.0.0%2B1.21.4.jar",
+					"version": "fllnpOlz"
+				},
+				{
+					"content_versions": "2.0.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/y9clIFY4/versions/gS70MjKr/ShieldAPI-2.0.2%2B1.21.1.jar",
+					"version": "gS70MjKr"
+				},
+				{
+					"content_versions": "2.0.1-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/y9clIFY4/versions/EKioOd2r/ShieldAPI-2.0.1%2B1.21.1.jar",
+					"version": "EKioOd2r"
+				},
+				{
+					"content_versions": "2.0.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/y9clIFY4/versions/YEBNEbz2/ShieldAPI-2.0.0%2B1.21.1.jar",
+					"version": "YEBNEbz2"
+				},
+				{
 					"content_versions": "1.0.1-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -26,9 +64,10 @@
 		"authors": [
 			"TheRedBrain"
 		],
+		"community": "https://discord.gg/jngXRJfFbE",
 		"description": "Creating shields with custom models was never easier!",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/y9clIFY4/3f5f9ab5c02f7d819dc47f7418d8eb6102c811db.png",
+		"icon": "https://cdn.modrinth.com/data/y9clIFY4/73ea5f5a349f267969e5810bc20c8c41bb019985_96.webp",
 		"issues": "https://github.com/FabricExtras/ShieldAPI/issues",
 		"license": "MIT",
 		"long_description": "# Shield API\n\nShield API allows mod authors to easily add shields with custom models. \n\nRead the [Readme](https://github.com/FabricExtras/ShieldAPI/blob/main/README.md) for information about how to use this API.",
@@ -40,6 +79,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.0.0-1.21.4",
+			"2.0.2-1.21.1",
+			"2.0.1-1.21.1",
+			"2.0.0-1.21.1",
 			"1.0.1-1.20.1",
 			"1.0.0-1.20.1"
 		],
@@ -52,7 +95,10 @@
 			"server"
 		],
 		"supported_versions": [
-			"1.20.1"
+			"1.20.1",
+			"1.21",
+			"1.21.1",
+			"1.21.4"
 		]
 	},
 	"relations": {

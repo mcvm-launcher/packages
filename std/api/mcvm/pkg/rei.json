@@ -4,6 +4,1795 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "19.0.806-neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/QmstUyzn/RoughlyEnoughItems-19.0.806-neoforge.jar",
+					"version": "QmstUyzn"
+				},
+				{
+					"content_versions": "19.0.806",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/HolhxWBq/RoughlyEnoughItems-19.0.806-fabric.jar",
+					"version": "HolhxWBq"
+				},
+				{
+					"content_versions": "19.0.805-neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/MG366mv8/RoughlyEnoughItems-19.0.805-neoforge.jar",
+					"version": "MG366mv8"
+				},
+				{
+					"content_versions": "19.0.805",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/uyitVQW4/RoughlyEnoughItems-19.0.805-fabric.jar",
+					"version": "uyitVQW4"
+				},
+				{
+					"content_versions": "17.0.803-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/lJtRBpcu/RoughlyEnoughItems-17.0.803-neoforge.jar",
+					"version": "lJtRBpcu"
+				},
+				{
+					"content_versions": "17.0.803",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/GyyGb3pO/RoughlyEnoughItems-17.0.803-fabric.jar",
+					"version": "GyyGb3pO"
+				},
+				{
+					"content_versions": "18.0.804-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/izP8qeWa/RoughlyEnoughItems-18.0.804-neoforge.jar",
+					"version": "izP8qeWa"
+				},
+				{
+					"content_versions": "18.0.804",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/9cWZy55a/RoughlyEnoughItems-18.0.804-fabric.jar",
+					"version": "9cWZy55a"
+				},
+				{
+					"content_versions": "18.0.800-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/H42QXltg/RoughlyEnoughItems-18.0.800-neoforge.jar",
+					"version": "H42QXltg"
+				},
+				{
+					"content_versions": "18.0.800",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/EJdFrEjD/RoughlyEnoughItems-18.0.800-fabric.jar",
+					"version": "EJdFrEjD"
+				},
+				{
+					"content_versions": "18.0.798-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/dAGodfWi/RoughlyEnoughItems-18.0.798-neoforge.jar",
+					"version": "dAGodfWi"
+				},
+				{
+					"content_versions": "18.0.798",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/juwbcdnA/RoughlyEnoughItems-18.0.798-fabric.jar",
+					"version": "juwbcdnA"
+				},
+				{
+					"content_versions": "16.0.799-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/b8gfS9Je/RoughlyEnoughItems-16.0.799-neoforge.jar",
+					"version": "b8gfS9Je"
+				},
+				{
+					"content_versions": "16.0.799",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/aWzTESNC/RoughlyEnoughItems-16.0.799-fabric.jar",
+					"version": "aWzTESNC"
+				},
+				{
+					"content_versions": "16.0.797-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/OABZXMWB/RoughlyEnoughItems-16.0.797-neoforge.jar",
+					"version": "OABZXMWB"
+				},
+				{
+					"content_versions": "16.0.797",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/1cn50o6f/RoughlyEnoughItems-16.0.797-fabric.jar",
+					"version": "1cn50o6f"
+				},
+				{
+					"content_versions": "18.0.796-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/tyBNZVEX/RoughlyEnoughItems-18.0.796-neoforge.jar",
+					"version": "tyBNZVEX"
+				},
+				{
+					"content_versions": "18.0.796",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/aBHkMOqF/RoughlyEnoughItems-18.0.796-fabric.jar",
+					"version": "aBHkMOqF"
+				},
+				{
+					"content_versions": "18.0.795-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/Nrp6zQHS/RoughlyEnoughItems-18.0.795-neoforge.jar",
+					"version": "Nrp6zQHS"
+				},
+				{
+					"content_versions": "18.0.795",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/1owJw26W/RoughlyEnoughItems-18.0.795-fabric.jar",
+					"version": "1owJw26W"
+				},
+				{
+					"content_versions": "17.0.794-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/V5Z90SQ7/RoughlyEnoughItems-17.0.794-neoforge.jar",
+					"version": "V5Z90SQ7"
+				},
+				{
+					"content_versions": "17.0.794",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/ZuAv0Xt4/RoughlyEnoughItems-17.0.794-fabric.jar",
+					"version": "ZuAv0Xt4"
+				},
+				{
+					"content_versions": "17.0.793-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/RwVEFiwv/RoughlyEnoughItems-17.0.793-neoforge.jar",
+					"version": "RwVEFiwv"
+				},
+				{
+					"content_versions": "17.0.793",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/RLSL9tB1/RoughlyEnoughItems-17.0.793-fabric.jar",
+					"version": "RLSL9tB1"
+				},
+				{
+					"content_versions": "17.0.792-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/rccDBHiP/RoughlyEnoughItems-17.0.792-neoforge.jar",
+					"version": "rccDBHiP"
+				},
+				{
+					"content_versions": "17.0.792",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/kIG5ITAM/RoughlyEnoughItems-17.0.792-fabric.jar",
+					"version": "kIG5ITAM"
+				},
+				{
+					"content_versions": "17.0.791-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/6T9fhvTQ/RoughlyEnoughItems-17.0.791-neoforge.jar",
+					"version": "6T9fhvTQ"
+				},
+				{
+					"content_versions": "17.0.791",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/5JyYjJo8/RoughlyEnoughItems-17.0.791-fabric.jar",
+					"version": "5JyYjJo8"
+				},
+				{
+					"content_versions": "17.0.790-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/fLf9aJPf/RoughlyEnoughItems-17.0.790-neoforge.jar",
+					"version": "fLf9aJPf"
+				},
+				{
+					"content_versions": "17.0.790",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/jcTNGJeS/RoughlyEnoughItems-17.0.790-fabric.jar",
+					"version": "jcTNGJeS"
+				},
+				{
+					"content_versions": "15.0.787-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/V5GzWwvF/RoughlyEnoughItems-15.0.787-neoforge.jar",
+					"version": "V5GzWwvF"
+				},
+				{
+					"content_versions": "16.0.788-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/lZgX5u2n/RoughlyEnoughItems-16.0.788-neoforge.jar",
+					"version": "lZgX5u2n"
+				},
+				{
+					"content_versions": "17.0.789-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/uSk304YG/RoughlyEnoughItems-17.0.789-neoforge.jar",
+					"version": "uSk304YG"
+				},
+				{
+					"content_versions": "15.0.787",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/l2ItDLQ9/RoughlyEnoughItems-15.0.787-fabric.jar",
+					"version": "l2ItDLQ9"
+				},
+				{
+					"content_versions": "17.0.789",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/YQ88aDzu/RoughlyEnoughItems-17.0.789-fabric.jar",
+					"version": "YQ88aDzu"
+				},
+				{
+					"content_versions": "16.0.788",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/F3B8X7NS/RoughlyEnoughItems-16.0.788-fabric.jar",
+					"version": "F3B8X7NS"
+				},
+				{
+					"content_versions": "14.1.786",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/BS1r5rpA/RoughlyEnoughItems-14.1.786-fabric.jar",
+					"version": "BS1r5rpA"
+				},
+				{
+					"content_versions": "14.1.786-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/gkFQCCGy/RoughlyEnoughItems-14.1.786-neoforge.jar",
+					"version": "gkFQCCGy"
+				},
+				{
+					"content_versions": "14.1.786",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/rIdsy7Le/RoughlyEnoughItems-14.1.786-forge.jar",
+					"version": "rIdsy7Le"
+				},
+				{
+					"content_versions": "9.2.784",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/AVljjerh/RoughlyEnoughItems-9.2.784-forge.jar",
+					"version": "AVljjerh"
+				},
+				{
+					"content_versions": "12.1.785",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/IoS2AjPk/RoughlyEnoughItems-12.1.785-forge.jar",
+					"version": "IoS2AjPk"
+				},
+				{
+					"content_versions": "9.2.784",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/7xl4YQUD/RoughlyEnoughItems-9.2.784-fabric.jar",
+					"version": "7xl4YQUD"
+				},
+				{
+					"content_versions": "12.1.785",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/nYcMSS03/RoughlyEnoughItems-12.1.785-fabric.jar",
+					"version": "nYcMSS03"
+				},
+				{
+					"content_versions": "14.1.781",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/fhDqSKEi/RoughlyEnoughItems-14.1.781-fabric.jar",
+					"version": "fhDqSKEi"
+				},
+				{
+					"content_versions": "14.1.781-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/KSMJDdoT/RoughlyEnoughItems-14.1.781-neoforge.jar",
+					"version": "KSMJDdoT"
+				},
+				{
+					"content_versions": "14.1.781",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/K1K5IdpW/RoughlyEnoughItems-14.1.781-forge.jar",
+					"version": "K1K5IdpW"
+				},
+				{
+					"content_versions": "16.0.783-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/qTQ5mEyK/RoughlyEnoughItems-16.0.783-neoforge.jar",
+					"version": "qTQ5mEyK"
+				},
+				{
+					"content_versions": "15.0.782-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/NoDCWhH3/RoughlyEnoughItems-15.0.782-neoforge.jar",
+					"version": "NoDCWhH3"
+				},
+				{
+					"content_versions": "16.0.783",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/nJkymL31/RoughlyEnoughItems-16.0.783-fabric.jar",
+					"version": "nJkymL31"
+				},
+				{
+					"content_versions": "15.0.782",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/GYiOnw4A/RoughlyEnoughItems-15.0.782-fabric.jar",
+					"version": "GYiOnw4A"
+				},
+				{
+					"content_versions": "8.4.778",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/YE3kk8tf/RoughlyEnoughItems-8.4.778-forge.jar",
+					"version": "YE3kk8tf"
+				},
+				{
+					"content_versions": "8.4.778",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/kNR86HLQ/RoughlyEnoughItems-8.4.778-fabric.jar",
+					"version": "kNR86HLQ"
+				},
+				{
+					"content_versions": "12.1.780",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/u0c8nh8S/RoughlyEnoughItems-12.1.780-forge.jar",
+					"version": "u0c8nh8S"
+				},
+				{
+					"content_versions": "12.1.780",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/Lg9Hl5NP/RoughlyEnoughItems-12.1.780-fabric.jar",
+					"version": "Lg9Hl5NP"
+				},
+				{
+					"content_versions": "9.2.779",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/KRAmCsJ3/RoughlyEnoughItems-9.2.779-forge.jar",
+					"version": "KRAmCsJ3"
+				},
+				{
+					"content_versions": "9.2.779",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/bYps3QCq/RoughlyEnoughItems-9.2.779-fabric.jar",
+					"version": "bYps3QCq"
+				},
+				{
+					"content_versions": "16.0.777-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/bxXyXhg4/RoughlyEnoughItems-16.0.777-neoforge.jar",
+					"version": "bxXyXhg4"
+				},
+				{
+					"content_versions": "16.0.777",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/R17xxXYg/RoughlyEnoughItems-16.0.777-fabric.jar",
+					"version": "R17xxXYg"
+				},
+				{
+					"content_versions": "16.0.776-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/xnysF3xZ/RoughlyEnoughItems-16.0.776-neoforge.jar",
+					"version": "xnysF3xZ"
+				},
+				{
+					"content_versions": "16.0.776",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/lSJ2Nb7O/RoughlyEnoughItems-16.0.776-fabric.jar",
+					"version": "lSJ2Nb7O"
+				},
+				{
+					"content_versions": "15.0.775-neo",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/vsfb1QV8/RoughlyEnoughItems-15.0.775-neoforge.jar",
+					"version": "vsfb1QV8"
+				},
+				{
+					"content_versions": "15.0.775",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/MTzbzRPU/RoughlyEnoughItems-15.0.775-fabric.jar",
+					"version": "MTzbzRPU"
+				},
+				{
+					"content_versions": "14.1.774",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/FVCuMvY9/RoughlyEnoughItems-14.1.774-fabric.jar",
+					"version": "FVCuMvY9"
+				},
+				{
+					"content_versions": "14.1.774-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/pER2hyrn/RoughlyEnoughItems-14.1.774-neoforge.jar",
+					"version": "pER2hyrn"
+				},
+				{
+					"content_versions": "14.1.774",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/nx2iWE81/RoughlyEnoughItems-14.1.774-forge.jar",
+					"version": "nx2iWE81"
+				},
+				{
+					"content_versions": "13.1.773",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/nuUmQNR7/RoughlyEnoughItems-13.1.773-fabric.jar",
+					"version": "nuUmQNR7"
+				},
+				{
+					"content_versions": "13.1.773-neo",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/9hJzLjZ8/RoughlyEnoughItems-13.1.773-neoforge.jar",
+					"version": "9hJzLjZ8"
+				},
+				{
+					"content_versions": "13.1.773",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/B1epvE1D/RoughlyEnoughItems-13.1.773-forge.jar",
+					"version": "B1epvE1D"
+				},
+				{
+					"content_versions": "13.1.771",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/fHuRvQBO/RoughlyEnoughItems-13.1.771-fabric.jar",
+					"version": "fHuRvQBO"
+				},
+				{
+					"content_versions": "13.1.771-neo",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/sWWcJVPo/RoughlyEnoughItems-13.1.771-neoforge.jar",
+					"version": "sWWcJVPo"
+				},
+				{
+					"content_versions": "13.1.771",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/sI2YTS95/RoughlyEnoughItems-13.1.771-forge.jar",
+					"version": "sI2YTS95"
+				},
+				{
+					"content_versions": "11.1.769",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/jwoZ3Nt7/RoughlyEnoughItems-11.1.769-forge.jar",
+					"version": "jwoZ3Nt7"
+				},
+				{
+					"content_versions": "11.1.769",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/KrS5QIqh/RoughlyEnoughItems-11.1.769-fabric.jar",
+					"version": "KrS5QIqh"
+				},
+				{
+					"content_versions": "12.1.770",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/PTm776mK/RoughlyEnoughItems-12.1.770-forge.jar",
+					"version": "PTm776mK"
+				},
+				{
+					"content_versions": "12.1.770",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/rQDZnrTa/RoughlyEnoughItems-12.1.770-fabric.jar",
+					"version": "rQDZnrTa"
+				},
+				{
+					"content_versions": "11.1.767",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/9mt7EqJx/RoughlyEnoughItems-11.1.767-forge.jar",
+					"version": "9mt7EqJx"
+				},
+				{
+					"content_versions": "11.1.767",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/hPenpuLR/RoughlyEnoughItems-11.1.767-fabric.jar",
+					"version": "hPenpuLR"
+				},
+				{
+					"content_versions": "8.4.765",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/fUPqUyvL/RoughlyEnoughItems-8.4.765-forge.jar",
+					"version": "fUPqUyvL"
+				},
+				{
+					"content_versions": "8.4.765",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/wYs2lnyZ/RoughlyEnoughItems-8.4.765-fabric.jar",
+					"version": "wYs2lnyZ"
+				},
+				{
+					"content_versions": "9.2.766",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/CgLQecMB/RoughlyEnoughItems-9.2.766-forge.jar",
+					"version": "CgLQecMB"
+				},
+				{
+					"content_versions": "9.2.766",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/hOb1ksX5/RoughlyEnoughItems-9.2.766-fabric.jar",
+					"version": "hOb1ksX5"
+				},
+				{
+					"content_versions": "14.1.760",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/UBAj8nKh/RoughlyEnoughItems-14.1.760-fabric.jar",
+					"version": "UBAj8nKh"
+				},
+				{
+					"content_versions": "14.1.760-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/nimb9AhZ/RoughlyEnoughItems-14.1.760-neoforge.jar",
+					"version": "nimb9AhZ"
+				},
+				{
+					"content_versions": "14.1.760",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/RLi5Bq6t/RoughlyEnoughItems-14.1.760-forge.jar",
+					"version": "RLi5Bq6t"
+				},
+				{
+					"content_versions": "16.0.762-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/MBHGaH83/RoughlyEnoughItems-16.0.762-neoforge.jar",
+					"version": "MBHGaH83"
+				},
+				{
+					"content_versions": "16.0.762",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/oAPMPBER/RoughlyEnoughItems-16.0.762-fabric.jar",
+					"version": "oAPMPBER"
+				},
+				{
+					"content_versions": "13.1.759",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/mwr4ceY7/RoughlyEnoughItems-13.1.759-fabric.jar",
+					"version": "mwr4ceY7"
+				},
+				{
+					"content_versions": "13.1.759-neo",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/JHl3CwS0/RoughlyEnoughItems-13.1.759-neoforge.jar",
+					"version": "JHl3CwS0"
+				},
+				{
+					"content_versions": "13.1.759",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/JS5Rngzf/RoughlyEnoughItems-13.1.759-forge.jar",
+					"version": "JS5Rngzf"
+				},
+				{
+					"content_versions": "15.0.761-neo",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/WgV0jxSI/RoughlyEnoughItems-15.0.761-neoforge.jar",
+					"version": "WgV0jxSI"
+				},
+				{
+					"content_versions": "15.0.761",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/8s03Vdug/RoughlyEnoughItems-15.0.761-fabric.jar",
+					"version": "8s03Vdug"
+				},
+				{
+					"content_versions": "12.1.758",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/oX5d92sr/RoughlyEnoughItems-12.1.758-forge.jar",
+					"version": "oX5d92sr"
+				},
+				{
+					"content_versions": "12.1.758",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/6H9R7e7Z/RoughlyEnoughItems-12.1.758-fabric.jar",
+					"version": "6H9R7e7Z"
+				},
+				{
+					"content_versions": "11.1.757",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/tjR4DWNP/RoughlyEnoughItems-11.1.757-forge.jar",
+					"version": "tjR4DWNP"
+				},
+				{
+					"content_versions": "11.1.757",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/YVD5bHUV/RoughlyEnoughItems-11.1.757-fabric.jar",
+					"version": "YVD5bHUV"
+				},
+				{
+					"content_versions": "9.2.756",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/x9gRBuAL/RoughlyEnoughItems-9.2.756-forge.jar",
+					"version": "x9gRBuAL"
+				},
+				{
+					"content_versions": "9.2.756",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/XnTDXTlA/RoughlyEnoughItems-9.2.756-fabric.jar",
+					"version": "XnTDXTlA"
+				},
+				{
+					"content_versions": "8.4.755",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/FQh3n3P8/RoughlyEnoughItems-8.4.755-forge.jar",
+					"version": "FQh3n3P8"
+				},
+				{
+					"content_versions": "8.4.755",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/rgYtF1v9/RoughlyEnoughItems-8.4.755-fabric.jar",
+					"version": "rgYtF1v9"
+				},
+				{
+					"content_versions": "16.0.754-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/xaeFmRmq/RoughlyEnoughItems-16.0.754-neoforge.jar",
+					"version": "xaeFmRmq"
+				},
+				{
+					"content_versions": "16.0.754",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/dzBMXNSn/RoughlyEnoughItems-16.0.754-fabric.jar",
+					"version": "dzBMXNSn"
+				},
+				{
+					"content_versions": "15.0.753-neo",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/HH3T1glX/RoughlyEnoughItems-15.0.753-neoforge.jar",
+					"version": "HH3T1glX"
+				},
+				{
+					"content_versions": "15.0.753",
+					"minecraft_versions": "1.20.6",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/LrKMUtvH/RoughlyEnoughItems-15.0.753-fabric.jar",
+					"version": "LrKMUtvH"
+				},
+				{
+					"content_versions": "14.1.752",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/Ydwjaek4/RoughlyEnoughItems-14.1.752-fabric.jar",
+					"version": "Ydwjaek4"
+				},
+				{
+					"content_versions": "14.1.752-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/d5AwwkPH/RoughlyEnoughItems-14.1.752-neoforge.jar",
+					"version": "d5AwwkPH"
+				},
+				{
+					"content_versions": "14.1.752",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/7F2pKOze/RoughlyEnoughItems-14.1.752-forge.jar",
+					"version": "7F2pKOze"
+				},
+				{
+					"content_versions": "13.1.751",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/a46Zhs6e/RoughlyEnoughItems-13.1.751-fabric.jar",
+					"version": "a46Zhs6e"
+				},
+				{
+					"content_versions": "13.1.751-neo",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/jBz6bxwD/RoughlyEnoughItems-13.1.751-neoforge.jar",
+					"version": "jBz6bxwD"
+				},
+				{
+					"content_versions": "13.1.751",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/wt91Mahn/RoughlyEnoughItems-13.1.751-forge.jar",
+					"version": "wt91Mahn"
+				},
+				{
+					"content_versions": "12.1.750",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/xKL5qwgy/RoughlyEnoughItems-12.1.750-forge.jar",
+					"version": "xKL5qwgy"
+				},
+				{
+					"content_versions": "12.1.750",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/K6pyAoaB/RoughlyEnoughItems-12.1.750-fabric.jar",
+					"version": "K6pyAoaB"
+				},
+				{
+					"content_versions": "12.1.745",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/3xMEbpx3/RoughlyEnoughItems-12.1.745-forge.jar",
+					"version": "3xMEbpx3"
+				},
+				{
+					"content_versions": "12.1.745",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/JzRcYN6f/RoughlyEnoughItems-12.1.745-fabric.jar",
+					"version": "JzRcYN6f"
+				},
+				{
 					"content_versions": "15.0.743-neo",
 					"minecraft_versions": "1.20.5",
 					"modloaders": "neoforged",
@@ -7406,7 +9195,7 @@
 		"authors": [
 			"shedaniel"
 		],
-		"banner": "https://cdn.modrinth.com/data/nfn13YXA/images/e8f66cc4099d44f5c7aec2919612130be237310d.png",
+		"banner": "https://cdn.modrinth.com/data/nfn13YXA/images/4d8fcb7ca47b216796aefdd804ed8a59a5e4483c_350.webp",
 		"categories": [
 			"library"
 		],
@@ -7414,21 +9203,21 @@
 		"description": "Clean and Customizable. Alternative to Just Enough Items/JEI.",
 		"documentation": "https://www.craft.do/s/qj8mHyTVd7qkOZ",
 		"gallery": [
-			"https://cdn.modrinth.com/data/nfn13YXA/images/4bc190b2ad4222bb738bfd9872e329ec1aca882a.png",
-			"https://cdn.modrinth.com/data/nfn13YXA/images/440f97510240d67139abf40abec5585bf7e99742.png",
-			"https://cdn.modrinth.com/data/nfn13YXA/images/7a85c902524b287c87bc90a6ac1edb1efee0abf2.png",
+			"https://cdn.modrinth.com/data/nfn13YXA/images/3b22d952eed05383dfa385f3886e6ca5d9065257_350.webp",
+			"https://cdn.modrinth.com/data/nfn13YXA/images/8e14183e388e6401abf8ee1d4ca89858f430dfc3_350.webp",
+			"https://cdn.modrinth.com/data/nfn13YXA/images/8ed9ef1dbf7a3cbd6bfded04b7e79c4aa035ac31_350.webp",
 			"https://cdn.modrinth.com/data/nfn13YXA/images/865c35fbe45f8f0eab98dab45d9f1a7d57a89f16.png",
 			"https://cdn.modrinth.com/data/nfn13YXA/images/0aac3b01f1138eb707d4951091b50028671f4358.png",
-			"https://cdn.modrinth.com/data/nfn13YXA/images/a4529e4f8a514e9175f54c35b1dcacc6d0cb705b.png",
-			"https://cdn.modrinth.com/data/nfn13YXA/images/e8f66cc4099d44f5c7aec2919612130be237310d.png"
+			"https://cdn.modrinth.com/data/nfn13YXA/images/52cb018c2be47e2f5e97579664dc572432d1c616_350.webp",
+			"https://cdn.modrinth.com/data/nfn13YXA/images/4d8fcb7ca47b216796aefdd804ed8a59a5e4483c_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/nfn13YXA/icon.png",
+		"icon": "https://cdn.modrinth.com/data/nfn13YXA/54ac5daa4166011bae713448e84413987316433a_96.webp",
 		"issues": "https://github.com/shedaniel/RoughlyEnoughItems/discussions",
 		"keywords": [
 			"graphics"
 		],
 		"license": "MIT",
-		"long_description": "**(Snapshot versions of REI is on the Patreon)**\n\n_Clean and Customizable. An easy way to browse recipes._\n\n#### Downloads contain files for Forge, Fabric and Rift! Please download the correct one!\n#### The Fabric version should be compatible on Quilt!\n\n---\n\nNeed a server to play with friends? Or don't know how to setup one? Just rent a server that is already configured!\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png\" alt=\"\" width=\"400\"/>](https://www.bisecthosting.com/)\n\nClick on the picture above, select plan (at least 4 GB), use my code **shedaniel** to get **25% off** your first month and enjoy playing with your friends!\n\n---\n\n## Recipes Exporting\n\nREI provides a keybind that is unbound by default that can be used to export recipes, here is an example:\n\n## JEI Plugins Support: (Forge)\n\nThis **DOES** support JEI plugins. Some mods might require REI Compatibility Workaround.\n\nIf you wish to support both JEI and REI users on a server, install JEI alongside with REI Server Component on the server.\n\n## Favourites / Bookmarking:\nFavouriting items are possible by pressing __A__ when hovering any items.\n\n## Advanced Search:\nMod: `@modname`\nNon-case sensitive, searching via mod, for example @materialisation to search for items added by materialisation.\n\nTooltip: `#text`\nNon-case sensitive, searching via tooltip, for example #protection to search for protection books.\n\nTags: `$tag`\nNon-case sensitive, searching via tags, for example $logs to search for logs.\n\nRegex: `r/regex/`\nCase sensitive, searching via regex, for example r/(Golden )?Apple) to search for golden apples or apples.\n\nQuotes: `\"`\nAllowing spaces, for example \"#protection iii\" to search with spaces.\n\nOr: `|`\nOr, for example apple|$logs to search for apples or logs.\n\n## Version Roadmap:\nREI 5\n- Fabric 1.16.x - Bug Fixes until 28 Feb 2022\n\nREI 6\n- Forge 1.16.x - Feature Updates until Mar 2022\n- Fabric 1.17.x - Feature Updates until Mar 2022\n- Forge 1.17.x - Feature Updates until Mar 2022\n\nREI 7\n- Fabric 1.18 - Feature Updates until June 2022\n- Forge 1.18 - Feature Updates until June 2022\n\nREI 8\n- Fabric 1.18.2 - Feature Updates until 1.20 (at least)\n- Forge 1.18.2 - Feature Updates until 1.20 (at least)\n\nREI 9\n- Fabric 1.19 - Feature Updates until 1.20 (at least)\n- Forge 1.19 - Feature Updates until 1.20 (at least)",
+		"long_description": "**(Snapshot versions of REI is on the Patreon)**\n\n_Clean and Customizable. An easy way to browse recipes._\n\n#### Downloads contain files for Forge, Fabric and Rift! Please download the correct one!\n#### The Fabric version should be compatible on Quilt!\n\n---\n\nNeed a server to play with friends? Or don't know how to setup one? Just rent a server that is already configured!\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png\" alt=\"\" width=\"400\"/>](https://www.bisecthosting.com/shedaniel/)\n\nClick on the picture above, select plan, use my code **shedaniel** to get **25% off** your first month and enjoy playing with your friends!\n\n---\n\n## Recipes Exporting\n\nREI provides a keybind that is unbound by default that can be used to export recipes, here is an example:\n\n## JEI Plugins Support: (Forge)\n\nThis **DOES** support JEI plugins. Some mods might require REI Compatibility Workaround.\n\nIf you wish to support both JEI and REI users on a server, install JEI alongside with REI Server Component on the server.\n\n## Favourites / Bookmarking:\nFavouriting items are possible by pressing __A__ when hovering any items.\n\n## Advanced Search:\nMod: `@modname`\nNon-case sensitive, searching via mod, for example @materialisation to search for items added by materialisation.\n\nTooltip: `#text`\nNon-case sensitive, searching via tooltip, for example #protection to search for protection books.\n\nTags: `$tag`\nNon-case sensitive, searching via tags, for example $logs to search for logs.\n\nRegex: `r/regex/`\nCase sensitive, searching via regex, for example r/(Golden )?Apple) to search for golden apples or apples.\n\nQuotes: `\"`\nAllowing spaces, for example \"#protection iii\" to search with spaces.\n\nOr: `|`\nOr, for example apple|$logs to search for apples or logs.\n\n## Version Roadmap:\nREI 5\n- Fabric 1.16.x - Bug Fixes until 28 Feb 2022\n\nREI 6\n- Forge 1.16.x - Feature Updates until Mar 2022\n- Fabric 1.17.x - Feature Updates until Mar 2022\n- Forge 1.17.x - Feature Updates until Mar 2022\n\nREI 7\n- Fabric 1.18 - Feature Updates until June 2022\n- Forge 1.18 - Feature Updates until June 2022\n\nREI 8\n- Fabric 1.18.2 - Feature Updates until 1.20 (at least)\n- Forge 1.18.2 - Feature Updates until 1.20 (at least)\n\nREI 9\n- Fabric 1.19 - Feature Updates until 1.20 (at least)\n- Forge 1.19 - Feature Updates until 1.20 (at least)",
 		"name": "Roughly Enough Items (REI)",
 		"package_maintainers": [
 			"mcvm"
@@ -7437,16 +9226,80 @@
 	},
 	"properties": {
 		"content_versions": [
+			"19.0.806",
+			"19.0.806-neo",
+			"19.0.805",
+			"19.0.805-neo",
+			"18.0.804",
+			"18.0.804-neo",
+			"18.0.800",
+			"18.0.800-neo",
+			"18.0.798",
+			"18.0.798-neo",
+			"18.0.796",
+			"18.0.796-neo",
+			"18.0.795",
+			"18.0.795-neo",
+			"17.0.803",
+			"17.0.803-neo",
+			"17.0.794",
+			"17.0.794-neo",
+			"17.0.793",
+			"17.0.793-neo",
+			"17.0.792",
+			"17.0.792-neo",
+			"17.0.791",
+			"17.0.791-neo",
+			"17.0.790",
+			"17.0.790-neo",
+			"17.0.789",
+			"17.0.789-neo",
+			"16.0.799",
+			"16.0.799-neo",
+			"16.0.797",
+			"16.0.797-neo",
+			"16.0.788",
+			"16.0.788-neo",
+			"16.0.783",
+			"16.0.783-neo",
+			"16.0.777",
+			"16.0.777-neo",
+			"16.0.776",
+			"16.0.776-neo",
+			"16.0.762",
+			"16.0.762-neo",
+			"16.0.754",
+			"16.0.754-neo",
 			"16.0.744",
 			"16.0.744-neo",
 			"16.0.729",
 			"16.0.729-neo",
+			"15.0.787",
+			"15.0.787-neo",
+			"15.0.782",
+			"15.0.782-neo",
+			"15.0.775",
+			"15.0.775-neo",
+			"15.0.761",
+			"15.0.761-neo",
+			"15.0.753",
+			"15.0.753-neo",
 			"15.0.743",
 			"15.0.743-neo",
 			"15.0.728",
 			"15.0.728-neo",
 			"15.0.722",
 			"15.0.722-neo",
+			"14.1.786",
+			"14.1.786-neo",
+			"14.1.781",
+			"14.1.781-neo",
+			"14.1.774",
+			"14.1.774-neo",
+			"14.1.760",
+			"14.1.760-neo",
+			"14.1.752",
+			"14.1.752-neo",
 			"14.1.742",
 			"14.1.742-neo",
 			"14.1.727",
@@ -7471,6 +9324,14 @@
 			"14.0.687",
 			"14.0.680",
 			"14.0.680-neo",
+			"13.1.773",
+			"13.1.773-neo",
+			"13.1.771",
+			"13.1.771-neo",
+			"13.1.759",
+			"13.1.759-neo",
+			"13.1.751",
+			"13.1.751-neo",
 			"13.1.741",
 			"13.1.741-neo",
 			"13.1.726",
@@ -7495,6 +9356,12 @@
 			"13.0.661",
 			"13.0.655",
 			"13.0.654",
+			"12.1.785",
+			"12.1.780",
+			"12.1.770",
+			"12.1.758",
+			"12.1.750",
+			"12.1.745",
 			"12.1.740",
 			"12.1.725",
 			"12.1.718",
@@ -7519,6 +9386,9 @@
 			"12.0.623",
 			"12.0.622",
 			"12.0.613",
+			"11.1.769",
+			"11.1.767",
+			"11.1.757",
 			"11.1.739",
 			"11.1.717",
 			"11.1.711",
@@ -7554,6 +9424,10 @@
 			"10.0.586",
 			"10.0.581",
 			"10.0.578",
+			"9.2.784",
+			"9.2.779",
+			"9.2.766",
+			"9.2.756",
 			"9.2.738",
 			"9.2.724",
 			"9.2.716",
@@ -7621,6 +9495,9 @@
 			"9.0.484",
 			"9.0.482",
 			"9.0.480",
+			"8.4.778",
+			"8.4.765",
+			"8.4.755",
 			"8.4.737",
 			"8.4.723",
 			"8.4.715",
@@ -7741,12 +9618,18 @@
 			"1.20.2-pre1",
 			"1.20.2-rc1",
 			"1.20.2",
+			"1.20.3",
 			"1.20.4",
 			"24w09a",
 			"24w14potato",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

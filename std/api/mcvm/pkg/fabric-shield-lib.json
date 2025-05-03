@@ -4,6 +4,17 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.7.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7SDalH12/versions/iNR8IwQB/FabricShieldLib-1.7.2-1.21.1.jar",
+					"version": "iNR8IwQB"
+				},
+				{
 					"content_versions": "v1.6.1-1.19",
 					"minecraft_versions": [
 						"1.19",
@@ -34,6 +45,25 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/7SDalH12/versions/1.5.3-1.18.2/FabricShieldLib-1.5.3-1.18.jar",
 					"version": "ErwiOhDO"
+				},
+				{
+					"content_versions": "1.8.0-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7SDalH12/versions/igRv9uEK/FabricShieldLib-1.8.0-1.21.4.jar",
+					"version": "igRv9uEK"
+				},
+				{
+					"content_versions": "1.8.0-pre1-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/7SDalH12/versions/GO0kjkc6/FabricShieldLib-1.8.0-pre1-1.21.3.jar",
+					"version": "GO0kjkc6"
 				},
 				{
 					"content_versions": "1.7.2-1.20.6",
@@ -477,12 +507,12 @@
 	},
 	"meta": {
 		"authors": [
-			"CrimsonDawn45",
-			"CringeStar"
+			"CringeStar",
+			"StellarWind22"
 		],
 		"description": "Makes shields enchantable while also being a tool for modders to easily add in new shields and shield enchantments!",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/7SDalH12/icon.png",
+		"icon": "https://cdn.modrinth.com/data/7SDalH12/69cc459434c8040adb51fb39c95c3a4ee8f793c5_96.webp",
 		"issues": "https://github.com/CrimsonDawn45/Fabric-Shield-Lib/issues",
 		"license": "LGPL-2.1-only",
 		"long_description": "![Fabric Shield Lib Logo](https://i.imgur.com/QH3fVxh.png)\n\n# Fabric Shield Lib\nLibrary mod for easily adding shields, and shield enchantments into the game. This library also provides event hooks for shields and shield enchantments to make creating custom effects with them much easier.\n\n---\n\n![](https://i.imgur.com/9Aa7O4l.png)\n\n---\n\n## Documentation?\nTutorial available on [Fabric Wiki](https://fabricmc.net/wiki/tutorial:shield).\n\nThe [example mod repo](https://github.com/CrimsonDawn45/Fabric-Shield-Lib-Example-Mod) is a template repo you can use to quickly get started if you're making a new mod.\n",
@@ -495,12 +525,14 @@
 	"properties": {
 		"content_versions": [
 			"1.17.1-1.4.1",
+			"1.8.0-1.21.4",
+			"1.8.0-pre1-1.21.3",
+			"1.7.2-1.21.1",
 			"1.7.2-1.20.6",
 			"1.7.2-1.20.4",
 			"1.7.2-1.20.2",
 			"1.7.2-1.20.1",
 			"1.7.2-1.19.4",
-			"1.7-pre1-1.19.3",
 			"1.7.2-1.19.2",
 			"1.7.2-1.18.2",
 			"1.7.2-1.17.1",
@@ -510,6 +542,7 @@
 			"1.7-1.17.1",
 			"1.7.1-1.20.2",
 			"1.7.1-1.19.4",
+			"1.7-pre1-1.19.3",
 			"1.7.1-1.19.2",
 			"1.7.1-1.18.2",
 			"1.7.1-1.17.1",
@@ -583,7 +616,12 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4"
 		]
 	}
 }

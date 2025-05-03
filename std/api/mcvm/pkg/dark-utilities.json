@@ -4,6 +4,31 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "17.0.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/G6ROOs1R/DarkUtilities-Fabric-1.20.1-17.0.5.jar",
+					"version": "G6ROOs1R"
+				},
+				{
+					"content_versions": "17.0.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "bookshelf"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CkqTAIaP/versions/R84O6j1g/DarkUtilities-Forge-1.20.1-17.0.5.jar",
+					"version": "R84O6j1g"
+				},
+				{
 					"content_versions": "19.0.6",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -3087,12 +3112,12 @@
 		"description": "Expansive content mod which adds a little bit of everything. ",
 		"documentation": "https://github.com/Darkhax-Minecraft/Dark-Utilities/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/CkqTAIaP/images/429717cbbc91e082904cc1ba0eb5acd0b71d960e.png",
-			"https://cdn.modrinth.com/data/CkqTAIaP/images/5ca88b894aab0a44d2c5510b949268252b4d281c.png",
+			"https://cdn.modrinth.com/data/CkqTAIaP/images/9e3bd28e5a8820a189b6d53be4804fe17011eaf5_350.webp",
+			"https://cdn.modrinth.com/data/CkqTAIaP/images/5ca88b894aab0a44d2c5510b949268252b4d281c_350.webp",
 			"https://cdn.modrinth.com/data/CkqTAIaP/images/98eefd06c418b69e7ba10331facf942863c6fe8f.png",
-			"https://cdn.modrinth.com/data/CkqTAIaP/images/7d381ec713def85f251bad553f6e8d56cb72c5a6.png"
+			"https://cdn.modrinth.com/data/CkqTAIaP/images/7d381ec713def85f251bad553f6e8d56cb72c5a6_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/CkqTAIaP/481d16f015f0ece70c70a9fc68c36ffa2580cef6.jpeg",
+		"icon": "https://cdn.modrinth.com/data/CkqTAIaP/47a31d6659dbb76f63bfb8277d8ac7e284aa89e0_96.webp",
 		"issues": "https://github.com/Darkhax-Minecraft/Dark-Utilities/issues",
 		"license": "LGPL-2.1-only",
 		"long_description": "<p>The Dark Utilities mod adds many new items and blocks which expand upon the vanilla game. This mod aims to be useful in a wide range of circumstances while also adding fun and interesting mechanics. You can learn more about the mod by checking out the <a href=\"https://github.com/Darkhax-Minecraft/Dark-Utilities/wiki\" rel=\"nofollow\">wiki</a>. All blocks and items in the mod also have tooltips with a brief summary of what they do.</p>\n\n\n<p>This mod requires the <a href=\"https://www.modrinth.com/mod/bookshelf-lib\" rel=\"nofollow\">Bookshelf</a> library! On 1.16+ you will also need the <a href=\"https://www.modrinth.com/mod/runelic\" rel=\"nofollow\">Runelic</a> mod and the <a href=\"https://www.modrinth.com/mod/pig-pen-cipher\" rel=\"nofollow\">Pig Pen Cipher</a> mod.</p>\n\n<h3>Feature Spotlight</h3>\n<ul>\n<li><strong>Vector Plates</strong> - Vector plates are flat rotatable blocks that can push mobs and other entities around. Mobs can spawn on top of them, making them a popular choice for moving mobs in mob farms.</li>\n<li><strong>Mob Filters</strong> - Mob Filters are blocks that allow certain types of mobs to move through them. For example the hostile mob filter will only allow hostile mobs to pass through the block.</li>\n<li><strong>Sleep Charm</strong> - The sleep charm will passively ward off the effects of insomnia while it's in the inventory. This will prevent phantoms from spawning. Additionally you will instantly fall asleep when entering beds.</li>\n<li><strong>Redstone Randomizer</strong> - The Redstone Randomizer is a redstone component that toggles on and off randomly. While on it will emit a redstone signal.</li>\n<li><strong>Player Damage Plate</strong> - The Player Damage Plate is a flat block that will cause player damage to any mob that steps on it.</li>\n<li>This is just a small sample of content added by this mod, check out the <a href=\"https://github.com/Darkhax-Minecraft/Dark-Utilities/wiki\" rel=\"nofollow\">wiki</a> for an extensive list!</li>\n</ul>\n\n<p><strong>Like the mod and want to support me?</strong></p>\n<ul>\n<li>Follow me on <a href=\"https://twitter.com/DarkhaxDev\" rel=\"nofollow\">Twitter</a></li>\n<li>Join my <a href=\"https://discord.darkhax.net/\" rel=\"nofollow\">Discord</a></li>\n<li>Pledge on <a href=\"https://www.patreon.com/Darkhax\" rel=\"nofollow\">Patreon</a></li>\n<li>Check out my <a href=\"https://darkhax.net/\" rel=\"nofollow\">website</a></li>\n</ul>\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**This project is sponsored by Nodecraft. Use code [DARKHAX](https://nodecraft.com/r/darkhax) for 30% off your first month of service!**",
@@ -3110,6 +3135,7 @@
 			"19.0.3",
 			"19.0.2",
 			"18.0.1",
+			"17.0.5",
 			"17.0.3",
 			"17.0.2",
 			"17.0.1",

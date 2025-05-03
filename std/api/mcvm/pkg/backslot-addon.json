@@ -4,6 +4,21 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.2-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"extensions": "backslot"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s2w3oC2W/versions/jbFSyXlE/backslotaddon-1.1.2.jar",
+					"version": "jbFSyXlE"
+				},
+				{
 					"content_versions": "1.1.1-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -64,6 +79,21 @@
 					"version": "H6sy0gz7"
 				},
 				{
+					"content_versions": "1.1.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"extensions": "backslot"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/s2w3oC2W/versions/zZBL3cuM/backslotaddon-1.1.1.jar",
+					"version": "zZBL3cuM"
+				},
+				{
 					"content_versions": "1.1.0-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -100,7 +130,7 @@
 		"description": "Addon for the BackSlot mod which enables double sword on the players back",
 		"documentation": "https://globox1997.github.io/wiki/mods/BackSlotAddon/",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/s2w3oC2W/18add3776d9d43007b6f60af6979064fdf8933ba.png",
+		"icon": "https://cdn.modrinth.com/data/s2w3oC2W/0b214ff16008ce8d82986f1d6c02bb6e49cb045c_96.webp",
 		"issues": "https://github.com/Globox1997/BackSlotAddon/issues",
 		"license": "GPL-3.0-only",
 		"long_description": "![Headline](https://i.imgur.com/ro1FnvL.png)\n\n<center>\n\n[<img src=\"https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge\">](https://discord.gg/cV4cJyGXqF) \n[<img src=\"https://img.shields.io/website?color=7bc466&label=Globox&style=for-the-badge&up_message=Wiki&url=https://globox1997.github.io/wiki/mods/BackSlotAddon/\">](https://globox1997.github.io/wiki/mods/BackSlotAddon/)\n[<img src=\"https://img.shields.io/github/issues/Globox1997/BackSlotAddon?color=c4667b&style=for-the-badge\">](https://github.com/Globox1997/BackSlotAddon/issues)\n</center>\n\n<img src=\"https://i.imgur.com/K0Bn3Mh.png\" alt= “Description” width=\"25%\" height=\"auto\">\n<br><br/>\n\nSmall [BackSlot](https://modrinth.com/mod/backslot) mod addon which enables the double back sword when the belt slot and back slot has a sword item equipped.\n\nSince 1.17.1 you can now carry shields on your back.\n\n<img src=\"https://i.imgur.com/WKCuHQL.png\" alt= “Misc” width=\"10%\" height=\"auto\">\n<br><br />\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/fabric-api)\n[<img src=\"https://i.imgur.com/7weZ8uu.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/cloth-config)\n\n\n\nThis mod is developed for Fabric.  \nThere are no plans to develop a Forge version. \n\n\nModpack Permission:  \nFeel free to use it in any modpacks.\n\n\nBug Report:  \nJust report bugs at the github page.",
@@ -112,6 +142,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.1.2-1.21.1",
+			"1.1.1-1.21.1",
 			"1.1.1-1.21",
 			"1.1.1-1.20.6",
 			"1.1.1-1.20.1",
@@ -132,7 +164,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

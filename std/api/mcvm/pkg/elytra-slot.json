@@ -4,6 +4,161 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "6.4.4-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/k6lA080t/elytraslot-forge-6.4.4%2B1.20.1.jar",
+					"version": "k6lA080t"
+				},
+				{
+					"content_versions": "6.4.4-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/7w60aZYA/elytraslot-fabric-6.4.4%2B1.20.1.jar",
+					"version": "7w60aZYA"
+				},
+				{
+					"content_versions": "6.4.4-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/1WMsiAjn/elytraslot-quilt-6.4.4%2B1.20.1.jar",
+					"version": "1WMsiAjn"
+				},
+				{
+					"content_versions": "9.0.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/RX6A02W1/elytraslot-neoforge-9.0.2%2B1.21.1.jar",
+					"version": "RX6A02W1"
+				},
+				{
+					"content_versions": "9.0.1-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "curios-api-continuation"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/oxX7WNWo/elytraslot-neoforge-9.0.1%2B1.21.1.jar",
+					"version": "oxX7WNWo"
+				},
+				{
+					"content_versions": "9.0.1-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/jxx2pc4h/elytraslot-fabric-9.0.1%2B1.21.1.jar",
+					"version": "jxx2pc4h"
+				},
+				{
+					"content_versions": "6.4.3-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/AlHVXgYe/elytraslot-forge-6.4.3%2B1.20.1.jar",
+					"version": "AlHVXgYe"
+				},
+				{
+					"content_versions": "6.4.2-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "curios-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/yxgTJu0N/elytraslot-forge-6.4.2%2B1.20.1.jar",
+					"version": "yxgTJu0N"
+				},
+				{
+					"content_versions": "6.4.2-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/D3eqGfXv/elytraslot-fabric-6.4.2%2B1.20.1.jar",
+					"version": "D3eqGfXv"
+				},
+				{
+					"content_versions": "6.4.2-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/lq9TAmEU/elytraslot-quilt-6.4.2%2B1.20.1.jar",
+					"version": "lq9TAmEU"
+				},
+				{
 					"content_versions": "9.0.0-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -612,11 +767,16 @@
 	},
 	"properties": {
 		"content_versions": [
+			"9.0.2-1.21.1",
+			"9.0.1-1.21.1",
 			"9.0.0-1.21",
 			"8.0.1-1.20.6",
 			"8.0.0-1.20.6",
 			"7.0.1-1.20.4",
 			"7.0.0-1.20.4",
+			"6.4.4-1.20.1",
+			"6.4.3-1.20.1",
+			"6.4.2-1.20.1",
 			"6.4.1-1.20.1",
 			"6.4.0-1.20.1",
 			"6.3.0-1.20.1",
@@ -665,10 +825,10 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.2",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

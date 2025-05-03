@@ -4,6 +4,136 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.7e",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "geckolib",
+						"extensions": "farmers-delight"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/OJEzJil1/CrabbersDelight-1.20.1-1.1.7e.jar",
+					"version": "OJEzJil1"
+				},
+				{
+					"content_versions": "1.1.7a",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/CNUKdjzX/crabbersdelight-1.21.1-1.1.7a.jar",
+					"version": "CNUKdjzX"
+				},
+				{
+					"content_versions": "1.1.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/DdCpl5Lq/crabbersdelight-1.21.1-1.1.7.jar",
+					"version": "DdCpl5Lq"
+				},
+				{
+					"content_versions": "1.1.7d",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "geckolib",
+						"extensions": "farmers-delight"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/wTljl54O/CrabbersDelight-1.20.1-1.1.7d.jar",
+					"version": "wTljl54O"
+				},
+				{
+					"content_versions": "1.1.7c",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "geckolib",
+						"extensions": "farmers-delight"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/ckOBi8Ou/CrabbersDelight-1.20.1-1.1.7c.jar",
+					"version": "ckOBi8Ou"
+				},
+				{
+					"content_versions": "1.1.7b",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "geckolib",
+						"extensions": "farmers-delight"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/t10lPO8L/CrabbersDelight-1.20.1-1.1.7b.jar",
+					"version": "t10lPO8L"
+				},
+				{
+					"content_versions": "1.1.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "geckolib",
+						"extensions": "farmers-delight"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/d5KahnbR/CrabbersDelight-1.20.1-1.1.7a.jar",
+					"version": "d5KahnbR"
+				},
+				{
+					"content_versions": "1.1.7",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "geckolib",
+						"extensions": "farmers-delight"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/ANlvYe3X/CrabbersDelight-1.20.1-1.1.7.jar",
+					"version": "ANlvYe3X"
+				},
+				{
+					"content_versions": "1.1.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "geckolib",
+						"extensions": "farmers-delight"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/KqsFb5P6/CrabbersDelight-1.20.1-1.1.6.jar",
+					"version": "KqsFb5P6"
+				},
+				{
 					"content_versions": "1.1.5a",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -211,19 +341,20 @@
 		"authors": [
 			"AlabasterLeking"
 		],
-		"banner": "https://cdn.modrinth.com/data/gBGdVBJy/images/0570899e7acc75dbfb77bb7f30c88cbdcf245cff.png",
+		"banner": "https://cdn.modrinth.com/data/gBGdVBJy/images/9f59b6acb24ee9438c158e1b92f693ea3f428276_350.webp",
 		"community": "https://discord.gg/zWfH77sXKz",
 		"description": "Crabber's Delight is an addon for the popular food mod, Farmer's Delight",
 		"gallery": [
-			"https://cdn.modrinth.com/data/gBGdVBJy/images/3eb8f4e1908667dcd659d8f16048f6ce78d67da3.png",
-			"https://cdn.modrinth.com/data/gBGdVBJy/images/0570899e7acc75dbfb77bb7f30c88cbdcf245cff.png",
-			"https://cdn.modrinth.com/data/gBGdVBJy/images/8ea04dfec466c19aef9c1146ef7dcb2baaa9e301.png",
-			"https://cdn.modrinth.com/data/gBGdVBJy/images/fadb3d627d70c2cec4bb01813c83b3b3743f4b82.png"
+			"https://cdn.modrinth.com/data/gBGdVBJy/images/9f59b6acb24ee9438c158e1b92f693ea3f428276_350.webp",
+			"https://cdn.modrinth.com/data/gBGdVBJy/images/ca2e6e23782ee2b22ff4a25514213b4ba3fdbfc7_350.webp",
+			"https://cdn.modrinth.com/data/gBGdVBJy/images/8ea04dfec466c19aef9c1146ef7dcb2baaa9e301_350.webp",
+			"https://cdn.modrinth.com/data/gBGdVBJy/images/a70d53ad068eda6e7d1469257887b3f096d36b91_350.webp",
+			"https://cdn.modrinth.com/data/gBGdVBJy/images/e60229e69e8655295db2db1b080256a516c42ffd_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/gBGdVBJy/dda9137ec6e5a1abccbf921e100c20dcfa5cba2d.png",
 		"issues": "https://github.com/AlabasterLeking/Crabbers-Delightissues",
 		"license": "MIT",
-		"long_description": "<p dir=\"auto\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://raw.githubusercontent.com/AlabasterLeking/Crabbers-Delight/main/src/main/resources/crabbersdelightbanner.png\" alt=\"Crabber's Delight\" width=\"544\" height=\"128\" /></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>Crabber's Delight</strong> is a mod that expands upon the cooking system from <strong>Farmer's Delight.</strong></span></p>\n<p><span style=\"font-size: 14px;\">It introduces more seafood into the game, including crabs, shrimps, and clams, that can all be used in a collection of new dishes as well as some other food items to expand upon the existing sealife in Minecraft.</span><span style=\"font-size: 14px;\"><br /></span></p>\n\n<p><span style=\"font-size: 14px;\">📖 <strong>Getting Started:</strong></span></p>\n<p><span style=\"font-size: 14px;\">To get started, build a crab trap and put in the water. Over time, you will slowly collect a mix of seafood and junk. You can put fish in the trap to try and lure creatures into to collect.</span><span style=\"font-size: 14px;\"><br /></span></p>\n\n<p><span style=\"font-size: 14px;\">🎮 <strong>Discord:</strong></span></p>\n<p dir=\"auto\"><span style=\"font-size: 14px;\">Discord: <a href=\"https://discord.gg/zWfH77sXKz\" rel=\"nofollow\">https://discord.gg/zWfH77sXKz</a></span><span style=\"font-size: 14px;\"><br /></span></p>\n\n<p dir=\"auto\"><span style=\"font-size: 14px;\">📝 <strong>Credits:</strong></span></p>\n<p dir=\"auto\"><span style=\"font-size: 14px;\">Developed by AlabasterLeking</span></p>\n<p dir=\"auto\"><span style=\"font-size: 14px;\">Special thanks to vectorwing for creating Farmer's Delight <a href=\"https://www.curseforge.com/minecraft/mc-mods/farmers-delight\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/farmers-delight</a></span></p>\n<p dir=\"auto\"><span style=\"font-size: 14px;\">\n<p dir=\"auto\"><span style=\"font-size: 14px;\">Special thanks to Uraneptus for creating Fisherman's Trap, which is where some of the Crab Trap logic is based from <a href=\"https://www.curseforge.com/minecraft/mc-mods/fishermans-trap\">https://www.curseforge.com/minecraft/mc-mods/fishermans-trap</a></span></p>\n<p dir=\"auto\"><span style=\"font-size: 14px;\">&nbsp;</span></p>",
+		"long_description": "<p><img src=\"https://raw.githubusercontent.com/AlabasterLeking/Crabbers-Delight/main/src/main/resources/crabbersdelightbanner.png\" alt=\"Crabber's Delight\"></p>\n<p><strong>Crabber's Delight</strong> is a mod that expands upon the cooking system from <strong>Farmer's Delight.</strong></p>\n<p>It introduces more seafood into the game, including crabs, shrimps, and clams, that can all be used in a collection of new dishes as well as some other food items to expand upon the existing sealife in Minecraft.</p>\n<p>📖 <strong>Getting Started:</strong></p>\n<p>To get started, build a crab trap and put in the water with a 3x3 of water around it* (waterlogged blocks do count). The crab trap will start gathering items slowly. If you want to speed it up, place it in any water biome for 2x the speed. Additionally, to improve the quality of items it catches, supply it with some bait or buckets of chum.</p>\n<p>*This setting can be disabled in the config</p>\n<p>🎮 <strong>Discord:</strong></p>\n<p>Discord: <a href=\"https://discord.gg/zWfH77sXKz\" rel=\"nofollow\">https://discord.gg/zWfH77sXKz</a></p>\n<p>📝 <strong>Credits:</strong></p>\n<p>Developed by AlabasterLeking</p>\n<p>Thanks to vectorwing for creating Farmer's Delight <a href=\"https://www.curseforge.com/minecraft/mc-mods/farmers-delight\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/farmers-delight</a></p>\n<p>&nbsp;</p>\n<p><strong>🚀 I've partnered with RocketNode Hosting!</strong></p>\n<p>RocketNode provides top-tier server hosting worldwide, allowing you to set up your server with just a few clicks! Their intuitive dashboard makes server management a breeze, and you can even schedule automatic restarts without needing any coding knowledge.</p>\n<p>Use the code ALABASTER to get 25% off your first month on any of their gaming servers. Get started here: <a href=\"https://rocketnode.com/alabaster\" rel=\"nofollow\">https://rocketnode.com/alabaster</a></p>\n<p><a href=\"https://rocketnode.com/alabaster\" >\n  <img src=\"https://i.imgur.com/zPVKh2N.png\" alt=\"Rocketnode Alabaster\">\n</a></p>\n<p>&nbsp;</p>",
 		"name": "Crabber's Delight",
 		"package_maintainers": [
 			"mcvm"
@@ -232,6 +363,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.1.7",
+			"1.1.7e",
+			"1.1.7d",
+			"1.1.7c",
+			"1.1.7b",
+			"1.1.7a",
+			"1.1.6",
 			"1.1.5",
 			"1.1.5a",
 			"1.1.4",
@@ -257,7 +395,10 @@
 		"supported_versions": [
 			"1.18.2",
 			"1.19.2",
-			"1.20.1"
+			"1.20",
+			"1.20.1",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

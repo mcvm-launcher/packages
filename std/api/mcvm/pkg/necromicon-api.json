@@ -4,6 +4,85 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.6.0-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/O6odCETu/Necronomicon-Fabric-1.6.0%2B1.21.jar",
+					"version": "O6odCETu"
+				},
+				{
+					"content_versions": "1.6.0-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/4iO8Tbfj/Necronomicon-NeoForge-1.6.0%2B1.21.jar",
+					"version": "4iO8Tbfj"
+				},
+				{
+					"content_versions": "1.6.0-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/bgc6xYvl/Necronomicon-Fabric-1.6.0%2B1.20.1.jar",
+					"version": "bgc6xYvl"
+				},
+				{
+					"content_versions": "1.6.0-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/AomMq7HP/Necronomicon-Forge-1.6.0%2B1.20.1.jar",
+					"version": "AomMq7HP"
+				},
+				{
+					"content_versions": "1.5.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/r92ZEpb7/Necronomicon-Fabric-1.5.0%2B1.21.jar",
+					"version": "r92ZEpb7"
+				},
+				{
+					"content_versions": "1.5.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/HyktpxVz/Necronomicon-NeoForge-1.5.0%2B1.21.jar",
+					"version": "HyktpxVz"
+				},
+				{
 					"content_versions": "1.4.2",
 					"minecraft_versions": [
 						"1.17",
@@ -233,6 +312,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.6.0-1.21",
+			"1.6.0-1.20.1",
+			"1.5.0",
 			"1.4.2",
 			"1.4.1",
 			"1.4.0",
@@ -267,7 +349,10 @@
 			"1.20.6",
 			"1.21-pre1",
 			"1.21-pre2",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3"
 		]
 	}
 }

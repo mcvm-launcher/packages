@@ -4,6 +4,154 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v9.0.1-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/h1B6bAD8/authme-neoforge-9.0.1%2B1.21.5.jar",
+					"version": "h1B6bAD8"
+				},
+				{
+					"content_versions": "v9.0.1-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/VS9Jw8A3/authme-fabric-9.0.1%2B1.21.5.jar",
+					"version": "VS9Jw8A3"
+				},
+				{
+					"content_versions": "v9.0.1-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/1jWoapyO/authme-neoforge-9.0.1%2B1.21.4.jar",
+					"version": "1jWoapyO"
+				},
+				{
+					"content_versions": "v9.0.1-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/DfEuMvQ6/authme-fabric-9.0.1%2B1.21.4.jar",
+					"version": "DfEuMvQ6"
+				},
+				{
+					"content_versions": "v9.0.1-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/3FHqBDEc/authme-neoforge-9.0.1%2B1.21.3.jar",
+					"version": "3FHqBDEc"
+				},
+				{
+					"content_versions": "v9.0.1-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/2qf2Udvd/authme-fabric-9.0.1%2B1.21.3.jar",
+					"version": "2qf2Udvd"
+				},
+				{
+					"content_versions": "v9.0.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/NinhKHNO/authme-neoforge-9.0.1%2B1.21.1.jar",
+					"version": "NinhKHNO"
+				},
+				{
+					"content_versions": "v9.0.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/D0QqKqZn/authme-fabric-9.0.1%2B1.21.1.jar",
+					"version": "D0QqKqZn"
+				},
+				{
+					"content_versions": "v9.0.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/Aw5cSPET/authme-neoforge-9.0.0%2B1.21.1.jar",
+					"version": "Aw5cSPET"
+				},
+				{
+					"content_versions": "v9.0.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/gT9LQFdD/authme-fabric-9.0.0%2B1.21.1.jar",
+					"version": "gT9LQFdD"
+				},
+				{
+					"content_versions": "8.0.0-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/TaEUeoLe/authme-8.0.0%2B1.21.4.jar",
+					"version": "TaEUeoLe"
+				},
+				{
+					"content_versions": "8.0.0-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/P5KdF8uU/authme-8.0.0%2B1.21.3.jar",
+					"version": "P5KdF8uU"
+				},
+				{
 					"content_versions": "8.0.0-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -342,7 +490,7 @@
 		"icon": "https://cdn.modrinth.com/data/yjgIrBjZ/icon.png",
 		"issues": "https://github.com/axieum/authme/issues",
 		"license": "MIT",
-		"long_description": "<div align=\"center\">\n\n<img alt=\"Auth Me Icon\" src=\"https://cdn.modrinth.com/data/yjgIrBjZ/icon.png\" width=\"128\">\n\n# Auth Me\n\nAuthenticate yourself in Minecraft and re-validate your session\n\n[![Build](https://img.shields.io/github/actions/workflow/status/axieum/authme/release.yml?branch=main&style=for-the-badge)][ci:release]\n[![Release](https://img.shields.io/github/v/release/axieum/authme?style=for-the-badge&include_prereleases&sort=semver)][releases]\n[![Available For](https://cf.way2muchnoise.eu/versions/Available%20For_356643_latest.svg?badge_style=for_the_badge)][curseforge]\n[![Downloads](https://cf.way2muchnoise.eu/full_356643_downloads.svg?badge_style=for_the_badge)][curseforge:files]\n\n</div>\n\n<img alt=\"Auth Me Demo\" src=\"https://github.com/axieum/authme/raw/main/demo.gif\" width=\"50%\" align=\"right\">\n\nAuth Me is a **Minecraft mod** that brings account authentication into the game\nin the efforts of overcoming the infamous session validation error when\nconnecting to a server.\n\nIt is a **client-side** only mod, built on the [Fabric][fabric] mod loader and\nis available for modern versions of [Minecraft][minecraft] Java Edition.\n\n#### Alternatives\n\n- [ReAuth][reauth_mod] by TechnicianLP\n- [OAuth][oauth_mod] by Sintinium\n\n## Sponsors\n\nWe would like to extend our thanks to the following sponsors for supporting\nAuth Me development.\n\n[<img alt=\"BisectHosting\" src=\"https://www.bisecthosting.com/partners/custom-banners/b9fe4fbe-8cc4-42cc-a545-dfd1b46d20e6.webp\" height=\"80\">][bisecthosting]\n\n## Contributing\n\nThank you for considering contributing to Auth Me! Please see the\n[Contribution Guidelines][contributing].\n\n## Security Vulnerabilities\n\nPlease review the [Security Policy][security] on how to report security\nvulnerabilities.\n\n## Licence\n\nAuth Me is open-sourced software licenced under the [MIT licence][licence].\n\n[bisecthosting]: https://bisecthosting.com/axieum\n[ci:release]: https://github.com/axieum/authme/actions/workflows/release.yml\n[contributing]: https://github.com/axieum/authme/blob/main/.github/CONTRIBUTING.md\n[curseforge]: https://curseforge.com/minecraft/mc-mods/auth-me\n[curseforge:files]: https://curseforge.com/minecraft/mc-mods/auth-me/files\n[fabric]: https://fabricmc.net/\n[licence]: https://opensource.org/licenses/MIT\n[minecraft]: https://minecraft.net/\n[oauth_mod]: https://github.com/Sintinium/oauth\n[reauth_mod]: https://github.com/TechnicianLP/ReAuth\n[releases]: https://github.com/axieum/authme/releases\n[security]: https://github.com/axieum/authme/security/policy\n",
+		"long_description": "<div align=\"center\">\n\n<img alt=\"Auth Me Icon\" src=\"https://cdn.modrinth.com/data/yjgIrBjZ/icon.png\" width=\"128\">\n\n# Auth Me\n\nAuthenticate yourself in Minecraft and re-validate your session\n\n[![Build](https://img.shields.io/github/actions/workflow/status/axieum/authme/release.yml?branch=main&style=for-the-badge)][ci:release]\n[![Release](https://img.shields.io/github/v/release/axieum/authme?style=for-the-badge&include_prereleases&sort=semver)][releases]\n[![Available For](https://cf.way2muchnoise.eu/versions/Available%20For_356643_latest.svg?badge_style=for_the_badge)][curseforge]\n[![Downloads](https://cf.way2muchnoise.eu/full_356643_downloads.svg?badge_style=for_the_badge)][curseforge:files]\n\n</div>\n\n<img alt=\"Auth Me Demo\" src=\"https://github.com/axieum/authme/raw/main/demo.gif\" width=\"50%\" align=\"right\">\n\nAuth Me is a **Minecraft mod** that brings account authentication into the game\nin the efforts of overcoming the infamous session validation error when\nconnecting to a server.\n\nIt is a **client-side** only mod, and\nis available for modern versions of [Minecraft][minecraft] Java Edition.\n\n#### Alternatives\n\n- [ReAuth][reauth_mod] by TechnicianLP\n- [OAuth][oauth_mod] by Sintinium\n\n## Sponsors\n\nWe would like to extend our thanks to the following sponsors for supporting\nAuth Me development.\n\n[<img alt=\"BisectHosting\" src=\"https://www.bisecthosting.com/partners/custom-banners/b9fe4fbe-8cc4-42cc-a545-dfd1b46d20e6.webp\" height=\"80\">][bisecthosting]\n\n## Contributing\n\nThank you for considering contributing to Auth Me! Please see the\n[Contribution Guidelines][contributing].\n\n## Security Vulnerabilities\n\nPlease review the [Security Policy][security] on how to report security\nvulnerabilities.\n\n## Licence\n\nAuth Me is open-sourced software licenced under the [MIT licence][licence].\n\n[bisecthosting]: https://bisecthosting.com/axieum\n[ci:release]: https://github.com/axieum/authme/actions/workflows/release.yml\n[contributing]: https://github.com/axieum/authme/blob/main/.github/CONTRIBUTING.md\n[curseforge]: https://curseforge.com/minecraft/mc-mods/auth-me\n[curseforge:files]: https://curseforge.com/minecraft/mc-mods/auth-me/files\n[fabric]: https://fabricmc.net/\n[licence]: https://opensource.org/licenses/MIT\n[minecraft]: https://minecraft.net/\n[oauth_mod]: https://github.com/Sintinium/oauth\n[reauth_mod]: https://github.com/TechnicianLP/ReAuth\n[releases]: https://github.com/axieum/authme/releases\n[security]: https://github.com/axieum/authme/security/policy\n",
 		"name": "Auth Me",
 		"package_maintainers": [
 			"mcvm"
@@ -351,6 +499,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"v9.0.1-1.21.5",
+			"v9.0.1-1.21.4",
+			"v9.0.1-1.21.3",
+			"v9.0.1-1.21.1",
+			"8.0.0-1.21.4",
+			"8.0.0-1.21.3",
+			"v9.0.0-1.21.1",
 			"v1.5.0",
 			"8.0.0-1.21",
 			"8.0.0-1.20.5",
@@ -406,7 +561,11 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

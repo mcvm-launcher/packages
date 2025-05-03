@@ -4,6 +4,834 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "9.1.0.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/c1BdjabH/SereneSeasons-fabric-1.20.1-9.1.0.2.jar",
+					"version": "c1BdjabH"
+				},
+				{
+					"content_versions": "9.1.0.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/YXTfAkOf/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+					"version": "YXTfAkOf"
+				},
+				{
+					"content_versions": "10.4.0.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/n2el0kgr/SereneSeasons-neoforge-1.21.5-10.4.0.1.jar",
+					"version": "n2el0kgr"
+				},
+				{
+					"content_versions": "10.4.0.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/XMmf3mAk/SereneSeasons-fabric-1.21.5-10.4.0.1.jar",
+					"version": "XMmf3mAk"
+				},
+				{
+					"content_versions": "10.4.0.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/AGws7evY/SereneSeasons-forge-1.21.5-10.4.0.1.jar",
+					"version": "AGws7evY"
+				},
+				{
+					"content_versions": "10.4.0.7",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/yN9pMj56/SereneSeasons-neoforge-1.21.5-10.4.0.7.jar",
+					"version": "yN9pMj56"
+				},
+				{
+					"content_versions": "10.5.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/14scaIL1/SereneSeasons-fabric-1.21.5-10.5.0.0.jar",
+					"version": "14scaIL1"
+				},
+				{
+					"content_versions": "10.5.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/oWLwVHPT/SereneSeasons-neoforge-1.21.5-10.5.0.0.jar",
+					"version": "oWLwVHPT"
+				},
+				{
+					"content_versions": "10.4.0.7",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/XlDhnLCP/SereneSeasons-fabric-1.21.5-10.4.0.7.jar",
+					"version": "XlDhnLCP"
+				},
+				{
+					"content_versions": "10.4.0.7",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/I1YQ3ZSX/SereneSeasons-forge-1.21.5-10.4.0.7.jar",
+					"version": "I1YQ3ZSX"
+				},
+				{
+					"content_versions": "10.5.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/lClsjyzi/SereneSeasons-forge-1.21.5-10.5.0.0.jar",
+					"version": "lClsjyzi"
+				},
+				{
+					"content_versions": "10.4.0.6",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/D6fJLkyS/SereneSeasons-neoforge-1.21.4-10.4.0.6.jar",
+					"version": "D6fJLkyS"
+				},
+				{
+					"content_versions": "10.4.0.6",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/qanVNGyt/SereneSeasons-fabric-1.21.4-10.4.0.6.jar",
+					"version": "qanVNGyt"
+				},
+				{
+					"content_versions": "10.4.0.6",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/Jer872tf/SereneSeasons-forge-1.21.4-10.4.0.6.jar",
+					"version": "Jer872tf"
+				},
+				{
+					"content_versions": "10.4.0.5",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/mZu72ROe/SereneSeasons-neoforge-1.21.4-10.4.0.5.jar",
+					"version": "mZu72ROe"
+				},
+				{
+					"content_versions": "10.4.0.5",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/JCECVyAE/SereneSeasons-fabric-1.21.4-10.4.0.5.jar",
+					"version": "JCECVyAE"
+				},
+				{
+					"content_versions": "10.4.0.5",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/rPXdbAQt/SereneSeasons-forge-1.21.4-10.4.0.5.jar",
+					"version": "rPXdbAQt"
+				},
+				{
+					"content_versions": "10.4.0.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/ZkFRRD7B/SereneSeasons-neoforge-1.21.4-10.4.0.4.jar",
+					"version": "ZkFRRD7B"
+				},
+				{
+					"content_versions": "10.4.0.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/JCZ0I2bt/SereneSeasons-fabric-1.21.4-10.4.0.4.jar",
+					"version": "JCZ0I2bt"
+				},
+				{
+					"content_versions": "10.4.0.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/ICyDax6x/SereneSeasons-forge-1.21.4-10.4.0.4.jar",
+					"version": "ICyDax6x"
+				},
+				{
+					"content_versions": "9.1.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/vk0sThi2/SereneSeasons-fabric-1.20.1-9.1.0.1.jar",
+					"version": "vk0sThi2"
+				},
+				{
+					"content_versions": "9.1.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/YbNaHCmA/SereneSeasons-forge-1.20.1-9.1.0.1.jar",
+					"version": "YbNaHCmA"
+				},
+				{
+					"content_versions": "10.4.0.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/d6gkZhjT/SereneSeasons-fabric-1.21.4-10.4.0.3.jar",
+					"version": "d6gkZhjT"
+				},
+				{
+					"content_versions": "10.4.0.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/59yNkKnW/SereneSeasons-neoforge-1.21.4-10.4.0.3.jar",
+					"version": "59yNkKnW"
+				},
+				{
+					"content_versions": "10.4.0.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/2GAPNr7X/SereneSeasons-forge-1.21.4-10.4.0.3.jar",
+					"version": "2GAPNr7X"
+				},
+				{
+					"content_versions": "10.2.0.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/KQ2wyU1I/SereneSeasons-neoforge-1.21.3-10.2.0.3.jar",
+					"version": "KQ2wyU1I"
+				},
+				{
+					"content_versions": "10.2.0.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/LYi0AP7g/SereneSeasons-fabric-1.21.3-10.2.0.3.jar",
+					"version": "LYi0AP7g"
+				},
+				{
+					"content_versions": "10.2.0.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/pjmGXpqr/SereneSeasons-forge-1.21.3-10.2.0.3.jar",
+					"version": "pjmGXpqr"
+				},
+				{
+					"content_versions": "10.1.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/SPj5bJoM/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+					"version": "SPj5bJoM"
+				},
+				{
+					"content_versions": "10.1.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/dqUSAtzk/SereneSeasons-forge-1.21.1-10.1.0.3.jar",
+					"version": "dqUSAtzk"
+				},
+				{
+					"content_versions": "10.2.0.2",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/SRNU974x/SereneSeasons-neoforge-1.21.3-10.2.0.2.jar",
+					"version": "SRNU974x"
+				},
+				{
+					"content_versions": "10.2.0.2",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/fyESAVqp/SereneSeasons-fabric-1.21.3-10.2.0.2.jar",
+					"version": "fyESAVqp"
+				},
+				{
+					"content_versions": "10.2.0.2",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/HQGTa7zV/SereneSeasons-forge-1.21.3-10.2.0.2.jar",
+					"version": "HQGTa7zV"
+				},
+				{
+					"content_versions": "10.4.0.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/lYP03iZk/SereneSeasons-fabric-1.21.4-10.4.0.2.jar",
+					"version": "lYP03iZk"
+				},
+				{
+					"content_versions": "10.4.0.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/J5pMhMGW/SereneSeasons-neoforge-1.21.4-10.4.0.2.jar",
+					"version": "J5pMhMGW"
+				},
+				{
+					"content_versions": "10.4.0.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/WtZzCdQx/SereneSeasons-forge-1.21.4-10.4.0.2.jar",
+					"version": "WtZzCdQx"
+				},
+				{
+					"content_versions": "10.4.0.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/Yl9DEUTG/SereneSeasons-fabric-1.21.4-10.4.0.1.jar",
+					"version": "Yl9DEUTG"
+				},
+				{
+					"content_versions": "10.4.0.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/QJzY59fN/SereneSeasons-neoforge-1.21.4-10.4.0.1.jar",
+					"version": "QJzY59fN"
+				},
+				{
+					"content_versions": "10.4.0.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/qPlxinOC/SereneSeasons-forge-1.21.4-10.4.0.1.jar",
+					"version": "qPlxinOC"
+				},
+				{
+					"content_versions": "10.4.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/Nma1rZlQ/SereneSeasons-neoforge-1.21.4-10.4.0.0.jar",
+					"version": "Nma1rZlQ"
+				},
+				{
+					"content_versions": "10.4.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/1lpTqXxP/SereneSeasons-fabric-1.21.4-10.4.0.0.jar",
+					"version": "1lpTqXxP"
+				},
+				{
+					"content_versions": "10.4.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/Xdsu7Veo/SereneSeasons-neoforge-1.21.4-10.4.0.0.jar",
+					"version": "Xdsu7Veo"
+				},
+				{
+					"content_versions": "10.4.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/KM5RJelA/SereneSeasons-forge-1.21.4-10.4.0.0.jar",
+					"version": "KM5RJelA"
+				},
+				{
+					"content_versions": "10.4.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/Gu7ArFYP/SereneSeasons-forge-1.21.4-10.4.0.0.jar",
+					"version": "Gu7ArFYP"
+				},
+				{
+					"content_versions": "10.2.0.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/qw754dBa/SereneSeasons-neoforge-1.21.3-10.2.0.1.jar",
+					"version": "qw754dBa"
+				},
+				{
+					"content_versions": "10.2.0.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/S5y2NO2L/SereneSeasons-fabric-1.21.3-10.2.0.1.jar",
+					"version": "S5y2NO2L"
+				},
+				{
+					"content_versions": "10.2.0.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/iQPuzAnm/SereneSeasons-forge-1.21.3-10.2.0.1.jar",
+					"version": "iQPuzAnm"
+				},
+				{
+					"content_versions": "10.2.0.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/wVQhQLAh/SereneSeasons-neoforge-1.21.3-10.2.0.0.jar",
+					"version": "wVQhQLAh"
+				},
+				{
+					"content_versions": "10.2.0.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/PPw2uUsi/SereneSeasons-fabric-1.21.3-10.2.0.0.jar",
+					"version": "PPw2uUsi"
+				},
+				{
+					"content_versions": "10.2.0.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/V4DFuJCT/SereneSeasons-forge-1.21.3-10.2.0.0.jar",
+					"version": "V4DFuJCT"
+				},
+				{
+					"content_versions": "10.2.0.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/jJuL1SaW/SereneSeasons-neoforge-1.21.3-10.2.0.0.jar",
+					"version": "jJuL1SaW"
+				},
+				{
+					"content_versions": "10.2.0.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/wx5BpF2g/SereneSeasons-fabric-1.21.3-10.2.0.0.jar",
+					"version": "wx5BpF2g"
+				},
+				{
+					"content_versions": "10.2.0.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/oF0COINz/SereneSeasons-forge-1.21.3-10.2.0.0.jar",
+					"version": "oF0COINz"
+				},
+				{
+					"content_versions": "9.1.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/4RgDk9NB/SereneSeasons-fabric-1.20.1-9.1.0.0.jar",
+					"version": "4RgDk9NB"
+				},
+				{
+					"content_versions": "9.1.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/FW4WSjtn/SereneSeasons-forge-1.20.1-9.1.0.0.jar",
+					"version": "FW4WSjtn"
+				},
+				{
+					"content_versions": "9.3.0.27",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/HFk4L0uv/SereneSeasons-fabric-1.20.1-9.3.0.27.jar",
+					"version": "HFk4L0uv"
+				},
+				{
+					"content_versions": "9.3.0.27",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/ZJZq3fLy/SereneSeasons-forge-1.20.1-9.3.0.27.jar",
+					"version": "ZJZq3fLy"
+				},
+				{
+					"content_versions": "10.1.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/b2S4BcbP/SereneSeasons-neoforge-1.21.1-10.1.0.1.jar",
+					"version": "b2S4BcbP"
+				},
+				{
+					"content_versions": "10.1.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/UqA7miTT/SereneSeasons-fabric-1.21.1-10.1.0.1.jar",
+					"version": "UqA7miTT"
+				},
+				{
+					"content_versions": "10.1.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/FXKb9sBf/SereneSeasons-forge-1.21.1-10.1.0.1.jar",
+					"version": "FXKb9sBf"
+				},
+				{
+					"content_versions": "10.1.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/rYQQqnVE/SereneSeasons-neoforge-1.21.1-10.1.0.0.jar",
+					"version": "rYQQqnVE"
+				},
+				{
+					"content_versions": "10.1.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/qsbPIZeU/SereneSeasons-fabric-1.21.1-10.1.0.0.jar",
+					"version": "qsbPIZeU"
+				},
+				{
+					"content_versions": "10.1.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/QmGJtgLe/SereneSeasons-forge-1.21.1-10.1.0.0.jar",
+					"version": "QmGJtgLe"
+				},
+				{
+					"content_versions": "10.1.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/GtnSzZzr/SereneSeasons-fabric-1.21.1-10.1.0.0.jar",
+					"version": "GtnSzZzr"
+				},
+				{
+					"content_versions": "10.1.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/S1OkMtMq/SereneSeasons-neoforge-1.21.1-10.1.0.0.jar",
+					"version": "S1OkMtMq"
+				},
+				{
+					"content_versions": "10.1.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/6nilsFQc/SereneSeasons-forge-1.21.1-10.1.0.0.jar",
+					"version": "6nilsFQc"
+				},
+				{
+					"content_versions": "10.0.0.6",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"glitchcore"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/q8BN28TQ/SereneSeasons-fabric-1.21-10.0.0.6.jar",
+					"version": "q8BN28TQ"
+				},
+				{
+					"content_versions": "10.0.0.6",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/Ga3tXpjj/SereneSeasons-neoforge-1.21-10.0.0.6.jar",
+					"version": "Ga3tXpjj"
+				},
+				{
+					"content_versions": "10.0.0.6",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "glitchcore"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/WZ9gfayc/SereneSeasons-forge-1.21-10.0.0.6.jar",
+					"version": "WZ9gfayc"
+				},
+				{
 					"content_versions": "10.0.0.2",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -2323,31 +3151,31 @@
 			"Adubbz",
 			"Forstride"
 		],
-		"banner": "https://cdn.modrinth.com/data/e0bNACJD/images/b90c2e990873b60cbb9d5778307f7ba2dccf9b56.png",
+		"banner": "https://cdn.modrinth.com/data/e0bNACJD/images/bce5d81d4c69d4f41c33c4a427ed81e706437c9f_350.webp",
 		"community": "https://discord.gg/GyyzU6T",
 		"description": "Seasons with changing colors, shifting temperatures, and more!",
 		"documentation": "https://github.com/Glitchfiend/SereneSeasons/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/e0bNACJD/images/c560383246e7ffcb0bfd36053b44449dc21e7cd5.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/66b801f3f3639e0e65b3541ccebd5def6debc67d.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/3d14938702893b9f307dae5ae955984c8da06a5e.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/e2e23af9f8b96c616d371be47f5ed20947c82282.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/14afeb83f6b9f192a4e39afc27ec546b8dcc2498.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/600d2387a995de14b5ae820a4888634459422c7b.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/ab76be4056d32408372823c6fc6859549678d209.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/54133c030133ce6c5a8edee6b0bc557267543170.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/abb537df9c7bf1203e22ca5656e7f05da7664e83.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/35778e3a2d5fad6ccd7959b12014bcb04df604d9.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/ead1398d7c79a4b88be833372dabf3f1b2fca98d.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/70ea81a48d6d00c3a0a8fe8bd09f11a07cca2cdb.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/98a396c519f742fc15c42f7e1cf7daf583f98fff.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/89223fd43ceca3451bd6821308889708d1a06a88.png",
-			"https://cdn.modrinth.com/data/e0bNACJD/images/b90c2e990873b60cbb9d5778307f7ba2dccf9b56.png"
+			"https://cdn.modrinth.com/data/e0bNACJD/images/8de7a83024f1bacbb09df51ef2811efb4e57c788_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/66b801f3f3639e0e65b3541ccebd5def6debc67d_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/3d14938702893b9f307dae5ae955984c8da06a5e_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/e2e23af9f8b96c616d371be47f5ed20947c82282_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/14afeb83f6b9f192a4e39afc27ec546b8dcc2498_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/600d2387a995de14b5ae820a4888634459422c7b_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/ab76be4056d32408372823c6fc6859549678d209_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/54133c030133ce6c5a8edee6b0bc557267543170_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/abb537df9c7bf1203e22ca5656e7f05da7664e83_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/35778e3a2d5fad6ccd7959b12014bcb04df604d9_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/ead1398d7c79a4b88be833372dabf3f1b2fca98d_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/187130b4504d867e49610a052c0a811f88dc8e0e_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/8e2d16e0a42cf4f6bbd2a1186e179aee53f09786_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/89223fd43ceca3451bd6821308889708d1a06a88_350.webp",
+			"https://cdn.modrinth.com/data/e0bNACJD/images/bce5d81d4c69d4f41c33c4a427ed81e706437c9f_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/e0bNACJD/f8b292ea53e0a0ea908570defddc48673d16d7d6.png",
 		"issues": "https://github.com/Glitchfiend/SereneSeasons/issues",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "<center>\n\n![Serene Seasons Logo](https://i.imgur.com/l4lO6VR.png)\n\n[![Support on Patreon](https://i.imgur.com/ai6ZV95.png)](https://www.patreon.com/Adubbz) [![Donate via PayPal](https://i.imgur.com/rEoNmyV.png)](https://www.paypal.com/donate/?business=AdubbzG@gmail.com&cy_code=USD) [![Follow on X](https://i.imgur.com/WNmQOhb.png)](https://x.com/TheAdubbz) [![Join our Discord](https://i.imgur.com/N7eZOt0.png)](https://discord.gg/GyyzU6T)\n\n</center>\n\n## Description\n\n#### Serene Seasons is a Minecraft mod that adds seasons. Grass and foliage colors will change throughout the year, and in the winter, temperatures will shift and allow for snow to fall in some biomes that don't normally receive any. Seasons also affect various other features, like crop growth, weather, and more!\n\n## Info and Terms\n\n### Requires [![GlitchCore Icon](https://i.imgur.com/zC7XoOh.png)](https://modrinth.com/mod/glitchcore) [GlitchCore](https://modrinth.com/mod/glitchcore) for Minecraft 1.20.4 and above!  Also requires [Fabric API](https://modrinth.com/mod/fabric-api) for Fabric version.\n\n*You may include this mod in a Modrinth-hosted modpack as long as you do not rehost the mod and only use builds uploaded directly by us, you do not sell the modpack or additional access to the mod via any means, and you follow any and all terms listed in the license for the version of the mod you are using.*\n\n## More by Glitchfiend\n\n[![Biomes O' Plenty Logo](https://i.imgur.com/HQ2opH6.png)](https://modrinth.com/mod/biomes-o-plenty) [![Tough As Nails Logo](https://i.imgur.com/r0ZlRwr.png)](https://modrinth.com/mod/tough-as-nails)",
+		"long_description": "<center>\n\n![Serene Seasons Logo](https://i.imgur.com/l4lO6VR.png)\n\n[![Follow on X](https://i.imgur.com/WNmQOhb.png)](https://x.com/TheAdubbz) [![Join our Discord](https://i.imgur.com/N7eZOt0.png)](https://discord.gg/GyyzU6T)  \n[![Support on Patreon](https://i.imgur.com/ai6ZV95.png)](https://www.patreon.com/Adubbz) [![Donate via PayPal](https://i.imgur.com/rEoNmyV.png)](https://www.paypal.com/donate/?business=AdubbzG@gmail.com&cy_code=USD)\n\n</center>\n\n## Description\n\n#### Serene Seasons is a Minecraft mod that adds seasons. Grass and foliage colors will change throughout the year, and in the winter, temperatures will shift and allow for snow to fall in some biomes that don't normally receive any. Seasons also affect various other features, like crop growth, weather, and more!\n\n## Info and Terms\n\n### Requires [![GlitchCore Icon](https://i.imgur.com/zC7XoOh.png)](https://modrinth.com/mod/glitchcore) [GlitchCore](https://modrinth.com/mod/glitchcore) for Minecraft 1.20.4 and above*!  Also requires [Fabric API](https://modrinth.com/mod/fabric-api) for Fabric version.\n_*Also required for 1.20.1 on mod version 9.1.0.0 and above_\n\n*You may include this mod in a Modrinth-hosted modpack as long as you do not rehost the mod and only use builds uploaded directly by us, you do not sell the modpack or additional access to the mod via any means, and you follow any and all terms listed in the license for the version of the mod you are using.*\n\n## More by Glitchfiend\n\n[![Biomes O' Plenty Logo](https://i.imgur.com/HQ2opH6.png)](https://modrinth.com/mod/biomes-o-plenty) [![Tough As Nails Logo](https://i.imgur.com/r0ZlRwr.png)](https://modrinth.com/mod/tough-as-nails)",
 		"name": "Serene Seasons",
 		"package_maintainers": [
 			"mcvm"
@@ -2357,6 +3185,23 @@
 	},
 	"properties": {
 		"content_versions": [
+			"10.5.0.0",
+			"10.4.0.7",
+			"10.4.0.6",
+			"10.4.0.5",
+			"10.4.0.4",
+			"10.4.0.3",
+			"10.4.0.2",
+			"10.4.0.1",
+			"10.4.0.0",
+			"10.2.0.3",
+			"10.2.0.2",
+			"10.2.0.1",
+			"10.2.0.0",
+			"10.1.0.3",
+			"10.1.0.1",
+			"10.1.0.0",
+			"10.0.0.6",
 			"10.0.0.2",
 			"10.0.0.1",
 			"10.0.0.0",
@@ -2367,6 +3212,7 @@
 			"9.4.0.2",
 			"9.4.0.1",
 			"9.4.0.0",
+			"9.3.0.27",
 			"9.3.0.25",
 			"9.3.0.24",
 			"9.3.0.23",
@@ -2399,6 +3245,9 @@
 			"9.1.0.50",
 			"9.1.0.48",
 			"9.1.0.47",
+			"9.1.0.2",
+			"9.1.0.1",
+			"9.1.0.0",
 			"9.0.0.46",
 			"9.0.0.45",
 			"9.0.0.43",
@@ -2590,7 +3439,11 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

@@ -4,8 +4,11 @@
 			"kind": "mod",
 			"versions": [
 				{
-					"content_versions": "1.1.3-1.20.1",
-					"minecraft_versions": "1.20.1",
+					"content_versions": "2.0.3-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
 					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": [
@@ -14,8 +17,42 @@
 						]
 					},
 					"stability": "stable",
-					"url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/H0UkoMtI/gazebo-1.1.3%2B1.20.1.jar",
-					"version": "H0UkoMtI"
+					"url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/M0LocXj4/gazebo-2.0.3%2B1.21.1.jar",
+					"version": "M0LocXj4"
+				},
+				{
+					"content_versions": "2.0.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"structure-pool-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/unZ0xAnj/gazebo-2.0.2%2B1.21.1.jar",
+					"version": "unZ0xAnj"
+				},
+				{
+					"content_versions": "2.0.0-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"structure-pool-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/A1Joo1yc/gazebo-2.0.0%2B1.21.1.jar",
+					"version": "A1Joo1yc"
 				},
 				{
 					"content_versions": "1.1.1-1.20.1",
@@ -94,22 +131,25 @@
 		"authors": [
 			"ZsoltMolnarrr"
 		],
-		"banner": "https://cdn.modrinth.com/data/XIpMGI6r/images/7f2bfa1fa65bc88a886a48c791ad92d9bdf735ef.jpeg",
+		"banner": "https://cdn.modrinth.com/data/XIpMGI6r/images/c1d1d467dcfcc9e0a9caed81091184ca69291429_350.webp",
 		"community": "https://discord.gg/KN9b3pjFTM",
 		"description": "⛲️ Village structures hosting small spell libraries",
 		"gallery": [
 			"https://cdn.modrinth.com/data/XIpMGI6r/images/278d8c941af6dc763cf714b9f36f8b8366a60eb9.png",
 			"https://cdn.modrinth.com/data/XIpMGI6r/images/3f19359bfd7521ba17bec818f125e87e09ef277e.png",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/59a1006dfd980ddb35b96cfd86d7c367dcde2a2b.png",
 			"https://cdn.modrinth.com/data/XIpMGI6r/images/747102d582732b8defa50a2c925c7d5a6f87d009.png",
-			"https://cdn.modrinth.com/data/XIpMGI6r/images/7f2bfa1fa65bc88a886a48c791ad92d9bdf735ef.jpeg",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/a62c4eb9400d2ee8349078125ba0ab8b22c4424e.png",
 			"https://cdn.modrinth.com/data/XIpMGI6r/images/a7da965aa108daf95c10448c01423be49ce2338d.png",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/c1d1d467dcfcc9e0a9caed81091184ca69291429_350.webp",
 			"https://cdn.modrinth.com/data/XIpMGI6r/images/cd19a95a79f1157b33f31818aa615a280b206912.png",
-			"https://cdn.modrinth.com/data/XIpMGI6r/images/fddc777f0d28eea856016f0705de63050de8b0f0.png"
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/cf9db2db218180f7f2c8c1d6a34aa4e8db955fae.png",
+			"https://cdn.modrinth.com/data/XIpMGI6r/images/fb61a1d362a18abceca74512a16812fd2a45049c_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/XIpMGI6r/1ed69629d4295c976ae21ca1355f104d58e58924.png",
+		"icon": "https://cdn.modrinth.com/data/XIpMGI6r/4194614b15b1c9286bd7e2e3f41110a2e790da5d_96.webp",
 		"issues": "https://github.com/ZsoltMolnarrr/Gazebo/issues",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "![Gazebos title](https://cdn.modrinth.com/data/XIpMGI6r/images/fddc777f0d28eea856016f0705de63050de8b0f0.png \"\")\n\n## ⛲️ Find gazebos in villages, hosting small spell libraries.\n\n[![Modloader](https://img.shields.io/badge/Loader-Fabric-ecebe6?labelColor=263768&style=for-the-badge)](https://fabricmc.net)\n[![Discord](https://img.shields.io/discord/973561601519149057.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/KN9b3pjFTM)\n\n## ✨ Discover more of the RPG Series\n\n[![Archers](https://cdn.modrinth.com/data/XIpMGI6r/images/cd19a95a79f1157b33f31818aa615a280b206912.png \"Archers\")](https://modrinth.com/mod/archers \"\")\n[![Paladins](https://cdn.modrinth.com/data/XIpMGI6r/images/3f19359bfd7521ba17bec818f125e87e09ef277e.png \"Paladins\")](https://modrinth.com/mod/paladins-and-priests \"\")\n[![Wizards](https://cdn.modrinth.com/data/XIpMGI6r/images/a7da965aa108daf95c10448c01423be49ce2338d.png \"Wizards\")](https://modrinth.com/mod/wizards \"\")\n[![Jewelry](https://cdn.modrinth.com/data/XIpMGI6r/images/747102d582732b8defa50a2c925c7d5a6f87d009.png \"Jewelry\")](https://modrinth.com/mod/jewelry \"\")\n[![Rogues](https://cdn.modrinth.com/data/XIpMGI6r/images/278d8c941af6dc763cf714b9f36f8b8366a60eb9.png \"Rogues\")](https://modrinth.com/mod/rogues-and-warriors \"\")\n\n# 📦 Installation\n\n### Required\n\n- [Spell Engine](https://modrinth.com/mod/spell-engine \"\")\n \n\n# ⛲️ Features\n \nAdds new structures into villages, containing Spell Binding Table, so you may find a faster way to obtain Spell Books.\n\nGazebos commonly spawn in villages, this can be configured in `config/gazebo/villages.json`.\n\nGazebo variants:\n\n- Desert\n\n- Plains\n\n- Savanna\n\n- Snowy\n\n- Taiga\n\n\n![Gazebo variants](https://cdn.modrinth.com/data/XIpMGI6r/images/7f2bfa1fa65bc88a886a48c791ad92d9bdf735ef.jpeg \"\")",
+		"long_description": "![Gazebos title](https://cdn.modrinth.com/data/XIpMGI6r/images/fddc777f0d28eea856016f0705de63050de8b0f0.png \"\")\n\n## ⛲️ Find gazebos in villages, hosting small spell libraries.\n\n[![Modloader](https://img.shields.io/badge/Loader-Fabric-ecebe6?labelColor=263768&style=for-the-badge)](https://fabricmc.net)\n[![Discord](https://img.shields.io/discord/973561601519149057.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/KN9b3pjFTM)\n\n## ✨ Discover more of the RPG Series\n\n[![Archers](https://cdn.modrinth.com/data/XIpMGI6r/images/cd19a95a79f1157b33f31818aa615a280b206912.png \"Archers\")](https://modrinth.com/mod/archers \"\")\n[![Paladins](https://cdn.modrinth.com/data/XIpMGI6r/images/3f19359bfd7521ba17bec818f125e87e09ef277e.png \"Paladins\")](https://modrinth.com/mod/paladins-and-priests \"\")\n[![Wizards](https://cdn.modrinth.com/data/XIpMGI6r/images/a7da965aa108daf95c10448c01423be49ce2338d.png \"Wizards\")](https://modrinth.com/mod/wizards \"\")\n[![Jewelry](https://cdn.modrinth.com/data/XIpMGI6r/images/747102d582732b8defa50a2c925c7d5a6f87d009.png \"Jewelry\")](https://modrinth.com/mod/jewelry \"\")\n[![Rogues](https://cdn.modrinth.com/data/XIpMGI6r/images/278d8c941af6dc763cf714b9f36f8b8366a60eb9.png \"Rogues\")](https://modrinth.com/mod/rogues-and-warriors \"\")\n[![Relics](https://cdn.modrinth.com/data/XIpMGI6r/images/a62c4eb9400d2ee8349078125ba0ab8b22c4424e.png)](https://modrinth.com/mod/relics-rpg \"Relics\")\n[![Arsenal](https://cdn.modrinth.com/data/XIpMGI6r/images/59a1006dfd980ddb35b96cfd86d7c367dcde2a2b.png)](https://modrinth.com/mod/arsenal-rpg-series \"Arsenal\")\n[![Death Knights](https://cdn.modrinth.com/data/XIpMGI6r/images/cf9db2db218180f7f2c8c1d6a34aa4e8db955fae.png)](https://modrinth.com/mod/death-knights \"Death Knights\") \n\n# 📦 Installation\n\n### Required\n\n- [Spell Engine](https://modrinth.com/mod/spell-engine \"\")\n \n\n# ⛲️ Features\n \nAdds new structures into villages, containing Spell Binding Table, so you may find a faster way to obtain Spell Books.\n\nGazebos commonly spawn in villages, this can be configured in `config/gazebo/villages.json`.\n\nGazebo variants:\n\n- Desert\n\n- Plains\n\n- Savanna\n\n- Snowy\n\n- Taiga\n\n\n![Gazebo variants](https://cdn.modrinth.com/data/XIpMGI6r/images/7f2bfa1fa65bc88a886a48c791ad92d9bdf735ef.jpeg \"\")",
 		"name": "Gazebos (RPG Series)",
 		"package_maintainers": [
 			"mcvm"
@@ -119,7 +159,9 @@
 	},
 	"properties": {
 		"content_versions": [
-			"1.1.3-1.20.1",
+			"2.0.3-1.21.1",
+			"2.0.2-1.21.1",
+			"2.0.0-1.21.1",
 			"1.1.1-1.20.1",
 			"1.1.0-1.20.1",
 			"1.0.2-1.20.1",
@@ -136,7 +178,9 @@
 		],
 		"supported_versions": [
 			"1.19.2",
-			"1.20.1"
+			"1.20.1",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

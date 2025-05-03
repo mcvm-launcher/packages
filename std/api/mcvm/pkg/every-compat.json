@@ -4,6 +4,3021 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21-2.10.4-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib",
+						"recommendations": [
+							{
+								"value": "builders-crafts-and-additions"
+							},
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "functional-storage"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "mosaic-carpentry"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/XAhiwQDv/everycomp-1.21-2.10.4-neoforge.jar",
+					"version": "XAhiwQDv"
+				},
+				{
+					"content_versions": "1.21-2.10.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/iFxCqSdM/everycomp-1.21-2.10.4-fabric.jar",
+					"version": "iFxCqSdM"
+				},
+				{
+					"content_versions": "1.20-2.7.30",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/1hl3pYXe/everycomp-1.20-2.7.30-fabric.jar",
+					"version": "1hl3pYXe"
+				},
+				{
+					"content_versions": "1.20-2.7.30",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/hRPDg3uv/everycomp-1.20-2.7.30-forge.jar",
+					"version": "hRPDg3uv"
+				},
+				{
+					"content_versions": "1.21-2.10.3-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib",
+						"recommendations": [
+							{
+								"value": "builders-crafts-and-additions"
+							},
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "functional-storage"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "mosaic-carpentry"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ObmM7T08/everycomp-1.21-2.10.3-neoforge.jar",
+					"version": "ObmM7T08"
+				},
+				{
+					"content_versions": "1.21-2.10.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/kSiTxa68/everycomp-1.21-2.10.3-fabric.jar",
+					"version": "kSiTxa68"
+				},
+				{
+					"content_versions": "1.20-2.7.29",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zvG13JvM/everycomp-1.20-2.7.29-fabric.jar",
+					"version": "zvG13JvM"
+				},
+				{
+					"content_versions": "1.20-2.7.29",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/1AgqMBxi/everycomp-1.20-2.7.29-forge.jar",
+					"version": "1AgqMBxi"
+				},
+				{
+					"content_versions": "1.20-2.7.28",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/xyEEoj0Y/everycomp-1.20-2.7.28-fabric.jar",
+					"version": "xyEEoj0Y"
+				},
+				{
+					"content_versions": "1.20-2.7.28",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/QTkFXKTQ/everycomp-1.20-2.7.28-forge.jar",
+					"version": "QTkFXKTQ"
+				},
+				{
+					"content_versions": "1.20-2.7.27",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/GdCpkM6q/everycomp-1.20-2.7.27-fabric.jar",
+					"version": "GdCpkM6q"
+				},
+				{
+					"content_versions": "1.20-2.7.27",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/CDU7wUzi/everycomp-1.20-2.7.27-forge.jar",
+					"version": "CDU7wUzi"
+				},
+				{
+					"content_versions": "1.21-2.10.2-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib",
+						"recommendations": [
+							{
+								"value": "builders-crafts-and-additions"
+							},
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "functional-storage"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "mosaic-carpentry"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/FDiApwT7/everycomp-1.21-2.10.2-neoforge.jar",
+					"version": "FDiApwT7"
+				},
+				{
+					"content_versions": "1.21-2.10.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/G8Ytbmk1/everycomp-1.21-2.10.2-fabric.jar",
+					"version": "G8Ytbmk1"
+				},
+				{
+					"content_versions": "1.21-2.10.1-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib",
+						"recommendations": [
+							{
+								"value": "builders-crafts-and-additions"
+							},
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "functional-storage"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "mosaic-carpentry"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/AKpMdSg4/everycomp-1.21-2.10.1-neoforge.jar",
+					"version": "AKpMdSg4"
+				},
+				{
+					"content_versions": "1.21-2.10.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/E4gk71GI/everycomp-1.21-2.10.1-fabric.jar",
+					"version": "E4gk71GI"
+				},
+				{
+					"content_versions": "1.21-2.10.0-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib",
+						"recommendations": [
+							{
+								"value": "builders-crafts-and-additions"
+							},
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "functional-storage"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "mosaic-carpentry"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/m7cxs5d8/everycomp-1.21-2.10.0-neoforge.jar",
+					"version": "m7cxs5d8"
+				},
+				{
+					"content_versions": "1.21-2.10.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						],
+						"recommendations": [
+							{
+								"value": "create"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "farmers-delight"
+							},
+							{
+								"value": "friends-and-foes"
+							},
+							{
+								"value": "infinity-buttons"
+							},
+							{
+								"value": "macaws-paths-and-pavings"
+							},
+							{
+								"value": "missing-wilds"
+							},
+							{
+								"value": "more-crafting-tables"
+							},
+							{
+								"value": "quark"
+							},
+							{
+								"value": "twigs"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/8t5nTN3U/everycomp-1.21-2.10.0-fabric.jar",
+					"version": "8t5nTN3U"
+				},
+				{
+					"content_versions": "1.18.2-1.6.20",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/kP7dyuvZ/everycomp-1.18.2-1.6.20.jar",
+					"version": "kP7dyuvZ"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.10",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OA1qCzkH/everycomp-1.21-2.9.10-neoforge.jar",
+					"version": "OA1qCzkH"
+				},
+				{
+					"content_versions": "_1.21-2.9.10",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4ce2ZEWG/everycomp-1.21-2.9.10-fabric.jar",
+					"version": "4ce2ZEWG"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9JCwqsF9/everycomp-1.21-2.9.9-neoforge.jar",
+					"version": "9JCwqsF9"
+				},
+				{
+					"content_versions": "_1.21-2.9.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ETVfpwdq/everycomp-1.21-2.9.9-fabric.jar",
+					"version": "ETVfpwdq"
+				},
+				{
+					"content_versions": "1.20-2.7.26",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/EtvyKvrX/everycomp-1.20-2.7.26-fabric.jar",
+					"version": "EtvyKvrX"
+				},
+				{
+					"content_versions": "1.20-2.7.26",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dJ37ojMJ/everycomp-1.20-2.7.26.jar",
+					"version": "dJ37ojMJ"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/UhQXx3QJ/everycomp-1.21-2.9.8-neoforge.jar",
+					"version": "UhQXx3QJ"
+				},
+				{
+					"content_versions": "_1.21-2.9.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OpYDbqEp/everycomp-1.21-2.9.8-fabric.jar",
+					"version": "OpYDbqEp"
+				},
+				{
+					"content_versions": "1.20-2.7.25",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9TXJwBTz/everycomp-1.20-2.7.25-fabric.jar",
+					"version": "9TXJwBTz"
+				},
+				{
+					"content_versions": "1.20-2.7.25",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/oWzh5JwT/everycomp-1.20-2.7.25.jar",
+					"version": "oWzh5JwT"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/RQW0SkWr/everycomp-1.21-2.9.7-neoforge.jar",
+					"version": "RQW0SkWr"
+				},
+				{
+					"content_versions": "_1.21-2.9.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/2mR0mmoo/everycomp-1.21-2.9.7-fabric.jar",
+					"version": "2mR0mmoo"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/lenHbtLC/everycomp-1.21-2.9.6-neoforge.jar",
+					"version": "lenHbtLC"
+				},
+				{
+					"content_versions": "_1.21-2.9.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/BRNzJ4De/everycomp-1.21-2.9.6-fabric.jar",
+					"version": "BRNzJ4De"
+				},
+				{
+					"content_versions": "1.20-2.7.24",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wDpe7Rpe/everycomp-1.20-2.7.24-fabric.jar",
+					"version": "wDpe7Rpe"
+				},
+				{
+					"content_versions": "1.20-2.7.24",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/sArTVuvC/everycomp-1.20-2.7.24.jar",
+					"version": "sArTVuvC"
+				},
+				{
+					"content_versions": "1.20-2.7.23",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/PW9leTdV/everycomp-1.20-2.7.23-fabric.jar",
+					"version": "PW9leTdV"
+				},
+				{
+					"content_versions": "1.20-2.7.23",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pRVu4a0I/everycomp-1.20-2.7.23.jar",
+					"version": "pRVu4a0I"
+				},
+				{
+					"content_versions": "1.20-2.7.22",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/EvwN2rAy/everycomp-1.20-2.7.22-fabric.jar",
+					"version": "EvwN2rAy"
+				},
+				{
+					"content_versions": "1.20-2.7.22",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/RFhrvhFn/everycomp-1.20-2.7.22.jar",
+					"version": "RFhrvhFn"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/WYLmjQKt/everycomp-1.21-2.9.5-neoforge.jar",
+					"version": "WYLmjQKt"
+				},
+				{
+					"content_versions": "_1.21-2.9.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ioA9amD2/everycomp-1.21-2.9.5-fabric.jar",
+					"version": "ioA9amD2"
+				},
+				{
+					"content_versions": "1.20-2.7.21",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/rKRx3tgZ/everycomp-1.20-2.7.21-fabric.jar",
+					"version": "rKRx3tgZ"
+				},
+				{
+					"content_versions": "1.20-2.7.21",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4YixVNwo/everycomp-1.20-2.7.21.jar",
+					"version": "4YixVNwo"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/EgHgby9t/everycomp-1.21-2.9.4-neoforge.jar",
+					"version": "EgHgby9t"
+				},
+				{
+					"content_versions": "_1.21-2.9.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OOwLtOF5/everycomp-1.21-2.9.4-fabric.jar",
+					"version": "OOwLtOF5"
+				},
+				{
+					"content_versions": "1.20-2.7.20",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/KRUbrQJs/everycomp-1.20-2.7.20-fabric.jar",
+					"version": "KRUbrQJs"
+				},
+				{
+					"content_versions": "1.20-2.7.20",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/S7aojE4X/everycomp-1.20-2.7.20.jar",
+					"version": "S7aojE4X"
+				},
+				{
+					"content_versions": "1.19.2-2.5.33",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/m3fbAaxV/everycomp-1.19.2-2.5.33-fabric.jar",
+					"version": "m3fbAaxV"
+				},
+				{
+					"content_versions": "1.19.2-2.5.33",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/G7VdrUZd/everycomp-1.19.2-2.5.33.jar",
+					"version": "G7VdrUZd"
+				},
+				{
+					"content_versions": "1.20-2.7.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/MLaMHTqJ/everycomp-1.20-2.7.19-fabric.jar",
+					"version": "MLaMHTqJ"
+				},
+				{
+					"content_versions": "1.20-2.7.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/13ikcRzG/everycomp-1.20-2.7.19.jar",
+					"version": "13ikcRzG"
+				},
+				{
+					"content_versions": "1.20-2.7.18",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/R7eYBpWw/everycomp-1.20-2.7.18-fabric.jar",
+					"version": "R7eYBpWw"
+				},
+				{
+					"content_versions": "1.20-2.7.18",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/F0T76RLh/everycomp-1.20-2.7.18.jar",
+					"version": "F0T76RLh"
+				},
+				{
+					"content_versions": "1.19.2-2.5.32",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/O89qVnL5/everycomp-1.19.2-2.5.32-fabric.jar",
+					"version": "O89qVnL5"
+				},
+				{
+					"content_versions": "1.19.2-2.5.32",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/rh5QVsAC/everycomp-1.19.2-2.5.32.jar",
+					"version": "rh5QVsAC"
+				},
+				{
+					"content_versions": "1.20-2.7.17",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/gyg7v7zM/everycomp-1.20-2.7.17-fabric.jar",
+					"version": "gyg7v7zM"
+				},
+				{
+					"content_versions": "1.20-2.7.17",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/sH4JvoHs/everycomp-1.20-2.7.17.jar",
+					"version": "sH4JvoHs"
+				},
+				{
+					"content_versions": "1.20-2.7.16",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/12zLBWAQ/everycomp-1.20-2.7.16-fabric.jar",
+					"version": "12zLBWAQ"
+				},
+				{
+					"content_versions": "1.20-2.7.16",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zsMAds1b/everycomp-1.20-2.7.16.jar",
+					"version": "zsMAds1b"
+				},
+				{
+					"content_versions": "1.20-2.7.15",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9zhikaZ0/everycomp-1.20-2.7.15-fabric.jar",
+					"version": "9zhikaZ0"
+				},
+				{
+					"content_versions": "1.20-2.7.15",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/YaqFV329/everycomp-1.20-2.7.15.jar",
+					"version": "YaqFV329"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9HVQbO9R/everycomp-1.21-2.9.3-neoforge.jar",
+					"version": "9HVQbO9R"
+				},
+				{
+					"content_versions": "_1.21-2.9.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/k2bQcxK8/everycomp-1.21-2.9.3-fabric.jar",
+					"version": "k2bQcxK8"
+				},
+				{
+					"content_versions": "1.20-2.7.14",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/WlYM6HDN/everycomp-1.20-2.7.14.jar",
+					"version": "WlYM6HDN"
+				},
+				{
+					"content_versions": "1.20-2.7.14",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9RcUvAEY/everycomp-1.20-2.7.14-fabric.jar",
+					"version": "9RcUvAEY"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/axPGwxK5/everycomp-1.21-2.9.2-neoforge.jar",
+					"version": "axPGwxK5"
+				},
+				{
+					"content_versions": "_1.21-2.9.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/xuRWo2WY/everycomp-1.21-2.9.2-fabric.jar",
+					"version": "xuRWo2WY"
+				},
+				{
+					"content_versions": "_1.21-2.9.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/1bw1bGHC/everycomp-1.21-2.9.1-fabric.jar",
+					"version": "1bw1bGHC"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/TlbUwAGV/everycomp-1.21-2.9.1-neoforge.jar",
+					"version": "TlbUwAGV"
+				},
+				{
+					"content_versions": "1.20-2.7.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/lpaCplcP/everycomp-1.20-2.7.13-fabric.jar",
+					"version": "lpaCplcP"
+				},
+				{
+					"content_versions": "1.20-2.7.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Y1uuaHzo/everycomp-1.20-2.7.13.jar",
+					"version": "Y1uuaHzo"
+				},
+				{
+					"content_versions": "neo_1.21-2.9.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Oo4l6QKT/everycomp-1.21-2.9.0-neoforge.jar",
+					"version": "Oo4l6QKT"
+				},
+				{
+					"content_versions": "_1.21-2.9.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4QnXxoRZ/everycomp-1.21-2.9.0-fabric.jar",
+					"version": "4QnXxoRZ"
+				},
+				{
+					"content_versions": "1.20-2.7.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/fJRRPDux/everycomp-1.20-2.7.12.jar",
+					"version": "fJRRPDux"
+				},
+				{
+					"content_versions": "1.20-2.7.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zdHKHsCQ/everycomp-1.20-2.7.12-fabric.jar",
+					"version": "zdHKHsCQ"
+				},
+				{
+					"content_versions": "1.20-2.7.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ZA2CniBw/everycomp-1.20-2.7.12-fabric.jar",
+					"version": "ZA2CniBw"
+				},
+				{
+					"content_versions": "1.20-2.7.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/atv3A4RT/everycomp-1.20-2.7.12.jar",
+					"version": "atv3A4RT"
+				},
+				{
+					"content_versions": "1.20-2.7.11",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/luybhneG/everycomp-1.20-2.7.11-fabric.jar",
+					"version": "luybhneG"
+				},
+				{
+					"content_versions": "1.20-2.7.11",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/u957tgRd/everycomp-1.20-2.7.11.jar",
+					"version": "u957tgRd"
+				},
+				{
+					"content_versions": "neo_1.21-2.8.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ETV1SzfB/everycomp-1.21-2.8.5-neoforge.jar",
+					"version": "ETV1SzfB"
+				},
+				{
+					"content_versions": "_1.21-2.8.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/prJ9spxW/everycomp-1.21-2.8.5-fabric.jar",
+					"version": "prJ9spxW"
+				},
+				{
+					"content_versions": "1.18.2-1.6.19",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pcmts5Mg/everycomp-1.18.2-1.6.19.jar",
+					"version": "pcmts5Mg"
+				},
+				{
+					"content_versions": "1.18.2-1.6.18",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/J5e2M2ee/everycomp-1.18.2-1.6.18.jar",
+					"version": "J5e2M2ee"
+				},
+				{
+					"content_versions": "1.20-2.7.10",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dg5PGOp5/everycomp-1.20-2.7.10-fabric.jar",
+					"version": "dg5PGOp5"
+				},
+				{
+					"content_versions": "1.20-2.7.10",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/HjyHAjoV/everycomp-1.20-2.7.10.jar",
+					"version": "HjyHAjoV"
+				},
+				{
+					"content_versions": "1.20-2.7.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Tihfu5nd/everycomp-1.20-2.7.9-fabric.jar",
+					"version": "Tihfu5nd"
+				},
+				{
+					"content_versions": "1.20-2.7.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dNlLFbI3/everycomp-1.20-2.7.9.jar",
+					"version": "dNlLFbI3"
+				},
+				{
+					"content_versions": "neo_1.21-2.8.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/KhGzGnz3/everycomp-1.21-2.8.4-neoforge.jar",
+					"version": "KhGzGnz3"
+				},
+				{
+					"content_versions": "_1.21-2.8.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NT0IdLCd/everycomp-1.21-2.8.4-fabric.jar",
+					"version": "NT0IdLCd"
+				},
+				{
+					"content_versions": "neo_1.21-2.8.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9sxJ1jhg/everycomp-1.21-2.8.3-neoforge.jar",
+					"version": "9sxJ1jhg"
+				},
+				{
+					"content_versions": "_1.21-2.8.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/vuEdVbrU/everycomp-1.21-2.8.3-fabric.jar",
+					"version": "vuEdVbrU"
+				},
+				{
+					"content_versions": "1.20-2.7.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/7VAp8ErR/everycomp-1.20-2.7.8-fabric.jar",
+					"version": "7VAp8ErR"
+				},
+				{
+					"content_versions": "1.20-2.7.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/vHtC7vVN/everycomp-1.20-2.7.8.jar",
+					"version": "vHtC7vVN"
+				},
+				{
+					"content_versions": "1.20-2.7.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zfXoMmXn/everycomp-1.20-2.7.7-fabric.jar",
+					"version": "zfXoMmXn"
+				},
+				{
+					"content_versions": "1.20-2.7.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/gVHpeRHM/everycomp-1.20-2.7.7.jar",
+					"version": "gVHpeRHM"
+				},
+				{
+					"content_versions": "1.20-2.7.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/mJY2qVp8/everycomp-1.20-2.7.6-fabric.jar",
+					"version": "mJY2qVp8"
+				},
+				{
+					"content_versions": "1.20-2.7.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/yKu4btng/everycomp-1.20-2.7.6.jar",
+					"version": "yKu4btng"
+				},
+				{
+					"content_versions": "neo_1.21-2.8.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/v9Ttfm7R/everycomp-1.21-2.8.2-neoforge.jar",
+					"version": "v9Ttfm7R"
+				},
+				{
+					"content_versions": "_1.21-2.8.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/njHlGV5J/everycomp-1.21-2.8.2-fabric.jar",
+					"version": "njHlGV5J"
+				},
+				{
+					"content_versions": "1.20-2.7.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/sqIWhXha/everycomp-1.20-2.7.5-fabric.jar",
+					"version": "sqIWhXha"
+				},
+				{
+					"content_versions": "1.20-2.7.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/RqqETNJf/everycomp-1.20-2.7.5.jar",
+					"version": "RqqETNJf"
+				},
+				{
+					"content_versions": "1.20-2.7.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/iYZz7y5s/everycomp-1.20-2.7.4-fabric.jar",
+					"version": "iYZz7y5s"
+				},
+				{
+					"content_versions": "1.20-2.7.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4EJ8Sr5w/everycomp-1.20-2.7.4.jar",
+					"version": "4EJ8Sr5w"
+				},
+				{
+					"content_versions": "neo_1.21-2.8.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/MoJlf2Vk/everycomp-1.21-2.8.1-neoforge.jar",
+					"version": "MoJlf2Vk"
+				},
+				{
+					"content_versions": "_1.21-2.8.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NipWx7Lh/everycomp-1.21-2.8.1-fabric.jar",
+					"version": "NipWx7Lh"
+				},
+				{
+					"content_versions": "neo_1.21-2.8.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pLoAKVhz/everycomp-1.21-2.8.0-neoforge.jar",
+					"version": "pLoAKVhz"
+				},
+				{
+					"content_versions": "_1.21-2.8.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/msvLBj5E/everycomp-1.21-2.8.0-fabric.jar",
+					"version": "msvLBj5E"
+				},
+				{
+					"content_versions": "1.19.2-2.5.31",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/XF0zzhPP/everycomp-1.19.2-2.5.31-fabric.jar",
+					"version": "XF0zzhPP"
+				},
+				{
+					"content_versions": "1.19.2-2.5.31",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/A9ivuChp/everycomp-1.19.2-2.5.31.jar",
+					"version": "A9ivuChp"
+				},
+				{
+					"content_versions": "1.20-2.7.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/uKkaEZXj/everycomp-1.20-2.7.3.jar",
+					"version": "uKkaEZXj"
+				},
+				{
+					"content_versions": "1.20-2.7.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/17suT5Mp/everycomp-1.20-2.7.3-fabric.jar",
+					"version": "17suT5Mp"
+				},
+				{
+					"content_versions": "1.20-2.7.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/1nCN6xew/everycomp-1.20-2.7.2-fabric.jar",
+					"version": "1nCN6xew"
+				},
+				{
+					"content_versions": "1.20-2.7.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/lH8e2h2y/everycomp-1.20-2.7.2.jar",
+					"version": "lH8e2h2y"
+				},
+				{
+					"content_versions": "1.19.2-2.5.30",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/AZzNispE/everycomp-1.19.2-2.5.30-fabric.jar",
+					"version": "AZzNispE"
+				},
+				{
+					"content_versions": "1.19.2-2.5.30",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/O3Sg4AXf/everycomp-1.19.2-2.5.30.jar",
+					"version": "O3Sg4AXf"
+				},
+				{
+					"content_versions": "1.20-2.7.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/3lPHBJY4/everycomp-1.20-2.7.1-fabric.jar",
+					"version": "3lPHBJY4"
+				},
+				{
+					"content_versions": "1.20-2.7.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/DUqkTSbc/everycomp-1.20-2.7.1.jar",
+					"version": "DUqkTSbc"
+				},
+				{
+					"content_versions": "1.20-2.7.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/FUWtFK4j/everycomp-1.20-2.7.0-fabric.jar",
+					"version": "FUWtFK4j"
+				},
+				{
+					"content_versions": "1.20-2.7.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/MDDTHg6L/everycomp-1.20-2.7.0.jar",
+					"version": "MDDTHg6L"
+				},
+				{
+					"content_versions": "neo_1.21-2.7.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/me5YtblJ/everycomp-1.21-2.7.6-neoforge.jar",
+					"version": "me5YtblJ"
+				},
+				{
+					"content_versions": "_1.21-2.7.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/bZ3QgXIO/everycomp-1.21-2.7.6-fabric.jar",
+					"version": "bZ3QgXIO"
+				},
+				{
+					"content_versions": "1.20-2.6.94",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/iHLD17Me/everycomp-1.20-2.6.94-fabric.jar",
+					"version": "iHLD17Me"
+				},
+				{
+					"content_versions": "1.20-2.6.94",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/QvooAiDa/everycomp-1.20-2.6.94.jar",
+					"version": "QvooAiDa"
+				},
+				{
+					"content_versions": "1.20-2.6.93",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/EmFek31o/everycomp-1.20-2.6.93-fabric.jar",
+					"version": "EmFek31o"
+				},
+				{
+					"content_versions": "1.20-2.6.93",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/idWg27bl/everycomp-1.20-2.6.93.jar",
+					"version": "idWg27bl"
+				},
+				{
+					"content_versions": "neo_1.21-2.7.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pJ4ghpwb/everycomp-1.21-2.7.5-neoforge.jar",
+					"version": "pJ4ghpwb"
+				},
+				{
+					"content_versions": "_1.21-2.7.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dGFt3y2d/everycomp-1.21-2.7.5-fabric.jar",
+					"version": "dGFt3y2d"
+				},
+				{
+					"content_versions": "1.20-2.6.92",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/MLIs9orQ/everycomp-1.20-2.6.92-fabric.jar",
+					"version": "MLIs9orQ"
+				},
+				{
+					"content_versions": "1.20-2.6.92",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/MLP0LUjl/everycomp-1.20-2.6.92.jar",
+					"version": "MLP0LUjl"
+				},
+				{
+					"content_versions": "1.20-2.6.91",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/AtYgIVmS/everycomp-1.20-2.6.91-fabric.jar",
+					"version": "AtYgIVmS"
+				},
+				{
+					"content_versions": "1.20-2.6.91",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/sciBy2Y9/everycomp-1.20-2.6.91.jar",
+					"version": "sciBy2Y9"
+				},
+				{
+					"content_versions": "1.18.2-1.6.17",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/vAPTr1BS/everycomp-1.18.2-1.6.17.jar",
+					"version": "vAPTr1BS"
+				},
+				{
+					"content_versions": "neo_1.21-2.7.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/iYv97teh/everycomp-1.21-2.7.4-neoforge.jar",
+					"version": "iYv97teh"
+				},
+				{
+					"content_versions": "_1.21-2.7.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Vpuoe6Id/everycomp-1.21-2.7.4-fabric.jar",
+					"version": "Vpuoe6Id"
+				},
+				{
+					"content_versions": "1.20-2.6.90",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/robn2JQU/everycomp-1.20-2.6.90-fabric.jar",
+					"version": "robn2JQU"
+				},
+				{
+					"content_versions": "1.20-2.6.90",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wzutXfUE/everycomp-1.20-2.6.90.jar",
+					"version": "wzutXfUE"
+				},
+				{
+					"content_versions": "1.20-2.6.89",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/3g8Ld5Yc/everycomp-1.20-2.6.89-fabric.jar",
+					"version": "3g8Ld5Yc"
+				},
+				{
+					"content_versions": "1.20-2.6.89",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/s8iTaME2/everycomp-1.20-2.6.89.jar",
+					"version": "s8iTaME2"
+				},
+				{
+					"content_versions": "neo_1.21-2.7.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/H2xjDtQb/everycomp-1.21-2.7.3-neoforge.jar",
+					"version": "H2xjDtQb"
+				},
+				{
+					"content_versions": "_1.21-2.7.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/byZLs6Li/everycomp-1.21-2.7.3-fabric.jar",
+					"version": "byZLs6Li"
+				},
+				{
+					"content_versions": "1.20-2.6.88",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/YeMAq4Zh/everycomp-1.20-2.6.88-fabric.jar",
+					"version": "YeMAq4Zh"
+				},
+				{
+					"content_versions": "1.20-2.6.88",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/BS3Ioqqr/everycomp-1.20-2.6.88.jar",
+					"version": "BS3Ioqqr"
+				},
+				{
+					"content_versions": "neo_1.21-2.7.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ALf0fZU0/everycomp-1.21-2.7.2-neoforge.jar",
+					"version": "ALf0fZU0"
+				},
+				{
+					"content_versions": "_1.21-2.7.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/mS2wDeQp/everycomp-1.21-2.7.2-fabric.jar",
+					"version": "mS2wDeQp"
+				},
+				{
+					"content_versions": "neo_1.21-2.7.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/PLPS8oGv/everycomp-1.21-2.7.1-neoforge.jar",
+					"version": "PLPS8oGv"
+				},
+				{
+					"content_versions": "_1.21-2.7.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/tq9Qpsu4/everycomp-1.21-2.7.1-fabric.jar",
+					"version": "tq9Qpsu4"
+				},
+				{
+					"content_versions": "_1.21-2.7.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Jat6rj5t/everycomp-1.21-2.7.0-fabric.jar",
+					"version": "Jat6rj5t"
+				},
+				{
+					"content_versions": "neo_1.21-2.7.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/fQaRl4Yw/everycomp-1.21-2.7.0-neoforge.jar",
+					"version": "fQaRl4Yw"
+				},
+				{
+					"content_versions": "1.20-2.6.87",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/IKKkD7Pc/everycomp-1.20-2.6.87-fabric.jar",
+					"version": "IKKkD7Pc"
+				},
+				{
+					"content_versions": "1.20-2.6.87",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/PGmX4j9i/everycomp-1.20-2.6.87.jar",
+					"version": "PGmX4j9i"
+				},
+				{
+					"content_versions": "1.20-2.6.86",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/cso8qMUl/everycomp-1.20-2.6.86-fabric.jar",
+					"version": "cso8qMUl"
+				},
+				{
+					"content_versions": "1.20-2.6.86",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/rsp46K7G/everycomp-1.20-2.6.86.jar",
+					"version": "rsp46K7G"
+				},
+				{
+					"content_versions": "1.20-2.6.85",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/UQRJEwI4/everycomp-1.20-2.6.85-fabric.jar",
+					"version": "UQRJEwI4"
+				},
+				{
+					"content_versions": "1.20-2.6.85",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wQkYKezf/everycomp-1.20-2.6.85.jar",
+					"version": "wQkYKezf"
+				},
+				{
+					"content_versions": "1.19.2-2.5.29",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/HzYZnTFB/everycomp-1.19.2-2.5.29-fabric.jar",
+					"version": "HzYZnTFB"
+				},
+				{
+					"content_versions": "1.19.2-2.5.29",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/uS6QBaGL/everycomp-1.19.2-2.5.29.jar",
+					"version": "uS6QBaGL"
+				},
+				{
+					"content_versions": "1.20-2.6.84H",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/N9PNJLJp/everycomp-1.20-2.6.84H-fabric.jar",
+					"version": "N9PNJLJp"
+				},
+				{
+					"content_versions": "1.20-2.6.84H",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Jo99fieW/everycomp-1.20-2.6.84H.jar",
+					"version": "Jo99fieW"
+				},
+				{
+					"content_versions": "1.20-2.6.84",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/s2BuNwqr/everycomp-1.20-2.6.84-fabric.jar",
+					"version": "s2BuNwqr"
+				},
+				{
+					"content_versions": "1.20-2.6.84",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/CGyyawAQ/everycomp-1.20-2.6.84.jar",
+					"version": "CGyyawAQ"
+				},
+				{
+					"content_versions": "1.20-2.6.83",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/t5rla5Pg/everycomp-1.20-2.6.83-fabric.jar",
+					"version": "t5rla5Pg"
+				},
+				{
+					"content_versions": "1.20-2.6.83",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/D5fvLPgh/everycomp-1.20-2.6.83.jar",
+					"version": "D5fvLPgh"
+				},
+				{
+					"content_versions": "1.20-2.6.82",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/XOTsE93B/everycomp-1.20-2.6.82-fabric.jar",
+					"version": "XOTsE93B"
+				},
+				{
+					"content_versions": "1.20-2.6.82",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/UQJguVYQ/everycomp-1.20-2.6.82.jar",
+					"version": "UQJguVYQ"
+				},
+				{
+					"content_versions": "1.20-2.6.81",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/XzWttf5l/everycomp-1.20-2.6.81-fabric.jar",
+					"version": "XzWttf5l"
+				},
+				{
+					"content_versions": "1.20-2.6.81",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/g6spWsHE/everycomp-1.20-2.6.81.jar",
+					"version": "g6spWsHE"
+				},
+				{
+					"content_versions": "1.20-2.6.80",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/AzVyjKIT/everycomp-1.20-2.6.80-fabric.jar",
+					"version": "AzVyjKIT"
+				},
+				{
+					"content_versions": "1.20-2.6.80",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/M0idxuhi/everycomp-1.20-2.6.80.jar",
+					"version": "M0idxuhi"
+				},
+				{
+					"content_versions": "1.20-2.6.79",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/JhMZMEsH/everycomp-1.20-2.6.79.jar",
+					"version": "JhMZMEsH"
+				},
+				{
+					"content_versions": "1.20-2.6.79",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ZnXuWHBU/everycomp-1.20-2.6.79-fabric.jar",
+					"version": "ZnXuWHBU"
+				},
+				{
+					"content_versions": "1.20-2.6.78",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/YyJMAVp3/everycomp-1.20-2.6.78.jar",
+					"version": "YyJMAVp3"
+				},
+				{
+					"content_versions": "1.20-2.6.78",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/S2r8me4J/everycomp-1.20-2.6.78-fabric.jar",
+					"version": "S2r8me4J"
+				},
+				{
+					"content_versions": "1.20-2.6.77",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/JUHAPeFz/everycomp-1.20-2.6.77-fabric.jar",
+					"version": "JUHAPeFz"
+				},
+				{
+					"content_versions": "1.20-2.6.77",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/MrnBkTdY/everycomp-1.20-2.6.77.jar",
+					"version": "MrnBkTdY"
+				},
+				{
+					"content_versions": "1.19.2-2.5.28",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/gq59syP7/everycomp-1.19.2-2.5.28.jar",
+					"version": "gq59syP7"
+				},
+				{
+					"content_versions": "1.19.2-2.5.28",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/1jDHIdov/everycomp-1.19.2-2.5.28-fabric.jar",
+					"version": "1jDHIdov"
+				},
+				{
+					"content_versions": "1.20-2.6.76",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/WZGJUdgD/everycomp-1.20-2.6.76-fabric.jar",
+					"version": "WZGJUdgD"
+				},
+				{
+					"content_versions": "1.20-2.6.76",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pizzA9f7/everycomp-1.20-2.6.76.jar",
+					"version": "pizzA9f7"
+				},
+				{
+					"content_versions": "1.19.2-2.5.27",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/C3DRd5Vc/everycomp-1.19.2-2.5.27.jar",
+					"version": "C3DRd5Vc"
+				},
+				{
+					"content_versions": "1.19.2-2.5.27",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/rfrmTWt8/everycomp-1.19.2-2.5.27-fabric.jar",
+					"version": "rfrmTWt8"
+				},
+				{
+					"content_versions": "1.20-2.6.75",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/lI2LpZGT/everycomp-1.20-2.6.75-fabric.jar",
+					"version": "lI2LpZGT"
+				},
+				{
+					"content_versions": "1.20-2.6.75",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ABoWmtwY/everycomp-1.20-2.6.75.jar",
+					"version": "ABoWmtwY"
+				},
+				{
+					"content_versions": "1.20-2.6.74",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/BRepSscU/everycomp-1.20-2.6.74-fabric.jar",
+					"version": "BRepSscU"
+				},
+				{
+					"content_versions": "1.20-2.6.74",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/7m6GJHkJ/everycomp-1.20-2.6.74.jar",
+					"version": "7m6GJHkJ"
+				},
+				{
+					"content_versions": "1.20-2.6.73",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zCxLLB45/everycomp-1.20-2.6.73-fabric.jar",
+					"version": "zCxLLB45"
+				},
+				{
+					"content_versions": "1.20-2.6.73",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dV2UygLD/everycomp-1.20-2.6.73.jar",
+					"version": "dV2UygLD"
+				},
+				{
+					"content_versions": "1.18.2-1.6.16",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/WccYxEpj/everycomp-1.18.2-1.6.16.jar",
+					"version": "WccYxEpj"
+				},
+				{
+					"content_versions": "1.18.2-1.6.15",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/cPzC69b3/everycomp-1.18.2-1.6.15.jar",
+					"version": "cPzC69b3"
+				},
+				{
+					"content_versions": "1.21-2.6.72",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/FA9p5nCM/everycomp-1.21-2.6.72-fabric.jar",
+					"version": "FA9p5nCM"
+				},
+				{
+					"content_versions": "1.21-2.6.72",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/7UFDB8hp/everycomp-1.21-2.6.72.jar",
+					"version": "7UFDB8hp"
+				},
+				{
+					"content_versions": "1.20-2.6.71",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/8KVGEGlH/everycomp-1.20-2.6.71-fabric.jar",
+					"version": "8KVGEGlH"
+				},
+				{
+					"content_versions": "1.20-2.6.71",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/h2rIfYsA/everycomp-1.20-2.6.71.jar",
+					"version": "h2rIfYsA"
+				},
+				{
+					"content_versions": "1.20-2.6.70",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/8WIQXgHC/everycomp-1.20-2.6.70.jar",
+					"version": "8WIQXgHC"
+				},
+				{
+					"content_versions": "1.20-2.6.70",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/PVeYHt1j/everycomp-1.20-2.6.70-fabric.jar",
+					"version": "PVeYHt1j"
+				},
+				{
+					"content_versions": "1.19.2-2.5.26",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ZsYx7YJO/everycomp-1.19.2-2.5.26.jar",
+					"version": "ZsYx7YJO"
+				},
+				{
+					"content_versions": "1.19.2-2.5.26",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/81H22PPi/everycomp-1.19.2-2.5.26-fabric.jar",
+					"version": "81H22PPi"
+				},
+				{
+					"content_versions": "1.20-2.6.69",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/W5WTStpp/everycomp-1.20-2.6.69-fabric.jar",
+					"version": "W5WTStpp"
+				},
+				{
+					"content_versions": "1.20-2.6.69",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4VChPEGH/everycomp-1.20-2.6.69.jar",
+					"version": "4VChPEGH"
+				},
+				{
+					"content_versions": "1.19.2-2.5.25",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/qVh0FxGm/everycomp-1.19.2-2.5.25.jar",
+					"version": "qVh0FxGm"
+				},
+				{
+					"content_versions": "1.19.2-2.5.25",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/eiktJyw1/versions/bz6jgXvN/everycomp-1.19.2-2.5.25-fabric.jar",
+					"version": "bz6jgXvN"
+				},
+				{
 					"content_versions": "1.20-2.6.68",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -3129,22 +6144,22 @@
 			"Plantkillable",
 			"xelbayria"
 		],
-		"banner": "https://cdn.modrinth.com/data/eiktJyw1/images/33c130efff7abb6769f17db37f70b4a15122e07f.png",
+		"banner": "https://cdn.modrinth.com/data/eiktJyw1/images/6153d1bc4c471335e59263274a5f5885de6491a6_350.webp",
 		"description": "Universal Wood Compat: Quark, Twilight Forest, Twigs, Another Furniture, Farmers Delight, Macaw's,  Valhelsia, Architects Palette, Deco Blocks, Crayfish FM",
 		"gallery": [
-			"https://cdn.modrinth.com/data/eiktJyw1/images/c163149241089c0504ebd5e9a559aa288824ad97.png",
-			"https://cdn.modrinth.com/data/eiktJyw1/images/33c130efff7abb6769f17db37f70b4a15122e07f.png",
-			"https://cdn.modrinth.com/data/eiktJyw1/images/39b6c612b203d167f73220f505fe1641e7f50680.png",
-			"https://cdn.modrinth.com/data/eiktJyw1/images/8ecc01212630117f2c5ebee0a0deac0d8935bf9a.png",
-			"https://cdn.modrinth.com/data/eiktJyw1/images/361e2d5f7b671b4d54118514e6f03d7d56d40ac3.png",
-			"https://cdn.modrinth.com/data/eiktJyw1/images/5e01f95dca9779cd43ea71673bc6701239e0c7ed.png",
-			"https://cdn.modrinth.com/data/eiktJyw1/images/df6a771aa1ec26b4b48245e3a424d1fa1b2184d4.png",
-			"https://cdn.modrinth.com/data/eiktJyw1/images/67811b7c3ad0deec14b4b0001098573c6ed6a4e1.png"
+			"https://cdn.modrinth.com/data/eiktJyw1/images/c163149241089c0504ebd5e9a559aa288824ad97_350.webp",
+			"https://cdn.modrinth.com/data/eiktJyw1/images/6153d1bc4c471335e59263274a5f5885de6491a6_350.webp",
+			"https://cdn.modrinth.com/data/eiktJyw1/images/39b6c612b203d167f73220f505fe1641e7f50680_350.webp",
+			"https://cdn.modrinth.com/data/eiktJyw1/images/8ecc01212630117f2c5ebee0a0deac0d8935bf9a_350.webp",
+			"https://cdn.modrinth.com/data/eiktJyw1/images/361e2d5f7b671b4d54118514e6f03d7d56d40ac3_350.webp",
+			"https://cdn.modrinth.com/data/eiktJyw1/images/5e01f95dca9779cd43ea71673bc6701239e0c7ed_350.webp",
+			"https://cdn.modrinth.com/data/eiktJyw1/images/df6a771aa1ec26b4b48245e3a424d1fa1b2184d4_350.webp",
+			"https://cdn.modrinth.com/data/eiktJyw1/images/67811b7c3ad0deec14b4b0001098573c6ed6a4e1_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/eiktJyw1/e6c88fba4670875b67f2a860beb64f52ffbfb46e.png",
+		"icon": "https://cdn.modrinth.com/data/eiktJyw1/393215399922d463680b679eacd27ea924b628a9_96.webp",
 		"issues": "https://github.com/MehVahdJukaar/WoodGoodissues",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "<center>\n\n## Every Compat: Wood Good\n<a href=\"https://discord.gg/qdKRTDf8Cv\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/790151253144895508?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Discord&\" alt=\"Supplementaries Discord\"></a> <a href=\"https://patreon.com/mehvahdjukaar\" rel=\"nofollow\"><img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=mehvahdjukaar&type=patrons&style=for-the-badge&label=&color=2d2d2d&labelColor=dddddd&\" alt=\"Support me on Patreon\"></a> <a href=\"https://www.twitter.com/Supplementariez\" rel=\"nofollow\"> <img src=\"https://img.shields.io/twitter/follow/Supplementariez?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Twitter&message=Twitter&\" alt=\"Supplementaries Twitter\"></a> <a href=\"https://www.youtube.com/channel/UCOaLLgwzOdbH6rCI7izCptw\" rel=\"nofollow\"> <img src=\"https://img.shields.io/youtube/channel/subscribers/UCOaLLgwzOdbH6rCI7izCptw?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Youtube&message=Twitter&logoColor=ff0000\" alt=\"Supplementaries Twitter\"></a>\n<hr>\n\n## 📖About 📖\n</center>\n\nTired of incomplete wood sets? Well you came to the right place!\n\nThis Mod serves as an addon to many popular mods and is meant to fill in the gaps by adding all the blocks that such mods add in all wood types currently installed.\n\nEvery block type added is available in ALL wood types.\n\nWith this mod you won't need extra compatibility addons and instead only rely on a single universal one! It's all automatic!\n\nAdditionally the mod will try to convert any block from other uninstalled compat mods into its equivalent ones.\n\n<center>\n\n## 🪑 Supported Blocks🪑\n</center>\n\n![Supported Mods Image](https://cdn.modrinth.com/data/cached_images/46dffe3f5006989c79974118b8cabf3558520c61.png)\n\n<center>LEGENDS:</center>\n\n- 1.18.2 - 🟫\n\n- 1.19.2 - 🟦\n\n- 1.20.1 - 🟩\n\n- Only available in FORGE or FABRIC or BOTH - ⬜\n\n- Not available - ❌\n\n<center>\n\n## ❓ F. A. Q. ❓\n</center>\n\nQ: How the heck does this work?\n> A: Magic.\n\nQ: Is this compatible with other compat mods?\n> A: Yes, I've included a list of many popular compat mods. The mod will do its best not to register stuff that's already in them when they are installed\n\nQ: I'm a mod author, could I use this mod to add support to my blocks?\n> A: Yes! The mod includes a very simple and easy to use API with which modders can register an entire block definition in only 10 lines! The mod will automatically generate all assets automatically\n\nQ: Can you add support for \"x\" wood type?\n> A: Go try the mod\n\nQ: A block type isnt supported, can I add it myself?\n> A: Not directly as registration cant be conditional and cant depend on config files. If you are a modder and know code you can make a pull request to the mod or use the EveryCompatAPI class directly in your mods (check their javadocs & mod modules for info)\n\n<center>\n\n## ❤️Support Me❤️\n</center>\n\n<p><span style=\"font-size:18px\">Modding is taking a lot of my time, so if you like what I do, and you would like to support me, you can do so here. If you do, you'll receive a custom Globe and or Statue just for you! This also applies if you purchase a server from Akliz using \"supplementaries\" code.</span></p>\n<center>\n\n<a href=\"https://ko-fi.com/mehvahdjukaar\"><br><img src=\"https://i.imgur.com/sroRu1I.png\" alt=\"Ko-Fi\" width=\"346\" height=\"68\"></a>\n</center>\n<br>Need a server? Check out Akliz, they have top brand servers just for modded minecraft.\nThey really have a cozy community with great support and the servers wonderfully<br>Use code \"supplementaries\" to get 20% off and also support me in the process!\n<br>\n\n<center>\n<br>\n\n[![Get 20% off the first month using code: Supplementaries](https://i.imgur.com/g5B76A8.png)](https://www.akliz.net/supplementaries)\n\n## 🦉 Our Mods🦉\n<a href=\"https://www.modrinth.com/mod/haunted-harvest\" rel=\"nofollow\"><img src=\"https://i.imgur.com/t1mYf6a.gif\" alt=\"Haunted Harvest\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/snowy-spirit\" rel=\"nofollow\"><img src=\"https://i.imgur.com/f1NuS3t.png\" alt=\"Snowy Spirit\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/labels\" rel=\"nofollow\"><img src=\"https://i.imgur.com/OO7HTbn.png\" alt=\"Storage Labels\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/goated\" rel=\"nofollow\"><img src=\"https://i.imgur.com/rRcgB1P.png\" alt=\"Goated\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mystical-oak-tree\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Gys7BpM.gif\" alt=\"Mysyical Oak Tree\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/carpeted-stairs\" rel=\"nofollow\"><img src=\"https://i.imgur.com/KiuA6oe.png\" alt=\"Carpeted Stairs\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mmmmmmmmmmmm\" rel=\"nofollow\"><img src=\"https://i.imgur.com/eWNxaRZ.png\" alt=\"MmmMmmMmmMmm\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/moyai\" rel=\"nofollow\"><img src=\"https://i.imgur.com/G44hniG.png\" alt=\"Moyai\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/just-enough-effect-descriptions-jeed\" rel=\"nofollow\"><img src=\"https://i.imgur.com/vUw51oj.png\" alt=\"Jeed\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/better-lily-pads\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Bp2FNeY.png\" alt=\"Better Lily Pads\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/advancement-frames\" rel=\"nofollow\"><img src=\"https://i.imgur.com/9trFDsF.png\" alt=\"Advancement Frames\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/randomium-ore\" rel=\"nofollow\"><img src=\"https://i.imgur.com/0RGkl5V.png\" alt=\"Randomium\" width=\"125\" height=\"125\"> </a>\n</center>",
+		"long_description": "<center>\n\n## Every Compat: Wood Good\n<a href=\"https://discord.gg/qdKRTDf8Cv\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/790151253144895508?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Discord&\" alt=\"Supplementaries Discord\"></a> <a href=\"https://patreon.com/mehvahdjukaar\" rel=\"nofollow\"><img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=mehvahdjukaar&type=patrons&style=for-the-badge&label=&color=2d2d2d&labelColor=dddddd&\" alt=\"Support me on Patreon\"></a> <a href=\"https://www.twitter.com/Supplementariez\" rel=\"nofollow\"> <img src=\"https://img.shields.io/twitter/follow/Supplementariez?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Twitter&message=Twitter&\" alt=\"Supplementaries Twitter\"></a> <a href=\"https://www.youtube.com/channel/UCOaLLgwzOdbH6rCI7izCptw\" rel=\"nofollow\"> <img src=\"https://img.shields.io/youtube/channel/subscribers/UCOaLLgwzOdbH6rCI7izCptw?label=&color=2d2d2d&labelColor=dddddd&style=for-the-badge&logo=Youtube&message=Twitter&logoColor=ff0000\" alt=\"Supplementaries Twitter\"></a>\n<hr>\n\n## 📖About 📖\n</center>\n\nTired of incomplete wood sets? Well you came to the right place!\n\nThis Mod serves as an addon to many popular mods and is meant to fill in the gaps by adding all the blocks that such mods add in all wood types currently installed.\n\nEvery block type added is available in ALL wood types.\n\nWith this mod you won't need extra compatibility addons and instead only rely on a single universal one! It's all automatic!\n\nAdditionally the mod will try to convert any block from other uninstalled compat mods into its equivalent ones.\n\n<center>\n\n## 🪑 Supported Blocks🪑\n</center>\n\nLAsT UPDATE: March 12, 2025\n![List-Supported-Mods](https://cdn.modrinth.com/data/cached_images/af09f660ed154cc10f0775a0292362640a9451e1.png)\n\n<center>LEGENDS:</center>\n\n- 1.18.2 - 🟫\n- 1.19.2 - 🟦\n- 1.20.1 - 🟩\n- 1.21.1 - 🟨 \n- Only available in FORGE or FABRIC or BOTH - ⬜\n- Built-In - 🟢|🟡\n- Not available - ❌\n- Will it update to 1.21.1 or not - ❔\n\n<center>\n\n## ❓ F. A. Q. ❓\n</center>\n\nQ: How the heck does this work?\n> A: Magic.\n\nQ: Is this compatible with other compat mods?\n> A: Yes, I've included a list of many popular compat mods. The mod will do its best not to register stuff that's already in them when they are installed\n\nQ: I'm a mod author, could I use this mod to add support to my blocks?\n> A: Yes! The mod includes a very simple and easy to use API with which modders can register an entire block definition in only 10 lines! The mod will automatically generate all assets automatically\n\nQ: Can you add support for \"x\" wood type?\n> A: Go try the mod\n\nQ: A block type isnt supported, can I add it myself?\n> A: Not directly as registration cant be conditional and cant depend on config files. If you are a modder and know code you can make a pull request to the mod or use the EveryCompatAPI class directly in your mods (check their javadocs & mod modules for info)\n\n<center>\n\n## ❤️Support Me❤️\n</center>\n\n<p><span style=\"font-size:18px\">Modding is taking a lot of my time, so if you like what I do, and you would like to support me, you can do so here. If you do, you'll receive a custom Globe and or Statue just for you! This also applies if you purchase a server from Akliz using \"supplementaries\" code.</span></p>\n<center>\n\n<a href=\"https://ko-fi.com/mehvahdjukaar\"><br><img src=\"https://i.imgur.com/sroRu1I.png\" alt=\"Ko-Fi\" width=\"346\" height=\"68\"></a>\n</center>\n<br>Need a server? Check out Akliz, they have top brand servers just for modded minecraft.\nThey really have a cozy community with great support and the servers wonderfully<br>Use code \"supplementaries\" to get 20% off and also support me in the process!\n<br>\n\n<center>\n<br>\n\n[![Get 20% off the first month using code: Supplementaries](https://i.imgur.com/g5B76A8.png)](https://www.akliz.net/supplementaries)\n\n## 🦉 Our Mods🦉\n<a href=\"https://www.modrinth.com/mod/haunted-harvest\" rel=\"nofollow\"><img src=\"https://i.imgur.com/t1mYf6a.gif\" alt=\"Haunted Harvest\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/snowy-spirit\" rel=\"nofollow\"><img src=\"https://i.imgur.com/f1NuS3t.png\" alt=\"Snowy Spirit\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/labels\" rel=\"nofollow\"><img src=\"https://i.imgur.com/OO7HTbn.png\" alt=\"Storage Labels\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/goated\" rel=\"nofollow\"><img src=\"https://i.imgur.com/rRcgB1P.png\" alt=\"Goated\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mystical-oak-tree\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Gys7BpM.gif\" alt=\"Mysyical Oak Tree\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/carpeted-stairs\" rel=\"nofollow\"><img src=\"https://i.imgur.com/KiuA6oe.png\" alt=\"Carpeted Stairs\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/mmmmmmmmmmmm\" rel=\"nofollow\"><img src=\"https://i.imgur.com/eWNxaRZ.png\" alt=\"MmmMmmMmmMmm\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/moyai\" rel=\"nofollow\"><img src=\"https://i.imgur.com/G44hniG.png\" alt=\"Moyai\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/just-enough-effect-descriptions-jeed\" rel=\"nofollow\"><img src=\"https://i.imgur.com/vUw51oj.png\" alt=\"Jeed\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/better-lily-pads\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Bp2FNeY.png\" alt=\"Better Lily Pads\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/advancement-frames\" rel=\"nofollow\"><img src=\"https://i.imgur.com/9trFDsF.png\" alt=\"Advancement Frames\" width=\"125\" height=\"125\"></a>\n<a href=\"https://www.modrinth.com/mod/randomium-ore\" rel=\"nofollow\"><img src=\"https://i.imgur.com/0RGkl5V.png\" alt=\"Randomium\" width=\"125\" height=\"125\"> </a>\n</center>",
 		"name": "Every Compat (Wood Good)",
 		"package_maintainers": [
 			"mcvm"
@@ -3207,6 +6222,98 @@
 			"4",
 			"3",
 			"2",
+			"1.21-2.10.4",
+			"1.21-2.10.4-neo",
+			"1.21-2.10.3",
+			"1.21-2.10.3-neo",
+			"1.21-2.10.2",
+			"1.21-2.10.2-neo",
+			"1.21-2.10.1",
+			"1.21-2.10.1-neo",
+			"1.21-2.10.0",
+			"1.21-2.10.0-neo",
+			"_1.21-2.9.10",
+			"_1.21-2.9.9",
+			"_1.21-2.9.8",
+			"_1.21-2.9.7",
+			"_1.21-2.9.6",
+			"_1.21-2.9.5",
+			"_1.21-2.9.4",
+			"_1.21-2.9.3",
+			"_1.21-2.9.2",
+			"_1.21-2.9.1",
+			"_1.21-2.9.0",
+			"_1.21-2.8.5",
+			"_1.21-2.8.4",
+			"_1.21-2.8.3",
+			"_1.21-2.8.2",
+			"_1.21-2.8.1",
+			"_1.21-2.8.0",
+			"_1.21-2.7.6",
+			"_1.21-2.7.5",
+			"_1.21-2.7.4",
+			"_1.21-2.7.3",
+			"_1.21-2.7.2",
+			"_1.21-2.7.1",
+			"_1.21-2.7.0",
+			"1.21-2.6.72",
+			"1.20-2.7.30",
+			"1.20-2.7.29",
+			"1.20-2.7.28",
+			"1.20-2.7.27",
+			"1.20-2.7.26",
+			"1.20-2.7.25",
+			"1.20-2.7.24",
+			"1.20-2.7.23",
+			"1.20-2.7.22",
+			"1.20-2.7.21",
+			"1.20-2.7.20",
+			"1.20-2.7.19",
+			"1.20-2.7.18",
+			"1.20-2.7.17",
+			"1.20-2.7.16",
+			"1.20-2.7.15",
+			"1.20-2.7.14",
+			"1.20-2.7.13",
+			"1.20-2.7.12",
+			"1.20-2.7.11",
+			"1.20-2.7.10",
+			"1.20-2.7.9",
+			"1.20-2.7.8",
+			"1.20-2.7.7",
+			"1.20-2.7.6",
+			"1.20-2.7.5",
+			"1.20-2.7.4",
+			"1.20-2.7.3",
+			"1.20-2.7.2",
+			"1.20-2.7.1",
+			"1.20-2.7.0",
+			"1.20-2.6.94",
+			"1.20-2.6.93",
+			"1.20-2.6.92",
+			"1.20-2.6.91",
+			"1.20-2.6.90",
+			"1.20-2.6.89",
+			"1.20-2.6.88",
+			"1.20-2.6.87",
+			"1.20-2.6.86",
+			"1.20-2.6.85",
+			"1.20-2.6.84",
+			"1.20-2.6.84H",
+			"1.20-2.6.83",
+			"1.20-2.6.82",
+			"1.20-2.6.81",
+			"1.20-2.6.80",
+			"1.20-2.6.79",
+			"1.20-2.6.78",
+			"1.20-2.6.77",
+			"1.20-2.6.76",
+			"1.20-2.6.75",
+			"1.20-2.6.74",
+			"1.20-2.6.73",
+			"1.20-2.6.71",
+			"1.20-2.6.70",
+			"1.20-2.6.69",
 			"1.20-2.6.68",
 			"1.20-2.6.67",
 			"1.20-2.6.66",
@@ -3271,6 +6378,15 @@
 			"1.20-2.6.2",
 			"1.20-2.6.1",
 			"1.20-2.6.0",
+			"1.19.2-2.5.33",
+			"1.19.2-2.5.32",
+			"1.19.2-2.5.31",
+			"1.19.2-2.5.30",
+			"1.19.2-2.5.29",
+			"1.19.2-2.5.28",
+			"1.19.2-2.5.27",
+			"1.19.2-2.5.26",
+			"1.19.2-2.5.25",
 			"1.19.2-2.5.24",
 			"1.19.2-2.5.23",
 			"1.19.2-2.5.22",
@@ -3310,6 +6426,12 @@
 			"1.19.2-2.3.2",
 			"1.19.2-2.3.1",
 			"1.19.2-2.3.0",
+			"1.18.2-1.6.20",
+			"1.18.2-1.6.19",
+			"1.18.2-1.6.18",
+			"1.18.2-1.6.17",
+			"1.18.2-1.6.16",
+			"1.18.2-1.6.15",
 			"1.18.2-1.6.14",
 			"1.18.2-1.6.13",
 			"1.18.2-1.6.12",
@@ -3322,6 +6444,30 @@
 			"1.18.2-1.6.5",
 			"1.18.2-1.6.4",
 			"1.18.2-1.5.18",
+			"neo_1.21-2.9.10",
+			"neo_1.21-2.9.9",
+			"neo_1.21-2.9.8",
+			"neo_1.21-2.9.7",
+			"neo_1.21-2.9.6",
+			"neo_1.21-2.9.5",
+			"neo_1.21-2.9.4",
+			"neo_1.21-2.9.3",
+			"neo_1.21-2.9.2",
+			"neo_1.21-2.9.1",
+			"neo_1.21-2.9.0",
+			"neo_1.21-2.8.5",
+			"neo_1.21-2.8.4",
+			"neo_1.21-2.8.3",
+			"neo_1.21-2.8.2",
+			"neo_1.21-2.8.1",
+			"neo_1.21-2.8.0",
+			"neo_1.21-2.7.6",
+			"neo_1.21-2.7.5",
+			"neo_1.21-2.7.4",
+			"neo_1.21-2.7.3",
+			"neo_1.21-2.7.2",
+			"neo_1.21-2.7.1",
+			"neo_1.21-2.7.0",
 			"1",
 			"0"
 		],
@@ -3340,7 +6486,9 @@
 			"1.19",
 			"1.19.1",
 			"1.19.2",
-			"1.20.1"
+			"1.20.1",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

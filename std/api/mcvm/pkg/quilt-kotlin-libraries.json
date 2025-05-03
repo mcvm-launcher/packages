@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "5.0.0-kt.2.0.21-flk.1.12.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "quilt",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lwVhp9o5/versions/7dqvUqlm/quilt-kotlin-libraries-5.0.0%2Bkt.2.0.21%2Bflk.1.12.3.jar",
+					"version": "7dqvUqlm"
+				},
+				{
 					"content_versions": "4.0.0-kt.1.9.23-flk.1.10.19",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "quilt",
@@ -180,6 +188,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"5.0.0-kt.2.0.21-flk.1.12.3",
 			"4.0.0-kt.1.9.23-flk.1.10.19",
 			"3.0.0-kt.1.9.22-flk.1.10.17",
 			"2.1.3-kt.1.9.10-flk.1.10.10",
@@ -215,7 +224,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.2",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	},
 	"relations": {

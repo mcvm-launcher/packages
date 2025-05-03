@@ -4,6 +4,2374 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "-1.21.4-2.1.7",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/iY3P8boo/InventoryProfilesNext-fabric-1.21.4-2.1.7.jar",
+					"version": "iY3P8boo"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.7",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/OAlZeFda/InventoryProfilesNext-fabric-1.21-2.1.7.jar",
+					"version": "OAlZeFda"
+				},
+				{
+					"content_versions": "-1.21.5-2.1.7",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Zk6L6ZzY/InventoryProfilesNext-fabric-1.21.5-2.1.7.jar",
+					"version": "Zk6L6ZzY"
+				},
+				{
+					"content_versions": "neo-1.21.4-2.1.7",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/ODRHhfgV/InventoryProfilesNext-neoforge-1.21.4-2.1.7.jar",
+					"version": "ODRHhfgV"
+				},
+				{
+					"content_versions": "neo-1.21.5-2.1.7",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/m0qDyOWq/InventoryProfilesNext-neoforge-1.21.5-2.1.7.jar",
+					"version": "m0qDyOWq"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.1.7",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/2jCU7DW1/InventoryProfilesNext-neoforge-1.21-2.1.7.jar",
+					"version": "2jCU7DW1"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.7",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/TW0fwniH/InventoryProfilesNext-forge-1.21-2.1.7.jar",
+					"version": "TW0fwniH"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.7",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/tpWbN3bY/InventoryProfilesNext-forge-1.21.4-2.1.7.jar",
+					"version": "tpWbN3bY"
+				},
+				{
+					"content_versions": "-1.21.5-2.1.7",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/XZUYUStS/InventoryProfilesNext-forge-1.21.5-2.1.7.jar",
+					"version": "XZUYUStS"
+				},
+				{
+					"content_versions": "-1.21.5-2.1.6",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/lHy2BQ86/InventoryProfilesNext-fabric-1.21.5-2.1.6.jar",
+					"version": "lHy2BQ86"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.6",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/LXDzs4Mp/InventoryProfilesNext-fabric-1.21-2.1.6.jar",
+					"version": "LXDzs4Mp"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.1.6",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/WdSkSWrg/InventoryProfilesNext-neoforge-1.21-2.1.6.jar",
+					"version": "WdSkSWrg"
+				},
+				{
+					"content_versions": "neo-1.21.4-2.1.6",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/68DOpcCF/InventoryProfilesNext-neoforge-1.21.4-2.1.6.jar",
+					"version": "68DOpcCF"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.6",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/2Dy7uCS4/InventoryProfilesNext-forge-1.21-2.1.6.jar",
+					"version": "2Dy7uCS4"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.6",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/L7Du7SIH/InventoryProfilesNext-forge-1.21.4-2.1.6.jar",
+					"version": "L7Du7SIH"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.5",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Uaj7iwrn/InventoryProfilesNext-fabric-1.21.4-2.1.5.jar",
+					"version": "Uaj7iwrn"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.5",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/GTDsqJfy/InventoryProfilesNext-fabric-1.21.3-2.1.5.jar",
+					"version": "GTDsqJfy"
+				},
+				{
+					"content_versions": "-1.21.5-pre1-2.1.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/AElfOpkd/InventoryProfilesNext-fabric-1.21.5-2.1.5.jar",
+					"version": "AElfOpkd"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Dp7AXfAb/InventoryProfilesNext-fabric-1.21-2.1.5.jar",
+					"version": "Dp7AXfAb"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.1.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/JddJ5eWH/InventoryProfilesNext-neoforge-1.21-2.1.5.jar",
+					"version": "JddJ5eWH"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/KkaNl87d/InventoryProfilesNext-forge-1.21-2.1.5.jar",
+					"version": "KkaNl87d"
+				},
+				{
+					"content_versions": "neo-1.21.4-2.1.5",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/yeEqxBhH/InventoryProfilesNext-neoforge-1.21.4-2.1.5.jar",
+					"version": "yeEqxBhH"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.5",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/XR2GV8Y0/InventoryProfilesNext-forge-1.21.4-2.1.5.jar",
+					"version": "XR2GV8Y0"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.5",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/M9ujmAv5/InventoryProfilesNext-forge-1.21.3-2.1.5.jar",
+					"version": "M9ujmAv5"
+				},
+				{
+					"content_versions": "neo-1.21.3-2.1.5",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/hXDtBLN2/InventoryProfilesNext-neoforge-1.21.3-2.1.5.jar",
+					"version": "hXDtBLN2"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/8v1hic0R/InventoryProfilesNext-fabric-1.21-2.1.4.jar",
+					"version": "8v1hic0R"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/1YJfCeGi/InventoryProfilesNext-fabric-1.21.4-2.1.4.jar",
+					"version": "1YJfCeGi"
+				},
+				{
+					"content_versions": "-25w06a-2.1.4",
+					"minecraft_versions": [
+						"25w04a",
+						"25w05a",
+						"25w06a"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/bwGS1tK0/InventoryProfilesNext-fabric-1.21.5-2.1.4.jar",
+					"version": "bwGS1tK0"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.4",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/vYplbIJ8/InventoryProfilesNext-fabric-1.21.3-2.1.4.jar",
+					"version": "vYplbIJ8"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.1.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/KqeidU2A/InventoryProfilesNext-neoforge-1.21-2.1.4.jar",
+					"version": "KqeidU2A"
+				},
+				{
+					"content_versions": "neo-1.21.4-2.1.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/IRocgF7J/InventoryProfilesNext-neoforge-1.21.4-2.1.4.jar",
+					"version": "IRocgF7J"
+				},
+				{
+					"content_versions": "neo-1.21.3-2.1.4",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/GeoCyLYV/InventoryProfilesNext-neoforge-1.21.3-2.1.4.jar",
+					"version": "GeoCyLYV"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/uzuUSR6z/InventoryProfilesNext-forge-1.21-2.1.4.jar",
+					"version": "uzuUSR6z"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/pMO1ihjF/InventoryProfilesNext-forge-1.21.4-2.1.4.jar",
+					"version": "pMO1ihjF"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.4",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/PrsqVwgh/InventoryProfilesNext-forge-1.21.3-2.1.4.jar",
+					"version": "PrsqVwgh"
+				},
+				{
+					"content_versions": "-1.21.5-2.1.3",
+					"minecraft_versions": [
+						"25w04a",
+						"25w05a",
+						"25w06a"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/sny3YRfE/InventoryProfilesNext-fabric-1.21.5-2.1.3.jar",
+					"version": "sny3YRfE"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/MTtXmAkt/InventoryProfilesNext-fabric-1.21-2.1.3.jar",
+					"version": "MTtXmAkt"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/QAPrQPM0/InventoryProfilesNext-fabric-1.21.4-2.1.3.jar",
+					"version": "QAPrQPM0"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.1.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/TshZG28R/InventoryProfilesNext-neoforge-1.21-2.1.3.jar",
+					"version": "TshZG28R"
+				},
+				{
+					"content_versions": "neo-1.21.4-2.1.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/izF2ucPN/InventoryProfilesNext-neoforge-1.21.4-2.1.3.jar",
+					"version": "izF2ucPN"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Zo8s9JMB/InventoryProfilesNext-forge-1.21-2.1.3.jar",
+					"version": "Zo8s9JMB"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/cvTnqgha/InventoryProfilesNext-forge-1.21.4-2.1.3.jar",
+					"version": "cvTnqgha"
+				},
+				{
+					"content_versions": "-1.20.1-1.10.14",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/WiFQ8Cj2/InventoryProfilesNext-forge-1.20-1.10.14.jar",
+					"version": "WiFQ8Cj2"
+				},
+				{
+					"content_versions": "-1.18.2-1.10.14",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/ZngfLwFI/InventoryProfilesNext-forge-1.18.2-1.10.14.jar",
+					"version": "ZngfLwFI"
+				},
+				{
+					"content_versions": "-1.20.2-1.10.14",
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/O31vl9XP/InventoryProfilesNext-forge-1.20.2-1.10.14.jar",
+					"version": "O31vl9XP"
+				},
+				{
+					"content_versions": "-1.19.2-1.10.14",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/RtmC6iXa/InventoryProfilesNext-forge-1.19-1.10.14.jar",
+					"version": "RtmC6iXa"
+				},
+				{
+					"content_versions": "-1.20.1-1.10.12",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/zXog2n0B/InventoryProfilesNext-fabric-1.20-1.10.12.jar",
+					"version": "zXog2n0B"
+				},
+				{
+					"content_versions": "-1.20.3-1.10.12",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/FKJfl0RZ/InventoryProfilesNext-fabric-1.20.3-1.10.12.jar",
+					"version": "FKJfl0RZ"
+				},
+				{
+					"content_versions": "-1.20.2-1.10.12",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/bd6IwGHZ/InventoryProfilesNext-fabric-1.20.2-1.10.12.jar",
+					"version": "bd6IwGHZ"
+				},
+				{
+					"content_versions": "-1.18.2-1.10.12",
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/VCLr7By3/InventoryProfilesNext-fabric-1.18.2-1.10.12.jar",
+					"version": "VCLr7By3"
+				},
+				{
+					"content_versions": "-1.19.2-1.10.12",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/CtgWgitx/InventoryProfilesNext-fabric-1.19-1.10.12.jar",
+					"version": "CtgWgitx"
+				},
+				{
+					"content_versions": "-1.16.5-1.10.602",
+					"minecraft_versions": [
+						"1.16",
+						"1.16.1",
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/6iqWesEs/InventoryProfilesNext-fabric-1.16-1.10.602.jar",
+					"version": "6iqWesEs"
+				},
+				{
+					"content_versions": "-1.16.5-1.10.602",
+					"minecraft_versions": [
+						"1.16.2",
+						"1.16.3",
+						"1.16.4",
+						"1.16.5"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/IYslWat6/InventoryProfilesNext-forge-1.16-1.10.602.jar",
+					"version": "IYslWat6"
+				},
+				{
+					"content_versions": "neo-1.21.4-2.1.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/jjbHHRto/InventoryProfilesNext-neoforge-1.21.4-2.1.2.jar",
+					"version": "jjbHHRto"
+				},
+				{
+					"content_versions": "neo-1.21.3-2.1.2",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/NHCCaRjY/InventoryProfilesNext-neoforge-1.21.3-2.1.2.jar",
+					"version": "NHCCaRjY"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/MyZRum3X/InventoryProfilesNext-neoforge-1.21-2.1.2.jar",
+					"version": "MyZRum3X"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/nnZ68UAL/InventoryProfilesNext-forge-1.21.4-2.1.2.jar",
+					"version": "nnZ68UAL"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.2",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/jzg94jXD/InventoryProfilesNext-forge-1.21.3-2.1.2.jar",
+					"version": "jzg94jXD"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/t2DoiQYm/InventoryProfilesNext-forge-1.21-2.1.2.jar",
+					"version": "t2DoiQYm"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/3nCJ4sQf/InventoryProfilesNext-fabric-1.21.4-2.1.2.jar",
+					"version": "3nCJ4sQf"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.2",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/aMypVCvX/InventoryProfilesNext-fabric-1.21.3-2.1.2.jar",
+					"version": "aMypVCvX"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/ly5F3TZy/InventoryProfilesNext-fabric-1.21-2.1.2.jar",
+					"version": "ly5F3TZy"
+				},
+				{
+					"content_versions": "neo-1.21.4-2.1.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/ydnQYatg/InventoryProfilesNext-neoforge-1.21.4-2.1.1.jar",
+					"version": "ydnQYatg"
+				},
+				{
+					"content_versions": "neo-1.21.3-2.1.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/sWuL82kM/InventoryProfilesNext-neoforge-1.21.3-2.1.1.jar",
+					"version": "sWuL82kM"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/lRIC8fSd/InventoryProfilesNext-neoforge-1.21-2.1.1.jar",
+					"version": "lRIC8fSd"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/rA3LgHBn/InventoryProfilesNext-forge-1.21.4-2.1.1.jar",
+					"version": "rA3LgHBn"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/XNpds1Ck/InventoryProfilesNext-forge-1.21.3-2.1.1.jar",
+					"version": "XNpds1Ck"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/RbN3tZRd/InventoryProfilesNext-forge-1.21-2.1.1.jar",
+					"version": "RbN3tZRd"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/fHM4G4Gh/InventoryProfilesNext-fabric-1.21.4-2.1.1.jar",
+					"version": "fHM4G4Gh"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/cV9sOgGw/InventoryProfilesNext-fabric-1.21.3-2.1.1.jar",
+					"version": "cV9sOgGw"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/W5NHJJNi/InventoryProfilesNext-fabric-1.21-2.1.1.jar",
+					"version": "W5NHJJNi"
+				},
+				{
+					"content_versions": "-1.21.4-2.1.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/DZWe3JwS/InventoryProfilesNext-forge-1.21.4-2.1.0.jar",
+					"version": "DZWe3JwS"
+				},
+				{
+					"content_versions": "neo-1.21.4-2.1.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/fW2BOnT7/InventoryProfilesNext-neoforge-1.21.4-2.1.0.jar",
+					"version": "fW2BOnT7"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/g34oIg9D/InventoryProfilesNext-fabric-1.21.3-2.1.0.jar",
+					"version": "g34oIg9D"
+				},
+				{
+					"content_versions": "-1.21.4-pre1-2.1.0",
+					"minecraft_versions": [
+						"24w44a",
+						"24w45a",
+						"24w46a",
+						"1.21.4-pre1",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Yx5Y0vpH/InventoryProfilesNext-fabric-1.21.4-2.1.0.jar",
+					"version": "Yx5Y0vpH"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/5yXBG0Ls/InventoryProfilesNext-fabric-1.21-2.1.0.jar",
+					"version": "5yXBG0Ls"
+				},
+				{
+					"content_versions": "-1.21.1-2.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/LtsU5jgo/InventoryProfilesNext-forge-1.21-2.1.0.jar",
+					"version": "LtsU5jgo"
+				},
+				{
+					"content_versions": "-1.21.3-2.1.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/cN1PlXB8/InventoryProfilesNext-forge-1.21.3-2.1.0.jar",
+					"version": "cN1PlXB8"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/L10VCPXq/InventoryProfilesNext-neoforge-1.21-2.1.0.jar",
+					"version": "L10VCPXq"
+				},
+				{
+					"content_versions": "neo-1.21.3-2.1.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/40PXI0BH/InventoryProfilesNext-neoforge-1.21.3-2.1.0.jar",
+					"version": "40PXI0BH"
+				},
+				{
+					"content_versions": "-1.20.2-1.10.11",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Gm0zZqRT/InventoryProfilesNext-fabric-1.20.2-1.10.11.jar",
+					"version": "Gm0zZqRT"
+				},
+				{
+					"content_versions": "-1.20.3-1.10.11",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/hl9WWxaE/InventoryProfilesNext-fabric-1.20.3-1.10.11.jar",
+					"version": "hl9WWxaE"
+				},
+				{
+					"content_versions": "-1.20.1-1.10.11",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/RKCjPU1P/InventoryProfilesNext-fabric-1.20-1.10.11.jar",
+					"version": "RKCjPU1P"
+				},
+				{
+					"content_versions": "-1.18.2-1.10.11",
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/oZ4z8uEk/InventoryProfilesNext-fabric-1.18.2-1.10.11.jar",
+					"version": "oZ4z8uEk"
+				},
+				{
+					"content_versions": "-1.19.2-1.10.11",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/YpgI3gHS/InventoryProfilesNext-fabric-1.19-1.10.11.jar",
+					"version": "YpgI3gHS"
+				},
+				{
+					"content_versions": "-1.20.1-1.10.11",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/QfcHRM5H/InventoryProfilesNext-forge-1.20-1.10.11.jar",
+					"version": "QfcHRM5H"
+				},
+				{
+					"content_versions": "-1.20.2-1.10.11",
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/a2UTsA0z/InventoryProfilesNext-forge-1.20.2-1.10.11.jar",
+					"version": "a2UTsA0z"
+				},
+				{
+					"content_versions": "-1.18.2-1.10.11",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Czns6QRO/InventoryProfilesNext-forge-1.18.2-1.10.11.jar",
+					"version": "Czns6QRO"
+				},
+				{
+					"content_versions": "-1.19.2-1.10.11",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/ufcHoFLR/InventoryProfilesNext-forge-1.19-1.10.11.jar",
+					"version": "ufcHoFLR"
+				},
+				{
+					"content_versions": "-24w46a-2.0.10",
+					"minecraft_versions": [
+						"24w44a",
+						"24w45a",
+						"24w46a"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/ptZayac9/InventoryProfilesNext-fabric-1.21.4-2.0.10.jar",
+					"version": "ptZayac9"
+				},
+				{
+					"content_versions": "-1.21.3-2.0.10",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/lahu7pdh/InventoryProfilesNext-fabric-1.21.3-2.0.10.jar",
+					"version": "lahu7pdh"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.10",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/LwPA2UZy/InventoryProfilesNext-fabric-1.21-2.0.10.jar",
+					"version": "LwPA2UZy"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.0.10",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/OlpKTpUy/InventoryProfilesNext-neoforge-1.21-2.0.10.jar",
+					"version": "OlpKTpUy"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.10",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/8lHPGz8v/InventoryProfilesNext-forge-1.21-2.0.10.jar",
+					"version": "8lHPGz8v"
+				},
+				{
+					"content_versions": "neo-1.21.3-2.0.10",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/8pIRNYjm/InventoryProfilesNext-neoforge-1.21.3-2.0.10.jar",
+					"version": "8pIRNYjm"
+				},
+				{
+					"content_versions": "-1.21.3-2.0.10",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/oNiYV059/InventoryProfilesNext-forge-1.21.3-2.0.10.jar",
+					"version": "oNiYV059"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/xGtkV1Hg/InventoryProfilesNext-fabric-1.21-2.0.9.jar",
+					"version": "xGtkV1Hg"
+				},
+				{
+					"content_versions": "-1.21.3-2.0.9",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/ZTpxwIH0/InventoryProfilesNext-fabric-1.21.3-2.0.9.jar",
+					"version": "ZTpxwIH0"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.0.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/JAiErOxl/InventoryProfilesNext-neoforge-1.21-2.0.9.jar",
+					"version": "JAiErOxl"
+				},
+				{
+					"content_versions": "neo-1.21.3-2.0.9",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/PrWO3dYD/InventoryProfilesNext-neoforge-1.21.3-2.0.9.jar",
+					"version": "PrWO3dYD"
+				},
+				{
+					"content_versions": "-1.21.3-2.0.9",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/b16YuAoI/InventoryProfilesNext-forge-1.21.3-2.0.9.jar",
+					"version": "b16YuAoI"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.9",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/vkFXPkys/InventoryProfilesNext-forge-1.21-2.0.9.jar",
+					"version": "vkFXPkys"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/HMrLPBPx/InventoryProfilesNext-fabric-1.21-2.0.8.jar",
+					"version": "HMrLPBPx"
+				},
+				{
+					"content_versions": "-1.21.3-2.0.8",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/XwyFRDXe/InventoryProfilesNext-fabric-1.21.3-2.0.8.jar",
+					"version": "XwyFRDXe"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.0.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Gr8l68Ge/InventoryProfilesNext-neoforge-1.21-2.0.8.jar",
+					"version": "Gr8l68Ge"
+				},
+				{
+					"content_versions": "neo-1.21.3-2.0.8",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/O3QKzAOk/InventoryProfilesNext-neoforge-1.21.3-2.0.8.jar",
+					"version": "O3QKzAOk"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.8",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/FWyLsBAl/InventoryProfilesNext-forge-1.21-2.0.8.jar",
+					"version": "FWyLsBAl"
+				},
+				{
+					"content_versions": "-1.21.3-2.0.8",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Sv4JArNt/InventoryProfilesNext-forge-1.21.3-2.0.8.jar",
+					"version": "Sv4JArNt"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/qFe0DaUL/InventoryProfilesNext-fabric-1.21-2.0.7.jar",
+					"version": "qFe0DaUL"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.0.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/EyqKYIwR/InventoryProfilesNext-neoforge-1.21-2.0.7.jar",
+					"version": "EyqKYIwR"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.7",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/28FRcgVC/InventoryProfilesNext-forge-1.21-2.0.7.jar",
+					"version": "28FRcgVC"
+				},
+				{
+					"content_versions": "-1.20.2-1.10.11",
+					"minecraft_versions": "1.20.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/puOATsK9/InventoryProfilesNext-fabric-1.20.2-1.10.11.jar",
+					"version": "puOATsK9"
+				},
+				{
+					"content_versions": "-1.20.3-1.10.11",
+					"minecraft_versions": [
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/tTN2GO8m/InventoryProfilesNext-fabric-1.20.3-1.10.11.jar",
+					"version": "tTN2GO8m"
+				},
+				{
+					"content_versions": "-1.20.1-1.10.11",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/NZwFi1w1/InventoryProfilesNext-fabric-1.20-1.10.11.jar",
+					"version": "NZwFi1w1"
+				},
+				{
+					"content_versions": "-1.18.2-1.10.11",
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/K4qg2nyh/InventoryProfilesNext-fabric-1.18.2-1.10.11.jar",
+					"version": "K4qg2nyh"
+				},
+				{
+					"content_versions": "-1.19.2-1.10.11",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/yRoA8Exy/InventoryProfilesNext-fabric-1.19-1.10.11.jar",
+					"version": "yRoA8Exy"
+				},
+				{
+					"content_versions": "-1.20.1-1.10.11",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/7ctkVhGp/InventoryProfilesNext-forge-1.20-1.10.11.jar",
+					"version": "7ctkVhGp"
+				},
+				{
+					"content_versions": "-1.18.2-1.10.11",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/adhaWR4V/InventoryProfilesNext-forge-1.18.2-1.10.11.jar",
+					"version": "adhaWR4V"
+				},
+				{
+					"content_versions": "-1.20.2-1.10.11",
+					"minecraft_versions": [
+						"1.20.2",
+						"1.20.3",
+						"1.20.4"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Y7jIxf0x/InventoryProfilesNext-forge-1.20.2-1.10.11.jar",
+					"version": "Y7jIxf0x"
+				},
+				{
+					"content_versions": "-1.19.2-1.10.11",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/8os8Kf7r/InventoryProfilesNext-forge-1.19-1.10.11.jar",
+					"version": "8os8Kf7r"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/vGmNq7Xn/InventoryProfilesNext-fabric-1.21-2.0.6.jar",
+					"version": "vGmNq7Xn"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/kEpUpMux/InventoryProfilesNext-neoforge-1.21-2.0.6.jar",
+					"version": "kEpUpMux"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/8D2hNtUh/InventoryProfilesNext-forge-1.21-2.0.6.jar",
+					"version": "8D2hNtUh"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/gE75bVBY/InventoryProfilesNext-fabric-1.21-2.0.5.jar",
+					"version": "gE75bVBY"
+				},
+				{
+					"content_versions": "neo-1.21.1-2.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/3V3Kz0d5/InventoryProfilesNext-neoforge-1.21-2.0.5.jar",
+					"version": "3V3Kz0d5"
+				},
+				{
+					"content_versions": "-1.21.1-2.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/sWMdFauk/InventoryProfilesNext-forge-1.21-2.0.5.jar",
+					"version": "sWMdFauk"
+				},
+				{
+					"content_versions": "-1.21-2.0.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/lghOtM1x/InventoryProfilesNext-fabric-1.21-2.0.4.jar",
+					"version": "lghOtM1x"
+				},
+				{
+					"content_versions": "neo-1.21-2.0.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/rVuE0zlD/InventoryProfilesNext-neoforge-1.21-2.0.4.jar",
+					"version": "rVuE0zlD"
+				},
+				{
+					"content_versions": "-1.21-2.0.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/akFwIZPC/InventoryProfilesNext-forge-1.21-2.0.4.jar",
+					"version": "akFwIZPC"
+				},
+				{
+					"content_versions": "-1.21-2.0.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support",
+							"libipn"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/EvtrAXho/InventoryProfilesNext-fabric-1.21-2.0.3.jar",
+					"version": "EvtrAXho"
+				},
+				{
+					"content_versions": "-1.21-2.0.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Q75T7j3d/InventoryProfilesNext-forge-1.21-2.0.3.jar",
+					"version": "Q75T7j3d"
+				},
+				{
+					"content_versions": "neo-1.21-2.0.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"kotlin-support",
+							"libipn"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/iROtkKzw/InventoryProfilesNext-neoforge-1.21-2.0.3.jar",
+					"version": "iROtkKzw"
+				},
+				{
 					"content_versions": "neo-1.21-2.0.2",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -10676,10 +13044,10 @@
 		"description": "Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.",
 		"documentation": "https://inventory-profiles-next.github.io",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/O7RBXm3n/icon.png",
-		"issues": "https://github.com/blackd/Inventory-Profiles/issues",
+		"icon": "https://cdn.modrinth.com/data/O7RBXm3n/04cdecd37b4c7409f70d36fcdc85722ebf14aab8_96.webp",
+		"issues": "https://discord.gg/23YCxmveUM",
 		"license": "AGPL-3.0-or-later",
-		"long_description": "<h1 class=\"center\">Inventory Profiles Next</h1>\n\n<table>\n<tbody>\n<tr>\n<td>\n\nThis mod will:\n\n- Help you keep your inventory sorted\n- Replace your quasi-broken tool\n- Dump everything in that chest with one click\n- Move the items you have that are also already in the chest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n- Lock item slots in place so that sorting ignores them\n- Keep locked slots empty\n- Allow you to press R+C to set your shortcuts\n- Be pure client-side, so that it works everywhere\n\n[Join us on Discord](https://discord.gg/23YCxmveUM)\n\n</td>\n<td>\n\n<img src=\"https://raw.githubusercontent.com/blackd/Inventory-Profiles/all-in-one/description/output.webp\" width=\"300px\">\n\n</td>\n</tr>\n</table>\n\n<table>\n<tr> \n<td colspan=\"2\">\n\nThis mod **IS NOT** drop in replacement of **Inventory Tweaks**\n\n- It is not possible to make **Inventory Profiles Next** work as **Inventory Tweaks**\n- If you come from **Inventory Tweaks** you will need to learn how to use **Inventory Profiles Next**\n- If you can't do the above you can use [InvTweaks Emu for IPN](https://modrinth.com/mod/invtweaks-emu-for-ipn) to emulate some shortcuts \"Inventory Tweaks\" used.\n\n</td>\n</tr>\n</table>\n \n\n## Like the mod? Consider buying me a coffee.\n\n\n\n## WARNING\n\nDue to multiple Quilt specific crashes and one item duplication Quilt support is now defined as fallows:\n\n```\nThis mod will work on Quilt using the offered Fabric compatibility.\nAny problems that are not reproducible on Fabric will be addressed with very low priority.\n```\n\n\n## How-To\n\n<iframe width=\"1440\" height=\"762\" src=\"https://www.youtube.com/embed/cv7_vW-GIJU\">\n</iframe>\n\n\n## Contributing\n\nIf something doesn't work, please file an issue [here](https://github.com/blackd/Inventory-Profiles/issues)\n\nIf you speak another language and would like to help to translate it, you can do so [here](https://github.com/blackd/Inventory-Profiles/tree/all-in-one/common/src/main/resources/assets/inventoryprofilesnext/lang)\n\nIf you're a Kotlin developer and want to contribute, please see [the source](https://github.com/blackd/Inventory-Profiles)\n\n## License\n\nThis mod is distributed under [AGPL v3 license](https://github.com/blackd/Inventory-Profiles/blob/all-in-one/LICENSE)\n\n<p></p>\n",
+		"long_description": "\n\n<center>\n  \n<img src=\"https://ipn.anti-ad.org/assets/static/Inventory_Profiles_Next_Bg1line.png\" width=\"800px\"/>\n\n<p></p>\n  \n[![Discord](https://img.shields.io/discord/861171785897738240?style=plastic&logo=discord&label=discord&link=https%3A%2F%2Fdiscord.gg%2F23YCxmveUM)](https://discord.gg/23YCxmveUM)\n![CurseForge Downloads](https://img.shields.io/curseforge/dt/495267?style=plastic&logo=curseforge)\n![Modrinth Downloads](https://img.shields.io/modrinth/dt/inventory-profiles-next?style=plastic&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Finventory-profiles-next)\n[![Static Badge](https://img.shields.io/badge/source-code-blue?style=plastic&logo=github)](https://github.com/blackd/Inventory-Profiles)\n\n</center>\n\n\n<p></p>\n<p></p>\n\n\n<table>\n<tbody>\n<tr>\n<td>\n\nThis mod will:\n\n- Help you keep your inventory sorted\n- Replace your quasi-broken tool\n- Dump everything in that chest with one click\n- Move the items you have that are also already in the chest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n- Lock item slots in place so that sorting ignores them\n- Keep locked slots empty\n- Allow you to press R+C to set your shortcuts\n- Be pure client-side, so that it works everywhere\n\n[Join us on Discord](https://discord.gg/23YCxmveUM)\n\n</td>\n<td>\n\n<img src=\"https://raw.githubusercontent.com/blackd/Inventory-Profiles/all-in-one/description/output.webp\" width=\"300px\">\n\n</td>\n</tr>\n</table>\n\n<table>\n<tr> \n<td colspan=\"2\">\n\nThis mod **IS NOT** drop in replacement of **Inventory Tweaks**\n\n- It is not possible to make **Inventory Profiles Next** work as **Inventory Tweaks**\n- If you come from **Inventory Tweaks** you will need to learn how to use **Inventory Profiles Next**\n- If you can't do the above you can use [InvTweaks Emu for IPN](https://www.modrinth.com/mod/invtweaks-emu-for-ipn) to emulate\nsome shortcuts \"Inventory Tweaks\" used.\n\n</td>\n</tr>\n</table>\n \n\n## Like the mod? Consider buying me a coffee.\n\n  \n[![patreon logo](https://ipn.anti-ad.org/cgi-bin/test.png)](https://www.patreon.com/mirinimi)\n\n\n## How-To\n\n<center>\n  \n<iframe style=\"height: 80%; width: 80%;\" allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/cv7_vW-GIJU?wmode=transparent\" height=\"358\" width=\"638\">\n</iframe>\n\n</center>\n\n## Dependencies\n\n### Fabric\n* [Fabric API](https://www.modrinth.com/mod/fabric-api)\n* [Fabric Language Kotlin](https://www.modrinth.com/mod/fabric-language-kotlin)\n* [libIPN](https://www.modrinth.com/mod/libipn)\n* [Mod Menu](https://www.modrinth.com/mod/modmenu)\n\n### Forge\n* [Kotlin For Forge](https://www.modrinth.com/mod/kotlin-for-forge)\n* [libIPN](https://www.modrinth.com/mod/libipn)\n\n\n\n## WARNING\n\nDue to multiple Quilt specific crashes and one item duplication Quilt support is now defined as fallows:\n\n```\nThis mod will work on Quilt using the offered Fabric compatibility.\nAny problems that are not reproducible on Fabric will be addressed with very low priority.\n```\n\n\n\n\n\n## Contributing\n\nIf something doesn't work, please file an issue [here](https://github.com/blackd/Inventory-Profiles/issues)\n\nIf you speak another language and would like to help to translate it, you can do so [here](https://github.com/blackd/Inventory-Profiles/tree/all-in-one/common/src/main/resources/assets/inventoryprofilesnext/lang)\n\nIf you're a Kotlin developer and want to contribute, please see [the source](https://github.com/blackd/Inventory-Profiles)\n\n## License\n\nThis mod is distributed under [AGPL v3 license](https://github.com/blackd/Inventory-Profiles/blob/all-in-one/LICENSE)\n\n<p></p>\n",
 		"name": "Inventory Profiles Next",
 		"package_maintainers": [
 			"mcvm"
@@ -10690,14 +13058,58 @@
 	"properties": {
 		"content_versions": [
 			"(41.0.98-)-1.19-1.6.0",
+			"-25w06a-2.1.4",
+			"-24w46a-2.0.10",
 			"-23w33a-1.10.7",
+			"-1.21.5-pre1-2.1.5",
+			"-1.21.5-2.1.7",
+			"-1.21.5-2.1.6",
+			"-1.21.5-2.1.3",
+			"-1.21.4-pre1-2.1.0",
+			"-1.21.4-2.1.7",
+			"-1.21.4-2.1.6",
+			"-1.21.4-2.1.5",
+			"-1.21.4-2.1.4",
+			"-1.21.4-2.1.3",
+			"-1.21.4-2.1.2",
+			"-1.21.4-2.1.1",
+			"-1.21.4-2.1.0",
+			"-1.21.3-2.1.5",
+			"-1.21.3-2.1.4",
+			"-1.21.3-2.1.2",
+			"-1.21.3-2.1.1",
+			"-1.21.3-2.1.0",
+			"-1.21.3-2.0.10",
+			"-1.21.3-2.0.9",
+			"-1.21.3-2.0.8",
+			"-1.21-2.0.4",
+			"-1.21-2.0.3",
 			"-1.21-2.0.2",
 			"-1.21-2.0.1",
 			"-1.21-2.0.0",
+			"-1.21.1-2.1.7",
+			"-1.21.1-2.1.6",
+			"-1.21.1-2.1.5",
+			"-1.21.1-2.1.4",
+			"-1.21.1-2.1.3",
+			"-1.21.1-2.1.2",
+			"-1.21.1-2.1.1",
+			"-1.21.1-2.1.0",
+			"-1.21.1-2.0.10",
+			"-1.21.1-2.0.9",
+			"-1.21.1-2.0.8",
+			"-1.21.1-2.0.7",
+			"-1.21.1-2.0.6",
+			"-1.21.1-2.0.5",
 			"-1.20.6-2.0.2",
 			"-1.20.6-2.0.1",
+			"-1.20.3-1.10.12",
+			"-1.20.3-1.10.11",
 			"-1.20.3-1.10.10",
 			"-1.20.3-pre2-1.10.9",
+			"-1.20.2-1.10.14",
+			"-1.20.2-1.10.12",
+			"-1.20.2-1.10.11",
 			"-1.20.2-1.10.10",
 			"-1.20.2-1.10.9",
 			"-1.20.2-1.10.8",
@@ -10708,6 +13120,9 @@
 			"-1.20-1.10.5",
 			"-1.20-1.10.4",
 			"-1.20-1.10.3",
+			"-1.20.1-1.10.14",
+			"-1.20.1-1.10.12",
+			"-1.20.1-1.10.11",
 			"-1.20.1-1.10.10",
 			"-1.20.1-1.10.9",
 			"-1.20.1-1.10.8",
@@ -10736,6 +13151,9 @@
 			"-1.19.3-1.9.1",
 			"-1.19.3-1.9.0",
 			"-1.19.3-rc1-1.8.6",
+			"-1.19.2-1.10.14",
+			"-1.19.2-1.10.12",
+			"-1.19.2-1.10.11",
 			"-1.19.2-1.10.10",
 			"-1.19.2-1.10.9",
 			"-1.19.2-1.10.8",
@@ -10766,17 +13184,56 @@
 			"-1.19.2-1.7.0",
 			"-1.19.2-1.6.5",
 			"-1.19.2-1.6.4",
-			"-1.19-1.5.3",
 			"-1.19-1.5.2",
 			"-1.19.1-1.6.3",
 			"-1.19.1-1.6.2",
-			"-1.19-pre1-1.5.0",
-			"-1.19-pre1-1.4.0",
 			"-1.19.1-rc2-1.6.1",
 			"-1.19-1.6.1",
 			"-1.19-1.6.0",
+			"-1.19-1.5.3",
 			"-1.19-1.5.1",
 			"-1.19-1.5.0",
+			"-1.19-pre1-1.5.0",
+			"-1.19-pre1-1.4.0",
+			"-1.18.2-1.5.0",
+			"-1.18.2-1.4.0",
+			"-1.18.2-1.3.8",
+			"-1.18.2-1.3.7",
+			"-1.18.2-1.3.6",
+			"-1.18.2-1.3.5",
+			"-1.18.2-1.3.4-BETA",
+			"-1.18-1.2.4",
+			"-1.18-1.2.3",
+			"-1.18-1.2.2",
+			"-1.18-1.2.1",
+			"-1.18-1.2.0",
+			"-1.18-1.1.8",
+			"-1.18-pre1-1.1.7",
+			"-1.18-pre1-1.1.6",
+			"-1.17.1-1.0.0",
+			"-1.17.1-0.9.0",
+			"-1.17.1-0.9.0-ALPHA",
+			"-1.17.1-0.8.6",
+			"-1.17.1-0.8.6-ALPHA",
+			"-1.17.1-0.8.5",
+			"-1.17.1-0.8.5-ALPHA",
+			"-1.17.1-0.8.4-ALPHA",
+			"-1.17-0.8.4",
+			"Inventory Profiles Next-1.17-0.8.3",
+			"Inventory Profiles Next-1.17-0.8.2 ",
+			"Inventory Profiles Next-1.17-0.8.1",
+			"Inventory Profiles Next-1.17-0.8.0",
+			"Inventory Profiles Next-1.17-0.7.4",
+			"Inventory Profiles Next-1.17-0.7.3",
+			"Inventory Profiles Next-1.16.5-0.8.3",
+			"Inventory Profiles Next-1.16.5-0.8.2 ",
+			"Inventory Profiles Next-1.16.5-0.8.2",
+			"Inventory Profiles Next-1.16.5-0.8.1",
+			"Inventory Profiles Next-1.16.5-0.8.0",
+			"Inventory Profiles Next-1.16.5-0.7.4",
+			"-1.18.2-1.10.14",
+			"-1.18.2-1.10.12",
+			"-1.18.2-1.10.11",
 			"-1.18.2-1.10.10",
 			"-1.18.2-1.10.9",
 			"-1.18.2-1.10.8",
@@ -10814,36 +13271,6 @@
 			"-1.18.2-1.5.3",
 			"-1.18.2-1.5.2",
 			"-1.18.2-1.5.1",
-			"-1.18.2-1.5.0",
-			"-1.18.2-1.4.0",
-			"-1.18.2-1.3.8",
-			"-1.18.2-1.3.7",
-			"-1.18.2-1.3.6",
-			"-1.18.2-1.3.5",
-			"-1.18.2-1.3.4-BETA",
-			"-1.18-1.2.4",
-			"-1.18-1.2.3",
-			"-1.18-1.2.2",
-			"-1.18-1.2.1",
-			"-1.18-1.2.0",
-			"-1.18-pre1-1.1.7",
-			"-1.18-pre1-1.1.6",
-			"Inventory Profiles Next-1.17-0.8.1",
-			"Inventory Profiles Next-1.17-0.8.0",
-			"Inventory Profiles Next-1.17-0.7.4",
-			"Inventory Profiles Next-1.17-0.7.3",
-			"Inventory Profiles Next-1.16.5-0.8.2",
-			"Inventory Profiles Next-1.16.5-0.8.1",
-			"Inventory Profiles Next-1.16.5-0.8.0",
-			"Inventory Profiles Next-1.16.5-0.7.4",
-			"-1.17.1-0.8.5",
-			"-1.17.1-0.8.5-ALPHA",
-			"-1.17.1-0.8.4-ALPHA",
-			"-1.17-0.8.4",
-			"Inventory Profiles Next-1.17-0.8.3",
-			"Inventory Profiles Next-1.17-0.8.2 ",
-			"Inventory Profiles Next-1.16.5-0.8.3",
-			"Inventory Profiles Next-1.16.5-0.8.2 ",
 			"-1.18-1.1.9",
 			"-1.18.1-1.8.6",
 			"-1.18.1-1.8.5",
@@ -10852,7 +13279,6 @@
 			"-1.18.1-1.8.2",
 			"-1.18.1-1.8.1",
 			"-1.18.1-1.8.0",
-			"-1.18-1.1.8",
 			"-1.18.1-1.7.2",
 			"-1.18.1-1.7.1",
 			"-1.18.1-1.7.0",
@@ -10925,12 +13351,8 @@
 			"-1.17.1-1.1.0-hotfix-1",
 			"-1.17.1-1.0.3",
 			"-1.17.1-1.0.2",
-			"-1.17.1-1.0.0",
 			"-1.17.1-1.0.0-ALPHA",
-			"-1.17.1-0.9.0",
-			"-1.17.1-0.9.0-ALPHA",
-			"-1.17.1-0.8.6",
-			"-1.17.1-0.8.6-ALPHA",
+			"-1.16.5-1.10.602",
 			"-1.16.5-1.10.6",
 			"-1.16.5-1.10.6.cf-1",
 			"-1.16.5-1.10.5",
@@ -11068,7 +13490,40 @@
 			"1.3.7",
 			"0.7.2",
 			"0.7.0",
-			"neo-1.21-2.0.2"
+			"neo-1.21.5-2.1.7",
+			"neo-1.21.4-2.1.7",
+			"neo-1.21.4-2.1.6",
+			"neo-1.21.4-2.1.5",
+			"neo-1.21.4-2.1.4",
+			"neo-1.21.4-2.1.3",
+			"neo-1.21.4-2.1.2",
+			"neo-1.21.4-2.1.1",
+			"neo-1.21.4-2.1.0",
+			"neo-1.21.3-2.1.5",
+			"neo-1.21.3-2.1.4",
+			"neo-1.21.3-2.1.2",
+			"neo-1.21.3-2.1.1",
+			"neo-1.21.3-2.1.0",
+			"neo-1.21.3-2.0.10",
+			"neo-1.21.3-2.0.9",
+			"neo-1.21.3-2.0.8",
+			"neo-1.21-2.0.4",
+			"neo-1.21-2.0.3",
+			"neo-1.21-2.0.2",
+			"neo-1.21.1-2.1.7",
+			"neo-1.21.1-2.1.6",
+			"neo-1.21.1-2.1.5",
+			"neo-1.21.1-2.1.4",
+			"neo-1.21.1-2.1.3",
+			"neo-1.21.1-2.1.2",
+			"neo-1.21.1-2.1.1",
+			"neo-1.21.1-2.1.0",
+			"neo-1.21.1-2.0.10",
+			"neo-1.21.1-2.0.9",
+			"neo-1.21.1-2.0.8",
+			"neo-1.21.1-2.0.7",
+			"neo-1.21.1-2.0.6",
+			"neo-1.21.1-2.0.5"
 		],
 		"modrinth_id": "O7RBXm3n",
 		"supported_modloaders": [
@@ -11128,7 +13583,18 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"24w44a",
+			"24w45a",
+			"24w46a",
+			"1.21.4-pre1",
+			"1.21.4",
+			"25w04a",
+			"25w05a",
+			"25w06a",
+			"1.21.5"
 		]
 	}
 }

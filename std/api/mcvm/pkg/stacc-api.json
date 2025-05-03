@@ -76,7 +76,7 @@
 		],
 		"description": "**Stacc is an API-only mod, on it's own, it will not do anything!!**\n\nThis mod allows developers to create items with stack sizes much greater than 64.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/fauLGdJR/b3ff95da8aef73d3ad7f1f51b9e2d36421541264.png",
+		"icon": "https://cdn.modrinth.com/data/fauLGdJR/3e6933b8c356d14ffe59e1f74cce9b256e6d89c0_96.webp",
 		"issues": "https://github.com/Devan-Kerman/stacc/issues",
 		"license": "CC0-1.0",
 		"long_description": "**Stacc is an API-only mod, on it's own, it will not do anything!!**\n\n \n\nThis mod allows developers to create items with stack sizes much greater than 64. It also replaces the item count renderer for very large numbers (>1000) to avoid the text from covering up adjacent slots and implements various bug fixes to allow for greater stack sizes. This mod introduces a serialization scheme for large stacks that is semi-safe to reload, so in the event the mod is uninstalled the world wont be lost (though many items will be).\n\nThe API can be found on maven:\n\n \n```gradle\nrepositories {\n    maven {\n        url = uri(\"https://storage.googleapis.com/devan-maven/\")\n        // for versions lower than 1.2.0\n        // url = uri(\"https://raw.githubusercontent.com/Devan-Kerman/Devan-Repo/master/\")\n    }\n}\n\ndependencies {\n     // there is no api (well except for render handler), just set maxCount in Item$Settings to values over 64\n     modRuntime(\"net.devtech:Stacc:XXX\")\n}\n```",

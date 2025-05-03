@@ -4,6 +4,50 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.20.1-4.0-462",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "zeta"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/DijQLauD/Quark-4.0-462.jar",
+					"version": "DijQLauD"
+				},
+				{
+					"content_versions": "1.20.1-4.0-461",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "zeta"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/wc7h9yle/Quark-4.0-461.jar",
+					"version": "wc7h9yle"
+				},
+				{
+					"content_versions": "1.20.1-4.0-460",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "zeta"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/vIWYw2yn/Quark-4.0-460.jar",
+					"version": "vIWYw2yn"
+				},
+				{
+					"content_versions": "1.20.1-4.0-459",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "zeta"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/EuOnf9qn/Quark-4.0-459.jar",
+					"version": "EuOnf9qn"
+				},
+				{
 					"content_versions": "4.0-458",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -755,7 +799,7 @@
 		"description": "A Quark is a very small thing. This mod is a collection of small things...",
 		"documentation": "https://quarkmod.net/",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/qnQsVE2z/64151f8964bc6b81d968e814bf7344bbdfad27d0.png",
+		"icon": "https://cdn.modrinth.com/data/qnQsVE2z/aef2119751d026421b9e9dc83d4470eec9f91a16_96.webp",
 		"issues": "https://github.com/VazkiiMods/Quark/issues",
 		"license": "CC-BY-NC-SA-3.0",
 		"long_description": "[![](https://violetmoon.org/branding/vm0.png)](https://violetmoon.org)[![](https://violetmoon.org/branding/vm1.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/vm2.png)](https://twitter.com/vazkiimods)[![](https://violetmoon.org/branding/vm3.png)](https://discord.gg/vm)\n![](https://violetmoon.org/branding/hero/quark.png)\n\n---\n\n# About\n\nWarning: Quark **[Requires Zeta](https://modrinth.com/mod/zeta)** for 1.20.1 onwards, or **[AutoRegLib](https://modrinth.com/mod/autoreglib)** for 1.19.2 and prior.\n\n**Quark** is a fully modular minecraft mod, named after the subatomic particle. In simpler terms, it's a large mod with lots of small features, aimed at improving the vanilla game. \nEvery feature can be turned on and off individually at your will, and most features contain further options to tweak the game just how you like it.\n\nWith quark installed, the title screen will get a new \"q\" button added to it. This button allows you to configure quark from inside the game, so you can easily turn off any features you don't vibe with.\n\n---\n\n# Features\n\nQuark has over a hundred different modules to play with, but here's a small highlight reel of our favorites:\n\n* Feeding Trough, for automatic animal breeding\n* Pistons Push Tile Entities, just like in Bedrock Edition\n* Japanese and Industrial style building blocks\n* Variant versions for Bookshelves, Chests, and Ladders for all wood types\n* Vertical Slabs, for all slabs already in the base game and Quark\n* Advanced Camera Mode for fancy screenshots\n* Toretoises, typo intended - new underground animals that grow ore on their back\n* Pickarang, a pickaxe that can be thrown as a boomerang\n* Trowel, a new tool to place random blocks from your hotbar, for paths or ruins\n* Emote system, allowing your character to do all sorts of motions from the chat menu\n* Reacharound Placing, which lets you place blocks under other blocks without being able to see the bottom face\n* Azalea Wood, replacing the Oak wood in Azalea trees with a pleasant green\n* Glimmering Weald, a new rare deep underground biome with glowing mushrooms and a cute new stone fae mob\n\nAnd many, many more!\n\n---\n\n# Learn more about Quark today\n### Visit the **[Official Website](https://quarkmod.net/)**\n\n* Visit the [Old Website](https://quarkmod.net/old) (for Minecraft versions 1.12 and prior)\n* Check out [what changed](https://vazkii.notion.site/Quark-3-0-Forge-1-18-Release-Notes-f22ef705b677421585f1208156a82b44) between Quark for 1.16 and Quark for 1.18\n* Download [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities), an addon focusing on more complex and technical features\n\n---\n\n# Compatibility\n\nQuark has built-in compatibility for a few mods, including JEI and TerraBlender.\n\nQuark may be incompatible with Optifine. If you are having issues using the two together, please uninstall Optifine and use a Sodium fork instead. \n\nAdditionally, if you are experiencing load crashes on 1.20.1, make sure your other mods are up to date, as any mods with integration from older versions will not function until updated.\n\n---\n\n![](https://violetmoon.org/branding/support.png)\n[![](https://violetmoon.org/branding/patreon.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/store.png)](https://store.vazkii.net)\n[![](https://violetmoon.org/branding/ch.png)](https://violetmoon.org/creeperhost)",
@@ -802,6 +846,10 @@
 			"3.3-372",
 			"3.3-371",
 			"3.2-358",
+			"1.20.1-4.0-462",
+			"1.20.1-4.0-461",
+			"1.20.1-4.0-460",
+			"1.20.1-4.0-459",
 			"1.20.1-4.0-457",
 			"1.20.1-4.0-455",
 			"1.20.1-4.0-454",

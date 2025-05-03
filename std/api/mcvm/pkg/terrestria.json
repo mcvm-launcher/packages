@@ -4,6 +4,121 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "7.3.0-alpha.2",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/EUtnbrKO/terrestria-7.3.0-alpha.2.jar",
+					"version": "EUtnbrKO"
+				},
+				{
+					"content_versions": "7.3.0-alpha.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/3US3hTUm/terrestria-7.3.0-alpha.1.jar",
+					"version": "3US3hTUm"
+				},
+				{
+					"content_versions": "7.2.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/Ih96rqKi/terrestria-7.2.1.jar",
+					"version": "Ih96rqKi"
+				},
+				{
+					"content_versions": "7.2.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/mIDDmfhS/terrestria-7.2.0.jar",
+					"version": "mIDDmfhS"
+				},
+				{
+					"content_versions": "7.2.0-beta.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/tOUDK09t/terrestria-7.2.0-beta.1.jar",
+					"version": "tOUDK09t"
+				},
+				{
+					"content_versions": "7.1.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/i0piWRLt/terrestria-7.1.0.jar",
+					"version": "i0piWRLt"
+				},
+				{
+					"content_versions": "7.1.0-beta.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/4Qcnn0uG/terrestria-7.1.0-beta.1.jar",
+					"version": "4Qcnn0uG"
+				},
+				{
+					"content_versions": "7.0.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lsUDPMOT/versions/NToKa7WD/terrestria-7.0.1.jar",
+					"version": "NToKa7WD"
+				},
+				{
 					"content_versions": "7.0.0",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -902,12 +1017,12 @@
 			"gniftygnome",
 			"jaskarth"
 		],
-		"banner": "https://cdn.modrinth.com/data/lsUDPMOT/images/29258b1fa25834678b770d7f5c293a9ee3d21d1e.png",
+		"banner": "https://cdn.modrinth.com/data/lsUDPMOT/images/f1a723017421fc227930af3e44043cdab1e52098_350.webp",
 		"community": "https://discord.gg/jEGF5fb",
 		"description": "Terrestria is a detailed and vibrant biomes mod for Minecraft running on the Fabric mod loader.",
 		"documentation": "https://github.com/terraformersmc/terrestria/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/lsUDPMOT/images/29258b1fa25834678b770d7f5c293a9ee3d21d1e.png"
+			"https://cdn.modrinth.com/data/lsUDPMOT/images/f1a723017421fc227930af3e44043cdab1e52098_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/lsUDPMOT/37bf53575f1767f27e1f99b1a0d355031c013fa3.webp",
 		"issues": "https://github.com/terraformersmc/terrestria/issues",
@@ -921,6 +1036,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"7.3.0-alpha.2",
+			"7.3.0-alpha.1",
+			"7.2.1",
+			"7.2.0",
+			"7.2.0-beta.1",
+			"7.1.0",
+			"7.1.0-beta.1",
+			"7.0.1",
 			"7.0.0",
 			"7.0.0-beta.2",
 			"7.0.0-beta.1",
@@ -1059,7 +1182,12 @@
 			"1.21-pre3",
 			"1.21-pre4",
 			"1.21-rc1",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

@@ -4,6 +4,118 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.4.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/ShhARsOF/sliceanddice-forge-3.4.0.jar",
+					"version": "ShhARsOF"
+				},
+				{
+					"content_versions": "3.3.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/EzpVcwYV/sliceanddice-fabric-3.3.1.jar",
+					"version": "EzpVcwYV"
+				},
+				{
+					"content_versions": "2.6.1",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/UdU72k1h/sliceanddice-fabric-2.6.1.jar",
+					"version": "UdU72k1h"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/BMPSTnHW/sliceanddice-fabric-3.3.0.jar",
+					"version": "BMPSTnHW"
+				},
+				{
+					"content_versions": "3.3.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/bKH5nqMk/sliceanddice-forge-3.3.0.jar",
+					"version": "bKH5nqMk"
+				},
+				{
+					"content_versions": "2.4.0",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/2YFOoeUh/sliceanddice-forge-2.4.0.jar",
+					"version": "2YFOoeUh"
+				},
+				{
+					"content_versions": "2.6.0",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/liaYM4hX/sliceanddice-fabric-2.6.0.jar",
+					"version": "liaYM4hX"
+				},
+				{
+					"content_versions": "1.4.0",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "farmers-delight"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/86R8vw1P/sliceanddice-forge-1.4.0.jar",
+					"version": "86R8vw1P"
+				},
+				{
 					"content_versions": "3.2.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -847,15 +959,16 @@
 		"authors": [
 			"possible_triangle"
 		],
+		"banner": "https://cdn.modrinth.com/data/GmjmRQ0A/images/45f14b42e1cf36f1e2ffa4c78c4e7c4a1f16d01d.png",
 		"description": "Making automation for Farmers Delight more sensible",
 		"gallery": [
 			"https://cdn.modrinth.com/data/GmjmRQ0A/images/45f14b42e1cf36f1e2ffa4c78c4e7c4a1f16d01d.png",
-			"https://cdn.modrinth.com/data/GmjmRQ0A/images/ee88d7e4b91a8d4313267b8912211add94c83911.png"
+			"https://cdn.modrinth.com/data/GmjmRQ0A/images/ee88d7e4b91a8d4313267b8912211add94c83911_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/GmjmRQ0A/9af7f38727e4c1dc30c67fefd80b15000a2b8c07.png",
+		"icon": "https://cdn.modrinth.com/data/GmjmRQ0A/d2d4a1a5cfc7f1ececf50dc977021c62654ccdc8_96.webp",
 		"issues": "https://github.com/PssbleTrngle/SliceAndDice/issues",
 		"license": "https://github.com/PssbleTrngle/SliceAndDice/blob/1.19.x/LICENSE.txt",
-		"long_description": "[KOTLIN_FORGE]: https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge\n[KOTLIN_FABRIC]: https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin\n[CREATE_FORGE]: https://www.curseforge.com/minecraft/mc-mods/create\n[CREATE_FABRIC]: https://www.curseforge.com/minecraft/mc-mods/create-fabric\n[FARMERS_DELIGHT_FORGE]: https://www.curseforge.com/minecraft/mc-mods/farmers-delight\n[FARMERS_DELIGHT_FABRIC]: https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric\n[OVERWEIGHT_FARMING]: https://www.curseforge.com/minecraft/mc-mods/overweight-farming\n[NEAPOLITAN]: https://www.curseforge.com/minecraft/mc-mods/neapolitan\n[DOWNLOAD]: https://www.curseforge.com/minecraft/mc-mods/slice-and-dice/files\n[CURSEFORGE]: https://www.curseforge.com/minecraft/mc-mods/slice-and-dice\n[MODRINTH]: https://modrinth.com/mod/slice-and-dice\n[ISSUES]: https://github.com/PssbleTrngle/SliceAndDice/issues\n\n\n\n[![](https://img.shields.io/badge/FORGE%20%20REQUIRES-1e2a41?labelColor=gray&style=for-the-badge)][KOTLIN_FORGE]\n[![](https://img.shields.io/badge/KOTLIN%20FOR%20FORGE-blue?logo=kotlin&labelColor=gray&style=for-the-badge)][KOTLIN_FORGE]\n[![](https://img.shields.io/badge/CREATE-ae7c38?logo=curseforge&labelColor=gray&style=for-the-badge)][CREATE_FORGE]\n\n[![](https://img.shields.io/badge/FABRIC%20REQUIRES-c6bca5?labelColor=gray&style=for-the-badge)][KOTLIN_FABRIC]\n[![](https://img.shields.io/badge/FABRIC%20LANGUAGE%20KOTLIN-blue?logo=kotlin&labelColor=gray&style=for-the-badge)][KOTLIN_FABRIC]\n[![](https://img.shields.io/badge/CREATE%20FABRIC-ae7c38?logo=curseforge&labelColor=gray&style=for-the-badge)][CREATE_FABRIC]\n\n### Slicer\n\nThis mod enables a variety of features to create better compatibility between mostly [Farmer's Delight][FARMERS_DELIGHT_FORGE] and [Create][CREATE_FORGE].\nWhile it is designed to work with Farmer's Delight, it does work without it and also adds some compatibility features for other mods.\n\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/slicer.png)\n\n### Automatic Cutting\n\nThe Main feature of the mod is the _Slicer_, a machine similar to the _Mechanical Mixer_ or _Mechanical Press_ from Create.\nIt automatically registers all cutting recipes from Farmer's Delight. In that sense, it is an automatic _Cutting Board_.  \nIn order to use it, the correct tool has to be placed into the machine, using `Right-Click`.\nBy default, only knives and axes are allowed, but this behaviour can be overwritten by modifying the `sliceanddice:allowed_tools` item tag.\nAn example datapack which adds shears to this tag can be found [here](https://github.com/PssbleTrngle/SliceAndDice/raw/1.20.x/example_datapack.zip)\n\n### Automatic Cooking\n\nAll recipes from Farmer's delight requiring the Cooking Pot are added as heated mixing recipes.\n\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/cooking.png)\n\n### Sprinkler\n\nThe Sprinkler is a block which, when provided with a fluid using a pipe, will distribute it in a small area below.  \nDifferent fluids can have different effects.\n\n- Lava applies a small amount of fire damage to entities below\n- Water makes the area below wet, making the world think it's raining there.\n- Potions apply their affect for a short duration to entities below\n- Liquid Fertilizer, a new fluid, applies a bonemeal affect to blocks.\n\nThe latter is meant to enable growing of _Banana Fonds_ from [Neapolitan][NEAPOLITAN] without being dependent on the weather, but it could possibly have other effects on other mods too.\n\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/sprinkler.png)\n\n### Overweight Farming\n\nIf present, some compatibility features for [Overweight Farming][OVERWEIGHT_FARMING] is added.  \nThis includes waxing recipes using the deployer,\nas well as showing the axe-stripping of overweight crops in JEI.\n\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/strip.png)\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/wax.png)\n",
+		"long_description": "[KOTLIN_FORGE]: https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge\n[KOTLIN_FABRIC]: https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin\n[CREATE_FORGE]: https://www.curseforge.com/minecraft/mc-mods/create\n[CREATE_FABRIC]: https://www.curseforge.com/minecraft/mc-mods/create-fabric\n[FARMERS_DELIGHT_FORGE]: https://www.curseforge.com/minecraft/mc-mods/farmers-delight\n[FARMERS_DELIGHT_FABRIC]: https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric\n[OVERWEIGHT_FARMING]: https://www.curseforge.com/minecraft/mc-mods/overweight-farming\n[NEAPOLITAN]: https://www.curseforge.com/minecraft/mc-mods/neapolitan\n[DOWNLOAD]: https://www.curseforge.com/minecraft/mc-mods/slice-and-dice/files\n[CURSEFORGE]: https://www.curseforge.com/minecraft/mc-mods/slice-and-dice\n[MODRINTH]: https://modrinth.com/mod/slice-and-dice\n[ISSUES]: https://github.com/PssbleTrngle/SliceAndDice/issues\n\n\n\n[![](https://img.shields.io/badge/FORGE%20%20REQUIRES-1e2a41?labelColor=gray&style=for-the-badge)][KOTLIN_FORGE]\n[![](https://img.shields.io/badge/KOTLIN%20FOR%20FORGE-blue?logo=kotlin&labelColor=gray&style=for-the-badge)][KOTLIN_FORGE]\n[![](https://img.shields.io/badge/CREATE-ae7c38?logo=curseforge&labelColor=gray&style=for-the-badge)][CREATE_FORGE]\n\n[![](https://img.shields.io/badge/FABRIC%20REQUIRES-c6bca5?labelColor=gray&style=for-the-badge)][KOTLIN_FABRIC]\n[![](https://img.shields.io/badge/FABRIC%20LANGUAGE%20KOTLIN-blue?logo=kotlin&labelColor=gray&style=for-the-badge)][KOTLIN_FABRIC]\n[![](https://img.shields.io/badge/CREATE%20FABRIC-ae7c38?logo=curseforge&labelColor=gray&style=for-the-badge)][CREATE_FABRIC]\n\n### Slicer\n\nThis mod enables a variety of features to create better compatibility between mostly [Farmer's Delight][FARMERS_DELIGHT_FORGE] and [Create][CREATE_FORGE].\nWhile it is designed to work with Farmer's Delight, it does work without it and also adds some compatibility features for other mods.\n\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/slicer.png)\n\n### Automatic Cutting\n\nThe Main feature of the mod is the _Slicer_, a machine similar to the _Mechanical Mixer_ or _Mechanical Press_ from Create.\nIt automatically registers all cutting recipes from Farmer's Delight. In that sense, it is an automatic _Cutting Board_.  \nIn order to use it, the correct tool has to be placed into the machine, using `Right-Click`.\nBy default, only knives and axes are allowed, but this behaviour can be overwritten by modifying the `sliceanddice:allowed_tools` item tag.\nAn example datapack which adds shears to this tag can be found [here](https://github.com/PssbleTrngle/SliceAndDice/raw/1.20.x/example_datapack.zip)\n\n### Automatic Cooking\n\nAll recipes from Farmer's delight requiring the Cooking Pot are added as heated mixing recipes.\n\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/cooking.png)\n\n### Sprinkler\n\nThe Sprinkler is a block which, when provided with a fluid using a pipe, will distribute it in a small area below.  \nDifferent fluids can have different effects.\n\n- Lava applies a small amount of fire damage to entities below\n- Water makes the area below wet, making the world think it's raining there.\n- Potions apply their affect for a short duration to entities below\n- Liquid Fertilizer, a new fluid, applies a bonemeal affect to blocks.\n\nThe latter is meant to enable growing of _Banana Fonds_ from [Neapolitan][NEAPOLITAN] without being dependent on the weather, but it could possibly have other effects on other mods too.\n\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/sprinkler.png)\n\n### Overweight Farming\n\nIf present, some compatibility features for [Overweight Farming][OVERWEIGHT_FARMING] is added.  \nThis includes waxing recipes using the deployer,\nas well as showing the axe-stripping of overweight crops in JEI.\n\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/strip.png)\n![](https://raw.githubusercontent.com/PssbleTrngle/SliceAndDice/1.20.x/screenshots/wax.png)\n\n### Custom Recipes\n\nIf you want to add custom recipes using a datapack, this can now be done for the newest 1.20 release.\nIt works for both single recipes and steps of a sequences assembly recipe.\nExamples for these can be found in the [example datapack](https://github.com/PssbleTrngle/SliceAndDice/raw/1.20.x/example_datapack.zip).\n",
 		"name": "Create Slice & Dice",
 		"package_maintainers": [
 			"mcvm"
@@ -864,6 +977,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.4.0",
+			"3.3.1",
+			"3.3.0",
 			"3.2.3",
 			"3.2.2",
 			"3.2.1",
@@ -875,6 +991,9 @@
 			"3.0.2",
 			"3.0.1",
 			"3.0.0",
+			"2.6.1",
+			"2.6.0",
+			"2.4.0",
 			"2.3.5",
 			"2.3.4",
 			"2.3.3",
@@ -894,6 +1013,7 @@
 			"2.0.2",
 			"2.0.1",
 			"2.0.0",
+			"1.4.0",
 			"1.3.3",
 			"1.3.2",
 			"1.3.1",

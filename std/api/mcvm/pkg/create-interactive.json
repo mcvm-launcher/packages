@@ -4,6 +4,93 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.1-beta.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"create",
+							"kotlin-support",
+							"valkyrien-skies"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MyfCcqiE/versions/qvzfN0zX/create_interactive-1.1.1-beta.3_1.20.1-forge.jar",
+					"version": "qvzfN0zX"
+				},
+				{
+					"content_versions": "1.1.1-beta.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"create",
+							"valkyrien-skies"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MyfCcqiE/versions/YT1Sriuq/create_interactive-1.1.1-beta.3_1.20.1-fabric.jar",
+					"version": "YT1Sriuq"
+				},
+				{
+					"content_versions": "1.1.1-beta.3",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"create",
+							"kotlin-support",
+							"valkyrien-skies"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MyfCcqiE/versions/3bM5pXjm/create_interactive-1.1.1-beta.3_1.19.2-forge.jar",
+					"version": "3bM5pXjm"
+				},
+				{
+					"content_versions": "1.1.1-beta.3",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"create",
+							"valkyrien-skies"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MyfCcqiE/versions/N6Rx1cEn/create_interactive-1.1.1-beta.3_1.19.2-fabric.jar",
+					"version": "N6Rx1cEn"
+				},
+				{
+					"content_versions": "1.1.1-beta.3",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"create",
+							"valkyrien-skies"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MyfCcqiE/versions/eZCvbEVj/create_interactive-1.1.1-beta.3_1.18.2-fabric.jar",
+					"version": "eZCvbEVj"
+				},
+				{
+					"content_versions": "1.1.1-beta.3",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"create",
+							"kotlin-support",
+							"valkyrien-skies"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/MyfCcqiE/versions/Xo27CmDO/create_interactive-1.1.1-beta.3_1.18.2-forge.jar",
+					"version": "Xo27CmDO"
+				},
+				{
 					"content_versions": "1.0.3-beta.2-e045de2a48",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -180,9 +267,9 @@
 	},
 	"meta": {
 		"authors": [
+			"Brickyboy",
 			"StewStrong",
 			"ThePlasticPotato1",
-			"mrsterner",
 			"rubydesic"
 		],
 		"banner": "https://cdn.modrinth.com/data/MyfCcqiE/images/01ae9b8cf7f45fe1eeb5456d0ed8a8065ebfed9e.gif",
@@ -192,9 +279,9 @@
 			"https://cdn.modrinth.com/data/MyfCcqiE/images/01ae9b8cf7f45fe1eeb5456d0ed8a8065ebfed9e.gif",
 			"https://cdn.modrinth.com/data/MyfCcqiE/images/8f8026f881881d5841ab1dc3c26d6a6bd5f5450b.gif"
 		],
-		"icon": "https://cdn.modrinth.com/data/MyfCcqiE/65d2d36890216711bef3bd08f0f4f7ab853e83ad.png",
+		"icon": "https://cdn.modrinth.com/data/MyfCcqiE/f8e2aaaf20d95e513d8817248d3aa8cb55f01615_96.webp",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/GjVxY_PsYks\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n# Create: Interactive\n\nInteract with your Create contraptions in ways never before possible! With Interactive, all contraptions behave just like Minecraft blocks, so build, break, stack, and cause controlled chaos to your heart's content!\n\n## Features\n\n### Train Derailment\n\n- The big one everyone has been asking for, Trains can finally derail off of tracks!\n- Trains also keep their momentum and can push other derailed trains while still on their tracks! <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/XIApl0JMHu0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Rotation Propagator Bearing\n\n- A modified mechanical bearing that propagates rotation to its contraption.\n- Especially useful for Sub-Contraptions! ![Rotation Propagator Bearing Spinning](https://cdn.modrinth.com/data/MyfCcqiE/images/01ae9b8cf7f45fe1eeb5456d0ed8a8065ebfed9e.gif)\n\n- Also included is a disjointed variant, with propagated rotation controlled via an embedded cogwheel. ![Disjoint Rotation Propagator Bearing Spinning](https://cdn.modrinth.com/data/MyfCcqiE/images/8f8026f881881d5841ab1dc3c26d6a6bd5f5450b.gif)\n\n### Interactive Contraptions\n\n- Place and destroy blocks on contraptions just like regular Minecraft! <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/IZBSAnO8qLw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Train Buffer Stop\n\n- By default trains will roll off of tracks when they reach the end of the line!\n- Use Train Buffer Stops to prevent your train from rolling off the tracks.\n\n## Check out our Discord for News & Updates\n[![Discord Banner Logo](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b52aa9e99b832574a53_full_logo_blurple_RGB.png)](https://discord.gg/dWwM8G3)",
+		"long_description": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/GjVxY_PsYks\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n# Create: Interactive\n\nInteract with your Create contraptions in ways never before possible! With Interactive, all contraptions behave just like Minecraft blocks, so build, break, stack, and cause controlled chaos to your heart's content!\n\n## \"Help, my stuff isn't interactive\"\nAs of the last few updates, you now need to put the \"interact me block\" on any contraption you want interactive. You can change this behavior in the server config, allowing for contraptions to be interactive by default again.\n\n<details>\n<summary>How to get to the config</summary>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/GEfZ5DULwnc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n</details>\n\n\n\n## Features\n\n### Train Derailment\n\n- The big one everyone has been asking for, Trains can finally derail off of tracks!\n- Trains also keep their momentum and can push other derailed trains while still on their tracks! <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/XIApl0JMHu0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Rotation Propagator Bearing\n\n- A modified mechanical bearing that propagates rotation to its contraption.\n- Especially useful for Sub-Contraptions! ![Rotation Propagator Bearing Spinning](https://cdn.modrinth.com/data/MyfCcqiE/images/01ae9b8cf7f45fe1eeb5456d0ed8a8065ebfed9e.gif)\n\n\n### Interactive Contraptions\n\n- Place and destroy blocks on contraptions just like regular Minecraft! <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/IZBSAnO8qLw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Train Buffer Stop\n\n- By default trains will roll off of tracks when they reach the end of the line!\n- Use Train Buffer Stops to prevent your train from rolling off the tracks.\n\n## Check out our Discord for News & Updates\n[![Discord Banner Logo](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b52aa9e99b832574a53_full_logo_blurple_RGB.png)](https://discord.gg/dWwM8G3)",
 		"name": "Create: Interactive",
 		"package_maintainers": [
 			"mcvm"
@@ -202,6 +289,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.1.1-beta.3",
 			"1.1.0-beta.1",
 			"1.0.3-beta.2",
 			"1.0.3-beta.2-e045de2a48",

@@ -4,6 +4,156 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.19.10-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/fxEK8ISQ/mythicmetals-0.19.10%2B1.20.1.jar",
+					"version": "fxEK8ISQ"
+				},
+				{
+					"content_versions": "0.22.3-1.21",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/GYv7SbwN/mythicmetals-0.22.3%2B1.21.jar",
+					"version": "GYv7SbwN"
+				},
+				{
+					"content_versions": "0.22.2-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/1qHVN4oA/mythicmetals-0.22.2%2B1.21.jar",
+					"version": "1qHVN4oA"
+				},
+				{
+					"content_versions": "0.22.1-1.21",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/lpfQe2zj/mythicmetals-0.22.1%2B1.21.jar",
+					"version": "lpfQe2zj"
+				},
+				{
+					"content_versions": "0.22.0-1.21",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/dinTy28I/mythicmetals-0.22.0%2B1.21.jar",
+					"version": "dinTy28I"
+				},
+				{
+					"content_versions": "0.21.0-1.21",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/bGnr483k/mythicmetals-0.21.0%2B1.21.jar",
+					"version": "bGnr483k"
+				},
+				{
+					"content_versions": "0.20.2-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/7q8lJhxH/mythicmetals-0.20.2%2B1.21.jar",
+					"version": "7q8lJhxH"
+				},
+				{
+					"content_versions": "0.20.1-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/VDByzfQk/mythicmetals-0.20.1%2B1.21.jar",
+					"version": "VDByzfQk"
+				},
+				{
+					"content_versions": "0.20.0-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/ZIfuUDWZ/mythicmetals-0.20.0%2B1.21.jar",
+					"version": "ZIfuUDWZ"
+				},
+				{
+					"content_versions": "0.20.0-1.21-alpha6",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"alloy-forgery",
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/veDBwPco/mythicmetals-0.20.0%2B1.21-alpha6.jar",
+					"version": "veDBwPco"
+				},
+				{
 					"content_versions": "0.20.0-1.21-alpha5",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -1342,22 +1492,22 @@
 		"description": "Adds a large variety of ores, toolsets, weapons and armor to the game.",
 		"documentation": "https://github.com/Noaaan/MythicMetals/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/0e36f8e6055a571174ba33c0a5d8793edc3644bb.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/154aacbabc4f35ccddabadcec0ab82b2ddb2bff6.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/22a695e06a58ac4c787c047cda9edf0e55bca96d.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/236f66b29459368b4d345877812cd04efd236258.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/3143379bbc55d0885fdf074ddd36c48350a980ac.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/4d0200cda44388801ea8b21149ae334c53a0d590.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/77d238d5d411fe0e80e24aa655a97a9e5c1829f1.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/7d2ac5593d788adc532f30786aa02cc3c90ed0b4.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/851aeb73373c3afd06055f4314eacfc05750202d.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/cb7af0704b29531f2f94c20ec4a4768b8166466b.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/cdc5b503a72bfec76edc59ac2947ac6c0fe8b795.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/e3386259edb28da483789c7262205a6f59faea9f.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/e49882761281132fb23afbea5133fa01e67bf420.png",
-			"https://cdn.modrinth.com/data/bAWzYNRd/images/f9037bb8e2ebedf11645e3c886ef0d47c693f2a9.png"
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/1290a4d5a10b3f2cabf22887967f67da87065792_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/15a405350cbba18bde4344eb30336286af51cbc9_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/230b21b539a8a925928819863cbd3a586b2cf139_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/34d5a5e67591ea9bd5ef8347f5d01c54923c8fa6_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/4af33778933f36e061de142e0b5a99d41191d846_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/521b028389268f0588aaff09aeb44b3d2b10dbd7_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/6e6e31a05ded12c6d02fab6cf32e27fe0f75fa26_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/6f07b2ebc3de42ee0232cc9ca5f7200f4f1ecb09_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/6f759f3bbe22608623c6131ebf627e30946c782e_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/b62cec048c4b424d62c9643bdfb525dcc9683080_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/c118985bdff1743ff06068fb352d07b840ce9bfd_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/c2475d5ab27f9b77ba26a70f661a33b413686f72_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/c9c6cddc7600759378b1c9d5efb9a69ab04f12d1_350.webp",
+			"https://cdn.modrinth.com/data/bAWzYNRd/images/dbe1281709ba9d0b7cf0c0a000f4dc0f96128a38_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/bAWzYNRd/844230da918bb025f06e952dfeb2786129548a58.png",
+		"icon": "https://cdn.modrinth.com/data/bAWzYNRd/ca306871848f7a83f98d76153e6342e2be10cc16_96.webp",
 		"issues": "https://github.com/Noaaan/MythicMetals/issues",
 		"license": "MIT",
 		"long_description": "<span>\n<center>  \n\n![Mythic Metals](https://i.imgur.com/O83bZkx.png)\n\n<section>\nMythic Metals is a minecaft mod all about finding new ores, smelting them into ingots and alloys, and turning them into your favorite tools and armor.  \n\n</section>\n<br>\n<br>\n\n<section>\n<img src=\"https://i.imgur.com/89NhBFq.png\" alt=\"Ores and Metals\" width=\"600\" height=\"133\">\n\nThe ores in this mod all cover their own slice of the underground. There are even some in The Nether and The End!  \n\n<img src=\"https://i.imgur.com/J7wRyL5.png\" alt=\"Image of Adamantite, Mythril, Quadrillum, Silver\" width=\"1000\" height=\"700\">\n\nAfter gathering enough ores you can smelt them, blast them, or forge them with an Alloy Forge, into pretty metals or unique alloys.\n\n<img src=\"https://i.imgur.com/us9yjS3.png\" alt=\"Deepslate Alloy Forge, with its GUI\" width=\"700\" height=\"394\">\n</section>\n<br>  \n<br>  \n\n<section>\n<img src=\"https://i.imgur.com/ySTEUk4.png\" alt=\"Tools and Armor\" width=\"600\" height=\"133\">   \n\nSwords stronger than netherite, a pickaxe that can blast through an obsidian wall, and armor that grows over time. This is some of the gear you can find and craft using the metals. \n\n<img src=\"https://i.imgur.com/DUfT5Ot.png\" width=\"500\" height=\"273\" alt=\"A player carving into a wall using a Legendary Banglum Pickaxe\">  \n<img src=\"https://i.imgur.com/hZYf4tU.png\" width=\"500\" height=\"281\" alt=\"A player holding a Hallowed Sword wearing full Prometheum Armor\">\n</section>\n\n<section>\n<a href=\"https://github.com/Noaaan/MythicMetals#credits\">\n<img src=\"https://i.imgur.com/3ouE2Fn.png\" width=\"600\" height=\"133\" alt=\"Credits\" >\n</a>\n\nThis project would not be possible if not for a ton of people. Thank you to everyone who has contributed! Click the banner above for a full list of credits.\n\n</section>\n\n<a href=\"https://discord.gg/69cKvQWScC \">\n<img src=\"https://i.imgur.com/5CuR0c3.png\" width=\"400\" height=\"93\" alt=\"Discord Banner for Wraith Coding Session\">\n</a>\n</center> \n</span>",
@@ -1370,11 +1520,21 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.22.3-1.21",
+			"0.22.2-1.21",
+			"0.22.1-1.21",
+			"0.22.0-1.21",
+			"0.21.0-1.21",
+			"0.20.2-1.21",
+			"0.20.1-1.21",
+			"0.20.0-1.21",
+			"0.20.0-1.21-alpha6",
 			"0.20.0-1.21-alpha5",
 			"0.20.0-1.21-alpha4",
 			"0.20.0-1.21-alpha3",
 			"0.20.0-1.21-alpha2",
 			"0.20.0-1.21-alpha",
+			"0.19.10-1.20.1",
 			"0.19.9-1.20.1",
 			"0.19.8-1.20.1",
 			"0.19.8-1.20.1-hotfix",
@@ -1476,7 +1636,8 @@
 			"1.20.1",
 			"1.20.3",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

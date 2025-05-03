@@ -4,6 +4,86 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "5.3.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/2OT0evdM/BiomeParticleWeather-5.3.4.jar",
+					"version": "2OT0evdM"
+				},
+				{
+					"content_versions": "5.3.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/JVUtD1w6/BiomeParticleWeather-5.3.3.jar",
+					"version": "JVUtD1w6"
+				},
+				{
+					"content_versions": "5.3.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/IedOaGy1/BiomeParticleWeather-5.3.2.jar",
+					"version": "IedOaGy1"
+				},
+				{
+					"content_versions": "5.3.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/VN8QQLCx/BiomeParticleWeather-5.3.1.jar",
+					"version": "VN8QQLCx"
+				},
+				{
+					"content_versions": "5.3.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/hNdojbC7/BiomeParticleWeather-5.3.1.jar",
+					"version": "hNdojbC7"
+				},
+				{
+					"content_versions": "5.3.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/ISWQQ16Y/BiomeParticleWeather-5.3.1.jar",
+					"version": "ISWQQ16Y"
+				},
+				{
+					"content_versions": "5.3.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/135aTozf/BiomeParticleWeather-5.3.0.jar",
+					"version": "135aTozf"
+				},
+				{
+					"content_versions": "5.2.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/XuP9nsBl/BiomeParticleWeather-5.2.4.jar",
+					"version": "XuP9nsBl"
+				},
+				{
+					"content_versions": "5.2.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/FaFAImBQ/BiomeParticleWeather-5.2.4.jar",
+					"version": "FaFAImBQ"
+				},
+				{
+					"content_versions": "5.2.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XH09j5fH/versions/j9o52aK6/BiomeParticleWeather-5.2.4.jar",
+					"version": "j9o52aK6"
+				},
+				{
 					"content_versions": "5.2.3",
 					"minecraft_versions": "1.20.5",
 					"modloaders": "fabriclike",
@@ -362,8 +442,9 @@
 			"shadowmaster435"
 		],
 		"description": "Replaces the old weather rendering with particles while spicing it up by adding new effects!",
+		"documentation": "https://github.com/shadowmaster435/Impactful_Weather/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/XH09j5fH/images/57ec25e26db737340914b78268e26c5b2ccba8d5.png"
+			"https://cdn.modrinth.com/data/XH09j5fH/images/57ec25e26db737340914b78268e26c5b2ccba8d5_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/XH09j5fH/a0030341759109348fcbf384c8d7b1c3f706844e.png",
 		"issues": "https://github.com/shadowmaster435/Impactful_Weather/issues",
@@ -378,6 +459,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"5.3.4",
+			"5.3.3",
+			"5.3.2",
+			"5.3.1",
+			"5.3.0",
+			"5.2.4",
 			"5.2.3",
 			"5.2.2",
 			"5.2.1",
@@ -392,9 +479,9 @@
 			"v4.0.2-1.18.2-1.18.2",
 			"5.0.2",
 			"5.0.1",
+			"4.0.1",
 			"v4.0.0-1.19",
 			"5.0.0",
-			"4.0.1",
 			"4.0.0"
 		],
 		"modrinth_id": "XH09j5fH",
@@ -413,7 +500,11 @@
 			"1.19.4",
 			"1.20.1",
 			"1.20.4",
-			"1.20.5"
+			"1.20.5",
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4"
 		]
 	}
 }

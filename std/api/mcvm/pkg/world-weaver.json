@@ -4,6 +4,51 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "21.0.13",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/RiN8rDVs/versions/mPmeykPR/worldweaver-21.0.13.jar",
+					"version": "mPmeykPR"
+				},
+				{
+					"content_versions": "21.0.12",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/RiN8rDVs/versions/MbWm7paq/worldweaver-21.0.12.jar",
+					"version": "MbWm7paq"
+				},
+				{
+					"content_versions": "21.0.11",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/RiN8rDVs/versions/E0uhj81Y/worldweaver-21.0.11.jar",
+					"version": "E0uhj81Y"
+				},
+				{
 					"content_versions": "21.0.10",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -162,7 +207,7 @@
 		],
 		"description": "A Fabric utility mod that aims to streamline common modding\ntasks, particularly those related to world creation. As a successor to BCLib, WoVer is intended to eventually take its\nplace.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/RiN8rDVs/ece927fd6e559f49f24ac0db85b050c9afdb191a.jpeg",
+		"icon": "https://cdn.modrinth.com/data/RiN8rDVs/f38c47b3c1839f2c72c14055626e8f95799e2a73_96.webp",
 		"issues": "https://github.com/quiqueck/WorldWeaver/issues",
 		"license": "MIT",
 		"long_description": "![WorldWeaver Banner](https://cdn.modrinth.com/data/cached_images/3d3a84901a34aee0d495df6fb5bbd4d2751448f2.png)\n\n**WorldWeaver**, or *WoVer* for short, is a Fabric utility mod for Minecraft that aims to streamline common modding\ntasks, particularly those related to world creation. As a successor to BCLib, WoVer is intended to eventually take its\nplace. Embracing Minecraft's data-driven world generation methodology, it aims to increase the value of data elements\n(i.e. ResourcePacks, DataPacks, etc.) in modding, and to provide a more flexible and powerful way to create and modify\nworlds.\nIn addition, WoVer is designed to integrate seamlessly with the vanilla game, other mods and world generation data\npacks.\n\n**Please note** that this mod is still in early development and is not yet ready for use. This means that:\n\n- The API is not yet stable and may change significantly between versions.\n- There may be game breaking bugs that cannot be undone and may destroy worlds.\n- Documentation may be missing for some parts, especially those that are still under active development.\n\nWe will provide more information in the near future.",
@@ -174,6 +219,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"21.0.13",
+			"21.0.12",
+			"21.0.11",
 			"21.0.10",
 			"21.0.9",
 			"21.0.8",
@@ -196,7 +244,8 @@
 			"server"
 		],
 		"supported_versions": [
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

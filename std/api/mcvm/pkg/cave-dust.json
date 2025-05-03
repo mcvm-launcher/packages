@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jawg7zT1/versions/8zG4dQ2R/cave_dust-3.0.1.jar",
+					"version": "8zG4dQ2R"
+				},
+				{
 					"content_versions": "3.0.0",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -32,6 +40,38 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/jawg7zT1/versions/HsgCicxl/cavedust-3.0.0.jar",
 					"version": "HsgCicxl"
+				},
+				{
+					"content_versions": "3.0.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jawg7zT1/versions/bOMdBIG9/cave_dust-3.0.1.jar",
+					"version": "bOMdBIG9"
+				},
+				{
+					"content_versions": "3.0.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jawg7zT1/versions/DdAfWlDz/cave_dust-3.0.1.jar",
+					"version": "DdAfWlDz"
+				},
+				{
+					"content_versions": "3.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jawg7zT1/versions/AgibXkVK/cave_dust-3.0.1.jar",
+					"version": "AgibXkVK"
+				},
+				{
+					"content_versions": "3.0.1",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/jawg7zT1/versions/NLBSiuC2/cave_dust-3.0.1.jar",
+					"version": "NLBSiuC2"
 				},
 				{
 					"content_versions": "3.0.0",
@@ -239,11 +279,11 @@
 		"community": "https://discord.gg/4m6kQSX6bx",
 		"description": "Dust is a Minecraft mod that adds the white ash particle from the Basalt Deltas biome to the underground to simulate dust!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/jawg7zT1/images/35c1586b8ad406086bd7d605b4efea50d7f0f87d.png",
-			"https://cdn.modrinth.com/data/jawg7zT1/images/8791e9b1956c62b827662bcec5e630b642ed4c0a.png",
-			"https://cdn.modrinth.com/data/jawg7zT1/images/dd029f80078817a3990d85be0c031051b9889240.png"
+			"https://cdn.modrinth.com/data/jawg7zT1/images/1492c4a9525fea92f453aa4076d0d06ca5198508_350.webp",
+			"https://cdn.modrinth.com/data/jawg7zT1/images/3ef5d869889222435c1e686795db0db9907f8211_350.webp",
+			"https://cdn.modrinth.com/data/jawg7zT1/images/c535c23c01dd4877d83d9c97bac701fd2a04c304_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/jawg7zT1/2e6beb501657efee1b3c42d11541656912abad32.png",
+		"icon": "https://cdn.modrinth.com/data/jawg7zT1/9db694bb9f52ba4697f2d09ab8945335585ff544_96.webp",
 		"issues": "https://github.com/LizIsTired/cave_dust/issues",
 		"license": "MPL-2.0",
 		"long_description": "## What...what is \"Cave Dust\"?\nI'm glad you asked! It's just a mod that adds the white ash particle from the Basalt Deltas biome to the underground to simulate dust! After all, the air wouldn't be 100% clear in a real mineshaft :p\n\nNow to the nitty gritty: It works by checking if the player has the sky above them while being below sea level and then scales the amount of particles based on depth.\n\nIt has a config system that you can access using Mod Menu, most things you can change in-game, but to change the particle you'll need to open the config file manually :)\nAs a note, it doesn't activate in the Lush Caves biome, since it already has it's own particles :p\n\nThis was inspired by Dylanstime in the [moonflower Discord server](​https://www.moonflower.gg/discord), thanks for the idea!\n![Screenshot of Discord message from Dylanstime, reading: \"is it possible to copy the code for the dust in the basalt deltas and put them in caves but smaller amounts and slower\nor maybe a mod that adds effects similar to it in other biomes\"](https://media.forgecdn.net/attachments/443/991/image_2022-03-26_163011.png)\n \n\n# Dependencies\nCave Dust requires the Fabric API but everything else Cave Dust needs is included. HOWEVER, I recommend Mod Menu to be able to use the config screen :p\n\n# Showcase video\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5VO_Ye_GxLo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
@@ -256,6 +296,7 @@
 	"properties": {
 		"content_versions": [
 			"v1.4.1_1.19.4",
+			"3.0.1",
 			"3.0.0",
 			"2.0.4",
 			"2.0.3",
@@ -285,7 +326,11 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

@@ -4,6 +4,198 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v21.5.0-1.21.5-Neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/BDxqoQml/BetterTridents-v21.5.0-1.21.5-NeoForge.jar",
+					"version": "BDxqoQml"
+				},
+				{
+					"content_versions": "v21.5.0-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/huwPvWUd/BetterTridents-v21.5.0-1.21.5-Fabric.jar",
+					"version": "huwPvWUd"
+				},
+				{
+					"content_versions": "v21.4.0-1.21.4-Neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/QMm5M0WZ/BetterTridents-v21.4.0-1.21.4-NeoForge.jar",
+					"version": "QMm5M0WZ"
+				},
+				{
+					"content_versions": "v21.4.0-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/VS0R5MSy/BetterTridents-v21.4.0-1.21.4-Fabric.jar",
+					"version": "VS0R5MSy"
+				},
+				{
+					"content_versions": "v21.3.0-1.21.3-Neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/tSSpt8F2/BetterTridents-v21.3.0-1.21.3-NeoForge.jar",
+					"version": "tSSpt8F2"
+				},
+				{
+					"content_versions": "v21.3.0-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/nEXqcATu/BetterTridents-v21.3.0-1.21.3-Fabric.jar",
+					"version": "nEXqcATu"
+				},
+				{
+					"content_versions": "v21.1.0-1.21.1-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/UVSMPjiS/BetterTridents-v21.1.0-1.21.1-NeoForge.jar",
+					"version": "UVSMPjiS"
+				},
+				{
+					"content_versions": "v21.1.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/qKA8h2Ni/BetterTridents-v21.1.0-1.21.1-Fabric.jar",
+					"version": "qKA8h2Ni"
+				},
+				{
+					"content_versions": "v21.0.1-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/VnhAD9hV/BetterTridents-v21.0.1-1.21-NeoForge.jar",
+					"version": "VnhAD9hV"
+				},
+				{
+					"content_versions": "v21.0.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/urYriZWB/BetterTridents-v21.0.1-1.21-Fabric.jar",
+					"version": "urYriZWB"
+				},
+				{
+					"content_versions": "v21.0.0-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/SG66Iuyb/BetterTridents-v21.0.0-1.21-NeoForge.jar",
+					"version": "SG66Iuyb"
+				},
+				{
+					"content_versions": "v21.0.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KNUSlHiU/versions/FZ4m5G8W/BetterTridents-v21.0.0-1.21-Fabric.jar",
+					"version": "FZ4m5G8W"
+				},
+				{
 					"content_versions": "v20.4.0-1.20.4-Neo",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -294,12 +486,12 @@
 			"Fuzs",
 			"LunaPixelStudios"
 		],
-		"banner": "https://cdn.modrinth.com/data/KNUSlHiU/images/8ca1cc02aa75da5a6c9174fc9062fbab7a5bcbb3.png",
+		"banner": "https://cdn.modrinth.com/data/KNUSlHiU/images/e5cf08b16035e5503942db63aa838de5781c85e8_350.webp",
 		"description": "You did not know your trident could do that!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/KNUSlHiU/images/8ca1cc02aa75da5a6c9174fc9062fbab7a5bcbb3.png"
+			"https://cdn.modrinth.com/data/KNUSlHiU/images/e5cf08b16035e5503942db63aa838de5781c85e8_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/KNUSlHiU/icon.png",
+		"icon": "https://cdn.modrinth.com/data/KNUSlHiU/89f348ddb182c9733f4ea4eb492a64eb0983ec00_96.webp",
 		"issues": "https://github.com/Fuzss/bettertridents/issues",
 		"license": "MPL-2.0",
 		"long_description": "<p><img src=\"https://i.imgur.com/go1pRmx.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/lHSmULI.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/Available%20for%20Minecraft-1.19-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"248\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20%26%20Server-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"240\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/better-tridents/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7498\"><img src=\"https://bit.ly/3yrSsw7\" width=\"320\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/better-tridents/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><img src=\"https://bit.ly/3clkhvn\" width=\"299\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/lHSmULI.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📖 About:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Better Tridents</strong> brings some small, but much need improvements to tridents. Especially the loyalty enchantment is much more useful, and there's even a crafting recipe for tridents themselves!</span></p>\n<p><img src=\"https://i.imgur.com/lHSmULI.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📚 Contents:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Tridents Finally Have A Crafting Recipe!</strong> No longer will you solely receive this ancient weapon from a reskinned zombie: Every noticed how there are three elder guardians in an ocean monument, and a trident has exactly three jags? Well, that's not a coincidence anymore! Each elder guardian will drop a <strong>Trident Fragment</strong>; combine those with a few prismarine shards, and there's your brand new trident!</span></p>\n<p><span style=\"font-size: 14px;\">But what do you do when your trident is about to run out of durability? Simple: <strong>Repair It With Some Prismarine Shards</strong> using an anvil! Why do you even ask, that's obvious, isn't it?</span></p>\n<p><span style=\"font-size: 14px;\">Let's talk about the loyalty enchantment: So your trident comes back to you, nice. But where does it go? Somewhere in your inventory to dig up again? And when you throw it into the void in the End, it's just gone. And what about all the fancy loot from the mobs you've slain, you need to go over there to collect it. Really? Well, all fixed: Tridents always return to the slot they are thrown from (even without loyalty), when thrown into the void they return, and any loot dropped by mobs will come flying at you together with the trident itself.</span></p>\n<p><span style=\"font-size: 14px;\">Besides that, <strong>Impaling Works As It Does On Bedrock Edition</strong>: any mob in contact with water or rain will receive increased damage. This is especially great, since tridents now finally work against those annoying drowneds infesting your beautiful oceans.</span></p>\n<p><img src=\"https://i.imgur.com/lHSmULI.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📷 Media:</strong></span></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/491/965/2022-08-31_22.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/491/966/2022-08-31_22.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Tridents with loyalty collect all drops for you</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Your trident is damaged? Just repair it!</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/491/967/2022-08-31_22.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/491/968/2022-08-31_22.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Three jags on a trident, three elder guardians ...hmm</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Crafting a trident from trident fragments</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/lHSmULI.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>💡 FAQ:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod on Forge?</strong><br /><strong>A:</strong> Install my <span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><span style=\"font-size: 14px;\"><strong>Config Menus for Forge</strong></span></a> mod and do it directly in-game!</span></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod on Fabric?</strong><br /><strong>A:</strong> Editing configs directly in-game has not yet been implemented. Instead when in a world run the <code>/config showfile &lt;modid&gt;</code> command by choosing either <code>CLIENT</code> or <code>SERVER</code> (depending on the mod), then click the file name (ending with .toml) that appears in chat to be able to manually edit the config file in a separate editor. After saving the file, the config will automatically reload in-game after a couple of seconds, so no game restart required.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Where can I download this mod for Forge on versions of Minecraft before 1.17?</strong><br /><strong>A:</strong> The content of Better Tridents used to be part of my old <a href=\"https://www.curseforge.com/minecraft/mc-mods/sneaky-curses-forge\"><span style=\"font-size: 14px;\">Sneaky Magic</span></a> mod (which has now been renamed).</span></p>\n<p><img src=\"https://i.imgur.com/lHSmULI.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>🏆 Credits:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Developing Better Tridents was helped and inspired by:</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.youtube.com/c/SimplySarc\"><span style=\"font-size: 14px;\"><strong>SimplySarc</strong></span></a> for inspiring the trident crafting mechanic from their video on <a href=\"https://youtu.be/KNwi8gPengY?t=74\"><span style=\"font-size: 14px;\">Improving The Update Aquatic</span></a> mod</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/releasehun\"><span style=\"font-size: 14px;\"><strong>releaseHUN</strong></span></a> for creating that dandy trident fragment texture</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/zero_dsrs_vx\"><span style=\"font-size: 14px;\"><strong>Zero_DSRS_VX</strong></span></a> for the idea of repairing tridents in an anvil using prismarien shards from their <a href=\"https://www.curseforge.com/minecraft/mc-mods/repairable-tridents-fabric\"><span style=\"font-size: 14px;\">Repairable Tridents</span></a> mod</span></li>\n</ul>\n<p><img src=\"https://i.imgur.com/lHSmULI.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/lunapixelstudios/projects\"><img src=\"https://img.shields.io/static/v1?label=CurseForge&amp;message=LunaPixelStudios&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"282\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/LunaPixelStudio\"><img src=\"https://img.shields.io/twitter/follow/LunaPixelStudio?label=Twitter&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"149\" height=\"28\" /></a>&emsp;<a href=\"https://discord.gg/8ZmhaPPbjE\"><img src=\"https://img.shields.io/discord/790272037578473512?label=Discord&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"220\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/1MOyd2u.png\" width=\"854\" height=\"300\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/lHSmULI.png\" width=\"854\" height=\"14\" /></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/universal-enchants-forge\"><img src=\"https://i.imgur.com/MynoO6R.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier\"><img src=\"https://i.imgur.com/DCwxKZU.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/bag-of-holding-forge\"><img src=\"https://i.imgur.com/8gTQlTt.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/stylish-effects\"><img src=\"https://i.imgur.com/fmWwWkZ.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/golden-age-combat\"><img src=\"https://i.imgur.com/sHiR309.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><img src=\"https://i.imgur.com/kiHP8s9.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/magnum-torch-forge\"><img src=\"https://i.imgur.com/0BsNlDT.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/air-hop\"><img src=\"https://i.imgur.com/MinxlVJ.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/trading-post\"><img src=\"https://i.imgur.com/UzgNFIB.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/spiky-spikes\"><img src=\"https://i.imgur.com/Edo5jnW.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/lHSmULI.png\" width=\"854\" height=\"14\" /></p>",
@@ -320,6 +512,18 @@
 			"v4.0.1-1.19.2",
 			"v4.0.0-1.19.2",
 			"v3.0.0-1.18.2",
+			"v21.5.0-1.21.5",
+			"v21.5.0-1.21.5-Neo",
+			"v21.4.0-1.21.4",
+			"v21.4.0-1.21.4-Neo",
+			"v21.3.0-1.21.3",
+			"v21.3.0-1.21.3-Neo",
+			"v21.1.0-1.21.1",
+			"v21.1.0-1.21.1-Neo",
+			"v21.0.1-1.21",
+			"v21.0.1-1.21-Neo",
+			"v21.0.0-1.21",
+			"v21.0.0-1.21-Neo",
 			"v20.4.0-1.20.4",
 			"v20.4.0-1.20.4-Neo"
 		],
@@ -339,7 +543,12 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

@@ -4,6 +4,125 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.1.3.1-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/6ieFvLdP/expandeddelight-0.1.3.1.jar",
+					"version": "6ieFvLdP"
+				},
+				{
+					"content_versions": "0.1.3-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/M3uGMhGd/expandeddelight-0.1.3.jar",
+					"version": "M3uGMhGd"
+				},
+				{
+					"content_versions": "0.3.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "farmers-delight"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/4KEfJPHI/expandeddelight-0.3.2.jar",
+					"version": "4KEfJPHI"
+				},
+				{
+					"content_versions": "0.1.2.2-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/bDKZTska/expandeddelight-0.1.2.2.jar",
+					"version": "bDKZTska"
+				},
+				{
+					"content_versions": "0.2.5.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/7xSVX6Py/expandeddelight-0.2.5.2.jar",
+					"version": "7xSVX6Py"
+				},
+				{
+					"content_versions": "0.1.2.1-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/ZwGjGEOj/expandeddelight-0.1.2.1.jar",
+					"version": "ZwGjGEOj"
+				},
+				{
+					"content_versions": "0.1.2-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/GFkMKksh/expandeddelight-0.1.2.jar",
+					"version": "GFkMKksh"
+				},
+				{
+					"content_versions": "0.1.1.1-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/6rPoNNG7/expandeddelight-0.1.1.1.jar",
+					"version": "6rPoNNG7"
+				},
+				{
+					"content_versions": "0.1.1-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "farmers-delight"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/LTsPepNM/expandeddelight-0.1.1.jar",
+					"version": "LTsPepNM"
+				},
+				{
 					"content_versions": "0.3.1",
 					"minecraft_versions": [
 						"1.20",
@@ -234,12 +353,12 @@
 			"ianm1647"
 		],
 		"community": "https://discord.gg/qyYwHykSmE",
-		"description": "An addon mod for Farmer's Delight Fabric that adds many more crops and functionality to the base mod",
+		"description": "An addon mod for Farmer's Delight\nthat adds many more crops and functionality to the base mod",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/e9V6wFcR/de44e0f207721eb790ed1f4f5565a59c1d4ce713.png",
+		"icon": "https://cdn.modrinth.com/data/e9V6wFcR/4cbbace573b20628290929948a77c74d95ed7a70.png",
 		"issues": "https://github.com/ianm1647/expandeddelight/issues",
 		"license": "MIT",
-		"long_description": "<h4 align=\"center\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://media.forgecdn.net/attachments/459/521/logo.png\" alt=\"\" width=\"408\" height=\"123\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://ibb.co/C2bDF1p\" alt=\"\" /></h4>\n<h3 align=\"center\">Expansion mod for Farmer's Delight Fabric.</h3>\n<h4 align=\"center\">Download Farmer's Delight <a href=\"https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric\">here</a></h4>\n<p align=\"center\">&nbsp;</p>\n<h5 align=\"center\">You can find the current and planned features for the mod <a href=\"https://github.com/ianm1647/expandeddelight/issues/1\">here</a></h5>\n<h5 align=\"center\">Feel free to suggest anything you may want as in this mod is a WIP.</h5>\n<p align=\"center\">&nbsp;</p>\n<p align=\"center\">&nbsp;</p>",
+		"long_description": "<p>&nbsp;<img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://media.forgecdn.net/attachments/1067/753/some-logo.png\" alt=\"https://media.forgecdn.net/attachments/925/230/banner.png\" width=\"471\" height=\"142\"></p>\n<h2>📖<strong>About:</strong></h2>\n<hr>\n<p>Expanded Delight is a mod that gradually expands upon Farmer's Delight by adding new crops, blocks, workstations, and more! You can find the current and future features <a href=\"https://github.com/ianm1647/expandeddelight/issues/1\" target=\"_blank\" rel=\"nofollow noopener\"><strong>here</strong></a>!</p>\n<p>&nbsp;</p>\n<h3><strong>🔨 Mod Loaders<br></strong></h3>\n<p>Expanded Delight is supported for&nbsp;<strong>NeoForge&nbsp;</strong>and&nbsp;<strong>Fabric </strong>(1.21.1 fabric is being worked on)</p>\n<p>&nbsp;</p>\n<h3>📦&nbsp;<strong>Beta Version</strong></h3>\n<p>This mod is&nbsp;<strong>under development</strong>, that's why it may be unstable sometimes. Report&nbsp;<strong>any</strong>&nbsp;issues to&nbsp;<strong>GitHub</strong>, it can be found&nbsp;<strong>below</strong>.</p>\n<p style=\"text-align: center;\">&nbsp;</p>",
 		"name": "Expanded Delight",
 		"package_maintainers": [
 			"mcvm"
@@ -249,11 +368,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.3.2",
 			"0.3.1",
 			"0.3.0.3",
 			"0.3.0.2",
 			"0.3.0.1",
 			"0.3.0",
+			"0.2.5.2",
 			"0.2.5",
 			"0.2",
 			"0.1.9.1",
@@ -262,8 +383,15 @@
 			"0.1.6",
 			"0.1.5",
 			"0.1.4",
+			"0.1.3-neo",
+			"0.1.3.1-neo",
 			"0.1.3",
+			"0.1.2-neo",
+			"0.1.2.2-neo",
+			"0.1.2.1-neo",
 			"0.1.2",
+			"0.1.1-neo",
+			"0.1.1.1-neo",
 			"0.1.1",
 			"0.1.0"
 		],
@@ -281,7 +409,9 @@
 			"1.19.1",
 			"1.19.2",
 			"1.20",
-			"1.20.1"
+			"1.20.1",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

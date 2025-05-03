@@ -4,6 +4,21 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.0.0-alpha.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/fRbqPLg4/versions/jsW24MK2/satin-3.0.0-alpha.1.jar",
+					"version": "jsW24MK2"
+				},
+				{
 					"content_versions": "2.0.0",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -230,6 +245,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.0.0-alpha.1",
 			"2.0.0",
 			"1.18.0",
 			"1.17.0",
@@ -274,7 +290,11 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4"
 		]
 	}
 }

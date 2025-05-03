@@ -4,6 +4,69 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.5.1-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib",
+							"trique-api"
+						],
+						"recommendations": {
+							"value": "mythic-upgrades"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KuQueJOG/versions/t8JPO7hg/wardentools-2.5.1%2Bmc1.21.jar",
+					"version": "t8JPO7hg"
+				},
+				{
+					"content_versions": "2.5.0-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib",
+							"trique-api"
+						],
+						"recommendations": {
+							"value": "mythic-upgrades"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KuQueJOG/versions/3OXDNhh4/wardentools-2.5.0%2Bmc1.21.jar",
+					"version": "3OXDNhh4"
+				},
+				{
+					"content_versions": "2.5.0-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib",
+							"trique-api"
+						],
+						"recommendations": {
+							"value": "mythic-upgrades"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/KuQueJOG/versions/xirQaXbP/wardentools-2.5.0%2Bmc1.20.1.jar",
+					"version": "xirQaXbP"
+				},
+				{
 					"content_versions": "2.4.0-mc1.20.4",
 					"minecraft_versions": [
 						"1.20.3",
@@ -191,15 +254,16 @@
 	},
 	"meta": {
 		"authors": [
+			"CyberSteve777",
 			"TriQue06",
 			"zyablik"
 		],
 		"community": "https://discord.gg/gT8864sMNQ",
 		"description": "Warden Tools adds new Warden gear and completely overhauls Ancient City loot.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/KuQueJOG/8248432c6aefcd4873a61538b5752c7a56e1b0ae.gif",
+		"icon": "https://cdn.modrinth.com/data/KuQueJOG/2e20592158d2f6cb07c830edd957edebc52f54f9_96.webp",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "- ## TriQue API is hardly recommended for compatibility! [Click here to download](https://modrinth.com/mod/trique-api)\n\n<a href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://img.shields.io/badge/dependency-fabric-blue?labelColor=2D2D2D&amp;style=for-the-badge\" /> </a>&nbsp; <a href=\"https://modrinth.com/mod/trique-api\"><img src=\"https://img.shields.io/badge/requires-trique api-blue?labelColor=2D2D2D&amp;style=for-the-badge\" /> </a>&nbsp; <a href=\"https://discord.gg/gT8864sMNQ\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/1005186301496131634?color=blue&amp;labelColor=2D2D2D&amp;label=JOIN DISCORD&amp;style=for-the-badge\" /> </a>&nbsp; <img src=\"https://cf.way2muchnoise.eu/short_635510.svg?badge_style=for_the_badge\" /></p>\n\n![Warden Tools Title](https://i.imgur.com/5QGYosr.png)\n\n![Warden Tools adds new Warden gear and Echo Staff! Craft Echo Ingot, you'll need Soul of Warden which is dropped by Warden and Echo Shards. Warden gear is much stronger than netherite!](https://i.imgur.com/ibsfC8T.png)",
+		"long_description": "- ## TriQue API is hardly recommended for compatibility! [Click here to download](https://modrinth.com/mod/trique-api)\n<a href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://img.shields.io/badge/dependency-fabric-blue?labelColor=2D2D2D&amp;style=for-the-badge\" /> </a>&nbsp; <a href=\"https://modrinth.com/mod/trique-api\"><img src=\"https://img.shields.io/badge/requires-trique api-blue?labelColor=2D2D2D&amp;style=for-the-badge\" /> </a>&nbsp; <a href=\"https://discord.gg/gT8864sMNQ\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/1005186301496131634?color=blue&amp;labelColor=2D2D2D&amp;label=JOIN DISCORD&amp;style=for-the-badge\" /> </a>&nbsp; <img src=\"https://cf.way2muchnoise.eu/short_635510.svg?badge_style=for_the_badge\" /></p>\n## Pictures show version earlier than 2.5.0 (They will be updated later)\n![Warden Tools Title](https://i.imgur.com/5QGYosr.png)\n\n![Warden Tools adds new Warden gear and Echo Staff! Craft Echo Ingot, you'll need Soul of Warden which is dropped by Warden and Echo Shards. Warden gear is much stronger than netherite!](https://i.imgur.com/ibsfC8T.png)",
 		"name": "Warden Tools",
 		"package_maintainers": [
 			"mcvm"
@@ -214,6 +278,9 @@
 			"mc1.20.1-2.3.0",
 			"mc1.20.1-2.2.1",
 			"mc1.20.1-2.2.0",
+			"2.5.1-mc1.21",
+			"2.5.0-mc1.21",
+			"2.5.0-mc1.20.1",
 			"2.4.0-mc1.20.4",
 			"2.4.0-mc1.20.2",
 			"2.4.0-mc1.20.1",
@@ -231,7 +298,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

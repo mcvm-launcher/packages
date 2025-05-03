@@ -4,6 +4,106 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.11",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/4AhpotG7/Prism-1.21.1-forge-1.0.11.jar",
+					"version": "4AhpotG7"
+				},
+				{
+					"content_versions": "1.0.11",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar",
+					"version": "kMcz2lDj"
+				},
+				{
+					"content_versions": "1.0.11",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/obM5d9Uv/Prism-1.21.1-fabric-1.0.11.jar",
+					"version": "obM5d9Uv"
+				},
+				{
+					"content_versions": "1.0.10",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/462qxCvE/Prism-1.21.4-forge-1.0.10.jar",
+					"version": "462qxCvE"
+				},
+				{
+					"content_versions": "1.0.10",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/AM3oL6VK/Prism-1.21.4-neoforge-1.0.10.jar",
+					"version": "AM3oL6VK"
+				},
+				{
+					"content_versions": "1.0.10",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/PCqHFHmL/Prism-1.21.3-forge-1.0.10.jar",
+					"version": "PCqHFHmL"
+				},
+				{
+					"content_versions": "1.0.10",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/TJhCKwPs/Prism-1.21.3-neoforge-1.0.10.jar",
+					"version": "TJhCKwPs"
+				},
+				{
+					"content_versions": "1.0.10",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/1ZYdW6Q9/Prism-1.21.3-fabric-1.0.10.jar",
+					"version": "1ZYdW6Q9"
+				},
+				{
+					"content_versions": "1.0.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/NYnrLePp/Prism-1.21-neoforge-1.0.9.jar",
+					"version": "NYnrLePp"
+				},
+				{
+					"content_versions": "1.0.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/oIAIn2Ww/Prism-1.21-forge-1.0.9.jar",
+					"version": "oIAIn2Ww"
+				},
+				{
+					"content_versions": "1.0.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/hIejSxjq/Prism-1.21-fabric-1.0.9.jar",
+					"version": "hIejSxjq"
+				},
+				{
 					"content_versions": "1.0.7",
 					"minecraft_versions": "1.20.6",
 					"modloaders": "forgelike",
@@ -109,6 +209,41 @@
 					"version": "IZHmnX6H"
 				},
 				{
+					"content_versions": "1.0.10",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/gFPeFgX2/Prism-1.21.4-fabric-1.0.10.jar",
+					"version": "gFPeFgX2"
+				},
+				{
+					"content_versions": "1.0.8",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/Ldd9l0k2/Prism-1.21-neoforge-1.0.8.jar",
+					"version": "Ldd9l0k2"
+				},
+				{
+					"content_versions": "1.0.8",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/10q8xkyr/Prism-1.21-forge-1.0.8.jar",
+					"version": "10q8xkyr"
+				},
+				{
+					"content_versions": "1.0.8",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/F1FRXaIf/Prism-1.21-fabric-1.0.8.jar",
+					"version": "F1FRXaIf"
+				},
+				{
 					"content_versions": "1.0.4",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -163,8 +298,8 @@
 		"description": "A library all about color! Provides lots of color-related functionality for dependent mods.",
 		"documentation": "https://github.com/AHilyard/Prism/wiki/Prism-Documentation",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/1OE8wbN0/fdaf0d78392ef6838c0fc05a6928f65394d31982.png",
-		"issues": "https://github.com/AHilyard/Prism/issues",
+		"icon": "https://cdn.modrinth.com/data/1OE8wbN0/2fecc17cdc6036b648f0defc7c9a85a6733be435_96.webp",
+		"issues": "https://discord.gg/UCKjnamDaW",
 		"keywords": [
 			"color"
 		],
@@ -179,6 +314,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.11",
+			"1.0.10",
+			"1.0.9",
+			"1.0.8",
 			"1.0.7",
 			"1.0.6",
 			"1.0.5",
@@ -208,7 +347,11 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4"
 		]
 	}
 }

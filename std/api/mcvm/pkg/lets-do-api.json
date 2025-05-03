@@ -4,37 +4,32 @@
 			"kind": "mod",
 			"versions": [
 				{
-					"content_versions": "1.3.0.1",
-					"minecraft_versions": "1.21",
+					"content_versions": "1.3.0-beta-release",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
 					"modloaders": "fabriclike",
 					"relations": {
 						"dependencies": "architectury-api"
 					},
 					"stability": "latest",
-					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/tlRoNXzA/letsdo-API-fabric-1.3.0.1-fabric.jar",
-					"version": "tlRoNXzA"
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/UTi4NVLW/letsdo-API-fabric-1.3.0-beta-release-fabric.jar",
+					"version": "UTi4NVLW"
 				},
 				{
-					"content_versions": "1.3.0",
-					"minecraft_versions": "1.21",
-					"modloaders": "fabriclike",
-					"relations": {
-						"dependencies": "architectury-api"
-					},
-					"stability": "latest",
-					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/c7C7Gwgi/letsdo-API-fabric-1.3.0-fabric.jar",
-					"version": "c7C7Gwgi"
-				},
-				{
-					"content_versions": "1.3.0",
-					"minecraft_versions": "1.21",
+					"content_versions": "1.3.0-beta-release",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
 					"modloaders": "neoforged",
 					"relations": {
 						"dependencies": "architectury-api"
 					},
 					"stability": "latest",
-					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/RCy8CD3j/letsdo-API-neoforge-1.3.0-forge.jar",
-					"version": "RCy8CD3j"
+					"url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/6vICLqY9/letsdo-API-forge-1.3.0-beta-release-forge.jar",
+					"version": "6vICLqY9"
 				},
 				{
 					"content_versions": "1.2.15",
@@ -746,15 +741,15 @@
 			"IamJannik",
 			"satisfyu"
 		],
-		"banner": "https://cdn.modrinth.com/data/4XJZeZbM/images/50216596ed7c4b90e9e02f2dac55643fe2357c61.png",
+		"banner": "https://cdn.modrinth.com/data/4XJZeZbM/images/853e2dedc6cbc1ff4cfb87d2da0e1256cc3fce4a_350.webp",
 		"community": "https://discord.gg/Vqu6wYZwdZ",
 		"description": "A Library for Forge and Fabric with utilities such as Render Features, Recipe Books and Wood API",
 		"documentation": "https://github.com/Cristelknight999/DoAPI#readme",
 		"gallery": [
-			"https://cdn.modrinth.com/data/4XJZeZbM/images/50216596ed7c4b90e9e02f2dac55643fe2357c61.png",
-			"https://cdn.modrinth.com/data/4XJZeZbM/images/d680277e7dd29a175d6be18625c733e10fdedaf2.png"
+			"https://cdn.modrinth.com/data/4XJZeZbM/images/853e2dedc6cbc1ff4cfb87d2da0e1256cc3fce4a_350.webp",
+			"https://cdn.modrinth.com/data/4XJZeZbM/images/d680277e7dd29a175d6be18625c733e10fdedaf2_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/4XJZeZbM/01a4832b479fa718f6b68c10000e56078cb013a6.png",
+		"icon": "https://cdn.modrinth.com/data/4XJZeZbM/877cc74800a3bb827aed5fd70810d45e585becb4_96.webp",
 		"issues": "https://github.com/Cristelknight999/DoAPI/issues",
 		"license": "LGPL-3.0-only",
 		"long_description": "![logo](https://imgur.com/xnTQAch.png\"logo\")\n\n## An API mainly used by our Mods that offers some utilities for specific features.\n**Requires Architectury API!**\n<br/><br/>\n\n\n### **Wood API**\nAn easy and leightweight Wood API that helps registering Boats and Signs\n\n### **Recipe Book**\nA vanilla style recipe book - done by creating only two java classes.\n\n### **Rendering API**\nA Render System for Blocks and Armor. Makes it easy to create 3D rendered Armor. \n\n### **Conditional Recipes**\nSimple Conditinal Recipes for Forge and Fabric\n\n### **Config**\nSome helper stuff for making config files with comments\n\n***You can find a few examples*** [here](https://github.com/Cristelknight999/DoAPI#readme \"Github\")",
@@ -770,6 +765,7 @@
 			"1.3.1",
 			"1.3.0.1",
 			"1.3.0",
+			"1.3.0-beta-release",
 			"1.2.15",
 			"1.2.14",
 			"1.2.13",
@@ -805,7 +801,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.2",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.2.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/11jwniuC/versions/ogVRZ1wh/dungeonz-1.2.1.jar",
+					"version": "ogVRZ1wh"
+				},
+				{
 					"content_versions": "1.0.6-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -42,6 +50,22 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/11jwniuC/versions/Ukjd4XYm/dungeonz-1.0.1.jar",
 					"version": "Ukjd4XYm"
+				},
+				{
+					"content_versions": "1.2.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/11jwniuC/versions/42WEmp0F/dungeonz-1.2.0.jar",
+					"version": "42WEmp0F"
+				},
+				{
+					"content_versions": "1.1.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/11jwniuC/versions/QViDT4TW/dungeonz-1.1.0.jar",
+					"version": "QViDT4TW"
 				},
 				{
 					"content_versions": "1.0.4-1.20.1",
@@ -94,7 +118,7 @@
 		"description": "Base mod to add new dungeons with one default dungeon",
 		"documentation": "https://globox1997.github.io/wiki/mods/DungeonZ/",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/11jwniuC/7dffe71230977cc1daec92a0deb3a1daf506c5e4.png",
+		"icon": "https://cdn.modrinth.com/data/11jwniuC/db24156765ff1d6276b15e1011f45e8120b70f25_96.webp",
 		"issues": "https://github.com/Globox1997/DungeonZ/issues",
 		"license": "MIT",
 		"long_description": "![Headline](https://i.imgur.com/Azn4ci6.png)\n\n<center>\n\n[<img src=\"https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge\">](https://discord.gg/cV4cJyGXqF) \n[<img src=\"https://img.shields.io/website?color=7bc466&label=Globox&style=for-the-badge&up_message=Wiki&url=https://globox1997.github.io/wiki/mods/DungeonZ/\">](https://globox1997.github.io/wiki/mods/DungeonZ/)\n[<img src=\"https://img.shields.io/github/issues/Globox1997/DungeonZ?color=c4667b&style=for-the-badge\">](https://github.com/Globox1997/DungeonZ/issues)\n</center>\n\n<img src=\"https://i.imgur.com/K0Bn3Mh.png\" alt= “Description” width=\"25%\" height=\"auto\">\n<br><br/>\n\nThis mod is a base mod to add new dungeons to your world. You will be able to create a datapack which adds new dungeons which can get accessed via overworld structures. Those dungeons will be joinable with friends, offer good loot and usually have a cooldown.\n\nBy default, one dungeon is added. For further info, how to add your own dungeon, check out the github readme.\n\n![Showcase](https://i.imgur.com/lY60Aby.png)\n\n\n![Showcase](https://i.imgur.com/Yfw3ACl.png)\n\n<img src=\"https://i.imgur.com/WKCuHQL.png\" alt= “Misc” width=\"10%\" height=\"auto\">\n<br><br />\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/fabric-api)\n[<img src=\"https://i.imgur.com/7weZ8uu.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/cloth-config)\n\n\n\nThis mod is developed for Fabric.  \nThere are no plans to develop a Forge version. \n\n\nModpack Permission:  \nFeel free to use it in any modpacks.\n\n\nBug Report:  \nJust report bugs at the github page.",
@@ -106,6 +130,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.2.1-1.21.1",
+			"1.2.0-1.21.1",
+			"1.1.0-1.21.1",
 			"1.0.6-1.21",
 			"1.0.6-1.20.1",
 			"1.0.5-1.20.1",
@@ -129,7 +156,8 @@
 			"1.19.2",
 			"1.20",
 			"1.20.1",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	},
 	"relations": {

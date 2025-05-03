@@ -4,6 +4,168 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "21.0.11",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/4qhBEg6J/better-end-21.0.11.jar",
+					"version": "4qhBEg6J"
+				},
+				{
+					"content_versions": "21.0.10",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/XCwC4UWP/better-end-21.0.10.jar",
+					"version": "XCwC4UWP"
+				},
+				{
+					"content_versions": "21.0.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/euqcFwLv/better-end-21.0.9.jar",
+					"version": "euqcFwLv"
+				},
+				{
+					"content_versions": "21.0.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/Cb3pODzn/better-end-21.0.8.jar",
+					"version": "Cb3pODzn"
+				},
+				{
+					"content_versions": "21.0.7",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "patchouli"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/10ST5zQJ/better-end-21.0.7.jar",
+					"version": "10ST5zQJ"
+				},
+				{
+					"content_versions": "21.0.6",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"bclib",
+							"fabriclike-api",
+							"world-weaver"
+						],
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "patchouli"
+							},
+							{
+								"value": "rei"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/gc8OEnCC/versions/dtwLeRnJ/better-end-21.0.6.jar",
+					"version": "dtwLeRnJ"
+				},
+				{
 					"content_versions": "21.0.5",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -1203,9 +1365,9 @@
 		"community": "https://discord.gg/kYuATbYbKW",
 		"description": "New Biomes, mysterious rituals and Mobs for your End",
 		"gallery": [
-			"https://cdn.modrinth.com/data/gc8OEnCC/images/d903ddf62542142b8d09ad13349ca61aa2013994.jpeg"
+			"https://cdn.modrinth.com/data/gc8OEnCC/images/9832581d72717730859c586c1ff80d35edabca4c_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/gc8OEnCC/22fdef19992a21f7a16e53eb0ff2fe5e59766003.png",
+		"icon": "https://cdn.modrinth.com/data/gc8OEnCC/3afe2f097e9deff31158da380647fdc47131756f_96.webp",
 		"issues": "https://github.com/quiqueck/BetterEnd/issues",
 		"license": "MIT",
 		"long_description": "<img src=\"https://cdn.modrinth.com/data/gc8OEnCC/images/d903ddf62542142b8d09ad13349ca61aa2013994.jpeg\" width=\"100%\">\n<div>&nbsp;</div>\n<p>BetterEnd adds new biomes into the End. Each biome has its own atmosphere, resources and mobs. The sky will have a fresh look with purple nebulas and stars. All biomes have custom music (by Firel), sounds and effects to make them alive and interesting to explore. BetterEnd has a custom End generator and custom structures for the Central Island. With our new generator End islands will have different shapes, terrain, will be on different height. Inside islands you can find caves with unique resources.</p>\n\n## Main Features\n- 24+ new biomes (more will be added later)\n- 6 new mobs (with biome variations for some of them)\n- Many new blocks, including 9 wood types and 7 new stone types\n- Many new items, including new food sources, tools, armor and weapons\n- New mechanics like Infusion Rituals, Anvil Recipes, End tool progression and others\n- Integrations with other mods, for example 2 new sub-biomes for BYG biomes (1.16) and some new plants for them\n- Custom End world generator (configurable) with more possibilities than vanilla one\n- Configs for blocks, items, mobs, enchants and many other things\n\n\n## What others are saying\n<center>\n<table width=\"100%\">\n<tr>\n<td><iframe width=\"417\" height=\"221\" src=\"https://www.youtube.com/embed/97_AjrikgpE\" title=\"Top 10 Minecraft Mods Of The Week | Bundles!, BetterEnd, Subterranean Wilderness, Visp, and More!\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></td>\n<td><iframe width=\"417\" height=\"221\" src=\"https://www.youtube.com/embed/VEkIKbwwmB0\" title=\"This New Minecraft Mod Transforms The End Into Something Incredible\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></td>\n</tr>\n</tbody>\n</table></center>\n\n## You might also like\n<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\n<tr><td border=\"0\"><a href=\"https://modrinth.com/mod/betternether\"><img src=\"https://cdn.modrinth.com/data/MpzVLzy5/d35c76a6051d79b35ac33668772ee5a35f2c1f8e.png\" title=\"BetterNether\" width=\"64\"></a></td><td border=\"0\"><a href=\"https://modrinth.com/mod/betternether\"><b>BetterNether</b></a><br>More Biomes, More Mobs, More Tools for the fiery Dimension</td></tr>\n\n<tr><td border=\"0\"><a href=\"https://modrinth.com/mod/wunderreich\"><img src=\"https://cdn-raw.modrinth.com/data/P6czZwFh/e92d7fe07fb7a04a4e4f832bd7c352b527296aa9.jpeg\" title=\"wunderreich\" width=\"64\"></a></td><td border=\"0\"><a href=\"https://modrinth.com/mod/wunderreich\"><b>Wunderreich</b></a><br>Advanced Vanilla-Like Mechanics and Tools</td></tr>\n</table>\n\n<div><br><br></div>\n\n<center><a title=\"Fabric API\" href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"180\" height=\"60\" /></a> &nbsp; <a title=\"BCLib\" href=\"https://modrinth.com/mod/bclib\"><img src=\"https://raw.githubusercontent.com/paulevsGitch/BCLib/main/bclib_banner.png\" width=\"180\" height=\"60\" /></a><center>\n<center><a title=\"Discord Server\" href=\"https://discord.gg/kYuATbYbKW\"><img src=\"https://cdn-icons-png.flaticon.com/512/2111/2111370.png\" width=\"50\" height=\"50\" /></a> &nbsp; <a title=\"Issue Tracker\" href=\"https://github.com/paulevsGitch/BetterNether/issues\"><img src=\"https://cdn-icons-png.flaticon.com/512/25/25231.png\" width=\"50\" height=\"50\" /></a></center>",
@@ -1218,6 +1380,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"21.0.11",
+			"21.0.10",
+			"21.0.9",
+			"21.0.8",
+			"21.0.7",
+			"21.0.6",
 			"21.0.5",
 			"21.0.4",
 			"21.0.3",
@@ -1275,7 +1443,8 @@
 			"1.20.1",
 			"1.20.3",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

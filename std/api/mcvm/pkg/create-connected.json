@@ -4,6 +4,167 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.1-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/2N1jRZB4/create_connected-1.0.1-mc1.20.1-all.jar",
+					"version": "2N1jRZB4"
+				},
+				{
+					"content_versions": "1.0.0-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/fg2CYJlQ/create_connected-1.0.0-mc1.20.1-all.jar",
+					"version": "fg2CYJlQ"
+				},
+				{
+					"content_versions": "0.9.5-mc1.18.2",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/5Q45khlO/create_connected-0.9.5-mc1.18.2-all.jar",
+					"version": "5Q45khlO"
+				},
+				{
+					"content_versions": "0.9.4-mc1.18.2",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/5ceQLnpQ/create_connected-0.9.4-mc1.18.2-all.jar",
+					"version": "5ceQLnpQ"
+				},
+				{
+					"content_versions": "0.9.4-mc1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/CLTrW9A5/create_connected-0.9.4-mc1.19.2-all.jar",
+					"version": "CLTrW9A5"
+				},
+				{
+					"content_versions": "0.9.4-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/1o1CPwZD/create_connected-0.9.4-mc1.20.1-all.jar",
+					"version": "1o1CPwZD"
+				},
+				{
+					"content_versions": "0.9.3-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/82iCuwFZ/create_connected-0.9.3-mc1.20.1-all.jar",
+					"version": "82iCuwFZ"
+				},
+				{
+					"content_versions": "0.9.2-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Oiv4wt0G/create_connected-0.9.2-mc1.20.1-all.jar",
+					"version": "Oiv4wt0G"
+				},
+				{
+					"content_versions": "0.9.1-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/EhWwzIwV/create_connected-0.9.1-mc1.20.1-all.jar",
+					"version": "EhWwzIwV"
+				},
+				{
+					"content_versions": "0.9.0-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/HlCC58dD/create_connected-0.9.0-mc1.20.1-all.jar",
+					"version": "HlCC58dD"
+				},
+				{
 					"content_versions": "0.8.2-mc1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
@@ -794,23 +955,23 @@
 		"authors": [
 			"Lysine"
 		],
-		"banner": "https://cdn.modrinth.com/data/Vg5TIO6d/images/897c4d67eae94a366c49782ddb1654c5a6e383c5.png",
+		"banner": "https://cdn.modrinth.com/data/Vg5TIO6d/images/53034ec88d1b4733bd2194b2d4c040c1a6dad829_350.webp",
 		"community": "https://discord.gg/3AvrppcgG3",
 		"description": "QoL blocks that you wish existed in Create - Highly configurable, disable what you don't need",
 		"documentation": "https://github.com/hlysine/create_connected/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/Vg5TIO6d/images/897c4d67eae94a366c49782ddb1654c5a6e383c5.png",
-			"https://cdn.modrinth.com/data/Vg5TIO6d/images/66cf7e11b2ed2b209cdba64f94f2b54ffd81aea6.png",
-			"https://cdn.modrinth.com/data/Vg5TIO6d/images/ce7db72810d35419a1bc9751349fef75864c886a.png",
-			"https://cdn.modrinth.com/data/Vg5TIO6d/images/e801e98e89598ab155e5dcbc11ddaeda4f500468.webp",
+			"https://cdn.modrinth.com/data/Vg5TIO6d/images/53034ec88d1b4733bd2194b2d4c040c1a6dad829_350.webp",
+			"https://cdn.modrinth.com/data/Vg5TIO6d/images/bc3fb55952c3639e663cb99aef6a63498a1c3b6d_350.webp",
+			"https://cdn.modrinth.com/data/Vg5TIO6d/images/f48bda2474aaa5169683a49d667173f9df4b26d3_350.webp",
+			"https://cdn.modrinth.com/data/Vg5TIO6d/images/e801e98e89598ab155e5dcbc11ddaeda4f500468_350.webp",
 			"https://cdn.modrinth.com/data/Vg5TIO6d/images/badc4dbe9baf24e380fa9ed7614e095f3819ed14.png",
-			"https://cdn.modrinth.com/data/Vg5TIO6d/images/33856c0b7f9aa56652676f8471d1f4b2f81a55c9.png",
-			"https://cdn.modrinth.com/data/Vg5TIO6d/images/d74a9a1a353caee83b0d5dc69c60305a14699d3a.png"
+			"https://cdn.modrinth.com/data/Vg5TIO6d/images/22371c628ebf2b51ad2aba167b79ba29d4418dc5_350.webp",
+			"https://cdn.modrinth.com/data/Vg5TIO6d/images/33856c0b7f9aa56652676f8471d1f4b2f81a55c9.png"
 		],
-		"icon": "https://cdn.modrinth.com/data/Vg5TIO6d/2e69151b9664c7f03f0568c5fdf1d44aa98db452.webp",
+		"icon": "https://cdn.modrinth.com/data/Vg5TIO6d/2e69151b9664c7f03f0568c5fdf1d44aa98db452_96.webp",
 		"issues": "https://github.com/hlysine/create_connected/issues",
 		"license": "AGPL-3.0-or-later",
-		"long_description": "<h1 align=\"center\">Create: Connected</h1>\n\n<p align=\"center\">\n<a title=\"Supported versions\" target=\"_blank\" href=\"https://modrinth.com/mod/create-connected/\"><img src=\"https://cf.way2muchnoise.eu/versions/947914_all.svg\"></a>\n<a title=\"Modrinth\" target=\"_blank\" href=\"https://modrinth.com/mod/create-connected/\"><img src=\"https://img.shields.io/modrinth/dt/Vg5TIO6d?style=flat&label=Modrinth\"></a>\n<a title=\"CurseForge\" target=\"_blank\" href=\"https://www.curseforge.com/minecraft/mc-mods/create-connected\"><img src=\"https://img.shields.io/curseforge/dt/947914?style=flat&label=CurseForge\"></a>\n<a title=\"Crowdin\" target=\"_blank\" href=\"https://crowdin.com/project/create-connected-mod\"><img src=\"https://badges.crowdin.net/create-connected-mod/localized.svg\"></a>\n<a title=\"Discord\" target=\"_blank\" href=\"https://discord.gg/3AvrppcgG3\"><img src=\"https://discordapp.com/api/guilds/891929048895356948/widget.png?style=shield\"></a>\n</p>\n\nA Create mod add-on adding quality-of-life blocks that you wish existed in Create.\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/cd02548b-be01-4a01-b707-ffcb913f5299.webp)](https://bisecthosting.com/lysine)\n\n> **Want reliable, immersive chunk-loading for your Create machines? Check out [Create: Power Loader](https://modrinth.com/mod/create-power-loader)**\n\n> Join us in the [Create: Addon Hub](https://discord.gg/3AvrppcgG3) server for a chat!\n\n## What's new in 0.8\n\n![fluid_vessel](https://github.com/hlysine/create_connected/assets/25472513/aeebc30a-ea8c-4aaa-b80c-36993ea7b5d5) ![creative_fluid_vessel](https://github.com/hlysine/create_connected/assets/25472513/80ad7d61-731e-494d-a334-d59215874aa3) **Fluid Vessel**\n\nHorizontal fluid tanks with full support of all fluid tank features! Boilers made from fluid vessels are nerfed by\ndefault, but can be changed in the server config. You can also cycle through multiple window shapes using a wrench.\n\n![crank_wheel](https://github.com/hlysine/create_connected/assets/25472513/36c28f61-423b-493e-943b-534a4d4bcd39) ![large_crank_wheel](https://github.com/hlysine/create_connected/assets/25472513/c4b94676-4ec0-46de-8a15-317c1689aa57) **Small/Large Crank Wheels**\n\nHand cranks with built-in cogwheels. Useful in tight spaces and for gear ratios.\n\n![fan_freezing_catalyst](https://github.com/hlysine/create_connected/assets/25472513/f7e07503-f2ec-48d1-9fb1-d74e65253632) **Fan Freezing Catalyst**\n\nA new catalyst for bulk freezing. Works with Create: Garnished and Create: Dreams & Desires.\n\n## Features\n\n### New Blocks and Items\n\nNew kinetic components, copycats, redstone components and more! Visit [the GitHub wiki](https://github.com/hlysine/create_connected/wiki/New-Features) for a complete list!\n\n[![All features](https://cdn.modrinth.com/data/Vg5TIO6d/images/897c4d67eae94a366c49782ddb1654c5a6e383c5.png)](https://github.com/hlysine/create_connected/wiki/New-Features)\n\n### Feature toggle\n\nSelectively enable/disable features in this mod as you see fit. Disabled features are unobtainable in survival and\nhidden in creative/JEI.\n\n[![Feature Toggle System](https://cdn.modrinth.com/data/Vg5TIO6d/images/d74a9a1a353caee83b0d5dc69c60305a14699d3a.png)](https://github.com/hlysine/create_connected/wiki/Configs)\n\n### Enhancements to Create\n\nEnhanced Sequenced Gearshift and Attribute Filter, functional blocks on contraptions, schematics in sub-folders...\nSmall and simple QoL enhancement to Create's features.\n\n[![Vanilla blocks on trains](https://github.com/hlysine/create_connected/assets/25472513/31d7c32e-0cc1-4238-a220-315d8269810f)](https://github.com/hlysine/create_connected/wiki/Create-Enhancements)\n\n## Download\n\nThis is a pre-release version of the mod. World corruption is not expected, but do expect small bugs and rare crashes. Make\nregular backups if you decide to play this mod in your long-term worlds.\n\nFind this mod on [**Modrinth**](https://modrinth.com/mod/create-connected) or\n[**CurseForge**](https://legacy.curseforge.com/minecraft/mc-mods/create-connected).\n\n**Supported Create versions:**\n\n| Create | Create: Connected |\n|--------|-------------------|\n| 0.5.1e | 0.0.2             |\n| 0.5.1f | 0.0.3 - latest    |\n\n## Compatibility\n\n**Incompatible with Create: Extended Cogwheels**: functionality is not affected, but there will be confusing visual\nglitches due to Extended Cogwheels treating Connected components as cogwheels.\n\n## Usage\n\n**In modpacks:**\n\n- You can include this mod in any modpacks.\n- You can make any modifications to the mod with the goal of distributing it in a modpack.\n\n**In other cases:**\n\n- You can use this mod however you like as long as you obtain the mod via its Modrinth or CurseForge page.\n- You can make any modifications to the mod, but you cannot redistribute it unless you have modified a substantial\n  portion of the mod's code. Changes to resource packs/data packs/mod metadata do not count as code modification.\n\nThis mod is open to suggestions, so if you have made any modification to the mod, please leave an issue/PR so I can\nconsider adding your use case to the mod.\n\n## Contributing\n\nIf you are interested in helping, please take a look\nat [the contributing guide](https://github.com/hlysine/create_connected/blob/main/CONTRIBUTING.md).\n\n## Support\n\nThe best way to support my work is to simply download this mod on [**Modrinth**](https://modrinth.com/mod/create-connected). (You've come to the right place!)\nEnjoy a smoother download experience and support open source software with a single click.\n\nIf you would like to offer more direct support, you can [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O2TL8YV)\n\n## Credits\n\n**Translation**\n\n- Thanks [Crowdin contributors](https://crowdin.com/project/create-connected-mod/members) for their effort in localization\n\n**Inspiration**\n\n- The Create mod Discord server and subreddit\n\n**Assets**\n\n- Casa Bossa Nova Kevin MacLeod (incompetech.com)<br>\n  Licensed under Creative Commons: By Attribution 3.0 License<br>\n  http://creativecommons.org/licenses/by/3.0/\n- Local Forecast - Elevator Kevin MacLeod (incompetech.com)<br>\n  Licensed under Creative Commons: By Attribution 3.0 License<br>\n  http://creativecommons.org/licenses/by/3.0/",
+		"long_description": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/hlysine/create_connected/main/src/main/resources/create_connected_icon.png\" alt=\"Logo\" width=\"128\"></p>\n\n<h1 align=\"center\">Create: Connected</h1>\n\n<p align=\"center\">\n<a title=\"Supported versions\" target=\"_blank\" href=\"https://modrinth.com/mod/create-connected/\"><img src=\"https://cf.way2muchnoise.eu/versions/947914_all.svg\"></a>\n<a title=\"Modrinth\" target=\"_blank\" href=\"https://modrinth.com/mod/create-connected/\"><img src=\"https://img.shields.io/modrinth/dt/Vg5TIO6d?style=flat&label=Modrinth\"></a>\n<a title=\"CurseForge\" target=\"_blank\" href=\"https://www.curseforge.com/minecraft/mc-mods/create-connected\"><img src=\"https://img.shields.io/curseforge/dt/947914?style=flat&label=CurseForge\"></a>\n<a title=\"Crowdin\" target=\"_blank\" href=\"https://crowdin.com/project/create-connected-mod\"><img src=\"https://badges.crowdin.net/create-connected-mod/localized.svg\"></a>\n<a title=\"Discord\" target=\"_blank\" href=\"https://discord.gg/3AvrppcgG3\"><img src=\"https://discordapp.com/api/guilds/891929048895356948/widget.png?style=shield\"></a>\n</p>\n\nA Create mod add-on adding quality-of-life blocks that you wish existed in Create.\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/cd02548b-be01-4a01-b707-ffcb913f5299.webp)](https://bisecthosting.com/lysine)\n\n[![Create: Addon Hub server](https://discordapp.com/api/guilds/891929048895356948/widget.png?style=banner2)](https://discord.gg/3AvrppcgG3)\n\n> **Want reliable, immersive chunk-loading for your Create machines? Check\nout [Create: Power Loader](https://modrinth.com/mod/create-power-loader)**\n\n## Create 6 and Minecraft 1.21\n\n**Minecraft 1.20.1: ✅ Available**\n\n**Minecraft 1.21.1: ⏳ Not started** (ETA Apr/May 2025)\n\n### **Please use Create: Connected v1.0.0 or above for Create 6. Support for Minecraft 1.21 will come soon**\n\n## What's new in 0.9\n\n![inventory_access_port](https://github.com/user-attachments/assets/11f8bc2b-3c63-4aa4-a068-f581e114a4a0) **Inventory Access Port**\n\nAttach to any inventory to expand its surface area. Great for access in tight spaces and smart setups with threshold switches.\n\n![inventory_bridge](https://github.com/user-attachments/assets/a92555a4-4f27-441a-8128-4c03edccdb85) **Inventory Bridge**\n\nProvides an interface to access two inventories simultaneously. Also comes with filter slots to quickly sort incoming items.\n\n![fan_sanding_catalyst](https://github.com/user-attachments/assets/0689fddd-f698-4b72-80e8-19a3f9833440) ![fan_seething_catalyst](https://github.com/user-attachments/assets/8e15a9e4-a173-40de-9240-990beaefc43e) **Fan Sanding/Seething Catalyst**\n\nMore bulk processing compatibility with Create: Dreams and Desires. Only appears when Create: Dreams and Desires is installed.\n\n**Note for 1.18 and 1.19 users**\n\nCreate has dropped support for 1.18 and 1.19 since 0.5.1g. As a result, backporting to 1.18 and 1.19 is no longer\na priority for Create: Connected. Depending on circumstances, updates will be delayed and new features may not be backported.\n\n## Features\n\n### New Blocks and Items\n\nClutches and gearboxes for your Create machines, diodes and transmitters for your redstone circuits, and rotated vaults and tanks for better logistics!\nA complete package for all your technical Create needs. Visit [the GitHub wiki](https://github.com/hlysine/create_connected/wiki/New-Features) for a complete list.\n\n[![All features](https://cdn.modrinth.com/data/Vg5TIO6d/images/897c4d67eae94a366c49782ddb1654c5a6e383c5.png)](https://github.com/hlysine/create_connected/wiki/New-Features)\n\n### Feature toggle\n\nDon't like certain features? You can disable them in the configs. Think a horizontal tank is too OP? You can nerf it in the configs. This mod is highly customizable to fit your modpack's needs.\n\n[![Feature Toggle System](https://cdn.modrinth.com/data/Vg5TIO6d/images/d74a9a1a353caee83b0d5dc69c60305a14699d3a.png)](https://github.com/hlysine/create_connected/wiki/Configs)\n\n### Enhancements to Create\n\nEnhanced Sequenced Gearshift and Attribute Filter, functional blocks on contraptions, schematics in sub-folders...\nSmall and simple QoL enhancement to Create's features.\n\n[![Vanilla blocks on trains](https://github.com/hlysine/create_connected/assets/25472513/31d7c32e-0cc1-4238-a220-315d8269810f)](https://github.com/hlysine/create_connected/wiki/Create-Enhancements)\n\n## Download\n\nFind this mod on [**Modrinth**](https://modrinth.com/mod/create-connected) or\n[**CurseForge**](https://legacy.curseforge.com/minecraft/mc-mods/create-connected).\n\n**Supported Create versions:**\n\n| Create   | Create: Connected |\n|----------|-------------------|\n| 0.5.1e   | 0.0.2             |\n| 0.5.1f/g | 0.0.3 - latest    |\n\n## Compatibility\n\n**Incompatible with Create: Extended Cogwheels**: functionality is not affected, but there will be confusing visual\nglitches due to Extended Cogwheels treating Connected components as cogwheels.\n\n## Usage\n\n**In modpacks:**\n\n- You can include this mod in any modpacks.\n- You can make any modifications to the mod with the goal of distributing it in a modpack.\n\n**In other cases:**\n\n- You can use this mod however you like as long as you obtain the mod via its Modrinth or CurseForge page.\n- You can make any modifications to the mod, but you cannot redistribute it unless you have modified a substantial\n  portion of the mod's code. Changes to resource packs/data packs/mod metadata do not count as code modification.\n\nThis mod is open to suggestions, so if you have made any modification to the mod, please leave an issue/PR so I can\nconsider adding your use case to the mod.\n\n## Contributing\n\nIf you are interested in helping, please take a look\nat [the contributing guide](https://github.com/hlysine/create_connected/blob/main/CONTRIBUTING.md).\n\n## Support\n\nThe best way to support my work is to simply download this mod on [**Modrinth**](https://modrinth.com/mod/create-connected).\nEnjoy a smoother download experience and support open source software with a single click.\n\nIf you would like to offer more direct support, you\ncan [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O2TL8YV)\n\n## Credits\n\n**Translation**\n\n- Thanks [Crowdin contributors](https://crowdin.com/project/create-connected-mod/reports/top-members) for their effort\n  in localization\n\n**Inspiration**\n\n- The Create mod Discord server and subreddit\n\n**Assets**\n\n- Casa Bossa Nova Kevin MacLeod (incompetech.com)<br>\n  Licensed under Creative Commons: By Attribution 3.0 License<br>\n  http://creativecommons.org/licenses/by/3.0/\n- Local Forecast - Elevator Kevin MacLeod (incompetech.com)<br>\n  Licensed under Creative Commons: By Attribution 3.0 License<br>\n  http://creativecommons.org/licenses/by/3.0/\n",
 		"name": "Create: Connected",
 		"package_maintainers": [
 			"mcvm"
@@ -820,6 +981,16 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.1-mc1.20.1",
+			"1.0.0-mc1.20.1",
+			"0.9.5-mc1.18.2",
+			"0.9.4-mc1.20.1",
+			"0.9.4-mc1.19.2",
+			"0.9.4-mc1.18.2",
+			"0.9.3-mc1.20.1",
+			"0.9.2-mc1.20.1",
+			"0.9.1-mc1.20.1",
+			"0.9.0-mc1.20.1",
 			"0.8.2-mc1.20.1",
 			"0.8.2-mc1.19.2",
 			"0.8.2-mc1.18.2",

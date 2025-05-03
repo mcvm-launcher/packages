@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.2.16-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1H9ZkJwF/versions/Qle4ajEK/backslot-1.2.16.jar",
+					"version": "Qle4ajEK"
+				},
+				{
 					"content_versions": "1.2.15-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -44,6 +52,14 @@
 					"version": "89ROawe0"
 				},
 				{
+					"content_versions": "1.2.15-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1H9ZkJwF/versions/Mm2EhTlh/backslot-1.2.15.jar",
+					"version": "Mm2EhTlh"
+				},
+				{
 					"content_versions": "1.2.14-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -78,7 +94,7 @@
 		"description": "Keep your weapon always ready",
 		"documentation": "https://globox1997.github.io/wiki/mods/BackSlot/",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/1H9ZkJwF/7dcc28f7cb3bb5113c8868dd27242752c0c04670.png",
+		"icon": "https://cdn.modrinth.com/data/1H9ZkJwF/24c62f557531b8fbfdf1ba8eb2e422ee95ce7c5d_96.webp",
 		"issues": "https://github.com/Globox1997/BackSlot/issues",
 		"license": "GPL-3.0-only",
 		"long_description": "![Headline](https://i.imgur.com/zVAJSb9.png)\n\n<center>\n\n[<img src=\"https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge\">](https://discord.gg/cV4cJyGXqF) \n[<img src=\"https://img.shields.io/website?color=7bc466&label=Globox&style=for-the-badge&up_message=Wiki&url=https://globox1997.github.io/wiki/mods/BackSlot/\">](https://globox1997.github.io/wiki/mods/BackSlot/)\n[<img src=\"https://img.shields.io/github/issues/Globox1997/BackSlot?color=c4667b&style=for-the-badge\">](https://github.com/Globox1997/BackSlot/issues)\n</center>\n\n<img src=\"https://i.imgur.com/K0Bn3Mh.png\" alt= “Description” width=\"25%\" height=\"auto\">\n<br><br/>\n\nThis mod adds two slots to your inventory, the backslot and the beltslot, mainly for weapons.  \nPress \"G\" to put your trident on your back and \"Shift + G\" to add your sword to the belt.\n\n![Showcase](https://i.imgur.com/SRssQuU.png)\n \n![Showcase](https://i.imgur.com/3GYWos8.png)\n\nBackslot: Swords, Tools, Trident, Ranged Weapon, Fishing Rod  \nBeltslot: Swords, Tools, Flint and Steel, Shears\n\nIf the hotkeys change after each restart, install [amecs](https://modrinth.com/mod/amecs)\n\nAddon:\nInstead of having one sword on the belt and the other one on the back you can have both on the back with [BackSlotAddon](https://modrinth.com/mod/backslotaddon)\n\n<img src=\"https://i.imgur.com/WKCuHQL.png\" alt= “Misc” width=\"10%\" height=\"auto\">\n<br><br />\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/fabric-api)\n[<img src=\"https://i.imgur.com/7weZ8uu.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/cloth-config)\n\n\n\nThis mod is developed for Fabric.  \nThere are no plans to develop a Forge version. \n\n\nModpack Permission:  \nFeel free to use it in any modpacks.\n\n\nBug Report:  \nJust report bugs at the github page.",
@@ -90,6 +106,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.2.16-1.21.1",
+			"1.2.15-1.21.1",
 			"1.2.15-1.21",
 			"1.2.15-1.20.6",
 			"1.2.15-1.20.1",
@@ -113,7 +131,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	},
 	"relations": {

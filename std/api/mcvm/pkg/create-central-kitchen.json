@@ -4,6 +4,76 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.4.0.d",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/btq68HMO/versions/dcARtIPA/create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.d.jar",
+					"version": "dcARtIPA"
+				},
+				{
+					"content_versions": "1.4.0.c",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/btq68HMO/versions/2qzNmc9g/create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.c.jar",
+					"version": "2qzNmc9g"
+				},
+				{
+					"content_versions": "1.4.0.b",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/btq68HMO/versions/UfTnDbMI/create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.b.jar",
+					"version": "UfTnDbMI"
+				},
+				{
+					"content_versions": "1.4.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/btq68HMO/versions/xfk4VviH/create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.jar",
+					"version": "xfk4VviH"
+				},
+				{
+					"content_versions": "1.3.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"extensions": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/btq68HMO/versions/Bl1U5lSl/create_central_kitchen-1.20.1-for-create-0.5.1.j-1.3.13.jar",
+					"version": "Bl1U5lSl"
+				},
+				{
 					"content_versions": "1.3.11.c",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
@@ -795,11 +865,11 @@
 		"community": "https://discord.gg/ABgu4dHnx4",
 		"description": "Offering more tools and methods to automate food processing of other mod in Create.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/btq68HMO/203eef7245fc736e565af3dc41691d4d0e3e7779.png",
+		"icon": "https://cdn.modrinth.com/data/btq68HMO/f746fd2a47662876df027a1f480d4885411167cd_96.webp",
 		"issues": "https://github.com/DragonsPlusMinecraft/CreateCentralKitchen/issues",
 		"license": "MIT",
-		"long_description": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/XIyAAZqN-u0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n### Welcome to Create Central Kitchen, a mod offering more tools and methods to automate food processing for other mods in Create.\n\n![Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_64h.png)\n\n \n### We currently offer:\n* **Pie Overhaul**: Overhaul vanilla and modded pies in Farmer's Delight style, with placable blocks and slices.\nCake Slice Integration: Add cake slices for non Farmer's Delight add-ons.\n* **Fluid Integration**: Provide fluid for sauces, drinks, ice creams and more!\n* **Recipe Integration**: Added hundreds of integration recipes in Create style, including Sequenced Assembly Recipes for Sandwiches, Burgers and Pies.\n* **Reasonable Automatic Mixing**: Shapeless Recipes with certain container items (Glass Bottle, Bowl, Bucket) involved are now excluded from Automatic Mixing.\n* **Smarter Upright on Belt**: Items with certain containers (Glass Bottle, Bowl, Bucket) are now automatically rendered upright on belt, without needing specifying item tag create:upright_on_belt.\n### Specifically, when Farmer's Delight is installed:\n* **Blaze Stove**: Give your Blaze a guide and turn it into a master chef! Blaze Stove will provide Mechanical Arm support for kitchenwares including: Cooking Pot (Farmer's Delight), Kettle (Farmer's Respite), Copper Pot (Miner's Delight). Blaze Stove can also boost cooking up to 4x for the kitchenware above!\n* **Cutting Board Recipe Automation**: Deployer can now perform Cutting Board Recipes (Farmer's Delight) on Belt and Depot.\n* **Smarter Basket**: Basket (Farmer's Delight) can now directly interact with Belt and Mechanical Arm.\nHarvester Compat: Harvester is now compatible with Mushroom Colonies (Farmer's Delight), Tea Bush (Farmer's Respite), Coffee (Farmer's Respite), Propelplant (Nether's Delight), Lime Bush (Collector's Reap), Pomegranate Bush (Collector's Reap) \n\n\n### Installation Requirements:\n* Forge\n* Create\n\n### Supported Mods:  \n* Create: Craft & Additions (1.18.2-1.20.1)\n* Farmer's Delight (1.18.2-1.20.1)\n* Farmer's Respite (1.18.2-1.19.2)\n* Miner's Delight + (1.18.2-1.20.1)\n* Nether's Delight (1.18.2-1.20.1)\n* Atmospheric (1.18.2-1.19.2)\n* Autumnity (1.18.2-1.19.2)\n* Buzzier Bees (1.18.2-1.19.2)\n* Environmental (1.18.2-1.19.2)\n* Neapolitan (1.18.2-1.19.2)\n* Upgrade Aquatic (1.18.2-1.19.2)\n* Peculiars (1.18.2-1.19.2)\n* Seasonals (1.18.2-1.19.2)\n* Respiteful (1.18.2-1.19.2)\n* Abnormal Delight (1.18.2-1.19.2)\n* Collector's Reap (1.19.2)\n* Cookielicious (1.18.2)\n* Overweight Farming (1.18.2-1.20.1)\n* End's Delight (1.18.2-1.20.1)\n* Corn Delight (1.18.2-1.20.1)\n\n### Credits\n**ZaihnY** (Russian localization)  \n**V972** (Ukrainian localization)  \n**QinomeD** (Polish localization)  \n**RakuGaki-MC** (Japanese localization)  \n**albertosaurio65** (European Spanish localization)  \n**EvanHsieh0415** (Traditional Chinese localization)",
-		"name": "Create Central Kitchen",
+		"long_description": "## Welcome to Create Central Kitchen, a mod offering more tools and methods to automate food processing for other mods in Create.\n \n### We currently offer:\n* **Pie Overhaul**: Overhaul vanilla and modded pies in Farmer's Delight style, with placable blocks and slices.\nCake Slice Integration: Add cake slices for non Farmer's Delight add-ons.\n* **Fluid Integration**: Provide fluid for sauces, drinks, ice creams and more!\n* **Recipe Integration**: Added hundreds of integration recipes in Create style, including Sequenced Assembly Recipes for Sandwiches, Burgers and Pies.\n* **Reasonable Automatic Mixing**: Shapeless Recipes with certain container items (Glass Bottle, Bowl, Bucket) involved are now excluded from Automatic Mixing.\n* **Smarter Upright on Belt**: Items with certain containers (Glass Bottle, Bowl, Bucket) are now automatically rendered upright on belt, without needing specifying item tag create:upright_on_belt.\n### Specifically, when Farmer's Delight is installed:\n* **Blaze Stove**: Give your Blaze a guide and turn it into a master chef! Blaze Stove will provide Mechanical Arm support for kitchenwares including: Cooking Pot (Farmer's Delight), Kettle (Farmer's Respite), Copper Pot (Miner's Delight). Blaze Stove can also boost cooking up to 4x for the kitchenware above!\n* **Cutting Board Recipe Automation**: Deployer can now perform Cutting Board Recipes (Farmer's Delight) on Belt and Depot.\n* **Smarter Basket**: Basket (Farmer's Delight) can now directly interact with Belt and Mechanical Arm.\nHarvester Compat: Harvester is now compatible with Mushroom Colonies (Farmer's Delight), Tea Bush (Farmer's Respite), Coffee (Farmer's Respite), Propelplant (Nether's Delight), Lime Bush (Collector's Reap), Pomegranate Bush (Collector's Reap) \n\n\n### Installation Requirements:\n* Forge\n* Create\n\n### Supported Mods:  \n* Create: Craft & Additions\n* Create: Confectionery\n* Farmer's Delight\n* Farmer's Respite (1.20.1 Partial Support)\n* Miner's Delight +\n* Nether's Delight\n* Atmospheric\n* Autumnity\n* Buzzier Bees\n* Environmental\n* Neapolitan\n* Upgrade Aquatic\n* Peculiars\n* Seasonals\n* Respiteful (1.18.2-1.19.2)\n* Abnormal Delight\n* Collector's Reap\n* Cookielicious (1.18.2)\n* Overweight Farming\n* End's Delight\n* Corn Delight",
+		"name": "Create: Central Kitchen",
 		"package_maintainers": [
 			"mcvm"
 		],
@@ -807,6 +877,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.4.0",
+			"1.4.0.d",
+			"1.4.0.c",
+			"1.4.0.b",
+			"1.3.13",
 			"1.3.12",
 			"1.3.11",
 			"1.3.11.c",

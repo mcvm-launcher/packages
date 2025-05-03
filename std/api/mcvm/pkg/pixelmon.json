@@ -4,6 +4,22 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "9.2.10",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/59ZceYlU/versions/KhZuM1q9/Pixelmon-1.20.2-9.2.10-universal.jar",
+					"version": "KhZuM1q9"
+				},
+				{
+					"content_versions": "9.1.13",
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/59ZceYlU/versions/CPLYWxEL/Pixelmon-1.16.5-9.1.13-universal.jar",
+					"version": "CPLYWxEL"
+				},
+				{
 					"content_versions": "9.2.8",
 					"minecraft_versions": "1.20.2",
 					"modloaders": "forgelike",
@@ -26,6 +42,22 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Q8fEBG8j/Pixelmon-1.12.2-8.4.3-universal.jar",
 					"version": "Q8fEBG8j"
+				},
+				{
+					"content_versions": "9.2.9",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/59ZceYlU/versions/BfvnmqXO/Pixelmon-1.20.2-9.2.9-universal.jar",
+					"version": "BfvnmqXO"
+				},
+				{
+					"content_versions": "9.1.12",
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/59ZceYlU/versions/zogGWRSd/Pixelmon-1.16.5-9.1.12-universal.jar",
+					"version": "zogGWRSd"
 				},
 				{
 					"content_versions": "9.2.7",
@@ -294,9 +326,9 @@
 		"description": "Pixelmon adds many aspects of the Pokémon into Minecraft, including the Pokémon themselves, battling, trading, and breeding. Pixelmon also includes an assortment of new items, including prominent items like Poké Balls and TMs, new resources like bauxite ore and Apricorns, and new decorative blocks like chairs and clocks.",
 		"documentation": "https://pixelmonmod.com/wiki/",
 		"gallery": [
-			"https://cdn.modrinth.com/data/59ZceYlU/images/d4af54ba28f51031027b64ff4a42d5fd8e9e12ea.png"
+			"https://cdn.modrinth.com/data/59ZceYlU/images/ec971373adea4bf806ae407f5ad524f27cb49932_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/59ZceYlU/cc316288962439c7c246b3d5edbc8715fb021483.png",
+		"icon": "https://cdn.modrinth.com/data/59ZceYlU/e16493aab7b0a32a2c9920cb0d89ebe06c4b3726_96.webp",
 		"issues": "https://pixelmonmod.com/tracker.php",
 		"license": "LicenseRef-All-Rights-Reserved",
 		"long_description": "Pixelmon adds many aspects of the Pokémon into Minecraft, including the Pokémon themselves, battling, trading, and breeding. Pixelmon also includes an assortment of new items, including prominent items like Poké Balls and TMs, new resources like bauxite ore and Apricorns, and new decorative blocks like chairs and clocks.\n\n\nFor most of these features, Pixelmon attempts to match the mechanics of the Pokémon games as closely as possible, including battle mechanics that match the mechanics in the Generation 8 Pokémon games. However, some aspects of Pixelmon are original and deviate from the games, such as a breeding mechanic where Pokémon require a suitable environment around them in order to breed.\n\n\nPixelmon does not use the \"random encounter\" method (e.g., tall grass, caves) for encountering Pokémon. Instead, they spawn naturally in Overworld, and a player can engage them in battle. By default, normal Minecraft mobs are disabled and do not spawn when Pixelmon is installed, although they can be enabled by editing Pixelmon's config file.\n\n \nPoké Balls can be purchased in Poké Marts (which spawn in towns) in exchange for PokéDollars, just as they are in the games. However, Poké Balls can also be crafted after the player acquires Apricorns and iron.\n\n\nMost items, including Medicine, held items, and TMs, can be obtained from several different sources:\nCrafting certain items.\nPokéLoot chests, which serve the same purpose as item-filled Poké Balls in the Pokémon games.\nDefeating boss Pokémon, Mega Evolved wild Pokémon that will always be several levels higher than the player's Pokémon.\nThe Pickup Ability, which gathers items the same way as in the Pokémon games.\nPoké Marts, which can sell Medicine and TMs.\n\n\nPixelmon is designed so that players and servers can choose and create their own goals, whether this means completing the Pokédex, winning in player-vs.-player battles, or another goal entirely. There is no fixed progression of Gyms in Pixelmon, but servers may choose to implement this feature by using either NPC Trainers or players as Gym Leaders, and Badges are present in Pixelmon if servers wish to use them as marks of achievement.",
@@ -308,6 +340,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"9.2.10",
+			"9.2.9",
 			"9.2.8",
 			"9.2.7",
 			"9.2.6",
@@ -317,6 +351,8 @@
 			"9.2.2",
 			"9.2.1",
 			"9.2.0",
+			"9.1.13",
+			"9.1.12",
 			"9.1.11",
 			"9.1.10",
 			"9.1.9",

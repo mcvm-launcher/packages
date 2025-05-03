@@ -4,6 +4,121 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.8.4.50",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "mantle",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rxIIYO6c/versions/93Np1BkB/TConstruct-1.19.2-3.8.4.50.jar",
+					"version": "93Np1BkB"
+				},
+				{
+					"content_versions": "3.9.2.37",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "mantle",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rxIIYO6c/versions/z61vnfy7/TConstruct-1.20.1-3.9.2.37.jar",
+					"version": "z61vnfy7"
+				},
+				{
+					"content_versions": "3.9.2.34",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "mantle",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rxIIYO6c/versions/6StFiz6V/TConstruct-1.20.1-3.9.2.34.jar",
+					"version": "6StFiz6V"
+				},
+				{
+					"content_versions": "3.9.1.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "mantle",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rxIIYO6c/versions/IFTo0ry1/TConstruct-1.20.1-3.9.1.19.jar",
+					"version": "IFTo0ry1"
+				},
+				{
+					"content_versions": "3.9.1.17",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "mantle",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rxIIYO6c/versions/7XxgiusL/TConstruct-1.20.1-3.9.1.17.jar",
+					"version": "7XxgiusL"
+				},
+				{
+					"content_versions": "3.8.5.58",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rxIIYO6c/versions/JZb7mMLX/TConstruct-1.19.2-3.8.5.58.jar",
+					"version": "JZb7mMLX"
+				},
+				{
+					"content_versions": "3.9.0.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "mantle",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/rxIIYO6c/versions/vseNIKmt/TConstruct-1.20.1-3.9.0.6.jar",
+					"version": "vseNIKmt"
+				},
+				{
+					"content_versions": "3.7.2.167",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "mantle",
+						"recommendations": {
+							"value": "jei"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rxIIYO6c/versions/v6T8o8Ht/TConstruct-1.18.2-3.7.2.167.jar",
+					"version": "v6T8o8Ht"
+				},
+				{
 					"content_versions": "3.8.3.39",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
@@ -196,30 +311,30 @@
 		],
 		"community": "https://discord.gg/njGrvuh",
 		"description": "Tinker a little, modify all the tools, build a smeltery, then tinker a little more. The classic modular tool mod.",
-		"documentation": "https://github.com/SlimeKnights/TinkersConstruct/wiki",
+		"documentation": "https://slimeknights.github.io/docs/",
 		"gallery": [
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/021e7356c41e4ccf176757f2537bbd73b313add3.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/0a9c974639f1185911f2fce9f5171ca53aca434e.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/0fa0264ab3d82a7cdb872be4c4356426dd7145fe.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/101c3789a36af264a9fd9a00eb632f937a0e94f8.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/35faeb1265c1ca08982aa2cdca223393b3f76a02.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/3d9489d27e6d400f9592c1d1f9b8bd591b2bfcb1.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/5338b7a87ff918eff6056af8f818b1314676b3e3.png",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/0fa0264ab3d82a7cdb872be4c4356426dd7145fe_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/101c3789a36af264a9fd9a00eb632f937a0e94f8_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/2d7d82af815796e6051c8a0114171c3cfef7ea0c_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/3d9489d27e6d400f9592c1d1f9b8bd591b2bfcb1_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/3f9c44f406dc4210d48214e5b6427f8c129b909b_350.webp",
 			"https://cdn.modrinth.com/data/rxIIYO6c/images/5ceaf6285b7bc190b153c64c026ea99706db57e0.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/6b0994f7b68b33882ca9cb1a576bc1a16baec0f5.png",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/6cf5062dc9533c2f6d1d348b8f15fb1cdfeae0ec_350.webp",
 			"https://cdn.modrinth.com/data/rxIIYO6c/images/7407f5a8b0df6fdc64036e188cd6a9efd0e25818.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/7c2aa7efdd3b1af7300f2b27bb0e6522981fee83.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/868d1e0011de5ffeb91fce7350f7a6bd32b76bf9.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/98a99e0361b36c4ef4860ac646edb1dcb8f1cedc.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/a88b496adae4fb06fcb24ac332143ee528e507e3.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/b7a9628b69ef5f8158e97208ae74d31904983f14.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/dadf46c99cc2e926ec80425d956cda34e9251617.png",
-			"https://cdn.modrinth.com/data/rxIIYO6c/images/f4ea62d414f73e7e96c570ad53978a7599a10f99.png"
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/7cb864a9fede57bf39a338fc98602b8deb56c9b6_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/89938a7c743c5a0d38e157822e510fceca6176a3_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/8c589267380c6fcb93e5b444256baf7658c5df92_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/9ff7c6d3d0fa84744d21036759ed59d027eb7d6b_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/a06481174cac97dafe56b83a6f3007c3bb34423e_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/acb012b0343a59eb3eb2f89065d567c5e646add6_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/ace001e1501fbf5090224a4874d108f6540cdc70_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/b7a9628b69ef5f8158e97208ae74d31904983f14_350.webp",
+			"https://cdn.modrinth.com/data/rxIIYO6c/images/f4ea62d414f73e7e96c570ad53978a7599a10f99_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/rxIIYO6c/7a24bafaf8a7ce40cea07a4a070e6dd78a86ebd6.png",
+		"icon": "https://cdn.modrinth.com/data/rxIIYO6c/4c1b02748edd2def6a2427f494735641570c34ec_96.webp",
 		"issues": "https://github.com/SlimeKnights/TinkersConstruct/issues",
 		"license": "MIT",
-		"long_description": "![Logo](https://cdn.modrinth.com/data/rxIIYO6c/images/7407f5a8b0df6fdc64036e188cd6a9efd0e25818.png)\n\nRequires SlimeKnights Library Mod: [Mantle](https://modrinth.com/mod/mantle)\n\nSupport Tinkers' Construct on patreon:\n* [mDiyos](https://www.patreon.com/mDiyo)\n* [KnightMiner](https://www.patreon.com/KnightMiner)\n\n\n## License\n\nThe mods binaries, as well as its textures and code are licensed under the MIT License.\n\n\nFeel free to use the mod in any modpacks. You are allowed to use it, you do not need to ask for permission, in fact permission requests will usually be ignored. When using the mod, please use the Curse/CurseForge, Modrinth, or GitHub download and do not rehost the files.\n\nAny modpack which uses Tinkers' Construct takes full responsibility for user support queries.\n\nFor anyone else, we only support official builds from Curse/Curseforge, Modrinth, and GitHub. No custom built jars. We also do not take bug reports for outdated builds of Minecraft.\n\nThis project currently has builds for 1.18.2+ along with 1.6.4, 1.7.10, 1.12.2, and 1.16.5. If you are using a Minecraft version other than that which has a Tinkers release, make a request on our discord and I will upload the older build.\n\n\n## Getting Started\nTinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever. Many different materials can be used to make your tools.\n\nThis mod includes many related features, including:\n* Part builders, tinker stations, and modifier workstations for building and modifying your tools\n* The melter, alloyer, smeltery, and foundry for working with molten metals\n* Slime islands generating as part of the overworld, nether, and end, granting access to 5 different slime colors\n* Slimy geodes spawning deep underground\n* Cobalt ore in the nether\n\nTo get started, craft Materials and You then follow the introduction steps. We will work on getting a better description here on Modrinth in the future - did not want to copy an outdated description from CurseForge.\n\n\n## Credits\n\n### Tinkers' Construct 3\n\n* KnightMiner - Lead Developer\n* alexbegt - Developer\n* boni - former developer\n* mDiyo - Original author, game design input\n* RCXcrafter - Artist\n* See contributors on GitHub for a full list of contributors\n\n### Tinkers' Construct 2\n\n* boni - Lead Developer\n* KnightMiner - Developer\n* alexbegt - Developer/Updating\n* mDiyo - Original Author of the mod\n* Firedingo - General Task Support\n* Drullkus - Villager textures\n* Anbaric - Pattern chest and part chest model\n \n### Tinkers' Construct 1\n\n* mDiyo - Lead Developer\n* boni - Developer\n* fuj1n - Landmines, Former Developer\n* progwml6 - Former Developer\n* Fudgy_Fetus - Cutlasses\n* NekoGloop - Thaumium Textures\n* Skyboy - New tool renderer\n* Zerokyuuni - Battlegear support\n* Vexatos - Translations\n* BluSunrize - Casting Channels\n* tonius11 - NEI Support\n* baddaspig - Slime Crystal graphics",
+		"long_description": "![Logo](https://cdn.modrinth.com/data/rxIIYO6c/images/7407f5a8b0df6fdc64036e188cd6a9efd0e25818.png)\n\nRequires SlimeKnights Library Mod: [Mantle](https://modrinth.com/mod/mantle)\n\nRecommended to include the a recipe viewer: [Just Enough Items](https://modrinth.com/mod/jei)\n\nSupport Tinkers' Construct on patreon:\n* [mDiyos](https://www.patreon.com/mDiyo)\n* [KnightMiner](https://www.patreon.com/KnightMiner)\n\n![Smeltery](https://cdn.modrinth.com/data/rxIIYO6c/images/868d1e0011de5ffeb91fce7350f7a6bd32b76bf9.png)\n\n## Overview\nTinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever. Many different materials can be used to make your tools.\n\nThis mod includes many related features, including:\n* Part builders, tinker stations, and modifier workstations for building and modifying your tools\n* The melter, alloyer, smeltery, and foundry for working with molten metals\n* Slime islands generating as part of the overworld, nether, and end, granting access to 4 different slime colors\n* Slimy geodes spawning deep underground\n* Cobalt ore in the nether\n\nTo get started, craft Materials and You then follow the introduction steps. For a more detailed overview, see one of the following links:\n\n* [**Tinkers' Construct 3 Overview**](https://slimeknights.github.io/docs/gameplay/tinkers-construct-3/): Overview of the mod contents since 1.16.\n* [**Tinkers' Construct 2 Overview**](https://slimeknights.github.io/docs/gameplay/tinkers-construct-2/): Overview of the mod contents between 1.8 and 1.12.\n\n\n## License\n\nThe mods binaries, as well as its textures and code are licensed under the [MIT License](https://tldrlegal.com/license/mit-license).\n\n\nFeel free to use the mod in any modpacks. You are allowed to use it, you do not need to ask for permission, in fact permission requests will usually be ignored. When using the mod, please use the Curse/CurseForge, Modrinth, or GitHub download and do not rehost the files.\n\nAny modpack which uses Tinkers' Construct takes **full** responsibility for user support queries.\n\nFor anyone else, we only support official builds from Curse/Curseforge, Modrinth, and GitHub. No custom built jars. We also do not take bug reports for outdated builds of Minecraft.\n\nThis project currently has builds for 1.18.2+ along with 1.6.4, 1.7.10, 1.12.2, and 1.16.5. If you are using a Minecraft version other than that which has a Tinkers release, make a request on our discord and I will upload the older build.\n\n\n## Credits\n\n### Tinkers' Construct 3 - since 1.16\n\n* KnightMiner - Lead Developer\n* alexbegt - Developer\n* boni - former developer\n* mDiyo - Original author, game design input\n* RCXcrafter - Artist\n* See contributors on GitHub for a full list of contributors\n\n### Tinkers' Construct 2 - 1.8 to 1.12\n\n* boni - Lead Developer\n* KnightMiner - Developer\n* alexbegt - Developer/Updating\n* mDiyo - Original Author of the mod\n* Firedingo - General Task Support\n* Drullkus - Villager textures\n* Anbaric - Pattern chest and part chest model\n \n### Tinkers' Construct 1 - 1.7 and before\n\n* mDiyo - Lead Developer\n* boni - Developer\n* fuj1n - Landmines, Former Developer\n* progwml6 - Former Developer\n* Fudgy_Fetus - Cutlasses\n* NekoGloop - Thaumium Textures\n* Skyboy - New tool renderer\n* Zerokyuuni - Battlegear support\n* Vexatos - Translations\n* BluSunrize - Casting Channels\n* tonius11 - NEI Support\n* baddaspig - Slime Crystal graphics",
 		"name": "Tinkers' Construct",
 		"package_maintainers": [
 			"mcvm"
@@ -228,10 +343,18 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.9.2.37",
+			"3.9.2.34",
+			"3.9.1.19",
+			"3.9.1.17",
+			"3.9.0.6",
+			"3.8.5.58",
+			"3.8.4.50",
 			"3.8.3.39",
 			"3.8.2.32",
 			"3.8.1.16",
 			"3.8.0.14",
+			"3.7.2.167",
 			"3.7.1.155",
 			"3.7.0.152",
 			"3.6.4.113",
@@ -259,7 +382,8 @@
 			"1.12.2",
 			"1.16.5",
 			"1.18.2",
-			"1.19.2"
+			"1.19.2",
+			"1.20.1"
 		]
 	}
 }

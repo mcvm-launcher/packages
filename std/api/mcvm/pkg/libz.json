@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.3-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/yUBXc3AH/versions/z4ieRJO8/libz-1.0.3.jar",
+					"version": "z4ieRJO8"
+				},
+				{
 					"content_versions": "1.0.3-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -70,7 +78,7 @@
 		"description": "Open source library for a couple of Globox_Z mods",
 		"documentation": "https://globox1997.github.io/wiki/mods/LibZ/",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/yUBXc3AH/3bbbb712213f6c74dbeb90ab6bad1c0a4798ce0f.png",
+		"icon": "https://cdn.modrinth.com/data/yUBXc3AH/2121bb47e5d1be3959ba3fcca1e65a8dd92cba1a_96.webp",
 		"issues": "https://github.com/Globox1997/LibZ/issues",
 		"license": "MIT",
 		"long_description": "![Headline](https://i.imgur.com/xtuhDhy.png)\n\n<center>\n\n[<img src=\"https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge\">](https://discord.gg/cV4cJyGXqF) \n[<img src=\"https://img.shields.io/website?color=7bc466&label=Globox&style=for-the-badge&up_message=Wiki&url=https://globox1997.github.io/wiki/mods/LibZ/\">](https://globox1997.github.io/wiki/mods/LibZ/)\n[<img src=\"https://img.shields.io/github/issues/Globox1997/LibZ?color=c4667b&style=for-the-badge\">](https://github.com/Globox1997/LibZ/issues)\n</center>\n\n<img src=\"https://i.imgur.com/K0Bn3Mh.png\" alt= “Description” width=\"25%\" height=\"auto\">\n<br><br/>\n\nThis mod is a library mod for a couple of Globox_Z's mods.  \nOne main feature it adds is the tab registry for visible screen tabs.  \nHonestly, I never wanted to create a library mod and publish it here like others did but after modding for quite some time now, this makes sense.\n \n\n<img src=\"https://i.imgur.com/WKCuHQL.png\" alt= “Misc” width=\"10%\" height=\"auto\">\n<br><br />\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/fabric-api)\n\n\n\nThis mod is developed for Fabric.  \nThere are no plans to develop a Forge version. \n\n\nModpack Permission:  \nFeel free to use it in any modpacks.\n\n\nBug Report:  \nJust report bugs at the github page.",
@@ -82,6 +90,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.3-1.21.1",
 			"1.0.3-1.21",
 			"1.0.3-1.20.1",
 			"1.0.2-1.20.1",
@@ -102,7 +111,8 @@
 			"1.19.2",
 			"1.20",
 			"1.20.1",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	},
 	"relations": {

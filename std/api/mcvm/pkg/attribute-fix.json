@@ -4,6 +4,98 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "21.1.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/a0oKmnPU/attributefix-neoforge-1.21.1-21.1.2.jar",
+					"version": "a0oKmnPU"
+				},
+				{
+					"content_versions": "21.1.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/GY6xtsMa/AttributeFix-forge-1.21.1-21.1.2.jar",
+					"version": "GY6xtsMa"
+				},
+				{
+					"content_versions": "21.1.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/5yvTZkxA/attributefix-fabric-1.21.1-21.1.2.jar",
+					"version": "5yvTZkxA"
+				},
+				{
+					"content_versions": "21.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ZCwf6Z1s/attributefix-neoforge-1.21.1-21.1.1.jar",
+					"version": "ZCwf6Z1s"
+				},
+				{
+					"content_versions": "21.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/cJljwPnT/AttributeFix-forge-1.21.1-21.1.1.jar",
+					"version": "cJljwPnT"
+				},
+				{
+					"content_versions": "21.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"bookshelf",
+							"fabriclike-api",
+							"prickle"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Fz3yvqkE/attributefix-fabric-1.21.1-21.1.1.jar",
+					"version": "Fz3yvqkE"
+				},
+				{
 					"content_versions": "24.0.2",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -1070,7 +1162,7 @@
 		],
 		"description": "Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/lOOpEntO/eb101c911c7d86b138f052b678760f0ea645407a.png",
+		"icon": "https://cdn.modrinth.com/data/lOOpEntO/68a2de475417c87817e11f49beaa903e4774ca20_96.webp",
 		"issues": "https://github.com/Darkhax-Minecraft/AttributeFix/issues",
 		"license": "LGPL-2.1-only",
 		"long_description": "<p style=\"text-align:center\">Attribute Fixer</p>\n<p style=\"text-align:left\">Minecraft uses an attribute system to handle important calculations. It covers everything from armor values, to attack damage, to the maximum health of a mob. This system also introduced attribute caps, which limit how high any value can be. While this usually goes unnoticed, many mods are unknowingly affected by it. This mod significantly increases these caps to allow those mods to work as they were intended.</p>\n<p style=\"text-align:left\"><strong>Affected Attributes</strong></p>\n<ul>\n<li style=\"text-align:left\">Max Health</li>\n<li style=\"text-align:left\">Follow Range</li>\n<li style=\"text-align:left\">Knockback Resistance</li>\n<li style=\"text-align:left\">Movement Speed</li>\n<li style=\"text-align:left\">Attack Damage</li>\n<li style=\"text-align:left\">Attack Speed</li>\n<li style=\"text-align:left\">Armor&nbsp;</li>\n<li style=\"text-align:left\">Armor Toughness</li>\n<li style=\"text-align:left\">Luck</li>\n</ul>\n\n<p><strong>Like the mod and want to support me?</strong></p>\n<ul>\n<li>Follow me on <a href=\"https://twitter.com/DarkhaxDev\" rel=\"nofollow\">Twitter</a></li>\n<li>Join my <a href=\"https://discord.darkhax.net/\" rel=\"nofollow\">Discord</a></li>\n<li>Pledge on <a href=\"https://www.patreon.com/Darkhax\" rel=\"nofollow\">Patreon</a></li>\n<li>Check out my <a href=\"https://darkhax.net/\" rel=\"nofollow\">website</a></li>\n</ul>\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**This project is sponsored by Nodecraft. Use code [DARKHAX](https://nodecraft.com/r/darkhax) for 30% off your first month of service!**\n",
@@ -1088,6 +1180,8 @@
 			"22.0.3",
 			"22.0.2",
 			"22.0.1",
+			"21.1.2",
+			"21.1.1",
 			"21.0.4",
 			"21.0.3",
 			"21.0.2",
@@ -1190,7 +1284,8 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21.1"
 		]
 	}
 }

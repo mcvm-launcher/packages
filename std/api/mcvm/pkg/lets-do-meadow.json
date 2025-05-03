@@ -4,6 +4,193 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.3.25",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/phaFB3JP/letsdo-meadow-fabric-1.3.25.jar",
+					"version": "phaFB3JP"
+				},
+				{
+					"content_versions": "1.3.25",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/phZQOZzG/letsdo-meadow-forge-1.3.25.jar",
+					"version": "phZQOZzG"
+				},
+				{
+					"content_versions": "1.3.24",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/Zg8XweNS/letsdo-meadow-fabric-1.3.24.jar",
+					"version": "Zg8XweNS"
+				},
+				{
+					"content_versions": "1.3.24",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/1aaXDKN2/letsdo-meadow-forge-1.3.24.jar",
+					"version": "1aaXDKN2"
+				},
+				{
+					"content_versions": "1.3.23",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/KfU8KPBE/letsdo-meadow-fabric-1.3.23.jar",
+					"version": "KfU8KPBE"
+				},
+				{
+					"content_versions": "1.3.23",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/WC7iKkpn/letsdo-meadow-forge-1.3.23.jar",
+					"version": "WC7iKkpn"
+				},
+				{
+					"content_versions": "1.3.22",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/1GyHsaUm/letsdo-meadow-forge-1.3.22.jar",
+					"version": "1GyHsaUm"
+				},
+				{
+					"content_versions": "1.3.22",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/F1EXHLNJ/letsdo-meadow-fabric-1.3.22.jar",
+					"version": "F1EXHLNJ"
+				},
+				{
+					"content_versions": "1.3.21",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/7LGX04Dq/letsdo-meadow-fabric-1.3.21.jar",
+					"version": "7LGX04Dq"
+				},
+				{
+					"content_versions": "1.3.21",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/24AkZnfW/letsdo-meadow-forge-1.3.21.jar",
+					"version": "24AkZnfW"
+				},
+				{
+					"content_versions": "1.3.20",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/4ilQD6Ex/letsdo-meadow-fabric-1.3.20.jar",
+					"version": "4ilQD6Ex"
+				},
+				{
+					"content_versions": "1.3.20",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/JXxvySGm/letsdo-meadow-forge-1.3.20.jar",
+					"version": "JXxvySGm"
+				},
+				{
+					"content_versions": "1.3.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/UZTOvIXW/letsdo-meadow-forge-1.3.19.jar",
+					"version": "UZTOvIXW"
+				},
+				{
+					"content_versions": "1.3.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"lets-do-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/Qt2lCIS5/letsdo-meadow-fabric-1.3.19.jar",
+					"version": "Qt2lCIS5"
+				},
+				{
 					"content_versions": "1.3.18",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -733,22 +920,22 @@
 			"IamJannik",
 			"satisfyu"
 		],
-		"banner": "https://cdn.modrinth.com/data/ra7o6Sl7/images/4021f1ce1b15310f86887e48fa9d05e8b0ae0179.png",
+		"banner": "https://cdn.modrinth.com/data/ra7o6Sl7/images/84963393e737ba00d1d72398a5eb57d6bad0d3bd_350.webp",
 		"community": "https://discord.gg/Vqu6wYZwdZ",
 		"description": "A Mod offering a slight overhaul for the meadow biome by adding two new sub biomes and introducing the process of crafting cheese.",
 		"documentation": "https://github.com/satisfyu/Meadow/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/ra7o6Sl7/images/9121aa544e390facd8e97062780c85191493c12f.png",
-			"https://cdn.modrinth.com/data/ra7o6Sl7/images/4021f1ce1b15310f86887e48fa9d05e8b0ae0179.png",
-			"https://cdn.modrinth.com/data/ra7o6Sl7/images/fc8161d703b3932af1b2144adbf41d5c2e335874.png",
-			"https://cdn.modrinth.com/data/ra7o6Sl7/images/dd55e94f9e5b15ef74f404145b1cd41f117851c3.png",
-			"https://cdn.modrinth.com/data/ra7o6Sl7/images/cfa07f761082a797e37e44e6f6070b9d4bb3aaee.png",
-			"https://cdn.modrinth.com/data/ra7o6Sl7/images/8e6fc51eb654a6a267e2d1431d0a0f08eb395069.png"
+			"https://cdn.modrinth.com/data/ra7o6Sl7/images/fa473e62d60b3aa9a1d87d99285c3617aafb82a6_350.webp",
+			"https://cdn.modrinth.com/data/ra7o6Sl7/images/84963393e737ba00d1d72398a5eb57d6bad0d3bd_350.webp",
+			"https://cdn.modrinth.com/data/ra7o6Sl7/images/e790ef264ea02f1614f71f8a9f3cf939a2219749_350.webp",
+			"https://cdn.modrinth.com/data/ra7o6Sl7/images/51ea0eb0c70425201a0b6a301fc73fd53eaa2799_350.webp",
+			"https://cdn.modrinth.com/data/ra7o6Sl7/images/021c3cddcd830fb3d008930b99e3c8ba75742370_350.webp",
+			"https://cdn.modrinth.com/data/ra7o6Sl7/images/b01b0d8697be39010248ff328e90a9eee4bc7003_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/ra7o6Sl7/b26237c7cae39914233fb470328b9d23474dd799.png",
+		"icon": "https://cdn.modrinth.com/data/ra7o6Sl7/9e8d12c04f972e53f88d5e254880db024537f399_96.webp",
 		"issues": "https://github.com/satisfyu/Let-s-Do-Hub/issues",
 		"license": "LicenseRef-custom",
-		"long_description": " ![Logo](https://media.forgecdn.net/attachments/657/498/meadow.png)\n\n\n\nHello and welcome to Meadow! Meadow is a mid sized Minecraft Mod which focuses on improving and overhauling the already existing Meadow Biome. It also expands the variety of animals by adding the almost lost ones from Minecraft:Earth. \n\nTo get some energy for exploring the new Biome you should definitely take some Cheese with you - crafting cheese is another feature Meadow brings. Oh - and consider bringing a weapon; we heard some aggressive Brown Bears walking around there.\n\n\n\n \n__Features__\n* A new crafting system for Cheese\n* The Meadow Biome got completely overhauled. It features now some smaller building, a forest area, clearing and vegetation\n* New Animal-Breeds for Cows, Cattles, Chickens, Bears and Sheeps…\n* With new Sheeps and Cattles theres also new Wool, Carpets and Beds \n* You can now get Milk from Goats, Sheeps, Buffalos… Wont spoil to much!\n* Lots of decorative blocks \n* New Armor\n* A few new paintings featuring some popular places in switzerland \n* Tired of farming bricks for flower pots? You can craft now wooden flower pots. Coming in 2 different sizes. \n* A new type of wood\n* A new type of stone\n* A lot of new flowers!\n* Lots of technical Blocks which will help you saving resources and time just like a Woodcutter\n \n \n\n__How to craft Cheese?__\nTo craft Cheese you will need following Ingredients: Salt, Rennet and Milk. You can find Alpine Salt everywhere underground in the new Meadow Biomes. Rennet can be extracted from Raw Beef, using a cooking pot and Salt. Different Milk will result in different Cheese. \n \n \n\n__Where do i find all these new Type of Sheeps?__\nFlecked and Patched Sheeps can be found nearly everywhere where a regular Sheep will spawn too. Fuzzy Sheeps can mostly be found in Dark Forest or Birch Forest Biomes. Horned Sheeps do like cold biomes: If there is snow your chance finding a Horned Sheep will be certainly higher. Rocky Sheeps therefore can be found on rough terrain biomes. Inky Sheeps can be found in meadow biomes such as Long Nosed Sheeps. \n \n\n\n__And what about Cows?__\nYou can find Highland Cattles and Dairy Cows in the Meadow Biome. Sunset and Cream Cows as well as Buffalos can mostly be found in warm biomes such as the Savanna, Savanna Plateau. If you're looking especially for Buffalos just keep an eye on water resources. Cookie and Umbra Cows can be found in Forests and all the other Cows do share Spawn Locations with Vanilla Cows. \nAnything special about these cows? Buffalo Milk can only be optained from Buffalos. Umbra and Highland Cattles can be sheared.\n \n\n\n\n \nMeadow should be compatible with most WorldGen Mods such as WiliamWythersOverhauledOverworld or Terralith. Since all of Meadows Leaves do have a „bushy“ Model it wont work with fast leaves - better turn it off in the option settings. \n \n \n\n  \n \nDedicated to MissLilitu",
+		"long_description": "![Logo](https://media.forgecdn.net/attachments/657/498/meadow.png)\n\n<div align=\"center\">\n\n# Welcome to Meadow!\n\nMeadow is a mid-sized Minecraft mod that focuses on improving and overhauling the existing Meadow biome. It also expands the variety of animals by introducing new Wooly Cows, Sheep, and Water Buffalos.\n\nTo get some energy for exploring the new biome, make sure to take some cheese with you crafting cheese is another unique feature Meadow offers.\n\n</div>\n\n\n---\n\n## Features\n\n- **A new crafting system for Cheese**\n- **Overhauled Meadow Biome**  \n  Includes smaller buildings, forest areas, clearings, and diverse vegetation.\n- **New Sheep and Cattle breeds**  \n  Brings new wool, carpets, and beds.\n- **Get Milk from more animals**  \n  Including goats, sheep, and buffalos—no spoilers!\n- **Lots of decorative blocks**\n- **New Armor**\n- **Wooden Flower Pots**  \n  Tired of farming bricks for flower pots? Craft wooden flower pots in two sizes!\n- **A new type of wood**\n- **A new type of stone**\n- **A variety of new flowers**\n- **Technical blocks**  \n  Save resources and time with helpful blocks like the Woodcutter.\n\n---\n\n<div align=\"center\">\n\n> **Note:** Meadow is still under active development. Bugs may occur. Please back up your world before updating!\n\n---\n\n**Dedicated to MissLilitu**\n\n</div>\n\n\n",
 		"name": "[Let's Do] Meadow",
 		"package_maintainers": [
 			"mcvm"
@@ -758,6 +945,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.3.25",
+			"1.3.24",
+			"1.3.23",
+			"1.3.22",
+			"1.3.21",
+			"1.3.20",
+			"1.3.19",
 			"1.3.18",
 			"1.3.17",
 			"1.3.16",

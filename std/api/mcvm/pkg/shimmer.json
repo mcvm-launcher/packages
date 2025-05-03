@@ -10,6 +10,41 @@
 						"1.20.1",
 						"1.20.2",
 						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uBKACKpl/versions/VEc2s37H/Shimmer-fabric-1.20.1-0.2.4.jar",
+					"version": "VEc2s37H"
+				},
+				{
+					"content_versions": "1.20.1-0.2.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uBKACKpl/versions/za2dJzYV/Shimmer-forge-1.20.1-0.2.4.jar",
+					"version": "za2dJzYV"
+				},
+				{
+					"content_versions": "1.20.1-0.2.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
 						"1.20.4"
 					],
 					"modloaders": "forgelike",
@@ -315,7 +350,7 @@
 		"description": "A mod add bloom effect and colored light\n\nboth json configuration and modding api",
 		"documentation": "https://github.com/Low-Drag-MC/Shimmer/wiki",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/uBKACKpl/bcba4787c768d749567dc72e56ce5fa7539fe984.png",
+		"icon": "https://cdn.modrinth.com/data/uBKACKpl/76a9c18b2704f46472de840edb88c72a9489c25b_96.webp",
 		"issues": "https://github.com/Low-Drag-MC/Shimmer/issues",
 		"license": "MIT",
 		"long_description": "# Shimmer\n\n![logo_full_ alpha_bg](https://github.com/Low-Drag-MC/Shimmer/assets/26162862/ecc3a347-2e41-4ba2-a426-d5b36eab503c)\n\n<blockquote style=\"text-align: center;\">\nShimmer is a mod concentrated on rendering effects<br>\nfantasy bloom and colored light<br>\nboth configurable json and java api support<br>\ncustomize what you like\n</blockquote>\n\nJoin our [![discord](https://shields.io/badge/Discord-Join%20Us-blue?logo=Discord&style=flat)](https://discord.gg/CQywkfwPrC)\n [![discord](https://shields.io/badge/QQ-755790169-red?logo=tencentqq&style=flat)](https://discord.gg/CQywkfwPrC)\nfor communication, issue feedback  \n\n<h3 align=\"center\">\n<a href=\"https://modrinth.com/mod/shimmer!\" target=\"_blank\">Modrinth Homepage</a> |\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/shimmer/\" target=\"_blank\">CurseForge Homepage</a>\n</h3>\n\n## Bloom\n![image](https://user-images.githubusercontent.com/26162862/201468458-021dedc4-d883-44d2-961a-d2f38110fae4.png)  \n![image](https://user-images.githubusercontent.com/26162862/201468409-8c2a50f3-f2a9-435a-b6d5-bed59a69a1c3.png)  \n![image](https://user-images.githubusercontent.com/26162862/201468589-eea3553d-1424-4b58-9ac5-083660187677.png)  \n\nfor compability with [MadParticle](https://github.com/USS-Shenzhou/MadParticle)  \n![Jnm1LVVLyq17t0us](https://user-images.githubusercontent.com/26162862/201468947-60a1d80f-b9f4-4d4f-a130-ac94fbb3efad.gif)  \n\n## ColoredLight\n![image](https://user-images.githubusercontent.com/18493855/170466919-65ca5b39-7397-45f9-99ed-c9a8d72cec70.png)  \n![image](https://user-images.githubusercontent.com/26162862/201469162-5daeff42-8450-4cc7-a3f8-6e4ed0e7ceb2.png)\nfor compability with  [Lighting Wand](https://www.curseforge.com/minecraft/mc-mods/lighting-wand)  \n![image](https://user-images.githubusercontent.com/26162862/201469108-4d48a6ea-422b-4218-8463-3e89484f7901.png)  \nvideo [here](https://www.youtube.com/watch?v=-OXVb8edD7o&ab_channel=Snownee) \n\n\n## Configuration\n\nshimmer also have a powerful configure system, both for no-code and java API, see **wiki** for detailed information  \nWhat's more, we also have powerful gui for quick configuration  \n\n### Auxiliary Screen\n![gif](https://user-images.githubusercontent.com/26162862/195899429-75fb0db4-a919-4a4b-bb0d-b7bb4c8b7222.gif)\n\n### Eyedropper\n![gif](https://user-images.githubusercontent.com/26162862/199932496-056e548b-bfc6-4a46-bef3-d9843782d165.gif)\n\n\n## For Modder\n\nIn order to import shimmer into your development enviroment\n\n```gradle\nrepositories{ //add our maven first\n    maven {\n        url \"https://maven.firstdarkdev.xyz/snapshots\"\n    }\n }\n\n// Forge\nimplementation fg.deobf(\"com.lowdragmc.shimmer:Shimmer-forge:${minecraft_version}:${shimmer_version}\")\n// Fabric\nmodImplementation \"com.lowdragmc.shimmer:Shimmer-fabric:${minecraft_version}:${shimmer_version}\"\n\n//for architectury user, you can also just import shimmer's common jar in you common module\nmodImplementation \"com.lowdragmc.shimmer:Shimmer-common:${minecraft_version}:${shimmer_version}\"\n```\n## After All\ngreat thanks [resourcepack](https://www.curseforge.com/minecraft/texture-packs/blooming-blocks) made by WenXin2'S \n",
@@ -360,7 +395,9 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.20.5",
+			"1.20.6"
 		]
 	}
 }

@@ -4,6 +4,25 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.4.0-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/KViAadNz/immersive_melodies-0.4.0%2B1.20.1-forge.jar",
+					"version": "KViAadNz"
+				},
+				{
+					"content_versions": "0.4.0-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/o7JhV7ev/immersive_melodies-0.4.0%2B1.20.1-fabric.jar",
+					"version": "o7JhV7ev"
+				},
+				{
 					"content_versions": "0.1.2-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
@@ -650,19 +669,19 @@
 		"authors": [
 			"Luke100000"
 		],
-		"banner": "https://cdn.modrinth.com/data/TaSmHw8V/images/5aba0c77c1c3c37f9c02c3543719e1e9355c2a87.jpeg",
+		"banner": "https://cdn.modrinth.com/data/TaSmHw8V/images/bdcf4781b47b8c0fca67eb28a872aafccd60196c_350.webp",
 		"community": "https://discord.gg/agxcvAdj2a",
 		"description": "Play custom melodies on various instruments and annoy your friends!",
 		"documentation": "https://github.com/Luke100000/ImmersiveMelodies/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/TaSmHw8V/images/429303fdd5ebf930741364b3919f231adf67c25d.jpeg",
-			"https://cdn.modrinth.com/data/TaSmHw8V/images/5aba0c77c1c3c37f9c02c3543719e1e9355c2a87.jpeg",
-			"https://cdn.modrinth.com/data/TaSmHw8V/images/c4969decf867509035fb31c763b08b155a8a05b9.jpeg"
+			"https://cdn.modrinth.com/data/TaSmHw8V/images/429303fdd5ebf930741364b3919f231adf67c25d_350.webp",
+			"https://cdn.modrinth.com/data/TaSmHw8V/images/bdcf4781b47b8c0fca67eb28a872aafccd60196c_350.webp",
+			"https://cdn.modrinth.com/data/TaSmHw8V/images/c4969decf867509035fb31c763b08b155a8a05b9_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/TaSmHw8V/b7de1b80b60234fdc4e2a7a50c1d3f6510be94d7.png",
+		"icon": "https://cdn.modrinth.com/data/TaSmHw8V/0a6a64c671e15a657e18d623f2912a9b0a058809_96.webp",
 		"issues": "https://github.com/Luke100000/ImmersiveMelodies/issues",
 		"license": "GPL-3.0-only",
-		"long_description": "![Banner](https://media.forgecdn.net/attachments/714/974/banner.png)\n\nWhether you want to create a band, annoy your friends or just want Skeletons playing Megalovania while storming your\nbase, this mod got it all.\n\nPlay 25 bundled songs on 7 instruments, or upload your own melodies via simple drag and drop ingame or using datapacks.\nWorks on multiplayer! Supports MIDI and ABC files, with several million of such available across the internet.\n\nYes birbs dance.\n\n*Alpha build ahead! While tested carefully, it wouldn't surprise me if things break. Please report anything suspicious.*\n\nAll recipes are unlocked and visible in the vanilla recipebook after collecting a copper ingot.\n\n![Instruments](https://media.forgecdn.net/attachments/714/975/items.png)\n\nJoin our [Discord](https://discord.gg/agxcvAdj2a) to discuss the mod, get support or just hang out.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YW1wXcHp_nA\"\nframeborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n![Multiplayer](https://media.forgecdn.net/attachments/714/971/screen1.jpg)\n![Multiplayer](https://media.forgecdn.net/attachments/714/973/screen3.jpg)\n![Manage](https://media.forgecdn.net/attachments/714/972/screen2.jpg)\n\nAwesome paper texture by [soytutta](https://legacy.curseforge.com/members/soytutta/projects)!",
+		"long_description": "<!--suppress HtmlDeprecatedAttribute -->\n<div align=\"center\" style=\"text-align: center\">\n<img width=\"872\"\nsrc=\"https://cdn.conczin.net/cdn-cgi/image/fit=scale-down,w=872,f=png,q=90/https://cdn.conczin.net/immersive-melodies/banner.png\"\nalt=\"Screenshot\"/>\n<p>\n<a href=\"https://modrinth.com/mod/immersive-melodies\">\n<img alt=\"Modrinth\"\nsrc=\"https://img.shields.io/badge/Modrinth-NA?style=for-the-badge&logo=modrinth&logoColor=000000&color=00AF5C\">\n</a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/immersive-melodies\">\n<img alt=\"CurseForge\"\nsrc=\"https://img.shields.io/badge/CurseForge-NA?style=for-the-badge&logo=curseforge&logoColor=000000&color=F16436\">\n</a>\n<a href=\"https://discord.gg/agxcvAdj2a\">\n<img alt=\"Discord\"\nsrc=\"https://img.shields.io/badge/Discord-NA?style=for-the-badge&logo=discord&logoColor=000000&color=5865F2\">\n</a>\n<a href=\"https://github.com/Luke100000/ImmersiveMelodies\">\n<img alt=\"Github\"\nsrc=\"https://img.shields.io/badge/Github-NA?style=for-the-badge&logo=github&color=181717\">\n</a>\n<a href=\"https://crowdin.com/project/immersive-collection\">\n<img alt=\"Translate via Crowdin\"\nsrc=\"https://img.shields.io/badge/Crowdin-NA?style=for-the-badge&logo=crowdin&color=2E3340\">\n</a>\n</p>\n\n<p>\nWhether you want to create a band, annoy your friends or just want Skeletons playing Megalovania while storming\nyour base, this mod got it all.\n</p>\n\n<p>\nPlay 25 bundled songs on 7 instruments, or upload your own melodies via simple <b>drag and drop in-game</b> or\nusing datapacks.\nWorks on multiplayer! Supports MIDI and ABC files, with several million of such available across the internet.\nYes birbs dance.\n</p>\n\n\n\n\n\n<p><img src=\"https://api-rk.conczin.net/mcr/atlas?minecraft_version=1.20.1&locations=_immersive_melodies%3Ainstruments&dependencies=https%3A%2F%2Fgithub.com%2FLuke100000%2FImmersiveMelodies%2Ftree%2F1.20.1&resolution=48&background=fancy&row_size=8\" alt=\"Generated Atlas Image\"/></p>\n\n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/YW1wXcHp_nA?wmode=transparent\"\nheight=\"358\" width=\"638\"></iframe>\n\n<img width=\"872\"\nsrc=\"https://cdn.conczin.net/cdn-cgi/image/fit=scale-down,w=872,f=jpeg,q=90/https://cdn.conczin.net/immersive-melodies/screenshots/screen1.jpg\"\nalt=\"Screenshot\"/>\n<img width=\"872\"\nsrc=\"https://cdn.conczin.net/cdn-cgi/image/fit=scale-down,w=872,f=jpeg,q=90/https://cdn.conczin.net/immersive-melodies/screenshots/screen3.jpg\"\nalt=\"Screenshot\"/>\n<img width=\"872\"\nsrc=\"https://cdn.conczin.net/cdn-cgi/image/fit=scale-down,w=872,f=jpeg,q=90/https://cdn.conczin.net/immersive-melodies/screenshots/screen2.jpg\"\nalt=\"Screenshot\"/>\n\n<p>Awesome paper texture by <a href=\"https://legacy.curseforge.com/members/soytutta/projects\">soytutta</a>!</p>\n\n<p>All recipes are unlocked and visible in the vanilla recipebook after collecting a copper ingot.</p>\n\n\n\n\n<p><img src=\"https://api-rk.conczin.net/mcr/recipes?minecraft_version=1.20.1&locations=immersive_melodies%3A.%2A&dependencies=https%3A%2F%2Fgithub.com%2FLuke100000%2FImmersiveMelodies%2Ftree%2F1.20.1&resolution=32&animated=false&row_width=835\" alt=\"Generated Recipes Image\"/></p>\n\n\n\n\n\n\n\n\n\n\n<h1>Immersive Collection</h1>\n<p>\n<a href=\"https://modrinth.com/mod/immersive-armors\">\n<img width=\"275\"\nsrc=\"https://api-rk.conczin.net/embed?title=Immersive%20Armors&description=A%20lot%20of%20unique%20and%20vanilla-faithful%20armor%20sets.&icon_url=https%3A//cdn.conczin.net/immersive-armors/icon.png&width=275&height=100&background_color=16181c\"\nalt=\"Immersive Armors\"/>\n</a>\n<a href=\"https://modrinth.com/mod/immersive-aircraft\">\n<img width=\"275\"\nsrc=\"https://api-rk.conczin.net/embed?title=Immersive%20Aircraft&description=A%20bunch%20of%20rustic%20aircraft%20to%20travel%2C%20transport%2C%20and%20explore%21&icon_url=https%3A//cdn.conczin.net/immersive-aircraft/icon.png&width=275&height=100&background_color=16181c\"\nalt=\"Immersive Aircraft\"/>\n</a>\n<a href=\"https://modrinth.com/mod/immersive-melodies\">\n<img width=\"275\"\nsrc=\"https://api-rk.conczin.net/embed?title=Immersive%20Melodies&description=Play%20custom%20melodies%20on%20various%20instruments%20and%20annoy%20your%20friends%21&icon_url=https%3A//cdn.conczin.net/immersive-melodies/icon.png&width=275&height=100&background_color=16181c\"\nalt=\"Immersive Melodies\"/>\n</a>\n<a href=\"https://modrinth.com/mod/immersive-paintings\">\n<img width=\"275\"\nsrc=\"https://api-rk.conczin.net/embed?title=Immersive%20Paintings&description=Drag%20and%20drop%2C%20pixelate%20and%20hang%20up%20beautiful%20art.&icon_url=https%3A//cdn.conczin.net/immersive-paintings/icon.png&width=275&height=100&background_color=16181c\"\nalt=\"Immersive Paintings\"/>\n</a>\n<a href=\"https://modrinth.com/mod/immersive-optimization\">\n<img width=\"275\"\nsrc=\"https://api-rk.conczin.net/embed?title=Immersive%20Optimization&description=A%20lightweight%20entity-tick-scheduler%20for%20doubling%20your%20TPS.&icon_url=https%3A//cdn.conczin.net/immersive-optimization/icon.png&width=275&height=100&background_color=16181c\"\nalt=\"Immersive Optimization\"/>\n</a>\n<a href=\"https://modrinth.com/mod/selectivebounds\">\n<img width=\"275\"\nsrc=\"https://api-rk.conczin.net/embed?title=SelectiveBounds&description=Hides%20the%20ugly%20block%20selection%20outline%20when%20not%20relevant.&icon_url=https%3A//cdn.conczin.net/selectivebounds/icon.png&width=275&height=100&background_color=16181c\"\nalt=\"SelectiveBounds\"/>\n</a>\n<a href=\"https://modrinth.com/mod/man-of-many-planes\">\n<img width=\"275\"\nsrc=\"https://api-rk.conczin.net/embed?title=Man%20of%20Many%20Planes&description=A%20set%20of%20additional%20aircraft%20for%20Immersive%20Aircraft%20with%20Create%20support%20in%20mind.&icon_url=https%3A//cdn.conczin.net/man-of-many-planes/icon.png&width=275&height=100&background_color=16181c\"\nalt=\"Man of Many Planes\"/>\n</a>\n<a href=\"https://modrinth.com/mod/immersive-machinery\">\n<img width=\"275\"\nsrc=\"https://api-rk.conczin.net/embed?title=Immersive%20Machinery&description=A%20bunch%20of%20rustic%20machinery%20to%20transport%2C%20mine%2C%20and%20automate%20things.&icon_url=https%3A//cdn.conczin.net/immersive-machinery/icon.png&width=275&height=100&background_color=16181c\"\nalt=\"Immersive Machinery\"/>\n</a></p>\n\n<h1>Addons</h1>\n<p>\n<a href=\"https://modrinth.com/resourcepack/arids-immersive-resprites\">\n<img width=\"275\"\nsrc=\"https://api-rk.conczin.net/embed?title=Arids%20Immersive%20Resprites&description=Resprites%20for%20the%20Immersive%20Melodies%20and%20Immersive%20Paintings%20mods%21&icon_url=https%3A//cdn.conczin.net/common/icons/arids-immersive-resprites.webp&width=275&height=100&background_color=16181c\"\nalt=\"Arids Immersive Resprites\"/>\n</a></p>\n</div>\n\n<img src=\"https://cdn.conczin.net/common/pixel.png?immersive_pages_hash=2489a9ebc50612f44c8ab2661206714b\" alt=\"The page hash for easier page deployment.\"/>",
 		"name": "Immersive Melodies",
 		"package_maintainers": [
 			"mcvm"
@@ -672,6 +691,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.4.0-1.20.1",
 			"0.3.0-1.20.1",
 			"0.2.0-1.20.1",
 			"0.1.2-1.20.1",

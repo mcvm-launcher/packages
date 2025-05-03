@@ -12,6 +12,55 @@
 					"version": "eCSbC9qK"
 				},
 				{
+					"content_versions": "1.11.44",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/WsOlVxTh/Mantle-1.20.1-1.11.44.jar",
+					"version": "WsOlVxTh"
+				},
+				{
+					"content_versions": "1.11.36",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/rwGfUxbm/Mantle-1.20.1-1.11.36.jar",
+					"version": "rwGfUxbm"
+				},
+				{
+					"content_versions": "1.10.48",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/FKBjYrjk/Mantle-1.19.2-1.10.48.jar",
+					"version": "FKBjYrjk"
+				},
+				{
+					"content_versions": "1.11.28",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/s8FGlBhs/Mantle-1.20.1-1.11.28.jar",
+					"version": "s8FGlBhs"
+				},
+				{
+					"content_versions": "1.9.54",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/qNlX7voE/Mantle-1.18.2-1.9.54.jar",
+					"version": "qNlX7voE"
+				},
+				{
 					"content_versions": "1.10.36",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
@@ -96,7 +145,7 @@
 		],
 		"community": "https://discord.gg/njGrvuh",
 		"description": "Base library required for SlimeKnights mods, including Tinkers' Construct, Natura, Inspirations, and Cermaics",
-		"documentation": "https://github.com/SlimeKnights/Mantle/wiki",
+		"documentation": "https://slimeknights.github.io/docs/",
 		"gallery": [],
 		"icon": "https://cdn.modrinth.com/data/Cg6Uc79H/77b9acc494b0d91e218939a1c14e37ae3c1b4db9.png",
 		"issues": "https://github.com/SlimeKnights/Mantle/issues",
@@ -110,9 +159,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.11.44",
+			"1.11.36",
+			"1.11.28",
+			"1.10.48",
 			"1.10.36",
 			"1.10.24",
 			"1.10.23",
+			"1.9.54",
 			"1.9.50",
 			"1.9.45",
 			"1.9.43",
@@ -134,7 +188,8 @@
 			"1.12.2",
 			"1.16.5",
 			"1.18.2",
-			"1.19.2"
+			"1.19.2",
+			"1.20.1"
 		]
 	}
 }

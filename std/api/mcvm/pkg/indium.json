@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.35-mc1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35%2Bmc1.21.jar",
+					"version": "Z8VpxxGh"
+				},
+				{
 					"content_versions": "1.0.34-mc1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -155,6 +172,24 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.7%2Bmc1.18.2/indium-1.0.7%2Bmc1.18.2.jar",
 					"version": "H45YVREb"
+				},
+				{
+					"content_versions": "1.0.36-mc1.20.1",
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/nQHYSjxO/indium-1.0.36%2Bmc1.20.1.jar",
+					"version": "nQHYSjxO"
 				},
 				{
 					"content_versions": "1.0.30-mc1.20.4",
@@ -603,13 +638,13 @@
 		],
 		"description": "Sodium addon providing support for the Fabric Rendering API, based on Indigo",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/Orvt0mRa/icon.png",
+		"icon": "https://cdn.modrinth.com/data/Orvt0mRa/13f4ab01fac350702ba20871c9f964064073a5e2_96.webp",
 		"issues": "https://github.com/comp500/Indium/issues",
 		"keywords": [
 			"graphics"
 		],
 		"license": "Apache-2.0",
-		"long_description": "Indium is an addon for the rendering optimisation mod [Sodium](https://modrinth.com/mod/sodium), providing support for the Fabric Rendering API. The Fabric Rendering API is required for many mods that use advanced rendering effects, and is currently not supported by Sodium directly. Indium is based upon the reference implementation Indigo, which is part of Fabric API with source available [here](https://github.com/FabricMC/fabric/tree/1.17/fabric-renderer-indigo). (licensed Apache 2.0)\n\n# Frequently Asked Questions\n## Which mods require Indium?\nAny mod that uses the Fabric Rendering API will require Indium when used with Sodium. These include: Campanion, Bits and Chisels, LambdaBetterGrass,\nContinuity, Packages, and many more. Some of these mods may function without an implementation of the Fabric Rendering API, but have broken textures and models.\n\n## Does Indium affect performance?\nIndium's impact on performance should be negligible, however mods that use the Fabric Rendering API could themselves impact performance. Indium will not provide a performance benefit over using only Sodium.\n\n## Is Indium a replacement for Sodium?\nNo, Indium is an addon mod for Sodium - you must use both mods together to get Fabric Rendering API support with Sodium's rendering optimisations.\n\n## Do I need Indium if I don't use Sodium?\nNo, Indigo is provided as part of Fabric API as the reference implementation of the Fabric Rendering API. Indigo disables itself when Sodium is installed.\n\n## Is Fabric API required?\nYes. To use Sodium with mods that require the Fabric Rendering API, you need *both* Fabric API to provide the rendering API and Indium to implement the rendering API.\n\n## Will it be merged into Sodium?\nFabric Rendering API support is not currently a priority for the Sodium developers, and will not be explored until Sodium is in a more stable state.\n\n## Which versions of Sodium are supported?\nSodium 0.2.0 or newer is required for all versions of Indium. I support the latest stable versions of Sodium for 1.18 and 1.19. Iris may not always be compatible with the latest release or build of Indium - please ask the Iris support channels if you have issues.",
+		"long_description": "# Since Sodium 0.6.0, Indium is no longer required!\nSodium now has support for the Fabric Rendering API built in, so you no longer need Indium.\n\nIndium also isn't compatible with Sodium 0.6.0+, so don't use it :)\n\n<details>\n<summary>Original description</summary>\n\nIndium is an addon for the rendering optimisation mod [Sodium](https://modrinth.com/mod/sodium), providing support for the Fabric Rendering API. The Fabric Rendering API is required for many mods that use advanced rendering effects, and is currently not supported by Sodium directly. Indium is based upon the reference implementation Indigo, which is part of Fabric API with source available [here](https://github.com/FabricMC/fabric/tree/1.17/fabric-renderer-indigo). (licensed Apache 2.0)\n\n# Frequently Asked Questions\n## Which mods require Indium?\nAny mod that uses the Fabric Rendering API will require Indium when used with Sodium. These include: Campanion, Bits and Chisels, LambdaBetterGrass,\nContinuity, Packages, and many more. Some of these mods may function without an implementation of the Fabric Rendering API, but have broken textures and models.\n\n## Does Indium affect performance?\nIndium's impact on performance should be negligible, however mods that use the Fabric Rendering API could themselves impact performance. Indium will not provide a performance benefit over using only Sodium.\n\n## Is Indium a replacement for Sodium?\nNo, Indium is an addon mod for Sodium - you must use both mods together to get Fabric Rendering API support with Sodium's rendering optimisations.\n\n## Do I need Indium if I don't use Sodium?\nNo, Indigo is provided as part of Fabric API as the reference implementation of the Fabric Rendering API. Indigo disables itself when Sodium is installed.\n\n## Is Fabric API required?\nYes. To use Sodium with mods that require the Fabric Rendering API, you need *both* Fabric API to provide the rendering API and Indium to implement the rendering API.\n\n## Will it be merged into Sodium?\nFabric Rendering API support is not currently a priority for the Sodium developers, and will not be explored until Sodium is in a more stable state.\n\n## Which versions of Sodium are supported?\nSodium 0.2.0 or newer is required for all versions of Indium. I support the latest stable versions of Sodium for 1.18 and 1.19. Iris may not always be compatible with the latest release or build of Indium - please ask the Iris support channels if you have issues.\n\n</details>",
 		"name": "Indium",
 		"package_maintainers": [
 			"mcvm"
@@ -618,6 +653,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.36-mc1.20.1",
+			"1.0.35-mc1.21",
 			"1.0.34-mc1.21",
 			"1.0.34-mc1.20.1",
 			"1.0.33-mc1.21",
@@ -685,7 +722,8 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

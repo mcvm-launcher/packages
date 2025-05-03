@@ -4,6 +4,66 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.4.2-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"accessories",
+							"lavender",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VzAGdu9D/versions/C9vVXLgu/things-0.4.2%2B1.21.jar",
+					"version": "C9vVXLgu"
+				},
+				{
+					"content_versions": "0.4.1-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"accessories",
+							"lavender",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VzAGdu9D/versions/oGd6imp4/things-0.4.1%2B1.21.jar",
+					"version": "oGd6imp4"
+				},
+				{
+					"content_versions": "0.4.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"accessories",
+							"lavender",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/VzAGdu9D/versions/Rq5WQPY3/things-0.4.0%2B1.21.jar",
+					"version": "Rq5WQPY3"
+				},
+				{
 					"content_versions": "0.3.4-1.20.3",
 					"minecraft_versions": [
 						"1.20.3",
@@ -488,6 +548,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.4.2-1.21",
+			"0.4.1-1.21",
+			"0.4.0-1.21",
 			"0.3.4-1.20.3",
 			"0.3.3-1.20.3",
 			"0.3.3-1.20.2",
@@ -552,7 +615,9 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

@@ -4,6 +4,21 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.1.7",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/IvtlnXcT/threadtweak-fabric-0.1.7%2Bmc1.21.5.jar",
+					"version": "IvtlnXcT"
+				},
+				{
 					"content_versions": "0.1.3-mc1.20.6",
 					"minecraft_versions": [
 						"1.20.5",
@@ -21,6 +36,49 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/BtMMYDAh/threadtweak-fabric-1.20.6-0.1.3.jar",
 					"version": "BtMMYDAh"
+				},
+				{
+					"content_versions": "0.1.6",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/HV6EY0h3/threadtweak-fabric-0.1.5%2Bmc1.21.3.jar",
+					"version": "HV6EY0h3"
+				},
+				{
+					"content_versions": "0.1.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/F4sjmsi3/threadtweak-fabric-0.1.5%2Bmc1.21.1.jar",
+					"version": "F4sjmsi3"
+				},
+				{
+					"content_versions": "0.1.4-mc1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/INOJp2Dt/threadtweak-fabric-0.1.4%2Bmc1.21.jar",
+					"version": "INOJp2Dt"
 				},
 				{
 					"content_versions": "0.1.2-mc1.20.4",
@@ -89,7 +147,7 @@
 		"description": "Improve and tweak Minecraft thread scheduling. Fork of Smooth Boot for ≥1.20",
 		"documentation": "https://github.com/UltimateBoomer/mc-smoothboot/wiki",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/vSEH1ERy/189518fa90beded3665a7a09dff5726d5bdd9297.png",
+		"icon": "https://cdn.modrinth.com/data/vSEH1ERy/5d2913ba6c0299ac60b03d0b572a78c67c04c541_96.webp",
 		"issues": "https://github.com/getchoo/threadtweak/issues",
 		"license": "MIT",
 		"long_description": "[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/getchoo/smooth-reboot) [![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://fabricmc.net) [![quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg)](https://quiltmc.org)\n\nThreadTweak lets you improve and tweak Minecraft CPU scheduling. It is a maintained version of the [original Smooth Boot mod](https://github.com/UltimateBoomer/mc-smoothboot), allowing you to still change CPU thread priorities in-game.\n\n### Why was this made if it's no longer needed?\n\nWhile the main function of Smooth Boot was fixed in 1.19.4, the mod still allows you to adjust thread priorities, which can still be quite beneficial on some systems as shown in [UltimateBoomer/mc-smoothboot #54](https://github.com/UltimateBoomer/mc-smoothboot/issues/54).\n\n### Is this faster than the original mod?\n\nNot in any way - this is simply a maintained version of the final version of Smooth Boot. There may or may not be extra features or improvements added as requested or while I have the time.\n\n<details>\n<summary>Email with permission from the original author</summary>\n\nHello Devin,\n\nI certainly have no problems if you want to maintain a fork of Smooth Boot for future versions of Minecraft. I understand that Smooth Boot can still be useful in version 1.20 and later, though personally I'm not interested in maintaining the mod right now. I also suggest a different name to be used, though you don't have to if you don't want to. Smooth Boot's original purpose of making Minecraft launch faster is no longer necessary, so a different name would convey the purpose of the mod more accurately.\n\nThanks,\n\nUltimateBoomer\n\n</details>",
@@ -101,6 +159,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.1.7",
+			"0.1.6",
+			"0.1.5",
+			"0.1.4-mc1.21",
 			"0.1.3-mc1.20.6",
 			"0.1.2-mc1.20.4",
 			"0.1.1-mc1.20.2",
@@ -120,7 +182,12 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.5",
-			"1.20.6"
+			"1.20.6",
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	},
 	"relations": {

@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.20.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/T8TGycIQ/versions/z06Zdn5q/structure_gel-1.21.4-2.20.0.jar",
+					"version": "z06Zdn5q"
+				},
+				{
 					"content_versions": "2.19.1",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -203,13 +211,13 @@
 			"KingPhygieBoo",
 			"SilverDavidMC"
 		],
-		"banner": "https://cdn.modrinth.com/data/T8TGycIQ/images/9bbaf941be5875e3a439d5c895c9aaaca7f25380.png",
+		"banner": "https://cdn.modrinth.com/data/T8TGycIQ/images/392daedecfaa4ef7455f1cf33f992600870fe01e_350.webp",
 		"community": "https://discord.gg/ZNacssWzqc",
 		"description": "An API for simplifying the developer end of creating generated structures.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/T8TGycIQ/images/39c77e6c7d9f4347722e4b32300f20f718587992.png",
+			"https://cdn.modrinth.com/data/T8TGycIQ/images/39c77e6c7d9f4347722e4b32300f20f718587992_350.webp",
+			"https://cdn.modrinth.com/data/T8TGycIQ/images/392daedecfaa4ef7455f1cf33f992600870fe01e_350.webp",
 			"https://cdn.modrinth.com/data/T8TGycIQ/images/87189c9bca777436b6ebf357a8c65eb13353451d.png",
-			"https://cdn.modrinth.com/data/T8TGycIQ/images/9bbaf941be5875e3a439d5c895c9aaaca7f25380.png",
 			"https://cdn.modrinth.com/data/T8TGycIQ/images/503c7a3dae8e758a1db3fa55e64d75f856576784.gif",
 			"https://cdn.modrinth.com/data/T8TGycIQ/images/e21b268d8e6aab180443d805f5041f1993fedbd0.gif",
 			"https://cdn.modrinth.com/data/T8TGycIQ/images/361a39fc615627ccdde9dbccd4f5b1ff491bb7cc.gif",
@@ -232,6 +240,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.20.0",
 			"2.19.1",
 			"2.19.0",
 			"2.18.1",
@@ -268,7 +277,8 @@
 			"1.19.2",
 			"1.19.4",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21.4"
 		]
 	}
 }

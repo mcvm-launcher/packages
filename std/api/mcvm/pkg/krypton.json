@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.2.9",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/neW85eWt/krypton-0.2.9.jar",
+					"version": "neW85eWt"
+				},
+				{
 					"content_versions": "0.2.8",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -202,7 +210,7 @@
 		"community": "https://discord.gg/RUGArxEQ8J",
 		"description": "A mod to optimize the Minecraft networking stack",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/fQEb0iXm/icon.png",
+		"icon": "https://cdn.modrinth.com/data/fQEb0iXm/3ea60899d060a9286e03b87bfa9e71d0cbe2dde7_96.webp",
 		"issues": "https://github.com/astei/krypton/issues",
 		"license": "LGPL-3.0-only",
 		"long_description": "## Warning\n\n**Krypton is a work-in-progress.** I do not provide any guarantees about its stability, compatibility with other mods, or support for every possible setup out there. Support for this mod is provided on a \"best-effort\" basis. This is not my day job, it is a hobby growing out of related work I've done.\n\n## Sponsor Me!\n\nDid this mod make your server playable? [Chip in a bit of money](https://github.com/sponsors/astei) so I can continue developing it.\n\n## What's Krypton?\n\nKrypton (from Ancient Greek _kryptos_, \"the hidden one\") is a Fabric mod that attempts to optimize the Minecraft networking stack. It derives from work\ndone in the [Velocity](https://velocitypowered.com/) and [Tuinity](https://github.com/Spottedleaf/Tuinity)\nprojects.\n\nKrypton contains several optimizations, including:\n\n* **Highly optimized Netty handlers** derived from the [Velocity](https://velocitypowered.com) proxy, which I am the developer of. These handlers have seen real-world usage and extensive profiling, and strategically deploy native code where it makes the most sense.\n* **Flush consolidation** to lower server CPU usage (and reducing the impact from hardware security vulnerabilities which exploit speculative execution) and lower server tick times.\n* **Micro-optimizations** to reduce memory usage and improve packet serialization speeds.\n\n[Please join my Discord](https://discord.gg/RUGArxEQ8J) to discuss the mod or get support.\n\n## Compatibility\n\nKrypton should work anywhere where a Minecraft can run &mdash; naturally, however, it is tuned for Linux.\n\nI try to ensure that Krypton will work with the Fabric API, Lithium, and Sodium. Support beyond these mods is provided on a best effort basis.",
@@ -215,6 +223,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.2.9",
 			"0.2.8",
 			"0.2.7",
 			"0.2.6",
@@ -263,7 +272,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

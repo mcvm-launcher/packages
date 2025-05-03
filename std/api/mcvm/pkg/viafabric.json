@@ -4,6 +4,640 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.4.18-109-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.6",
+						"1.21.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/2JihKmGc/ViaFabric-0.4.18%2B109-main.jar",
+					"version": "2JihKmGc"
+				},
+				{
+					"content_versions": "0.4.18-108-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/tIpCWaiI/ViaFabric-0.4.18%2B108-legacy.jar",
+					"version": "tIpCWaiI"
+				},
+				{
+					"content_versions": "0.4.18-107-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.6",
+						"1.21.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/XJiIIczg/ViaFabric-0.4.18%2B107-main.jar",
+					"version": "XJiIIczg"
+				},
+				{
+					"content_versions": "0.4.18-106-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/qn78Nae0/ViaFabric-0.4.18%2B106-legacy.jar",
+					"version": "qn78Nae0"
+				},
+				{
+					"content_versions": "0.4.18-105-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/8WmvPM11/ViaFabric-0.4.18%2B105-legacy.jar",
+					"version": "8WmvPM11"
+				},
+				{
+					"content_versions": "0.4.18-104-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.6",
+						"1.21.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/n9T0mzox/ViaFabric-0.4.18%2B104-main.jar",
+					"version": "n9T0mzox"
+				},
+				{
+					"content_versions": "0.4.18-103-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/d2rawrRu/ViaFabric-0.4.18%2B103-legacy.jar",
+					"version": "d2rawrRu"
+				},
+				{
+					"content_versions": "0.4.17-102-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/YVYkific/ViaFabric-0.4.17%2B102-main.jar",
+					"version": "YVYkific"
+				},
+				{
+					"content_versions": "0.4.17-101-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/aVYQ1muy/ViaFabric-0.4.17%2B101-legacy.jar",
+					"version": "aVYQ1muy"
+				},
+				{
+					"content_versions": "0.4.17-100-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/Nq2s57Tj/ViaFabric-0.4.17%2B100-main.jar",
+					"version": "Nq2s57Tj"
+				},
+				{
+					"content_versions": "0.4.17-99-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/AmIl3O1t/ViaFabric-0.4.17%2B99-legacy.jar",
+					"version": "AmIl3O1t"
+				},
+				{
+					"content_versions": "0.4.17-97-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/TKgrjQy7/ViaFabric-0.4.17%2B97-main.jar",
+					"version": "TKgrjQy7"
+				},
+				{
+					"content_versions": "0.4.17-96-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/HtlOMtdf/ViaFabric-0.4.17%2B96-main.jar",
+					"version": "HtlOMtdf"
+				},
+				{
+					"content_versions": "0.4.17-95-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/1l5X05Aw/ViaFabric-0.4.17%2B95-main.jar",
+					"version": "1l5X05Aw"
+				},
+				{
+					"content_versions": "0.4.17-95-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/Ob8mDzBc/ViaFabric-0.4.17%2B95-main.jar",
+					"version": "Ob8mDzBc"
+				},
+				{
+					"content_versions": "0.4.17-93-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/UGHhXjIX/ViaFabric-0.4.17%2B93-main.jar",
+					"version": "UGHhXjIX"
+				},
+				{
+					"content_versions": "0.4.17-92-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/oY9ZmB3o/ViaFabric-0.4.17%2B92-legacy.jar",
+					"version": "oY9ZmB3o"
+				},
+				{
+					"content_versions": "0.4.17-91-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/Niu0KrUK/ViaFabric-0.4.17%2B91-main.jar",
+					"version": "Niu0KrUK"
+				},
+				{
+					"content_versions": "0.4.17-90-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/hmvxr6ge/ViaFabric-0.4.17%2B90-legacy.jar",
+					"version": "hmvxr6ge"
+				},
+				{
+					"content_versions": "0.4.16-88-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/CQ7NwggR/ViaFabric-0.4.16%2B88-main.jar",
+					"version": "CQ7NwggR"
+				},
+				{
+					"content_versions": "0.4.16-87-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/PoV5riHn/ViaFabric-0.4.16%2B87-legacy.jar",
+					"version": "PoV5riHn"
+				},
+				{
+					"content_versions": "0.4.16-86-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/OpbhEAlg/ViaFabric-0.4.16%2B86-legacy.jar",
+					"version": "OpbhEAlg"
+				},
+				{
+					"content_versions": "0.4.16-85-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/510fLIzT/ViaFabric-0.4.16%2B85-main.jar",
+					"version": "510fLIzT"
+				},
+				{
+					"content_versions": "0.4.15-84-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/6DgogkJ3/ViaFabric-0.4.15%2B84-main.jar",
+					"version": "6DgogkJ3"
+				},
+				{
+					"content_versions": "0.4.15-83-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/HcMA9Ubr/ViaFabric-0.4.15%2B83-main.jar",
+					"version": "HcMA9Ubr"
+				},
+				{
+					"content_versions": "0.4.15-82-legacy",
+					"minecraft_versions": [
+						"1.8.9",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "legacy-fabric-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/BI21ROWE/ViaFabric-0.4.15%2B82-legacy.jar",
+					"version": "BI21ROWE"
+				},
+				{
+					"content_versions": "0.4.15-81-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/F2zahyhQ/ViaFabric-0.4.15%2B81-main.jar",
+					"version": "F2zahyhQ"
+				},
+				{
+					"content_versions": "0.4.15-80-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/UQhB7UW1/ViaFabric-0.4.15%2B80-main.jar",
+					"version": "UQhB7UW1"
+				},
+				{
+					"content_versions": "0.4.15-79-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/h1r2urqJ/ViaFabric-0.4.15%2B79-main.jar",
+					"version": "h1r2urqJ"
+				},
+				{
+					"content_versions": "0.4.15-78-main",
+					"minecraft_versions": [
+						"1.14.4",
+						"1.15.2",
+						"1.16.5",
+						"1.17.1",
+						"1.18.2",
+						"1.19.4",
+						"1.20.1",
+						"1.20.4",
+						"1.20.6",
+						"1.21"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "fabriclike-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YlKdE5VK/versions/dS5UWGlC/ViaFabric-0.4.15%2B78-main.jar",
+					"version": "dS5UWGlC"
+				},
+				{
 					"content_versions": "0.4.14-77-main",
 					"minecraft_versions": [
 						"1.14.4",
@@ -1724,8 +2358,7 @@
 	"meta": {
 		"authors": [
 			"FlorianMichael",
-			"creeper123123321",
-			"kennytv"
+			"creeper123123321"
 		],
 		"community": "https://viaversion.com/discord",
 		"description": "Allows to connect to older servers with older versions",
@@ -1743,6 +2376,35 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.4.18-109-main",
+			"0.4.18-108-legacy",
+			"0.4.18-107-main",
+			"0.4.18-106-legacy",
+			"0.4.18-105-legacy",
+			"0.4.18-104-main",
+			"0.4.18-103-legacy",
+			"0.4.17-102-main",
+			"0.4.17-101-legacy",
+			"0.4.17-100-main",
+			"0.4.17-99-legacy",
+			"0.4.17-97-main",
+			"0.4.17-96-main",
+			"0.4.17-95-main",
+			"0.4.17-93-main",
+			"0.4.17-92-legacy",
+			"0.4.17-91-main",
+			"0.4.17-90-legacy",
+			"0.4.16-88-main",
+			"0.4.16-87-legacy",
+			"0.4.16-86-legacy",
+			"0.4.16-85-main",
+			"0.4.15-84-main",
+			"0.4.15-83-main",
+			"0.4.15-82-legacy",
+			"0.4.15-81-main",
+			"0.4.15-80-main",
+			"0.4.15-79-main",
+			"0.4.15-78-main",
 			"0.4.14-77-main",
 			"0.4.14-76-legacy",
 			"0.4.14-74-main",
@@ -1853,7 +2515,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

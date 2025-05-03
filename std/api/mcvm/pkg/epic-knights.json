@@ -4,6 +4,124 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "9.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/L6jvzao4/versions/74nCNWrI/%5B1.20.1-forge%5D-Epic-Knights-9.19.jar",
+					"version": "74nCNWrI"
+				},
+				{
+					"content_versions": "9.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/L6jvzao4/versions/nagiJ9by/%5B1.20.1-fabric%5D-Epic-Knights-9.19.jar",
+					"version": "nagiJ9by"
+				},
+				{
+					"content_versions": "9.14",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/L6jvzao4/versions/MZEWwXQT/%5B1.21-neoforge%5D-Epic-Knights-9.14.jar",
+					"version": "MZEWwXQT"
+				},
+				{
+					"content_versions": "9.14",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/L6jvzao4/versions/MT6QKV2I/%5B1.21-fabric%5D-Epic-Knights-9.14.jar",
+					"version": "MT6QKV2I"
+				},
+				{
+					"content_versions": "9.16",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/L6jvzao4/versions/x8PzYhb5/%5B1.20.1-forge%5D-Epic-Knights-9.16.jar",
+					"version": "x8PzYhb5"
+				},
+				{
+					"content_versions": "9.16",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/L6jvzao4/versions/45nLWaO8/%5B1.20.1-fabric%5D-Epic-Knights-9.16.jar",
+					"version": "45nLWaO8"
+				},
+				{
+					"content_versions": "9.16",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/L6jvzao4/versions/BPb6UFL0/%5B1.20.2-forge%5D-Epic-Knights-9.16.jar",
+					"version": "BPb6UFL0"
+				},
+				{
+					"content_versions": "9.16",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/L6jvzao4/versions/EGN0GN2M/%5B1.20.2-fabric%5D-Epic-Knights-9.16.jar",
+					"version": "EGN0GN2M"
+				},
+				{
 					"content_versions": "9.8",
 					"minecraft_versions": "1.20.2",
 					"modloaders": "forgelike",
@@ -347,6 +465,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"9.19",
+			"9.16",
+			"9.14",
 			"9.8",
 			"9.6",
 			"8.2",
@@ -380,7 +501,9 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.2"
+			"1.20.2",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

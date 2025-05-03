@@ -4,6 +4,40 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.11.1",
+					"minecraft_versions": [
+						"1.6.4",
+						"1.7.10",
+						"1.8",
+						"1.8.9",
+						"1.9.4",
+						"1.10.2",
+						"1.11.2",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9CJED7xi/versions/HZ3pO0aS/legacy-fabric-api-1.11.1.jar",
+					"version": "HZ3pO0aS"
+				},
+				{
+					"content_versions": "1.11.0",
+					"minecraft_versions": [
+						"1.6.4",
+						"1.7.10",
+						"1.8",
+						"1.8.9",
+						"1.9.4",
+						"1.10.2",
+						"1.11.2",
+						"1.12.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9CJED7xi/versions/3NZuQzPx/legacy-fabric-api-1.11.0.jar",
+					"version": "3NZuQzPx"
+				},
+				{
 					"content_versions": "1.10.2",
 					"minecraft_versions": [
 						"1.6.4",
@@ -144,7 +178,7 @@
 		"community": "https://discord.gg/yBTpRXe",
 		"description": "The legacy fabric version of the fabric api.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/9CJED7xi/530f0faae24654db797a9054ebe3a4ad8768d852.png",
+		"icon": "https://cdn.modrinth.com/data/9CJED7xi/aa6589eab941784c101489cf1eaf86770237c625_96.webp",
 		"issues": "https://github.com/Legacy-Fabric/fabric/issues",
 		"license": "Apache-2.0",
 		"long_description": "Legacy Fabric API is the core library for the most common hooks and inter compatibility measures utilized by mods using the Legacy Fabric toolchain.\n\nMore information and full installation instructions can be found on the [Legacy Fabric website](https://legacyfabric.net) and support can be found on the Legacy Fabric discord server.\n\n**This is SEPARATE from the [Fabric loader](https://github.com/Legacy-Fabric/fabric-installer)! You need both for most mods!**\n\nJoin our discord server for help: [https://discord.gg/yBTpRXe](https://discord.gg/yBTpRXe)\n\nJoin us on #legacyfabric on irc.esper.net",
@@ -156,6 +190,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.11.1",
+			"1.11.0",
 			"1.10.2",
 			"1.10.1",
 			"1.10.0",

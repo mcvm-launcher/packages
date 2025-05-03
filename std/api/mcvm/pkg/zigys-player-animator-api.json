@@ -1,0 +1,1182 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "2.3.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/xJym0AKx/playeranimatorapi-neoforge-1.21-2.3.5.jar",
+					"version": "xJym0AKx"
+				},
+				{
+					"content_versions": "2.3.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/dpAMctF3/playeranimatorapi-fabric-1.21-2.3.5.jar",
+					"version": "dpAMctF3"
+				},
+				{
+					"content_versions": "2.3.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/uDMUsYN8/playeranimatorapi-neoforge-1.21-2.3.4.jar",
+					"version": "uDMUsYN8"
+				},
+				{
+					"content_versions": "2.3.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/HIkeTUUt/playeranimatorapi-fabric-1.21-2.3.4.jar",
+					"version": "HIkeTUUt"
+				},
+				{
+					"content_versions": "2.3.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/krL404Cn/playeranimatorapi-neoforge-1.21-2.3.3.jar",
+					"version": "krL404Cn"
+				},
+				{
+					"content_versions": "2.3.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/ByBnEdZO/playeranimatorapi-fabric-1.21-2.3.3.jar",
+					"version": "ByBnEdZO"
+				},
+				{
+					"content_versions": "2.1.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/j7aF0mNn/playeranimatorapi-forge-1.20.1-2.1.5.jar",
+					"version": "j7aF0mNn"
+				},
+				{
+					"content_versions": "2.1.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/1b0IttRV/playeranimatorapi-fabric-1.20.1-2.1.5.jar",
+					"version": "1b0IttRV"
+				},
+				{
+					"content_versions": "2.3.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/633DrCiL/playeranimatorapi-neoforge-1.21-2.3.2.jar",
+					"version": "633DrCiL"
+				},
+				{
+					"content_versions": "2.3.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/uia8HrDJ/playeranimatorapi-fabric-1.21-2.3.2.jar",
+					"version": "uia8HrDJ"
+				},
+				{
+					"content_versions": "2.1.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/jXkAls1c/playeranimatorapi-forge-1.20.1-2.1.4.jar",
+					"version": "jXkAls1c"
+				},
+				{
+					"content_versions": "2.1.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/iXoh7Aqu/playeranimatorapi-fabric-1.20.1-2.1.4.jar",
+					"version": "iXoh7Aqu"
+				},
+				{
+					"content_versions": "2.3.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/higUE5C8/playeranimatorapi-neoforge-1.21-2.3.1.jar",
+					"version": "higUE5C8"
+				},
+				{
+					"content_versions": "2.3.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/QK8z7GIP/playeranimatorapi-fabric-1.21-2.3.1.jar",
+					"version": "QK8z7GIP"
+				},
+				{
+					"content_versions": "2.3.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/H1wbUyky/playeranimatorapi-neoforge-1.21-2.3.0.jar",
+					"version": "H1wbUyky"
+				},
+				{
+					"content_versions": "2.3.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/M1TANUHJ/playeranimatorapi-fabric-1.21-2.3.0.jar",
+					"version": "M1TANUHJ"
+				},
+				{
+					"content_versions": "2.1.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/uMins5Z8/playeranimatorapi-forge-1.20.1-2.1.3.jar",
+					"version": "uMins5Z8"
+				},
+				{
+					"content_versions": "2.1.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/KMryvujI/playeranimatorapi-fabric-1.20.1-2.1.3.jar",
+					"version": "KMryvujI"
+				},
+				{
+					"content_versions": "2.1.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/P2Y7hrxK/playeranimatorapi-forge-1.20.1-2.1.2.jar",
+					"version": "P2Y7hrxK"
+				},
+				{
+					"content_versions": "2.1.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/8aTYkBaJ/playeranimatorapi-fabric-1.20.1-2.1.2.jar",
+					"version": "8aTYkBaJ"
+				},
+				{
+					"content_versions": "2.2.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/TwzDrNii/playeranimatorapi-neoforge-1.21-2.2.1.jar",
+					"version": "TwzDrNii"
+				},
+				{
+					"content_versions": "2.2.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/afawrbv1/playeranimatorapi-fabric-1.21-2.2.1.jar",
+					"version": "afawrbv1"
+				},
+				{
+					"content_versions": "2.1.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/2ipdyDxV/playeranimatorapi-neoforge-1.20.4-2.1.2.jar",
+					"version": "2ipdyDxV"
+				},
+				{
+					"content_versions": "2.1.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/2Su3T6LI/playeranimatorapi-fabric-1.20.4-2.1.2.jar",
+					"version": "2Su3T6LI"
+				},
+				{
+					"content_versions": "2.2.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/PxWa1UOl/playeranimatorapi-neoforge-1.21-2.2.0.jar",
+					"version": "PxWa1UOl"
+				},
+				{
+					"content_versions": "2.2.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/tWn6aMgy/playeranimatorapi-fabric-1.21-2.2.0.jar",
+					"version": "tWn6aMgy"
+				},
+				{
+					"content_versions": "2.1.1",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/Hbm2N9Yo/playeranimatorapi-neoforge-1.20.4-2.1.1.jar",
+					"version": "Hbm2N9Yo"
+				},
+				{
+					"content_versions": "2.1.1",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/xb9zrTUF/playeranimatorapi-fabric-1.20.4-2.1.1.jar",
+					"version": "xb9zrTUF"
+				},
+				{
+					"content_versions": "2.1.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/kf9t6FJl/playeranimatorapi-forge-1.20.1-2.1.1.jar",
+					"version": "kf9t6FJl"
+				},
+				{
+					"content_versions": "2.1.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/DeHdNlGg/playeranimatorapi-fabric-1.20.1-2.1.1.jar",
+					"version": "DeHdNlGg"
+				},
+				{
+					"content_versions": "2.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/SSKG3YmR/playeranimatorapi-fabric-1.21-2.1.0.jar",
+					"version": "SSKG3YmR"
+				},
+				{
+					"content_versions": "2.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/g3eunLfC/playeranimatorapi-neoforge-1.21-2.1.0.jar",
+					"version": "g3eunLfC"
+				},
+				{
+					"content_versions": "2.1.0",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/EJgYZjFm/playeranimatorapi-neoforge-1.20.4-2.1.0.jar",
+					"version": "EJgYZjFm"
+				},
+				{
+					"content_versions": "2.1.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/V30foMLQ/playeranimatorapi-forge-1.20.1-2.1.0.jar",
+					"version": "V30foMLQ"
+				},
+				{
+					"content_versions": "2.1.0",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/uf1ohj1K/playeranimatorapi-fabric-1.20.4-2.1.0.jar",
+					"version": "uf1ohj1K"
+				},
+				{
+					"content_versions": "2.1.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/SDXocFNI/playeranimatorapi-fabric-1.20.1-2.1.0.jar",
+					"version": "SDXocFNI"
+				},
+				{
+					"content_versions": "2.0.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/tsZncifJ/playeranimatorapi-neoforge-1.21-2.0.5.jar",
+					"version": "tsZncifJ"
+				},
+				{
+					"content_versions": "2.0.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/3JjRjSTH/playeranimatorapi-fabric-1.21-2.0.5.jar",
+					"version": "3JjRjSTH"
+				},
+				{
+					"content_versions": "2.0.5",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/SWZbNwzO/playeranimatorapi-neoforge-1.20.4-2.0.5.jar",
+					"version": "SWZbNwzO"
+				},
+				{
+					"content_versions": "2.0.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/NRY9TX1z/playeranimatorapi-fabric-1.20.1-2.0.5.jar",
+					"version": "NRY9TX1z"
+				},
+				{
+					"content_versions": "2.0.5",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"azurelib",
+							"fabriclike-api",
+							"player-animator"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/AoSoV11c/playeranimatorapi-fabric-1.20.4-2.0.5.jar",
+					"version": "AoSoV11c"
+				},
+				{
+					"content_versions": "2.0.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/xxRjjfFv/playeranimatorapi-forge-1.20.1-2.0.5.jar",
+					"version": "xxRjjfFv"
+				},
+				{
+					"content_versions": "2.0.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/s2ljRLqj/playeranimatorapi-forge-1.20.1-2.0.4.jar",
+					"version": "s2ljRLqj"
+				},
+				{
+					"content_versions": "2.0.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/hHFV0vTr/playeranimatorapi-neoforge-1.20.4-2.0.4.jar",
+					"version": "hHFV0vTr"
+				},
+				{
+					"content_versions": "2.0.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/vnCt6wrH/playeranimatorapi-fabric-1.20.4-2.0.4.jar",
+					"version": "vnCt6wrH"
+				},
+				{
+					"content_versions": "2.0.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/7B467xpO/playeranimatorapi-fabric-1.20.1-2.0.4.jar",
+					"version": "7B467xpO"
+				},
+				{
+					"content_versions": "2.0.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/iehF9rmS/playeranimatorapi-neoforge-1.20.4-2.0.3.jar",
+					"version": "iehF9rmS"
+				},
+				{
+					"content_versions": "2.0.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/qSCrt9Is/playeranimatorapi-fabric-1.20.4-2.0.3.jar",
+					"version": "qSCrt9Is"
+				},
+				{
+					"content_versions": "2.0.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/h4ZFOCg5/playeranimatorapi-forge-1.20.1-2.0.3.jar",
+					"version": "h4ZFOCg5"
+				},
+				{
+					"content_versions": "2.0.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/MSgcn8vx/playeranimatorapi-fabric-1.20.1-2.0.3.jar",
+					"version": "MSgcn8vx"
+				},
+				{
+					"content_versions": "2.0.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/HbtIERjE/playeranimatorapi-fabric-1.20.1-2.0.2.jar",
+					"version": "HbtIERjE"
+				},
+				{
+					"content_versions": "2.0.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/5xpRb6Xp/playeranimatorapi-fabric-1.20.4-2.0.2.jar",
+					"version": "5xpRb6Xp"
+				},
+				{
+					"content_versions": "2.0.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/QCBEMIAZ/playeranimatorapi-forge-1.20.1-2.0.2.jar",
+					"version": "QCBEMIAZ"
+				},
+				{
+					"content_versions": "2.0.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/C64Zizxl/playeranimatorapi-neoforge-1.20.4-2.0.2.jar",
+					"version": "C64Zizxl"
+				},
+				{
+					"content_versions": "2.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/vcmThYzb/playeranimatorapi-fabric-1.20.1-2.0.1.jar",
+					"version": "vcmThYzb"
+				},
+				{
+					"content_versions": "2.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/dxJP1M16/playeranimatorapi-forge-1.20.1-2.0.1.jar",
+					"version": "dxJP1M16"
+				},
+				{
+					"content_versions": "2.0.1",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/sQbpzJMj/playeranimatorapi-fabric-1.20.4-2.0.1.jar",
+					"version": "sQbpzJMj"
+				},
+				{
+					"content_versions": "2.0.1",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/MsXTrabc/playeranimatorapi-neoforge-1.20.4-2.0.1.jar",
+					"version": "MsXTrabc"
+				},
+				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/S8HFC4Py/playeranimatorapi-forge-1.20.1-2.0.0.jar",
+					"version": "S8HFC4Py"
+				},
+				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/Se9LKIHc/playeranimatorapi-fabric-1.20.1-2.0.0.jar",
+					"version": "Se9LKIHc"
+				},
+				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/BDQh7T76/playeranimatorapi-fabric-1.20.4-2.0.0.jar",
+					"version": "BDQh7T76"
+				},
+				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/WoIzDJzo/playeranimatorapi-neoforge-1.20.4-2.0.0.jar",
+					"version": "WoIzDJzo"
+				},
+				{
+					"content_versions": "1.3.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/ZmBCsPUO/playeranimatorapi-fabric-1.20.4-1.3.4.jar",
+					"version": "ZmBCsPUO"
+				},
+				{
+					"content_versions": "1.3.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/rxb9lLqI/playeranimatorapi-neoforge-1.20.4-1.3.4.jar",
+					"version": "rxb9lLqI"
+				},
+				{
+					"content_versions": "1.3.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/x6vejXcB/playeranimatorapi-fabric-1.20.1-1.3.4.jar",
+					"version": "x6vejXcB"
+				},
+				{
+					"content_versions": "1.3.4",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/AY3LTnhB/playeranimatorapi-forge-1.20.1-1.3.4.jar",
+					"version": "AY3LTnhB"
+				},
+				{
+					"content_versions": "1.3.3-b",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/plcBeceF/playeranimatorapi-neoforge-1.20.4-1.3.3-b.jar",
+					"version": "plcBeceF"
+				},
+				{
+					"content_versions": "1.3.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/KCDxr9J6/playeranimatorapi-fabric-1.20.1-1.3.3.jar",
+					"version": "KCDxr9J6"
+				},
+				{
+					"content_versions": "1.3.3",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/x0ZLS1mP/playeranimatorapi-forge-1.20.1-1.3.3.jar",
+					"version": "x0ZLS1mP"
+				},
+				{
+					"content_versions": "1.3.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/qQgaCWr9/playeranimatorapi-neoforge-1.20.4-1.3.3.jar",
+					"version": "qQgaCWr9"
+				},
+				{
+					"content_versions": "1.3.3",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/jqp7wJ6q/playeranimatorapi-fabric-1.20.4-1.3.3.jar",
+					"version": "jqp7wJ6q"
+				},
+				{
+					"content_versions": "1.3.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/zwCih3Ui/playeranimatorapi-forge-1.20.1-1.3.2-b.jar",
+					"version": "zwCih3Ui"
+				},
+				{
+					"content_versions": "1.3.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/vRGMJAAP/playeranimatorapi-neoforge-1.20.4-1.3.2.jar",
+					"version": "vRGMJAAP"
+				},
+				{
+					"content_versions": "1.3.2",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/BIucYNbH/playeranimatorapi-fabric-1.20.4-1.3.2.jar",
+					"version": "BIucYNbH"
+				},
+				{
+					"content_versions": "1.3.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/vhCTqzsa/playeranimatorapi-forge-1.20.1-1.3.2.jar",
+					"version": "vhCTqzsa"
+				},
+				{
+					"content_versions": "1.3.2",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/cgGwm9t3/playeranimatorapi-fabric-1.20.1-1.3.2.jar",
+					"version": "cgGwm9t3"
+				},
+				{
+					"content_versions": "1.3.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"player-animator"
+						],
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/DPYQFzBv/playeranimatorapi-fabric-1.20.1-1.3.1.jar",
+					"version": "DPYQFzBv"
+				},
+				{
+					"content_versions": "1.3.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "player-animator",
+						"recommendations": {
+							"value": "azurelib"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/IkQufrWh/versions/QciGH5oG/playeranimatorapi-forge-1.20.1-1.3.1.jar",
+					"version": "QciGH5oG"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"ZigyTheBird"
+		],
+		"description": "API for playing player animations from server side.",
+		"documentation": "https://github.com/ZigyTheBird/ZigysPlayerAnimatorAPI/wiki",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/IkQufrWh/2335a6eaa0276d10cf2e09e65cbaba4f03727ca3_96.webp",
+		"issues": "https://github.com/ZigyTheBird/ZigysPlayerAnimatorAPI/issues",
+		"license": "MIT",
+		"long_description": "Zigy's Player Animator API is a library mod that helps you play player animations.\nYou can play animations from both server and client side.\nYou may also play animations using a server side command.\n\nUse the GitHub wiki to see all the features of the mod and get started.",
+		"name": "Zigy's Player Animator API",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/ZigyTheBird/ZigysPlayerAnimatorAPI"
+	},
+	"properties": {
+		"content_versions": [
+			"2.3.5",
+			"2.3.4",
+			"2.3.3",
+			"2.3.2",
+			"2.3.1",
+			"2.3.0",
+			"2.2.1",
+			"2.2.0",
+			"2.1.5",
+			"2.1.4",
+			"2.1.3",
+			"2.1.2",
+			"2.1.1",
+			"2.1.0",
+			"2.0.5",
+			"2.0.4",
+			"2.0.3",
+			"2.0.2",
+			"2.0.1",
+			"2.0.0",
+			"1.3.4",
+			"1.3.3",
+			"1.3.3-b",
+			"1.3.2",
+			"1.3.1"
+		],
+		"modrinth_id": "IkQufrWh",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.20",
+			"1.20.1",
+			"1.20.4",
+			"1.21",
+			"1.21.1"
+		]
+	}
+}

@@ -4,6 +4,54 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.0.0-alpha.4",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/472oW63Q/versions/Rci0T3Br/StationAPI-2.0.0-alpha.4.jar",
+					"version": "Rci0T3Br"
+				},
+				{
+					"content_versions": "2.0.0-alpha.3",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/472oW63Q/versions/hsEbtoCN/StationAPI-2.0.0-alpha.3.jar",
+					"version": "hsEbtoCN"
+				},
+				{
+					"content_versions": "2.0-alpha.3",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/472oW63Q/versions/hEpytHuI/StationAPI-2.0-alpha.3.jar",
+					"version": "hEpytHuI"
+				},
+				{
+					"content_versions": "2.0-alpha.2.4",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/472oW63Q/versions/W3QVtn6S/StationAPI-2.0-alpha.2.4.jar",
+					"version": "W3QVtn6S"
+				},
+				{
+					"content_versions": "2.0-alpha.2.3",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/472oW63Q/versions/YGi7v4IL/StationAPI-2.0-alpha.2.3.jar",
+					"version": "YGi7v4IL"
+				},
+				{
+					"content_versions": "2.0-alpha.2.2",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/472oW63Q/versions/yQrcYRkr/StationAPI-2.0-alpha.2.2.jar",
+					"version": "yQrcYRkr"
+				},
+				{
 					"content_versions": "2.0-alpha.2.1",
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
@@ -40,6 +88,7 @@
 	},
 	"meta": {
 		"authors": [
+			"calmilamsy",
 			"mine_diver"
 		],
 		"banner": "https://cdn.modrinth.com/data/472oW63Q/images/bafdba08f96125f8c6adeb3c2c31fe5279817e1b.png",
@@ -53,7 +102,7 @@
 		"gallery": [
 			"https://cdn.modrinth.com/data/472oW63Q/images/bafdba08f96125f8c6adeb3c2c31fe5279817e1b.png"
 		],
-		"icon": "https://cdn.modrinth.com/data/472oW63Q/dbc3b893c76f70695fb4fc5a4ae9728c2eaa18a5.png",
+		"icon": "https://cdn.modrinth.com/data/472oW63Q/c0897a11e6e79c524ae7f83c87a565faad48c96a_96.webp",
 		"issues": "https://github.com/ModificationStation/StationAPI/issues",
 		"license": "MIT",
 		"long_description": "StationAPI provides numerous systems and APIs for modding Minecraft Beta 1.7.3\n\nFrom simple events to advanced renderer and world save format.\n\nWiki: https://github.com/ModificationStation/StationAPI/wiki",
@@ -65,6 +114,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.0.0-alpha.4",
+			"2.0.0-alpha.3",
+			"2.0-alpha.3",
+			"2.0-alpha.2.4",
+			"2.0-alpha.2.3",
+			"2.0-alpha.2.2",
 			"2.0-alpha.2.1",
 			"2.0-alpha.2",
 			"2.0-alpha.1.1",

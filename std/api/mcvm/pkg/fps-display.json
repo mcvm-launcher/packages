@@ -324,6 +324,159 @@
 					"version": "G0lqK9Js"
 				},
 				{
+					"content_versions": "4.3.1-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/jdbz5MJ5/fpsdisplay-4.3.1%2B1.21.5.jar",
+					"version": "jdbz5MJ5"
+				},
+				{
+					"content_versions": "4.3.0-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/ZiNw8Tlt/fpsdisplay-4.3.0%2B1.21.4.jar",
+					"version": "ZiNw8Tlt"
+				},
+				{
+					"content_versions": "4.2.4-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/hB8M60Ec/fpsdisplay-4.2.4%2B1.21.4.jar",
+					"version": "hB8M60Ec"
+				},
+				{
+					"content_versions": "4.2.3-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/pEYJyDDx/fpsdisplay-4.2.3%2B1.21.3.jar",
+					"version": "pEYJyDDx"
+				},
+				{
+					"content_versions": "4.2.2-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/DvUqzGDj/fpsdisplay-4.2.2%2B1.21.3.jar",
+					"version": "DvUqzGDj"
+				},
+				{
+					"content_versions": "4.2.1-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DIlqwRFH/versions/nWbgJNPj/fpsdisplay-4.2.1%2B1.21.1.jar",
+					"version": "nWbgJNPj"
+				},
+				{
 					"content_versions": "4.0.0-1.20.4",
 					"minecraft_versions": [
 						"1.20.3",
@@ -720,15 +873,15 @@
 		"authors": [
 			"Grayray75"
 		],
-		"description": "A simple Fabric mod that displays the current FPS on screen.",
+		"description": "A simple Fabric mod that displays the current FPS on screen",
 		"gallery": [
-			"https://cdn.modrinth.com/data/DIlqwRFH/images/aa98e930fee7432a64154db55f6266376c67e91a.png",
+			"https://cdn.modrinth.com/data/DIlqwRFH/images/f5ac887c370b37431499a1d5caf25e704c219b73_350.webp",
 			"https://cdn.modrinth.com/data/DIlqwRFH/images/95eb1c450d4b1d0830f00397288e880d167a0b3c.png"
 		],
 		"icon": "https://cdn.modrinth.com/data/DIlqwRFH/icon.png",
 		"issues": "https://github.com/Grayray75/FPS-Display/issues",
 		"license": "LGPL-3.0-only",
-		"long_description": "## 📗 About\nA simple Fabric mod that displays the current FPS on screen.\n\nAvailable for **ALL** Minecraft versions, where Fabric is supported!\n\n## 🖼️ Showcase\n\n![showcase](https://cdn.modrinth.com/data/DIlqwRFH/images/aa98e930fee7432a64154db55f6266376c67e91a.png)\n\n<details open>\n<summary>Settings Menu</summary>\n\n![settings](https://cdn.modrinth.com/data/DIlqwRFH/images/95eb1c450d4b1d0830f00397288e880d167a0b3c.png)\n\n</details>\n\n<br>\n\n## 🐞 Bugs and Issues\nPlease report any bugs or problems on [GitHub](https://github.com/Grayray75/FPS-Display/issues). \n",
+		"long_description": "## 📗 About\nA simple Fabric mod that displays the current FPS on screen.\n\nAvailable for ALL Minecraft versions, where Fabric is supported!\n\n## 🖼️ Showcase\n\n![showcase](https://cdn.modrinth.com/data/DIlqwRFH/images/aa98e930fee7432a64154db55f6266376c67e91a.png)\n\n<details open>\n<summary>Settings Menu</summary>\n\n![settings](https://cdn.modrinth.com/data/DIlqwRFH/images/95eb1c450d4b1d0830f00397288e880d167a0b3c.png)\n\n</details>\n\n<br>\n\n## 🐞 Bugs and Issues\nPlease report any bugs or problems on [GitHub](https://github.com/Grayray75/FPS-Display/issues). \n",
 		"name": "FPS - Display",
 		"package_maintainers": [
 			"mcvm"
@@ -737,6 +890,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"4.3.1-1.21.5",
+			"4.3.0-1.21.4",
+			"4.2.4-1.21.4",
+			"4.2.3-1.21.3",
+			"4.2.2-1.21.3",
+			"4.2.1-1.21.1",
 			"4.2.0-1.21",
 			"4.1.1-1.20.6",
 			"4.1.0-1.20.5",
@@ -823,7 +982,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

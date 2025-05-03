@@ -4,6 +4,186 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.1-1.2.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/7xuWH12w/almostunified-fabric-1.21.1-1.2.5.jar",
+					"version": "7xuWH12w"
+				},
+				{
+					"content_versions": "1.21.1-1.2.5-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/E1Dvy73n/almostunified-neoforge-1.21.1-1.2.5.jar",
+					"version": "E1Dvy73n"
+				},
+				{
+					"content_versions": "1.20.1-0.9.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/dmWLNXHk/almostunified-forge-1.20.1-0.9.5.jar",
+					"version": "dmWLNXHk"
+				},
+				{
+					"content_versions": "1.20.1-0.9.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/VI3ZHXA0/almostunified-fabric-1.20.1-0.9.5.jar",
+					"version": "VI3ZHXA0"
+				},
+				{
+					"content_versions": "1.21.1-1.2.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/XKgtcx2b/almostunified-fabric-1.21.1-1.2.0.jar",
+					"version": "XKgtcx2b"
+				},
+				{
+					"content_versions": "1.21.1-1.2.0-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/I05Tvi1A/almostunified-neoforge-1.21.1-1.2.0.jar",
+					"version": "I05Tvi1A"
+				},
+				{
+					"content_versions": "1.19.2-0.8.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/Lto9gI2V/almostunified-forge-1.19.2-0.8.2.jar",
+					"version": "Lto9gI2V"
+				},
+				{
+					"content_versions": "1.19.2-0.8.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "jei"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/f3GmEWRU/almostunified-fabric-1.19.2-0.8.2.jar",
+					"version": "f3GmEWRU"
+				},
+				{
 					"content_versions": "1.20.1-0.9.4",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -240,6 +420,270 @@
 					"stability": "latest",
 					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/8ALuKRsp/almostunified-fabric-1.18.2-0.3.10.jar",
 					"version": "8ALuKRsp"
+				},
+				{
+					"content_versions": "1.21.1-1.2.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/F4zOpMxK/almostunified-fabric-1.21.1-1.2.4.jar",
+					"version": "F4zOpMxK"
+				},
+				{
+					"content_versions": "1.21.1-1.2.3-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/C0gXeYGn/almostunified-neoforge-1.21.1-1.2.3.jar",
+					"version": "C0gXeYGn"
+				},
+				{
+					"content_versions": "1.21.1-1.2.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/aBxj3jfp/almostunified-fabric-1.21.1-1.2.3.jar",
+					"version": "aBxj3jfp"
+				},
+				{
+					"content_versions": "1.21.1-1.2.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/N4OWb7mL/almostunified-fabric-1.21.1-1.2.2.jar",
+					"version": "N4OWb7mL"
+				},
+				{
+					"content_versions": "1.21.1-1.2.2-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/pGS4mElv/almostunified-neoforge-1.21.1-1.2.2.jar",
+					"version": "pGS4mElv"
+				},
+				{
+					"content_versions": "1.21.1-1.2.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/cRNukI5x/almostunified-neoforge-1.21.1-1.2.1.jar",
+					"version": "cRNukI5x"
+				},
+				{
+					"content_versions": "1.21.1-1.2.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/44aHL9QJ/almostunified-fabric-1.21.1-1.2.1.jar",
+					"version": "44aHL9QJ"
+				},
+				{
+					"content_versions": "1.21.1-1.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/bkEYrW3G/almostunified-fabric-1.21.1-1.1.0.jar",
+					"version": "bkEYrW3G"
+				},
+				{
+					"content_versions": "1.21.1-1.1.0-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/1PLh0lw3/almostunified-neoforge-1.21.1-1.1.0.jar",
+					"version": "1PLh0lw3"
+				},
+				{
+					"content_versions": "1.21.1-1.0.0-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/KmjNUqhw/almostunified-neoforge-1.21.1-1.0.0.jar",
+					"version": "KmjNUqhw"
+				},
+				{
+					"content_versions": "1.21.1-1.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "emi"
+							},
+							{
+								"value": "jei"
+							},
+							{
+								"value": "kubejs"
+							},
+							{
+								"value": "rei"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/sdaSaQEz/versions/m8UMDvXT/almostunified-fabric-1.21.1-1.0.0.jar",
+					"version": "m8UMDvXT"
 				},
 				{
 					"content_versions": "1.20.1-0.9.2",
@@ -3498,7 +3942,7 @@
 		"gallery": [],
 		"icon": "https://cdn.modrinth.com/data/sdaSaQEz/icon.png",
 		"issues": "https://github.com/AlmostReliable/almostunified/issues",
-		"license": "LGPL-3.0-only",
+		"license": "LicenseRef-All-Rights-Reserved",
 		"long_description": "![](https://i.imgur.com/yowlKWS.png)\n[![](https://i.imgur.com/u0EUHt8.png)](https://discord.com/invite/ThFnwZCyYY)\n[![](https://i.imgur.com/Z5PYH4R.png)](https://github.com/AlmostReliable/almostunified/wiki)\n<details>\n  <summary>Text version if the thread design does not render</summary>\n\n  ## What is Almost Unified?\n  \n  The mod is inspired by the idea of UniDict. An old, no longer maintained mod from the days of 1.12.2.\n  \n  Old versions of Minecraft used a system called the Ore Dictionary. Its purpose was to make the life of modders easier when adding new resources that might exist in other mods already. When used correctly, you could use resources from various mods in their recipes interchangeably. However, if you ever played a big modpack back in the days, you probably know that there were like 10 different ingots for each material because of many mods adding them.\n  \n  This often resulted in a lack of storage space because all these resources from the different mods didn't stack. Additionally, some mods didn't use the dictionary correctly for their recipes so a lot of the resources were useless.\n  \n  UniDict solved this issue by unifying the same resources from different mods so only one item for each resource was left and could be used for all recipes. So instead of having 10 different copper ingots, you will only have one which acts as the dominant universal copper ingot.\n  \n  A lot of time has passed since 1.12.2 and the Ore Dictionary is long gone. In today's modded Minecraft, there is the tag system which acts quite similar to the Ore Dictionary. Still, they also don't solve the problem of many similar resources from different mods.\n  \n  **Almost Unified** tries to solve this by working in a similar fashion as UniDict did.<br>\n  Its goal is to have one dominant resource for each configured tag and make all recipes use this dominant entry.\n  \n  ## How does that work?\n  \n  By defining a priority mod list and target tags in the config, Almost Unified tries to find a dominant item for each entry and changes the recipes depending on that.\n  \n  In modern Minecraft, recipes are usually made of JSONs and are loaded when joining a world. Each loaded recipe is read by the mod and altered depending on different properties inside the JSON.\n  \n  For all inputs, the unification process tries to use the designated tag so all items will remain useful which means Almost Unified should also work in existing worlds.<br>\n  For outputs, Almost Unified will use the dominant item.\n  \n  Since the modification happens before the recipe is loaded by the game, there are no demanding processes going on while the game is running.\n  \n  ## What features does Almost Unified have?\n  \n  The mod transforms existing recipes to have a unified resource list that players and packmakers can work with. It doesn't add its own recipes, resources, ore generation or similar content.\n  \n  Because there is a chance to have duplicate recipes when unifying, Almost Unified will take care of duplications and remove them.<br>\n  Additionally, it hides all non-dominant entries from JEI/REI automatically.\n  \n  The mod is fully reloadable. Configs are loaded every time the unification process starts which means they can be edited on the fly. To restart the process, just rejoin the world or use the `/reload` command.\n  \n  ## Can you give an example?\n  \n  Think about having two mods (modA and modB) that both add Silver Ore. Additionally, they both add Silver Ingots and respective recipes to obtain the ingot such as blasting or smelting the ore.\n  \n  If one of those recipes doesn't accept a tag as input, Almost Unify will change that. Furthermore, it will pick one of the Silver Ingots as the dominant item depending on the mod priority list inside the `unify.json` config. The dominant Silver Ingot will then be used as output for all recipes no matter the mod.\n  \n  After the unification process, you will end up with some equal recipes. Almost Unified will merge them and change their namespace so it's visible that the recipe was changed. In the end, you will have recipes that accept tags as inputs and only the dominant item as output. Duplicate recipes are gone.\n  \n  ## More Information\n  \n  For more information like limitations, native integrations or the FAQ, check out the wiki.\n\n</details>",
 		"name": "Almost Unified",
 		"package_maintainers": [
@@ -3508,6 +3952,22 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.1-1.2.5",
+			"1.21.1-1.2.5-neo",
+			"1.21.1-1.2.4",
+			"1.21.1-1.2.3",
+			"1.21.1-1.2.3-neo",
+			"1.21.1-1.2.2",
+			"1.21.1-1.2.2-neo",
+			"1.21.1-1.2.1",
+			"1.21.1-1.2.1-neo",
+			"1.21.1-1.2.0",
+			"1.21.1-1.2.0-neo",
+			"1.21.1-1.1.0",
+			"1.21.1-1.1.0-neo",
+			"1.21.1-1.0.0",
+			"1.21.1-1.0.0-neo",
+			"1.20.1-0.9.5",
 			"1.20.1-0.9.4",
 			"1.20.1-0.9.3",
 			"1.20.1-0.9.2",
@@ -3541,6 +4001,7 @@
 			"1.19.3-0.3.6",
 			"1.19.3-0.3.5",
 			"1.19.3-0.3.4",
+			"1.19.2-0.8.2",
 			"1.19.2-0.8.1",
 			"1.19.2-0.8.0",
 			"1.19.2-0.7.2",
@@ -3621,7 +4082,8 @@
 			"1.19.2",
 			"1.19.3",
 			"1.19.4",
-			"1.20.1"
+			"1.20.1",
+			"1.21.1"
 		]
 	}
 }

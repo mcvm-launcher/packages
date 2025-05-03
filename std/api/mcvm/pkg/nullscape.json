@@ -4,6 +4,100 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.2.11",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/4qC7kfiC/Nullscape_1.21.x_v1.2.11.jar",
+					"version": "4qC7kfiC"
+				},
+				{
+					"content_versions": "1.2.10",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/dHJAVX8s/Nullscape_1.21.x_v1.2.10.jar",
+					"version": "dHJAVX8s"
+				},
+				{
+					"content_versions": "1.2.9",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/cH2CT13K/Nullscape_1.21.x_v1.2.9.jar",
+					"version": "cH2CT13K"
+				},
+				{
+					"content_versions": "1.2.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/gHI14cqp/Nullscape_1.21.x_v1.2.8.jar",
+					"version": "gHI14cqp"
+				},
+				{
+					"content_versions": "1.2.8",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/QsRKydVt/Nullscape_1.20.x_v1.2.8.jar",
+					"version": "QsRKydVt"
+				},
+				{
 					"content_versions": "1.2.7",
 					"minecraft_versions": [
 						"1.20",
@@ -293,9 +387,9 @@
 		"description": "Transforms the boring Vanilla end into an alien dimension with the most surreal terrain imaginable. Topped with a couple of new biomes to add to the experience, whilst keeping the end desolate.",
 		"documentation": "https://stardustlabs.miraheze.org/wiki/Nullscape",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/LPjGiSO4/b6a7489ca6a0fd553870f9d1c24224d0555232d3.png",
+		"icon": "https://cdn.modrinth.com/data/LPjGiSO4/30249e0548b8643b1559889eab585683cb397f3a_96.webp",
 		"issues": "https://github.com/Stardust-Labs-MC/Nullscape/issues",
-		"license": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt",
+		"license": "LicenseRef-Stardust-Labs-License",
 		"long_description": "\n# Nullscape\n[![Latest Version](https://img.shields.io/github/v/release/Stardust-Labs-MC/Nullscape?color=blueviolet&logo=github \"View latest release\")](https://github.com/Stardust-Labs-MC/Nullscape/releases) [![Discord Badge](https://img.shields.io/discord/738046951236567162?color=blue&logo=discord \"Join our Discord Server\")](https://discord.gg/stardustlabs) [![Modrinth Badge](https://img.shields.io/modrinth/dt/nullscape?label=Modrinth&logo=modrinth \"View our Modrinth page\")](https://modrinth.com/mod/nullscape) [![License Badge](https://img.shields.io/badge/license-Stardust_Labs-green \"View the Stardust Labs License\")](https://github.com/Stardust-Labs-MC/license) [![Wiki Badge](https://img.shields.io/badge/wiki-Miraheze-yellow \"View our Wiki\")](https://stardustlabs.miraheze.org/) [![Issues Badge](https://img.shields.io/github/issues/Stardust-Labs-MC/Nullscape?color=orange&logo=github \"View or open an issue\")](https://github.com/Stardust-Labs-MC/Nullscape/issues) [![Weblate Badge](https://img.shields.io/weblate/progress/stardust-labs?server=https%3A%2F%2Fweblate.catter.dev&logo=weblate \"Translate here\")](https://weblate.catter.dev/projects/stardust-labs)\n\nNullscape keeps the End as a barren, depressing, and bleak place: as it should be, and always will be.\n![Nullscape Banner](https://user-images.githubusercontent.com/63272345/224808975-6d3866c1-a968-4fa1-a1c1-6d9318e42ed9.png)\n## Notes\n- Nullscape is **not** compatible with the majority of end worldgen projects; except Better End\n- Do not add this to an existing end - reset yours first, or use a new world\n- View the structures and biomes per seed using [jacobsjo](https://github.com/jacobsjo)'s [Minecraft Datapack Map](https://map.jacobsjo.eu/)\n\n## Description\nNullscape will make you feel tiny and alone in the vast expanse of the End. You against the void - nothing more than that.\nNullscape boosts the End's height to 384 blocks, and makes full use of 1.18's modern features to generate incredibly varied terrain. You'll find everything from shattered islands, to floating valleys, to crystallized peaks! Different regions of the End - on very large scales - have different properties and feelings to allow for almost infinite variation in terrain shapes. From sponge-like porous terrain, to stretched alien landscapes, to stacked rounded islands; you'll find new and interesting terrain no matter how far you go.\n__ __\n[![Patron Ad](https://user-images.githubusercontent.com/63272345/224786738-7baefaf8-267f-41b6-8ac5-53cc4bd5707e.png \"Join our Patreon!\")](https://www.patreon.com/stardustlabs)\n[![Bisect Hosting Ad](https://user-images.githubusercontent.com/63272345/224786219-f87f21d2-fb51-4d78-82df-a16e83fe25c9.png \"Use code STARDUST\")](https://www.bisecthosting.com/stardust)\n",
 		"name": "Nullscape",
 		"package_maintainers": [
@@ -306,6 +400,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.2.11",
+			"1.2.10",
+			"1.2.9",
+			"1.2.8",
 			"1.2.7",
 			"1.2.6",
 			"1.2.5",
@@ -341,7 +439,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

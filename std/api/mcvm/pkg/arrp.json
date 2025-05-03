@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.9.10",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/USLVyT7V/versions/a5AYAt6F/arrp-0.9.10.jar",
+					"version": "a5AYAt6F"
+				},
+				{
 					"content_versions": "0.8.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -80,13 +88,14 @@
 	},
 	"meta": {
 		"authors": [
-			"Devan-Kerman"
+			"Devan-Kerman",
+			"oliviathevampire"
 		],
 		"community": "https://discord.gg/2SmAwnuZuf",
 		"description": "Runtime Asset/Data Generation API",
 		"documentation": "https://github.com/Devan-Kerman/ARRP/wiki",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/USLVyT7V/icon.png",
+		"icon": "https://cdn.modrinth.com/data/USLVyT7V/7981ae9804824d70624b1915cad84a48bf2dad86_96.webp",
 		"issues": "https://github.com/Devan-Kerman/ARRP/issues",
 		"license": "MPL-2.0",
 		"long_description": "An api for fabric that allows for the generation of resourcepacks at runtime via code. \n\nThis allows you to add recipes/loottables/models/blockstates without json and in code, as well as allowing conditional resources. All while being compatible with normal resource packs.",
@@ -98,6 +107,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.9.10",
 			"0.8.1",
 			"0.8.0",
 			"0.7.0",
@@ -118,7 +128,8 @@
 		"supported_versions": [
 			"1.19",
 			"1.19.3",
-			"1.20.1"
+			"1.20.1",
+			"1.21.5"
 		]
 	}
 }

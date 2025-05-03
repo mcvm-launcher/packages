@@ -4,6 +4,169 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "N-0.5.6.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/jITSrhFt/regions_unexplored-neoforge-1.21.1-0.5.6.1.jar",
+					"version": "jITSrhFt"
+				},
+				{
+					"content_versions": "F-0.5.6.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/pksvWSxI/RegionsUnexploredForge-0.5.6.1%2B1.21.1.jar",
+					"version": "pksvWSxI"
+				},
+				{
+					"content_versions": "A-0.5.6.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/ZS3DtSyB/regions_unexplored-fabric-1.21.1-0.5.6.1.jar",
+					"version": "ZS3DtSyB"
+				},
+				{
+					"content_versions": "N-0.5.6.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/283vJhzw/RegionsUnexploredNeoforge-0.5.6.1%2B1.21.jar",
+					"version": "283vJhzw"
+				},
+				{
+					"content_versions": "F-0.5.6.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/YuRVnRBW/RegionsUnexploredForge-0.5.6.1%2B1.21.jar",
+					"version": "YuRVnRBW"
+				},
+				{
+					"content_versions": "A-0.5.6.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/bHIj876h/RegionsUnexploredFabric-0.5.6.1%2B1.21.jar",
+					"version": "bHIj876h"
+				},
+				{
+					"content_versions": "N-0.5.6-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/YrbSNvuW/regions_unexplored-neoforge-1.21-0.5.6.jar",
+					"version": "YrbSNvuW"
+				},
+				{
+					"content_versions": "F-0.5.6-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/mdtl1fYq/RegionsUnexploredForge-0.5.6%2B1.21.jar",
+					"version": "mdtl1fYq"
+				},
+				{
+					"content_versions": "F-0.5.6-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/HS3hK8m3/RegionsUnexploredForge-0.5.6%2B1.20.4.jar",
+					"version": "HS3hK8m3"
+				},
+				{
+					"content_versions": "F-0.5.6-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "terrablender"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/XTrgsfIB/RegionsUnexploredForge-0.5.6%2B1.20.1.jar",
+					"version": "XTrgsfIB"
+				},
+				{
+					"content_versions": "A-0.5.6-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/iQlbFigs/regions_unexplored-fabric-1.21-0.5.6.jar",
+					"version": "iQlbFigs"
+				},
+				{
+					"content_versions": "A-0.5.6-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/EhR8i21m/RegionsUnexploredFabric-0.5.6%2B1.20.4.jar",
+					"version": "EhR8i21m"
+				},
+				{
+					"content_versions": "A-0.5.6-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"terrablender"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tkikq67H/versions/rhE8MT9Z/RegionsUnexploredFabric-0.5.6%2B1.20.1.jar",
+					"version": "rhE8MT9Z"
+				},
+				{
 					"content_versions": "0.5.5-1.20.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "forgelike",
@@ -717,21 +880,21 @@
 			"MianReplicate",
 			"UHQ-GAMES"
 		],
-		"banner": "https://cdn.modrinth.com/data/Tkikq67H/images/77ddcf1813b97d0e66fb8e66a2e4650aad38e1f2.png",
+		"banner": "https://cdn.modrinth.com/data/Tkikq67H/images/65d16f44afb8ee394a47dee92710c95333596931_350.webp",
 		"community": "https://discord.com/invite/4n4ySnmvgU",
 		"description": "Regions Unexplored is a biome mod that overhauls the overworld and nether in many ways. With 70+ new biomes to explore, there is a plethora of new things to find!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/Tkikq67H/images/53c7f8570d41a6344f0ef987aee273f810263e42.png",
-			"https://cdn.modrinth.com/data/Tkikq67H/images/81001381901aa60832431655605412f16ab0faa8.png",
-			"https://cdn.modrinth.com/data/Tkikq67H/images/d8b623638c8e800eef4d897fe67bb174b2ffed3b.png",
-			"https://cdn.modrinth.com/data/Tkikq67H/images/77ddcf1813b97d0e66fb8e66a2e4650aad38e1f2.png",
-			"https://cdn.modrinth.com/data/Tkikq67H/images/e7cccf8a19226349760c6c14d1030479d6c6f8e3.png",
-			"https://cdn.modrinth.com/data/Tkikq67H/images/d177a6302cee5bd3e88ae698ab9afbd711a99531.png"
+			"https://cdn.modrinth.com/data/Tkikq67H/images/1803867a7419bb9d4f58d1f359751610fa221c6f_350.webp",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/289ffe11fdbe07cfa9709424aaefcdf606494cfc_350.webp",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/1af7fc2ae62103bcd734b5c4667f3edaf434be2e_350.webp",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/65d16f44afb8ee394a47dee92710c95333596931_350.webp",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/b23e4a637348b8c3cdba21ed4d5910d87a12b3e2_350.webp",
+			"https://cdn.modrinth.com/data/Tkikq67H/images/93f008a0eff8dc772fbf7cc46a531b7ceaf90f73_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/Tkikq67H/72ab102d20e20e6cad06c01757e60a1a54b86db1.jpeg",
+		"icon": "https://cdn.modrinth.com/data/Tkikq67H/74fd768dbe153d1fea08e0de64cab62a81be7a09_96.webp",
 		"issues": "https://discord.com/invite/4n4ySnmvgU",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "<p><a href=\"https://discord.com/invite/4n4ySnmvgU\"><strong>Please join my discord here to report issues, crashes, and other issues or to get news on the mod and get in on the discussion!</strong>\n</a>\n<img src=\"https://imgur.com/uIarNNl.gif\" width=\"1280\" height=\"720\" data-mce-src=\"https://imgur.com/uIarNNl.gif\">\n\n<p style=\"text-align:center\"><strong><span style=\"font-size:24px\">Regions Unexplored is a biome mod that overhauls the overworld in many ways. With 70+ new biomes to explore, theres plenty of new things to see!</span></strong></p>\n\n</a>\n<img src=\"https://imgur.com/DI6I3Kt.png\" width=\"2160\" height=\"1329\" data-mce-src=\"https://imgur.com/DI6I3Kt.png\">\n\n<hr />\n\n<p></strong>FORGE VERSIONS:</strong></p>\n\n<p><a href=\"https://modrinth.com/mod/regions-unexplored/version/ol4MIMvc\">LATEST FORGE VERSION</a></p>\n\n<p>Forge Requires: <a href=\"https://modrinth.com/mod/terrablender\">TERRABLENDER</a></p>\n\n<p></strong>FABRIC VERSIONS:</strong></p>\n\n<p><a href=\"https://modrinth.com/mod/regions-unexplored/version/0.5.5+1.20.4\">LATEST FABRIC VERSION</a></p>\n\n<p>Fabric Requires: <a href=\"https://modrinth.com/mod/terrablender\">TERRABLENDER</a>&nbsp; &nbsp; <a href=\"https://modrinth.com/mod/fabric-api\">FABRIC API</a></p>\n\n<hr />\n<p>&nbsp;</p>\n\n<p style=\"text-align:center\"><a href=\"https://www.youtube.com/channel/UCGZxTpl3BbSRimCml6O8hsw\"><strong><span style=\"font-size:24px\">Check out my Youtube Channel Here!</span></strong></a></p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Dn5WUGTv3MM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+		"long_description": "<p><a href=\"https://discord.com/invite/4n4ySnmvgU\"><strong>Please join my discord here to report issues, crashes, and other issues or to get news on the mod and get in on the discussion!</strong>\n</a>\n<img src=\"https://imgur.com/uIarNNl.gif\" width=\"1280\" height=\"720\" data-mce-src=\"https://imgur.com/uIarNNl.gif\">\n\n<p style=\"text-align:center\"><strong><span style=\"font-size:24px\">Regions Unexplored is a biome mod that overhauls the overworld in many ways. With 70+ new biomes to explore, theres plenty of new things to see!</span></strong></p>\n\n</a>\n<img src=\"https://imgur.com/DI6I3Kt.png\" width=\"2160\" height=\"1329\" data-mce-src=\"https://imgur.com/DI6I3Kt.png\">\n\n<hr />\n\n<p></strong>NEOFORGE VERSIONS:</strong></p>\n\n<p><a href=\"https://modrinth.com/mod/regions-unexplored/version/N-0.5.6.1+1.21.1\">LATEST NEOFORGE VERSION</a></p>\n\n<p>NeoForge Requires: <a href=\"https://modrinth.com/mod/terrablender\">TERRABLENDER</a></p>\n\n<p></strong>FORGE VERSIONS:</strong></p>\n\n<p><a href=\"https://modrinth.com/mod/regions-unexplored/version/F-0.5.6.1+1.21.1\">LATEST FORGE VERSION</a></p>\n\n<p>Forge Requires: <a href=\"https://modrinth.com/mod/terrablender\">TERRABLENDER</a></p>\n\n<p></strong>FABRIC VERSIONS:</strong></p>\n\n<p><a href=\"https://modrinth.com/mod/regions-unexplored/version/A-0.5.6.1+1.21.1\">LATEST FABRIC VERSION</a></p>\n\n<p>Fabric Requires: <a href=\"https://modrinth.com/mod/terrablender\">TERRABLENDER</a>&nbsp; &nbsp; <a href=\"https://modrinth.com/mod/forge-config-api-port\">FORGE CONFIG API PORT</a>&nbsp; \n  &nbsp; <a href=\"https://modrinth.com/mod/fabric-api\">FABRIC API</a></p>\n\n<hr />\n<p>&nbsp;</p>\n\n<p style=\"text-align:center\"><a href=\"https://www.youtube.com/channel/UCGZxTpl3BbSRimCml6O8hsw\"><strong><span style=\"font-size:24px\">Check out my Youtube Channel Here!</span></strong></a></p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Dn5WUGTv3MM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
 		"name": "Regions Unexplored",
 		"package_maintainers": [
 			"mcvm"
@@ -770,7 +933,20 @@
 			"0.4.1_1-1.20.1",
 			"0.4.1_1-1.20",
 			"0.4.1_1-1.19.2",
-			"0.4.1_1-1.18.2"
+			"0.4.1_1-1.18.2",
+			"N-0.5.6-1.21",
+			"N-0.5.6.1-1.21.1",
+			"N-0.5.6.1-1.21",
+			"F-0.5.6-1.21",
+			"F-0.5.6-1.20.4",
+			"F-0.5.6-1.20.1",
+			"F-0.5.6.1-1.21.1",
+			"F-0.5.6.1-1.21",
+			"A-0.5.6-1.21",
+			"A-0.5.6-1.20.4",
+			"A-0.5.6-1.20.1",
+			"A-0.5.6.1-1.21.1",
+			"A-0.5.6.1-1.21"
 		],
 		"modrinth_id": "Tkikq67H",
 		"supported_modloaders": [
@@ -788,7 +964,9 @@
 			"1.20",
 			"1.20.1",
 			"1.20.2",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

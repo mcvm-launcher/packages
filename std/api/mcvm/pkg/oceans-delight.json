@@ -4,6 +4,25 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "fdrf-1.0.2-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/I5D1raJA/oceansdelight-fdrf-fabric-1.0.2-1.21.jar",
+					"version": "I5D1raJA"
+				},
+				{
+					"content_versions": "1.0.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/uYwpUE9A/oceansdelight-neoforge-1.0.3-1.21.jar",
+					"version": "uYwpUE9A"
+				},
+				{
 					"content_versions": "fdrf-1.0.2-1.20",
 					"minecraft_versions": [
 						"1.20",
@@ -92,7 +111,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"fdrf-1.0.2-1.21",
 			"fdrf-1.0.2-1.20",
+			"1.0.3",
 			"1.0.2-1.20",
 			"-1.0.2-1.20",
 			"1.0.2-1.19.2",
@@ -113,7 +134,9 @@
 			"1.18.2",
 			"1.19.2",
 			"1.20",
-			"1.20.1"
+			"1.20.1",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

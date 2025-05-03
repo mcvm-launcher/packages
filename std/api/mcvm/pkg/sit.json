@@ -98,6 +98,57 @@
 					"version": "48GA44kI"
 				},
 				{
+					"content_versions": "r29",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/Kt35bHSt/sit-1.21.5-29.jar",
+					"version": "Kt35bHSt"
+				},
+				{
+					"content_versions": "r29",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/VpJc0iPk/sit-1.21.3-29.jar",
+					"version": "VpJc0iPk"
+				},
+				{
+					"content_versions": "v1.3.5",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/VKXzIykF/versions/XtroWTJw/sit-1.21.3-1.3.5.jar",
+					"version": "XtroWTJw"
+				},
+				{
 					"content_versions": "r28",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -484,7 +535,7 @@
 		"community": "https://discord.gg/kgZUAxK",
 		"description": "Allows you to sit on slabs and stairs.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/VKXzIykF/f03ccffaebbfc0faa496a34e674090f3a11a99db.png",
+		"icon": "https://cdn.modrinth.com/data/VKXzIykF/053a3ab20c35ea80dd4de8378202bf37f8b0d08d_96.webp",
 		"issues": "https://github.com/bl4ckscor3/Sit/issues",
 		"license": "MIT",
 		"long_description": "### Functionality\nSit makes it possible to use slabs and stairs like chairs. Simply rightclick the top side of a right side up slab or stair block with an empty hand to sit on it. To exit, press the key you use to exit a minecart (by default SHIFT). Half beds (a bed where only one half is present) work as well. Usually, slabs/stairs from other mods are supported, however if any do not work, please contact me.\n\n### Config\nThere's a single configuration option: *block_reach_distance*. It defines how many blocks a player can be away from a slab/stair to still be able to sit on it. This is capped by the player's block reach distance.\n\nYou are allowed to use this mod in any modpack.",
@@ -498,6 +549,7 @@
 		"content_versions": [
 			"v1.3.5",
 			"r27",
+			"r29",
 			"r28",
 			"v1.3.4",
 			"r26",
@@ -554,7 +606,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

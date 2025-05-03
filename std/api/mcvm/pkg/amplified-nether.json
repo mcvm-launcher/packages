@@ -4,6 +4,63 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.2.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wXiGiyGX/versions/RWIwVls3/Amplified_Nether_1.21.x_v1.2.8.jar",
+					"version": "RWIwVls3"
+				},
+				{
+					"content_versions": "1.2.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wXiGiyGX/versions/rjLICnyY/Amplified_Nether_1.21.x_v1.2.7.jar",
+					"version": "rjLICnyY"
+				},
+				{
+					"content_versions": "1.2.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wXiGiyGX/versions/8AR3xCcN/Amplified_Nether_1.21.x_v1.2.6.jar",
+					"version": "8AR3xCcN"
+				},
+				{
 					"content_versions": "1.2.5",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -74,6 +131,18 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/wXiGiyGX/versions/sB14azEN/Amplified_Nether_1.19.3_v1.2.1.jar",
 					"version": "sB14azEN"
+				},
+				{
+					"content_versions": "1.1.1",
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wXiGiyGX/versions/nGI4dovn/Amplified_Nether_1.18.2_v1.1.1.jar",
+					"version": "nGI4dovn"
 				},
 				{
 					"content_versions": "1.2.4",
@@ -166,9 +235,9 @@
 		"description": "The nether explorer's simple dream: doubled height and amplified terrain. What more is needed?",
 		"documentation": "https://stardustlabs.miraheze.org/wiki/Amplified_Nether",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/wXiGiyGX/1e2c39947ef738f67d7987921dee474c307707e0.png",
+		"icon": "https://cdn.modrinth.com/data/wXiGiyGX/6673676af05cb98985909f2378ff0f87ee951401_96.webp",
 		"issues": "https://github.com/Stardust-Labs-MC/Amplified-Nether/issues",
-		"license": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt",
+		"license": "LicenseRef-Stardust-Labs-License",
 		"long_description": "\n# Amplified Nether\n\n[![Latest Version](https://img.shields.io/github/v/release/Stardust-Labs-MC/Amplified-Nether?color=blueviolet&logo=github \"View latest release\")](https://github.com/Stardust-Labs-MC/Amplified-Nether/releases) [![Discord Badge](https://img.shields.io/discord/738046951236567162?color=blue&logo=discord \"Join our Discord Server\")](https://discord.gg/stardustlabs) [![Modrinth Badge](https://img.shields.io/modrinth/dt/amplified-nether?label=Modrinth&logo=modrinth \"View our Modrinth page\")](https://modrinth.com/mod/amplified-nether) [![License Badge](https://img.shields.io/badge/license-Stardust_Labs-green \"View the Stardust Labs License\")](https://github.com/Stardust-Labs-MC/license) [![Wiki Badge](https://img.shields.io/badge/wiki-Miraheze-yellow \"View our Wiki\")](https://discord.gg/stardustlabs) [![Issues Badge](https://img.shields.io/github/issues/Stardust-Labs-MC/Amplified-Nether?color=orange&logo=github \"View or open an issue\")](https://github.com/Stardust-Labs-MC/Amplified-Nether/issues) [![Weblate Badge](https://img.shields.io/weblate/progress/stardust-labs?server=https%3A%2F%2Fweblate.catter.dev&logo=weblate \"Translate here\")](https://weblate.catter.dev/projects/stardust-labs)\n\nAmplified Nether increases the Nether height to 256 blocks tall, truly ushering in the \"Amplified\" feel.\n\n![Amplified Nether Banner](https://user-images.githubusercontent.com/63272345/224792461-c17f1ccd-61b3-49b9-8d6a-86c0f918e651.png)\n\n## Notes\n- Amplified Nether is **not** compatable with Incendium, but often compatable with other nether mods, such as Better Nether\n- Do not add this to an existing nether - reset yours first, or use a new world\n\n## Description\nAmplified Nether uses the new 1.18 features to create brand new terrain in the Nether, with 3D biomes and tons of new terrain types. This datapack holds its charm by adding no new biomes, items, mobs, structures, etc... a simple datapack to just make the vanilla Nether better.\n\nAdditionally, Amplified Nether brings back the Nether mountains from the original official Minecraft Nether Update trailer. Many players saw these beautiful mountains, and were upset that they weren't in the game. 3D biomes are used extensively, with much more biome variation. Biome borders that were previously impossible are now commonplace, as any biome can border any other biome!\n__ __\n\n[![Patron Ad](https://user-images.githubusercontent.com/63272345/224786738-7baefaf8-267f-41b6-8ac5-53cc4bd5707e.png \"Join our Patreon!\")](https://www.patreon.com/stardustlabs)\n\n[![Bisect Hosting Ad](https://user-images.githubusercontent.com/63272345/224786219-f87f21d2-fb51-4d78-82df-a16e83fe25c9.png \"Use code STARDUST\")](https://www.bisecthosting.com/stardust)\n    ",
 		"name": "Amplified Nether",
 		"package_maintainers": [
@@ -179,13 +248,17 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.2.8",
+			"1.2.7",
+			"1.2.6",
 			"1.2.5",
 			"1.2.4",
 			"1.2.3",
 			"1.2.2",
 			"1.2.1",
 			"1.2.1a",
-			"1.2"
+			"1.2",
+			"1.1.1"
 		],
 		"modrinth_id": "wXiGiyGX",
 		"supported_modloaders": [
@@ -197,6 +270,7 @@
 			"server"
 		],
 		"supported_versions": [
+			"1.18.2",
 			"1.19",
 			"1.19.1",
 			"1.19.2",
@@ -209,7 +283,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

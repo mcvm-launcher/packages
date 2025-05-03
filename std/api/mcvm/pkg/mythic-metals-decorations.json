@@ -128,6 +128,90 @@
 					"version": "JBCEB0eY"
 				},
 				{
+					"content_versions": "0.8.2-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "owo-lib",
+						"extensions": "mythic-metals"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wtv23AFN/versions/cDC8jPib/mythicmetals-decorations-0.8.2%2B1.21.jar",
+					"version": "cDC8jPib"
+				},
+				{
+					"content_versions": "0.8.1-1.21",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "owo-lib",
+						"extensions": "mythic-metals"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wtv23AFN/versions/gFK3uXes/mythicmetals-decorations-0.8.1%2B1.21.jar",
+					"version": "gFK3uXes"
+				},
+				{
+					"content_versions": "0.8.0-1.21",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "owo-lib",
+						"extensions": "mythic-metals"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wtv23AFN/versions/JWBqDWdt/mythicmetals-decorations-0.8.0%2B1.21.jar",
+					"version": "JWBqDWdt"
+				},
+				{
+					"content_versions": "0.7.2-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "owo-lib",
+						"extensions": "mythic-metals"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wtv23AFN/versions/q6cEUfEU/mythicmetals-decorations-0.7.2%2B1.21.jar",
+					"version": "q6cEUfEU"
+				},
+				{
+					"content_versions": "0.7.1-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "owo-lib",
+						"extensions": "mythic-metals"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wtv23AFN/versions/NhZtFxuW/mythicmetals-decorations-0.7.1%2B1.21.jar",
+					"version": "NhZtFxuW"
+				},
+				{
+					"content_versions": "0.7.0-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "owo-lib",
+						"extensions": "mythic-metals"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Wtv23AFN/versions/nYJCc5op/mythicmetals-decorations-0.7.0%2B1.21.jar",
+					"version": "nYJCc5op"
+				},
+				{
 					"content_versions": "0.6.2-1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -241,7 +325,7 @@
 		"community": "https://discord.com/invite/69cKvQWScC",
 		"description": "Adds various metal-themed decorations for Mythic Metals.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/Wtv23AFN/icon.png",
+		"icon": "https://cdn.modrinth.com/data/Wtv23AFN/020a4304b7878c6a43dee1af41571e95f791d3ff_96.webp",
 		"issues": "https://github.com/Noaaan/MythicMetalsDecorations/issues",
 		"license": "https://github.com/Noaaan/MythicMetalsDecorations/blob/master/LICENSE",
 		"long_description": "# Mythic Metals Decorations\n \n\nThis is the first addon for Mythic Metals, which adds various metal-themed decorations to the mod.\n\n\n\nCurrently we provide:\n\n* Chains for most metals.  \n* Chests of various sizes.  \n* Crowns of different colors.\n\n... with more coming along the road!\n\n \n\nGet Mythic Metals here: https://modrinth.com/mod/mythicmetals/ \n\n ",
@@ -253,6 +337,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.8.2-1.21",
+			"0.8.1-1.21",
+			"0.8.0-1.21",
+			"0.7.2-1.21",
+			"0.7.1-1.21",
+			"0.7.0-1.21",
 			"0.6.2-1.20.1",
 			"0.6.1-1.20.3",
 			"0.6.0-1.20.3",
@@ -297,7 +387,9 @@
 			"1.20",
 			"1.20.1",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

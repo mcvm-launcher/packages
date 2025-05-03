@@ -4,6 +4,91 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.5.9",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/vGKEdR1w/Terralith_1.21.x_v2.5.9.jar",
+					"version": "vGKEdR1w"
+				},
+				{
+					"content_versions": "2.5.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/MuJMtPGQ/Terralith_1.21.x_v2.5.8.jar",
+					"version": "MuJMtPGQ"
+				},
+				{
+					"content_versions": "2.5.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/lQreFvOm/Terralith_1.21.x_v2.5.7.jar",
+					"version": "lQreFvOm"
+				},
+				{
+					"content_versions": "2.5.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/81gyNzd0/Terralith_1.21.x_v2.5.6.jar",
+					"version": "81gyNzd0"
+				},
+				{
+					"content_versions": "2.5.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/rEF3UnUI/Terralith_1.21.x_v2.5.5.jar",
+					"version": "rEF3UnUI"
+				},
+				{
 					"content_versions": "2.5.4",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -616,11 +701,11 @@
 		"description": "Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain.",
 		"documentation": "https://stardustlabs.miraheze.org/wiki/Terralith",
 		"gallery": [
-			"https://cdn.modrinth.com/data/8oi3bsk5/images/8eb1319d93336ca3ac29578e029459c3c0ec5132.jpeg",
-			"https://cdn.modrinth.com/data/8oi3bsk5/images/be7daf4d0023204165ab00cfa7815f8068bc951b.jpeg",
-			"https://cdn.modrinth.com/data/8oi3bsk5/images/e66c54081b2abbdeb6dfdb0bde26123f8641176c.jpeg"
+			"https://cdn.modrinth.com/data/8oi3bsk5/images/4957da7c3da1386fb12b76001a2321be7b2ff9bc_350.webp",
+			"https://cdn.modrinth.com/data/8oi3bsk5/images/c4168f5d280c85e0e3d050bb8f3bc776fd0762d4_350.webp",
+			"https://cdn.modrinth.com/data/8oi3bsk5/images/c5b10dfed4a506559d2e2081821e99e1f5b66794_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/8oi3bsk5/34c751cc804839ed3c1d9f21dfd53d98368fedfc.png",
+		"icon": "https://cdn.modrinth.com/data/8oi3bsk5/1959d924a1088944bbf07a06ba523726112d7e7a_96.webp",
 		"issues": "https://github.com/Stardust-Labs-MC/Terralith/issues",
 		"keywords": [],
 		"license": "https://github.com/Stardust-Labs-MC/Terralith/blob/1.20/license.txt",
@@ -634,6 +719,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.5.9",
+			"2.5.8",
+			"2.5.7",
+			"2.5.6",
+			"2.5.5",
 			"2.5.4",
 			"2.5.3",
 			"2.5.2",
@@ -688,7 +778,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

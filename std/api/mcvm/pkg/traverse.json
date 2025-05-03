@@ -4,6 +4,121 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "8.3.0-beta.2",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/kXygSBVI/versions/6Re5sOLr/traverse-8.3.0-beta.2.jar",
+					"version": "6Re5sOLr"
+				},
+				{
+					"content_versions": "8.3.0-beta.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/kXygSBVI/versions/rngahOBL/traverse-8.3.0-beta.1.jar",
+					"version": "rngahOBL"
+				},
+				{
+					"content_versions": "8.3.0-alpha.2",
+					"minecraft_versions": "25w08a",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/kXygSBVI/versions/x0ofnP79/traverse-8.3.0-alpha.2.jar",
+					"version": "x0ofnP79"
+				},
+				{
+					"content_versions": "8.3.0-alpha.1",
+					"minecraft_versions": "25w05a",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/kXygSBVI/versions/TJ63it9P/traverse-8.3.0-alpha.1.jar",
+					"version": "TJ63it9P"
+				},
+				{
+					"content_versions": "8.2.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kXygSBVI/versions/ttx4fFY2/traverse-8.2.0.jar",
+					"version": "ttx4fFY2"
+				},
+				{
+					"content_versions": "8.1.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kXygSBVI/versions/8mOJItO8/traverse-8.1.0.jar",
+					"version": "8mOJItO8"
+				},
+				{
+					"content_versions": "8.1.0-beta.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/kXygSBVI/versions/wXXfp8sq/traverse-8.1.0-beta.1.jar",
+					"version": "wXXfp8sq"
+				},
+				{
+					"content_versions": "8.0.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/kXygSBVI/versions/lU1jMlpL/traverse-8.0.1.jar",
+					"version": "lU1jMlpL"
+				},
+				{
 					"content_versions": "7.3.1",
 					"minecraft_versions": [
 						"1.20.5",
@@ -857,42 +972,43 @@
 	"meta": {
 		"authors": [
 			"NeusFear",
+			"Prospector",
 			"Terraformers",
 			"gniftygnome"
 		],
-		"banner": "https://cdn.modrinth.com/data/kXygSBVI/images/8ccce994901146e6ac7e5217d1af8378e0acf8d5.png",
+		"banner": "https://cdn.modrinth.com/data/kXygSBVI/images/7ee3637690b03fe992838e33f05bb53db9f22ccc_350.webp",
 		"community": "https://discord.gg/jEGF5fb",
 		"description": "A biome expansion mod that embraces the simplistic nature of Minecraft biomes",
 		"documentation": "https://github.com/terraformersmc/traverse/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/kXygSBVI/images/0c815e2e7a1ed2f4006278fd665e8bf329d9fa13.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/1c0cedf73fc691153d59312ac728d7838f4204b9.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/1c0f7464121ef5d77ff2554958837cc111745103.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/1ee850693db41504b00fc24b9e2b412a33c0757d.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/2334459c1cbcdd808d3ca44ca5b0ae748c5a51be.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/2fdb5df1511037fd41eff0a45a588d07b0832d80.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/3a7fb51c4c4820016519d7007532f9fdd0097f06.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/4c5fab70c1f7f22dfb24c8bbc127702a9c27b5fd.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/4e8844cc7c24d61dcf9a183096451c253b074129.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/63a64774ad9306f6b7e1e183dacc544121a11d86.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/8b5c6af56490d03fbcd8624dbaca5c4d612ac6b0.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/8ccce994901146e6ac7e5217d1af8378e0acf8d5.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/8d082094925ca4689baee3ad3ca317eb394c6d1c.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/90eb1d8b20c105174863bc2f31167028d6621673.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/9464fd5fe2ddf33b968e99aaa621b25f91ae063e.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/97cb19faabf6579c13b18f1c738cf27e92ee1d2a.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/99dd0e60ba423c036128c21a27b9ee867b9cf165.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/9effdc2acecceda9eef1b9c111c50f1081736cde.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/a4fb22b9021578c640f1d74ecc7f452d0f7448e0.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/b9b51e44b8a448d789fc6861dc4fd52fdb67b080.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/bace30f6257dabdb1389e6a69bac7e82f8327ff4.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/bcdc42da6811c16db911f500db5b2381f81d65fc.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/cb8a5f2354e1a57f078f4209558699d5ff350601.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/da1fa1bb6d4f57e738e64f32940f3b9e0520eeed.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/da447db77749815b98b3ceeca2e735ad9161eaaa.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/f3d734b8e982f8ae250b80f18ee12c7662e450c3.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/fb3b55eca44d40ef573ea87d465ba41e9a712b73.png",
-			"https://cdn.modrinth.com/data/kXygSBVI/images/fbcfc21ac832b22b938ca096b0daeb795d5be1b0.png"
+			"https://cdn.modrinth.com/data/kXygSBVI/images/0c21335624d44eb230ae90240adaaaa43f7ab1e9_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/12eda7466b2e2b636b4adce83a59b23e9268da73_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/14fcafcf92e75f3c6bea2910c479d0aac334dc96_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/1c0f7464121ef5d77ff2554958837cc111745103_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/2334459c1cbcdd808d3ca44ca5b0ae748c5a51be_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/482d3a5da0b13fc10f9973a673f02e50b8b1d161_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/66c3039a53b1b561b7f43e6bd209957faf26b3d5_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/6883c6fdebd1cb18cfea930be32fbd439e312efe_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/7ee3637690b03fe992838e33f05bb53db9f22ccc_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/89c62cf817e0641c3be2f7c30f99fa4e9ecb8c2e_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/8cf10a530127b210cfd257b7268d36d056d28d2f_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/8d082094925ca4689baee3ad3ca317eb394c6d1c_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/90eb1d8b20c105174863bc2f31167028d6621673_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/91a71097775f6eb020170fc71e8d74e466105bd3_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/9464fd5fe2ddf33b968e99aaa621b25f91ae063e_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/97cb19faabf6579c13b18f1c738cf27e92ee1d2a_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/99dd0e60ba423c036128c21a27b9ee867b9cf165_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/a54dff9eb979777bbe22b42069f2362c42590897_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/b9b51e44b8a448d789fc6861dc4fd52fdb67b080_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/bb6a7c725e394fa9929232b928f65da16653fd81_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/bc0d431f0a298462b500fd7becc8e04defb15387_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/cb8a5f2354e1a57f078f4209558699d5ff350601_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/d9a741edf7036d50b453e34ffbafdbbd4baaa649_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/da1fa1bb6d4f57e738e64f32940f3b9e0520eeed_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/da447db77749815b98b3ceeca2e735ad9161eaaa_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/e7e42ee9b41b607ae26e8ec0d163b572a8f891f7_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/f2fa8c87051ded19de2a6eb6bbe0bbdf9e4b3b15_350.webp",
+			"https://cdn.modrinth.com/data/kXygSBVI/images/fb3b55eca44d40ef573ea87d465ba41e9a712b73_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/kXygSBVI/5507d49d937b079d024236768b8fc05922cdb495.webp",
 		"issues": "https://github.com/terraformersmc/traverse/issues",
@@ -906,6 +1022,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"8.3.0-beta.2",
+			"8.3.0-beta.1",
+			"8.3.0-alpha.2",
+			"8.3.0-alpha.1",
+			"8.2.0",
+			"8.1.0",
+			"8.1.0-beta.1",
+			"8.0.1",
 			"8.0.0",
 			"8.0.0-beta.3",
 			"8.0.0-beta.2",
@@ -1040,7 +1164,14 @@
 			"1.21-pre3",
 			"1.21-pre4",
 			"1.21-rc1",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"25w05a",
+			"25w08a",
+			"1.21.5"
 		]
 	}
 }

@@ -4,6 +4,173 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.3.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/XZS9Gl9x/moreculling-fabric-1.21.5-1.3.0.jar",
+					"version": "XZS9Gl9x"
+				},
+				{
+					"content_versions": "1.3.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/AU0QqDTX/moreculling-neoforge-1.21.5-1.3.0.jar",
+					"version": "AU0QqDTX"
+				},
+				{
+					"content_versions": "1.2.10",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/gWgOJqk8/moreculling-fabric-1.21.4-1.2.10.jar",
+					"version": "gWgOJqk8"
+				},
+				{
+					"content_versions": "1.2.10",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ST43Fz5s/moreculling-neoforge-1.21.4-1.2.10.jar",
+					"version": "ST43Fz5s"
+				},
+				{
+					"content_versions": "1.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/1V6UtDhN/moreculling-fabric-1.21.1-1.0.6.jar",
+					"version": "1V6UtDhN"
+				},
+				{
+					"content_versions": "1.0.6",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/2w0zNJb4/moreculling-neoforge-1.21.1-1.0.6.jar",
+					"version": "2w0zNJb4"
+				},
+				{
+					"content_versions": "1.1.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/byrWCZgY/moreculling-fabric-1.21.3-1.1.1.jar",
+					"version": "byrWCZgY"
+				},
+				{
+					"content_versions": "1.1.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/3cvtb5VL/moreculling-neoforge-1.21.3-1.1.1.jar",
+					"version": "3cvtb5VL"
+				},
+				{
+					"content_versions": "1.2.0-beta.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ScTXeKPL/moreculling-fabric-1.21.4-1.2.0-beta.2.jar",
+					"version": "ScTXeKPL"
+				},
+				{
+					"content_versions": "1.2.0-beta.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/C73ikqOi/moreculling-neoforge-1.21.4-1.2.0-beta.2.jar",
+					"version": "C73ikqOi"
+				},
+				{
+					"content_versions": "1.1.0-beta.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/qgfEsF8m/moreculling-neoforge-1.21.3-1.1.0-beta.3.jar",
+					"version": "qgfEsF8m"
+				},
+				{
+					"content_versions": "1.0.0-beta.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/EvXdVs5f/moreculling-fabric-1.21.1-1.0.0-beta.2.jar",
+					"version": "EvXdVs5f"
+				},
+				{
+					"content_versions": "1.0.0-beta.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/DWLXcEpN/moreculling-neoforge-1.21.1-1.0.0-beta.2.jar",
+					"version": "DWLXcEpN"
+				},
+				{
 					"content_versions": "0.26.0",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -200,6 +367,593 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.2-1.18/moreculling-1.18.2-0.8.2.jar",
 					"version": "d2OS47y6"
+				},
+				{
+					"content_versions": "1.2.9",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/kELp84IT/moreculling-fabric-1.21.4-1.2.9.jar",
+					"version": "kELp84IT"
+				},
+				{
+					"content_versions": "1.2.9",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/dc0JANjC/moreculling-neoforge-1.21.4-1.2.9.jar",
+					"version": "dc0JANjC"
+				},
+				{
+					"content_versions": "1.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/qTn4578a/moreculling-fabric-1.21.1-1.0.5.jar",
+					"version": "qTn4578a"
+				},
+				{
+					"content_versions": "1.0.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/FXQk2JjY/moreculling-neoforge-1.21.1-1.0.5.jar",
+					"version": "FXQk2JjY"
+				},
+				{
+					"content_versions": "1.2.8",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/TiUU7W8N/moreculling-fabric-1.21.4-1.2.7.jar",
+					"version": "TiUU7W8N"
+				},
+				{
+					"content_versions": "1.2.8",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ThnB8jgN/moreculling-neoforge-1.21.4-1.2.7.jar",
+					"version": "ThnB8jgN"
+				},
+				{
+					"content_versions": "1.2.7",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ZyHnfzH4/moreculling-fabric-1.21.4-1.2.7.jar",
+					"version": "ZyHnfzH4"
+				},
+				{
+					"content_versions": "1.2.7",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/UihriKsu/moreculling-neoforge-1.21.4-1.2.7.jar",
+					"version": "UihriKsu"
+				},
+				{
+					"content_versions": "1.2.6",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/AENre7Lu/moreculling-fabric-1.21.4-1.2.6.jar",
+					"version": "AENre7Lu"
+				},
+				{
+					"content_versions": "1.2.6",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/l9zzQBQF/moreculling-neoforge-1.21.4-1.2.6.jar",
+					"version": "l9zzQBQF"
+				},
+				{
+					"content_versions": "1.2.5",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/nUa7Yjqq/moreculling-fabric-1.21.4-1.2.5.jar",
+					"version": "nUa7Yjqq"
+				},
+				{
+					"content_versions": "1.2.5",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/JVzi5JMk/moreculling-neoforge-1.21.4-1.2.5.jar",
+					"version": "JVzi5JMk"
+				},
+				{
+					"content_versions": "1.2.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/yZZppmqU/moreculling-fabric-1.21.4-1.2.4.jar",
+					"version": "yZZppmqU"
+				},
+				{
+					"content_versions": "1.0.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ZfHcTTZR/moreculling-fabric-1.21.1-1.0.4.jar",
+					"version": "ZfHcTTZR"
+				},
+				{
+					"content_versions": "1.2.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ITYzJeHt/moreculling-neoforge-1.21.4-1.2.4.jar",
+					"version": "ITYzJeHt"
+				},
+				{
+					"content_versions": "1.0.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/sYZ1Bac5/moreculling-neoforge-1.21.1-1.0.4.jar",
+					"version": "sYZ1Bac5"
+				},
+				{
+					"content_versions": "1.2.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/Lh9uFvJ9/moreculling-fabric-1.21.4-1.2.3.jar",
+					"version": "Lh9uFvJ9"
+				},
+				{
+					"content_versions": "1.2.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/EW9AhQLb/moreculling-neoforge-1.21.4-1.2.3.jar",
+					"version": "EW9AhQLb"
+				},
+				{
+					"content_versions": "1.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/mNRCywqI/moreculling-fabric-1.21.1-1.0.3.jar",
+					"version": "mNRCywqI"
+				},
+				{
+					"content_versions": "1.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/4Hxj2aLU/moreculling-neoforge-1.21.1-1.0.3.jar",
+					"version": "4Hxj2aLU"
+				},
+				{
+					"content_versions": "1.2.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/3Kv9jtmA/moreculling-fabric-1.21.4-1.2.2.jar",
+					"version": "3Kv9jtmA"
+				},
+				{
+					"content_versions": "1.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/sqIPwcBW/moreculling-fabric-1.21.1-1.0.2.jar",
+					"version": "sqIPwcBW"
+				},
+				{
+					"content_versions": "1.2.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/oWJ7CXe6/moreculling-neoforge-1.21.4-1.2.2.jar",
+					"version": "oWJ7CXe6"
+				},
+				{
+					"content_versions": "1.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/aCr4aslg/moreculling-neoforge-1.21.1-1.0.2.jar",
+					"version": "aCr4aslg"
+				},
+				{
+					"content_versions": "1.2.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/W2BKP0eC/moreculling-fabric-1.21.4-1.2.1.jar",
+					"version": "W2BKP0eC"
+				},
+				{
+					"content_versions": "1.2.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/qKbml9kw/moreculling-neoforge-1.21.4-1.2.1.jar",
+					"version": "qKbml9kw"
+				},
+				{
+					"content_versions": "1.2.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/gMom21nZ/moreculling-fabric-1.21.4-1.2.0.jar",
+					"version": "gMom21nZ"
+				},
+				{
+					"content_versions": "1.2.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/f0NwkNUJ/moreculling-neoforge-1.21.4-1.2.0.jar",
+					"version": "f0NwkNUJ"
+				},
+				{
+					"content_versions": "1.2.0-beta.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/LHzXyuWB/moreculling-fabric-1.21.4-1.2.0-beta.1.jar",
+					"version": "LHzXyuWB"
+				},
+				{
+					"content_versions": "1.2.0-beta.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/cmjDwlkt/moreculling-neoforge-1.21.4-1.2.0-beta.1.jar",
+					"version": "cmjDwlkt"
+				},
+				{
+					"content_versions": "1.1.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/YnqEEVHM/moreculling-fabric-1.21.3-1.1.0.jar",
+					"version": "YnqEEVHM"
+				},
+				{
+					"content_versions": "1.1.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/afBiRFmr/moreculling-neoforge-1.21.3-1.1.0.jar",
+					"version": "afBiRFmr"
+				},
+				{
+					"content_versions": "1.1.0-beta.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/yPwaJRxo/moreculling-fabric-1.21.3-1.1.0-beta.3.jar",
+					"version": "yPwaJRxo"
+				},
+				{
+					"content_versions": "1.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/SOpqvxVv/moreculling-fabric-1.21.1-1.0.1.jar",
+					"version": "SOpqvxVv"
+				},
+				{
+					"content_versions": "1.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ryeuMvgK/moreculling-neoforge-1.21.1-1.0.1.jar",
+					"version": "ryeuMvgK"
+				},
+				{
+					"content_versions": "1.1.0-beta.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/NmgZBtI2/moreculling-fabric-1.21.3-1.1.0-beta.2.jar",
+					"version": "NmgZBtI2"
+				},
+				{
+					"content_versions": "1.1.0-beta.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/OO4TuaMn/moreculling-neoforge-1.21.3-1.1.0-beta.2.jar",
+					"version": "OO4TuaMn"
+				},
+				{
+					"content_versions": "1.1.0-beta.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/MCl5VK6v/moreculling-fabric-1.21.2-1.1.0-beta.1.jar",
+					"version": "MCl5VK6v"
+				},
+				{
+					"content_versions": "1.1.0-beta.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/ZaKUZkU1/moreculling-neoforge-1.21.2-1.1.0-beta.1.jar",
+					"version": "ZaKUZkU1"
+				},
+				{
+					"content_versions": "1.0.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/UncAG2fS/moreculling-fabric-1.21.1-1.0.0.jar",
+					"version": "UncAG2fS"
+				},
+				{
+					"content_versions": "1.0.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/GYNJ69DS/moreculling-neoforge-1.21.1-1.0.0.jar",
+					"version": "GYNJ69DS"
+				},
+				{
+					"content_versions": "1.0.0-beta.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/E3M7N09H/moreculling-fabric-1.21.1-1.0.0-beta.1.jar",
+					"version": "E3M7N09H"
+				},
+				{
+					"content_versions": "1.0.0-beta.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/mKL3YKvB/moreculling-neoforge-1.21.1-1.0.0-beta.1.jar",
+					"version": "mKL3YKvB"
+				},
+				{
+					"content_versions": "0.27.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"conflicts": "sodium",
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/51shyZVL/versions/VNbys2OF/moreculling-1.21-0.27.1.jar",
+					"version": "VNbys2OF"
 				},
 				{
 					"content_versions": "0.23.1",
@@ -1303,29 +2057,30 @@
 	},
 	"meta": {
 		"authors": [
+			"1Foxy2",
 			"FX"
 		],
-		"banner": "https://cdn.modrinth.com/data/51shyZVL/images/de0105f432d0eafe919947cca1d2164e37f419dc.png",
+		"banner": "https://cdn.modrinth.com/data/51shyZVL/images/4c966271f02d0a7713069e94c933406e8e5b9097_350.webp",
 		"community": "https://discord.gg/SGFDrvA",
 		"description": "A mod that changes how multiple types of culling are handled in order to improve performance",
 		"documentation": "https://github.com/FxMorin/MoreCulling/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/51shyZVL/images/0bf9a362086fc489a48c89aa97ece4ba3000f53f.png",
-			"https://cdn.modrinth.com/data/51shyZVL/images/de0105f432d0eafe919947cca1d2164e37f419dc.png",
-			"https://cdn.modrinth.com/data/51shyZVL/images/80416ac9e448a2294495ca7fb7a6c73a30da4fc8.png",
-			"https://cdn.modrinth.com/data/51shyZVL/images/42e59fb7f64f4d245ef51d7f0558d38181546681.png",
-			"https://cdn.modrinth.com/data/51shyZVL/images/5b04f844772888ac9632e87871fb87df2f0cffa7.png",
-			"https://cdn.modrinth.com/data/51shyZVL/images/e316e1e85fe19c21537b52a83c625633e5b8fda0.png",
-			"https://cdn.modrinth.com/data/51shyZVL/images/0a5458389b727e1dc63deaee4d05cdeb6fb6c8b1.png",
-			"https://cdn.modrinth.com/data/51shyZVL/images/5f091062f41295ab85da2324357071c04cf57231.png"
+			"https://cdn.modrinth.com/data/51shyZVL/images/0bf9a362086fc489a48c89aa97ece4ba3000f53f_350.webp",
+			"https://cdn.modrinth.com/data/51shyZVL/images/4c966271f02d0a7713069e94c933406e8e5b9097_350.webp",
+			"https://cdn.modrinth.com/data/51shyZVL/images/80416ac9e448a2294495ca7fb7a6c73a30da4fc8_350.webp",
+			"https://cdn.modrinth.com/data/51shyZVL/images/c118e13432c2a2c1e7f86352cff4030f65785087_350.webp",
+			"https://cdn.modrinth.com/data/51shyZVL/images/5b04f844772888ac9632e87871fb87df2f0cffa7_350.webp",
+			"https://cdn.modrinth.com/data/51shyZVL/images/e316e1e85fe19c21537b52a83c625633e5b8fda0_350.webp",
+			"https://cdn.modrinth.com/data/51shyZVL/images/0a5458389b727e1dc63deaee4d05cdeb6fb6c8b1_350.webp",
+			"https://cdn.modrinth.com/data/51shyZVL/images/86af0dac19c91cc6953e4227370f74771ca00915_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/51shyZVL/icon.png",
+		"icon": "https://cdn.modrinth.com/data/51shyZVL/c51b07193b56e952269ef50101d12aecba2b4747_96.webp",
 		"issues": "https://github.com/fxmorin/moreculling/issues",
 		"keywords": [
 			"graphics"
 		],
-		"license": "LGPL-2.1-only",
-		"long_description": "# More Culling  \n### A mod that changes how multiple types of culling are handled in order to improve performance\nCulling is when you don't render things that the player can't see, to improve performance\n\nRequires Cloth Config!\n  \n**Make sure to report any bugs [here](https://github.com/fxmorin/moreculling/issues)!** \n\n**Discord Server:** [https://discord.gg/SGFDrvA](https://discord.gg/SGFDrvA)  \n  \n**Head over to the [wiki](https://github.com/fxmorin/MoreCulling/wiki) for information on:**   \nWhat's Culled, Performance, Compatibility, Bug Fixes, and more!  \n\nCheck out [MoreCullingExtra](https://modrinth.com/mod/morecullingextra) for extra culling features  \n\n## My other optimizations/fixes\n* [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) - Fixes multiple memory leaks for both the client and server\n* [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) - Largest Server-Side bug fixing mod\n* [Blanket](https://modrinth.com/mod/blanket) - Client-side tweaks/fixes\n* [RailOptimization](https://modrinth.com/mod/rail-optimization) - Make powered rails less laggy\n\n## More Info  \nFeel free to contribute to the project!  \nI'm also fine if you use this mod in your modpacks, just make sure to mention it.   \n\nHowever I don't allow clients or other mods to merge this mod without permission, if you would like to use this mod in your client or another mod please contact me. \n\n---\n\n<a href=\"https://fxco.ca/assets/42\"><img alt=\"Kinetic Hosting\" src=\"https://fxco.ca/assets/Mod_Banner.png\"></a>\n  \n---",
+		"license": "GPL-3.0-only",
+		"long_description": "<img src=\"https://github.com/FxMorin/MoreCulling/blob/master/images/moreculling-banner.png?raw=true\">\n\n### A mod that changes how multiple types of culling are handled in order to improve performance\nCulling is when you don't render things that the player can't see, to improve performance\n\nRequires Cloth Config!\n  \n**Make sure to report any bugs [here](https://github.com/fxmorin/moreculling/issues)!** \n\n**Discord Server:** [https://discord.gg/SGFDrvA](https://discord.gg/SGFDrvA)  \n  \n**Head over to the [wiki](https://github.com/fxmorin/MoreCulling/wiki) for information on:**   \nWhat's Culled, Performance, Compatibility, Bug Fixes, and more!  \n\nCheck out [MoreCullingExtra](https://modrinth.com/mod/morecullingextra) for extra culling features  \n\n## My other optimizations/fixes\n* [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) - Fixes multiple memory leaks for both the client and server\n* [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) - Largest Server-Side bug fixing mod\n* [Blanket](https://modrinth.com/mod/blanket) - Client-side tweaks/fixes\n* [RailOptimization](https://modrinth.com/mod/rail-optimization) - Make powered rails less laggy\n\n## More Info  \nFeel free to contribute to the project!  \nI'm also fine if you use this mod in your modpacks, just make sure to mention it.   \n\nHowever I don't allow clients or other mods to merge this mod without permission, if you would like to use this mod in your client or another mod please contact me. \n\n---",
 		"name": "More Culling",
 		"package_maintainers": [
 			"mcvm"
@@ -1335,6 +2090,31 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.3.0",
+			"1.2.10",
+			"1.2.6",
+			"1.2.5",
+			"1.2.4",
+			"1.2.3",
+			"1.2.2",
+			"1.2.1",
+			"1.2.0",
+			"1.2.0-beta.2",
+			"1.2.0-beta.1",
+			"1.1.1",
+			"1.1.0",
+			"1.1.0-beta.3",
+			"1.1.0-beta.2",
+			"1.1.0-beta.1",
+			"1.0.6",
+			"1.0.4",
+			"1.0.3",
+			"1.0.2",
+			"1.0.1",
+			"1.0.0",
+			"1.0.0-beta.2",
+			"1.0.0-beta.1",
+			"0.27.1",
 			"0.26.0",
 			"0.25.0",
 			"0.25.0-beta.1",
@@ -1385,11 +2165,15 @@
 			"v0.5.0",
 			"v0.4.0",
 			"v0.3.0",
+			"1.2.9",
+			"1.2.8",
+			"1.2.7",
 			"v0.2.0-1.18",
 			"v0.2.0",
 			"v0.1.4",
 			"v0.1.3",
 			"v0.1.2",
+			"1.0.5",
 			"0.1.0"
 		],
 		"modrinth_id": "51shyZVL",
@@ -1447,7 +2231,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

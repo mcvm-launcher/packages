@@ -4,6 +4,105 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v6.0.6-mc1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zJpHMkdD/versions/vOmUATGw/immersive-portals-6.0.6-mc1.21.1-fabric.jar",
+					"version": "vOmUATGw"
+				},
+				{
+					"content_versions": "v6.0.5-mc1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zJpHMkdD/versions/mdmh2vNn/immersive-portals-6.0.5-mc1.21.1-fabric.jar",
+					"version": "mdmh2vNn"
+				},
+				{
+					"content_versions": "v6.0.4-mc1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zJpHMkdD/versions/dRnapizT/immersive-portals-6.0.4-mc1.21.1-fabric.jar",
+					"version": "dRnapizT"
+				},
+				{
+					"content_versions": "v5.1.10-mc1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/zJpHMkdD/versions/IW0nxIBB/immersive-portals-5.1.10-mc1.20.4-fabric.jar",
+					"version": "IW0nxIBB"
+				},
+				{
+					"content_versions": "v5.1.9-mc1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/zJpHMkdD/versions/iekyf0fi/immersive-portals-5.1.9-mc1.20.4-fabric.jar",
+					"version": "iekyf0fi"
+				},
+				{
+					"content_versions": "v6.0.3-mc1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/zJpHMkdD/versions/NGk8VAMH/immersive-portals-6.0.3-mc1.21.1-fabric.jar",
+					"version": "NGk8VAMH"
+				},
+				{
+					"content_versions": "v6.0.2-mc1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/zJpHMkdD/versions/Um095DJT/immersive-portals-6.0.2-mc1.21.1-fabric.jar",
+					"version": "Um095DJT"
+				},
+				{
+					"content_versions": "v6.0.1-mc1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/zJpHMkdD/versions/8LAGSdvj/immersive-portals-6.0.1-mc1.21.1-fabric.jar",
+					"version": "8LAGSdvj"
+				},
+				{
+					"content_versions": "v6.0.0-mc1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/zJpHMkdD/versions/KmONYzHT/immersive-portals-6.0.0-mc1.21.1-fabric.jar",
+					"version": "KmONYzHT"
+				},
+				{
 					"content_versions": "v5.1.8-mc1.20.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -1237,8 +1336,8 @@
 		"description": "See through portals and teleport seamlessly",
 		"documentation": "https://qouteall.fun/immptl/wiki",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/zJpHMkdD/icon.png",
-		"issues": "https://github.com/qouteall/ImmersivePortalsMod/issues",
+		"icon": "https://cdn.modrinth.com/data/zJpHMkdD/0b2fa76a843b96f8bba1eb9d41f18f9f8ed4ce18_96.webp",
+		"issues": "https://github.com/iPortalTeam/ImmersivePortalsMod/discussions",
 		"license": "Apache-2.0",
 		"long_description": "Allows seeing through portals and directly walk into the portal without loading screen. Portals can \"fold\" space and create uneuclidian geometry with rotation and scale transformations.\n\n![](https://i.ibb.co/hH5DCdy/immptl-image-1-20.png)\n\nAlso has mirrors, dimension stack, world wrapping, scale box wrapping, commands for customizing portals, datapack functionality for customizing portals. See the wiki for more details.\n\nWiki: https://qouteall.fun/immptl/wiki\n\n**It's not recommended to use this mod with Sinytra Connector.**",
 		"name": "Immersive Portals",
@@ -1249,6 +1348,16 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.5.6-1.19.3",
+			"v6.0.6-mc1.21.1",
+			"v6.0.5-mc1.21.1",
+			"v6.0.4-mc1.21.1",
+			"v6.0.3-mc1.21.1",
+			"v6.0.2-mc1.21.1",
+			"v6.0.1-mc1.21.1",
+			"v6.0.0-mc1.21.1",
+			"v5.1.10-mc1.20.4",
+			"v5.1.9-mc1.20.4",
 			"v5.1.8-mc1.20.4",
 			"v5.1.7-mc1.20.4",
 			"v5.1.6-mc1.20.4",
@@ -1266,11 +1375,17 @@
 			"v4.1.3-mc1.20.2",
 			"v4.1.2-mc1.20.2",
 			"v4.1.1-mc1.20.2",
+			"v4.1.0-mc1.20.2",
+			"v4.0.3-mc1.20.2",
+			"v4.0.2-mc1.20.2",
+			"v4.0.1-mc1.20.2",
 			"v4.0.0-mc1.20.2",
 			"v3.3.9-mc1.20.1",
 			"v3.3.8-mc1.20.1",
 			"v3.3.7-mc1.20.1",
 			"v3.3.6-mc1.20.1",
+			"v3.3.5-mc1.20.1",
+			"v3.3.4-mc1.20.1",
 			"v3.3.3-mc1.20.1",
 			"v3.3.2-mc1.20.1",
 			"v3.3.1-mc1.20.1",
@@ -1296,7 +1411,6 @@
 			"v2.6.3-mc1.19.4",
 			"v2.6.2-mc1.19.4",
 			"2.6.0-1.19.4",
-			"2.5.6-1.19.3",
 			"2.5.5-1.19.3",
 			"2.5.3-1.19.3",
 			"2.5.2-1.19.3",
@@ -1311,6 +1425,13 @@
 			"2.4.1-1.19.3",
 			"2.4.0-1.19.3",
 			"2.3.2",
+			"0.90-mc1.16.5",
+			"0.89-mc1.16.5",
+			"v2.3.2-mc1.19.2",
+			"v0.28-1.17",
+			"v0.17-1.17",
+			"v0.10-1.17",
+			"v0.04-mc1.17",
 			"2.3.1-1.19.2",
 			"2.3.0-1.19.2",
 			"2.2.5-1.19.2",
@@ -1320,23 +1441,10 @@
 			"2.2.1-1.19.2",
 			"2.2.0-1.19.2",
 			"2.1.1-1.19.1",
-			"v4.1.0-mc1.20.2",
 			"2.1.0-1.19.1",
 			"2.0.5-1.19",
 			"2.0.4-1.19",
-			"v4.0.3-mc1.20.2",
-			"v4.0.2-mc1.20.2",
 			"2.0.2-1.19",
-			"0.90-mc1.16.5",
-			"0.89-mc1.16.5",
-			"v4.0.1-mc1.20.2",
-			"v3.3.5-mc1.20.1",
-			"v3.3.4-mc1.20.1",
-			"v2.3.2-mc1.19.2",
-			"v0.28-1.17",
-			"v0.17-1.17",
-			"v0.10-1.17",
-			"v0.04-mc1.17",
 			"2.0.1-1.19",
 			"2.0.0-1.19",
 			"1.4.11-1.18.2",
@@ -1403,7 +1511,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.2",
-			"1.20.4"
+			"1.20.4",
+			"1.21.1"
 		]
 	}
 }

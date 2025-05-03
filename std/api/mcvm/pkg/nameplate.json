@@ -4,6 +4,14 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.6-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9J82qMn9/versions/P41DwT0O/nameplate-1.1.6.jar",
+					"version": "P41DwT0O"
+				},
+				{
 					"content_versions": "1.1.4-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -42,6 +50,14 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/9J82qMn9/versions/mwtmoX2R/nameplate-1.1.3.jar",
 					"version": "mwtmoX2R"
+				},
+				{
+					"content_versions": "1.1.5-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9J82qMn9/versions/lE2wdAP4/nameplate-1.1.5.jar",
+					"version": "lE2wdAP4"
 				},
 				{
 					"content_versions": "1.1.3-1.20.1",
@@ -91,7 +107,7 @@
 		"description": "Show mob levels depending on health",
 		"documentation": "https://globox1997.github.io/wiki/mods/Nameplate/",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/9J82qMn9/e97200d7baa2fc4087108999d1cbd10638b192f8.png",
+		"icon": "https://cdn.modrinth.com/data/9J82qMn9/5666c6b1ec676ec92dcfda4925ab1e05b42b5564_96.webp",
 		"issues": "https://github.com/Globox1997/Nameplate/issues",
 		"license": "MIT",
 		"long_description": "![Headline](https://i.imgur.com/8CEtCgh.png)\n\n<center>\n\n[<img src=\"https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge\">](https://discord.gg/cV4cJyGXqF) \n[<img src=\"https://img.shields.io/website?color=7bc466&label=Globox&style=for-the-badge&up_message=Wiki&url=https://globox1997.github.io/wiki/mods/Nameplate/\">](https://globox1997.github.io/wiki/mods/Nameplate/)\n[<img src=\"https://img.shields.io/github/issues/Globox1997/Nameplate?color=c4667b&style=for-the-badge\">](https://github.com/Globox1997/Nameplate/issues)\n</center>\n\n<img src=\"https://i.imgur.com/K0Bn3Mh.png\" alt= “Description” width=\"25%\" height=\"auto\">\n<br><br/>\n\nDisplay mob levels based on their health. Needs a base mod like [RpgDifficulty](https://modrinth.com/mod/rpgdifficulty).\n\n![Showcase](https://i.imgur.com/M0SY9ho.png)\n\n\n<img src=\"https://i.imgur.com/WKCuHQL.png\" alt= “Misc” width=\"10%\" height=\"auto\">\n<br><br />\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/fabric-api)\n[<img src=\"https://i.imgur.com/7weZ8uu.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/cloth-config)\n\n\n\nThis mod is developed for Fabric.  \nThere are no plans to develop a Forge version. \n\n\nModpack Permission:  \nFeel free to use it in any modpacks.\n\n\nBug Report:  \nJust report bugs at the github page.",
@@ -103,6 +119,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.1.6-1.21.1",
+			"1.1.5-1.21.1",
 			"1.1.4-1.21",
 			"1.1.4-1.20.1",
 			"1.1.3-1.20.1",
@@ -125,7 +143,8 @@
 			"1.20",
 			"1.20.1",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	},
 	"relations": {

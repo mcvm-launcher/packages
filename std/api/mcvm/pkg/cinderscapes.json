@@ -4,6 +4,103 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "5.3.0-beta.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/57K575GJ/cinderscapes-5.3.0-beta.1.jar",
+					"version": "57K575GJ"
+				},
+				{
+					"content_versions": "5.2.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/InLjnneN/cinderscapes-5.2.1.jar",
+					"version": "InLjnneN"
+				},
+				{
+					"content_versions": "5.2.1-beta.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/cfmLvzCI/cinderscapes-5.2.1-beta.1.jar",
+					"version": "cfmLvzCI"
+				},
+				{
+					"content_versions": "5.2.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/Pl5x6565/cinderscapes-5.2.0.jar",
+					"version": "Pl5x6565"
+				},
+				{
+					"content_versions": "5.2.0-beta.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/fXBQFBmv/cinderscapes-5.2.0-beta.1.jar",
+					"version": "fXBQFBmv"
+				},
+				{
+					"content_versions": "5.1.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/yDaHb4IE/cinderscapes-5.1.0.jar",
+					"version": "yDaHb4IE"
+				},
+				{
+					"content_versions": "5.1.0-beta.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/KSMr4VgC/cinderscapes-5.1.0-beta.1.jar",
+					"version": "KSMr4VgC"
+				},
+				{
+					"content_versions": "5.0.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/QC4wcUXZ/versions/4kIdaOel/cinderscapes-5.0.2.jar",
+					"version": "4kIdaOel"
+				},
+				{
 					"content_versions": "5.0.1",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -763,12 +860,12 @@
 			"Terraformers",
 			"gniftygnome"
 		],
-		"banner": "https://cdn.modrinth.com/data/QC4wcUXZ/images/28a1a981192c60b4a2668b7fcbc330bfeb737126.png",
+		"banner": "https://cdn.modrinth.com/data/QC4wcUXZ/images/bd1ef7c14336b521dbaa9a51d78feb21d1315ae0_350.webp",
 		"community": "https://discord.gg/jEGF5fb",
 		"description": "A biome mod expanding the life of The Nether",
 		"documentation": "https://github.com/terraformersmc/cinderscapes/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/QC4wcUXZ/images/28a1a981192c60b4a2668b7fcbc330bfeb737126.png"
+			"https://cdn.modrinth.com/data/QC4wcUXZ/images/bd1ef7c14336b521dbaa9a51d78feb21d1315ae0_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/QC4wcUXZ/685b55b0df438edb99b206969a90129e384394bb.webp",
 		"issues": "https://github.com/terraformersmc/cinderscapes/issues",
@@ -782,6 +879,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"5.3.0-beta.1",
+			"5.2.1",
+			"5.2.1-beta.1",
+			"5.2.0",
+			"5.2.0-beta.1",
+			"5.1.0",
+			"5.1.0-beta.1",
+			"5.0.2",
 			"5.0.1",
 			"5.0.0",
 			"5.0.0-beta.2",
@@ -906,7 +1011,12 @@
 			"1.21-pre3",
 			"1.21-pre4",
 			"1.21-rc1",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

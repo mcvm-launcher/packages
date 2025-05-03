@@ -162,6 +162,31 @@
 					"version": "MUk2Z2Zv"
 				},
 				{
+					"content_versions": "6.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/GuYuJjdK/visualoverhaul-fabric-6.0.0.jar",
+					"version": "GuYuJjdK"
+				},
+				{
+					"content_versions": "6.0.0-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "midnightlib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YQnwl5Vv/versions/zLwvzM9F/visualoverhaul-neoforge-6.0.0.jar",
+					"version": "zLwvzM9F"
+				},
+				{
 					"content_versions": "5.2.0-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -289,19 +314,19 @@
 		"authors": [
 			"Motschen"
 		],
-		"banner": "https://cdn.modrinth.com/data/YQnwl5Vv/images/6fb0171d8038c6e118528ce66ac358abcbc268f6.png",
+		"banner": "https://cdn.modrinth.com/data/YQnwl5Vv/images/8b66d2f3b3066b3bac42454249698332b25911e0_350.webp",
 		"community": "https://discord.gg/jAGnWYHm3r",
 		"description": "Slight tweaks to revamp the visual aspect of vanilla.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/YQnwl5Vv/images/0480d56e361ca46720f3ef7a3b81afd23da3ad04.png",
-			"https://cdn.modrinth.com/data/YQnwl5Vv/images/048e3ca3d2803ec8c3995e21071c9d2cdcf637e5.png",
-			"https://cdn.modrinth.com/data/YQnwl5Vv/images/5408870c4de12df1dddff93952742d28b21422d4.png",
-			"https://cdn.modrinth.com/data/YQnwl5Vv/images/6fb0171d8038c6e118528ce66ac358abcbc268f6.png",
-			"https://cdn.modrinth.com/data/YQnwl5Vv/images/aec145f794b4e84a64ccbc3291cc7731205e543b.png",
-			"https://cdn.modrinth.com/data/YQnwl5Vv/images/c86010f3448b4672cfd1dd074214f3134f00bff7.png",
-			"https://cdn.modrinth.com/data/YQnwl5Vv/images/e92f946342e86e0d3d4c00c6474053620e056e42.png"
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/1eed026a84df62a2ad5c73c3d938d1c5328a9343_350.webp",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/1f1cd398f208775557739d5eed69775401a9f556_350.webp",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/56b16754627d45794bc0db4094bd3e76c59ffae9_350.webp",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/623f6d1d166af9a4474aa94201803120efd8b8b6_350.webp",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/8b66d2f3b3066b3bac42454249698332b25911e0_350.webp",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/9d742a99af15537bcdd50fedbed96ea088505878_350.webp",
+			"https://cdn.modrinth.com/data/YQnwl5Vv/images/f454dd816c1acfd7618cee5277d73ff82af4b974_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/YQnwl5Vv/icon.png",
+		"icon": "https://cdn.modrinth.com/data/YQnwl5Vv/ec13cc267353c10580df8fdac1edaf6f09bf53f7_96.webp",
 		"issues": "https://github.com/TeamMidnightDust/VisualOverhaul/issues",
 		"license": "MIT",
 		"long_description": "<center><p style=\"text-align: center;\">This minecraft fabric mod overhauls the visuals of certain vanilla blocks.<br />Currently, it overhauls the Jukebox, the Brewing Stand, the Furnace, the Smoker and the Blast Furnace.</p>\n<p style=\"text-align: center;\">If enabled, it will also color items based on the current biome, which looks super dope.</p>\n<p style=\"text-align: center;\">Also, icons are now shown on menu buttons, so don't look as bland anymore.</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14px;\"><strong>If you want to use this mod, make sure you've enabled the included resourcepacks in the resourcepack selection screen!</strong></span><span style=\"font-size: 14px;\"><br /></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">The latest version adds a client-only way of getting the record in the jukebox. The biome-colored items, particles and button icons are also completely clientside.</p>\n<p style=\"text-align: center;\">For the other overhauls however, there is no way of making them work clientside only.</p>\n<p style=\"text-align: center;\"><img src=\"https://i.ibb.co/tP7n1DD/vo-banner.png\" width=\"768\" height=\"132\" /></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/6BHFdHNrulg?wmode=transparent\" height=\"452\" width=\"850\"></iframe></p>",
@@ -313,6 +338,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"6.0.0",
+			"6.0.0-neo",
 			"5.2.1",
 			"5.2.1-neo",
 			"5.2.0",
@@ -360,7 +387,9 @@
 			"1.20",
 			"1.20.1",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.4"
 		]
 	}
 }

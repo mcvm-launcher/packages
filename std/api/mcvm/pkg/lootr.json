@@ -4,6 +4,561 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.13.36.89",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/Z0vjfoTl/lootr-neoforge-1.21.4-1.13.36.89.jar",
+					"version": "Z0vjfoTl"
+				},
+				{
+					"content_versions": "1.13.36.89",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/HmnhGIXV/lootr-fabric-1.21.4-1.13.36.89.jar",
+					"version": "HmnhGIXV"
+				},
+				{
+					"content_versions": "1.10.35.91",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/QMRmPuOh/lootr-neoforge-1.21-1.10.35.91.jar",
+					"version": "QMRmPuOh"
+				},
+				{
+					"content_versions": "1.10.35.91",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/3FjXvOGL/lootr-fabric-1.21-1.10.35.91.jar",
+					"version": "3FjXvOGL"
+				},
+				{
+					"content_versions": "1.10.35.90",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/HJSOQTLl/lootr-neoforge-1.21-1.10.35.90.jar",
+					"version": "HJSOQTLl"
+				},
+				{
+					"content_versions": "1.10.35.90",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/eN4CWKw7/lootr-fabric-1.21-1.10.35.90.jar",
+					"version": "eN4CWKw7"
+				},
+				{
+					"content_versions": "1.10.35.89",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/krx35dPx/lootr-neoforge-1.21-1.10.35.89.jar",
+					"version": "krx35dPx"
+				},
+				{
+					"content_versions": "1.10.35.89",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/H1VGLznq/lootr-fabric-1.21-1.10.35.89.jar",
+					"version": "H1VGLznq"
+				},
+				{
+					"content_versions": "1.12.36.89",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/acdAWo4M/lootr-neoforge-1.21.4-1.12.36.89.jar",
+					"version": "acdAWo4M"
+				},
+				{
+					"content_versions": "1.12.36.89",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/pvD736qx/lootr-fabric-1.21.4-1.12.36.89.jar",
+					"version": "pvD736qx"
+				},
+				{
+					"content_versions": "1.10.34.88",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/B7dOgXae/lootr-neoforge-1.21-1.10.34.88.jar",
+					"version": "B7dOgXae"
+				},
+				{
+					"content_versions": "1.10.34.88",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/sCSYT31e/lootr-fabric-1.21-1.10.34.88.jar",
+					"version": "sCSYT31e"
+				},
+				{
+					"content_versions": "1.10.34.87",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/H5EPsZu0/lootr-fabric-1.21-1.10.34.87.jar",
+					"version": "H5EPsZu0"
+				},
+				{
+					"content_versions": "1.10.34.87",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/mMnZ4ZwJ/lootr-neoforge-1.21-1.10.34.87.jar",
+					"version": "mMnZ4ZwJ"
+				},
+				{
+					"content_versions": "1.12.36.88",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/UlwRNO00/lootr-fabric-1.21.4-1.12.36.88.jar",
+					"version": "UlwRNO00"
+				},
+				{
+					"content_versions": "1.12.36.88",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/OnZuikEK/lootr-neoforge-1.21.4-1.12.36.88.jar",
+					"version": "OnZuikEK"
+				},
+				{
+					"content_versions": "0.4.29.72",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/7WyuvACZ/lootr-fabric-1.19-0.4.29.72.jar",
+					"version": "7WyuvACZ"
+				},
+				{
+					"content_versions": "0.3.30.73",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/T2ZpJMhE/lootr-forge-1.18.2-0.3.30.73.jar",
+					"version": "T2ZpJMhE"
+				},
+				{
+					"content_versions": "0.4.29.71",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/hYidm9fp/lootr-fabric-1.19-0.4.29.71.jar",
+					"version": "hYidm9fp"
+				},
+				{
+					"content_versions": "0.4.28.75",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/6ULhni05/lootr-forge-1.19-0.4.29.76.jar",
+					"version": "6ULhni05"
+				},
+				{
+					"content_versions": "0.7.35.85",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/udi9KR9R/lootr-fabric-1.20-0.7.35.85.jar",
+					"version": "udi9KR9R"
+				},
+				{
+					"content_versions": "0.7.35.90",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/uZTpIy1Z/lootr-forge-1.20-0.7.35.90.jar",
+					"version": "uZTpIy1Z"
+				},
+				{
+					"content_versions": "1.11.35.87",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/BOekLUYi/lootr-neoforge-1.21.2-1.11.35.87.jar",
+					"version": "BOekLUYi"
+				},
+				{
+					"content_versions": "1.11.35.87",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/JG1WQ9lU/lootr-fabric-1.21.2-1.11.35.87.jar",
+					"version": "JG1WQ9lU"
+				},
+				{
+					"content_versions": "1.10.34.86",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/jXjew0q3/lootr-fabric-1.21-1.10.34.86.jar",
+					"version": "jXjew0q3"
+				},
+				{
+					"content_versions": "1.10.34.86",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/kut26Hno/lootr-neoforge-1.21-1.10.34.86.jar",
+					"version": "kut26Hno"
+				},
+				{
+					"content_versions": "1.10.33.85",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/xTBk9prn/lootr-neoforge-1.21-1.10.33.85.jar",
+					"version": "xTBk9prn"
+				},
+				{
+					"content_versions": "1.10.33.85",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/O8gE3PJM/lootr-fabric-1.21-1.10.33.85.jar",
+					"version": "O8gE3PJM"
+				},
+				{
+					"content_versions": "1.10.33.84",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/qghgMj7F/lootr-neoforge-1.21-1.10.33.84.jar",
+					"version": "qghgMj7F"
+				},
+				{
+					"content_versions": "1.10.33.84",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/cCkC8wDj/lootr-fabric-1.21-1.10.33.84.jar",
+					"version": "cCkC8wDj"
+				},
+				{
+					"content_versions": "1.10.33.82",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/NvZmsH3h/lootr-neoforge-1.21-1.10.33.82.jar",
+					"version": "NvZmsH3h"
+				},
+				{
+					"content_versions": "1.10.33.82",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/DUwaJCqS/lootr-fabric-1.21-1.10.33.82.jar",
+					"version": "DUwaJCqS"
+				},
+				{
+					"content_versions": "1.10.33.81",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/sUGbf4Ti/lootr-fabric-1.21-1.10.33.81.jar",
+					"version": "sUGbf4Ti"
+				},
+				{
+					"content_versions": "1.10.33.81",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/wWzTCZmk/lootr-neoforge-1.21-1.10.33.81.jar",
+					"version": "wWzTCZmk"
+				},
+				{
+					"content_versions": "1.10.33.80",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/GJigWpSl/lootr-fabric-1.21-1.10.33.80.jar",
+					"version": "GJigWpSl"
+				},
+				{
+					"content_versions": "1.10.33.80",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/RuZpIPpB/lootr-neoforge-1.21-1.10.33.80.jar",
+					"version": "RuZpIPpB"
+				},
+				{
+					"content_versions": "1.10.33.79",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/o70Rz34Z/lootr-fabric-1.21-1.10.33.79.jar",
+					"version": "o70Rz34Z"
+				},
+				{
+					"content_versions": "1.10.33.79",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/OXWshGJI/lootr-neoforge-1.21-1.10.33.79.jar",
+					"version": "OXWshGJI"
+				},
+				{
+					"content_versions": "1.10.33.78",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/4bMmbZZC/lootr-fabric-1.21-1.10.33.78.jar",
+					"version": "4bMmbZZC"
+				},
+				{
+					"content_versions": "1.10.33.78",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/qGWiRbNv/lootr-neoforge-1.21-1.10.33.78.jar",
+					"version": "qGWiRbNv"
+				},
+				{
+					"content_versions": "1.10.33.77",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/L9f6lWhR/lootr-fabric-1.21-1.10.33.77.jar",
+					"version": "L9f6lWhR"
+				},
+				{
+					"content_versions": "1.10.33.77",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/ZJnngc6L/lootr-neoforge-1.21-1.10.33.77.jar",
+					"version": "ZJnngc6L"
+				},
+				{
 					"content_versions": "0.3.28.70",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
@@ -1944,18 +2499,18 @@
 			"embeddedt",
 			"noobanidus"
 		],
-		"banner": "https://cdn.modrinth.com/data/EltpO5cN/images/8f47f895d5a50480c6cdf8371c622c7df05c265b.png",
+		"banner": "https://cdn.modrinth.com/data/EltpO5cN/images/68da93cce6eaae588fe29b6d6db859538825433d_350.webp",
 		"community": "https://discord.gg/9YVkaee",
 		"description": "A mod that makes it so nobody misses out on Loot! All loot chests are instanced per player and visually unique.",
 		"documentation": "https://github.com/noobanidus/Lootr/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/EltpO5cN/images/8f47f895d5a50480c6cdf8371c622c7df05c265b.png",
-			"https://cdn.modrinth.com/data/EltpO5cN/images/598d3df9727824ca9e1481283144a96f425791ab.png",
-			"https://cdn.modrinth.com/data/EltpO5cN/images/000a24da64437dccd89809a391953c18ecf78c5c.png",
-			"https://cdn.modrinth.com/data/EltpO5cN/images/2a3ab3733cbbd65be094afe6d750c3895a043e4f.png",
-			"https://cdn.modrinth.com/data/EltpO5cN/images/5ccd9a0b7166fc132cb5dcb7a770f05fcbe4df89.png"
+			"https://cdn.modrinth.com/data/EltpO5cN/images/68da93cce6eaae588fe29b6d6db859538825433d_350.webp",
+			"https://cdn.modrinth.com/data/EltpO5cN/images/62f380a342592a8e21e02c1fdeff10c734f59355_350.webp",
+			"https://cdn.modrinth.com/data/EltpO5cN/images/00ccf204df721e9d1fb5a5d583513600b23b1034_350.webp",
+			"https://cdn.modrinth.com/data/EltpO5cN/images/8de7388e166a4728ce60f939ce719a962791218c_350.webp",
+			"https://cdn.modrinth.com/data/EltpO5cN/images/584c8c1e0a4524590cd0659c852a744167872409_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/52023362199727/9b801e831ec92e3a46231a6a5acb3074d11192d7.png",
+		"icon": "https://cdn.modrinth.com/data/EltpO5cN/3dc915eb1bbcd65654c17eb3870de4aba055d0c6_96.webp",
 		"issues": "https://github.com/noobanidus/lootr/issues",
 		"license": "MIT",
 		"long_description": "<section class=\"project-description\"><p style=\"text-align:center\"><span style=\"font-size:14px\">Lootr is required on both servers and clients.</span></p>\n<p><strong>What does it do?</strong> Each container that has a loot table (supporting chests, trapped chests, barrels, shulkers and minecarts) creates a unique inventory&nbsp;<em>for each player who opens it!&nbsp;</em>These containers also have a distinct appearance, and their colour changes from gold to blue if a player has already opened the container.</p>\n<p><strong>How does this help?</strong> There's no longer a race to be the first to discover structures, and you will never open a loot chest and find someone's left-over trash.&nbsp;<em>Most importantly, it encourages players to explore existing structures, rather than generating new chunks, thus reducing world size!</em></p>\n<p><strong>What&nbsp;versions is it available for?</strong> For Fabric, it's available for all recent releases since 1.18 and is actively developed for these. For Forge, it's available for 1.12.2, 1.16.5, 1.18, 1.19 and 1.20!</p>\n<h4><strong>Frequently Asked Questions</strong></h4>\n<p>Q. How do I get support?<br>A. You can check out my Discord (linked below) or alternatively create an issue on our GitHub, which can be found by clicking on \"Issues\" above.</p>\n<p>&nbsp;</p>\n<p>Q. What versions does Lootr support?<br>A. Currently, Lootr for Forge supports the following versions: 1.18, 1.19/1.19.1/1.19.2, 1.19.3. Please check the \"All Files\" page if you cannot find a download for the version of Minecraft you are playing.</p>\n<p>&nbsp;</p>\n<p>Q. Is there a server-only version? Can I connect without installing it on the client?<br>A. No, <strong>Lootr is currently required on both the client and the server</strong>. If you have experience with plug-in development and are willing to help design a server-only version, please reach out on Discord (link found below).</p>\n<p>&nbsp;</p>\n<p>Q. How do I change what loot is generated with Lootr? How do I include loot from other mods in Lootr containers?<br>A. <strong>This is beyond the scope of the Lootr mod</strong>, which simply changes the containers. In all other respects, loot is generated in exactly the same way as Vanilla chests generate it. Modifying loot tables is generally done via data packs, although various mods exist for various versions of Minecraft which do this. I recommend asking in your favourite modded Minecraft Discord or forum!</p>\n<p>&nbsp;</p>\n<p>Q. What about dungeon mods? How do I prevent players from going in and looting everything after it has already been cleared?<br>A. There are a number of options that help with this:</p>\n<ul>\n<li>Specific loot tables can be blacklisted, which means that those chests will never be converted. You can also specify simply all loot tables of a certain mod. Likewise, specific dimensions can be blacklisted.</li>\n<li>Alternatively, you can specify for certain containers (or all containers), determined by their loot table, to \"decay\". This means that a configurable time after they are first opened, the next time someone attempts to open the container, the block will be destroyed. There also exists the opposite, a system whereby chests will \"refresh\" (or re-generate their contents) after the configured period of time has elapsed.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Q. How do I prevent players from simply breaking containers?<br>A. By default, players who attempt to break a container will be given a warning message and a reminder that all containers are available per-player. Players can still break these containers by doing so while sneaking, unless this option is disabled in the configuration.</p>\n<p>&nbsp;</p>\n<p>Q. I don't like the visual appearance of the containers. How can I change this?<br>A. There is a client-side option that forces containers to use the default Vanilla skin. However, this does mean there is no visual change to indicate if a container has been opened before.</p>\n<p>&nbsp;</p>\n<p>Q. Can I add Lootr to a pre-existing world and have containers be converted?<br>A. Yes! With one disclaimer: <strong>loot containers which were already opened will not be converted</strong>. The generation of loot in Minecraft, by default, removes the associated loot table, and there is no way for Lootr to find this information.</p>\n<p>&nbsp;</p>\n<p>Q. The container from &lt;random mod&gt; isn't converting!<br>A. If the container contains items (or always contains the same items), it is possible that the mod is manually generating loot for it. In this case, there is no way for Lootr to determine a loot table and convert chests. I recommend asking the author of the mod to consider switching to a loot table instead to maintain compatibility! If the container is empty, it is possible that it is merely included for the aesthetic. Otherwise, if you believe there's an issue with conversion, please open an issue on our GitHub tracker or post on Discord. Additional methods for converting containers exist for 1.12.2.</p>\n<p><em>Please note that the \"axe chest\" in the Vanilla Woodland Mansion does not have an associated loot table and is never converted.</em></p>\n<p>&nbsp;</p>\n<p>Q. I no longer want Lootr. What happens if I remove it?<br>A. <strong>Unfortunately, removing the mod will also remove all Lootr containers</strong>. There is currently no way to undo the conversion process.&nbsp;This means that every Lootr converted container will be removed from your world.<br><br></p>\n<p>Q. I want to create a \"starter\" chest with some items in it for everyone in my world, how do I go about this? How do I create my own Lootr container?<br>A. Lootr also contains \"custom\" inventories which use the same visual appearance as a chest. Simply create a Vanilla chest, fill it with the items you want available and then, while standing on it, execute the&nbsp;/lootr custom&nbsp;command (this requires operator privileges).&nbsp;<br><br></p>\n<p>Q. What else does the&nbsp;/lootr command do?<br>A. For a full explanation of the command, please check out the <a href=\"https://github.com/noobanidus/Lootr/wiki/Lootr-command\" rel=\"nofollow\">Lootr Command page on our GitHub Wiki</a>.<br><br></p>\n<p>Q. How do I use Lootr in a mod pack, or how do I natively use Lootr in my Mod?<br>A. For a full explanation of Lootr's features for mod packs, as well as the Lootr API, please check out the <a href=\"https://github.com/noobanidus/Lootr/wiki/Lootr-for-Developers\" rel=\"nofollow\">Lootr for Developers page on our GitHub Wiki</a>.<br><br></p>\n<p>Q. What do all the configuration options mean?<br>A. For a full explanation of Lootr's configuration, please check out the <a href=\"https://github.com/noobanidus/Lootr/wiki/Lootr-Configuration\" rel=\"nofollow\">Lootr Configuration page on our GitHub Wiki</a>.<br><br></p>\n<p>Q. Is there a video I can watch?<br>A. There sure is! <a href=\"https://www.youtube.com/channel/UCU3gwpclVZSYofj616OQKLQ\" rel=\"nofollow\">Vallen from Mischief of Mice</a> has graciously created this bit-by-bit video that covers the rough basics of Lootr, although this is from an earlier version of the mod and does not cover all recent additions:<br><span><iframe src=\"https://www.youtube.com/embed/hxSQWAaD8rk\" height=\"358\" width=\"638\"></iframe></span></p>\n<h4><strong>Patreon &amp; Discord</strong></h4>\n<p>You can <a href=\"https://www.patreon.com/noobanidus\" rel=\"nofollow\">support me on Patreon!</a><br> All support for this mod is available on&nbsp;<a href=\"https://discord.gg/9YVkaee\" rel=\"nofollow\">my Discord.</a> You can also keep up with what I'm doing and get notifications streams! For all other support, please click on \"Issues\" at the top of this page.</p></section>",
@@ -1977,8 +2532,28 @@
 			"1.16.4-0.0.4.11",
 			"1.16.4-0.0.4.10",
 			"1.16.4-0.0.4.8",
+			"1.13.36.89",
+			"1.12.36.89",
+			"1.12.36.88",
+			"1.11.35.87",
+			"1.10.35.91",
+			"1.10.35.90",
+			"1.10.35.89",
+			"1.10.34.88",
+			"1.10.34.87",
+			"1.10.34.86",
+			"1.10.33.85",
+			"1.10.33.84",
+			"1.10.33.82",
+			"1.10.33.81",
+			"1.10.33.80",
+			"1.10.33.79",
+			"1.10.33.78",
+			"1.10.33.77",
 			"0.8.31.78",
 			"0.8.31.74",
+			"0.7.35.90",
+			"0.7.35.85",
 			"0.7.34.85",
 			"0.7.33.82",
 			"0.7.33.81",
@@ -2010,6 +2585,9 @@
 			"0.5.25.62",
 			"0.5.1",
 			"0.5.0",
+			"0.4.29.72",
+			"0.4.29.71",
+			"0.4.28.75",
 			"0.4.28.69",
 			"0.4.28.68",
 			"0.4.27.67",
@@ -2029,6 +2607,7 @@
 			"0.4.3",
 			"0.4.2",
 			"0.4.0",
+			"0.3.30.73",
 			"0.3.28.70",
 			"0.3.28.65",
 			"0.3.27.64",
@@ -2130,7 +2709,12 @@
 			"1.20",
 			"1.20.1",
 			"1.20.2",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4"
 		]
 	}
 }

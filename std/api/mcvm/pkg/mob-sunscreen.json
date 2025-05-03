@@ -4,6 +4,72 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "4.0.2",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rWSwwjTs/versions/tZyksqp9/mobsunscreen-neoforge-1.21.5-4.0.2.jar",
+					"version": "tZyksqp9"
+				},
+				{
+					"content_versions": "4.0.1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rWSwwjTs/versions/ku1nvS8i/mobsunscreen-neoforge-1.21.4-4.0.1.jar",
+					"version": "ku1nvS8i"
+				},
+				{
+					"content_versions": "4.0.2",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rWSwwjTs/versions/4SCmIVrB/mobsunscreen-fabric-1.21.5-4.0.2.jar",
+					"version": "4SCmIVrB"
+				},
+				{
+					"content_versions": "4.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rWSwwjTs/versions/wfWI9t90/mobsunscreen-fabric-1.21.4-4.0.1.jar",
+					"version": "wfWI9t90"
+				},
+				{
+					"content_versions": "4.0.0-1.20.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rWSwwjTs/versions/ajg64P3I/mob-sunscreen-fabric-4.0.0-1.20.1.jar",
+					"version": "ajg64P3I"
+				},
+				{
+					"content_versions": "4.0.0-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/rWSwwjTs/versions/Y3rWuCQ3/mobsunscreen-4.0.0-NeoForge.jar",
+					"version": "Y3rWuCQ3"
+				},
+				{
 					"content_versions": "1.16.5-3.0.4",
 					"minecraft_versions": "1.16.5",
 					"modloaders": "forgelike",
@@ -365,12 +431,14 @@
 	},
 	"meta": {
 		"authors": [
+			"Bandit-bytes",
+			"Mrbysco",
 			"kreezxil"
 		],
 		"community": "https://discord.gg/ngNQjT5",
 		"description": "stop mobs that normally burn in the sun from doing just that.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/rWSwwjTs/icon.png",
+		"icon": "https://cdn.modrinth.com/data/rWSwwjTs/b9876a576f82c3135d881ce283964205ddcce859_96.webp",
 		"issues": "https://gitlab.com/kreezxil/mob-sunscreen/-/issues",
 		"license": "MIT",
 		"long_description": "<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/Bc3pZh9.png\" width=\"1556\" height=\"522\" />\n\n&nbsp;\n\n<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/JbxqFPk.png\" width=\"1557\" height=\"246\" />\n<p style=\"text-align: center;\">If you want a server setup using Mob Sunscreen with zero effort, get a <a href=\"https://kreezcraft.com/mobsunscreen\">server with BisectHosting</a> and receive 25% off your first month as a new customer using the code kreezxil</p>\n&nbsp;\n\n<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/3gFzxtu.png\" width=\"1555\" height=\"147\" />\n<h2><span style=\"color: #ff6600;\">Fabric API and CLOTH CONFIG require for Fabric Versions</span></h2>\n&nbsp;\n<h2>Description</h2>\nPrevent any mob from any mod from burning in sunlight!\n\n&nbsp;\n\nYou must configure the mod to block mobs from burning based on their resourcelocation aka modid:unlocalizedname.\n\n&nbsp;\n\nYou can get this information in the game by hitting F3+H. Then open creative and hover over a spawn egg or spawn item. You will see the extra information displayed.\n\n&nbsp;\n\nIn the config you specify explicit mobs with full resourcelocation or you can globally by the modid only. There are examples for both in the config.\n\n&nbsp;\n\nEnjoy the Challenge!\n<h2></h2>\n<h2>Sidedness</h2>\nAs of 3.0.0, it is no longer required on the client. Server side is more than sufficient.\n<h2></h2>\n<h2>Modpacks</h2>\nNo need to ask just add. A link back would be nice but not required.\n\n&nbsp;\n<h2>Great With</h2>\nhttps://www.curseforge.com/minecraft/mc-mods/burn-in-the-sun\n\n&nbsp;\n\n<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/YB6uj90.png\" width=\"1555\" height=\"147\" />\n<p style=\"text-align: center;\"><a href=\"https://discord.gg/jMvUW6V\" rel=\"nofollow\"><img src=\"https://discordapp.com/api/guilds/96753964485181440/widget.png?style=banner2\" /></a> <a href=\"https://twitter.com/kreezxil\" rel=\"nofollow\"><img src=\"https://i.imgur.com/cwhDBkE.png\" /></a> <a href=\"https://www.reddit.com/r/MinecraftModdedForge\" rel=\"nofollow\"><img src=\"https://imgur.com/dWeRuXB.png\" /></a></p>",
@@ -383,6 +451,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"4.0.2",
+			"4.0.1",
+			"4.0.0-1.20.1",
+			"4.0.0",
+			"4.0.0-Neo",
 			"3.3.0",
 			"3.2.0",
 			"3.1.6",
@@ -425,7 +498,9 @@
 			"1.20",
 			"1.20.1",
 			"1.20.2",
-			"1.20.4"
+			"1.20.4",
+			"1.21.1",
+			"1.21.5"
 		]
 	}
 }

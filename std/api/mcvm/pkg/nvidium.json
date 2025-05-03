@@ -4,6 +4,23 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.3.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar",
+					"version": "3L83QwKZ"
+				},
+				{
 					"content_versions": "0.2.8-beta",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -460,16 +477,16 @@
 		"authors": [
 			"cortex"
 		],
-		"banner": "https://cdn.modrinth.com/data/SfMw2IZN/images/d2d24a75bb2e496a54edd89ad9498773605ca72b.jpeg",
+		"banner": "https://cdn.modrinth.com/data/SfMw2IZN/images/9a5843b6c9b58e06674e162c5eac85dc6b1d2da9_350.webp",
 		"community": "https://discord.gg/VdhYSFxtGa",
 		"description": "Fast nvidia only rendering engine for sodium",
 		"gallery": [
-			"https://cdn.modrinth.com/data/SfMw2IZN/images/b29744d633f6faac9a4b3c0cc88d740a57a0629f.png",
-			"https://cdn.modrinth.com/data/SfMw2IZN/images/457b8ac2059b035d6a2465639692ea65aa78e793.jpeg",
-			"https://cdn.modrinth.com/data/SfMw2IZN/images/53e7002010cb8b73d31bd4c74fadbda61b60a847.png",
-			"https://cdn.modrinth.com/data/SfMw2IZN/images/d2d24a75bb2e496a54edd89ad9498773605ca72b.jpeg"
+			"https://cdn.modrinth.com/data/SfMw2IZN/images/843f9eb9fe3b4f892ea4640dcfa978b36f33a180_350.webp",
+			"https://cdn.modrinth.com/data/SfMw2IZN/images/197be2e0e47e64062408897e78e4fff912aef204_350.webp",
+			"https://cdn.modrinth.com/data/SfMw2IZN/images/6f47ea10baa32758a539b4ba4695ec3cf4b81666_350.webp",
+			"https://cdn.modrinth.com/data/SfMw2IZN/images/9a5843b6c9b58e06674e162c5eac85dc6b1d2da9_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/SfMw2IZN/dfd2ee7b56197c430090e38936c7e0254790f61f.png",
+		"icon": "https://cdn.modrinth.com/data/SfMw2IZN/2db76d464a0f67cdb9e30fd99040eb096ac62016_96.webp",
 		"issues": "https://github.com/MCRcortex/nvidium/issues",
 		"license": "LGPL-3.0-only",
 		"long_description": "![Nvidium rendering huge amounts of terrain geometry](https://i.imgur.com/k8A1buX.jpg)\n\nNvidium is a replacement rendering backend for sodium that uses nvidia only opengl extensions to increase fps by a significant amount.\n\n## Compatibility\nThis mod explicitly requires an nvidia gpu that supports mesh shaders. \nThis feature was introduced in turing architecture, anything that is a 16xx series or newer (20xx series also works) that supports mesh shaders. \n\n### Q: Will this mod work on my non-Nvidia system?\n### A: No, the mod is not functional on non-Nvidia systems, but the Nvidium will automatically disable itself. Your gameplay will not be affected. \n\n## Warning\nThis mod uses uncommon technology (mesh shaders). This may result in minecraft terminating unexpectedly.\n\n## How does it work\nWith mesh shaders, a near fully gpu driven rendering pipeline is used, enabling very fast and performant geometry culling of terrain meaning your gpu can work much more efficiently.\n\n# Requires sodium to run\n## Disables itself when iris is actively using shaders\n\n\n",
@@ -482,6 +499,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.3.1",
 			"0.2.9-beta",
 			"0.2.8-beta",
 			"0.2.7-beta",
@@ -525,7 +543,8 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

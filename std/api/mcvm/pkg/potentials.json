@@ -1,0 +1,586 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "0.6.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/sVi3xhuw/potentials-neoforge-1.21-0.6.0.jar",
+					"version": "sVi3xhuw"
+				},
+				{
+					"content_versions": "0.6.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/4U0LNEXO/potentials-fabric-1.21-0.6.0.jar",
+					"version": "4U0LNEXO"
+				},
+				{
+					"content_versions": "1.21-0.2.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/tf61FuHY/potentials-fabric-1.21-0.2.1.jar",
+					"version": "tf61FuHY"
+				},
+				{
+					"content_versions": "1.21-0.2.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/eDwbupgj/potentials-neoforge-1.21-0.2.1.jar",
+					"version": "eDwbupgj"
+				},
+				{
+					"content_versions": "0.6.3",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/rw36AEuv/potentials-neoforge-1.21.5-0.6.3.jar",
+					"version": "rw36AEuv"
+				},
+				{
+					"content_versions": "0.6.3",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ySFvZUZt/potentials-fabric-1.21.5-0.6.3.jar",
+					"version": "ySFvZUZt"
+				},
+				{
+					"content_versions": "0.6.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/1luDQmhj/potentials-fabric-1.21-0.6.2.jar",
+					"version": "1luDQmhj"
+				},
+				{
+					"content_versions": "0.6.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ePMzHdq2/potentials-neoforge-1.21-0.6.2.jar",
+					"version": "ePMzHdq2"
+				},
+				{
+					"content_versions": "0.6.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/uqs0WZzF/potentials-fabric-1.21-0.6.1.jar",
+					"version": "uqs0WZzF"
+				},
+				{
+					"content_versions": "0.6.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SmOM8wmn/potentials-neoforge-1.21-0.6.1.jar",
+					"version": "SmOM8wmn"
+				},
+				{
+					"content_versions": "0.5.7",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Hisuq3bQ/potentials-fabric-1.21-0.5.7.jar",
+					"version": "Hisuq3bQ"
+				},
+				{
+					"content_versions": "0.5.7",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Y56eUAxm/potentials-neoforge-1.21-0.5.7.jar",
+					"version": "Y56eUAxm"
+				},
+				{
+					"content_versions": "0.5.6",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/P0pqx2RN/potentials-neoforge-1.21-0.5.6.jar",
+					"version": "P0pqx2RN"
+				},
+				{
+					"content_versions": "0.5.6",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/DqD5G4cF/potentials-fabric-1.21-0.5.6.jar",
+					"version": "DqD5G4cF"
+				},
+				{
+					"content_versions": "0.5.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/2wuTRJ2R/potentials-fabric-1.21-0.5.5.jar",
+					"version": "2wuTRJ2R"
+				},
+				{
+					"content_versions": "0.5.5",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/jVOz8Zhp/potentials-neoforge-1.21-0.5.5.jar",
+					"version": "jVOz8Zhp"
+				},
+				{
+					"content_versions": "0.5.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/GuAN7Jde/potentials-fabric-1.21-0.5.4.jar",
+					"version": "GuAN7Jde"
+				},
+				{
+					"content_versions": "0.5.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/hlfWHzXo/potentials-neoforge-1.21-0.5.4.jar",
+					"version": "hlfWHzXo"
+				},
+				{
+					"content_versions": "0.5.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/RsMORrwi/potentials-fabric-1.21-0.5.3.jar",
+					"version": "RsMORrwi"
+				},
+				{
+					"content_versions": "0.5.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/WfqMMPz5/potentials-neoforge-1.21-0.5.3.jar",
+					"version": "WfqMMPz5"
+				},
+				{
+					"content_versions": "0.5.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/83AYxCqF/potentials-neoforge-1.21-0.5.2.jar",
+					"version": "83AYxCqF"
+				},
+				{
+					"content_versions": "0.5.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ic0hDyCi/potentials-fabric-1.21-0.5.2.jar",
+					"version": "ic0hDyCi"
+				},
+				{
+					"content_versions": "0.5.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/xxhXnpah/potentials-fabric-1.21-0.5.1.jar",
+					"version": "xxhXnpah"
+				},
+				{
+					"content_versions": "0.5.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/riJAFKnz/potentials-neoforge-1.21-0.5.1.jar",
+					"version": "riJAFKnz"
+				},
+				{
+					"content_versions": "0.5.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/TvVMR8jd/potentials-fabric-1.21-0.5.0.jar",
+					"version": "TvVMR8jd"
+				},
+				{
+					"content_versions": "0.5.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/iLqFg5fm/potentials-neoforge-1.21-0.5.0.jar",
+					"version": "iLqFg5fm"
+				},
+				{
+					"content_versions": "0.4.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/k47sjsM5/potentials-neoforge-1.21-0.4.1.jar",
+					"version": "k47sjsM5"
+				},
+				{
+					"content_versions": "0.4.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/8k1V97Cj/potentials-fabric-1.21-0.4.1.jar",
+					"version": "8k1V97Cj"
+				},
+				{
+					"content_versions": "0.4.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Uij13BK3/potentials-fabric-1.21-0.4.0.jar",
+					"version": "Uij13BK3"
+				},
+				{
+					"content_versions": "0.4.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/y4vAddW2/potentials-neoforge-1.21-0.4.0.jar",
+					"version": "y4vAddW2"
+				},
+				{
+					"content_versions": "0.3.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/GicZEBlf/potentials-fabric-1.21-0.3.0.jar",
+					"version": "GicZEBlf"
+				},
+				{
+					"content_versions": "0.3.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yBHYNX7J/potentials-neoforge-1.21-0.3.0.jar",
+					"version": "yBHYNX7J"
+				},
+				{
+					"content_versions": "0.2.10",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ICWXMu8V/potentials-neoforge-1.21-0.2.10.jar",
+					"version": "ICWXMu8V"
+				},
+				{
+					"content_versions": "0.2.10",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/2qNiRCP4/potentials-fabric-1.21-0.2.10.jar",
+					"version": "2qNiRCP4"
+				},
+				{
+					"content_versions": "0.2.9",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/auTtkFD1/potentials-neoforge-1.21-0.2.9.jar",
+					"version": "auTtkFD1"
+				},
+				{
+					"content_versions": "0.2.9",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/XWzKkCNF/potentials-fabric-1.21-0.2.9.jar",
+					"version": "XWzKkCNF"
+				},
+				{
+					"content_versions": "1.21-0.2.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ooE2CrGE/potentials-neoforge-1.21-0.2.0.jar",
+					"version": "ooE2CrGE"
+				},
+				{
+					"content_versions": "1.21-0.2.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"fabriclike-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/wGll1MN4/potentials-fabric-1.21-0.2.0.jar",
+					"version": "wGll1MN4"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Fej1Fun",
+			"SpaceStar",
+			"St0x0ef"
+		],
+		"description": "Library to allow mod developers to use cross platform capabilities",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/J9pKOkxP/6f8319c173396d1b8b61ca9a5f943030862c7a7d_96.webp",
+		"issues": "https://github.com/Fej1Dev/Potentials/issues",
+		"license": "MIT",
+		"long_description": "[![Curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/potentials)\n[![Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/Fej1Dev/Potentials)\n[![Architectury Api](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/architectury-api_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/architectury-api)\n\n----\n***THIS MOD DOES NOTHING ON ITS OWN!***\n\nPotentials allows mod makers to use Capabilities(Api lookups) for both\nNeoforge and Fabric simultaneously!\n\nYou can create your own capabilities or use existing ones.\nCurrent implementations:\n- Energy Blocks and Block Entities\n- Energy Items\n- Fluid Storage Blocks and Block Entities\n- Fluid Storage Items\n\n### How to Use?\nAdd the maven to your `build.gradle` file\n```\nrepositories {\n    maven { url \"https://maven.exodusstudio.org/releases\" }\n}\n```\n\nNow add the api to each of your modules' `PLATFORM/build.gradle` file\n```\ndependencies {\n    modApi(\"com.fej1fun.potentials:potentials-PLATFORM:VERSION\")\n}\n```\nreplace PLATFORM for that build.gradle's platform: common, fabric, neoforge.\nreplace VERSION for the latest Potentials version.\n\n\nIf you've found a bug or need help, join the Stellaris Project [Discord](https://discord.gg/MPE62RTnmw)!\n",
+		"name": "Potentials",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Fej1Dev/Potentials"
+	},
+	"properties": {
+		"content_versions": [
+			"1.21-0.2.1",
+			"1.21-0.2.0",
+			"0.6.3",
+			"0.6.2",
+			"0.6.1",
+			"0.6.0",
+			"0.5.7",
+			"0.5.6",
+			"0.5.5",
+			"0.5.4",
+			"0.5.3",
+			"0.5.2",
+			"0.5.1",
+			"0.5.0",
+			"0.4.1",
+			"0.4.0",
+			"0.3.0",
+			"0.2.10",
+			"0.2.9"
+		],
+		"modrinth_id": "J9pKOkxP",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
+		]
+	}
+}

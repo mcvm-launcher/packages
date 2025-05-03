@@ -4,6 +4,96 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "5.2.7-mc1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/FdlWKxsL/bobby-5.2.7%2Bmc1.21.5.jar",
+					"version": "FdlWKxsL"
+				},
+				{
+					"content_versions": "5.2.6-mc1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/9cevkjj6/bobby-5.2.6%2Bmc1.21.4.jar",
+					"version": "9cevkjj6"
+				},
+				{
+					"content_versions": "5.2.5-mc1.21.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/8eV5MZGw/bobby-5.2.5%2Bmc1.21.2.jar",
+					"version": "8eV5MZGw"
+				},
+				{
+					"content_versions": "5.2.4-mc1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "sodium"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/oeSOphtG/bobby-5.2.4%2Bmc1.21.jar",
+					"version": "oeSOphtG"
+				},
+				{
 					"content_versions": "5.2.3-mc1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -541,7 +631,7 @@
 		"icon": "https://cdn.modrinth.com/data/M08ruV16/icon.png",
 		"issues": "https://github.com/Johni0702/bobby/issues",
 		"license": "LGPL-3.0-only",
-		"long_description": "Bobby is a Minecraft mod which allows for render distances greater than the server's view-distance setting.\n\n![The Province of Wynn at 96 chunks render distance](https://cdn.discordapp.com/attachments/708316491757387776/794577476059529236/2021-01-01_15.33.50.png \"The Province of Wynn at 96 chunks render distance\")\n\nIt accomplishes this goal by recording and storing (in `.minecraft/.bobby`) all chunks sent by the server which it\nthen can load and display at a later point when the chunk is outside the server's view-distance.\n\n\nOptionally, it can also use an existing single player world to load in chunks which the server has never sent before.\nTo make use of this feature, simply rename the world folder (not the name of the world! the name of its folder!) to \"bobby-fallback\".\n\n\nBobby automatically reloads its config file when it is changed.\nFor an in-game config screen, install [ModMenu] and [ClothConfig].\n\n[ModMenu]: https://modrinth.com/mod/modmenu\n[ClothConfig]: https://modrinth.com/mod/cloth-config",
+		"long_description": "Bobby is a Minecraft mod which allows for render distances greater than the server's view-distance setting.\n\n![The Province of Wynn at 96 chunks render distance](https://i.johni0702.de/7FlGK.png \"The Province of Wynn at 96 chunks render distance\")\n\nIt accomplishes this goal by recording and storing (in `.minecraft/.bobby`) all chunks sent by the server which it\nthen can load and display at a later point when the chunk is outside the server's view-distance.\n\n\nOptionally, it can also use an existing single player world to load in chunks which the server has never sent before.\nTo make use of this feature, simply rename the world folder (not the name of the world! the name of its folder!) to \"bobby-fallback\".\n\n\nBobby automatically reloads its config file when it is changed.\nFor an in-game config screen, install [ModMenu] and [ClothConfig].\n\n[ModMenu]: https://modrinth.com/mod/modmenu\n[ClothConfig]: https://modrinth.com/mod/cloth-config",
 		"name": "Bobby",
 		"package_maintainers": [
 			"mcvm"
@@ -550,6 +640,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"5.2.7-mc1.21.5",
+			"5.2.6-mc1.21.4",
+			"5.2.5-mc1.21.2",
+			"5.2.4-mc1.21",
 			"5.2.3-mc1.21",
 			"5.2.2-mc1.21",
 			"5.2.1-mc1.20.6",
@@ -612,7 +706,12 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

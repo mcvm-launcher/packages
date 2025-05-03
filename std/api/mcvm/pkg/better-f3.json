@@ -4,6 +4,208 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "14.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/yioiBxNH/BetterF3-14.0.0-NeoForge-1.21.5.jar",
+					"version": "yioiBxNH"
+				},
+				{
+					"content_versions": "14.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/dfWnohnD/BetterF3-14.0.0-Fabric-1.21.5.jar",
+					"version": "dfWnohnD"
+				},
+				{
+					"content_versions": "13.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/qQsaCBRd/BetterF3-13.0.0-NeoForge-1.21.4.jar",
+					"version": "qQsaCBRd"
+				},
+				{
+					"content_versions": "13.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/729ec3Jf/BetterF3-13.0.0-Fabric-1.21.4.jar",
+					"version": "729ec3Jf"
+				},
+				{
+					"content_versions": "12.0.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/9h3xhh9m/BetterF3-12.0.0-NeoForge-1.21.3.jar",
+					"version": "9h3xhh9m"
+				},
+				{
+					"content_versions": "12.0.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/HPporrSc/BetterF3-12.0.0-Fabric-1.21.3.jar",
+					"version": "HPporrSc"
+				},
+				{
+					"content_versions": "11.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+					"version": "maXNB1dn"
+				},
+				{
+					"content_versions": "11.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/VdCTYQJE/BetterF3-11.0.3-Forge-1.21.1.jar",
+					"version": "VdCTYQJE"
+				},
+				{
+					"content_versions": "11.0.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-Fabric-1.21.1.jar",
+					"version": "phATjGhF"
+				},
+				{
+					"content_versions": "11.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/535e2P1K/BetterF3-11.0.2-NeoForge-1.21.1.jar",
+					"version": "535e2P1K"
+				},
+				{
+					"content_versions": "11.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/FRL9fveN/BetterF3-11.0.2-Forge-1.21.1.jar",
+					"version": "FRL9fveN"
+				},
+				{
+					"content_versions": "11.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/4iASq6Tm/BetterF3-11.0.2-Fabric-1.21.1.jar",
+					"version": "4iASq6Tm"
+				},
+				{
+					"content_versions": "10.0.3",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "cloth-config"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/e5tIjkBO/BetterF3-10.0.3-NeoForge-1.20.6.jar",
+					"version": "e5tIjkBO"
+				},
+				{
+					"content_versions": "10.0.3",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "cloth-config",
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/8shC1gFX/versions/ZW0qMBZF/BetterF3-10.0.3-Fabric-1.20.6.jar",
+					"version": "ZW0qMBZF"
+				},
+				{
 					"content_versions": "11.0.1",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -1086,10 +1288,10 @@
 			"TreyRuffy",
 			"cominixo"
 		],
-		"banner": "https://cdn.modrinth.com/data/8shC1gFX/images/546fc6d22a9adeb148ea1f278eaec9a55640aa56.png",
+		"banner": "https://cdn.modrinth.com/data/8shC1gFX/images/00ee650b0a73429b729db674eac8970a43ece48f_350.webp",
 		"description": "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/8shC1gFX/images/546fc6d22a9adeb148ea1f278eaec9a55640aa56.png"
+			"https://cdn.modrinth.com/data/8shC1gFX/images/00ee650b0a73429b729db674eac8970a43ece48f_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com//data/8shC1gFX/icon.png",
 		"issues": "https://github.com/TreyRuffy/BetterF3/issues/",
@@ -1104,8 +1306,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"14.0.0",
+			"13.0.0",
+			"12.0.0",
+			"11.0.3",
+			"11.0.2",
 			"11.0.1",
 			"11.0.0",
+			"10.0.3",
 			"10.0.2",
 			"10.0.1",
 			"10.0.0",
@@ -1185,7 +1393,12 @@
 			"24w12a",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

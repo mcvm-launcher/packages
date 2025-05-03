@@ -20,6 +20,105 @@
 					"version": "BkJB5PPB"
 				},
 				{
+					"content_versions": "8.0.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+					"version": "CtMpt7Jr"
+				},
+				{
+					"content_versions": "8.0.0-neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+					"version": "WmGPid1l"
+				},
+				{
+					"content_versions": "7.1.2-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/gTYCIFFQ/ferritecore-7.1.2-neoforge.jar",
+					"version": "gTYCIFFQ"
+				},
+				{
+					"content_versions": "7.1.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/IPM0JlHd/ferritecore-7.1.1-fabric.jar",
+					"version": "IPM0JlHd"
+				},
+				{
+					"content_versions": "7.1.0-hotfix",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/a3QXXGz2/ferritecore-7.1.0-hotfix-fabric.jar",
+					"version": "a3QXXGz2"
+				},
+				{
+					"content_versions": "7.0.2-hotfix",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/bwKMSBhn/ferritecore-7.0.2-hotfix-fabric.jar",
+					"version": "bwKMSBhn"
+				},
+				{
+					"content_versions": "7.1.0-neo",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HViHO2Oi/ferritecore-7.1.0-neoforge.jar",
+					"version": "HViHO2Oi"
+				},
+				{
+					"content_versions": "7.1.0",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/zLd6ikLj/ferritecore-7.1.0-fabric-dev.jar",
+					"version": "zLd6ikLj"
+				},
+				{
+					"content_versions": "7.0.2-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CnpoQxCx/ferritecore-7.0.2-neoforge.jar",
+					"version": "CnpoQxCx"
+				},
+				{
+					"content_versions": "7.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/W4lg2p7U/ferritecore-7.0.2-fabric-dev.jar",
+					"version": "W4lg2p7U"
+				},
+				{
+					"content_versions": "7.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/zQSo4nxk/ferritecore-7.0.1-fabric.jar",
+					"version": "zQSo4nxk"
+				},
+				{
+					"content_versions": "7.0.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/6BhrwMOV/ferritecore-7.0.1-neoforge.jar",
+					"version": "6BhrwMOV"
+				},
+				{
 					"content_versions": "7.0.0-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -429,7 +528,7 @@
 		],
 		"description": "Memory usage optimizations",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/uXXizFIs/icon.jpg",
+		"icon": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
 		"issues": "https://github.com/malte0811/FerriteCore/issues",
 		"license": "MIT",
 		"long_description": "This mod reduces the memory usage of Minecraft in a few different ways. A high-level technical description of the changes is available [here](https://github.com/malte0811/FerriteCore/blob/main/summary.md).\n\nThe amount of memory saved will depend on the pack. In version 2.5.9 of [All Of Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-3) it reduces the RAM usage (heap size) from 1,792 MB to 984 MB. For comparison the same setup with Hydrogen instead of FerriteCore uses 1,335 MB.  \nThese values were measured after generating a world with a fixed seed and waiting for two minutes.\nThe project picture is a cropped version of [this](https://commons.wikimedia.org/wiki/File:Magnetic-core_memory,_at_angle.jpg) picture.\n\n### FAQ\n\n#### Should I install this on the server or just on the client?\n\nSome optimizations are client-side only, but there are some rather high-impact optimizations that are relevant on the server too. So you should install it on both sides.\n\n#### Is this compatible with [other mod]?\n\nMost likely yes. The only exception is Hydrogen, which is compatible with all recent FerriteCore versions *on Minecraft versions where Hydrogen is officially released*. This means that 1.18+ builds are not compatible with Hydrogen, since it has been officially archived and won't receive any releases on these versions.",
@@ -441,6 +540,18 @@
 	},
 	"properties": {
 		"content_versions": [
+			"8.0.0",
+			"8.0.0-neo",
+			"7.1.2-neo",
+			"7.1.1",
+			"7.1.0",
+			"7.1.0-neo",
+			"7.1.0-hotfix",
+			"7.0.2",
+			"7.0.2-neo",
+			"7.0.2-hotfix",
+			"7.0.1",
+			"7.0.1-neo",
 			"7.0.0",
 			"7.0.0-neo",
 			"6.1.1",
@@ -503,7 +614,11 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

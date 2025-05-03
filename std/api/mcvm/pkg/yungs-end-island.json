@@ -4,6 +4,173 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.4-3.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/44802tFH/YungsBetterEndIsland-1.21.4-Fabric-3.4.0.jar",
+					"version": "44802tFH"
+				},
+				{
+					"content_versions": "1.21.4-Neo-3.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/Y0718nVU/YungsBetterEndIsland-1.21.4-NeoForge-3.4.0.jar",
+					"version": "Y0718nVU"
+				},
+				{
+					"content_versions": "1.21.1-Neo-3.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/I52NZ1qK/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+					"version": "I52NZ1qK"
+				},
+				{
+					"content_versions": "1.21.1-3.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/1KrElURK/YungsBetterEndIsland-1.21.1-Forge-3.1.2.jar",
+					"version": "1KrElURK"
+				},
+				{
+					"content_versions": "1.21.1-3.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/zpUYcjIg/YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar",
+					"version": "zpUYcjIg"
+				},
+				{
+					"content_versions": "1.21.1-3.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/HTRZl5K6/YungsBetterEndIsland-1.21.1-Fabric-3.1.1.jar",
+					"version": "HTRZl5K6"
+				},
+				{
+					"content_versions": "1.21.1-Neo-3.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/IEU6pSYq/YungsBetterEndIsland-1.21.1-NeoForge-3.1.1.jar",
+					"version": "IEU6pSYq"
+				},
+				{
+					"content_versions": "1.21.1-3.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/Lly4sHe1/YungsBetterEndIsland-1.21.1-Forge-3.1.1.jar",
+					"version": "Lly4sHe1"
+				},
+				{
+					"content_versions": "1.21.1-Neo-3.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/HlXbROrl/YungsBetterEndIsland-1.21.1-NeoForge-3.1.0.jar",
+					"version": "HlXbROrl"
+				},
+				{
+					"content_versions": "1.21.1-3.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/Sh0L6V6J/YungsBetterEndIsland-1.21.1-Forge-3.1.0.jar",
+					"version": "Sh0L6V6J"
+				},
+				{
+					"content_versions": "1.21.1-3.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/CnwudsVN/YungsBetterEndIsland-1.21.1-Fabric-3.1.0.jar",
+					"version": "CnwudsVN"
+				},
+				{
 					"content_versions": "1.20.4-2.4.3",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -445,25 +612,25 @@
 			"Drullkus",
 			"YUNGNICKYOUNG"
 		],
-		"banner": "https://cdn.modrinth.com/data/2BwBOmBQ/images/c94d0f0141791cf524d74dfe3cbafc738a5e636a.png",
+		"banner": "https://cdn.modrinth.com/data/2BwBOmBQ/images/c7000066c3d19e005fcd4805c3075c2c8e860d9a_350.webp",
 		"categories": [
 			"worldgen"
 		],
 		"community": "https://discord.gg/rns3beq",
 		"description": "An overhaul of the main End Island where the dragon fight takes place!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/2BwBOmBQ/images/540aa82dd7fa9d6490313b21e6261c15427ca1bf.png",
-			"https://cdn.modrinth.com/data/2BwBOmBQ/images/7ea8218329da37c64a35b67166a610209bfdf5fc.png",
-			"https://cdn.modrinth.com/data/2BwBOmBQ/images/bd46f8dbad600a98d88ace6d403e18856871a936.png",
-			"https://cdn.modrinth.com/data/2BwBOmBQ/images/c94d0f0141791cf524d74dfe3cbafc738a5e636a.png"
+			"https://cdn.modrinth.com/data/2BwBOmBQ/images/703535bcb6988da8fe7c836abf505300c164389c_350.webp",
+			"https://cdn.modrinth.com/data/2BwBOmBQ/images/a8f9c3701b30f226a38389ae56a71168fc6c074b_350.webp",
+			"https://cdn.modrinth.com/data/2BwBOmBQ/images/c7000066c3d19e005fcd4805c3075c2c8e860d9a_350.webp",
+			"https://cdn.modrinth.com/data/2BwBOmBQ/images/ce660dae20f2bd8de4413b75e32d20d7eb5be1fa_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/2BwBOmBQ/e4f0f8d1668eda0f22a87d8771bba8344ebfc4b9.png",
+		"icon": "https://cdn.modrinth.com/data/2BwBOmBQ/78c665ae3617a5b7e8902242b480d7f71ef04307_96.webp",
 		"issues": "https://github.com/yungnickyoung/YUNGs-Better-End-Island/issues",
 		"keywords": [
 			"yungs"
 		],
 		"license": "LGPL-3.0-only",
-		"long_description": "<p>\n<img src=\"https://i.imgur.com/CbEPuEE.png\" alt=\"YUNG's Better End Island\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/ePR2LMC.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\n<b>An overhaul of the main End Island where the dragon fight takes place!</b>\n<p>Obsidian pillars, End gateways, the spawn platform, and the portal itself in the middle of the island have all been redesigned. Additionally, the dragon no longer spawns from the start - instead, it will be summoned once a player gets close to the bell tower in the center.</p>\n<p>To resummon the dragon, the 4 crystals no longer go right next to the portal. Instead, you'll see 4 bedrock blocks on the floor inside the tower, one in each directional wing of the building. The crystals can be placed on these 4 blocks to start summoning the dragon again. That being said, we do actually still support vanilla crystal summoning positions, to avoid confusing players who aren't familiar with the mod.</p>\n<p>The dragon's AI itself is unchanged.</p>\n<p><b>To use BEI on an existing world,</b> we've provided the <i>/end_island reset</i> command. Using this command while in the End will attempt to reset the dragon fight back to its initial state and replace any previous portal/pillars with our redesigned versions. But this command attempts some major things behind the scenes, so <b>please back up your world before trying!</b> Also note that <b>simply deleting your End dimension files is not suffificient, and you will still need to run the command.</b></p>\n<p>If you're having issues with the portal/tower spawning after using the command, such as the portal spawning under the island, you can use the full command `/end_island reset true` to attempt to place the portal on the surface again. But once again, back up your world before trying it! Seriously!</p>\n</p>\n<p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/D3LW5j7DAdE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</p>\n<p>\n<img src=\"https://i.imgur.com/zMhFcqM.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better End Island is intended to be compatible with as many mods as possible. The following are compatibility notes for relevant End mods/datapacks:\n</p>\n<ul>\n<li><b>Endergetic Expansion</b><ul><li>End Gateways in the Outer End will be from EE instead of BEI. Everything should still work properly though.</li></ul></li>\n<li><b>Progressive Bosses</b><ul><li>Extra cage placement may be a little scuffed in older versions of Progressive Bosses. Make sure you're on the latest version!</li><li><i>/end_island reset</i> command may not properly reset fight history/progress on Progressive Bosses' side of things. If you use this command, you should also run <i>/progressivebosses difficulty set <player> dragon 0</i></li></ul></li>\n<li><b>Better End</b><ul><li>Since the island is smaller than in vanilla, obsidian spikes will spawn closer to the center</li><li>If any spikes are missing or you have any other issues with generation, try using the <i>/end_island reset</i> command while in the End</li></ul></li>\n<li><b>Nullscape</b><ul><li>Completely compatible on 1.19+. <b>Not compatible on 1.18.2.</b></li></ul></li>\n<li><b>Ender Trigon and Savage Ender Fight</b><ul><li>Completely compatible</li></ul></li>\n<li><b>Incompatible</b><ul><li>Stellarity</li><li>Valkyrien Skies</li></ul></li></ul>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+		"long_description": "<p>\n<img src=\"https://i.imgur.com/CbEPuEE.png\" alt=\"YUNG's Better End Island\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"76\" height=\"27\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/ePR2LMC.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\n<b>An overhaul of the main End Island where the dragon fight takes place!</b>\n<p>Obsidian pillars, End gateways, the spawn platform, and the portal itself in the middle of the island have all been redesigned. Additionally, the dragon no longer spawns from the start - instead, it will be summoned once a player gets close to the bell tower in the center.</p>\n<p>To resummon the dragon, the 4 crystals no longer go right next to the portal. Instead, you'll see 4 bedrock blocks on the floor inside the tower, one in each directional wing of the building. The crystals can be placed on these 4 blocks to start summoning the dragon again. That being said, we do actually still support vanilla crystal summoning positions, to avoid confusing players who aren't familiar with the mod.</p>\n<p>The dragon's AI itself is unchanged.</p>\n<p><b>To use BEI on an existing world,</b> we've provided the <i>/end_island reset</i> command. Using this command while in the End will attempt to reset the dragon fight back to its initial state and replace any previous portal/pillars with our redesigned versions. But this command attempts some major things behind the scenes, so <b>please back up your world before trying!</b> Also note that <b>simply deleting your End dimension files is not suffificient, and you will still need to run the command.</b></p>\n<p>If you're having issues with the portal/tower spawning after using the command, such as the portal spawning under the island, you can use the full command `/end_island reset true` to attempt to place the portal on the surface again. But once again, back up your world before trying it! Seriously!</p>\n</p>\n<p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/D3LW5j7DAdE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</p>\n<p>\n<img src=\"https://i.imgur.com/zMhFcqM.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better End Island is intended to be compatible with as many mods as possible. The following are compatibility notes for relevant End mods/datapacks:\n</p>\n<ul>\n<li><b>Endergetic Expansion</b><ul><li>End Gateways in the Outer End will be from EE instead of BEI. Everything should still work properly though.</li></ul></li>\n<li><b>Progressive Bosses</b><ul><li>Extra cage placement may be a little scuffed in older versions of Progressive Bosses. Make sure you're on the latest version!</li><li><i>/end_island reset</i> command may not properly reset fight history/progress on Progressive Bosses' side of things. If you use this command, you should also run <i>/progressivebosses difficulty set <player> dragon 0</i></li></ul></li>\n<li><b>Better End</b><ul><li>Since the island is smaller than in vanilla, obsidian spikes will spawn closer to the center</li><li>If any spikes are missing or you have any other issues with generation, try using the <i>/end_island reset</i> command while in the End</li></ul></li>\n<li><b>Nullscape</b><ul><li>Completely compatible on 1.19+. <b>Not compatible on 1.18.2.</b></li></ul></li>\n<li><b>Savage Ender Dragon</b><ul><li>The crystals Better End Island adds in the center may rarely respawn, if crystal respawning from Savage Ender Dragon is enabled. Otherwise completely compatible.</li></ul></li>\n<li><b>Ender Trigon</b><ul><li>Completely compatible</li></ul></li>\n<li><b>True Ending: Ender Dragon Overhaul</b><ul><li>Lots of little incompatibilities with the dragon's new attacks, such as it pathing through the central tower and obsidian pillars. Not recommended.</li></ul></li>\n<li><b>Incompatible</b><ul><li>Stellarity</li><li>Valkyrien Skies</li></ul></li></ul>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
 		"name": "YUNG's Better End Island",
 		"package_maintainers": [
 			"mcvm"
@@ -473,6 +640,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.4-3.4.0",
+			"1.21.4-Neo-3.4.0",
+			"1.21.1-Neo-3.1.2",
+			"1.21.1-Neo-3.1.1",
+			"1.21.1-Neo-3.1.0",
+			"1.21.1-3.1.2",
+			"1.21.1-3.1.1",
+			"1.21.1-3.1.0",
 			"1.20.4-2.4.3",
 			"1.20.4-2.4.2",
 			"1.20.4-2.4.1",
@@ -504,7 +679,10 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1",
+			"1.21.4"
 		]
 	}
 }

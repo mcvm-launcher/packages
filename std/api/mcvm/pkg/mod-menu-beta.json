@@ -4,6 +4,45 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.8.5-beta.9",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "glass-config-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6v8kVRE3/versions/ezg5NRdh/modmenu-1.8.5-beta.9.jar",
+					"version": "ezg5NRdh"
+				},
+				{
+					"content_versions": "1.8.5-beta.11",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "glass-config-api"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6v8kVRE3/versions/YFZrfL26/modmenu-1.8.5-beta.11.jar",
+					"version": "YFZrfL26"
+				},
+				{
+					"content_versions": "1.8.5-beta.10",
+					"minecraft_versions": "b1.7.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "glass-config-api"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6v8kVRE3/versions/QEpozwLa/modmenu-1.8.5-beta.10.jar",
+					"version": "QEpozwLa"
+				},
+				{
 					"content_versions": "1.8.5-beta.7",
 					"minecraft_versions": "b1.7.3",
 					"modloaders": "fabriclike",
@@ -100,6 +139,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.8.5-beta.11",
+			"1.8.5-beta.10",
+			"1.8.5-beta.9",
 			"1.8.5-beta.7",
 			"1.8.5-beta.6",
 			"1.8.5-beta.5",

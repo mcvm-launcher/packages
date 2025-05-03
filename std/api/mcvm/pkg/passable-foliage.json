@@ -4,6 +4,77 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "9.1.2-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/uaLW6JVR/versions/ikhxz0U6/PassableFoliage-1.21.1-NeoForge-9.1.2.jar",
+					"version": "ikhxz0U6"
+				},
+				{
+					"content_versions": "9.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uaLW6JVR/versions/3xVohBAy/PassableFoliage-1.21-Fabric-9.1.2.jar",
+					"version": "3xVohBAy"
+				},
+				{
+					"content_versions": "9.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uaLW6JVR/versions/LYd1xQPR/PassableFoliage-1.21-Fabric-9.1.1.jar",
+					"version": "LYd1xQPR"
+				},
+				{
+					"content_versions": "9.1.0",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uaLW6JVR/versions/RvuO38bg/PassableFoliage-1.21-Fabric-9.1.0.jar",
+					"version": "RvuO38bg"
+				},
+				{
 					"content_versions": "9.0.2",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -414,10 +485,10 @@
 		"community": "https://discord.gg/KzGQW7a",
 		"description": "Remove collision from leaves",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/uaLW6JVR/e2be60fb2dd697d5ebe45c497a7d3e669a2668b1.png",
+		"icon": "https://cdn.modrinth.com/data/uaLW6JVR/87d86ab27cf9ab08a5a77f17b1d89c4514209043_96.webp",
 		"issues": "https://github.com/Snownee/PassableFoliage/issues",
 		"license": "MIT",
-		"long_description": "# Passable Foliage 🌳\n\nThis mod removes collision from leaves and reduces the damage when falling into leaves. This can be applied to all entities or only to players.\n\nVery helpful when you are riding through a forest.\n\nThere is also a new enchantment that makes you able to climb and stand on the leaves.\n\n### Technical information\n\nThere is a block tag that controls whether a block is passable. So you can customize everything yourself.",
+		"long_description": "# Passable Foliage 🌳\n\nThis mod removes collision from leaves and reduces the damage when falling into leaves. This can be applied to all entities or only to players.\n\nVery helpful when you are riding through a forest.\n\nThere is also a new enchantment that makes you able to climb and stand on the leaves. (Fabric 1.19~1.20: the recipe of enchanted book requires Lychee mod to be installed)\n\n### Technical information\n\nThere is a block tag that controls whether a block is passable. So you can customize everything yourself.\n\n[![Interested in supporting me and the development of mods? BisectHosting is the perfect solution. New customers can use the promotion code \"snownee\" to get a 25% discount on their first month of a gaming server. With 24/7 support and fast response times, you can expect top-notch service for all your gaming needs.](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
 		"name": "Passable Foliage 🌳",
 		"package_maintainers": [
 			"mcvm"
@@ -427,6 +498,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"9.1.2",
+			"9.1.2-neo",
+			"9.1.1",
+			"9.1.0",
 			"9.0.2",
 			"9.0.1",
 			"9.0.0",
@@ -466,7 +541,8 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

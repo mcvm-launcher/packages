@@ -4,6 +4,140 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.0.2",
+					"minecraft_versions": [
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/waCffck8/cristellib-fabric-2.0.2.jar",
+					"version": "waCffck8"
+				},
+				{
+					"content_versions": "2.0.2-neo",
+					"minecraft_versions": [
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/nvBbYALa/cristellib-neoforge-2.0.2.jar",
+					"version": "nvBbYALa"
+				},
+				{
+					"content_versions": "2.0.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/sILGNCx4/cristellib-fabric-2.0.1.jar",
+					"version": "sILGNCx4"
+				},
+				{
+					"content_versions": "2.0.1-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/T2JWurbR/cristellib-neoforge-2.0.1.jar",
+					"version": "T2JWurbR"
+				},
+				{
+					"content_versions": "1.2.10",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/Z4HqO4Am/cristellib-fabric-1.2.10.jar",
+					"version": "Z4HqO4Am"
+				},
+				{
+					"content_versions": "1.2.10-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/ADKSOV3O/cristellib-neoforge-1.2.10.jar",
+					"version": "ADKSOV3O"
+				},
+				{
+					"content_versions": "1.2.9",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/pcnAJaO5/cristellib-fabric-1.2.9.jar",
+					"version": "pcnAJaO5"
+				},
+				{
+					"content_versions": "1.2.9-neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/oT04jpll/cristellib-neoforge-1.2.9.jar",
+					"version": "oT04jpll"
+				},
+				{
+					"content_versions": "1.1.6",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/DOsSK4NK/cristellib-1.1.6-forge.jar",
+					"version": "DOsSK4NK"
+				},
+				{
+					"content_versions": "1.2.8",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/8iGbvXwk/cristellib-fabric-1.2.8.jar",
+					"version": "8iGbvXwk"
+				},
+				{
+					"content_versions": "1.2.8-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/oLp2OCg3/cristellib-neoforge-1.2.8.jar",
+					"version": "oLp2OCg3"
+				},
+				{
+					"content_versions": "1.2.7",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/V8kulhC0/cristellib-fabric-1.2.7.jar",
+					"version": "V8kulhC0"
+				},
+				{
+					"content_versions": "1.2.7-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/VjaAEPBl/cristellib-neoforge-1.2.7.jar",
+					"version": "VjaAEPBl"
+				},
+				{
 					"content_versions": "1.2.6-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -404,15 +538,15 @@
 		],
 		"description": "A Library mod for easy structure config and runtime datapacks.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/cl223EMc/images/11e68225a792104a309304e4865464f2e94fa239.png",
-			"https://cdn.modrinth.com/data/cl223EMc/images/973fb1607ff3685e128a2362e0387dfb2e3a0e61.jpeg",
-			"https://cdn.modrinth.com/data/cl223EMc/images/dff51d0855ae4ed90adee6c3d26c1abfc0ea7a63.png"
+			"https://cdn.modrinth.com/data/cl223EMc/images/2c12e75d863fe5f5774881c3515576b97664a886_350.webp",
+			"https://cdn.modrinth.com/data/cl223EMc/images/82425cf2a9a450e80caec928d7ef2c1f1881bac3_350.webp",
+			"https://cdn.modrinth.com/data/cl223EMc/images/dff51d0855ae4ed90adee6c3d26c1abfc0ea7a63_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/cl223EMc/9ad4bececf55487f1a69862bb0a83d58347f71c8.jpeg",
+		"icon": "https://cdn.modrinth.com/data/cl223EMc/22b1072af55724911840b93a30cf8d3b3fc514bf_96.webp",
 		"issues": "https://github.com/Cristelknight999/Cristel-Lib/issues",
 		"keywords": [],
 		"license": "CC-BY-NC-ND-4.0",
-		"long_description": "Cristel Lib is a mod, which allows you to create configs for structures with code. or even with data!\n\n \n\n## For players and modpack creators:\n- Create configs for every structure mod!\n\n## For mod creators:\n- Create configs for your structures\n- Use runtime datapacks, for adding data in-game\n- Load datapacks in Fabric and Forge with checks\n\n**How to do that? [Here](https://github.com/Cristelknight999/Cristel-Lib/blob/main/README.md) is a small tutorial.**\n\n\nCurrently this mod is utilized by [WWEE](https://modrinth.com/mod/expanded-ecosphere), [Towns and Towers](https://modrinth.com/mod/towns-and-towers) and [Terralith](https://modrinth.com/mod/terralith)!",
+		"long_description": "Cristel Lib is a mod, which allows you to create configs for structures with code. Or even with data!\n\n \n\n## For players and modpack creators:\n- Create configs for every structure mod!\n\n## For mod creators:\n- Create configs for your structures\n- Load datapacks in Fabric and Forge conditionally\n- Use runtime datapacks, for adding data in-game\n\n**How to do that? [Here](https://github.com/Cristelknight999/Cristel-Lib) is a small tutorial.**\n\n\nCurrently this mod is utilized by [WWEE](https://modrinth.com/mod/expanded-ecosphere), [Towns and Towers](https://modrinth.com/mod/towns-and-towers), [Explorify](https://modrinth.com/datapack/explorify)  and [Terralith](https://modrinth.com/mod/terralith)!",
 		"name": "Cristel Lib",
 		"package_maintainers": [
 			"mcvm"
@@ -421,6 +555,18 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.0.2",
+			"2.0.2-neo",
+			"2.0.1",
+			"2.0.1-neo",
+			"1.2.10",
+			"1.2.10-neo",
+			"1.2.9",
+			"1.2.9-neo",
+			"1.2.8",
+			"1.2.8-neo",
+			"1.2.7",
+			"1.2.7-neo",
 			"1.2.6",
 			"1.2.6-neo",
 			"1.2.5",
@@ -431,6 +577,7 @@
 			"1.2.2-neo",
 			"1.2.1-neo",
 			"1.2.0",
+			"1.1.6",
 			"1.1.5",
 			"1.1.4",
 			"1.1.3",
@@ -459,7 +606,11 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

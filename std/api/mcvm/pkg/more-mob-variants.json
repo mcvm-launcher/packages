@@ -4,6 +4,17 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.3.1.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JiEhJ3WG/versions/7mUHEpdy/moremobvariants-fabric%2B1.21-1.3.1.1.jar",
+					"version": "7mUHEpdy"
+				},
+				{
 					"content_versions": "1.3.0.1",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -21,6 +32,28 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/JiEhJ3WG/versions/aY8G34PW/moremobvariants-forge%2B1.20.4-1.3.0.1.jar",
 					"version": "aY8G34PW"
+				},
+				{
+					"content_versions": "1.3.1",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JiEhJ3WG/versions/NifwSjfW/moremobvariants-fabric%2B1.20.4-1.3.1.jar",
+					"version": "NifwSjfW"
+				},
+				{
+					"content_versions": "1.3.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/JiEhJ3WG/versions/o6yyhzgj/moremobvariants-fabric%2B1.20.1-1.3.1.jar",
+					"version": "o6yyhzgj"
 				},
 				{
 					"content_versions": "1.3.0.1",
@@ -258,16 +291,16 @@
 		"community": "https://discord.gg/CeTHcXUJJv",
 		"description": "Adds new variants to existing mobs.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/JiEhJ3WG/images/0423116a3e1532909f8df27b1b8aacd989f632cd.png",
-			"https://cdn.modrinth.com/data/JiEhJ3WG/images/5f5d2a8060dff28e54067351785db82a2d046ae4.png",
-			"https://cdn.modrinth.com/data/JiEhJ3WG/images/67e7744d5dbb7376e30bad074f98ef053388d577.png",
-			"https://cdn.modrinth.com/data/JiEhJ3WG/images/6be702b823cb1a4848a7d9674a1ede91d29f79d7.png",
-			"https://cdn.modrinth.com/data/JiEhJ3WG/images/85f51bd5bbfa9874848ee1e742e36e0c6ab8bcd8.png",
-			"https://cdn.modrinth.com/data/JiEhJ3WG/images/a25feaa016c22ecaff7d7c87b507317335a8eb86.png",
-			"https://cdn.modrinth.com/data/JiEhJ3WG/images/ce1069df9d83a14086039df056413855cf7d3c98.png",
-			"https://cdn.modrinth.com/data/JiEhJ3WG/images/ea606e7093184e78afd3f18deb89ba348ee7b93f.png"
+			"https://cdn.modrinth.com/data/JiEhJ3WG/images/23c97b26677e8f1604f4267625cc9dabec22fd69_350.webp",
+			"https://cdn.modrinth.com/data/JiEhJ3WG/images/25ac7462cae67f0261ba659ff6400b5b9fdce728_350.webp",
+			"https://cdn.modrinth.com/data/JiEhJ3WG/images/3980c0a16d09b9c9141ab0fc3ea432b489e6bb1c_350.webp",
+			"https://cdn.modrinth.com/data/JiEhJ3WG/images/661b9410c3ee0e6634712f9d6ce8ec82365eae36_350.webp",
+			"https://cdn.modrinth.com/data/JiEhJ3WG/images/693fd6896cd49e0e0094b376c2b2ca64f43080e3_350.webp",
+			"https://cdn.modrinth.com/data/JiEhJ3WG/images/70515dbcbba022609ececbb4b6fab3727d73110b_350.webp",
+			"https://cdn.modrinth.com/data/JiEhJ3WG/images/944f75c3264c66ed33b6226943f5d6528200b464_350.webp",
+			"https://cdn.modrinth.com/data/JiEhJ3WG/images/f984699a50d3e8f4da9003152391d954fe2ea5af_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/JiEhJ3WG/b896267f5830756ae5425d7cb3fbe770f6c30964.png",
+		"icon": "https://cdn.modrinth.com/data/JiEhJ3WG/887db4c6a00b21e1d74f7f987b2d05fe13825b18_96.webp",
 		"issues": "https://github.com/nyuppo/MobVariants/issues",
 		"license": "CC0-1.0",
 		"long_description": "# More Mob Variants\n---\n\n### 📖 About\nRecent mobs that have been added to the game all have plenty of fun variants to look at, but what about the old ones?\n\nThis mod adds new variants to the older mobs that all look the same, to make them a little more fresh.\n\nVariants are added through NBT, meaning that they will be persistent across all players.\n\nAll variants and features are data-driven, allowing for full customization through datapacks.\n\n### 💡 Installation\n> **This mod is available for both Forge and Fabric!** Make sure you download the correct version.\n\n**The fabric version of this mod requires Fabric API!** Get it [here](https://modrinth.com/mod/fabric-api).\n\n\nThis mod has to be installed server-side and client-side, although clients without the mod can still join servers with the mod.\n\n### 📁 Features\nIn addition to the default texture, the mod currently features the following new variants:\n\n- Cat\n  - Gray Tabby\n  - Doug\n  - Handsome\n  - Tortoiseshell\n- Chicken\n  - Amber\n  - Bronzed\n  - Gold Crested\n  - Midnight\n  - Skewbald\n  - Stormy\n  - Skeleton (*if spawned in the nether*)\n  - Duck (*rare*)\n- Cow\n  - Ashen\n  - Cream\n  - Cookie\n  - Dairy\n  - pinto\n  - Sunset\n  - Umbra\n  - Wooly\n  - Albino (*rare, spawns in taigas*)\n- Pig (*all variants can be muddy*)\n  - Mottled\n  - Piebald\n  - Pink Footed\n  - Sooty\n  - Spotted\n- Sheep (*all variants can have horns*)\n  - Fuzzy\n  - Patched\n  - Rocky\n  - Inky\n  - Long-nosed\n- Skeletons\n  - Dungeons-style\n  - Weathered\n  - Sandy (*more common in deserts*)\n  - Mossy (*spawns in jungles, swamps, and lush caves*)\n- Spiders\n  - Brown\n  - Tarantula\n  - Black Widow\n  - Bone (*rare*)\n- Wolf\n  - All default variants from 1.20.5\n  - Basenji (jupiter + golden retriever, or rusty + ashen)\n  - French Bulldog (husky + golden retriever, or rusty + golden retriever)\n  - German Shepherd (jupiter + husky, or woods + chestnut)\n  - Golden Retriever (jupiter + pale (default), or rusty + pale (default))\n  - Husky (black + ashen, or snowy + ashen)\n  - Jupiter (rusty + woods, or striped + woods)\n  - Skeleton (breeding in nether)\n- Zombie\n  - Alex\n  - Ari\n  - Efe\n  - Kai\n  - Makena\n  - Noor\n  - Sunny\n  - Zuri",
@@ -279,6 +312,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.3.1.1",
+			"1.3.1",
 			"1.3.0.1",
 			"1.3.0",
 			"1.2.2",
@@ -307,7 +342,8 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21"
 		]
 	}
 }

@@ -4,6 +4,76 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.9.2",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9Qdvz1OV/versions/f2UHw9ST/minecells-1.9.2.jar",
+					"version": "f2UHw9ST"
+				},
+				{
+					"content_versions": "1.9.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9Qdvz1OV/versions/S0VMBU26/minecells-1.9.1.jar",
+					"version": "S0VMBU26"
+				},
+				{
+					"content_versions": "1.9.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/9Qdvz1OV/versions/y0nGaqGR/minecells-1.9.0.jar",
+					"version": "y0nGaqGR"
+				},
+				{
+					"content_versions": "1.8.5",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9Qdvz1OV/versions/cj6UahGs/minecells-1.8.5.jar",
+					"version": "cj6UahGs"
+				},
+				{
+					"content_versions": "1.8.4-patch1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"owo-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/9Qdvz1OV/versions/QZAjsrH4/minecells-1.8.4%2Bpatch1.jar",
+					"version": "QZAjsrH4"
+				},
+				{
 					"content_versions": "1.8.3",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -575,9 +645,9 @@
 		"description": "Dead Cells content in Minecraft",
 		"documentation": "https://mim1q.dev/minecells",
 		"gallery": [
-			"https://cdn.modrinth.com/data/9Qdvz1OV/images/eb08e9222684f821ea7ca7d569cf3bbc22556373.webp"
+			"https://cdn.modrinth.com/data/9Qdvz1OV/images/eb08e9222684f821ea7ca7d569cf3bbc22556373_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/9Qdvz1OV/6995132866962a61b21427d6fc1b74ce682a8446.png",
+		"icon": "https://cdn.modrinth.com/data/9Qdvz1OV/2be4bd2055938f430e28bef13406caacb334c661_96.webp",
 		"issues": "https://github.com/mim1q/MineCells/issues",
 		"license": "LicenseRef-All-Rights-Reserved",
 		"long_description": "<center>\n\n![Mine Cells - based on Dead Cells by Motion Twin](https://raw.githubusercontent.com/mim1q/MineCells/1.20.x/projectPageAssets/hero.png)\n\n[![Requires Fabric API](https://img.shields.io/badge/Requires_Fabric_API-white?style=for-the-badge&logo=modrinth&logoColor=black)](https://modrinth.com/mod/fabric-api)\n[![Requires owo-lib](https://img.shields.io/badge/Requires_owo--lib-white?style=for-the-badge&logo=modrinth&logoColor=black)](https://modrinth.com/mod/owo-lib)\n[![Donate on ko-fi](https://img.shields.io/badge/Donate_on_ko--fi-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mim1q)\n[![Join my Community](https://img.shields.io/badge/Join_my_Community-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6TjQbSjbuB)\n\n[![Patchouli recommended for an in-game wiki](https://img.shields.io/badge/Patchouli_recommended_for_an_in--game_wiki-white?style=for-the-badge&logo=curseforge&logoColor=black)](https://modrinth.com/mod/patchouli)\n\n---\n\nMine Cells is a Minecraft mod that adds content\nfrom [Dead Cells by Motion Twin](https://store.steampowered.com/app/588650/Dead_Cells/).  \nVisit [the wiki](https://mim1q.dev/minecells) for a guide on how to get started and all the info you need!\n\n### If you need help with the mod, join the `#mim1qs-projects` channel on the Luna Pixels Discord Server\n\n[![Get support on Luna Pixel Discord](https://img.shields.io/badge/Get_support_on_The_Luna_Pixel_Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/LunaPixel)\n\n</center>\n\n## What does this mod add?\n\nCurrently, this mod adds:\n\n- 5 new dimension-dungeons, two of which house new bosses\n- many new mobs\n- lots of new decorative blocks\n- new weapons and spells\n\nSome upcoming features include:\n\n- more weapons, including bows and shields\n- an in-game guidebook\n\n## FAQ\n\n<details>\n    <summary>How do I do ... in Mine Cells?</summary>\n\nQuestions for older versions should be answered in [the wiki](https://mim1q.dev/minecells)! There's a search bar if you\nneed\nto look something up.\n\nIf you have trouble finding the answers, join\nthe [Luna Pixel Studios Discord](https://discord.gg/LunaPixel) and leave a message in `#mim1qs-projects` so we can help\nyou out.\n\nAll existing crafting recipes are available through mods such as REI.\n</details>\n\n<details>\n    <summary>Forge? Port to old version?</summary>\n\nNo, **I will not make mods for Forge**. I am fully commited to being a Fabric mod developer.\nIf you wish to play my mods on Forge, you should check out [Sinytra Connector](https://modrinth.com/mod/connector),\nwhich should work nearly flawlessly in survival.\nI probably won't port any of my mods to outdated Minecraft versions, either.\n</details>\n\n<details>\n    <summary>I got lost in one of Mine Cells's dimensions, what can I do?</summary>\n\nUse a compass to guide you back to the entrance. Compasses sometimes spawn in chests in the Promenade.\n</details>\n\n<details>\n    <summary>Can I use this mod in my modpack / showcase video / blog?</summary>\n\nYou can use this mod in your videos, blogs, etc.! If you do, provide a download link to this page.  \n**Do not** reupload the mod's files to any other hostings for people to download.  \n\nFeel free to use the mod in your modpacks, as long as they are either:\n- Used in private with your friends  \nor\n- Publicly available on CurseForge or Modrinth and you're not making money by selling them.\n\nIf you have any questions about this, feel free to contact me on the Discord server linked at the top of this page.\n\n</details>\n\n<details>\n    <summary>Will you add ... to this mod?</summary>\n\nThis mod aims to add most of the content from Dead Cells (except the Castlevania DLC) to Minecraft. If it is present in\nDead\nCells, it'll probably be added to this mod, sooner or later. Some unique tweaks and additions were made in order to make\nthe\ncontent work in the environment of Minecraft without straying too far from the source material.\n</details>\n\n<details>\n    <summary>Is this mod compatible with ...?</summary>\n\nThis mod should be compatible with most other mods. There might be some bugs that make it crash when other mods are\npresent, but I'm trying to remove them as soon as they're known. If you encounter such a bug make sure\nto [create an issue on Github](https://github.com/mim1q/MineCells/issues) or ask for help on the Discord server linked\nabove!\n</details>\n\n<br>\n\n[![Bisect hosting - use code LUNAPIXEL](https://raw.githubusercontent.com/mim1q/MineCells/1.20.x/projectPageAssets/hosting-code.png)](https://www.bisecthosting.com/p/lunapixel)\n",
@@ -590,6 +660,11 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.9.2",
+			"1.9.1",
+			"1.9.0",
+			"1.8.5",
+			"1.8.4-patch1",
 			"1.8.3",
 			"1.8.2",
 			"1.8.1",

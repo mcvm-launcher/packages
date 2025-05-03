@@ -5,6 +5,71 @@
 			"versions": [
 				{
 					"content_versions": "1.9.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/vYowyk3l/BetterThirdPerson-neoforge-1.21.5-1.9.0.jar",
+					"version": "vYowyk3l"
+				},
+				{
+					"content_versions": "1.9.0",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/Ibeh65i3/BetterThirdPerson-fabric-1.21.5-1.9.0.jar",
+					"version": "Ibeh65i3"
+				},
+				{
+					"content_versions": "1.9.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/OyWrVzG0/BetterThirdPerson-neoforge-1.9.0.jar",
+					"version": "OyWrVzG0"
+				},
+				{
+					"content_versions": "1.9.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/7eoMiIt3/BetterThirdPerson-fabric-1.9.0.jar",
+					"version": "7eoMiIt3"
+				},
+				{
+					"content_versions": "1.9.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/pM9WiFmc/BetterThirdPerson-neoforge-1.9.0.jar",
+					"version": "pM9WiFmc"
+				},
+				{
+					"content_versions": "1.9.0",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/Zlx9A1Bl/BetterThirdPerson-fabric-1.9.0.jar",
+					"version": "Zlx9A1Bl"
+				},
+				{
+					"content_versions": "1.9.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/aG5y4JUQ/BetterThirdPerson-neoforge-1.9.0.jar",
+					"version": "aG5y4JUQ"
+				},
+				{
+					"content_versions": "1.9.0",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
 					"stability": "stable",
@@ -87,7 +152,7 @@
 	},
 	"meta": {
 		"authors": [
-			"socolio"
+			"Socolio"
 		],
 		"description": "Improves third person camera view.",
 		"gallery": [],
@@ -126,7 +191,12 @@
 			"1.20.2",
 			"1.20.3",
 			"1.20.4",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

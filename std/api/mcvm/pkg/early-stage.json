@@ -4,6 +4,20 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.1.2-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lw05gEDu/versions/ToLuOpny/earlystage-1.1.2.jar",
+					"version": "ToLuOpny"
+				},
+				{
 					"content_versions": "1.1.1-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -30,6 +44,20 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/lw05gEDu/versions/HivO2Pxt/earlystage-1.1.1.jar",
 					"version": "HivO2Pxt"
+				},
+				{
+					"content_versions": "1.1.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lw05gEDu/versions/g6bqyYZN/earlystage-1.1.1.jar",
+					"version": "g6bqyYZN"
 				},
 				{
 					"content_versions": "1.1.0-1.20.1",
@@ -99,7 +127,7 @@
 		"description": "Adds a couple of early stage features like no log hitting",
 		"documentation": "https://globox1997.github.io/wiki/mods/EarlyStage/",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/lw05gEDu/d622648aced8710ef5189c1b5a416e07ef2f16fb.png",
+		"icon": "https://cdn.modrinth.com/data/lw05gEDu/ed079804aee5fc22d28e7e17995976505db809a9_96.webp",
 		"issues": "https://github.com/Globox1997/EarlyStage/issues",
 		"license": "MIT",
 		"long_description": "![Headline](https://i.imgur.com/Ek0QuQl.png)\n\n<center>\n\n[<img src=\"https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge\">](https://discord.gg/cV4cJyGXqF) \n[<img src=\"https://img.shields.io/website?color=7bc466&label=Globox&style=for-the-badge&up_message=Wiki&url=https://globox1997.github.io/wiki/mods/EarlyStage/\">](https://globox1997.github.io/wiki/mods/EarlyStage/)\n[<img src=\"https://img.shields.io/github/issues/Globox1997/EarlyStage?color=c4667b&style=for-the-badge\">](https://github.com/Globox1997/EarlyStage/issues)\n</center>\n\n<img src=\"https://i.imgur.com/K0Bn3Mh.png\" alt= “Description” width=\"25%\" height=\"auto\">\n<br><br/>\n\nEarlyStage adds a flint tool set for the start of the beginning. It adds the requirement to use an axe for logs.  \nIt also adds a sieve which can get customized item drops with a datapack.  \n Stones laying around in the forest for more immersive gaming.  \nHow to get started: break leaves to get sticks, find gravel to get flint, gather rocks, craft a crafting rock, put sticks and flint on it and hit it a couple times with another rock!\n\n![Showcase](https://i.imgur.com/aGuRNn7.png)\n \nThe sieve can be used to sieve blocks like dirt or sand. Try it out and see what is hidden in the dirt.\n\n![Showcase](https://i.imgur.com/ptNdQsD.png)\n![Showcase](https://i.imgur.com/lMgFMCH.png)\n\n<img src=\"https://i.imgur.com/WKCuHQL.png\" alt= “Misc” width=\"10%\" height=\"auto\">\n<br><br />\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/fabric-api)\n[<img src=\"https://i.imgur.com/7weZ8uu.png\" width=\"25%\" height=\"auto\">](https://modrinth.com/mod/cloth-config)\n\n\n\nThis mod is developed for Fabric.  \nThere are no plans to develop a Forge version. \n\n\nModpack Permission:  \nFeel free to use it in any modpacks.\n\n\nBug Report:  \nJust report bugs at the github page.",
@@ -111,6 +139,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.1.2-1.21.1",
+			"1.1.1-1.21.1",
 			"1.1.1-1.21",
 			"1.1.1-1.20.1",
 			"1.1.0-1.20.1",
@@ -129,7 +159,8 @@
 		"supported_versions": [
 			"1.19.2",
 			"1.20.1",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

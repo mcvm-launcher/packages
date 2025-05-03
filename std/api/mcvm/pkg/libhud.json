@@ -1,0 +1,122 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "1.0.0-beta7",
+					"minecraft_versions": "1.20.2",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JSEqc95y/versions/7zN8VB68/libhud-fabric-1.20-1.0.0-beta7.jar",
+					"version": "7zN8VB68"
+				},
+				{
+					"content_versions": "1.0.0-beta6",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JSEqc95y/versions/4E8Unzai/libhud-fabric-1.20-1.0.0-beta6.jar",
+					"version": "4E8Unzai"
+				},
+				{
+					"content_versions": "1.0.0-beta5",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JSEqc95y/versions/kOG2NEsk/libhud-fabric-1.20-1.0.0-beta5.jar",
+					"version": "kOG2NEsk"
+				},
+				{
+					"content_versions": "1.0.0-beta4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JSEqc95y/versions/BMfHhMFF/libhud-fabric-1.20-1.0.0-beta4.jar",
+					"version": "BMfHhMFF"
+				},
+				{
+					"content_versions": "1.0.0-beta3",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JSEqc95y/versions/xIiulxUq/libhud-fabric-1.20-1.0.0-beta3.jar",
+					"version": "xIiulxUq"
+				},
+				{
+					"content_versions": "1.0.0-beta2",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JSEqc95y/versions/qOArFMrv/libhud-fabric-1.20-1.0.0-beta2.jar",
+					"version": "qOArFMrv"
+				},
+				{
+					"content_versions": "1.0.0-beta1",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/JSEqc95y/versions/zlDbaGFc/libhud-fabric-1.19.4-1.0.0-beta1.jar",
+					"version": "zlDbaGFc"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Cheos"
+		],
+		"community": "https://discord.gg/rBmVqjrazz",
+		"description": "(fabric) library mod aiming to improve hud component compatibility",
+		"documentation": "https://github.com/Cheos137/libhud-fabric/wiki",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/JSEqc95y/ddd03d868fcdda721b9ea4162c3e450bdc0ea96a.png",
+		"issues": "https://github.com/Cheos137/libhud-fabric/issues/new/choose",
+		"license": "MIT",
+		"long_description": "libhud is a small library mod for fabric aiming to provide better compatibility between mods adding ingame hud components to the game.\n<br><br>\n\nIf you're a\n- **player**: This mod <u>won't change anything gameplay-wise</u> for you, other mods might depend on libhud though, requiring you to install it alongside them\n* **modpack creator**: Even though libhud aims to improve compatibility, it will take some time for other mods to adopt and support libhud, thus there will inevitably be incompatibilities - please ask the creators of incompatible mods to implement support\n- **modder**: libhud provides a simple api for adding hud components. It is fully documented [here](https://github.com/Cheos137/libhud-fabric/wiki/Developing-with-libhud). If you need any help implementing libhud support for your mod, join my discord [here](https://discord.gg/rBmVqjrazz).",
+		"name": "libhud",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Cheos137/libhud-fabric"
+	},
+	"properties": {
+		"content_versions": [
+			"1.0.0-beta7",
+			"1.0.0-beta6",
+			"1.0.0-beta5",
+			"1.0.0-beta4",
+			"1.0.0-beta3",
+			"1.0.0-beta2",
+			"1.0.0-beta1"
+		],
+		"modrinth_id": "JSEqc95y",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2"
+		]
+	}
+}

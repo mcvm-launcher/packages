@@ -1,0 +1,690 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "1.4.0-beta-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "dynamic-asset-generator"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/gokV67bZ/MissingWilds-fabric-1.4.0%2Bbeta%2B1.21.1.jar",
+					"version": "gokV67bZ"
+				},
+				{
+					"content_versions": "1.4.0-beta-1.21.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "dynamic-asset-generator"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/ArlxkfJ3/MissingWilds-neoforge-1.4.0%2Bbeta%2B1.21.1.jar",
+					"version": "ArlxkfJ3"
+				},
+				{
+					"content_versions": "1.3.3-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "dynamic-asset-generator"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/ZPLnIVe9/MissingWilds-fabric-1.3.3%2B1.21.jar",
+					"version": "ZPLnIVe9"
+				},
+				{
+					"content_versions": "1.3.2-1.21-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "dynamic-asset-generator"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/2yS2DpIE/MissingWilds-neoforge-1.3.2%2B1.21.jar",
+					"version": "2yS2DpIE"
+				},
+				{
+					"content_versions": "1.3.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": {
+							"value": "dynamic-asset-generator"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/FWKVimaL/MissingWilds-fabric-1.3.1%2B1.21.jar",
+					"version": "FWKVimaL"
+				},
+				{
+					"content_versions": "1.3.1-1.21-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "dynamic-asset-generator"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/syuC5oFD/MissingWilds-neoforge-1.3.1%2B1.21.jar",
+					"version": "syuC5oFD"
+				},
+				{
+					"content_versions": "1.3.0-1.21-neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/5m6Kddkv/MissingWilds-neoforge-1.3.0%2B1.21.jar",
+					"version": "5m6Kddkv"
+				},
+				{
+					"content_versions": "1.3.0-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/zkWQXCYk/MissingWilds-fabric-1.3.0%2B1.21.jar",
+					"version": "zkWQXCYk"
+				},
+				{
+					"content_versions": "v1.2.1-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/6QhjdE9r/MissingWilds-quilt-1.2.1%2B1.20.1.jar",
+					"version": "6QhjdE9r"
+				},
+				{
+					"content_versions": "v1.2.1-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "dynamic-asset-generator"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/CUyy6u4Y/MissingWilds-forge-1.2.1%2B1.20.1.jar",
+					"version": "CUyy6u4Y"
+				},
+				{
+					"content_versions": "v1.2.1-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/FU3pQpFT/MissingWilds-fabric-1.2.1%2B1.20.1.jar",
+					"version": "FU3pQpFT"
+				},
+				{
+					"content_versions": "v1.2.0-1.20.1",
+					"minecraft_versions": [
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "dynamic-asset-generator"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/7Ur35xRv/MissingWilds-forge-1.2.0%2B1.20.1.jar",
+					"version": "7Ur35xRv"
+				},
+				{
+					"content_versions": "v1.2.0-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/w0XKjr7B/MissingWilds-quilt-1.2.0%2B1.20.1.jar",
+					"version": "w0XKjr7B"
+				},
+				{
+					"content_versions": "v1.2.0-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/ppVcErow/MissingWilds-fabric-1.2.0%2B1.20.1.jar",
+					"version": "ppVcErow"
+				},
+				{
+					"content_versions": "v1.2.0-beta.7-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/vMRESHaS/MissingWilds-fabric-1.20.1-1.2.0-beta.7.jar",
+					"version": "vMRESHaS"
+				},
+				{
+					"content_versions": "v1.2.0-beta.7-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/kWHcf5XI/MissingWilds-quilt-1.20.1-1.2.0-beta.7.jar",
+					"version": "kWHcf5XI"
+				},
+				{
+					"content_versions": "v1.2.0-beta.6-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/6yYHbif8/MissingWilds-fabric-1.20.1-1.2.0-beta.6.jar",
+					"version": "6yYHbif8"
+				},
+				{
+					"content_versions": "v1.2.0-beta.6-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/TYbWppp0/MissingWilds-quilt-1.20.1-1.2.0-beta.6.jar",
+					"version": "TYbWppp0"
+				},
+				{
+					"content_versions": "v1.2.0-beta.5-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/mTWkowcZ/MissingWilds-fabric-1.20.1-1.2.0-beta.5.jar",
+					"version": "mTWkowcZ"
+				},
+				{
+					"content_versions": "v1.2.0-beta.5-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/2WyDYFXS/MissingWilds-quilt-1.20.1-1.2.0-beta.5.jar",
+					"version": "2WyDYFXS"
+				},
+				{
+					"content_versions": "v1.2.0-beta.4-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/PuSQKUFe/MissingWilds-quilt-1.20.1-1.2.0-beta.4.jar",
+					"version": "PuSQKUFe"
+				},
+				{
+					"content_versions": "v1.2.0-beta.3-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/mTNXLZSF/MissingWilds-fabric-1.20.1-1.2.0-beta.3.jar",
+					"version": "mTNXLZSF"
+				},
+				{
+					"content_versions": "v1.2.0-beta.3-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/1rV0TzcL/MissingWilds-quilt-1.20.1-1.2.0-beta.3.jar",
+					"version": "1rV0TzcL"
+				},
+				{
+					"content_versions": "v1.2.0-beta.2-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/McZRLQ6v/MissingWilds-quilt-1.20.1-1.2.0-beta.2.jar",
+					"version": "McZRLQ6v"
+				},
+				{
+					"content_versions": "v1.2.0-beta.2-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/KE1DqY72/MissingWilds-fabric-1.20.1-1.2.0-beta.2.jar",
+					"version": "KE1DqY72"
+				},
+				{
+					"content_versions": "v1.2.0-beta.2-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/zWtapWEe/MissingWilds-quilt-1.19.4-1.2.0-beta.2.jar",
+					"version": "zWtapWEe"
+				},
+				{
+					"content_versions": "v1.2.0-beta.2-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/nAQ2r6zt/MissingWilds-forge-1.19.4-1.2.0-beta.2.jar",
+					"version": "nAQ2r6zt"
+				},
+				{
+					"content_versions": "v1.2.0-beta.2-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/ol6qGuRB/MissingWilds-fabric-1.19.4-1.2.0-beta.2.jar",
+					"version": "ol6qGuRB"
+				},
+				{
+					"content_versions": "v1.2.0-beta.2-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/q1Z1ov2J/MissingWilds-quilt-1.19.2-1.2.0-beta.2.jar",
+					"version": "q1Z1ov2J"
+				},
+				{
+					"content_versions": "v1.2.0-beta.2-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/YKlkpfeY/MissingWilds-forge-1.19.2-1.2.0-beta.2.jar",
+					"version": "YKlkpfeY"
+				},
+				{
+					"content_versions": "v1.2.0-beta.2-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/4cTlUzWV/MissingWilds-fabric-1.19.2-1.2.0-beta.2.jar",
+					"version": "4cTlUzWV"
+				},
+				{
+					"content_versions": "v1.2.0-beta.1-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/YtPVa5V0/MissingWilds-quilt-1.19.4-1.2.0-beta.1.jar",
+					"version": "YtPVa5V0"
+				},
+				{
+					"content_versions": "v1.2.0-beta.1-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/K44UJtlI/MissingWilds-forge-1.19.4-1.2.0-beta.1.jar",
+					"version": "K44UJtlI"
+				},
+				{
+					"content_versions": "v1.2.0-beta.1-1.19.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/WwLNA9vO/MissingWilds-fabric-1.19.4-1.2.0-beta.1.jar",
+					"version": "WwLNA9vO"
+				},
+				{
+					"content_versions": "v1.2.0-beta.1-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "quilt",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/tEJFvR4T/MissingWilds-quilt-1.19.2-1.2.0-beta.1.jar",
+					"version": "tEJFvR4T"
+				},
+				{
+					"content_versions": "v1.2.0-beta.1-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/pKVAdkWH/MissingWilds-forge-1.19.2-1.2.0-beta.1.jar",
+					"version": "pKVAdkWH"
+				},
+				{
+					"content_versions": "v1.2.0-beta.1-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "arrp"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/Qp4mzcwz/MissingWilds-fabric-1.19.2-1.2.0-beta.1.jar",
+					"version": "Qp4mzcwz"
+				},
+				{
+					"content_versions": "1.1.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/AqrTbFlu/MissingWilds-forge-1.19.4-1.1.4.jar",
+					"version": "AqrTbFlu"
+				},
+				{
+					"content_versions": "1.1.4",
+					"minecraft_versions": "1.19.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/if4FKoj6/MissingWilds-fabric-1.19.4-1.1.4.jar",
+					"version": "if4FKoj6"
+				},
+				{
+					"content_versions": "1.1.3",
+					"minecraft_versions": "1.19.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/gekGJBUM/MissingWilds-fabric-1.19.3-1.1.3.jar",
+					"version": "gekGJBUM"
+				},
+				{
+					"content_versions": "v1.1.3",
+					"minecraft_versions": "1.19.3",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/zsWgYniU/MissingWilds-forge-1.19.3-1.1.3.jar",
+					"version": "zsWgYniU"
+				},
+				{
+					"content_versions": "v1.1.2",
+					"minecraft_versions": [
+						"1.19",
+						"1.19.1",
+						"1.19.2"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.1.2-FABRIC/MissingWilds-fabric-1.19-1.1.2.jar",
+					"version": "9A6JOWnF"
+				},
+				{
+					"content_versions": "v1.1.1",
+					"minecraft_versions": "1.19",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.1.1-FORGE/MissingWilds-forge-1.19-1.1.1.jar",
+					"version": "E6XEbizt"
+				},
+				{
+					"content_versions": "v1.1.1",
+					"minecraft_versions": "1.19",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.1.1-FABRIC/MissingWilds-fabric-1.19-1.1.1.jar",
+					"version": "x6jMLOOm"
+				},
+				{
+					"content_versions": "v1.1.0",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.1.0-FORGE/MissingWilds-forge-1.18.2-1.1.0.jar",
+					"version": "szQITYw5"
+				},
+				{
+					"content_versions": "v1.1.0",
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.1.0-FABRIC/MissingWIlds-fabric-1.18.2-1.1.0.jar",
+					"version": "UoZjeXyw"
+				},
+				{
+					"content_versions": "v1.1.0-BETA",
+					"minecraft_versions": "1.18.2",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.1.0-BETA/Missing.Wilds-fabric-1.18.2-1.1.0-BETA.jar",
+					"version": "vy19p9S2"
+				},
+				{
+					"content_versions": "v1.0.1",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.0.1/missingwilds-1.0.1.jar",
+					"version": "9da5SUUE"
+				},
+				{
+					"content_versions": "v1.0.0",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.0.0/missingwilds-1.0.0.jar",
+					"version": "1BAH1Fmm"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"UltrusBot"
+		],
+		"banner": "https://cdn.modrinth.com/data/Nw0MStSd/images/72cb3143bbe9d7298a0a929d270e3dd9d1884216_350.webp",
+		"description": "Adds the features that were scrapped from the Wild Update",
+		"documentation": "https://missingwilds.ultrusmods.me/en/latest/",
+		"gallery": [
+			"https://cdn.modrinth.com/data/Nw0MStSd/images/71270370114b2bc96a64d852c12bddc8793e26b0_350.webp",
+			"https://cdn.modrinth.com/data/Nw0MStSd/images/72cb3143bbe9d7298a0a929d270e3dd9d1884216_350.webp",
+			"https://cdn.modrinth.com/data/Nw0MStSd/images/b473d57c8a781384532bd6f2241274216d4ba597_350.webp",
+			"https://cdn.modrinth.com/data/Nw0MStSd/images/d38ce8ee77a81dc82cb0b20cf30f23f8aa71c9ee_350.webp",
+			"https://cdn.modrinth.com/data/Nw0MStSd/images/fa1211414ae5c554acb938a17dfca958cfc61bc8_350.webp"
+		],
+		"icon": "https://cdn.modrinth.com/data/Nw0MStSd/dd3f9234f28ce89671d09ffd51fd019fe360cc37_96.webp",
+		"issues": "https://github.com/UltrusBot/missing-wilds/issues",
+		"license": "MIT",
+		"long_description": "<p style=\"text-align: center\"><img src=\"https://www.bisecthosting.com/images/CF/Missing_Wilds/BH_MW_header.webp\" alt=\"Missing Wilds\" width=\"1050\" height=\"337.5\" /></p>\n\nAdding what was missing from the wild update into the game!\n\n\n<img src=\"https://www.bisecthosting.com/images/CF/Missing_Wilds/BH_MW_banner1.webp\"/>\n\nThis mod runs on fabric and quilt, and forge.\n\n\nMissing Wilds adds the features scrapped / removed from the wild update. These features include:\n- Better Birch Biomes, with taller trees decorated with polypores and fallen logs scattered throughout.\n- Fallen Logs, which are hollow and can be crawled through, and can be made out of any logs.\n- Polypore Mushrooms, which grow on the sides of the birch trees. They can even be cooked and eaten.\n- Forget Me Not flowers which grow in patches throughout the birch forest.\n- Tall Sweetspire flowers that are found throughout the birch forest.\n- Fireflies, which can be collected in jars for beautiful lighting and ambience.\n- Jars which can store fireflies, food, and even more in future updates.\n\n\n<img src=\"https://www.bisecthosting.com/images/CF/Missing_Wilds/BH_MW_banner2.webp\"/>\n\nMissing Wilds has some built-in mod support adding fallen logs from other mods logs. Some of the supported mods are:\n- Traverse\n- Oh The Biomes You'll Go Refabricated\n- Blockus\n- Promenade\n- Charm\n- Biome Makeover\n- Ecologics\n- Aether\n- Biomes O' Plenty\n- You can suggest more mods to support on github, or the discord.\n\nA list of the mod compatability with the features added by it can be found [here](https://missingwilds.ultrusmods.me/en/latest/mod_compat/)\n\n\n\n<img src=\"https://www.bisecthosting.com/images/CF/Missing_Wilds/BH_MW_banner3.webp\"/>\n\n<div style=\"text-align: center\"><p><a href=\"https://discord.gg/zUFbbVVjbB\"><img src=\"https://github.com/UltrusBot/Images/blob/main/discord.png?raw=true\" alt=\"discord.gg/zUFbbVVjbB\" width=\"229\" height=\"80\" /></a><a href=\"https://www.youtube.com/c/UltrusBot\"><img src=\"https://github.com/UltrusBot/Images/blob/main/youtube.png?raw=true\" alt=\"https://www.youtube.com/c/UltrusBot\" width=\"229\" height=\"80\" /></a></p></div>\n<p style=\"text-align: center\"><a href=\"https://bisecthosting.com/Ultrus\"><img src=\"https://www.bisecthosting.com/images/CF/Missing_Wilds/BH_MW_promo.webp\" alt=\"BisectHostingCode: Ultrus\"/></a></p>\n",
+		"name": "Missing Wilds",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/UltrusBot/missing-wilds",
+		"support_link": "https://ko-fi.com/ultrusmods"
+	},
+	"properties": {
+		"content_versions": [
+			"1.4.0-beta-1.21.1",
+			"1.4.0-beta-1.21.1-neo",
+			"1.3.3-1.21",
+			"1.3.2-1.21-neo",
+			"1.3.1-1.21",
+			"1.3.1-1.21-neo",
+			"1.3.0-1.21",
+			"1.3.0-1.21-neo",
+			"v1.2.1-1.20.1",
+			"v1.2.0-1.20.1",
+			"v1.2.0-beta.7-1.20.1",
+			"v1.2.0-beta.6-1.20.1",
+			"v1.2.0-beta.5-1.20.1",
+			"v1.2.0-beta.4-1.20.1",
+			"v1.2.0-beta.3-1.20.1",
+			"v1.2.0-beta.2-1.20.1",
+			"v1.2.0-beta.2-1.19.4",
+			"v1.2.0-beta.2-1.19.2",
+			"v1.2.0-beta.1-1.19.4",
+			"v1.2.0-beta.1-1.19.2",
+			"1.1.4",
+			"1.1.3",
+			"v1.1.3",
+			"v1.1.2",
+			"v1.1.1",
+			"v1.1.0",
+			"v1.1.0-BETA",
+			"v1.0.1",
+			"v1.0.0"
+		],
+		"modrinth_id": "Nw0MStSd",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.18.2",
+			"1.19",
+			"1.19.1",
+			"1.19.2",
+			"1.19.3",
+			"1.19.4",
+			"1.20",
+			"1.20.1",
+			"1.20.2",
+			"1.21",
+			"1.21.1"
+		]
+	}
+}

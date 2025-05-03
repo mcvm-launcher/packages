@@ -1,13 +1,31 @@
 {
 	"source": "modrinth",
 	"id": "REfW2AEX",
-	"relation_substitutions": {},
+	"relation_substitutions": {
+		"6IpcGP7T": "none"
+	},
 	"merge": {
 		"meta": {},
 		"properties": {
 			"supported_modloaders": [
 				"fabriclike",
 				"forgelike"
+			]
+		},
+		"relations": {
+			"compats": [
+				[
+					"emi",
+					"invmove-compats"
+				],
+				[
+					"rei",
+					"invmove-compats"
+				],
+				[
+					"jei",
+					"invmove-compats"
+				]
 			]
 		}
 	}

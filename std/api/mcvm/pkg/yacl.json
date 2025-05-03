@@ -4,6 +4,974 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.6.6-1.21.5-neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/uyCELnjo/yet_another_config_lib_v3-3.6.6%2B1.21.5-neoforge.jar",
+					"version": "uyCELnjo"
+				},
+				{
+					"content_versions": "3.6.6-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/sCWgXDYQ/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
+					"version": "sCWgXDYQ"
+				},
+				{
+					"content_versions": "3.6.6-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar",
+					"version": "dvS5DjUA"
+				},
+				{
+					"content_versions": "3.6.6-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/xBXboBnE/yet_another_config_lib_v3-3.6.6%2B1.20.4-fabric.jar",
+					"version": "xBXboBnE"
+				},
+				{
+					"content_versions": "3.6.6-1.20.4-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7xuP5E9e/yet_another_config_lib_v3-3.6.6%2B1.20.4-neoforge.jar",
+					"version": "7xuP5E9e"
+				},
+				{
+					"content_versions": "3.6.6-1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/PCMRFynj/yet_another_config_lib_v3-3.6.6%2B1.20.6-fabric.jar",
+					"version": "PCMRFynj"
+				},
+				{
+					"content_versions": "3.6.6-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/mHeau9Ek/yet_another_config_lib_v3-3.6.6%2B1.21.3-fabric.jar",
+					"version": "mHeau9Ek"
+				},
+				{
+					"content_versions": "3.6.6-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/XeXZrziK/yet_another_config_lib_v3-3.6.6%2B1.21.4-fabric.jar",
+					"version": "XeXZrziK"
+				},
+				{
+					"content_versions": "3.6.6-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/5yBEzonb/yet_another_config_lib_v3-3.6.6%2B1.21.5-fabric.jar",
+					"version": "5yBEzonb"
+				},
+				{
+					"content_versions": "3.6.6-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/equv2TRU/yet_another_config_lib_v3-3.6.6%2B1.21.1-fabric.jar",
+					"version": "equv2TRU"
+				},
+				{
+					"content_versions": "3.6.6-1.20.6-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/oSxS9XbH/yet_another_config_lib_v3-3.6.6%2B1.20.6-neoforge.jar",
+					"version": "oSxS9XbH"
+				},
+				{
+					"content_versions": "3.6.6-1.21.1-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/ACDNgCDA/yet_another_config_lib_v3-3.6.6%2B1.21.1-neoforge.jar",
+					"version": "ACDNgCDA"
+				},
+				{
+					"content_versions": "3.6.6-1.21.4-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/RvW4E8OR/yet_another_config_lib_v3-3.6.6%2B1.21.4-neoforge.jar",
+					"version": "RvW4E8OR"
+				},
+				{
+					"content_versions": "3.6.6-1.21.3-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/eOTnMlJ6/yet_another_config_lib_v3-3.6.6%2B1.21.3-neoforge.jar",
+					"version": "eOTnMlJ6"
+				},
+				{
+					"content_versions": "3.6.5-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/KN3TLTr4/yet_another_config_lib_v3-3.6.5%2B1.20.1-forge.jar",
+					"version": "KN3TLTr4"
+				},
+				{
+					"content_versions": "3.6.5-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/WbNpnXcF/yet_another_config_lib_v3-3.6.5%2B1.20.1-fabric.jar",
+					"version": "WbNpnXcF"
+				},
+				{
+					"content_versions": "3.6.5-1.20.4-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/8vlgP4zE/yet_another_config_lib_v3-3.6.5%2B1.20.4-neoforge.jar",
+					"version": "8vlgP4zE"
+				},
+				{
+					"content_versions": "3.6.5-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/2MuykWUS/yet_another_config_lib_v3-3.6.5%2B1.20.4-fabric.jar",
+					"version": "2MuykWUS"
+				},
+				{
+					"content_versions": "3.6.5-1.20.6-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/SHCusVSt/yet_another_config_lib_v3-3.6.5%2B1.20.6-neoforge.jar",
+					"version": "SHCusVSt"
+				},
+				{
+					"content_versions": "3.6.5-1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/fOW6d7Rp/yet_another_config_lib_v3-3.6.5%2B1.20.6-fabric.jar",
+					"version": "fOW6d7Rp"
+				},
+				{
+					"content_versions": "3.6.5-1.21.1-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/XoVxAvc2/yet_another_config_lib_v3-3.6.5%2B1.21.1-neoforge.jar",
+					"version": "XoVxAvc2"
+				},
+				{
+					"content_versions": "3.6.5-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/BMVCssHI/yet_another_config_lib_v3-3.6.5%2B1.21.1-fabric.jar",
+					"version": "BMVCssHI"
+				},
+				{
+					"content_versions": "3.6.5-1.21.3-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/iW8SNpjh/yet_another_config_lib_v3-3.6.5%2B1.21.3-neoforge.jar",
+					"version": "iW8SNpjh"
+				},
+				{
+					"content_versions": "3.6.5-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/TB4VxY7q/yet_another_config_lib_v3-3.6.5%2B1.21.3-fabric.jar",
+					"version": "TB4VxY7q"
+				},
+				{
+					"content_versions": "3.6.5-1.21.5",
+					"minecraft_versions": "1.21.5-pre2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/N8BEH8su/yet_another_config_lib_v3-3.6.5%2B1.21.5-fabric.jar",
+					"version": "N8BEH8su"
+				},
+				{
+					"content_versions": "3.6.5-1.21.4-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/ZD4qkUCB/yet_another_config_lib_v3-3.6.5%2B1.21.4-neoforge.jar",
+					"version": "ZD4qkUCB"
+				},
+				{
+					"content_versions": "3.6.5-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/XbXdhxJQ/yet_another_config_lib_v3-3.6.5%2B1.21.4-fabric.jar",
+					"version": "XbXdhxJQ"
+				},
+				{
+					"content_versions": "3.6.4-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Z34WRRoh/yet_another_config_lib_v3-3.6.4%2B1.20.1-forge.jar",
+					"version": "Z34WRRoh"
+				},
+				{
+					"content_versions": "3.6.4-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/bfMUNH5J/yet_another_config_lib_v3-3.6.4%2B1.20.1-fabric.jar",
+					"version": "bfMUNH5J"
+				},
+				{
+					"content_versions": "3.6.4-1.20.4-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/1HCuwggY/yet_another_config_lib_v3-3.6.4%2B1.20.4-neoforge.jar",
+					"version": "1HCuwggY"
+				},
+				{
+					"content_versions": "3.6.4-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cvImGHtR/yet_another_config_lib_v3-3.6.4%2B1.20.4-fabric.jar",
+					"version": "cvImGHtR"
+				},
+				{
+					"content_versions": "3.6.4-1.20.6-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/NdKizYOg/yet_another_config_lib_v3-3.6.4%2B1.20.6-neoforge.jar",
+					"version": "NdKizYOg"
+				},
+				{
+					"content_versions": "3.6.4-1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/XEiohqZg/yet_another_config_lib_v3-3.6.4%2B1.20.6-fabric.jar",
+					"version": "XEiohqZg"
+				},
+				{
+					"content_versions": "3.6.4-1.21.1-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/1jGsUG9H/yet_another_config_lib_v3-3.6.4%2B1.21.1-neoforge.jar",
+					"version": "1jGsUG9H"
+				},
+				{
+					"content_versions": "3.6.4-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/J3PB7Og6/yet_another_config_lib_v3-3.6.4%2B1.21.1-fabric.jar",
+					"version": "J3PB7Og6"
+				},
+				{
+					"content_versions": "3.6.4-1.21.3-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pbxW1jnh/yet_another_config_lib_v3-3.6.4%2B1.21.3-neoforge.jar",
+					"version": "pbxW1jnh"
+				},
+				{
+					"content_versions": "3.6.4-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/JqKJBKgz/yet_another_config_lib_v3-3.6.4%2B1.21.3-fabric.jar",
+					"version": "JqKJBKgz"
+				},
+				{
+					"content_versions": "3.6.4-1.21.5",
+					"minecraft_versions": "1.21.5-pre2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/sv3JfGCo/yet_another_config_lib_v3-3.6.4%2B1.21.5-fabric.jar",
+					"version": "sv3JfGCo"
+				},
+				{
+					"content_versions": "3.6.4-1.21.4-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/gUD16yld/yet_another_config_lib_v3-3.6.4%2B1.21.4-neoforge.jar",
+					"version": "gUD16yld"
+				},
+				{
+					"content_versions": "3.6.4-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/jX8BiV3k/yet_another_config_lib_v3-3.6.4%2B1.21.4-fabric.jar",
+					"version": "jX8BiV3k"
+				},
+				{
+					"content_versions": "3.6.3-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/yrYPPc63/yet_another_config_lib_v3-3.6.3%2B1.20.4-fabric.jar",
+					"version": "yrYPPc63"
+				},
+				{
+					"content_versions": "3.6.3-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/In9neXQ3/yet_another_config_lib_v3-3.6.3%2B1.21.3-fabric.jar",
+					"version": "In9neXQ3"
+				},
+				{
+					"content_versions": "3.6.3-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/kkPxieHD/yet_another_config_lib_v3-3.6.3%2B1.20.1-fabric.jar",
+					"version": "kkPxieHD"
+				},
+				{
+					"content_versions": "3.6.3-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/4PdMGo3P/yet_another_config_lib_v3-3.6.3%2B1.21.4-fabric.jar",
+					"version": "4PdMGo3P"
+				},
+				{
+					"content_versions": "3.6.3-1.20.4-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/479sfekG/yet_another_config_lib_v3-3.6.3%2B1.20.4-neoforge.jar",
+					"version": "479sfekG"
+				},
+				{
+					"content_versions": "3.6.3-1.20.6-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/wIRu2SEH/yet_another_config_lib_v3-3.6.3%2B1.20.6-neoforge.jar",
+					"version": "wIRu2SEH"
+				},
+				{
+					"content_versions": "3.6.3-1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/EU5MKMQQ/yet_another_config_lib_v3-3.6.3%2B1.20.6-fabric.jar",
+					"version": "EU5MKMQQ"
+				},
+				{
+					"content_versions": "3.6.3-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/yY173HWg/yet_another_config_lib_v3-3.6.3%2B1.21.1-fabric.jar",
+					"version": "yY173HWg"
+				},
+				{
+					"content_versions": "3.6.3-1.21.3-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/eZawmC6O/yet_another_config_lib_v3-3.6.3%2B1.21.3-neoforge.jar",
+					"version": "eZawmC6O"
+				},
+				{
+					"content_versions": "3.6.3-1.21.4-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/d8PQvEwL/yet_another_config_lib_v3-3.6.3%2B1.21.4-neoforge.jar",
+					"version": "d8PQvEwL"
+				},
+				{
+					"content_versions": "3.6.3-1.21.1-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/5APbkNF6/yet_another_config_lib_v3-3.6.3%2B1.21.1-neoforge.jar",
+					"version": "5APbkNF6"
+				},
+				{
+					"content_versions": "3.6.2-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/yDSgD8Iz/YetAnotherConfigLib-3.6.2%2B1.20.1-fabric.jar",
+					"version": "yDSgD8Iz"
+				},
+				{
+					"content_versions": "3.6.2-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/bxECa7VA/YetAnotherConfigLib-3.6.2%2B1.20.4-fabric.jar",
+					"version": "bxECa7VA"
+				},
+				{
+					"content_versions": "3.6.2-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/PI0hRkb0/YetAnotherConfigLib-3.6.2%2B1.20.1-forge.jar",
+					"version": "PI0hRkb0"
+				},
+				{
+					"content_versions": "3.6.2-1.20.4-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/9kiT28QY/YetAnotherConfigLib-3.6.2%2B1.20.4-neoforge.jar",
+					"version": "9kiT28QY"
+				},
+				{
+					"content_versions": "3.6.2-1.20.6-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/n9bPef7m/YetAnotherConfigLib-3.6.2%2B1.20.6-neoforge.jar",
+					"version": "n9bPef7m"
+				},
+				{
+					"content_versions": "3.6.2-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/iu96ISLv/YetAnotherConfigLib-3.6.2%2B1.21-fabric.jar",
+					"version": "iu96ISLv"
+				},
+				{
+					"content_versions": "3.6.2-1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/bMaDkSXq/YetAnotherConfigLib-3.6.2%2B1.20.6-fabric.jar",
+					"version": "bMaDkSXq"
+				},
+				{
+					"content_versions": "3.6.2-1.21.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/TOvVcn1z/YetAnotherConfigLib-3.6.2%2B1.21.2-fabric.jar",
+					"version": "TOvVcn1z"
+				},
+				{
+					"content_versions": "3.6.2-1.21.2-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/geakVWB5/YetAnotherConfigLib-3.6.2%2B1.21.2-neoforge.jar",
+					"version": "geakVWB5"
+				},
+				{
+					"content_versions": "3.6.2-1.21-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/MCJlLTYc/YetAnotherConfigLib-3.6.2%2B1.21-neoforge.jar",
+					"version": "MCJlLTYc"
+				},
+				{
+					"content_versions": "3.6.2-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/VtWuZoXP/YetAnotherConfigLib-3.6.2%2B1.21.4-fabric.jar",
+					"version": "VtWuZoXP"
+				},
+				{
+					"content_versions": "3.6.2-1.21.4-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/IECszfbl/YetAnotherConfigLib-3.6.2%2B1.21.4-neoforge.jar",
+					"version": "IECszfbl"
+				},
+				{
+					"content_versions": "3.6.1-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/nrWoaGZB/YetAnotherConfigLib-3.6.1%2B1.20.4-fabric.jar",
+					"version": "nrWoaGZB"
+				},
+				{
+					"content_versions": "3.6.1-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/nYfjbBJd/YetAnotherConfigLib-3.6.1%2B1.20.1-fabric.jar",
+					"version": "nYfjbBJd"
+				},
+				{
+					"content_versions": "3.6.1-1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/BYPuUVlm/YetAnotherConfigLib-3.6.1%2B1.20.6-fabric.jar",
+					"version": "BYPuUVlm"
+				},
+				{
+					"content_versions": "3.6.1-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/f9ZVX07g/YetAnotherConfigLib-3.6.1%2B1.21-fabric.jar",
+					"version": "f9ZVX07g"
+				},
+				{
+					"content_versions": "3.6.1-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/R3Sxv49H/YetAnotherConfigLib-3.6.1%2B1.20.1-forge.jar",
+					"version": "R3Sxv49H"
+				},
+				{
+					"content_versions": "3.6.1-1.21-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/TC62OAaO/YetAnotherConfigLib-3.6.1%2B1.21-neoforge.jar",
+					"version": "TC62OAaO"
+				},
+				{
+					"content_versions": "3.6.1-1.20.6-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/gghJ3kOy/YetAnotherConfigLib-3.6.1%2B1.20.6-neoforge.jar",
+					"version": "gghJ3kOy"
+				},
+				{
+					"content_versions": "3.6.1-1.20.4-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/8vBjGVX8/YetAnotherConfigLib-3.6.1%2B1.20.4-neoforge.jar",
+					"version": "8vBjGVX8"
+				},
+				{
+					"content_versions": "3.6.1-1.21.2-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/QOOfByC6/YetAnotherConfigLib-3.6.1%2B1.21.2-neoforge.jar",
+					"version": "QOOfByC6"
+				},
+				{
+					"content_versions": "3.6.1-1.21.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/HlJ8azv1/YetAnotherConfigLib-3.6.1%2B1.21.2-fabric.jar",
+					"version": "HlJ8azv1"
+				},
+				{
+					"content_versions": "3.6.0-1.20.4",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/WKFetSnp/YetAnotherConfigLib-3.6.0%2B1.20.4-fabric.jar",
+					"version": "WKFetSnp"
+				},
+				{
+					"content_versions": "3.6.0-1.20.6",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/AAvOQ5xy/YetAnotherConfigLib-3.6.0%2B1.20.6-fabric.jar",
+					"version": "AAvOQ5xy"
+				},
+				{
+					"content_versions": "3.6.0-1.20.4-neo",
+					"minecraft_versions": "1.20.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/JtyrFSor/YetAnotherConfigLib-3.6.0%2B1.20.4-neoforge.jar",
+					"version": "JtyrFSor"
+				},
+				{
+					"content_versions": "3.6.0-1.20.6-neo",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/ORSMwyh9/YetAnotherConfigLib-3.6.0%2B1.20.6-neoforge.jar",
+					"version": "ORSMwyh9"
+				},
+				{
+					"content_versions": "3.6.0-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/wUxT9toF/YetAnotherConfigLib-3.6.0%2B1.21-fabric.jar",
+					"version": "wUxT9toF"
+				},
+				{
+					"content_versions": "3.6.0-1.21-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pV6YTxUa/YetAnotherConfigLib-3.6.0%2B1.21-neoforge.jar",
+					"version": "pV6YTxUa"
+				},
+				{
+					"content_versions": "3.6.0-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/N8IUa6T3/YetAnotherConfigLib-3.6.0%2B1.20.1-forge.jar",
+					"version": "N8IUa6T3"
+				},
+				{
+					"content_versions": "3.6.0-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/uvooYjoA/YetAnotherConfigLib-3.6.0%2B1.20.1-fabric.jar",
+					"version": "uvooYjoA"
+				},
+				{
+					"content_versions": "3.6.0-1.21.2",
+					"minecraft_versions": "1.21.2",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/TQN6aweQ/YetAnotherConfigLib-3.6.0%2B1.21.2-fabric.jar",
+					"version": "TQN6aweQ"
+				},
+				{
 					"content_versions": "3.5.0-1.21-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -1581,7 +2549,7 @@
 		"authors": [
 			"isxander"
 		],
-		"banner": "https://cdn.modrinth.com/data/1eAoo2KR/images/f5f6bdad06350bc34c8a207df242705660231e8a.png",
+		"banner": "https://cdn.modrinth.com/data/1eAoo2KR/images/5862570281f5109119c11f21a1bba52b6a2ab17f_350.webp",
 		"categories": [
 			"library",
 			"technical"
@@ -1590,25 +2558,101 @@
 		"description": "A builder-based configuration library for Minecraft.",
 		"documentation": "https://docs.isxander.dev/yet-another-config-lib",
 		"gallery": [
-			"https://cdn.modrinth.com/data/1eAoo2KR/images/f5f6bdad06350bc34c8a207df242705660231e8a.png",
-			"https://cdn.modrinth.com/data/1eAoo2KR/images/2f8ecdf72f4dabd147feeb53676e295a134a8b80.png"
+			"https://cdn.modrinth.com/data/1eAoo2KR/images/5862570281f5109119c11f21a1bba52b6a2ab17f_350.webp",
+			"https://cdn.modrinth.com/data/1eAoo2KR/images/f97396ba8c473c899cd979119494fe5bf3b99e4b_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/1eAoo2KR/1e43d5714f87ac6b20622e73b3ba7209be5ebafb.png",
+		"icon": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
 		"issues": "https://github.com/isXander/YetAnotherConfigLib/issues",
 		"keywords": [
 			"config"
 		],
 		"license": "LGPL-3.0-or-later",
-		"long_description": "# YetAnotherConfigLib\n\n![Enviroment](https://img.shields.io/badge/Enviroment-Client-purple)\n[![Java 17](https://img.shields.io/badge/Language-Java%2017-9B599A.svg?color=orange)](https://www.oracle.com/news/announcement/oracle-releases-java-17-2021-09-14)\n[![Discord](https://img.shields.io/discord/780023008668287017?color=blue&logo=discord&label=Discord)](https://short.isxander.dev/discord)\n\n[![Modrinth](https://img.shields.io/modrinth/dt/1eAoo2KR?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/mod/yacl)\n[![CurseForge](https://cf.way2muchnoise.eu/full_667299_downloads.svg)](https://curseforge.com/minecraft/mc-mods/yacl)\n\n[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/isxander)\n\nYet Another Config Lib, like, what were you expecting?\n  \n[![](https://www.bisecthosting.com/partners/custom-banners/08bbd3ff-5c0d-4480-8738-de0f070a04dd.png)](https://bisecthosting.com/xander)\n\n## Why does this mod even exist?\n\nThis mod was made to fill a hole in this area of Fabric modding. The existing main config libraries don't achieve what I want from them:\n\n- **[Cloth Config API](https://modrinth.com/mod/cloth-config)**: **It's stale.** The developer of cloth has clarified that they are likely not going to add any more features. They don't want to touch it. ([citation](https://user-images.githubusercontent.com/43245524/206530322-3ae46008-5356-468e-9a73-63b859364d4e.png))\n- **[SpruceUI](https://github.com/LambdAurora/SpruceUI)**: **It isn't designed for configuration.** In this essence the design feels cluttered. Further details available in [this issue](https://github.com/isXander/Zoomify/issues/85).\n- **[MidnightLib](https://modrinth.com/mod/midnightlib)**: **It has cosmetics among other utilities.** It may not be large but some players (including me) wouldn't want cosmetics out of nowhere.\n- **[OwoLib](https://modrinth.com/mod/owo-lib)**: **It's content focused.** It does a lot of other things as well as config, adding to the size.\n\nAs you can see, there's sadly a drawback with all of them and this is where YetAnotherConfigLib comes in.\n\n## How is YACL better?\n\nYACL has the favour of hindsight. Whilst developing this fresh library, I can make sure that it does everything right:\n\n- **Easy API.** YACL takes inspiration from [Sodium's](https://modrinth.com/mod/sodium) internal configuration library.\n- **It's styled to fit in Minecraft.** YACL's GUI is designed to fit right in.\n\n## Usage\n\n[The wiki](https://github.com/isXander/YetAnotherConfigLib/wiki/Usage) contains a full documentation on how to use YACL.\n\n## Screenshots\n\n<center><div align=\"center\">\n\n![java_A3zdbksGkC](https://user-images.githubusercontent.com/43245524/206924832-293b0780-2a8c-4b09-8765-155318d09ed9.png)\n\n</div></center>\n\n## License\n\nThis mod is under the [GNU Lesser General Public License, v3.0](LICENSE).\n",
-		"name": "YetAnotherConfigLib",
+		"long_description": "# YetAnotherConfigLib\n\n![Enviroment](https://img.shields.io/badge/Enviroment-Client-purple)\n[![Java 17](https://img.shields.io/badge/Language-Java%2017-9B599A.svg?color=orange)](https://www.oracle.com/news/announcement/oracle-releases-java-17-2021-09-14)\n[![Discord](https://img.shields.io/discord/780023008668287017?color=blue&logo=discord&label=Discord)](https://short.isxander.dev/discord)\n\n[![Modrinth](https://img.shields.io/modrinth/dt/1eAoo2KR?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/mod/yacl)\n[![CurseForge](https://cf.way2muchnoise.eu/full_667299_downloads.svg)](https://curseforge.com/minecraft/mc-mods/yacl)\n\n[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/isxander)\n\nYet Another Config Lib, like, what were you expecting?\n  \n[![](https://www.bisecthosting.com/partners/custom-banners/08bbd3ff-5c0d-4480-8738-de0f070a04dd.png)](https://bisecthosting.com/xander)\n\n## Why does this mod even exist?\n\nThis mod was made to fill a hole in this area of Fabric modding. The existing main config libraries don't achieve what I want from them:\n\n- **[Cloth Config API](https://modrinth.com/mod/cloth-config)**: **It's stale.** The developer of cloth has clarified that they are likely not going to add any more features. They don't want to touch it. ([citation](https://user-images.githubusercontent.com/43245524/206530322-3ae46008-5356-468e-9a73-63b859364d4e.png))\n- **[SpruceUI](https://github.com/LambdAurora/SpruceUI)**: **It isn't designed for configuration.** In this essence the design feels cluttered. Further details available in [this issue](https://github.com/isXander/Zoomify/issues/85).\n- **[MidnightLib](https://modrinth.com/mod/midnightlib)**: **It has cosmetics among other utilities.** It may not be large but some players (including me) wouldn't want cosmetics out of nowhere.\n- **[OwoLib](https://modrinth.com/mod/owo-lib)**: **It's content focused.** It does a lot of other things as well as config, adding to the size.\n\nAs you can see, there's sadly a drawback with all of them and this is where YetAnotherConfigLib comes in.\n\n## How is YACL better?\n\nYACL has the favour of hindsight. Whilst developing this fresh library, I can make sure that it does everything right:\n\n- **Easy API.** YACL takes inspiration from [Sodium's](https://modrinth.com/mod/sodium) internal configuration library.\n- **It's styled to fit in Minecraft.** YACL's GUI is designed to fit right in.\n\n## Features\n\nYACL has a ton of configuration features:\n\n- Custom control widgets\n  - Create your own unique \"controller\" if the default set does not suit your needs\n- Rich descriptions\n  - Clickable & hoverable text, powered by vanilla's Text component system\n  - WebP (including animated) image previews\n  - Custom rich-renderable section to replace image\n- Multiple controllers for the same type:\n  - Sliders or fields for numbers\n  - Dropdowns, cyclers, or raw text fields for strings\n  - Tickboxes or ON/OFF text display for booleans\n  - ...and more!\n- Fully-featured color picker\n- Accessible with full compatibility for keyboard control (optimised for Controlify usage)\n- High organisation with tabs (categories) and collapsable groups\n- Built-in serialization/deserialization techniques so you can skip the error-prone config code\n- Full alternative Kotlin DSL\n\n## Usage\n\n[The wiki](https://github.com/isXander/YetAnotherConfigLib/wiki/Usage) contains a full documentation on how to use YACL.\n\n## Screenshots\n\n<center><div align=\"center\">\n\n![image preview](https://cdn.modrinth.com/data/1eAoo2KR/images/5862570281f5109119c11f21a1bba52b6a2ab17f.png)\n\n</div></center>\n\n## License\n\nThis mod is under the [GNU Lesser General Public License, v3.0](LICENSE).\n",
+		"name": "YetAnotherConfigLib (YACL)",
 		"package_maintainers": [
 			"mcvm"
 		],
 		"source": "https://github.com/isXander/YetAnotherConfigLib",
-		"support_link": "https://ko-fi.com/isxander"
+		"support_link": "https://patreon.com/isxander"
 	},
 	"properties": {
 		"content_versions": [
+			"3.6.6-1.21.5",
+			"3.6.6-1.21.5-neo",
+			"3.6.6-1.21.4",
+			"3.6.6-1.21.4-neo",
+			"3.6.6-1.21.3",
+			"3.6.6-1.21.3-neo",
+			"3.6.6-1.21.1",
+			"3.6.6-1.21.1-neo",
+			"3.6.6-1.20.6",
+			"3.6.6-1.20.6-neo",
+			"3.6.6-1.20.4",
+			"3.6.6-1.20.4-neo",
+			"3.6.6-1.20.1",
+			"3.6.5-1.21.5",
+			"3.6.5-1.21.4",
+			"3.6.5-1.21.4-neo",
+			"3.6.5-1.21.3",
+			"3.6.5-1.21.3-neo",
+			"3.6.5-1.21.1",
+			"3.6.5-1.21.1-neo",
+			"3.6.5-1.20.6",
+			"3.6.5-1.20.6-neo",
+			"3.6.5-1.20.4",
+			"3.6.5-1.20.4-neo",
+			"3.6.5-1.20.1",
+			"3.6.4-1.21.5",
+			"3.6.4-1.21.4",
+			"3.6.4-1.21.4-neo",
+			"3.6.4-1.21.3",
+			"3.6.4-1.21.3-neo",
+			"3.6.4-1.21.1",
+			"3.6.4-1.21.1-neo",
+			"3.6.4-1.20.6",
+			"3.6.4-1.20.6-neo",
+			"3.6.4-1.20.4",
+			"3.6.4-1.20.4-neo",
+			"3.6.4-1.20.1",
+			"3.6.3-1.21.4",
+			"3.6.3-1.21.4-neo",
+			"3.6.3-1.21.3",
+			"3.6.3-1.21.3-neo",
+			"3.6.3-1.21.1",
+			"3.6.3-1.21.1-neo",
+			"3.6.3-1.20.6",
+			"3.6.3-1.20.6-neo",
+			"3.6.3-1.20.4",
+			"3.6.3-1.20.4-neo",
+			"3.6.3-1.20.1",
+			"3.6.2-1.21.2",
+			"3.6.2-1.21.2-neo",
+			"3.6.2-1.21",
+			"3.6.2-1.21-neo",
+			"3.6.2-1.21.4",
+			"3.6.2-1.21.4-neo",
+			"3.6.2-1.20.6",
+			"3.6.2-1.20.6-neo",
+			"3.6.2-1.20.4",
+			"3.6.2-1.20.4-neo",
+			"3.6.2-1.20.1",
+			"3.6.1-1.21",
+			"3.6.1-1.21-neo",
+			"3.6.1-1.21.2",
+			"3.6.1-1.21.2-neo",
+			"3.6.1-1.20.6",
+			"3.6.1-1.20.6-neo",
+			"3.6.1-1.20.4",
+			"3.6.1-1.20.4-neo",
+			"3.6.1-1.20.1",
+			"3.6.0-1.21",
+			"3.6.0-1.21-neo",
+			"3.6.0-1.21.2",
+			"3.6.0-1.20.6",
+			"3.6.0-1.20.6-neo",
+			"3.6.0-1.20.4",
+			"3.6.0-1.20.4-neo",
+			"3.6.0-1.20.1",
 			"3.5.0-1.21",
 			"3.5.0-1.21-neo",
 			"3.5.0-1.20.6",
@@ -1715,7 +2759,8 @@
 			"forgelike"
 		],
 		"supported_sides": [
-			"client"
+			"client",
+			"server"
 		],
 		"supported_versions": [
 			"1.19",
@@ -1736,7 +2781,13 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5-pre2",
+			"1.21.5"
 		]
 	}
 }

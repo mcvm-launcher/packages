@@ -4,6 +4,122 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.3.2-packaged",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXeEiQk1/versions/MkYLvjjx/tool-trims-packaged-v2.3.2.jar",
+					"version": "MkYLvjjx"
+				},
+				{
+					"content_versions": "2.3.1-packaged",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXeEiQk1/versions/5AOU0KMu/tool-trims-packaged-v2.3.1a.jar",
+					"version": "5AOU0KMu"
+				},
+				{
+					"content_versions": "2.3.0-packaged",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXeEiQk1/versions/91z6XtY3/tool-trims-packaged-v2.3.0a.jar",
+					"version": "91z6XtY3"
+				},
+				{
+					"content_versions": "2.2.2b-packaged",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXeEiQk1/versions/p2hdqYfr/tool-trims-packaged-v2.2.2b.jar",
+					"version": "p2hdqYfr"
+				},
+				{
+					"content_versions": "2.2.2-packaged",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXeEiQk1/versions/1xFynCV9/tool-trims-mod-v2-2-2a.jar",
+					"version": "1xFynCV9"
+				},
+				{
+					"content_versions": "2.2.1-mod",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"forgelike",
+						"neoforged",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/uXeEiQk1/versions/ycM3IKPy/tool-trims-mod-v2-2-1a.jar",
+					"version": "ycM3IKPy"
+				},
+				{
 					"content_versions": "2.2.0",
 					"minecraft_versions": [
 						"1.20",
@@ -261,18 +377,18 @@
 		"authors": [
 			"JoeFly"
 		],
-		"banner": "https://cdn.modrinth.com/data/uXeEiQk1/images/14e8fd02866bfca12312ef04d2ff4a986f644b91.png",
-		"description": "Allows you to trim weapons and tools. There are over 1200 combinations!",
+		"banner": "https://cdn.modrinth.com/data/uXeEiQk1/images/d2be197e23043a5a54cbdb71f8ac37a9cf629af7_350.webp",
+		"description": "Allows you to trim weapons and tools. There are over 1400 combinations!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/uXeEiQk1/images/14e8fd02866bfca12312ef04d2ff4a986f644b91.png",
-			"https://cdn.modrinth.com/data/uXeEiQk1/images/c607506eb865e0b918c72da8b103156c30eabbbf.png",
-			"https://cdn.modrinth.com/data/uXeEiQk1/images/1692186a11fdd24e6b64e29a3a231b12a7444fc7.png",
-			"https://cdn.modrinth.com/data/uXeEiQk1/images/42014c8e41a03483a29f15adb2d63cc9787719b7.png",
-			"https://cdn.modrinth.com/data/uXeEiQk1/images/9577d5a2c164f9d50b7736f50c24f259f7e9ca26.png"
+			"https://cdn.modrinth.com/data/uXeEiQk1/images/d2be197e23043a5a54cbdb71f8ac37a9cf629af7_350.webp",
+			"https://cdn.modrinth.com/data/uXeEiQk1/images/3dfc505b9491abb6c4c328a867cfd0acdb6f38b7_350.webp",
+			"https://cdn.modrinth.com/data/uXeEiQk1/images/bfa71330f7097cef39ad5deb52925e27e53a9af9_350.webp",
+			"https://cdn.modrinth.com/data/uXeEiQk1/images/68ffbe1502fb5d4487d953a970314f2adec632b7_350.webp",
+			"https://cdn.modrinth.com/data/uXeEiQk1/images/71e552963d3322af25968959ec508befa08d8fe9_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/uXeEiQk1/36aa146d96355af1aa0f96fd4d4789bce19d2310.gif",
+		"icon": "https://cdn.modrinth.com/data/uXeEiQk1/dcdb4ba890e3615f2e8552b6337537f178fda650_96.webp",
 		"license": "LicenseRef-All-Rights-Reserved",
-		"long_description": "<img src=\"https://imgur.com/EsiEyuj.png\" />\n\n<br>\n<br>\n  \n[<img src=\"https://imgur.com/7yFngIC.png\" width=\"95\" />](https://www.planetminecraft.com/data-pack/tool-trims-v1-1/)\n<img src=\"https://imgur.com/6QzuoqY.png\" width=\"45\" />\n[<img src=\"https://imgur.com/0P7IsNY.png\" width=\"140\" />](https://www.youtube.com/channel/UC7BiNDV1kaK5ehVzNA8wKPA)\n<img src=\"https://imgur.com/6QzuoqY.png\" width=\"45\" />\n[<img src=\"https://imgur.com/X0UZ2Jh.png\" width=\"125\" />](https://www.reddit.com/user/JoeFly2009/)\n\n##\n\n<iframe width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/nJD0slU60YI\" title=\"Moldes de ferraria para ferramentas v2.0 - Data Pack do Minecraft\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### ⚠️ Resource Pack Required\n<br>\n\nYou can already trim armour, but what about weapons and tools? <br>\nWell, with this Data Pack, you can trim them!\n\n<br>\n\n## Features\n- 4 Tool Trim Smithing Templates:\n  - ![linear](https://imgur.com/xItrOqb.png) Linear\n  - ![tracks](https://imgur.com/RxjzI7J.png) Tracks\n  - ![charge](https://imgur.com/LpdAQ3g.png) Charge\n  - ![frost](https://imgur.com/xNVu2Qn.png) Frost\n- 1 block:\n  - <img alt=\"duplication_recipe\" src=\"https://imgur.com/ewM37uM.png\" width=\"18\" /> Toolsmithing Table\n- 33 trimmable weapons and tools.\n- +1200 combinations!\n- 3 helpful function commands:\n  - /function tooltrims:custom_items\n  - /function tooltrims:uninstall\n  - /trigger update_item\n- Support for 4 languages:\n  - English\n  - Español\n  - Français\n  - Português\n\n<br>\n\n<details>\n<summary>How to Install</summary>\n\n### Data Pack:\n1. Click the \"DP & RP\" featured version.\n2. Scroll down and Download the Primary file.\n2. If you want to create a World, go to Singleplayer > Create New World > Data Packs > Open Pack Folder.\n3. If you want to put it in an already existing world, go to Singleplayer > Select World > Edit > Open World Folder > datapacks.\n4. Copy/Cut and Paste the file downloaded there.\n5. Open/Create your world (if necessary, run \"/reload\" in the chat).\n<br>\n<sub>Note: You need to also install the Required Resource Pack.</sub>\n\n### Required Resource Pack:\n1. Click the \"DP & RP\" featured version.\n2. Scroll down and Download the Required Resource Pack.\n3. Open Minecraft and go to Options > Resource Packs > Open Pack Folder.\n4. Copy/Cut and Paste the file downloaded there.\n5. Active the Resource Pack.\n\n### Mod (DP & RP Packaged): \n1. Download the \"Mod\" featured version.\n2. Make sure that you installed Forge, Fabric (with [API](https://modrinth.com/mod/fabric-api/versions)) or Quilt (with [API](https://modrinth.com/mod/qsl/versions)) for 1.20+\n3. Press Win + R and search for \"%AppData%\".\n4. Go to .minecraft > mods.\n5. Copy/Cut and Paste the file downloaded there.\n6. Run the Mod-Loader that you use.\n\n</details>\n\n<details>\n<summary>Tutorial</summary>\n\n## Toolsmithing Table\nA Toolsmithing Table is a block that is used to trim tools and duplicate tool trim smithing templates. It has a similar GUI to the Smithing Table and can be crafted using 2 copper ingots and 4 wood planks. <br>\n\n<img alt=\"toolsmithing_table_recipe\" src=\"https://imgur.com/DVL9fys.png\" width=\"350\" />\n\n<br>\n<br>\n\n## Tool Trim Smithing Templates\nThese smithing templates are used in Toolsmithing Tables to trim weapons and tools. Each one can be found on a different structure.\n\n| Smithing Template | Structure            | Chance (per chest) |\n| ------------------- | ---------------- | -------------------- |\n| ![linear](https://imgur.com/xItrOqb.png) Linear         | Trail Ruins           | 8,3%                          |\n| ![tracks](https://imgur.com/RxjzI7J.png) Tracks        | Pillager Outpost | 37,5%                           |\n| ![charge](https://imgur.com/LpdAQ3g.png) Charge | Ancient City        | 5%                          |\n| ![frost](https://imgur.com/xNVu2Qn.png) Frost         | Igloo                     | 40%                           |\n\nIf you're using v2.0.2 between 1.17 and 1.19, the structures where they can be found are a little bit different.\n\n| Smithing Template | Structure            | Chance (per chest) |\n| ------------------- | ---------------- | -------------------- |\n| ![linear](https://imgur.com/xItrOqb.png) Linear          | Mineshaft                          | 6,7%                          |\n| ![charge](https://imgur.com/LpdAQ3g.png) Charge  | Ancient City / Shipwreck | 3,8% / 1,1%                            |\n\nThey can also be duplicated using a Toolsmithing Table. <br>\n\n<img alt=\"duplication_recipe\" src=\"https://imgur.com/fMgLznI.gif\" width=\"350\" />\n\n<br>\n<br>\n\n## Tool Trimming\nWeapons and tools can be trimmed using a Toolsmithing Table. You can use 10 different materials to trim:\n- ![amethyst](https://imgur.com/dK66Usj.png) Amethyst Shard\n- ![copper](https://imgur.com/Sedgr1J.png) Copper Ingot\n- ![diamond](https://imgur.com/5xCJZQ9.png) Diamond\n- ![emerald](https://imgur.com/WJbkogZ.png) Emerald\n- ![gold](https://imgur.com/jOAXshn.png) Gold Ingot\n- ![iron](https://imgur.com/7Ch0IPt.png) Iron Ingot\n- ![lapis](https://imgur.com/wsIxsUU.png) Lapis Lazuli\n- ![netherite](https://imgur.com/JJY5pN1.png) Netherite Ingot\n- ![quartz](https://imgur.com/zwXP3Xh.png) Quartz\n- ![redstone](https://imgur.com/DMfehpQ.png) Redstone Dust\n\nThen, combined with the tool trim smithing templates, you can get over 1200 combinations!\n\n<img alt=\"tool_trimming\" src=\"https://imgur.com/3uJ8HCF.gif\" width=\"350\" />\n\n<br>\n<br>\n\n## For creative mode\nIf you would like to see how the trims look in creative, you can use the command \"/function tooltrims:custom_items\". It will place a chest with custom items this data pack offers, the 4 tool trim smithing templates and the Toolsmithing Table.\n\n\n\n## Advancements\n- **Shiny Tools** - obtained by getting a trimmed tool.\n- **Tools of All Styles** - obtained by applying all tool trim smithing templates at least once.\n\n<img alt=\"shiny_tools_advancement\" src=\"https://imgur.com/qKQnSb1.png\" width=\"350\" />\n<img alt=\"tools_of_all_styles_advancement\" src=\"https://imgur.com/Aftqaf0.png\" width=\"350\" />\n\n<br>\n<br>\n\n## Commands\n- **/function tooltrims:custom_items** - This command places a chest with all the tool trim smithing templates and the toolsmithing table.\n- **/function tooltrims:uninstall** - This command removes all Toolsmithing Tables placed on the ground and untrims all tools in players' inventories.\n- **/function tooltrims:load** - This command lets you reload only the Tool Trims Data Pack, it can be useful if it isn't working as expected.\n- **/trigger update_item** - If you used an old version of this Data Pack, this command lets you update your old trimmed tool by holding it on your main hand.\n\n</details>\n\n<details>\n<summary>Frequently Asked Questions</summary>\n\n**I'm having issues in my Paper/Purpur server, what can I do?** <br>\nFor Paper/Purpur servers, it's recommended to use the [Tool Trims Alternative](https://modrinth.com/plugin/tooltrims/) plugin.\n\n\n**The new smithing tables don't appear in the creative menu, how can I fix this issue?** <br>\nData packs cannot include custom items in the creative menu. To get them, you need to use the command \"/function tooltrims:custom_items\".\n\n\n**I'm getting the Toolsmithing Table every few seconds, how can I fix this issue?** <br>\nThis bug happens when you're using an \"Unlock all recipes\" data pack, make sure to disable it.\n\n**Will the Trident ever be trimmable?** <br>\nNo, the Trident uses a different model compared to other items and cannot be changed in Vanilla Minecraft.\n\n\n**Can I make a post/video about it on other social medias?** <br>\nYes, if you credit me, including a direct link to this page. Please do not distribute modified versions.\n\n</details>\n\n<details>\n<summary>Credits</summary>\n\nThanks to:\n- ImpossibleEvan, for the \"Linear\" and \"Tracks\" names. \n- Coolsa, for the [Gui Generator](https://coolsa.github.io/mcCustomGuiGen/).\n\n</details>\n\n<br>\n\nEnjoy! :)",
+		"long_description": "<img src=\"https://i.postimg.cc/260h4Knv/Esi-Eyuj-1.png\" />\n\n<br>\n<br>\n\n[<img src=\"https://i.postimg.cc/5tMB1vxH/0P7IsNY.png\" width=\"22.5%\" />](https://www.youtube.com/channel/UC7BiNDV1kaK5ehVzNA8wKPA)\n<img src=\"https://i.postimg.cc/bvHQvJJm/6QzuoqY.png\" width=\"7.5%%\" />\n[<img src=\"https://i.postimg.cc/nhm46Ttb/X0UZ2Jh.png\" width=\"20%\" />](https://www.reddit.com/user/JoeFly2009/)\n<img src=\"https://i.postimg.cc/bvHQvJJm/6QzuoqY.png\" width=\"7.5%\" />\n[<img src=\"https://i.postimg.cc/Twdn565f/7yFngIC.png\" width=\"15%\" />](https://www.planetminecraft.com/data-pack/tool-trims-v1-1/)\n\n##\n\n<iframe width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/nJD0slU60YI\" title=\"Moldes de ferraria para ferramentas v2.0 - Data Pack do Minecraft\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### ⚠️ Resource Pack Required\n<br>\n\nYou can already trim armour, but what about weapons and tools? <br>\nWell, with this Data Pack, you can trim them!\n\n<br>\n\n## Features\n- 4 Tool Trim Smithing Templates:\n  - ![linear](https://i.postimg.cc/28MdcMM7/xItrOqb.png) Linear\n  - ![tracks](https://i.postimg.cc/ncCY1pRL/RxjzI7J.png) Tracks\n  - ![charge](https://i.postimg.cc/T2kJmpcS/LpdAQ3g.png) Charge\n  - ![frost](https://i.postimg.cc/5yk5MR01/xNVu2Qn.png) Frost\n- 1 block:\n  - <img alt=\"duplication_recipe\" src=\"https://i.postimg.cc/zGG0L66C/toolsmithing-table-feature-icon.png\" width=\"18\" /> Toolsmithing Table\n- 34 trimmable weapons and tools.\n- +1400 combinations!\n- To get the new items in creative:\n  - /function tooltrims:custom_items\n- Support for 8 languages:\n  - English\n  - Deutsch\n  - Español\n  - Français\n  - Português\n  - Polski\n  - Русский\n  - Українська\n\n<br>\n\n<details>\n<summary>How to Install</summary>\n\n### Data Pack:\n1. Click the latest \"Data Pack & Resource Pack\" version.\n2. Scroll down and Download the Primary file.\n2. If you want to create a World, go to Singleplayer > Create New World > Data Packs > Open Pack Folder.\n3. If you want to put it in an already existing world, go to Singleplayer > Select World > Edit > Open World Folder > datapacks.\n4. Copy/Cut and Paste the downloaded file there.\n5. Open/Create your world.\n<br>\n<sub>Note: You need to also install the Required Resource Pack.</sub>\n\n### Required Resource Pack:\n1. Click the \"Data Pack & Resource Pack\" featured version.\n2. Scroll down and Download the Required Resource Pack.\n3. Open Minecraft and go to Options > Resource Packs > Open Pack Folder.\n4. Copy/Cut and Paste the downloaded file there.\n5. Activate the Resource Pack.\n\n### Data & Resource Pack Packaged for Mod Loaders: \n1. Download the \"Packaged for Mod Loaders\" featured version.\n2. Make sure that you installed Forge, Fabric (with [API](https://modrinth.com/mod/fabric-api/versions)) or Quilt (with [API](https://modrinth.com/mod/qsl/versions)) for 1.20+\n3. Press Win + R and search for \"%AppData%\".\n4. Go to .minecraft > mods.\n5. Copy/Cut and Paste the downloaded file there.\n6. Run the mod loader that you use.\n\n</details>\n\n<details>\n<summary>Tutorial</summary>\n\n## Toolsmithing Table\nA Toolsmithing Table is a block that is used to trim tools and duplicate tool trim smithing templates. It has a similar GUI to the Smithing Table and can be crafted using 2 copper ingots and 4 wood planks. <br>\n\n<img alt=\"toolsmithing_table_recipe\" src=\"https://imgur.com/DVL9fys.png\" width=\"350\" />\n\n<br>\n<br>\n\n## Tool Trim Smithing Templates\nThese smithing templates are used in Toolsmithing Tables to trim weapons and tools. Each one can be found on a different structure.\n\n| Smithing Template | Structure            | Chance (per chest) |\n| ------------------- | ---------------- | -------------------- |\n| ![linear](https://imgur.com/xItrOqb.png) Linear         | Trail Ruins / Mineshaft | 7.6% / 5.6%                         |\n| ![tracks](https://imgur.com/RxjzI7J.png) Tracks        | Pillager Outpost / Mansion | 33% / 50%                          |\n| ![charge](https://imgur.com/LpdAQ3g.png) Charge | Ancient City        | 5%                          |\n| ![frost](https://imgur.com/xNVu2Qn.png) Frost         | Igloo                     | 40%                           |\n\nThey can also be duplicated using a Toolsmithing Table. <br>\n\n<img alt=\"duplication_recipe\" src=\"https://imgur.com/fMgLznI.gif\" width=\"350\" />\n\n<br>\n<br>\n\n## Tool Trimming\nWeapons and tools can be trimmed using a Toolsmithing Table. You can use 10 different materials to trim:\n- ![amethyst](https://imgur.com/dK66Usj.png) Amethyst Shard\n- ![copper](https://imgur.com/Sedgr1J.png) Copper Ingot\n- ![diamond](https://imgur.com/5xCJZQ9.png) Diamond\n- ![emerald](https://imgur.com/WJbkogZ.png) Emerald\n- ![gold](https://imgur.com/jOAXshn.png) Gold Ingot\n- ![iron](https://imgur.com/7Ch0IPt.png) Iron Ingot\n- ![lapis](https://imgur.com/wsIxsUU.png) Lapis Lazuli\n- ![netherite](https://imgur.com/JJY5pN1.png) Netherite Ingot\n- ![quartz](https://imgur.com/zwXP3Xh.png) Quartz\n- ![redstone](https://imgur.com/DMfehpQ.png) Redstone Dust\n\nThen, combined with the tool trim smithing templates, you can get over 1400 combinations!\n\n<img alt=\"tool_trimming\" src=\"https://imgur.com/3uJ8HCF.gif\" width=\"350\" />\n\n<br>\n<br>\n\n## For creative mode\nThe new Smithing Templates and the Toolsmithing Table won't appear in the creative menu due to data pack limitations. If you would like to get them, you can use the command \"/function tooltrims:custom_items\". It will place a chest with all the custom items this data pack offers, the 4 tool trim smithing templates and the Toolsmithing Table.\n\n\n\n## Advancements\n- **Shiny Tools** - obtained by getting a trimmed tool.\n- **Tools of All Styles** - obtained by applying all tool trim smithing templates at least once.\n\n<img alt=\"shiny_tools_advancement\" src=\"https://imgur.com/qKQnSb1.png\" width=\"350\" />\n<img alt=\"tools_of_all_styles_advancement\" src=\"https://imgur.com/Aftqaf0.png\" width=\"350\" />\n\n<br>\n<br>\n\n## Commands\n- **/function tooltrims:custom_items** - This command places a chest with all the tool trim smithing templates and the toolsmithing table\n- **/function tooltrims:load** - This command lets you reload only the Tool Trims Data Pack, it can be useful if it isn't working as expected.\n- **/trigger update_item** - If you used an old version of this Data Pack, this command lets you update your old trimmed tool by holding it on your main hand. (removed in v2.3.1, items update automatically after this version)\n\n</details>\n\n<details>\n<summary>Tool Trims Alternatives</summary>\n\nThese are alternative versions of Tool Trims which were specifically made for mod loaders or servers. (Thanks to [ThePotatoArchivist](https://modrinth.com/user/ThePotatoArchivist) and [SidewaysSky](https://modrinth.com/user/SidewaysSky))\n\n[<img src=\"https://i.postimg.cc/9Q737KYz/modrinth-tool-trims-mod.png\" width=\"50%\" />](https://modrinth.com/mod/tool-trims-mod)\n[<img src=\"https://i.postimg.cc/ZKgt0431/modrinth-tool-trims-alternative.png\" width=\"45%\" />](https://modrinth.com/plugin/tooltrims)\n</details>\n\n<details>\n<summary>FAQ</summary>\n\n**I'm having issues in my Paper/Purpur server, what can I do?** <br>\nFor Paper/Purpur servers, it's recommended to use the [Tool Trims Alternative](https://modrinth.com/plugin/tooltrims/) plugin with the Required Resource Pack.\n\n\n**The new smithing tables don't appear in the creative menu, how can I fix this issue?** <br>\nData packs cannot include custom items in the creative menu. To get them, you need to use the command \"/function tooltrims:custom_items\".\n\n\n**I'm getting the Toolsmithing Table every few seconds, how can I fix this issue?** <br>\nThis bug happens when you're using an \"Unlock all recipes\" data pack, make sure to disable it.\n\n\n**Can I make a post/video about it on other social medias?** <br>\nYes, if you credit me, including a direct link to this page. Please do not distribute modified versions.\n\n</details>\n\n<details>\n<summary>Credits</summary>\n\n**Thanks to:**\n- ImpossibleEvan, for the \"Linear\" and \"Tracks\" names. \n- BlueSheep, for the Trident trims and Japanese translations.\n- RandomKuchen, for the German translations.\n- Slimy, for the Ukrainian and Russian translations.\n- ESSENTIALS_GAMES, for the Polish translations.\n- Coolsa, for the [Gui Generator](https://coolsa.github.io/mcCustomGuiGen/).\n\n</details>\n\n<br>\n\nEnjoy! :)",
 		"name": "Tool Trims",
 		"package_maintainers": [
 			"mcvm"
@@ -280,6 +396,12 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.3.2-packaged",
+			"2.3.1-packaged",
+			"2.3.0-packaged",
+			"2.2.2-packaged",
+			"2.2.2b-packaged",
+			"2.2.1-mod",
 			"2.2.0",
 			"2.1.3-mod",
 			"2.1.2-mod",
@@ -319,7 +441,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

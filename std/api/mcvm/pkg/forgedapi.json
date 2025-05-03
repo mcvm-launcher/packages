@@ -1,0 +1,85 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "0.1.1-1.16.5",
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/D2xZNx9R/versions/EIrFrUAF/ForgedAPI-0.1.1%2B1.16.5.jar",
+					"version": "EIrFrUAF"
+				},
+				{
+					"content_versions": "0.1.0-1.16.5",
+					"minecraft_versions": "1.16.5",
+					"modloaders": "forgelike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/D2xZNx9R/versions/ZMMdNf8P/ForgedAPI-0.1.0%2B1.16.5.jar",
+					"version": "ZMMdNf8P"
+				},
+				{
+					"content_versions": "0.1.0-1.18.2",
+					"minecraft_versions": "1.18.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "reforgium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/D2xZNx9R/versions/WU2ulZpx/ForgedAPI-0.1.0%2B1.18.2.jar",
+					"version": "WU2ulZpx"
+				},
+				{
+					"content_versions": "0.1.0-1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "reforgium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/D2xZNx9R/versions/pokaXlyy/ForgedAPI-0.1.0%2B1.19.2.jar",
+					"version": "pokaXlyy"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"TexTrue"
+		],
+		"description": "Partial re-implement of the Fabric API on Forge.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/D2xZNx9R/8ad0cc39c59e5f6ede729feee3484ca12cfe001b_96.webp",
+		"issues": "https://github.com/PortingLab/ForgedAPI/issues",
+		"license": "Apache-2.0",
+		"long_description": "# ForgedAPI\nThis mod is a partial re-implementation of FabricAPI in Forge. It is the same idea as ForgedFabricAPI, but ForgedFabricAPI implements very sparse functionality, so I have ported FabricAPI to reduce the workload at the mod port level.\n\n**This mod doesn't allow the Fabric mod to run on Forge!**\n\n## Parts already implemented\n- Fabric API Base\n- Fabric Events Lifecycle\n- Fabric Renderer API & Indigo (1.16.5 only)\n- Fabric Rendering (Reforgium required[1.16.5 is not needed because some of Reforgium's features are already included.] because Fabric Rendering required Fabric Renderer API & Fabric Renderer Indigo)",
+		"name": "ForgedAPI",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/PortingLab/ForgedAPI"
+	},
+	"properties": {
+		"content_versions": [
+			"0.1.1-1.16.5",
+			"0.1.0-1.19.2",
+			"0.1.0-1.18.2",
+			"0.1.0-1.16.5"
+		],
+		"modrinth_id": "D2xZNx9R",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client",
+			"server"
+		],
+		"supported_versions": [
+			"1.16.5",
+			"1.18.2",
+			"1.19.2"
+		]
+	}
+}

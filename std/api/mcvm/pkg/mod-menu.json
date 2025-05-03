@@ -4,6 +4,288 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "14.0.0-rc.2",
+					"minecraft_versions": [
+						"1.21.5-rc1",
+						"1.21.5-rc2",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar",
+					"version": "T7GjZmwP"
+				},
+				{
+					"content_versions": "14.0.0-rc.1",
+					"minecraft_versions": [
+						"1.21.5-rc1",
+						"1.21.5-rc2",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/OZuPErV6/modmenu-14.0.0-rc.1.jar",
+					"version": "OZuPErV6"
+				},
+				{
+					"content_versions": "14.0.0-beta.2",
+					"minecraft_versions": [
+						"25w09a",
+						"25w09b",
+						"25w10a"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/R7uVB42W/modmenu-14.0.0-beta.2.jar",
+					"version": "R7uVB42W"
+				},
+				{
+					"content_versions": "13.0.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/7iGb2ltH/modmenu-13.0.3.jar",
+					"version": "7iGb2ltH"
+				},
+				{
+					"content_versions": "14.0.0-beta.1",
+					"minecraft_versions": "25w06a",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/hsiHpAl5/modmenu-14.0.0-beta.1.jar",
+					"version": "hsiHpAl5"
+				},
+				{
+					"content_versions": "13.0.2",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/qPUMDJX6/modmenu-13.0.2.jar",
+					"version": "qPUMDJX6"
+				},
+				{
+					"content_versions": "13.0.1",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/4z29vhIo/modmenu-13.0.1.jar",
+					"version": "4z29vhIo"
+				},
+				{
+					"content_versions": "13.0.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/dG06oDvH/modmenu-13.0.0.jar",
+					"version": "dG06oDvH"
+				},
+				{
+					"content_versions": "13.0.0-beta.1",
+					"minecraft_versions": [
+						"1.21.4-rc3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/2pJcGBVh/modmenu-13.0.0-beta.1.jar",
+					"version": "2pJcGBVh"
+				},
+				{
+					"content_versions": "12.0.0",
+					"minecraft_versions": [
+						"1.21.2-pre1",
+						"1.21.2-pre2",
+						"1.21.2-pre3",
+						"1.21.2-pre4",
+						"1.21.2-pre5",
+						"1.21.2-rc1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/4xPSbh0l/modmenu-12.0.0.jar",
+					"version": "4xPSbh0l"
+				},
+				{
+					"content_versions": "12.0.0-beta.1",
+					"minecraft_versions": [
+						"1.21.2-pre1",
+						"1.21.2-pre2",
+						"1.21.2-pre3",
+						"1.21.2-pre4",
+						"1.21.2-pre5",
+						"1.21.2-rc1",
+						"1.21.2-rc2",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/PcJvQYqu/modmenu-12.0.0-beta.1.jar",
+					"version": "PcJvQYqu"
+				},
+				{
+					"content_versions": "11.0.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar",
+					"version": "YIfqIJ8q"
+				},
+				{
+					"content_versions": "11.0.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3ib3Uvvv/modmenu-11.0.2.jar",
+					"version": "3ib3Uvvv"
+				},
+				{
+					"content_versions": "12.0.0-alpha.1",
+					"minecraft_versions": [
+						"24w33a",
+						"24w34a",
+						"24w35a"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"text-placeholder-api"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/ixIyiMpO/modmenu-12.0.0-alpha.1.jar",
+					"version": "ixIyiMpO"
+				},
+				{
 					"content_versions": "11.0.1",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -1641,11 +1923,12 @@
 		"description": "Adds a mod menu to view the list of mods you have installed.",
 		"documentation": "https://github.com/TerraformersMC/ModMenu/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/mOgUt4GM/images/155dd2b006883b168b1279ec0ff21e753946518b.png",
-			"https://cdn.modrinth.com/data/mOgUt4GM/images/ec97a9f09bc750dd7895414eac14f6252ca47621.png",
+			"https://cdn.modrinth.com/data/mOgUt4GM/images/185911191819382e1e4b1f2c54ea8a510a92a064.jpeg",
+			"https://cdn.modrinth.com/data/mOgUt4GM/images/70fd54b0579f2de3ac45fa9650aca2ec8ff0882b_350.webp",
+			"https://cdn.modrinth.com/data/mOgUt4GM/images/92397b510671ef89974665cfa6309c5da081b8f8_350.webp",
 			"https://cdn.modrinth.com/data/mOgUt4GM/images/5726bbaf7d0ea53e55b6e666af5d3e1861758334.png"
 		],
-		"icon": "https://cdn.modrinth.com/data/mOgUt4GM/1b6bcdef5a3d92572f517122650716be7ec6458b.webp",
+		"icon": "https://cdn.modrinth.com/data/mOgUt4GM/1bfe2006b38340e9d064700e41adf84a8abb1bd4_96.webp",
 		"issues": "https://github.com/TerraformersMC/ModMenu/issues",
 		"keywords": [
 			"menu",
@@ -1661,6 +1944,20 @@
 	},
 	"properties": {
 		"content_versions": [
+			"14.0.0-rc.2",
+			"14.0.0-rc.1",
+			"14.0.0-beta.2",
+			"14.0.0-beta.1",
+			"13.0.3",
+			"13.0.2",
+			"13.0.1",
+			"13.0.0",
+			"13.0.0-beta.1",
+			"12.0.0",
+			"12.0.0-beta.1",
+			"12.0.0-alpha.1",
+			"11.0.3",
+			"11.0.2",
 			"11.0.1",
 			"11.0.0",
 			"11.0.0-rc.4",
@@ -1933,7 +2230,30 @@
 			"1.21-pre3",
 			"1.21-pre4",
 			"1.21-rc1",
-			"1.21"
+			"1.21",
+			"1.21.1-rc1",
+			"1.21.1",
+			"24w33a",
+			"24w34a",
+			"24w35a",
+			"1.21.2-pre1",
+			"1.21.2-pre2",
+			"1.21.2-pre3",
+			"1.21.2-pre4",
+			"1.21.2-pre5",
+			"1.21.2-rc1",
+			"1.21.2-rc2",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4-rc3",
+			"1.21.4",
+			"25w06a",
+			"25w09a",
+			"25w09b",
+			"25w10a",
+			"1.21.5-rc1",
+			"1.21.5-rc2",
+			"1.21.5"
 		]
 	}
 }

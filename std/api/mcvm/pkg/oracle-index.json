@@ -1,0 +1,117 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "0.2.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J8MMsNrL/versions/NYDkyUpK/oracle_index-neoforge-0.2.0.jar",
+					"version": "NYDkyUpK"
+				},
+				{
+					"content_versions": "0.2.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J8MMsNrL/versions/SC1RaLfr/oracle_index-fabric-0.2.0.jar",
+					"version": "SC1RaLfr"
+				},
+				{
+					"content_versions": "0.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J8MMsNrL/versions/n4MB9Ww0/oracle_index-neoforge-0.1.1.jar",
+					"version": "n4MB9Ww0"
+				},
+				{
+					"content_versions": "0.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J8MMsNrL/versions/bToVO0Np/oracle_index-fabric-0.1.1.jar",
+					"version": "bToVO0Np"
+				},
+				{
+					"content_versions": "0.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J8MMsNrL/versions/wQ1RIGQY/oracle_index-neoforge-0.1.0.jar",
+					"version": "wQ1RIGQY"
+				},
+				{
+					"content_versions": "0.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/J8MMsNrL/versions/GbpnMw2w/oracle_index-fabric-0.1.0.jar",
+					"version": "GbpnMw2w"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"rearth"
+		],
+		"banner": "https://cdn.modrinth.com/data/J8MMsNrL/images/b772f316efa1b24ce6bc2d33962c8583d22bdd2e_350.webp",
+		"community": "https://discord.gg/M43kMvprgj",
+		"description": "A minecraft fabric / neoforge client-side documentation viewer mod, intended to be used with wikis alongside moddedmc.wiki",
+		"gallery": [
+			"https://cdn.modrinth.com/data/J8MMsNrL/images/0fd4754d413d59ab8dd6f3285f6b2ffab006bfa6_350.webp",
+			"https://cdn.modrinth.com/data/J8MMsNrL/images/34047c004f43a26521f64946e664bf2f786a45ec_350.webp",
+			"https://cdn.modrinth.com/data/J8MMsNrL/images/35038ce8ee2d622ff9b504c264a4cb6e8f3b30cd_350.webp",
+			"https://cdn.modrinth.com/data/J8MMsNrL/images/b772f316efa1b24ce6bc2d33962c8583d22bdd2e_350.webp"
+		],
+		"icon": "https://cdn.modrinth.com/data/J8MMsNrL/1fe93d409348f6cb05a2047f2275ace2ee51a7ee_96.webp",
+		"issues": "https://github.com/Rearth/Oracle-Index/issues",
+		"license": "CC-BY-4.0",
+		"long_description": "<center>\n  <img src=https://cdn.modrinth.com/data/cached_images/34047c004f43a26521f64946e664bf2f786a45ec_0.webp />\n</center>\n<br>\n<br>\n\n<center>\n<em><a href=\"https://discord.gg/M43kMvprgj\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white\" alt=\"\"></a> &nbsp;<a href=\"https://github.com/Rearth/Oracle-Index\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/github/stars/rearth/Oracle-Index?style=for-the-badge\" alt=\"\"></a> &nbsp;<a href=\"https://moddedmc.org/en/mod/oracle-index/docs\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/Wiki-EC5990?style=for-the-badge&amp;logoSize=auto&amp;logo=gitbook\" alt=\"\"></a> &nbsp;<a href=\"https://github.com/Rearth/Oracle-Index/issues\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/github/issues/rearth/Oracle-Index?style=for-the-badge\" alt=\"\"></a> &nbsp;<a href=\"https://github.com/Rearth/Oracle-Index?tab=CC0-1.0-1-ov-file#readme\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/github/license/rearth/Oracle-Index?style=for-the-badge\" alt=\"\"></a></em>\n\n<br>\n<br>\n\n<img src=\"https://media.forgecdn.net/attachments/description/1030830/description_61b2487d-46b5-4098-b4b0-cc87790ed49e.png\" width=\"254\" height=\"30\"> &nbsp; <img src=\"https://media.forgecdn.net/attachments/description/1030830/description_48461d2b-8008-4aa9-b4be-73fcee6193e0.png\" width=\"231\" height=\"30\">\n\n</center>\n\nTired of alt-tabbing to find information about mods? **Oracle Index** brings the wiki directly into your Minecraft world!  This mod provides an in-game documentation viewer for both Neoforge and Fabric on Minecraft 1.21.  It's designed with simplicity and compatibility in mind, using the same formatting and directory structure as [ModdedMC.wiki](https://moddedmc.wiki/).  This means modders can create wiki content once and use it both in-game and online.\n\n## Key Features ✨\n\n*   **Seamless In-Game Documentation:** Access comprehensive guides and information about supported mods directly in the game.\n*   **No Custom Books Needed:** Open the **Oracle Index** with a customizable hotkey or directly from an item's tooltip.\n*   **Familiar Markdown Support:**  Uses a basic markdown parser and supports custom HTML tags, ensuring compatibility with ModdedMC.wiki content.\n*   **Item Linking:** Define relevant items for each wiki page. Hover over the item and hold [ALT] to open the wiki page!\n*   **ModdedMC.wiki Compatibility:**  Leverage existing documentation created for ModdedMC.wiki. No need to rewrite anything! 🚀\n*   **Cross-Linking:**  Effortlessly navigate between pages and items within the wiki.\n*   **Visually Appealing & Responsive:** Enjoy a modern Minecraft-inspired design, smooth scrolling, and responsive layouts that adapt to your screen size.\n*   **Easy to Use:** Quick setup, so you can get to documenting fast!\n\n## How it Works ⚙️\n\nOracle Index parses Markdown content organized in a directory structure similar to ModdedMC.wiki. Simply place your Markdown files in the designated location (check the mod's configuration for the exact path), and Oracle Index will handle the rest!\n\n## Why Oracle? 🤔\n\nOracle Index bridges the gap between online documentation and in-game accessibility. It provides a convenient and intuitive way for players to learn about mods, recipes, and mechanics without interrupting their gameplay.",
+		"name": "Oracle Index",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Rearth/Oracle-Index"
+	},
+	"properties": {
+		"content_versions": [
+			"0.2.0",
+			"0.1.1",
+			"0.1.0"
+		],
+		"modrinth_id": "J8MMsNrL",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.21",
+			"1.21.1"
+		]
+	},
+	"relations": {
+		"dependencies": [
+			"architectury-api",
+			"owo-lib"
+		]
+	}
+}

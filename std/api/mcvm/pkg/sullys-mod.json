@@ -4,6 +4,28 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.2.1-beta",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "blueprint"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vOm0vWW8/versions/B9yOFBhf/sullysmod-3.2.1-beta-all.jar",
+					"version": "B9yOFBhf"
+				},
+				{
+					"content_versions": "3.2.0-beta",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "blueprint"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/vOm0vWW8/versions/DlUMEFBK/sullysmod-3.2.0-beta-all.jar",
+					"version": "DlUMEFBK"
+				},
+				{
 					"content_versions": "3.1.2-beta",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -260,32 +282,42 @@
 			"MiteBeMana",
 			"uraneptus"
 		],
-		"banner": "https://cdn.modrinth.com/data/vOm0vWW8/images/c0505b784f9d1336175125bf3ee04e13a966d920.png",
+		"banner": "https://cdn.modrinth.com/data/vOm0vWW8/images/29c1d28c8832f0dee3535f50e86e41ec0c13112f_350.webp",
 		"community": "https://discord.gg/nuVuQ4v",
 		"description": "The goal of this mod is to add interesting features while still keeping a vanilla vibe",
 		"documentation": "https://github.com/Uraneptus/Sullys-Mod/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/10efc3d245e4201274452fbabf5b858fc9fb01ca.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/2849ea2d236f35773c5e9a3656448d4883101ff6.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/29d66cf9c0fffa2768c064c3b02961e20a2346ad.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/3b5cb3829938cf573d5c7a9aa92e2fdb19f28776.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/57664aa3d58a1072ce55af31574a41487d8824d9.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/5f0422a47097cb30fc427a486bbb0a2368e0f24a.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/60b80a1e0060fc51d45d537a389b651d4d321d13.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/843b911d12b2c5ee5d47e61817c52e8af0e12b70.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/8ff51d7a5e88c25a8a37f06c2650e12ba52f06ed.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/a742816f42b99f27b276e18c6f5f528a6dfdbd96.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/bb9d856f4723c1112cf29919a16b73e603803c42.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/bbd9b4b9d9736402d1552364842f847d2e382179.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/c0505b784f9d1336175125bf3ee04e13a966d920.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/c897400ab6b1599e6685b6d1d1fb1b4662da4ccb.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/cd788adda7a8414154c158cec22203e41b6c7982.png",
-			"https://cdn.modrinth.com/data/vOm0vWW8/images/e35b7444d7fb1f17b5aa73f0ac28838b9f2d6d22.png"
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/022177574195a8c6fb7f4d4c0cdd73995804b8af_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/1ac1407e36cc751b6937ddc09b67a1cf5fe5814b_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/21fd890f7aaaa3d17b414b5e0fee006934e99c1c_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/285c2f35a7a82af5566663b606a5319d1caf5cbd_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/29c1d28c8832f0dee3535f50e86e41ec0c13112f_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/2a34b8b4294b90d3729aa321a7210b25ecd37dd5_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/2d3793a7fbadb7b0785b08ca3f0c4a4c75829f07_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/3885a945f2f3767f7c297b8d37e9ec144dc1493c_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/48a7a14021d247bbb6e5c6ea0537c5431e6a33a2_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/49ac3507aef0ee153b7a9a541b3ce870e62fb533_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/606256299b53ee22566e79ce762d6711dc09b47c_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/7097a9bf0b71c49656e913fc325c77f14e0eac4c_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/8b1f70b88ec51878b442a70af59e81cd0eb2e441_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/9e7a30d5208f477162df818c02be75994471ab69_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/9e9396b1c6c0a41ebd905e7c5a31628ab4a90605_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/9eb9b80baca754c0b497ad871b34b90b6a7f03a1_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/b195d78e42c828454e76f44f0a32c98619ed33d6_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/c0e6f6b34099b4fbc29c342ed0b3c8faddba65ca_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/c393434b70f80794f74fc39039fa79e7445c5cb0_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/c899cc4849e3ec92ed3dccb6d083cefb7ba592a3_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/caf1e23d4970bf164776d9b58a74a41a5de718c6_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/d25917f55f3504337f0a9227d35c27c4f3c75318_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/d88a19c9d05e6eebad3e8809e0a7cf956b4fcc23_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/e895b2340736ccd65aa1d664e30a8bab02515f69_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/eaf6989dec5d88309bb31e8806a421fc3c21ccea_350.webp",
+			"https://cdn.modrinth.com/data/vOm0vWW8/images/fd5157da0343bc4a7a568f873d5db73f7b3d8243_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/vOm0vWW8/6aaf62ec5642ae80d4f8168c76e4793421a69baf.png",
+		"icon": "https://cdn.modrinth.com/data/vOm0vWW8/5c671af3e9ccf1c07fd9667d14dcf50e81e32e4b_96.webp",
 		"issues": "https://github.com/Uraneptus/Sullys-Mod/issues",
 		"license": "LGPL-3.0-only",
-		"long_description": "![https://i.imgur.com/VO8jVDi.png](https://i.imgur.com/VO8jVDi.png)\n\n[![Requires Blueprint](https://tinyurl.com/mtuys7pu)](https://modrinth.com/mod/blueprint) \n[![Requires GeckoLib](https://tinyurl.com/dmsfwu5m)](https://modrinth.com/mod/geckolib) \n[![](https://img.shields.io/github/license/Uraneptus/Sullys-Mod?style=for-the-badge&color=78a24b&labelColor=3b753b)](https://github.com/Uraneptus/Sullys-Mod/blob/main/LICENSE) \n[![](https://img.shields.io/discord/716283768825970771?label=&color=78a24b&labelColor=3b753b&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/nuVuQ4v)\n\n![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)\n## 📘About:\nSully’s Mod started out a few years ago when I decided to try and make a mod. I couldn’t think of a name and called it the first name that came to my head as a placeholder “Sully”, the name stuck and now people think my name is actually Sully. <br/> \nBack then it was made with MCreator and combined with the fact that I back then didn’t have a good understanding of vanilla feel, it became more limited each version. I decided to completely revamp the mod, completely dumping the MCreator version and getting a coding team (Uraneptus and MiteBeMana). <br/>\nWith each feature I try to think it out as well as I can, making sure the feature is well-balanced, feels fun to play with and overall just feels like something new. It tries it’s best to feel like a Minecraft update full of random features. The mod is planned to have features for every player, explorers, builders and redstone engineers.\n\n![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)\n\n## 📝Current Features:\n\n**[Disclaimer the mod is currently in it's beta so many features are not yet implemented, check out this doc if you want to know more about the planned features: [Planned](https://docs.google.com/document/d/1O0-PYvZDjAtcMZySJMDEGL2xQSIM8Znr9rzibRzqDeA/edit?usp=drivesdk)]**\n\n**• Jade**\n\n**• Jade Flinger Totem**\n\n**• Jade Shield**\n\n**• Jade Horse Armor**\n\n**• Copper Buttons**\n\n**• Laternfish**\n\n**• Tortoise**\n\n**• Tortoise Shell**\n\n**• Bouldering Zombie**\n\n**• Jungle Spider**\n\n\n_If you want to know more about the indiviudal features, check our wiki out: [Sully's Mod Wiki](https://github.com/Uraneptus/Sullys-Mod/wiki)_\n\n![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)\n\n## 💼 Dev team:\n\n**Sully:** _Art, Animations, Game Design, Sound Design_ \\[[Twitter](https://twitter.com/ModSully)]\n\n**Uraneptus:** _Code, Additional Sound Design, Mod Icon/Banner, Documentation_ [[Twitter](https://twitter.com/uraneptus2)]\n\n**MiteBeMana:** _Code, Additional Game Design_ [[Twitter](https://twitter.com/MiteBeMana)]\n\n**KekeCreations:** Code [[Twitter](https://twitter.com/CreationsKeke)]\n\n**A full list of all Contributors can be found here:** [Credits Page](https://github.com/Uraneptus/Sullys-Mod/wiki/Credits)\n\n![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)\n\n## 📋FAQ:\n\n**\"What is planned for the remake?\"**\n- Here is a doc with all of the planned concepts that are done: [Google Doc](https://docs.google.com/document/d/1O0-PYvZDjAtcMZySJMDEGL2xQSIM8Znr9rzibRzqDeA/edit?usp=drivesdk) <br/>\nThere is more to come though!\n\n**\"Why are you remaking the mod?\"**\n- Check this twitter thread out: [Twitter](https://twitter.com/ModSully/status/1483351756033732611)\n\n**\"For which minecraft version will the mod be remade?\"**\n- 1.18+. A backport is currently not planned!\n\n**\"When will you update to [insert mc version] ?\"**\n- We will eventually, but we can't give you an ETA!\n\n**\"How does this feature work? / Why doesn't [...] work?\"**\n- Please read the wiki before asking questions like this, if you haven't found your answer there, feel free to ask in our discord server!\n\n**![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)",
+		"long_description": "![Cover](https://cdn.modrinth.com/data/cached_images/4d296ff9e6e2228f3c9285a287648fb73ed25de4_0.webp)\n\n[![Requires Blueprint](https://tinyurl.com/mtuys7pu)](https://modrinth.com/mod/blueprint) \n[![](https://img.shields.io/github/license/Uraneptus/Sullys-Mod?style=for-the-badge&color=78a24b&labelColor=3b753b)](https://github.com/Uraneptus/Sullys-Mod/blob/main/LICENSE) \n[![](https://img.shields.io/discord/716283768825970771?label=&color=78a24b&labelColor=3b753b&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/nuVuQ4v)\n\n![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)\n## 📘About:\nSully’s Mod started out a few years ago when I decided to try and make a mod. I couldn’t think of a name and called it the first name that came to my head as a placeholder “Sully”, the name stuck and now people think my name is actually Sully. <br/> \nBack then it was made with MCreator and combined with the fact that I back then didn’t have a good understanding of vanilla feel, it became more limited each version. I decided to completely revamp the mod, completely dumping the MCreator version and getting a coding team (Uraneptus and MiteBeMana). <br/>\nWith each feature I try to think it out as well as I can, making sure the feature is well-balanced, feels fun to play with and overall just feels like something new. It tries it’s best to feel like a Minecraft update full of random features. The mod is planned to have features for every player, explorers, builders and redstone engineers.\n\n![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)\n\n## 📝Current Features:\n\n**[Disclaimer the mod is currently in it's beta so many features are not yet implemented, check out this doc if you want to know more about the planned features: [Planned](https://docs.google.com/document/d/1O0-PYvZDjAtcMZySJMDEGL2xQSIM8Znr9rzibRzqDeA/edit?usp=drivesdk)]**\n\n**• Jade**\n\n**• Jade Flinger Totem**\n\n**• Jade Shield**\n\n**• Jade Horse Armor**\n\n**• Copper Buttons**\n\n**• Laternfish**\n\n**• Tortoise**\n\n**• Tortoise Shell**\n\n**• Bouldering Zombie**\n\n**• Jungle Spider**\n\n**• Petrified Tree & Amber**\n\n**• Artifacts**\n\n**• Piranha & Throwing Knife**\n\n**• Selection System**\n\n_If you want to know more about the indiviudal features, check our wiki out: [Sully's Mod Wiki](https://github.com/Uraneptus/Sullys-Mod/wiki)_\n\n![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)\n\n## 💼 Dev team:\n\n**Sully:** _Art, Animations, Game Design, Sound Design_ \\[[Twitter](https://twitter.com/ModSully)]\n\n**Uraneptus:** _Code, Additional Sound Design, Mod Icon/Banner, Documentation_ [[Twitter](https://twitter.com/uraneptus2)]\n\n**MiteBeMana:** _Code, Additional Game Design_ [[Twitter](https://twitter.com/MiteBeMana)]\n\n**KekeCreations:** Code [[Twitter](https://twitter.com/CreationsKeke)]\n\n**A full list of all Contributors can be found here:** [Credits Page](https://github.com/Uraneptus/Sullys-Mod/wiki/Credits)\n\n![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)\n\n## 📋FAQ:\n\n**\"What is planned for the remake?\"**\n- Here is a doc with all of the planned concepts that are done: [Google Doc](https://docs.google.com/document/d/1O0-PYvZDjAtcMZySJMDEGL2xQSIM8Znr9rzibRzqDeA/edit?usp=drivesdk) <br/>\nThere is more to come though!\n\n**\"Why are you remaking the mod?\"**\n- Check this twitter thread out: [Twitter](https://twitter.com/ModSully/status/1483351756033732611)\n\n**\"For which minecraft version will the mod be remade?\"**\n- 1.20.1+ A backport is currently not planned!\n\n**\"When will you update to [insert mc version] ?\"**\n- We will eventually, but we can't give you an ETA!\n\n**\"How does this feature work? / Why doesn't [...] work?\"**\n- Please read the wiki before asking questions like this, if you haven't found your answer there, feel free to ask in our discord server!\n\n**![https://i.imgur.com/fN4UrzH.png](https://i.imgur.com/fN4UrzH.png)",
 		"name": "Sully's Mod",
 		"package_maintainers": [
 			"mcvm"
@@ -294,6 +326,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.2.1-beta",
+			"3.2.0-beta",
 			"3.1.2-beta",
 			"3.1.1-beta",
 			"3.1.1.1-beta",

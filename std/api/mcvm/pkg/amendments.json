@@ -4,6 +4,492 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "neo_1.21-1.2.24",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/lbqEyGoA/amendments-1.21-1.2.24-neoforge.jar",
+					"version": "lbqEyGoA"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.23",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/QwAJULPO/amendments-1.21-1.2.23-neoforge.jar",
+					"version": "QwAJULPO"
+				},
+				{
+					"content_versions": "1.20-1.2.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/luR9kOmm/amendments-1.20-1.2.19.jar",
+					"version": "luR9kOmm"
+				},
+				{
+					"content_versions": "1.20-1.2.19",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/E9PbJYi2/amendments-1.20-1.2.19-fabric.jar",
+					"version": "E9PbJYi2"
+				},
+				{
+					"content_versions": "_1.21-1.2.24",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/uSU0iJNb/amendments-1.21-1.2.24-fabric.jar",
+					"version": "uSU0iJNb"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.24",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/p46g1ejG/amendments-1.21-1.2.24-neoforge.jar",
+					"version": "p46g1ejG"
+				},
+				{
+					"content_versions": "_1.21-1.2.23",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/nCY2LhbF/amendments-1.21-1.2.23-fabric.jar",
+					"version": "nCY2LhbF"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.23",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/WYwz061A/amendments-1.21-1.2.23-neoforge.jar",
+					"version": "WYwz061A"
+				},
+				{
+					"content_versions": "1.20-1.2.18",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/zMu0Lu83/amendments-1.20-1.2.18.jar",
+					"version": "zMu0Lu83"
+				},
+				{
+					"content_versions": "1.20-1.2.18",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/7f3WN8WB/amendments-1.20-1.2.18-fabric.jar",
+					"version": "7f3WN8WB"
+				},
+				{
+					"content_versions": "1.20-1.2.17",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/SoFnwbSW/amendments-1.20-1.2.17-fabric.jar",
+					"version": "SoFnwbSW"
+				},
+				{
+					"content_versions": "1.20-1.2.17",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/R9LMifxG/amendments-1.20-1.2.17.jar",
+					"version": "R9LMifxG"
+				},
+				{
+					"content_versions": "1.20-1.2.16",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/ATt8FCvn/amendments-1.20-1.2.16.jar",
+					"version": "ATt8FCvn"
+				},
+				{
+					"content_versions": "1.20-1.2.16",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/FI3j1cax/amendments-1.20-1.2.16-fabric.jar",
+					"version": "FI3j1cax"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.22",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/dc5mf2fp/amendments-1.21-1.2.22-neoforge.jar",
+					"version": "dc5mf2fp"
+				},
+				{
+					"content_versions": "_1.21-1.2.22",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/TI2xD2hw/amendments-1.21-1.2.22-fabric.jar",
+					"version": "TI2xD2hw"
+				},
+				{
+					"content_versions": "1.20-1.2.14",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/1g60gHDB/amendments-1.20-1.2.14.jar",
+					"version": "1g60gHDB"
+				},
+				{
+					"content_versions": "1.20-1.2.14",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/fpkXhc5c/amendments-1.20-1.2.14-fabric.jar",
+					"version": "fpkXhc5c"
+				},
+				{
+					"content_versions": "1.20-1.2.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/qE7sokDv/amendments-1.20-1.2.12.jar",
+					"version": "qE7sokDv"
+				},
+				{
+					"content_versions": "1.20-1.2.12",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/jJplEQRv/amendments-1.20-1.2.12-fabric.jar",
+					"version": "jJplEQRv"
+				},
+				{
+					"content_versions": "_1.21-1.2.19",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/p6Jaq99z/amendments-1.21-1.2.19-fabric.jar",
+					"version": "p6Jaq99z"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.19",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/Lnqify4R/amendments-1.21-1.2.19-neoforge.jar",
+					"version": "Lnqify4R"
+				},
+				{
+					"content_versions": "_1.21-1.2.18",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/RXEMeD71/amendments-1.21-1.2.18-fabric.jar",
+					"version": "RXEMeD71"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.18",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/fyi1rnvU/amendments-1.21-1.2.18-neoforge.jar",
+					"version": "fyi1rnvU"
+				},
+				{
+					"content_versions": "_1.21-1.2.17",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/4k0IvKdm/amendments-1.21-1.2.17-fabric.jar",
+					"version": "4k0IvKdm"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.17",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/XN2eEJn1/amendments-1.21-1.2.17-neoforge.jar",
+					"version": "XN2eEJn1"
+				},
+				{
+					"content_versions": "_1.21-1.2.14",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/4oFAlmeB/amendments-1.21-1.2.14-fabric.jar",
+					"version": "4oFAlmeB"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.12",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/iwXc2Rxq/amendments-1.21-1.2.12-neoforge.jar",
+					"version": "iwXc2Rxq"
+				},
+				{
+					"content_versions": "_1.21-1.2.12",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/Y18GqHEP/amendments-1.21-1.2.12-fabric.jar",
+					"version": "Y18GqHEP"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.11",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/gaN7i5Qx/amendments-1.21-1.2.11-neoforge.jar",
+					"version": "gaN7i5Qx"
+				},
+				{
+					"content_versions": "_1.21-1.2.11",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/TOrZSIA1/amendments-1.21-1.2.11-fabric.jar",
+					"version": "TOrZSIA1"
+				},
+				{
+					"content_versions": "_1.21-1.2.10",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/EceAXh1l/amendments-1.21-1.2.10-fabric.jar",
+					"version": "EceAXh1l"
+				},
+				{
+					"content_versions": "neo_1.21-1.2.10",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/Ph3wEIFM/amendments-1.21-1.2.10-neoforge.jar",
+					"version": "Ph3wEIFM"
+				},
+				{
+					"content_versions": "1.20-1.2.11",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/i0hLI4bR/amendments-1.20-1.2.11.jar",
+					"version": "i0hLI4bR"
+				},
+				{
+					"content_versions": "1.20-1.2.11",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/FI8aW3bY/amendments-1.20-1.2.11-fabric.jar",
+					"version": "FI8aW3bY"
+				},
+				{
+					"content_versions": "1.20-1.2.10",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/ei9fVtIJ/amendments-1.20-1.2.10.jar",
+					"version": "ei9fVtIJ"
+				},
+				{
+					"content_versions": "1.20-1.2.10",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/qaecyVMb/amendments-1.20-1.2.10-fabric.jar",
+					"version": "qaecyVMb"
+				},
+				{
+					"content_versions": "1.20-1.2.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "moonlight-lib"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/4TKjbzcw/amendments-1.20-1.2.9.jar",
+					"version": "4TKjbzcw"
+				},
+				{
+					"content_versions": "1.20-1.2.9",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"moonlight-lib"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/VtBxNDY8/amendments-1.20-1.2.9-fabric.jar",
+					"version": "VtBxNDY8"
+				},
+				{
 					"content_versions": "1.20-1.2.8",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
@@ -1372,10 +1858,10 @@
 		],
 		"description": "Many changes to vanilla blocks",
 		"gallery": [
-			"https://cdn.modrinth.com/data/6iTJugQR/images/2a580b71fb9fe392db56649311ff52cfab87eb57.png"
+			"https://cdn.modrinth.com/data/6iTJugQR/images/e76f2136f337ce381b9f996ca5f4a7d8818bc45e_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/6iTJugQR/0f0af8eb01acd1da0947c6f9fa6790e558f7aad3.png",
-		"license": "LicenseRef-All-Rights-Reserved",
+		"icon": "https://cdn.modrinth.com/data/6iTJugQR/46e156f1c798bfc3c18bd2a55567af1086674f02_96.webp",
+		"license": "LicenseRef-Supplementaries-Team-License-1.1",
 		"long_description": "  \n\nYou can use this mod in your Modrinth Modpacks!\n\n\n\n📖 About 📖\n\nAmendments is a very configurable mod focused around tweaks to many of existing vanilla blocks.\n\nThe mod aim is to give more functionality and improve the visuals of many vanilla features without adding new ones.\n\nThe mod was born as a merge of some of our existing mods. As such you wont need to install them anymore. These are:\n\nCarpeted stairs\nBetter Lilypads\nBetter Jukeboxes\nSome Supplementaries features\n\nSome of the mod most prominent features are:\n\n \n\nCauldron potion mixing\nWall Lanterns and Lantern Holding Animation\nSkull Piles and Candle Skulls\nBetter Lectern GUI\n \n\n \n\n\n\n🖼️ Features🖼️\n\nCauldrons\n\nCan store ANY liquid\nCan be used to Mix Potions and Dyes\nWhen clicked on will attempt to craft the item in your hand with the liquid they contain\nHave improved animations with splash and bubble particles when falling on as well as missing sounds\nWhen holding water or a potion can Boil if they have a heat source below\nBoiling cauldrons can inflict boiling damage\nStepping into a splash or lingering potion cauldron will apply that potion\nImproved model with Translucency and Ambient Occlusion\n \n\nLecterns\n\nWhen holding a Book and Quill will have a new GUI that adds a Quill button and an Ink Well button\nClick on the Ink Well to cycle between available font colors\nClick on the Quill to cycle between available fonts\nCan now interact with hoppers!\n \n\nLanterns\n\nHave a new 3D animation when held in hand\nWorks both in first and third person\nCan be hung on walls. Works with ANY lantern\nWhen hanging will have pendulum physics!\n \n\nHanging Signs\n\nCan hold any item on both their faces\nCan also display a banner patterns (requires Supplementaries)\nWhen attached to walls will swing with physics!\nWill display a visual connection when attached to fence, walls or similar blocks\n \n\nJukeboxes\n\nNow visually show the disc they are playing\nThey come with new and improved model\nDisc show will also spin while it's playing\nWorks with ANY disc, modded or not\n\nCarpets\nCan be placed on Slabs\nCan be placed on Stairs\nSame goes for moss carpets\n\nCakes\nCan be stacked by placing two ontop of eachother. Works with ANY cake\nVanilla cakes can also be rotated\n \n\nLilypads\n\nCan have any block placed on them\nThis works by making them occupy the block below, turning them into a waterlogged block\nWill revert back when the block is removed\nCan be made to work with any lilypad (feedback needed)\n \n\nMob Skulls\n\nCan be stacked. Works with ANY skull in any combination\nCan have candles placed ontop\nCandle will leave a wax overlay on the skull\n \n\nBrewing Stands\n\nNow will have their potion bottles colored according to what they are holding\n \n\nBanners &  Pots\n\nCan be placed on ceilings\n\nBells\nCan visually connect to chains and ropes below them\nCan be ring by clicking chairn / rope below them\n \n\n\n\n❤️Support Me❤️\n\nModding is taking a lot of my time, so if you like what I do, and you would like to support me, you can do so here. If you do, you'll receive a custom Globe and or Statue just for you! This also applies if you purchase a server from Akliz using \"supplementaries\" code.\n\n \n\n\n\nNeed a server? Check out Akliz, they have top brand servers just for modded minecraft.\nThey really have a cozy community with great support and the servers wonderfully\nUse code \"supplementaries\" to get 20% off and also support me in the process!\n\n\n\n❓ F. A. Q.❓\n\nQ: How do I disable/tweak X feature?\nA: Refer to the Customization section in the Wiki or join our Discord\n\n \n\n \n\n \n\n \n\n\n\n🦉 Our Mods🦉\n\n",
 		"name": "Amendments",
 		"package_maintainers": [
@@ -1384,6 +1870,25 @@
 	},
 	"properties": {
 		"content_versions": [
+			"_1.21-1.2.24",
+			"_1.21-1.2.23",
+			"_1.21-1.2.22",
+			"_1.21-1.2.19",
+			"_1.21-1.2.18",
+			"_1.21-1.2.17",
+			"_1.21-1.2.14",
+			"_1.21-1.2.12",
+			"_1.21-1.2.11",
+			"_1.21-1.2.10",
+			"1.20-1.2.19",
+			"1.20-1.2.18",
+			"1.20-1.2.17",
+			"1.20-1.2.16",
+			"1.20-1.2.14",
+			"1.20-1.2.12",
+			"1.20-1.2.11",
+			"1.20-1.2.10",
+			"1.20-1.2.9",
 			"1.20-1.2.8",
 			"1.20-1.2.7",
 			"1.20-1.2.6",
@@ -1435,7 +1940,16 @@
 			"1.20-1.0.9",
 			"1.20-1.0.8",
 			"1.20-1.0.7",
-			"1.20-1.0.6"
+			"1.20-1.0.6",
+			"neo_1.21-1.2.24",
+			"neo_1.21-1.2.23",
+			"neo_1.21-1.2.22",
+			"neo_1.21-1.2.19",
+			"neo_1.21-1.2.18",
+			"neo_1.21-1.2.17",
+			"neo_1.21-1.2.12",
+			"neo_1.21-1.2.11",
+			"neo_1.21-1.2.10"
 		],
 		"modrinth_id": "6iTJugQR",
 		"supported_modloaders": [
@@ -1451,7 +1965,9 @@
 			"1.20.1",
 			"1.20.2",
 			"1.20.3",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

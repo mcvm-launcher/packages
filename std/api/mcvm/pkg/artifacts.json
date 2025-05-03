@@ -4,6 +4,665 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "13.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "accessories"
+							},
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/t6i4uuEi/artifacts-fabric-13.0.2.jar",
+					"version": "t6i4uuEi"
+				},
+				{
+					"content_versions": "13.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "accessories"
+							},
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "curios-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/xtSh8NaQ/artifacts-neoforge-13.0.2.jar",
+					"version": "xtSh8NaQ"
+				},
+				{
+					"content_versions": "13.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "accessories"
+							},
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ETSKIn2O/artifacts-fabric-13.0.1.jar",
+					"version": "ETSKIn2O"
+				},
+				{
+					"content_versions": "13.0.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "accessories"
+							},
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "curios-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/XqglqC1O/artifacts-neoforge-13.0.1.jar",
+					"version": "XqglqC1O"
+				},
+				{
+					"content_versions": "13.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "accessories"
+							},
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "trinkets"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/aF3qURGR/artifacts-fabric-13.0.0.jar",
+					"version": "aF3qURGR"
+				},
+				{
+					"content_versions": "13.0.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": [
+							{
+								"value": "accessories"
+							},
+							{
+								"value": "cloth-config"
+							},
+							{
+								"value": "curios-api"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/KII5sNYl/artifacts-neoforge-13.0.0.jar",
+					"version": "KII5sNYl"
+				},
+				{
+					"content_versions": "12.1.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"trinkets"
+						],
+						"recommendations": [
+							{
+								"value": "accessories"
+							},
+							{
+								"value": "cloth-config"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/r2Frp5jn/artifacts-fabric-12.1.5.jar",
+					"version": "r2Frp5jn"
+				},
+				{
+					"content_versions": "12.1.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"curios-api"
+						],
+						"recommendations": [
+							{
+								"value": "accessories"
+							},
+							{
+								"value": "cloth-config"
+							}
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ZiWmUeZJ/artifacts-neoforge-12.1.5.jar",
+					"version": "ZiWmUeZJ"
+				},
+				{
+					"content_versions": "9.5.16",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/NEtfVCxm/artifacts-forge-9.5.16.jar",
+					"version": "NEtfVCxm"
+				},
+				{
+					"content_versions": "12.1.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/Q40sULbS/artifacts-fabric-12.1.4.jar",
+					"version": "Q40sULbS"
+				},
+				{
+					"content_versions": "12.1.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/nXBSwxlC/artifacts-neoforge-12.1.4.jar",
+					"version": "nXBSwxlC"
+				},
+				{
+					"content_versions": "12.1.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/YnRecpbJ/artifacts-fabric-12.1.3.jar",
+					"version": "YnRecpbJ"
+				},
+				{
+					"content_versions": "12.1.3",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/MBH77WB6/artifacts-neoforge-12.1.3.jar",
+					"version": "MBH77WB6"
+				},
+				{
+					"content_versions": "12.1.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/uhpAh5FY/artifacts-fabric-12.1.2.jar",
+					"version": "uhpAh5FY"
+				},
+				{
+					"content_versions": "12.1.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/6LbdaF44/artifacts-neoforge-12.1.2.jar",
+					"version": "6LbdaF44"
+				},
+				{
+					"content_versions": "9.5.15",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/Y36wl9Ap/artifacts-forge-9.5.15.jar",
+					"version": "Y36wl9Ap"
+				},
+				{
+					"content_versions": "9.5.15",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/jf0yT7BF/artifacts-fabric-9.5.15.jar",
+					"version": "jf0yT7BF"
+				},
+				{
+					"content_versions": "12.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/2yzaKEA7/artifacts-neoforge-12.1.1.jar",
+					"version": "2yzaKEA7"
+				},
+				{
+					"content_versions": "12.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/hoAyTNeY/artifacts-fabric-12.1.1.jar",
+					"version": "hoAyTNeY"
+				},
+				{
+					"content_versions": "9.5.14",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/OPzRwz7X/artifacts-fabric-9.5.14.jar",
+					"version": "OPzRwz7X"
+				},
+				{
+					"content_versions": "9.5.14",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/7DgBqbvQ/artifacts-forge-9.5.14.jar",
+					"version": "7DgBqbvQ"
+				},
+				{
+					"content_versions": "12.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/LFsBtgTN/artifacts-fabric-12.1.0.jar",
+					"version": "LFsBtgTN"
+				},
+				{
+					"content_versions": "12.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						],
+						"recommendations": {
+							"value": "accessories"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/m4gab3h2/artifacts-neoforge-12.1.0.jar",
+					"version": "m4gab3h2"
+				},
+				{
+					"content_versions": "9.5.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ddhoLf22/artifacts-fabric-9.5.13.jar",
+					"version": "ddhoLf22"
+				},
+				{
+					"content_versions": "9.5.13",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/LkhH2gKX/artifacts-forge-9.5.13.jar",
+					"version": "LkhH2gKX"
+				},
+				{
+					"content_versions": "12.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/A5axAziO/artifacts-fabric-12.0.6.jar",
+					"version": "A5axAziO"
+				},
+				{
+					"content_versions": "12.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/5N2GJypV/artifacts-fabric-12.0.5.jar",
+					"version": "5N2GJypV"
+				},
+				{
+					"content_versions": "12.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/oLw9PXUb/artifacts-neoforge-12.0.5.jar",
+					"version": "oLw9PXUb"
+				},
+				{
+					"content_versions": "12.0.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/aHLeaL2m/artifacts-fabric-12.0.4.jar",
+					"version": "aHLeaL2m"
+				},
+				{
+					"content_versions": "12.0.4",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api-continuation"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/uHFUM7yZ/artifacts-neoforge-12.0.4.jar",
+					"version": "uHFUM7yZ"
+				},
+				{
+					"content_versions": "12.0.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/2s7befRd/artifacts-fabric-12.0.3.jar",
+					"version": "2s7befRd"
+				},
+				{
+					"content_versions": "12.0.3",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api-continuation"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/jSNuKYez/artifacts-neoforge-12.0.3.jar",
+					"version": "jSNuKYez"
+				},
+				{
+					"content_versions": "12.0.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/NV50esMi/artifacts-fabric-12.0.2.jar",
+					"version": "NV50esMi"
+				},
+				{
+					"content_versions": "12.0.2",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api-continuation"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/a2ALFzXl/artifacts-neoforge-12.0.2.jar",
+					"version": "a2ALFzXl"
+				},
+				{
+					"content_versions": "12.0.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/nrhNa8EA/artifacts-fabric-12.0.1.jar",
+					"version": "nrhNa8EA"
+				},
+				{
+					"content_versions": "12.0.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api-continuation"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/HS4Gj6ih/artifacts-neoforge-12.0.1.jar",
+					"version": "HS4Gj6ih"
+				},
+				{
+					"content_versions": "12.0.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"trinkets"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/zFrdv9y8/artifacts-fabric-12.0.0.jar",
+					"version": "zFrdv9y8"
+				},
+				{
+					"content_versions": "12.0.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"cloth-config",
+							"curios-api-continuation"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/k4LL0VHh/artifacts-neoforge-12.0.0.jar",
+					"version": "k4LL0VHh"
+				},
+				{
 					"content_versions": "11.0.4",
 					"minecraft_versions": "1.20.6",
 					"modloaders": "fabriclike",
@@ -1475,55 +2134,55 @@
 		"description": "Adds various treasure items that can be found through exploration",
 		"documentation": "https://github.com/ochotonida/artifacts/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/011b27804cc18af57e472790267a73d9ac03a23e.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/076c11d33843c4b235be3545a750928f831546af.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/0e2498f43ebdc1d7f71e903eab8940dfecbf8653.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/13a66e43218fce429742299e2f791c529a1c1975.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/1a7f9ac24d5a253dfe66eba1ef41f4eb64911c4c.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/22a5a367086dabe854526f24fc989807912f1a1f.png",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/04ff293348a2cf5cd695f17d44a9449d23d9e87a_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/081928a99895f7d333c4310d88f818ee7b7807f6_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/0ed91bdce59973f163e000ea88665e5bfe5271be_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/1084b9b928ed8038ffc9375d4971b45c812ae0c4_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/13a66e43218fce429742299e2f791c529a1c1975_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/1d0b27e170ae945a04af3079b65584d3353a2f2b_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/20724bae6e5c876d532420a02d57e8dceab85e8b_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/21c0142096435786c3aab2f16ad398cac398f196_350.webp",
 			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/25d520a97dca6f4a448edc983460e79f6a0a00b5.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/3797512334b075f1a7147f75a3be744248705426.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/424a4109496812006522ac6ca70c74ee7ebc7c44.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/518f58c323940e629433cb92fa1e115b48009de8.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/526f58902d6840a84284fd186a69fdf02915f283.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/5ea9189c441071cb9319402af866d24aa7078288.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/5f2d761c5a7b91a3a8656f979401fdeefed2002c.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/5f6eb8aedde6b2a7e43ebc7c9f7b7cf675ef9974.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/5fb6306e2e5eec07e05abd0b077421f67547eec8.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/6328bcac3e5f8fc3576b840893ffd7a96f3c8637.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/6990d0b95084d8e9bd9a884a4fde4093abf233e3.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/7034e883c0e562b133700b39687b69c30e96e832.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/720e621cb831db8f8228a9a042090b15d4ac690b.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/792729eea617db12d976c478eae786837f795f60.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/8d56d7ecfadfdf612e7c3ea88277efa7f8e33d66.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/8f5c4c26b78dc3c9543ec95950970bdfea7903d3.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/a2d1393dab7e82a3626c30d5844aad572a37c68d.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/a90f95fb7aa651609cb7846a8419a30fc4474b52.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/a93c907f04a4b5a8508c41da95c7547b94e37249.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/aa0107f4f218fbaef5b991fa96ff1f61dd5159f2.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/b382452ad14426c0c7d4a7892e8e7591afcc4cab.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/b6b377fda58e099565caadb4b80c060a3cde1b15.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/c8b9964c056762a32a1ed9bba7b6255acda639ab.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/cbb5d183e86b8c7c376f17c0557403495c3e63ea.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/ce6d43fc6c0257fb0b5cf634174a79a1449d729f.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/cf23d823e42489aa6fd02b3290248aa83401683e.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/d2c5572788f62c9d86349805f6abcf976e08e9bf.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/d489ff909b9047fa2d944a4c4ce6ed4f8cb6d6ed.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/d53bca9d0d1947db15f8d3de630d9405e13c6d34.png",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/2a60a264a5e4eedee4a4632631d8e1c1a77f2deb_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/2c41c8f79c8573165538488259ca3cea85639adf_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/31347087cd60d788bd5b0f64ecacb840be89fabf_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/314b65736d9099fd34bd3c834f16d9bb3e93aed3_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/327f20264c853c7021a613427f8f0bc3391db628_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/3538e25b23a50aa64ba8d138c34aea0a9018ad99_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/35d1305c0fd2560d4eb2c0105b0057ac016ea6a3_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/40d0515db7f377abbd414469ba65cf08a5bbd989_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/47e76477a4421ef9dd0b3ab5bafc7ae2b4becdcd_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/497a1020e54a765196f0cfc21cf3eb001d441e61_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/60631dc1f9de9d6d0f20fe902c1ab6832176889c_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/66df0582a61c60c427ad5ea01c7770b24801c93d_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/792729eea617db12d976c478eae786837f795f60_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/7ad3a459f6f567771263dc1e5d9ed51cc21148df_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/7d6f6e32524f00838ec630c8dff74f3f7aa1f920_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/806c6c4c6f90c3238bb85cc18f54fc032130a54c_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/899f9fd68f8917543c9c39c95cd3be793856cb4d_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/8fa3638b20b52f64f296e7ce2aa0ab027001bc2f_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/92f3317bc77477b16b81dcdba15c261010716d32_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/97592943fa12e8f178af8e20c7e91b8a066a0abe_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/98b028da572063acf9f7aefe39e30a38e35b4960_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/a33c990b43280b1eeb8c9eaf84bd6484c405890c_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/b0cceb6b760e2aaaec0111f228f1a8cc9297a300_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/bf5d63456767835df1ac9df247b0d914da50a6b5_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/c083d88f5e5d7ee3ed384eaa24568b80f1c29228_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/ca103e5dad01443c83f314ebd32ac3dbde75d6ef_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/cf23d823e42489aa6fd02b3290248aa83401683e_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/d9e74fc38857bd33d4ae8636211738327f18494c_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/df1eb4b96a52f82b5d41b7ebd665d6bf5c56ff18_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/df69c9a2fd64b46ebcd7d87072b4f3a2697f23ec_350.webp",
 			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/e2279f56e79b7e821df06edf61fdc3ebaae63780.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/ec89b0ac3b29289bdb05e710c89be3ee748f8b19.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/ed445746d8c1ab261a831a96e57478a7d8645bcb.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/eefdef822049ba8d848aacb3b9fec4da0c782adc.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/f5b68c23e8d02742644b9092e3261ab63da9fd84.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/f5d6423517f898cf2a3dbb12c8cc08b2222f1d6c.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/f8df0d38edcda36e6d8fe13f41552f70fd96b263.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/f97e834a38ba8a1ef926731854106a6260861745.png",
-			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/fa8a4d52cebae479c0e59b9172409dc8e9f2e7a2.png"
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/e24d62266f4e2ba245a8f2714180ed57cdbf14e6_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/f3ab5de5686a36b736bbf15d8448092297c284b6_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/f80319426740a1a3b22bd9e6bb44ac885abab2a5_350.webp",
+			"https://cdn.modrinth.com/data/P0Mu4wcQ/images/fbbdba8fb8da4f710d254d95cbe2aa912f188441_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/P0Mu4wcQ/icon.png",
 		"issues": "https://github.com/ochotonida/artifacts/issues",
 		"license": "MIT",
-		"long_description": "![](https://raw.githubusercontent.com/ochotonida/artifacts/1.18/src/main/resources/logo.png)\n\nSome older versions of this mod can be found on curseforge: [Forge](https://www.curseforge.com/minecraft/mc-mods/artifacts) /  [Fabric](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric)\n\nArtifacts is a mod which aims to make exploration more rewarding by adding various powerful items that cannot be crafted.\n\nThe items added by this mod can be found in chests in vanilla structures, through archaeology, or can very rarely be found worn by entities. All artifacts only have a few chests in which they can be found, so go out and explore! Additionally, a new underground campsite structure has been added. Mimics occasionally spawn in these campsites instead of a chests, which are dangerous enemies that attack players that get too close. Mimics always drop a random artifact when killed.\n\nEvery item added by this mod has a unique model when equipped. The full set of items and their descriptions can be found in the images tab. Sn up-to-date list of where each item can be found is available on the wiki on GitHub.\n\n![](https://user-images.githubusercontent.com/37985539/118691060-fdaaa400-b808-11eb-97c8-2f45ef277c52.png)\n\n## Frequently Asked Questions\n\n\n#### _Some items are too powerful, is there some way I can change that?_\n\nArtifacts adds various game rules that allow you to change or completely disable the effects of all items added by the mod.\nIn versions for Forge 1.19.2 and below, most of these config options are located in the server config. Unlike the client and common config files, server config files are located in your world save's _serverconfigs_ folder. Preventing specific items from spawning in chests is currently not possible without creating a data pack, but it is possible to change how rare artifacts are in general using the artifactRarity (for items in chests) and campsite count/mimicChance (for mimics) config options.\n\n#### _How do I change the amount of slots for my artifacts?_\n\nIf you're using the Forge version, It is possible to change the number of slots of each type using the Curios server config. The '/curios' command can also be used to add/remove slots for one specific player. If you want to change the slot an artifact can be placed in, you will need to create a data pack and change the item tags that determine the artifact's slot types.\nMore information on how to do all of these things can be found on the [Curios wiki](https://github.com/TheIllusiveC4/Curios/wiki/How-to-Use:-Users).\n\nIf you're using the Fabric version, modifying the number of slots players have requires creating a data pack. Information about the data formats used can be found on the [Trinkets wiki](https://github.com/emilyploszaj/trinkets/wiki/Trinkets-Data-Formats).\n\n#### _Which mod are you using to put artifacts on armor stands?_\n\n[Curious Armor Stands](https://www.curseforge.com/minecraft/mc-mods/curious-armor-stands \"\").\n\n#### _Can I still find artifacts if I add this mod to a world that has already been generated?_\n\nCampsites and mimics will only spawn in chunks that were generated after you downloaded the mod. You will still be able to find artifacts in unopened chests in existing chunks.\n\n#### [Forge] _Whey I try to open the Curios menu to equip my artifacts, nothing happens._\n\nSome server plugins can cause this (https://github.com/TheIllusiveC4/Curios/issues/131). If you're using plugins, verify that this issue also happens in a Forge-only environment before asking for help.\n\n[![](https://discordapp.com/api/guilds/298798089068609537/widget.png?style=banner2)](https://discord.gg/87pXJadaRr)",
+		"long_description": "![](https://raw.githubusercontent.com/ochotonida/artifacts/1.18/src/main/resources/logo.png)\n\nSome older versions of this mod can be found on curseforge: [Forge](https://www.curseforge.com/minecraft/mc-mods/artifacts) /  [Fabric](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric)\n\nArtifacts is a mod which aims to make exploration more rewarding by adding various powerful items that cannot be crafted.\n\nThe items added by this mod can be found in chests in vanilla structures, through archaeology, or can very rarely be found worn by entities. All artifacts only have a few chests in which they can be found, so go out and explore! Additionally, a new underground campsite structure has been added. Mimics occasionally spawn in these campsites instead of a chests, which are dangerous enemies that attack players that get too close. Mimics always drop a random artifact when killed.\n\nEvery item added by this mod has a unique model when equipped. The full set of items and their descriptions can be found in the images tab. Sn up-to-date list of where each item can be found is available on the wiki on GitHub.\n\n![](https://user-images.githubusercontent.com/37985539/118691060-fdaaa400-b808-11eb-97c8-2f45ef277c52.png)",
 		"name": "Artifacts",
 		"package_maintainers": [
 			"mcvm"
@@ -1532,6 +2191,22 @@
 	},
 	"properties": {
 		"content_versions": [
+			"13.0.2",
+			"13.0.1",
+			"13.0.0",
+			"12.1.5",
+			"12.1.4",
+			"12.1.3",
+			"12.1.2",
+			"12.1.1",
+			"12.1.0",
+			"12.0.6",
+			"12.0.5",
+			"12.0.4",
+			"12.0.3",
+			"12.0.2",
+			"12.0.1",
+			"12.0.0",
 			"11.0.4",
 			"11.0.3",
 			"11.0.2",
@@ -1550,6 +2225,10 @@
 			"10.0.2",
 			"10.0.1",
 			"10.0.0",
+			"9.5.16",
+			"9.5.15",
+			"9.5.14",
+			"9.5.13",
 			"9.5.12",
 			"9.5.11",
 			"9.5.10",
@@ -1617,7 +2296,9 @@
 			"1.19.4",
 			"1.20.1",
 			"1.20.4",
-			"1.20.6"
+			"1.20.6",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

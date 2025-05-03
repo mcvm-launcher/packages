@@ -4,6 +4,480 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "3.0.0-beta3",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/yT1iVfhj/tectonic-3.0.0%2Bbeta3.jar",
+					"version": "yT1iVfhj"
+				},
+				{
+					"content_versions": "3.0.0-beta3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/ETTE7A0g/tectonic-3.0.0%2Bbeta3.jar",
+					"version": "ETTE7A0g"
+				},
+				{
+					"content_versions": "3.0.0-beta3",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"lithostitched"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/oNPszaNH/tectonic-3.0.0%2Bbeta3.jar",
+					"version": "oNPszaNH"
+				},
+				{
+					"content_versions": "3.0.0-beta3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"conflicts": "continents",
+						"dependencies": [
+							"fabriclike-api",
+							"lithostitched"
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/k2Py1GeI/tectonic-3.0.0%2Bbeta3.jar",
+					"version": "k2Py1GeI"
+				},
+				{
+					"content_versions": "3.0.0-beta2",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": [
+							"continents",
+							"terralith"
+						],
+						"dependencies": "lithostitched",
+						"recommendations": {
+							"value": "worldgen-patches"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/TmDm0aIN/tectonic-3.0.0%2Bbeta2.jar",
+					"version": "TmDm0aIN"
+				},
+				{
+					"content_versions": "3.0.0-beta2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": [
+							"continents",
+							"terralith"
+						],
+						"dependencies": "lithostitched",
+						"recommendations": {
+							"value": "worldgen-patches"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/HkeHCxVw/tectonic-3.0.0%2Bbeta2.jar",
+					"version": "HkeHCxVw"
+				},
+				{
+					"content_versions": "3.0.0-beta1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": [
+							"continents",
+							"terralith"
+						],
+						"dependencies": "lithostitched",
+						"recommendations": {
+							"value": "worldgen-patches"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/jBh7Wwtd/tectonic-3.0.0%2Bbeta1.jar",
+					"version": "jBh7Wwtd"
+				},
+				{
+					"content_versions": "3.0.0-beta1",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"conflicts": [
+							"continents",
+							"terralith"
+						],
+						"dependencies": [
+							"fabriclike-api",
+							"lithostitched"
+						],
+						"recommendations": {
+							"value": "worldgen-patches"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/xi1pEf5s/tectonic-3.0.0%2Bbeta1.jar",
+					"version": "xi1pEf5s"
+				},
+				{
+					"content_versions": "3.0.0-beta1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"conflicts": [
+							"continents",
+							"terralith"
+						],
+						"dependencies": "lithostitched",
+						"recommendations": {
+							"value": "worldgen-patches"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/tkGFiAQf/tectonic-3.0.0%2Bbeta1.jar",
+					"version": "tkGFiAQf"
+				},
+				{
+					"content_versions": "3.0.0-beta1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"conflicts": [
+							"continents",
+							"terralith"
+						],
+						"dependencies": [
+							"fabriclike-api",
+							"lithostitched"
+						],
+						"recommendations": {
+							"value": "worldgen-patches"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/iMrttvuL/tectonic-3.0.0%2Bbeta1.jar",
+					"version": "iMrttvuL"
+				},
+				{
+					"content_versions": "2.4.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"lithostitched"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/w19S52ln/tectonic-fabric-1.20.1-2.4.4.jar",
+					"version": "w19S52ln"
+				},
+				{
+					"content_versions": "2.4.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"lithostitched"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/FOOSlG8w/tectonic-fabric-1.21.4-2.4.3.jar",
+					"version": "FOOSlG8w"
+				},
+				{
+					"content_versions": "2.4.3",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/SEh7nPmu/tectonic-neoforge-1.21.4-2.4.3.jar",
+					"version": "SEh7nPmu"
+				},
+				{
+					"content_versions": "2.4.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"lithostitched"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/1ow108KF/tectonic-fabric-1.21.1-2.4.3.jar",
+					"version": "1ow108KF"
+				},
+				{
+					"content_versions": "2.4.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "lithostitched"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/W3PK2UDI/tectonic-neoforge-1.21.1-2.4.3.jar",
+					"version": "W3PK2UDI"
+				},
+				{
+					"content_versions": "2.4.3",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"lithostitched"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/1txYZPRb/tectonic-fabric-1.20.1-2.4.3.jar",
+					"version": "1txYZPRb"
+				},
+				{
+					"content_versions": "2.4.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "lithostitched"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/8uiKNgr3/tectonic-fabric-1.21.4-2.4.2.jar",
+					"version": "8uiKNgr3"
+				},
+				{
+					"content_versions": "2.4.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "lithostitched"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/gYDD8tuz/tectonic-neoforge-1.21.4-2.4.2.jar",
+					"version": "gYDD8tuz"
+				},
+				{
+					"content_versions": "2.4.1a",
+					"minecraft_versions": [
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/3puAlKOm/tectonic-neoforge-1.21-2.4.1a.jar",
+					"version": "3puAlKOm"
+				},
+				{
+					"content_versions": "2.4.1a",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "lithostitched"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/hw0WALVM/tectonic-fabric-1.21.2-2.4.1a.jar",
+					"version": "hw0WALVM"
+				},
+				{
+					"content_versions": "2.4.1b",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "lithostitched"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/8JhzXwo0/tectonic-fabric-1.20.1-2.4.1b.jar",
+					"version": "8JhzXwo0"
+				},
+				{
+					"content_versions": "2.4.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "lithostitched"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/APO6bJT8/tectonic-fabric-1.20.1-2.4.1.jar",
+					"version": "APO6bJT8"
+				},
+				{
+					"content_versions": "2.4.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/ubqOXeYf/tectonic-forge-1.20.1-2.4.1.jar",
+					"version": "ubqOXeYf"
+				},
+				{
+					"content_versions": "2.4.1a",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "lithostitched"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/mSYrCaov/tectonic-fabric-1.21.1-2.4.1a.jar",
+					"version": "mSYrCaov"
+				},
+				{
+					"content_versions": "2.4.1a",
+					"minecraft_versions": [
+						"1.21.1",
+						"1.21.2"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "lithostitched"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/VpkImE3i/tectonic-neoforge-1.21.1-2.4.1a.jar",
+					"version": "VpkImE3i"
+				},
+				{
+					"content_versions": "2.4.1",
+					"minecraft_versions": "1.21",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "lithostitched"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/YcKxW5iv/tectonic-fabric-1.21-2.4.1.jar",
+					"version": "YcKxW5iv"
+				},
+				{
+					"content_versions": "2.4.1",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "lithostitched"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/tCgW744S/tectonic-neoforge-1.21-2.4.1.jar",
+					"version": "tCgW744S"
+				},
+				{
 					"content_versions": "2.4.0",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -2005,24 +2479,24 @@
 		"authors": [
 			"Apollo"
 		],
-		"banner": "https://cdn.modrinth.com/data/lWDHr9jE/images/e938f5657bc99037414b8bed8a3e271b65337837.png",
+		"banner": "https://cdn.modrinth.com/data/lWDHr9jE/images/e45869292a120c93dd02f0e9d6ac8168383743d0_350.webp",
 		"description": "Massively altered world generation with mountain ranges, underground rivers and more!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/e938f5657bc99037414b8bed8a3e271b65337837.png",
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/228314655b8c26c4f0746cbf3e3dfdafc3e57f93.png",
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/3df9fd94422d1730be28048ee6512c7b7ac69d52.png",
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/65b343e2df4520242507dc817a484578a7d92e7f.png",
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/961e536a52bb37553350fa27260ae60e69407ed3.png",
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/9c8ea022c15c6975070c8d265d7ff07c4f53cbbb.png",
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/b30a590da1d0f855c5631f929ae87e53031a66ff.png",
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/d23b18facd969b167319cfb72183b00908891389.png",
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/e72b8b90aa0252879df78b1be12fb11f61830d9b.png",
-			"https://cdn.modrinth.com/data/lWDHr9jE/images/3797bb32f05af523d3ec2a76b6c3c4f9187fac50.png"
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/e45869292a120c93dd02f0e9d6ac8168383743d0_350.webp",
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/55ed58601e464f095b3fe356fa34f15fd6904a57_350.webp",
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/10c56b3eb1afb1cc38b77c19de860887a5750290_350.webp",
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/16b37e6d83f71cfa475e0aa1a7ce994a426d18e8_350.webp",
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/5522cd86a0c18552bcaa8143f988b84708c1197b_350.webp",
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/7d1455c27bc0384ff7555d51d039a7a1f2587937_350.webp",
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/8020200518f9cd6a9baeddf19eec890b98d4ca13_350.webp",
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/d524d3f79e15520e900000d52083c1f13028d826_350.webp",
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/d5f9d68cbc5241b3e18d137e64ec491c09c3a087_350.webp",
+			"https://cdn.modrinth.com/data/lWDHr9jE/images/cb547f9b5ff69f0144a1af9fd125a13e14742441_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/lWDHr9jE/9459286c7225ed66c57201881c12e8d1bb8fd2ce.png",
+		"icon": "https://cdn.modrinth.com/data/lWDHr9jE/c7a4e685e92e64d07860ecee7b8669022fd0985d_96.webp",
 		"issues": "https://github.com/Apollounknowndev/tectonic/issues",
 		"license": "MIT",
-		"long_description": "![Tectonic logo](https://cdn.modrinth.com/data/lWDHr9jE/images/3797bb32f05af523d3ec2a76b6c3c4f9187fac50.png)\n\nWelcome to **Tectonic**, a world generation project that aims to transform how terrain is shaped.\n\n## Important Notes\n\nTectonic is available as a datapack and as a Fabric/Neoforge mod. Forge mod versions are discontinued starting with 1.20.5.\n\nIf you are using Terralith with Tectonic **as datapacks**, install [Terratonic](https://modrinth.com/datapack/terratonic) instead of Tectonic. If you are using the two projects **as mods**, you don't need to install anything extra.\n\n## Description\n\nTectonic makes several large, impactful changes to worldgen.\n\nFeatures labeled with 🎚️ can be toggled on and off in the mod version's config file.\n\n### Mountain Ranges\n\nThe way mountains generate has been completely overhauled, with them forming huge mountain ranges that can stretch for thousands of blocks. These can stretch higher than vanilla mountains do, sometimes reaching peaks above y300!\n\nThe mod version's config file provides several options for customizing mountain generation:\n- `terrain_scale`: Vertically scales terrain, higher values = more extreme terrain heights\n- `horizontal_mountain_scale`: Horizontally scales mountains, lower values = less steep mountain slopes\n- `increased_height`: Enables a built-in datapack that increases the Overworld build and generation height to 640\n\n### Underground Rivers 🎚️\n\nIn mountainous terrain that is too towering to allow regular river generation, terrain gets carved for rivers to continue underground. These link right up to the regular rivers, so there's no interruption in exploring along rivers.  Very deep underground, you can even find a deeper variant with lava instead of water.\n\n### Oceanside Cliffs\n\nOn some steep cliff faces in the Stony Shore biome, waves and wind carve into the cliff. (Disclaimer: waves and wind not included.)\n\n### Smoother Surfaces\n\nOne of (if not the most) notable changes to generation you'll see with Tectonic is that terrain is much smoother than normal. This means the strange staircasing on some hills - also referred to as \"lerp\" issues - is gone. In previous Tectonic versions this meant that Windswept biomes were removed from generation, but in v2 and above they will once again generate.\n\n### Dunes 🎚️\n\nSmooth desert dunes will generate in some Desert biomes, giving Deserts a special look to them.\n\n### Deeper Oceans 🎚️\n\nOceans are much deeper than they are in vanilla, with deep oceans even extending into the deepslate layer!\n\nIf the mod version is installed, vanilla Ocean Monuments will generate deeper to compensate for the deeper oceans.\n",
+		"long_description": "![Tectonic logo](https://cdn.modrinth.com/data/lWDHr9jE/images/3797bb32f05af523d3ec2a76b6c3c4f9187fac50.png)\n\nWelcome to **Tectonic**, a world generation project that aims to transform how terrain is shaped.\n\n## Important Notes\n\nTectonic's supported versions are currently 1.21.1 and 1.21.4 as a datapack, Fabric mod, and Neoforge mod.\n\nIf you are using Terralith with Tectonic **as datapacks**, install [Terratonic](https://modrinth.com/datapack/terratonic) instead of Tectonic. If you are using the two projects **as mods**, you don't need to install anything extra.\n\n## Description\n\nTectonic makes several large, impactful changes to worldgen.\n\nFeatures labeled with 🎚️ can be toggled on and off in the mod version's config file.\n\n### Mountain Ranges\n\nThe way mountains generate has been completely overhauled, with them forming huge mountain ranges that can stretch for thousands of blocks. These can stretch higher than vanilla mountains do, sometimes reaching peaks above y300!\n\nThe mod version's config file provides several options for customizing mountain generation:\n- `terrain_scale`: Vertically scales terrain, higher values = more extreme terrain heights\n- `horizontal_mountain_scale`: Horizontally scales mountains, lower values = less steep mountain slopes\n- `increased_height`: Enables a built-in datapack that increases the Overworld build and generation height to 640\n\n### Underground Rivers 🎚️\n\nIn mountainous terrain that is too towering to allow regular river generation, terrain gets carved for rivers to continue underground. These link right up to the regular rivers, so there's no interruption in exploring along rivers.  Very deep underground, you can even find a deeper variant with lava instead of water.\n\n### Oceanside Cliffs\n\nOn some steep cliff faces in the Stony Shore biome, waves and wind carve into the cliff. (Disclaimer: waves and wind not included.)\n\n### Smoother Surfaces\n\nOne of (if not the most) notable changes to generation you'll see with Tectonic is that terrain is much smoother than normal. This means the strange staircasing on some hills - also referred to as \"lerp\" issues - is gone. In previous Tectonic versions this meant that Windswept biomes were removed from generation, but in v2 and above they will once again generate.\n\n### Dunes 🎚️\n\nSmooth desert dunes will generate in some Desert biomes, giving Deserts a special look to them.\n\n### Deeper Oceans 🎚️\n\nOceans are much deeper than they are in vanilla, with deep oceans even extending into the deepslate layer!\n\nIf the mod version is installed, vanilla Ocean Monuments will generate deeper to compensate for the deeper oceans.\n",
 		"name": "Tectonic",
 		"package_maintainers": [
 			"mcvm"
@@ -2032,6 +2506,15 @@
 	},
 	"properties": {
 		"content_versions": [
+			"3.0.0-beta3",
+			"3.0.0-beta2",
+			"3.0.0-beta1",
+			"2.4.4",
+			"2.4.3",
+			"2.4.2",
+			"2.4.1",
+			"2.4.1b",
+			"2.4.1a",
 			"2.4.0",
 			"2.3.5",
 			"2.3.5b",
@@ -2041,9 +2524,9 @@
 			"2.3.3",
 			"2.3.2",
 			"2.3.1",
-			"2.3.1a",
 			"2.3",
 			"2.3a",
+			"2.3.1a",
 			"2.2.1",
 			"2.2.1a",
 			"2.2",
@@ -2051,9 +2534,9 @@
 			"2.1.2a",
 			"2.1.1",
 			"2.1",
+			"2.0",
 			"2.0-beta1",
 			"2.0.1",
-			"2.0",
 			"1.1.10",
 			"1.1.10a",
 			"1.1.9-1.19-mod",
@@ -2116,7 +2599,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

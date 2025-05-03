@@ -4,6 +4,90 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.4.2-1.21",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iG6ZHsUV/versions/4sXZok62/Cull%20Less%20Leaves-1.4.2%2B1.21-fabric.jar",
+					"version": "4sXZok62"
+				},
+				{
+					"content_versions": "1.4.1-1.21",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iG6ZHsUV/versions/OsbXrC8A/Cull%20Less%20Leaves-1.4.1%2B1.21-fabric.jar",
+					"version": "OsbXrC8A"
+				},
+				{
+					"content_versions": "1.4.0-1.21",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2",
+						"1.20.3",
+						"1.20.4",
+						"1.20.5",
+						"1.20.6",
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium",
+							"yacl"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iG6ZHsUV/versions/sfHibQK2/Cull%20Less%20Leaves-1.4.0%2B1.21-fabric.jar",
+					"version": "sfHibQK2"
+				},
+				{
 					"content_versions": "1.3.0",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
@@ -184,11 +268,11 @@
 		"authors": [
 			"isxander"
 		],
-		"banner": "https://cdn.modrinth.com/data/iG6ZHsUV/images/01b40bedd98bcd8af261d2a59ba9a8ddecec8bcd.png",
+		"banner": "https://cdn.modrinth.com/data/iG6ZHsUV/images/cec4c16812e4acbea0ddab333616c112ccb19ca6_350.webp",
 		"community": "https://discord.gg/AJv5ZnNT8q",
 		"description": "Cull leaves while looking hot!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/iG6ZHsUV/images/01b40bedd98bcd8af261d2a59ba9a8ddecec8bcd.png"
+			"https://cdn.modrinth.com/data/iG6ZHsUV/images/cec4c16812e4acbea0ddab333616c112ccb19ca6_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/iG6ZHsUV/icon.png",
 		"issues": "https://github.com/isXander/CullLessLeaves/issues",
@@ -199,10 +283,13 @@
 			"mcvm"
 		],
 		"source": "https://github.com/isXander/CullLessLeaves",
-		"support_link": "https://ko-fi.com/isxander"
+		"support_link": "https://patreon.com/isxander"
 	},
 	"properties": {
 		"content_versions": [
+			"1.4.2-1.21",
+			"1.4.1-1.21",
+			"1.4.0-1.21",
 			"1.3.0",
 			"1.2.0",
 			"1.1.0",
@@ -229,7 +316,14 @@
 			"1.19.3",
 			"1.19.4",
 			"1.20",
-			"1.20.1"
+			"1.20.1",
+			"1.20.2",
+			"1.20.3",
+			"1.20.4",
+			"1.20.5",
+			"1.20.6",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

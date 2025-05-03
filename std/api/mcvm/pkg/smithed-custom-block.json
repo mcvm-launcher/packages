@@ -4,6 +4,44 @@
 			"kind": "datapack",
 			"versions": [
 				{
+					"minecraft_versions": "1.21.5",
+					"url": "https://github.com/Smithed-MC/Libraries/blob/0faf7ad9b3e19a1e61dda4c3b81f33e677b3919c/1.21.5/custom_block/smithed_custom_block_dp.zip?raw=true",
+					"version": "smithed-version-0-7-0"
+				},
+				{
+					"minecraft_versions": "1.21.4",
+					"url": "https://github.com/Smithed-MC/Libraries/blob/c455d83a59a78e0b871c5c7b77dd551a8a8bb444/1.21.4/custom_block/smithed_custom_block_dp.zip?raw=true",
+					"version": "smithed-version-0-6-2"
+				},
+				{
+					"minecraft_versions": "1.21.3",
+					"url": "https://github.com/Smithed-MC/Libraries/blob/153f27f6ab6ec04b9ef6d25bc1d482ab58f4367a/1.21.3/custom_block/smithed_custom_block_dp.zip?raw=true",
+					"version": "smithed-version-0-5-0"
+				},
+				{
+					"minecraft_versions": "1.21.1",
+					"url": "https://github.com/Smithed-MC/Libraries/blob/c1a0d2e3ad281b1cb28b73e68cc832debdb517f4/1.21.1/custom_block/smithed_custom_block_dp.zip?raw=true",
+					"version": "smithed-version-0-4-4"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"url": "https://github.com/Smithed-MC/Libraries/blob/13a098301a738ec8fe585f6ab683004db4aa9b7a/1.20/custom_block/smithed_custom_block_dp.zip?raw=true",
+					"version": "smithed-version-0-4-3"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"url": "https://github.com/Smithed-MC/Libraries/blob/d2a6afbe803cccaf2bcd943cfcfa95f03c5748d0/1.20/custom_block/smithed_custom_block_dp.zip?raw=true",
+					"version": "smithed-version-0-4-2"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"url": "https://github.com/Smithed-MC/Libraries/blob/2e1591a62d72b64fe7888f2f626b354013cf3144/1.20/custom_block/smithed_custom_block_dp.zip?raw=true",
+					"version": "smithed-version-0-4-1"
+				},
+				{
 					"minecraft_versions": [
 						"1.20",
 						"1.20.1"
@@ -21,6 +59,24 @@
 		"resourcepack": {
 			"kind": "resource_pack",
 			"versions": [
+				{
+					"minecraft_versions": "1.21.5",
+					"url": "https://github.com/Smithed-MC/Libraries/blob/0faf7ad9b3e19a1e61dda4c3b81f33e677b3919c/1.21.5/crafter/smithed_crafter_rp.zip?raw=true",
+					"version": "smithed-version-0-7-0"
+				},
+				{
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"url": "https://github.com/Smithed-MC/Libraries/blob/d2a6afbe803cccaf2bcd943cfcfa95f03c5748d0/1.20/crafter/smithed_crafter_rp.zip?raw=true",
+					"version": "smithed-version-0-4-2"
+				},
+				{
+					"minecraft_versions": "1.20",
+					"url": "https://github.com/Smithed-MC/Libraries/blob/2e1591a62d72b64fe7888f2f626b354013cf3144/1.20/crafter/smithed_crafter_rp.zip?raw=true",
+					"version": "smithed-version-0-4-1"
+				},
 				{
 					"minecraft_versions": [
 						"1.20",
@@ -55,7 +111,13 @@
 		"open_source": true,
 		"smithed_id": "custom-block",
 		"supported_versions": [
+			"1.21.5",
+			"1.21.4",
+			"1.21.3",
+			"1.21.1",
 			"1.20",
+			"1.20.5",
+			"1.20.6",
 			"1.20.1",
 			"1.19"
 		],

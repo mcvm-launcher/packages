@@ -4,6 +4,595 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v21.5.1-1.21.5-Neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/AqDXmnNa/ForgeConfigAPIPort-v21.5.1-1.21.5-NeoForge.jar",
+					"version": "AqDXmnNa"
+				},
+				{
+					"content_versions": "v21.5.1-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/8YH0O6BJ/ForgeConfigAPIPort-v21.5.1-1.21.5-Forge.jar",
+					"version": "8YH0O6BJ"
+				},
+				{
+					"content_versions": "v21.5.1-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/mlQdrgSO/ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar",
+					"version": "mlQdrgSO"
+				},
+				{
+					"content_versions": "v21.5.0-1.21.5-Neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/DTvWt6rh/ForgeConfigAPIPort-v21.5.0-1.21.5-NeoForge.jar",
+					"version": "DTvWt6rh"
+				},
+				{
+					"content_versions": "v21.5.0-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/30kzHRCp/ForgeConfigAPIPort-v21.5.0-1.21.5-Fabric.jar",
+					"version": "30kzHRCp"
+				},
+				{
+					"content_versions": "v8.0.2-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/1aKtMQZE/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+					"version": "1aKtMQZE"
+				},
+				{
+					"content_versions": "v21.4.1-1.21.4-Neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/cLjwgrWm/ForgeConfigAPIPort-v21.4.1-1.21.4-NeoForge.jar",
+					"version": "cLjwgrWm"
+				},
+				{
+					"content_versions": "v21.4.1-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/F95iyzlf/ForgeConfigAPIPort-v21.4.1-1.21.4-Forge.jar",
+					"version": "F95iyzlf"
+				},
+				{
+					"content_versions": "v21.4.1-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/lTrPTmMK/ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar",
+					"version": "lTrPTmMK"
+				},
+				{
+					"content_versions": "v21.3.3-1.21.3-Neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/WxNuOsdE/ForgeConfigAPIPort-v21.3.3-1.21.3-NeoForge.jar",
+					"version": "WxNuOsdE"
+				},
+				{
+					"content_versions": "v21.3.3-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/yDl5szfw/ForgeConfigAPIPort-v21.3.3-1.21.3-Forge.jar",
+					"version": "yDl5szfw"
+				},
+				{
+					"content_versions": "v21.3.3-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/DmvpqvAw/ForgeConfigAPIPort-v21.3.3-1.21.3-Fabric.jar",
+					"version": "DmvpqvAw"
+				},
+				{
+					"content_versions": "v21.1.3-1.21.1-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/iigguueA/ForgeConfigAPIPort-v21.1.3-1.21.1-NeoForge.jar",
+					"version": "iigguueA"
+				},
+				{
+					"content_versions": "v21.1.3-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/D4gwaaOI/ForgeConfigAPIPort-v21.1.3-1.21.1-Forge.jar",
+					"version": "D4gwaaOI"
+				},
+				{
+					"content_versions": "v21.1.3-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/NqVx7ywO/ForgeConfigAPIPort-v21.1.3-1.21.1-Fabric.jar",
+					"version": "NqVx7ywO"
+				},
+				{
+					"content_versions": "v21.4.0-1.21.4-Neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/U5epFr4M/ForgeConfigAPIPort-v21.4.0-1.21.4-NeoForge.jar",
+					"version": "U5epFr4M"
+				},
+				{
+					"content_versions": "v21.4.0-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/U3jo8Ruz/ForgeConfigAPIPort-v21.4.0-1.21.4-Fabric.jar",
+					"version": "U3jo8Ruz"
+				},
+				{
+					"content_versions": "v21.3.2-1.21.3-Neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/5nR6ZFLo/ForgeConfigAPIPort-v21.3.2-1.21.3-NeoForge.jar",
+					"version": "5nR6ZFLo"
+				},
+				{
+					"content_versions": "v21.3.2-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/zKyu1B19/ForgeConfigAPIPort-v21.3.2-1.21.3-Forge.jar",
+					"version": "zKyu1B19"
+				},
+				{
+					"content_versions": "v21.3.2-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/rfzwvtf5/ForgeConfigAPIPort-v21.3.2-1.21.3-Fabric.jar",
+					"version": "rfzwvtf5"
+				},
+				{
+					"content_versions": "v21.1.2-1.21.1-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/XAJonlKw/ForgeConfigAPIPort-v21.1.2-1.21.1-NeoForge.jar",
+					"version": "XAJonlKw"
+				},
+				{
+					"content_versions": "v21.1.2-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/Y8MID0SX/ForgeConfigAPIPort-v21.1.2-1.21.1-Forge.jar",
+					"version": "Y8MID0SX"
+				},
+				{
+					"content_versions": "v21.1.2-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/h0NwCvfv/ForgeConfigAPIPort-v21.1.2-1.21.1-Fabric.jar",
+					"version": "h0NwCvfv"
+				},
+				{
+					"content_versions": "v8.0.1-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/Qs8LaZLo/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar",
+					"version": "Qs8LaZLo"
+				},
+				{
+					"content_versions": "v21.3.1-1.21.3-Neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/Bceb719b/ForgeConfigAPIPort-v21.3.1-1.21.3-NeoForge.jar",
+					"version": "Bceb719b"
+				},
+				{
+					"content_versions": "v21.3.1-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/FBQxdgNw/ForgeConfigAPIPort-v21.3.1-1.21.3-Forge.jar",
+					"version": "FBQxdgNw"
+				},
+				{
+					"content_versions": "v21.3.1-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/DsrEE2v9/ForgeConfigAPIPort-v21.3.1-1.21.3-Fabric.jar",
+					"version": "DsrEE2v9"
+				},
+				{
+					"content_versions": "v21.3.0-1.21.3-Neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/jaexLZJz/ForgeConfigAPIPort-v21.3.0-1.21.3-NeoForge.jar",
+					"version": "jaexLZJz"
+				},
+				{
+					"content_versions": "v21.3.0-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/4cCcvv3n/ForgeConfigAPIPort-v21.3.0-1.21.3-Fabric.jar",
+					"version": "4cCcvv3n"
+				},
+				{
+					"content_versions": "v21.1.1-1.21.1-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/IQXTIhtY/ForgeConfigAPIPort-v21.1.1-1.21.1-NeoForge.jar",
+					"version": "IQXTIhtY"
+				},
+				{
+					"content_versions": "v21.1.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/gBWcBo4D/ForgeConfigAPIPort-v21.1.1-1.21.1-Forge.jar",
+					"version": "gBWcBo4D"
+				},
+				{
+					"content_versions": "v21.1.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/ZlbHFjxE/ForgeConfigAPIPort-v21.1.1-1.21.1-Fabric.jar",
+					"version": "ZlbHFjxE"
+				},
+				{
+					"content_versions": "v21.1.0-1.21.1-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/POOzpdre/ForgeConfigAPIPort-v21.1.0-1.21.1-NeoForge.jar",
+					"version": "POOzpdre"
+				},
+				{
+					"content_versions": "v21.1.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/6x66hBcK/ForgeConfigAPIPort-v21.1.0-1.21.1-Forge.jar",
+					"version": "6x66hBcK"
+				},
+				{
+					"content_versions": "v21.1.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/gtorYSGm/ForgeConfigAPIPort-v21.1.0-1.21.1-Fabric.jar",
+					"version": "gtorYSGm"
+				},
+				{
+					"content_versions": "v21.0.8-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/bnhVDSAh/ForgeConfigAPIPort-v21.0.8-1.21-NeoForge.jar",
+					"version": "bnhVDSAh"
+				},
+				{
+					"content_versions": "v21.0.8-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/6k3FSGda/ForgeConfigAPIPort-v21.0.8-1.21-Forge.jar",
+					"version": "6k3FSGda"
+				},
+				{
+					"content_versions": "v21.0.8-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/GOreNSW6/ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar",
+					"version": "GOreNSW6"
+				},
+				{
+					"content_versions": "v21.0.7-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/FRzdKdgh/ForgeConfigAPIPort-v21.0.7-1.21-NeoForge.jar",
+					"version": "FRzdKdgh"
+				},
+				{
+					"content_versions": "v21.0.7-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/QTVwgKKS/ForgeConfigAPIPort-v21.0.7-1.21-Forge.jar",
+					"version": "QTVwgKKS"
+				},
+				{
+					"content_versions": "v21.0.7-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/UGsNw3aI/ForgeConfigAPIPort-v21.0.7-1.21-Fabric.jar",
+					"version": "UGsNw3aI"
+				},
+				{
+					"content_versions": "v21.0.6-1.21-Neo",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/Y2gd8YHL/ForgeConfigAPIPort-v21.0.6-1.21-NeoForge.jar",
+					"version": "Y2gd8YHL"
+				},
+				{
+					"content_versions": "v21.0.6-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "forgelike",
+					"relations": {
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/ydIrnr9Q/ForgeConfigAPIPort-v21.0.6-1.21-Forge.jar",
+					"version": "ydIrnr9Q"
+				},
+				{
+					"content_versions": "v21.0.6-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/BNTJgetj/ForgeConfigAPIPort-v21.0.6-1.21-Fabric.jar",
+					"version": "BNTJgetj"
+				},
+				{
 					"content_versions": "v21.0.5-1.21-Neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -1341,7 +1930,7 @@
 		"authors": [
 			"Fuzs"
 		],
-		"banner": "https://cdn.modrinth.com/data/ohNO6lps/images/201d6c2cd17e10032e9651bc0070007b4774286c.png",
+		"banner": "https://cdn.modrinth.com/data/ohNO6lps/images/98161237ad92b6d61b124a6337fbae7d7d37cec0_350.webp",
 		"categories": [
 			"technical",
 			"library"
@@ -1349,9 +1938,9 @@
 		"description": "NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.",
 		"documentation": "https://github.com/Fuzss/forgeconfigapiport/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/ohNO6lps/images/201d6c2cd17e10032e9651bc0070007b4774286c.png"
+			"https://cdn.modrinth.com/data/ohNO6lps/images/98161237ad92b6d61b124a6337fbae7d7d37cec0_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/ohNO6lps/cb3b942cc18a66a0f35f802e004713f134e46cc2.png",
+		"icon": "https://cdn.modrinth.com/data/ohNO6lps/cbb47b34bb8c15b5331c0ab8a524c796cb4e4699_96.webp",
 		"issues": "https://github.com/Fuzss/forgeconfigapiport/issues",
 		"license": "MPL-2.0",
 		"long_description": "<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/forgeconfigapiport/banner.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/forgeconfigapiport/strip.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://lunapixel.studio/discord\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Discord&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"117\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Twitter&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"116\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=YouTube&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Reddit&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" width=\"107\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"108\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=CurseForge&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"143\" height=\"28\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/forgeconfigapiport/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/about.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Forge Config API Port is a modding library for mod developers that provides both NeoForge's &amp; Forge's whole config system to other modding ecosystems. Allows developers to use NeoForge configs on Fabric &amp; Forge and Forge configs on Fabric &amp; NeoForge.</span></p>\n<p><span style=\"font-size: 14px;\">The library is built with a multiloader architecture in mind by also offering a mod loader independent common distribution, so there needs to be as little platform specific code as possible.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/forgeconfigapiport/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/features.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Allows developers to continue using the same code for creating their configs as they do on NeoForge &amp; Forge.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Same package and class names as NeoForge &amp; Forge, no refactoring required when porting!</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Built for a multiloader architecture: Simply setup your configs in a common module!</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Users don't need to install any additional library on the mod loader the chosen config system is native to (NeoForge / Forge), everything is built in there!</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Check out the developer wiki for instructions on how to use Forge Config API Port in your project!</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Install </span></strong><a href=\"https://legacy.curseforge.com/minecraft/mc-mods/config-menus-forge\"><strong><span style=\"font-size: 14px;\">Forge Config Screens</span></strong></a><strong><span style=\"font-size: 14px;\"> for in-game configuration!</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/forgeconfigapiport/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/installation.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">INSTALLATION REQUIRED ON CLIENT &amp; REQUIRED ON SERVER</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/fabric-api\"><strong><span style=\"font-size: 14px;\">FABRIC API</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/forgeconfigapiport/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/credits.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to the Forge team for putting the config api together in the first place!</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/forgeconfigapiport/strip.png\" width=\"854\" height=\"14\" /></p>\n",
@@ -1387,6 +1976,8 @@
 			"v9.1.1-1.20.2",
 			"v9.1.0-1.20.2",
 			"v9.0.0-1.20.2",
+			"v8.0.2-1.20.1",
+			"v8.0.1-1.20.1",
 			"v8.0.0-1.20.1",
 			"v7.0.0-1.20",
 			"v6.0.2-1.19.4",
@@ -1409,6 +2000,36 @@
 			"1.0.1",
 			"v5.0.0-1.19.3",
 			"v3.0.0-1.18",
+			"v21.5.1-1.21.5",
+			"v21.5.1-1.21.5-Neo",
+			"v21.5.0-1.21.5",
+			"v21.5.0-1.21.5-Neo",
+			"v21.4.1-1.21.4",
+			"v21.4.1-1.21.4-Neo",
+			"v21.4.0-1.21.4",
+			"v21.4.0-1.21.4-Neo",
+			"v21.3.3-1.21.3",
+			"v21.3.3-1.21.3-Neo",
+			"v21.3.2-1.21.3",
+			"v21.3.2-1.21.3-Neo",
+			"v21.3.1-1.21.3",
+			"v21.3.1-1.21.3-Neo",
+			"v21.3.0-1.21.3",
+			"v21.3.0-1.21.3-Neo",
+			"v21.1.3-1.21.1",
+			"v21.1.3-1.21.1-Neo",
+			"v21.1.2-1.21.1",
+			"v21.1.2-1.21.1-Neo",
+			"v21.1.1-1.21.1",
+			"v21.1.1-1.21.1-Neo",
+			"v21.1.0-1.21.1",
+			"v21.1.0-1.21.1-Neo",
+			"v21.0.8-1.21",
+			"v21.0.8-1.21-Neo",
+			"v21.0.7-1.21",
+			"v21.0.7-1.21-Neo",
+			"v21.0.6-1.21",
+			"v21.0.6-1.21-Neo",
 			"v21.0.5-1.21",
 			"v21.0.5-1.21-Neo",
 			"v21.0.4-1.21",
@@ -1471,7 +2092,11 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

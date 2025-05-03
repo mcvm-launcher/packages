@@ -4,6 +4,59 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "5.7.0",
+					"minecraft_versions": [
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uZAwdzAR/kotlinforforge-5.7.0-all.jar",
+					"version": "uZAwdzAR"
+				},
+				{
+					"content_versions": "5.6.0",
+					"minecraft_versions": [
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ordsPcFz/versions/5Vlx7W4o/kotlinforforge-5.6.0-all.jar",
+					"version": "5Vlx7W4o"
+				},
+				{
+					"content_versions": "5.5.0",
+					"minecraft_versions": [
+						"1.20.6",
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ordsPcFz/versions/tdvjylfz/kotlinforforge-5.5.0-all.jar",
+					"version": "tdvjylfz"
+				},
+				{
 					"content_versions": "5.4.0",
 					"minecraft_versions": [
 						"1.20.6",
@@ -736,7 +789,7 @@
 		"description": "Adds a Kotlin language loader and provides some optional utilities.",
 		"documentation": "https://github.com/thedarkcolour/KotlinForForge/blob/3.x/README.md",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/ordsPcFz/icon.png",
+		"icon": "https://cdn.modrinth.com/data/ordsPcFz/064b8f129b776eb303f7f8b1a610e21d153c74b9_96.webp",
 		"issues": "https://github.com/thedarkcolour/KotlinForForge/issues",
 		"license": "LGPL-2.1-only",
 		"long_description": "Used to make mods with the Kotlin programming language. Works by shading the Kotlin libraries, providing KotlinLanguageProvider to load @Mod object declarations, providing AutoKotlinEventBusSubscriber to load @EventBusSubscriber declarations, and providing useful utility functions and constants.\n\nAs of Kotlin for Forge 1.8.0, this provides [Kotlin 1.4.21](https://github.com/JetBrains/kotlin), [Kotlin coroutines 1.4.2](https://github.com/Kotlin/kotlinx.coroutines), [Kotlin JSON serialization 1.0.1](https://github.com/Kotlin/kotlinx.serialization), and [Jetbrains annotations 20.1.0](https://github.com/JetBrains/java-annotations).\n\n \n\n**If you're not a mod developer, this is a dependency mod.**\n      \n \n\nUnlike Kottle, this library (as of 1.2.0) provides its own implementation of IEventBus that supports IEventBus#addListener and IEventBus#addGenericListener with function references.\n\n \n\nInformation for how to implement can be found [here](https://github.com/thedarkcolour/KotlinForForge/blob/master/README.md).\nYou do not have to use the language loader or any of the features Kotlin for Forge provides, you can just use it for the bundled Kotlin libraries.\n\n \n\nIf you'd like to ask for help or suggest something, feel free to do so on the [Kotlin for Forge discord server](https://discord.gg/tmVmZtx).",
@@ -749,6 +802,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"5.7.0",
+			"5.6.0",
+			"5.5.0",
 			"5.4.0",
 			"5.3.0",
 			"5.2.0",
@@ -834,7 +890,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

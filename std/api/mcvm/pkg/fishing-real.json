@@ -4,6 +4,60 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.9.1-backport",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "forge-config-api-port"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/25it2iB4/fishingreal-fabric-1.20.1-1.9.1-backport.jar",
+					"version": "25it2iB4"
+				},
+				{
+					"content_versions": "1.9.1-backport",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/RLxe3JhW/fishingreal-forge-1.20.1-1.9.1-backport.jar",
+					"version": "RLxe3JhW"
+				},
+				{
+					"content_versions": "1.9.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "forge-config-api-port"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/nwH0kWHx/fishingreal-fabric-1.21.1-1.9.1.jar",
+					"version": "nwH0kWHx"
+				},
+				{
+					"content_versions": "1.9.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/b8gdTrAQ/fishingreal-neoforge-1.21.1-1.9.1.jar",
+					"version": "b8gdTrAQ"
+				},
+				{
+					"content_versions": "1.21-1.9.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/PMdqos5C/Fishingreal-1.21-1.9.0.jar",
+					"version": "PMdqos5C"
+				},
+				{
+					"content_versions": "1.21-1.9.0",
+					"minecraft_versions": "1.21",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/yuNlrAGu/Fishingreal-1.21-1.9.0.jar",
+					"version": "yuNlrAGu"
+				},
+				{
 					"content_versions": "1.20.4-1.8.0",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -211,6 +265,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21-1.9.0",
 			"1.20.4-1.8.0",
 			"1.20.1-1.7.2",
 			"1.20.1-1.7.1",
@@ -223,6 +278,8 @@
 			"1.16.3-1.0.0",
 			"1.16.2-1.0.0",
 			"1.16.1-1.0.0",
+			"1.9.1",
+			"1.9.1-backport",
 			"1.2",
 			"1.1",
 			"1.0"
@@ -247,7 +304,9 @@
 			"1.18.1",
 			"1.19.2",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

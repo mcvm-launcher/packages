@@ -1,0 +1,660 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "-1.21.5-1.0.10",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/IqgZM27b/sodiumdynamiclights-fabric-1.0.10-1.21.5.jar",
+					"version": "IqgZM27b"
+				},
+				{
+					"content_versions": "neo-1.21.5-1.0.10",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/USYRWaaH/sodiumdynamiclights-neoforge-1.0.10-1.21.5.jar",
+					"version": "USYRWaaH"
+				},
+				{
+					"content_versions": "-1.21.1-1.0.10",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/BsbJhy7W/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
+					"version": "BsbJhy7W"
+				},
+				{
+					"content_versions": "-1.20.1-1.0.10",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "sodium-options-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/I156ee3A/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+					"version": "I156ee3A"
+				},
+				{
+					"content_versions": "-1.20.1-1.0.10",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/EYnKyLWV/sodiumdynamiclights-fabric-1.0.10-1.20.1.jar",
+					"version": "EYnKyLWV"
+				},
+				{
+					"content_versions": "-1.21.4-1.0.10",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/VAUPePoi/sodiumdynamiclights-fabric-1.0.10-1.21.4.jar",
+					"version": "VAUPePoi"
+				},
+				{
+					"content_versions": "neo-1.21.4-1.0.10",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/K1JyJpov/sodiumdynamiclights-neoforge-1.0.10-1.21.4.jar",
+					"version": "K1JyJpov"
+				},
+				{
+					"content_versions": "neo-1.21.1-1.0.10",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+					"version": "XI0WLXdn"
+				},
+				{
+					"content_versions": "-1.21.4-1.0.9",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/aruAwiAC/sodiumdynamiclights-fabric-1.0.9-1.21.4.jar",
+					"version": "aruAwiAC"
+				},
+				{
+					"content_versions": "-1.20.1-1.0.9",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "sodium-options-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/VZme8Hhh/sodiumdynamiclights-forge-1.0.9-1.20.1.jar",
+					"version": "VZme8Hhh"
+				},
+				{
+					"content_versions": "-1.21.1-1.0.9",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/HSCYNr5X/sodiumdynamiclights-fabric-1.0.9-1.21.1.jar",
+					"version": "HSCYNr5X"
+				},
+				{
+					"content_versions": "neo-1.21.4-1.0.9",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/ESdY1Pem/sodiumdynamiclights-neoforge-1.0.9-1.21.4.jar",
+					"version": "ESdY1Pem"
+				},
+				{
+					"content_versions": "-1.20.1-1.0.9",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/qAxhsq8f/sodiumdynamiclights-fabric-1.0.9-1.20.1.jar",
+					"version": "qAxhsq8f"
+				},
+				{
+					"content_versions": "neo-1.21.1-1.0.9",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/5VTwEmls/sodiumdynamiclights-neoforge-1.0.9-1.21.1.jar",
+					"version": "5VTwEmls"
+				},
+				{
+					"content_versions": "1.0.9",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/kSSa3FvO/sodiumdynamiclights-neoforge-1.0.9-1.21.1.jar",
+					"version": "kSSa3FvO"
+				},
+				{
+					"content_versions": "1.0.9",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/QyYBd2yE/sodiumdynamiclights-fabric-1.0.9-1.20.1.jar",
+					"version": "QyYBd2yE"
+				},
+				{
+					"content_versions": "1.0.9",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/hiAUnekX/sodiumdynamiclights-fabric-1.0.9-1.21.1.jar",
+					"version": "hiAUnekX"
+				},
+				{
+					"content_versions": "1.0.9",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "sodium-options-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/ICS39k7F/sodiumdynamiclights-forge-1.0.9-1.20.1.jar",
+					"version": "ICS39k7F"
+				},
+				{
+					"content_versions": "1.0.8",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/npBdEWUD/sodiumdynamiclights-fabric-1.0.8-1.20.1.jar",
+					"version": "npBdEWUD"
+				},
+				{
+					"content_versions": "1.0.8",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/cqlNcfN9/sodiumdynamiclights-fabric-1.0.8-1.21.1.jar",
+					"version": "cqlNcfN9"
+				},
+				{
+					"content_versions": "1.0.8",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "sodium-options-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/63Nxw7Hj/sodiumdynamiclights-forge-1.0.8-1.20.1.jar",
+					"version": "63Nxw7Hj"
+				},
+				{
+					"content_versions": "1.0.8",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/lJh8QP5i/sodiumdynamiclights-neoforge-1.0.8-1.21.1.jar",
+					"version": "lJh8QP5i"
+				},
+				{
+					"content_versions": "1.0.7",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/VB0tTPBH/sodiumdynamiclights-fabric-1.0.7-1.20.1.jar",
+					"version": "VB0tTPBH"
+				},
+				{
+					"content_versions": "1.0.7",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "sodium-options-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/A0jE156m/sodiumdynamiclights-forge-1.0.7-1.20.1.jar",
+					"version": "A0jE156m"
+				},
+				{
+					"content_versions": "1.0.7",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/qj3fBGvq/sodiumdynamiclights-neoforge-1.0.7-1.21.1.jar",
+					"version": "qj3fBGvq"
+				},
+				{
+					"content_versions": "1.0.7",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/LElCllwJ/sodiumdynamiclights-fabric-1.0.7-1.21.1.jar",
+					"version": "LElCllwJ"
+				},
+				{
+					"content_versions": "1.0.6",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/guXfVSht/sodiumdynamiclights-fabric-1.0.6-1.20.1.jar",
+					"version": "guXfVSht"
+				},
+				{
+					"content_versions": "1.0.6",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/KyZ5utFn/sodiumdynamiclights-fabric-1.0.6-1.21.1.jar",
+					"version": "KyZ5utFn"
+				},
+				{
+					"content_versions": "1.0.6",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "sodium-options-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/7nSLH6FC/sodiumdynamiclights-forge-1.0.6-1.20.1.jar",
+					"version": "7nSLH6FC"
+				},
+				{
+					"content_versions": "1.0.6",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/VThb5jhr/sodiumdynamiclights-neoforge-1.0.6-1.21.1.jar",
+					"version": "VThb5jhr"
+				},
+				{
+					"content_versions": "1.0.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/wTyO0ol0/sodiumdynamiclights-neoforge-1.0.5-1.21.1.jar",
+					"version": "wTyO0ol0"
+				},
+				{
+					"content_versions": "1.0.5",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/FRTYj04H/sodiumdynamiclights-fabric-1.0.5-1.21.1.jar",
+					"version": "FRTYj04H"
+				},
+				{
+					"content_versions": "1.0.5",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "sodium-options-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/KDxYKZfj/sodiumdynamiclights-forge-1.0.5-1.20.1.jar",
+					"version": "KDxYKZfj"
+				},
+				{
+					"content_versions": "1.0.5",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/Aswrgl8V/sodiumdynamiclights-fabric-1.0.5-1.20.1.jar",
+					"version": "Aswrgl8V"
+				},
+				{
+					"content_versions": "1.0.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium-options-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/QNs8b2AW/sodiumdynamiclights-neoforge-1.0.4-1.21.1.jar",
+					"version": "QNs8b2AW"
+				},
+				{
+					"content_versions": "1.0.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/5RCjQ3wv/sodiumdynamiclights-fabric-1.0.4-1.20.1.jar",
+					"version": "5RCjQ3wv"
+				},
+				{
+					"content_versions": "1.0.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "sodium-options-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/nXZIQIRI/sodiumdynamiclights-forge-1.0.4-1.20.1.jar",
+					"version": "nXZIQIRI"
+				},
+				{
+					"content_versions": "1.0.4",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"sodium-options-api"
+						],
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/fFYg3XhS/sodiumdynamiclights-fabric-1.0.4-1.21.1.jar",
+					"version": "fFYg3XhS"
+				},
+				{
+					"content_versions": "1.0.2",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/KvkDc6wx/sodiumdynamiclights-forge-1.0.2-1.20.1.jar",
+					"version": "KvkDc6wx"
+				},
+				{
+					"content_versions": "1.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/z57UcDuv/sodiumdynamiclights-neoforge-1.0.2-1.21.1.jar",
+					"version": "z57UcDuv"
+				},
+				{
+					"content_versions": "1.0.2",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/67IEqds3/sodiumdynamiclights-fabric-1.0.2-1.21.1.jar",
+					"version": "67IEqds3"
+				},
+				{
+					"content_versions": "1.0.2",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"extensions": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/6FqNL1Dw/sodiumdynamiclights-fabric-1.0.2-1.20.1.jar",
+					"version": "6FqNL1Dw"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Txni"
+		],
+		"community": "https://discord.gg/kS7auUeYmc",
+		"description": "Multiloader port of LambDynLights that adds Sodium options integration",
+		"gallery": [
+			"https://cdn.modrinth.com/data/PxQSWIcD/images/bf198f89bf08b1e43a67d8da3038c5b32c8f7ce3_350.webp"
+		],
+		"icon": "https://cdn.modrinth.com/data/PxQSWIcD/a5ab5515213391934e18baaf487c87e4b24ebfa3_96.webp",
+		"issues": "https://github.com/txnimc/SodiumDynamicLights/issues",
+		"license": "MIT",
+		"long_description": "![banner](https://cdn.modrinth.com/data/cached_images/56ae9d34e07794c183a3c9c89b57b6b6043e3b2e.png)\n\nAn unofficial Forge/multiloader port of LambDynamicLights that integrates with Sodium and Embeddium.\n\nYou may also enjoy [Sodium/Embeddium Extras](https://modrinth.com/mod/sodium-extras)\n\n![sodium options](https://cdn.modrinth.com/data/cached_images/4f224929dc5c2a0cfca922dcbb918ae9d87000db.png)\n\n![demo](https://cdn.modrinth.com/data/cached_images/14bdbab8f5aae99193fb0be2d36d872da17d96aa.png)",
+		"name": "Sodium Dynamic Lights",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/txnimc/SodiumDynamicLights"
+	},
+	"properties": {
+		"content_versions": [
+			"-1.21.5-1.0.10",
+			"-1.21.4-1.0.10",
+			"-1.21.4-1.0.9",
+			"-1.21.1-1.0.10",
+			"-1.21.1-1.0.9",
+			"-1.20.1-1.0.10",
+			"-1.20.1-1.0.9",
+			"neo-1.21.5-1.0.10",
+			"neo-1.21.4-1.0.10",
+			"neo-1.21.4-1.0.9",
+			"neo-1.21.1-1.0.10",
+			"neo-1.21.1-1.0.9",
+			"1.0.9",
+			"1.0.8",
+			"1.0.7",
+			"1.0.6",
+			"1.0.5",
+			"1.0.4",
+			"1.0.2"
+		],
+		"modrinth_id": "PxQSWIcD",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"client"
+		],
+		"supported_versions": [
+			"1.20",
+			"1.20.1",
+			"1.21.1",
+			"1.21.4",
+			"1.21.5"
+		]
+	}
+}

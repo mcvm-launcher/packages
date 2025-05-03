@@ -4,6 +4,166 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "v21.5.0-1.21.5-Neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/Ou2qHzhL/DistinguishedPotions-v21.5.0-1.21.5-NeoForge.jar",
+					"version": "Ou2qHzhL"
+				},
+				{
+					"content_versions": "v21.5.0-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/Pxwt1BOK/DistinguishedPotions-v21.5.0-1.21.5-Fabric.jar",
+					"version": "Pxwt1BOK"
+				},
+				{
+					"content_versions": "v21.4.0-1.21.4-Neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/tVEeKMAX/DistinguishedPotions-v21.4.0-1.21.4-NeoForge.jar",
+					"version": "tVEeKMAX"
+				},
+				{
+					"content_versions": "v21.4.0-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/lYU1OnGi/DistinguishedPotions-v21.4.0-1.21.4-Fabric.jar",
+					"version": "lYU1OnGi"
+				},
+				{
+					"content_versions": "v21.3.0-1.21.3-Neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/saWrB9IS/DistinguishedPotions-v21.3.0-1.21.3-NeoForge.jar",
+					"version": "saWrB9IS"
+				},
+				{
+					"content_versions": "v21.3.0-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/I8HNL3xw/DistinguishedPotions-v21.3.0-1.21.3-Fabric.jar",
+					"version": "I8HNL3xw"
+				},
+				{
+					"content_versions": "v21.1.1-1.21.1-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/Jya0J2fp/DistinguishedPotions-v21.1.1-1.21.1-NeoForge.jar",
+					"version": "Jya0J2fp"
+				},
+				{
+					"content_versions": "v21.1.1-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/rE5TwLOe/DistinguishedPotions-v21.1.1-1.21.1-Fabric.jar",
+					"version": "rE5TwLOe"
+				},
+				{
+					"content_versions": "v21.1.0-1.21.1-Neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "puzzles-lib",
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/q37Rv4tf/DistinguishedPotions-v21.1.0-1.21.1-NeoForge.jar",
+					"version": "q37Rv4tf"
+				},
+				{
+					"content_versions": "v21.1.0-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"forge-config-api-port",
+							"puzzles-lib"
+						],
+						"recommendations": {
+							"value": "forge-config-screens"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/lX1xTFBZ/versions/ZzOoi6dQ/DistinguishedPotions-v21.1.0-1.21.1-Fabric.jar",
+					"version": "ZzOoi6dQ"
+				},
+				{
 					"content_versions": "v20.4.1-1.20.4-Neo",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "neoforged",
@@ -349,12 +509,12 @@
 			"Fuzs",
 			"LunaPixelStudios"
 		],
-		"banner": "https://cdn.modrinth.com/data/lX1xTFBZ/images/d228cf4aece9ec87d8d6c92f9f674dadf056e5db.png",
+		"banner": "https://cdn.modrinth.com/data/lX1xTFBZ/images/8ee8cae3bd412f9cb9bbc5709fc809f0ec248aef_350.webp",
 		"description": "Trouble telling your potions apart? Time to give you a helping hand with that.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/lX1xTFBZ/images/d228cf4aece9ec87d8d6c92f9f674dadf056e5db.png"
+			"https://cdn.modrinth.com/data/lX1xTFBZ/images/8ee8cae3bd412f9cb9bbc5709fc809f0ec248aef_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/lX1xTFBZ/5f3ad0828651dd8708749e3876ace5562957c418.png",
+		"icon": "https://cdn.modrinth.com/data/lX1xTFBZ/615126eb89a1ce73a5c2d762739e52fc9244a4ff_96.webp",
 		"issues": "https://github.com/Fuzss/distinguishedpotions/issues",
 		"license": "MPL-2.0",
 		"long_description": "<p><img src=\"https://i.imgur.com/bZlS1E7.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/ipsQJrC.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/Available%20for%20Minecraft-1.19-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"248\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20Only-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"210\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/distinguished-potions/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7498\"><img src=\"https://bit.ly/3yrSsw7\" width=\"320\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/distinguished-potions/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><img src=\"https://bit.ly/3clkhvn\" width=\"299\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/ipsQJrC.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📖 About:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Distinguished Potions</strong> adds a bunch of very useful visual features to help you tell potions apart. No more hovering over every potion in a large chest to find out what exact potion that might be, now you can see everything at a glance!</span></p>\n<p><img src=\"https://i.imgur.com/ipsQJrC.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📚 Contents:</strong></span></p>\n<p><span style=\"font-size: 14px;\">The <strong>Enchantment Glint</strong> is removed from potions, so you can properly see the color of the liquid inside of the bottle.</span></p>\n<p><span style=\"font-size: 14px;\">The <strong>Cork On Potion Bottles</strong> is colored differently on strong and long potions. The color is similar to glowstone and redstone, respectively, since those are the ingredients that make those strong and long potions.</span></p>\n<p><span style=\"font-size: 14px;\">Potions show a <strong>Small Bar</strong> containing up to four dots at the bottom (similar to the durability bar of items) to indicate the amount of total effect amplifiers on them. The small dots stack on top of each other in different layers to support numbers higher than four.</span></p>\n<p><span style=\"font-size: 14px;\">The names of enhanced potions contain the type of potion, so e.g. a speed potion which gives speed for eight minutes is now called \"Long Potion of Speed\" instead of simply \"Potion of Speed\".</span></p>\n<p><span style=\"font-size: 14px;\">Simply potions, such as awkward, mundane and thick have a <strong>Unique Effect Color</strong>, so they don't look like water bottles.</span></p>\n<p><span style=\"font-size: 14px;\">All those features also apply to <strong>Tipped Arrows</strong>, to help you distinguish those.</span></p>\n<p><img src=\"https://i.imgur.com/ipsQJrC.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📷 Media:</strong></span></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/503/14/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/503/15/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Already much easier to distinguish, right?</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Names of enhanced potions are prefixed</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/503/16/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/503/17/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Also applies to tipped arrows</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>No confusing awkward potions with water bottles anymore</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/ipsQJrC.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>💡 FAQ:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod?</strong><br /><strong>A:</strong> Mods can have three different kinds of configs depending on the kind of settings they provide: <strong>Client</strong>, <strong>Common</strong>, and <strong>Server</strong>.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Client</strong> and <strong>Common</strong> configs are found in <code>/.minecraft/config/</code>, named as <code>&lt;modId&gt;-client.toml</code> and <code>&lt;modId&gt;-common.toml</code>, respectively.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Server</strong> configs though are applied per world, therefore you'll find those in <code>/.minecraft/saves/&lt;world&gt;/serverconfig/&lt;modId&gt;-server.toml</code> for local singeplayer worlds, and in <code>/&lt;world&gt;/serverconfig/&lt;modId&gt;-server.toml</code> for you Minecraft server. Changes made to a server config only apply to that one world. Setting default values in server configs for all <strong>newly</strong> created worlds is possible by copying the modified server config to <code>/.minecraft/defaultconfigs/</code>.</span></p>\n<p><span style=\"font-size: 14px;\">In a local singleplayer world you can quickly find config files by running the <code>/config showfile &lt;modid&gt;</code> command and by choosing <code>CLIENT</code>, <code>COMMON</code> or <code>SERVER</code>. Then click the file name (ending with .toml) that appears in chat to open the file in a text editor. After saving the file, the config will automatically reload in-game after a couple of seconds, so no game restart required.</span></p>\n<p><span style=\"font-size: 14px;\">On some mod loaders editing configs is also supported in-game via the <strong>Mods</strong> menu option. On some Minecraft versions you can also install my <a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><span style=\"font-size: 14px;\"><strong>Config Menus for Forge</strong></span></a> mod for editing configs directly in-game.</span></p>\n<p><img src=\"https://i.imgur.com/ipsQJrC.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>🏆 Credits:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Developing Distinguished Potions was helped and inspired by:</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.minecraftforum.net/members/AaronBlader12\"><span style=\"font-size: 14px;\"><strong>AaronBlader12</strong></span></a> and their <a href=\"https://www.minecraftforum.net/forums/minecraft-java-edition/suggestions/2974948-potion-visual-revamp-make-potions-more-pleasing-to\"><span style=\"font-size: 14px;\">Potion Visual Revamp</span></a> suggestion on the MinecraftForum, which most parts of this mod are based on</span></li>\n</ul>\n<p><img src=\"https://i.imgur.com/ipsQJrC.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/lunapixelstudios/projects\"><img src=\"https://img.shields.io/static/v1?label=CurseForge&amp;message=LunaPixelStudios&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"282\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/LunaPixelStudio\"><img src=\"https://img.shields.io/twitter/follow/LunaPixelStudio?label=Twitter&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"149\" height=\"28\" /></a>&emsp;<a href=\"https://discord.gg/8ZmhaPPbjE\"><img src=\"https://img.shields.io/discord/790272037578473512?label=Discord&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"220\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/1MOyd2u.png\" width=\"854\" height=\"300\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/ipsQJrC.png\" width=\"854\" height=\"14\" /></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/trading-post\"><img src=\"https://i.imgur.com/UzgNFIB.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/straw-statues\"><img src=\"https://i.imgur.com/hkagjbH.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/visual-workbench\"><img src=\"https://i.imgur.com/hXGsr31.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier\"><img src=\"https://i.imgur.com/DCwxKZU.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/bag-of-holding-forge\"><img src=\"https://i.imgur.com/8gTQlTt.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/portable-hole\"><img src=\"https://i.imgur.com/Lk8bHYP.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-anvils\"><img src=\"https://i.imgur.com/UNn2DzX.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><img src=\"https://i.imgur.com/kiHP8s9.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/bartering-station\"><img src=\"https://i.imgur.com/LTZQj4C.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/armor-statues\"><img src=\"https://i.imgur.com/9rluSuU.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/ipsQJrC.png\" width=\"854\" height=\"14\" /></p>",
@@ -375,6 +535,16 @@
 			"v5.0.0-1.19.3",
 			"v4.0.1-1.19.2",
 			"v4.0.0-1.19.2",
+			"v21.5.0-1.21.5",
+			"v21.5.0-1.21.5-Neo",
+			"v21.4.0-1.21.4",
+			"v21.4.0-1.21.4-Neo",
+			"v21.3.0-1.21.3",
+			"v21.3.0-1.21.3-Neo",
+			"v21.1.1-1.21.1",
+			"v21.1.1-1.21.1-Neo",
+			"v21.1.0-1.21.1",
+			"v21.1.0-1.21.1-Neo",
 			"v20.4.1-1.20.4",
 			"v20.4.1-1.20.4-Neo",
 			"v20.4.0-1.20.4",
@@ -394,7 +564,11 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21.1",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

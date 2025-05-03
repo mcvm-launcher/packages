@@ -1,0 +1,66 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "1.0.1_1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tb16z0yT/versions/hkLlSIBe/panda-anti-permanent-block-break-1.0.1_1.21.4.jar",
+					"version": "hkLlSIBe"
+				},
+				{
+					"content_versions": "1.0.1_1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/Tb16z0yT/versions/bIJknB1D/panda-anti-permanent-block-break-1.0.1_1.21.1.jar",
+					"version": "bIJknB1D"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"TreeOfSelf"
+		],
+		"community": "https://discord.gg/3tP3Tqu983",
+		"description": "Make breaking bedrock & end-portal frames impossible.",
+		"gallery": [],
+		"icon": "https://cdn.modrinth.com/data/Tb16z0yT/e53747f7299f1b62a02b46f64ef348e90041c662.png",
+		"issues": "https://github.com/TreeOfSelf/PandaAntiPermanentBlockBreak/issues",
+		"license": "CC0-1.0",
+		"long_description": "# PandaAntiPermanentBlockBreak\n\n## Description\n\nThis mod makes it so that breaking bedrock & end-portal frames is impossible. This also fixes breaking blocks with growing mushrooms, as well as fixing breaking blocks with piston glitching. A configuration file will be made if requested.\n\n## Support\n\n[Support discord here!]( https://discord.gg/3tP3Tqu983)\n\n## Try it out \n\nDemo server at **hardcoreanarchy.gay**\n\n## License\n\n[CC0](https://creativecommons.org/public-domain/cc0/)\n",
+		"name": "PandaAntiPermanentBlockBreak",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/TreeOfSelf/PandaAntiPermanentBlockBreak"
+	},
+	"properties": {
+		"content_versions": [
+			"1.0.1_1.21.4",
+			"1.0.1_1.21.1"
+		],
+		"modrinth_id": "Tb16z0yT",
+		"supported_modloaders": [
+			"fabriclike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.21",
+			"1.21.1",
+			"1.21.4"
+		]
+	},
+	"relations": {
+		"dependencies": "fabriclike-api"
+	}
+}

@@ -4,6 +4,22 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.1.7",
+					"minecraft_versions": "1.12.2",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/vdhjeVdh/EvergreenHUD-1.12.2-forge-2.1.7.jar",
+					"version": "vdhjeVdh"
+				},
+				{
+					"content_versions": "v2.1.7",
+					"minecraft_versions": "1.8.9",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/YAwKwEPz/EvergreenHUD-1.8.9-forge-2.1.7.jar",
+					"version": "YAwKwEPz"
+				},
+				{
 					"content_versions": "v2.1.6",
 					"minecraft_versions": "1.12.2",
 					"modloaders": "forgelike",
@@ -280,7 +296,7 @@
 		"community": "https://polyfrost.org/discord/",
 		"description": "Improves your heads up display.",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/1yIQcc2b/icon.png",
+		"icon": "https://cdn.modrinth.com/data/1yIQcc2b/f93cb465efcfb2db1624238ccc659a280c8c07e7_96.webp",
 		"issues": "https://github.com/Polyfrost/EvergreenHUD/issues",
 		"license": "LicenseRef-GPL-3.0-with-Minecraft-Linking-Exception",
 		"long_description": "# EvergreenHUD\n\n<img src=\"https://wsrv.nl/?url=https%3A%2F%2Fpolyfrost.org%2Fimg%2Fcompact_vector.svg&n=-1&w=1000\" width=\"56\" /> ![Dev Workflow Status](https://img.shields.io/github/v/release/Polyfrost/EvergreenHUD.svg?style=for-the-badge&color=1452cc&label=release)\n\nEvergreenHUD, originally maintained by isXander, is *the* most advanced HUD mod for 1.8.9 and 1.12.2. Now, with OneConfig support, this mod is built for every type of player; from a telly bridger to a mad PvPer, from a SkyBlock player to a Arcade Games player. \n\n![2023-02-28_14 48 51](https://user-images.githubusercontent.com/45589059/221962995-531a5ce4-9a89-4b53-9c10-1472b412bec1.png)",
@@ -289,10 +305,12 @@
 			"mcvm"
 		],
 		"source": "https://github.com/Polyfrost/EvergreenHUD",
-		"support_link": "https://ko-fi.com/isxander"
+		"support_link": "https://patreon.com/isxander"
 	},
 	"properties": {
 		"content_versions": [
+			"2.1.7",
+			"v2.1.7",
 			"v2.1.6",
 			"v2.1.5",
 			"v2.1.4",

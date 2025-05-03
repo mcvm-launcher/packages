@@ -4,6 +4,546 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "12.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/wcpSZj9x/SnowRealMagic-1.21.1-Fabric-12.0.6.jar",
+					"version": "wcpSZj9x"
+				},
+				{
+					"content_versions": "12.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/64QzvghJ/SnowRealMagic-1.21.1-Fabric-12.0.5.jar",
+					"version": "64QzvghJ"
+				},
+				{
+					"content_versions": "12.0.4-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/sYbWXSKZ/SnowRealMagic-1.21.1-NeoForge-12.0.4.jar",
+					"version": "sYbWXSKZ"
+				},
+				{
+					"content_versions": "12.0.2-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/15kKeHxz/SnowRealMagic-1.21.1-NeoForge-12.0.2.jar",
+					"version": "15kKeHxz"
+				},
+				{
+					"content_versions": "12.0.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/4DmOsKlN/SnowRealMagic-1.21.1-NeoForge-12.0.1.jar",
+					"version": "4DmOsKlN"
+				},
+				{
+					"content_versions": "12.0.0-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/ZqUA69qJ/SnowRealMagic-1.21.1-NeoForge-12.0.0.jar",
+					"version": "ZqUA69qJ"
+				},
+				{
+					"content_versions": "11.1.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/chIcB1pI/SnowRealMagic-1.21.1-NeoForge-11.1.1.jar",
+					"version": "chIcB1pI"
+				},
+				{
+					"content_versions": "10.6.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/XXbXVL9W/SnowRealMagic-1.20.1-Forge-10.6.1.jar",
+					"version": "XXbXVL9W"
+				},
+				{
+					"content_versions": "10.6.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/mWZeT7P9/SnowRealMagic-1.20.1-Fabric-10.6.1.jar",
+					"version": "mWZeT7P9"
+				},
+				{
+					"content_versions": "11.1.0-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/8YE7Jpj8/SnowRealMagic-1.21.1-NeoForge-11.1.0.jar",
+					"version": "8YE7Jpj8"
+				},
+				{
+					"content_versions": "11.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/AiZAUheV/SnowRealMagic-1.21.1-Fabric-11.1.0.jar",
+					"version": "AiZAUheV"
+				},
+				{
+					"content_versions": "10.6.0",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/bNWqJXif/SnowRealMagic-1.20.1-Forge-10.6.0.jar",
+					"version": "bNWqJXif"
+				},
+				{
+					"content_versions": "10.5.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/OenE7Jfh/SnowRealMagic-1.20.1-Forge-10.5.4.jar",
+					"version": "OenE7Jfh"
+				},
+				{
+					"content_versions": "10.5.3",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/VOJjj9YQ/SnowRealMagic-1.20.1-Forge-10.5.3.jar",
+					"version": "VOJjj9YQ"
+				},
+				{
+					"content_versions": "11.0.13-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/Dc0gkbuC/SnowRealMagic-1.21.1-NeoForge-11.0.13.jar",
+					"version": "Dc0gkbuC"
+				},
+				{
+					"content_versions": "11.0.13",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/FFW2DVUh/SnowRealMagic-1.21.1-Fabric-11.0.13.jar",
+					"version": "FFW2DVUh"
+				},
+				{
+					"content_versions": "10.5.4",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/POmpo1V9/SnowRealMagic-1.20.1-Fabric-10.5.4.jar",
+					"version": "POmpo1V9"
+				},
+				{
+					"content_versions": "11.0.12-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/Ao6anjxS/SnowRealMagic-1.21.1-NeoForge-11.0.12.jar",
+					"version": "Ao6anjxS"
+				},
+				{
+					"content_versions": "11.0.12",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/i3tgAWjU/SnowRealMagic-1.21.1-Fabric-11.0.12.jar",
+					"version": "i3tgAWjU"
+				},
+				{
+					"content_versions": "11.0.11",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/3bPBWSWE/SnowRealMagic-1.21.1-Fabric-11.0.11.jar",
+					"version": "3bPBWSWE"
+				},
+				{
+					"content_versions": "11.0.10-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/DlVmA3BG/SnowRealMagic-1.21.1-NeoForge-11.0.10.jar",
+					"version": "DlVmA3BG"
+				},
+				{
+					"content_versions": "11.0.9-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/6CnCnwQa/SnowRealMagic-1.21.1-NeoForge-11.0.9.jar",
+					"version": "6CnCnwQa"
+				},
+				{
+					"content_versions": "10.5.2",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/Z5A25ipN/SnowRealMagic-1.20.1-Forge-10.5.2.jar",
+					"version": "Z5A25ipN"
+				},
+				{
+					"content_versions": "11.0.7",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/Xm9IuQvC/SnowRealMagic-1.21.1-Fabric-11.0.7.jar",
+					"version": "Xm9IuQvC"
+				},
+				{
+					"content_versions": "10.5.2",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/7gCL9H54/SnowRealMagic-1.20.1-fabric-10.5.2.jar",
+					"version": "7gCL9H54"
+				},
+				{
+					"content_versions": "11.0.6",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/c8UDwSJP/SnowRealMagic-1.21.1-Fabric-11.0.6.jar",
+					"version": "c8UDwSJP"
+				},
+				{
+					"content_versions": "10.5.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1"
+					],
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/QgEAUQm0/SnowRealMagic-1.20.1-Forge-10.5.1.jar",
+					"version": "QgEAUQm0"
+				},
+				{
+					"content_versions": "11.0.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/lnoQ4dtx/SnowRealMagic-1.21.1-Fabric-11.0.5.jar",
+					"version": "lnoQ4dtx"
+				},
+				{
+					"content_versions": "11.0.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/r1Y0OnK8/SnowRealMagic-1.21.1-Fabric-11.0.4.jar",
+					"version": "r1Y0OnK8"
+				},
+				{
+					"content_versions": "11.0.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "kiwi",
+						"recommendations": {
+							"value": "cloth-config"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/SdOP89zC/SnowRealMagic-1.21.1-Fabric-11.0.3.jar",
+					"version": "SdOP89zC"
+				},
+				{
 					"content_versions": "10.4.4",
 					"minecraft_versions": [
 						"1.20",
@@ -1398,10 +1938,10 @@
 		"community": "https://discord.gg/KzGQW7a",
 		"description": "Not a magic mod. · Snow Gravity & Accumulation · Snow-covered blocks · Tweak snow behaviors",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/iJNje1E8/5ded83c763dec5aedff8dfd264b07ac8c188cf33.png",
+		"icon": "https://cdn.modrinth.com/data/iJNje1E8/428535ef57125022e0acea425752822ecfc796d7_96.webp",
 		"issues": "https://github.com/Snownee/SnowRealMagic/issues",
 		"license": "MIT",
-		"long_description": "# Snow! Real Magic! ⛄\n\nThis simple tweak mod can enrich the vanilla snow layer's behavior.\n\nWith this mod you can:\n\n - Place snow and fence/wall/tallgrass in the same block!\n - The snow layer will fall like sand. If it touches the water source, it will become ice!\n - The snow layer will accumulate during a snowstorm!\n - The snow layer will have a thinner bounding box like in the Bedrock edition!\n - Reduce fall damage on snow!\n - Make snow always replaceable by other blocks!\n - Crouch + right-click snow to make a snowball\n - Make snow never melt (disabled by default)\n - Make snow fall on ice (disabled by default)\n - And more!\n \nAll features can be disabled in the config.\n\nTo work with Sodium, you need to install Indium.",
+		"long_description": "# Snow! Real Magic! ⛄\n\nThis simple tweak mod can enrich the vanilla snow layer's behavior.\n\nWith this mod you can:\n\n - Place snow and fence/wall/tallgrass in the same block!\n - The snow layer will fall like sand. If it touches the water source, it will become ice!\n - The snow layer will accumulate during a snowstorm!\n - The snow layer will have a thinner bounding box like in the Bedrock edition!\n - Reduce fall damage on snow!\n - Make snow always replaceable by other blocks!\n - Crouch + right-click snow to make a snowball\n - Make snow never melt (disabled by default)\n - Make snow fall on ice (disabled by default)\n - And more!\n \nAll features can be disabled in the config.\n\n<=1.20.1: To work with Sodium, you need to install Indium.\n\n\n<details>\n<summary>Configuration</summary>\n\n### Common\n\n- **snowGravity**: Snow layer falls like sand. \\[Performance impact: low]\n- **snowMakingIce**: Falling snow becomes ice when it touches water. \\[Performance impact: none]\n- **snowAlwaysReplaceable**: Snow layer can always be placed by other blocks, as long as it is not full. \\[Performance impact: none]\n- **thinnerBoundingBox**: Shrink the collision box of the snow layer. \\[Performance impact: none]\n- **snowNeverMelt**: Snow layer never melts. \\[Performance impact: none]\n- **snowSpawnMaxLightLevel**: Maximum light level for snow to spawn. \\[Performance impact: none]\n- **snowPersistMaxLightLevel**: Maximum light level for snow to not melt. \\[Performance impact: none]\n- **snowReduceFallDamage**: Reduce fall damage when landing on snow, depending on the snow layers. \\[Performance impact: none]\n- **sustainGrassIfLayerMoreThanOne**: Prevents grass block from turning into dirt when snow layer is more than 1. \\[Performance impact: none]\n- **sneakSnowball**: Sneak+use on snow layer to obtain snowball, consuming one layer of snow. \\[Performance impact: none]\n- **fancySnowOnUpperSlab**: Snow layer on upper slab will render snow overlay on the side of the slab. \\[Performance impact: low]\n- **mobSpawningMaxLayers**: Maximum layers of snow for mobs to spawn. \\[Performance impact: none]\n- **snow-cover.placeSnowOnBlock**: Snow can be placed on some blocks to make them snow-covered. \\[Performance impact: low]\n- **snow-cover.placeNaturally**: Snow can be placed on some blocks not only by player, but also from snowfall or world generation. \\[Performance impact: low]\n- **snow-cover.replaceWorldgenFeature**: Replace the vanilla world generation feature to also generate snow-covered blocks. \\[Performance impact: low]\n- **snow-cover.retainOriginalBlocks**: If you want to uninstall this mod, you can restore snow-covered blocks to their original blocks via random ticking. \\[Performance impact: low]\n- **accumulation.accumulatesDuringSnowfall**: Snow layer accumulates during snowfall. \\[Performance impact: medium]\n- **accumulation.accumulatesDuringSnowstorm**: Snow layer accumulates during thundering. \\[Performance impact: medium]\n- **accumulation.maxLayers**: Maximum layers of snow that can accumulate. 9 is unlimited. \\[Performance impact: low]\n- **accumulation.snowAndIceMeltInWarmBiomes**: Snow and ice will melt in warm biomes. \\[Performance impact: low]\n- **accumulation.naturalMelting**: Snow melts with time if its layer is more than 1. \\[Performance impact: medium]\n- **integration.accumulationWinterOnly**: If you have mod that adds seasons, snow accumulation only happens in winter. \\[Performance impact: none]\n\n### Client\n\n- **particleThroughLeaves**: Generates snowflake particles under snow that is above leaves. \\[Performance impact: low]\n- **snowVariants**: Some snow-covered foliage will be rendered differently. \\[Performance impact: low]\n\n</details>\n\n[![Interested in supporting me and the development of mods? BisectHosting is the perfect solution. New customers can use the promotion code \"snownee\" to get a 25% discount on their first month of a gaming server. With 24/7 support and fast response times, you can expect top-notch service for all your gaming needs.](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/TEy0a-Yu-Ak\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
 		"name": "Snow! Real Magic! ⛄",
 		"package_maintainers": [
 			"mcvm"
@@ -1411,9 +1951,36 @@
 	},
 	"properties": {
 		"content_versions": [
+			"12.0.6",
+			"12.0.5",
+			"12.0.4-neo",
+			"12.0.2-neo",
+			"12.0.1-neo",
+			"12.0.0-neo",
+			"11.1.1-neo",
+			"11.1.0",
+			"11.1.0-neo",
+			"11.0.13",
+			"11.0.13-neo",
+			"11.0.12",
+			"11.0.12-neo",
+			"11.0.11",
+			"11.0.10-neo",
+			"11.0.9-neo",
+			"11.0.7",
+			"11.0.6",
+			"11.0.5",
+			"11.0.4",
+			"11.0.3",
 			"11.0.2",
 			"11.0.1",
 			"11.0.0",
+			"10.6.1",
+			"10.6.0",
+			"10.5.4",
+			"10.5.3",
+			"10.5.2",
+			"10.5.1",
 			"10.4.4",
 			"10.4.3",
 			"10.4.2",
@@ -1490,7 +2057,8 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

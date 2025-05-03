@@ -4,6 +4,105 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "0.7.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/YLyhzygh/Cobblepedia-Fabric-0.7.0.jar",
+					"version": "YLyhzygh"
+				},
+				{
+					"content_versions": "0.7.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/H9tYgj6h/Cobblepedia-NeoForge-0.7.0.jar",
+					"version": "H9tYgj6h"
+				},
+				{
+					"content_versions": "0.7.0-SNAPSHOT",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/nNOP0iII/Cobblepedia-Fabric-0.7.0-SNAPSHOT.jar",
+					"version": "nNOP0iII"
+				},
+				{
+					"content_versions": "0.7.0-SNAPSHOT",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/MZeKkjlb/Cobblepedia-NeoForge-0.7.0-SNAPSHOT.jar",
+					"version": "MZeKkjlb"
+				},
+				{
+					"content_versions": "0.6.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/W4wJY7w5/Cobblepedia-Fabric-0.6.8.jar",
+					"version": "W4wJY7w5"
+				},
+				{
+					"content_versions": "0.6.8",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/FwTTYv9x/Cobblepedia-Forge-0.6.8.jar",
+					"version": "FwTTYv9x"
+				},
+				{
+					"content_versions": "0.6.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/7RTXGY8r/Cobblepedia-Fabric-0.6.7.jar",
+					"version": "7RTXGY8r"
+				},
+				{
+					"content_versions": "0.6.7",
+					"minecraft_versions": "1.20.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "patchouli",
+						"extensions": "cobblemon"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/2obPz7jf/versions/M7O9luvI/Cobblepedia-Forge-0.6.7.jar",
+					"version": "M7O9luvI"
+				},
+				{
 					"content_versions": "0.6.6",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -583,16 +682,16 @@
 			"https://cdn.modrinth.com/data/2obPz7jf/images/1214c4ffb40231abdf2ad1f2b84b4fceab29902a.png",
 			"https://cdn.modrinth.com/data/2obPz7jf/images/751ce0dd2b40960f01c8706dc1c048e49fdfac67.png",
 			"https://cdn.modrinth.com/data/2obPz7jf/images/f1bb5e096a9126c947ad378e8b464193615a3ea8.png",
+			"https://cdn.modrinth.com/data/2obPz7jf/images/226476953b09b1074ff896470aa1fbeffaffa408_350.webp",
 			"https://cdn.modrinth.com/data/2obPz7jf/images/22c30339b207d4af9f12b6f61489d5ace1de85cb.png",
 			"https://cdn.modrinth.com/data/2obPz7jf/images/67879afe3abef2f8eefa63713fb4b1d4aa669306.png",
-			"https://cdn.modrinth.com/data/2obPz7jf/images/b3a01552cc3e319498e4cb633fe52b797c9bd44d.png",
-			"https://cdn.modrinth.com/data/2obPz7jf/images/d202547a045654edc1d44a2cc37261a5a6b7b125.png"
+			"https://cdn.modrinth.com/data/2obPz7jf/images/aa600a8a80d22608635317dbdcb07b6c957943ca_350.webp"
 		],
 		"icon": "https://cdn.modrinth.com/data/2obPz7jf/1066188d8ba4f1a108a1963d24e24c5d7aeb42da.png",
 		"issues": "https://gitlab.com/VinnyStalck/knowlogy/-/issues",
 		"license": "GPL-3.0-only",
-		"long_description": "# Cobblepedia\n\nAn in-game Poképedia wiki book item for [Cobblemon](https://gitlab.com/cable-mc/cobblemon/) using [Patchouli](https://github.com/VazkiiMods/Patchouli/) that shows information from the [official cobblemon wiki](https://wiki.cobblemon.com/index.php/Main_Page) and tracks advancements added by Cobblemon.\n\n## Features:\n\n- Custom UI textures that fits with Cobblemon's aesthetics ([see gallery](https://modrinth.com/mod/cobblepedia/gallery))\n- Advancements\n- Crafting Recipes\n- Basic Tutorial\n\n## How to get the Poképedia:\n\n- Received by completing the \"Choosing a Starter Pokémon\" advancement;\n- Crafted with a book and any apricorn;\n- In creative mode (Found on the Tools and Utilities creative tab);\n- or With the command: `/give @s patchouli:guide_book{\"patchouli:book\": \"cobblepedia:cobblepedia\"}`.\n\n\n<details>\n<summary>Mod Requirements</summary>\n\n### *Patchouli* \n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/patchouli) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/patchouli)[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/requires/fabric-api_vector.svg)](https://curseforge.com/minecraft/mc-mods/patchouli-fabric)\n\nHas the functionality to add the Poképedia to the game.\n\n### *Cobblemon*\n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/cobblemon) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/cobblemon)\n\nAdds the content explained by the book. \n\n</details>\n\n<details>\n<summary>Recommendations</summary>\n\n### *Cobblemon Interface* Resourcepack\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/resourcepack/cobblemon-interface) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/texture-packs/cobblemon-interface)\n\nChanges the minecraft interface to fit better with cobblemon's UI.\n\n### *PatchouliButton* Mod\n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/patchoulibutton) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/patchoulibutton)\n\nAdds a button to the inventory that lists the Poképedia.\nYou can change it's config to go directly to the cobblemon book (useful to modpack makers).\n\n</details>\n\n## Localization\n\nThe mod has translation files for the following languages:\n\n- **Brazilian Portuguese** (pt_br), by me;\n- **Chinese** (zh_cn), by `@x1759603258` on Gitlab;\n- **Italian** (it_it), by `@mik_profilo_di` on Discord;\n- **Spanish** (es_es), by `@lavinytuttini` on Discord;\n\n*Obs: Some of these translations are outdated and/or incomplete.*\n\n## Other:\nTexture based on [Torrezx-Improved Library](https://www.curseforge.com/minecraft/texture-packs/torrezx-improved-library) resourcepack books and inspired by the books in [Legends of Arceus trailer](https://youtu.be/SbIA8FKhwl0) intro books\n\n[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/social/discord-singular_vector.svg)](https://discord.com/channels/934267676354834442/1091579923396820992) on the [Official Cobblemon Discord Server](https://discord.gg/cobblemon)\n\n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/cobblepedia)\n[![Ko-fi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular_vector.svg)](https://ko-fi.com/M4M5K4BDR)",
-		"name": "Cobblepedia",
+		"long_description": "# Archived\n\nCobblepedia will not receive any further major updates.\n\nI discontinued this project in order to focus on developing [**Cobblemon Knowlogy mod**](https://modrinth.com/mod/cobblemon-knowlogy), a newer mod which also adds the wiki info into a book in the game and has been updated regularly to be up to date with Cobblemon.\n\n# Cobblepedia\n\nAn in-game Poképedia wiki book item for [Cobblemon](https://gitlab.com/cable-mc/cobblemon/) using [Patchouli](https://github.com/VazkiiMods/Patchouli/) that shows information from the [official cobblemon wiki](https://wiki.cobblemon.com/index.php/Main_Page) and tracks advancements added by Cobblemon.\n\n## Features:\n\n- Custom UI textures that fits with Cobblemon's aesthetics ([see gallery](https://modrinth.com/mod/cobblepedia/gallery))\n- Advancements\n- Crafting Recipes\n- Basic Tutorial\n\n## How to get the Poképedia:\n\n- Received by completing the \"Choosing a Starter Pokémon\" advancement;\n- Crafted with a book and any apricorn;\n- In creative mode (Found on the Tools and Utilities creative tab);\n- or With the command: `/give @s patchouli:guide_book{\"patchouli:book\": \"cobblepedia:cobblepedia\"}` for mc1.20.1 or `/give @p patchouli:guide_book[patchouli:book=\"cobblepedia:cobblepedia\"]` for mc1.21.1.\n\n\n<details>\n<summary>Mod Requirements</summary>\n\n### *Patchouli* \n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/patchouli) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/patchouli)[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/requires/fabric-api_vector.svg)](https://curseforge.com/minecraft/mc-mods/patchouli-fabric)\n\nHas the functionality to add the Poképedia to the game.\n\n### *Cobblemon*\n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/cobblemon) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/cobblemon)\n\nAdds the content explained by the book. \n\n</details>\n\n<details>\n<summary>Recommendations</summary>\n\n### *Cobblemon Interface* Resourcepack\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/resourcepack/cobblemon-interface) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/texture-packs/cobblemon-interface)\n\nChanges the minecraft interface to fit better with cobblemon's UI.\n\n### *PatchouliButton* Mod\n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/mod/patchoulibutton) \n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/patchoulibutton)\n\nAdds a button to the inventory that lists the Poképedia.\nYou can change it's config to go directly to the cobblemon book (useful to modpack makers).\n\n</details>\n\n## Localization\n\nThe mod has translation files for the following languages:\n\n- **Brazilian Portuguese** (pt_br), by me;\n- **Chinese** (zh_cn), by `@x1759603258` on Gitlab;\n- **Italian** (it_it), by `@mik_profilo_di` on Discord;\n- **Spanish** (es_es), by `@lavinytuttini` on Discord;\n\n*Obs: Some of these translations are outdated and/or incomplete.*\n\n## Other:\nTexture based on [Torrezx-Improved Library](https://www.curseforge.com/minecraft/texture-packs/torrezx-improved-library) resourcepack books and inspired by the books in [Legends of Arceus trailer](https://youtu.be/SbIA8FKhwl0) intro books\n\n[![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/compact/social/discord-singular_vector.svg)](https://discord.com/channels/934267676354834442/1091579923396820992) on the [Official Cobblemon Discord Server](https://discord.gg/cobblemon)\n\n[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/cobblepedia)\n[![Ko-fi](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular_vector.svg)](https://ko-fi.com/M4M5K4BDR)",
+		"name": "Cobblemon Poképedia: Cobblepedia",
 		"package_maintainers": [
 			"mcvm"
 		],
@@ -601,6 +700,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.7.0",
+			"0.7.0-SNAPSHOT",
+			"0.6.8",
+			"0.6.7",
 			"0.6.6",
 			"0.6.5",
 			"0.6.4",
@@ -635,7 +738,9 @@
 		],
 		"supported_versions": [
 			"1.19.2",
-			"1.20.1"
+			"1.20.1",
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

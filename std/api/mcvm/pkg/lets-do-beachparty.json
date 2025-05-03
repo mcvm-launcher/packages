@@ -4,6 +4,68 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"trinkets"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GyKzAh3l/versions/TxqoPch6/letsdo-beachparty-fabric-2.0.1.jar",
+					"version": "TxqoPch6"
+				},
+				{
+					"content_versions": "2.0.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": [
+							"architectury-api",
+							"curios-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/GyKzAh3l/versions/4O0x5Ofj/letsdo-beachparty-forge-2.0.1.jar",
+					"version": "4O0x5Ofj"
+				},
+				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/GyKzAh3l/versions/OWQeDz6M/letsdo-beachparty-fabric-2.0.0.jar",
+					"version": "OWQeDz6M"
+				},
+				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "architectury-api"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/GyKzAh3l/versions/TYfn1TtM/letsdo-beachparty-forge-2.0.0.jar",
+					"version": "TYfn1TtM"
+				},
+				{
 					"content_versions": "1.1.5",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
@@ -216,20 +278,20 @@
 			"Cristelknight",
 			"satisfyu"
 		],
-		"banner": "https://cdn.modrinth.com/data/GyKzAh3l/images/f3d8df069b3c2dae58a3d75c77706a417cb40fa7.png",
+		"banner": "https://cdn.modrinth.com/data/GyKzAh3l/images/c3e9992748e3589427107c78a67db280ecf121c6_350.webp",
 		"community": "https://discord.gg/Vqu6wYZwdZ",
 		"description": "Get your Suncream out! We're going to the beach.",
 		"documentation": "https://discord.gg/Vqu6wYZwdZ",
 		"gallery": [
-			"https://cdn.modrinth.com/data/GyKzAh3l/images/55b9b1e91531f1fb7a69f49dbae7608838a0eeca.png",
-			"https://cdn.modrinth.com/data/GyKzAh3l/images/9509ea83c2b367d34c5dd10b0949c1711e163824.png",
-			"https://cdn.modrinth.com/data/GyKzAh3l/images/eb86758189e50cbd33993ea7824dec22edfa5c4e.png",
-			"https://cdn.modrinth.com/data/GyKzAh3l/images/f3d8df069b3c2dae58a3d75c77706a417cb40fa7.png"
+			"https://cdn.modrinth.com/data/GyKzAh3l/images/55b9b1e91531f1fb7a69f49dbae7608838a0eeca_350.webp",
+			"https://cdn.modrinth.com/data/GyKzAh3l/images/9509ea83c2b367d34c5dd10b0949c1711e163824_350.webp",
+			"https://cdn.modrinth.com/data/GyKzAh3l/images/c3e9992748e3589427107c78a67db280ecf121c6_350.webp",
+			"https://cdn.modrinth.com/data/GyKzAh3l/images/eb86758189e50cbd33993ea7824dec22edfa5c4e_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/GyKzAh3l/12ab3857e990c5cbd3b4b69425046ae26cf70219.png",
+		"icon": "https://cdn.modrinth.com/data/GyKzAh3l/c83f94cf3514d4895f4f975b64ef417994dcecd5_96.webp",
 		"issues": "https://github.com/satisfyu/Let-s-Do-Hub/issues",
 		"license": "LicenseRef-custom",
-		"long_description": " ![Logo](https://imgur.com/A7uz27g.png)\n\n<br>\n<br>\n\n <center>Get your suncream out, we're going to the beach! \n</center>\n<br>\n<br>\n\n \n \n__Features__\n<br>\n- Enjoy the overhauled beach biome - Palm trees, sea stars, sandwaves and dried bushes provide a much more beautiful beach.\n- A new type of wood: Palm wood<br>\n- Lots of decorative blocks that fit well into the whole beach theme: Deck-, beach- and lounge-chairs, a hammock, and of course a tiki bar!<br>\n- Craft ice cream, popsicles, and cocktails.<br>\n- A pelican! A new animal you can find in beach and river biomes.<br>\n- Do you enjoy music? Then you have to check out the new radio!<br>\n- New armor items: Swimming trunks, a bikini, rubber rings, sunglasses, and even a pool noodle you can use as a weapon - nearly harmless, of course. Dyeable of course!<br>\n- Villagers do like the overhauled beach too! They will wear appropriate clothing while hanging out at the beach.<br>\n<br>\n… and more\n<br>\n<br>\n</p>\n\n__Getting started__\n<br>\n<br>\nBeach party won't affect any already created chunks. But it's going to overhaul all newly loaded beach biomes.\n\n<br>\n<br>\n</p>\n\n<br>\n<br>\n</p>\n<br>\n<br>\n</p>\n <center>I wish you lots of fun with this small little Mod! xx</center>\n<br>\n<br>\n</p>\n<center>1.19.2 and above requires Architectury</center>\n<br>\n<br>\n</p>\n<br>\n<br>\n</p>\n <center>Dedicated to MissLilitu</center>\n \n ",
+		"long_description": " ![Logo](https://imgur.com/A7uz27g.png)\n\n<br>\n<br>\n\n <center>Get your suncream out, we're going to the beach! \n</center>\n<br>\n<br>\n\n \n \n__Features__\n- **New Collectibles & Trinkets**: Trunks, bikinis, sunglasses, and more to collect! Many items come with bonuses to make\n  beach life even better.\n- **Decorative Blocks**: Beach chairs in various styles, tables, a palm bar, and more! Perfect for building with bamboo.\n- **Cocktails**: Refreshing treats to craft and enjoy.\n- **Radio**: Now works seamlessly without disconnecting everyone. Hopefully!\n\n… and more\n<br>\n<br>\n<br>\n</p>\n\n <center>I wish you lots of fun with this cute little Mod!</center>\n \n<br>\n<br>\n<br>\n\n <center>Dedicated to MissLilitu</center>\n \n ",
 		"name": "[Let's Do] Beachparty",
 		"package_maintainers": [
 			"mcvm"
@@ -239,6 +301,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.0.1",
+			"2.0.0",
 			"1.1.5",
 			"1.1.4-1",
 			"1.1.4",

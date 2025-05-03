@@ -1,0 +1,80 @@
+{
+	"addons": {
+		"addon": {
+			"kind": "mod",
+			"versions": [
+				{
+					"content_versions": "1.0.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "fabriclike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MvC0OwYb/versions/IvAJNQNh/worldgen-patches-1.0.0-fabric-1.21.jar",
+					"version": "IvAJNQNh"
+				},
+				{
+					"content_versions": "1.0.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/MvC0OwYb/versions/zPdyjFVW/worldgen-patches-1.0.0-neoforge-1.21.jar",
+					"version": "zPdyjFVW"
+				}
+			]
+		}
+	},
+	"meta": {
+		"authors": [
+			"Apollo"
+		],
+		"description": "Fixes a few small issues in worldgen.",
+		"gallery": [
+			"https://cdn.modrinth.com/data/MvC0OwYb/images/7bb41a8955d2d1e2e83ebd8486e6992df4424a62_350.webp",
+			"https://cdn.modrinth.com/data/MvC0OwYb/images/98bce73fd2b2fcf24795a8e8cb59c9f6eecedefe_350.webp"
+		],
+		"icon": "https://cdn.modrinth.com/data/MvC0OwYb/957c183779679ae5fd97b8be6bee75282eee69f8.png",
+		"issues": "https://github.com/Apollounknowndev/worldgen-patches/issues",
+		"license": "MIT",
+		"long_description": "# Worldgen Patches\n\nThis mod aims to patch some minor issues/quirks with world generation. Currently, this includes the following fixes:\n- The `steep` surface rule (which in vanilla gives Jagged Peaks stone faces) now affects *all* directions, not just the north and east-facing sides.\n- Snow layers correctly generate both below and on trees.\n\n**Note: A Fabric version will also be releasing, but is not ready yet due to toolchain issues.**",
+		"name": "Worldgen Patches",
+		"package_maintainers": [
+			"mcvm"
+		],
+		"source": "https://github.com/Apollounknowndev/worldgen-patches",
+		"support_link": "https://ko-fi.com/apollodev"
+	},
+	"properties": {
+		"content_versions": [
+			"1.0.0"
+		],
+		"modrinth_id": "MvC0OwYb",
+		"supported_modloaders": [
+			"fabriclike",
+			"forgelike"
+		],
+		"supported_sides": [
+			"server"
+		],
+		"supported_versions": [
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
+		]
+	}
+}

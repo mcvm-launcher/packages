@@ -196,7 +196,7 @@
 		],
 		"description": "Delays client chunk unloading",
 		"gallery": [],
-		"icon": "https://cdn.modrinth.com/data/LXJlc5WJ/icon.png",
+		"icon": "https://cdn.modrinth.com/data/LXJlc5WJ/450ca6800f6567751a638165df652ab5439ce302_96.webp",
 		"issues": "https://github.com/dlee13/hold-that-chunk/issues",
 		"license": "MIT",
 		"long_description": "This Fabric loader mod prevents the Minecraft client from immediately unloading chunks when it receives chunk unload packets from the server. Instead, client chunks get periodically cleaned up based on distance away from the player.\n\nThis chunk unloading strategy is particularly useful for participating in ice boat racing or elytra course racing on highly active multiplayer servers where servers may struggle to keep up with sending chunk updates to all of the players. Typically, without this mod, a player would start to move into empty chunks when several players on the server are simultaneously traveling at high velocities. The issue is resolved since the cached chunks can be readily redrawn before the fresh chunk data comes in over the network.\n\nYou may also increase your view distance by setting the Ignore Server Render Distance option in this mod's config.\n",
@@ -241,7 +241,8 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	},
 	"relations": {

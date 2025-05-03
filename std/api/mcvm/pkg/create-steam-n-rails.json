@@ -4,12 +4,136 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.6.9-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"create",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/VFhdqLko/Steam_Rails-1.6.9%2Bfabric-mc1.20.1.jar",
+					"version": "VFhdqLko"
+				},
+				{
+					"content_versions": "1.6.8-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"create",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/2TE4Y4Fq/Steam_Rails-1.6.8%2Bfabric-mc1.20.1.jar",
+					"version": "2TE4Y4Fq"
+				},
+				{
+					"content_versions": "1.6.7-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"create",
+							"fabriclike-api"
+						]
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/2ABmylPA/Steam_Rails-1.6.7%2Bfabric-mc1.20.1.jar",
+					"version": "2ABmylPA"
+				},
+				{
+					"content_versions": "1.6.7-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/pklcGSDf/Steam_Rails-1.6.7%2Bforge-mc1.20.1.jar",
+					"version": "pklcGSDf"
+				},
+				{
+					"content_versions": "1.6.6-mc1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/AYmDx1OW/Steam_Rails-1.6.6%2Bforge-mc1.19.2.jar",
+					"version": "AYmDx1OW"
+				},
+				{
+					"content_versions": "1.6.6-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/PXQDVNfK/Steam_Rails-1.6.6%2Bforge-mc1.20.1.jar",
+					"version": "PXQDVNfK"
+				},
+				{
+					"content_versions": "1.6.5-mc1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/XPsaJuGp/Steam_Rails-1.6.5%2Bforge-mc1.20.1.jar",
+					"version": "XPsaJuGp"
+				},
+				{
+					"content_versions": "1.6.5-mc1.19.2",
+					"minecraft_versions": "1.19.2",
+					"modloaders": [
+						"forgelike",
+						"neoforged"
+					],
+					"relations": {
+						"dependencies": "create"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/hBvWfzRv/Steam_Rails-1.6.5%2Bforge-mc1.19.2.jar",
+					"version": "hBvWfzRv"
+				},
+				{
 					"content_versions": "1.6.4-mc1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": [
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/GTvwVcFK/Steam_Rails-1.6.4%2Bforge-mc1.20.1.jar",
 					"version": "GTvwVcFK"
@@ -21,6 +145,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/AJ3IGl3n/Steam_Rails-1.6.4%2Bfabric-mc1.20.1.jar",
 					"version": "AJ3IGl3n"
@@ -32,6 +159,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/a0hkZGSr/Steam_Rails-1.6.4%2Bforge-mc1.19.2.jar",
 					"version": "a0hkZGSr"
@@ -43,6 +173,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/2UUvBSK9/Steam_Rails-1.6.4%2Bfabric-mc1.19.2.jar",
 					"version": "2UUvBSK9"
@@ -54,6 +187,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/nlPSqQex/Steam_Rails-1.6.3%2Bforge-mc1.20.1.jar",
 					"version": "nlPSqQex"
@@ -65,6 +201,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/tTebgWv2/Steam_Rails-1.6.3%2Bfabric-mc1.20.1.jar",
 					"version": "tTebgWv2"
@@ -76,6 +215,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/kpPcB2Pd/Steam_Rails-1.6.2%2Bforge-mc1.20.1.jar",
 					"version": "kpPcB2Pd"
@@ -87,6 +229,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/2EPYYLVW/Steam_Rails-1.6.2%2Bforge-mc1.19.2.jar",
 					"version": "2EPYYLVW"
@@ -98,6 +243,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/qaWfuznW/Steam_Rails-1.6.2%2Bfabric-mc1.20.1.jar",
 					"version": "qaWfuznW"
@@ -109,6 +257,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/G5xDUd4X/Steam_Rails-1.6.2%2Bfabric-mc1.19.2.jar",
 					"version": "G5xDUd4X"
@@ -120,6 +271,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/WYhvuPqr/Steam_Rails-1.6.1%2Bforge-mc1.20.1.jar",
 					"version": "WYhvuPqr"
@@ -131,6 +285,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/wGx3fVnx/Steam_Rails-1.6.1%2Bforge-mc1.19.2.jar",
 					"version": "wGx3fVnx"
@@ -142,6 +299,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/VgNWmlEr/Steam_Rails-1.6.0%2Bforge-mc1.20.1.jar",
 					"version": "VgNWmlEr"
@@ -153,6 +313,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/4VzunVEQ/Steam_Rails-1.6.0%2Bfabric-mc1.20.1.jar",
 					"version": "4VzunVEQ"
@@ -164,6 +327,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/rCBoIjNu/Steam_Rails-1.6.0%2Bforge-mc1.19.2.jar",
 					"version": "rCBoIjNu"
@@ -175,6 +341,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/rNFXbsLu/Steam_Rails-1.6.0%2Bfabric-mc1.19.2.jar",
 					"version": "rNFXbsLu"
@@ -186,6 +355,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/HYfHPRG3/Steam_Rails-1.5.3%2Bfabric-mc1.20.1.jar",
 					"version": "HYfHPRG3"
@@ -194,6 +366,9 @@
 					"content_versions": "1.4.8-mc1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/9bvNSNFf/Steam_Rails-1.4.8%2Bfabric-mc1.18.2.jar",
 					"version": "9bvNSNFf"
@@ -205,6 +380,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/NxmT4iOM/Steam_Rails-1.5.3%2Bfabric-mc1.19.2.jar",
 					"version": "NxmT4iOM"
@@ -213,6 +391,9 @@
 					"content_versions": "1.4.8-mc1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/jeWNqcnM/Steam_Rails-1.4.8%2Bforge-mc1.18.2-build.23.jar",
 					"version": "jeWNqcnM"
@@ -221,6 +402,9 @@
 					"content_versions": "1.4.7-mc1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/qCB9piva/Steam_Rails-1.4.7%2Bforge-mc1.18.2-build.22.jar",
 					"version": "qCB9piva"
@@ -229,6 +413,9 @@
 					"content_versions": "1.4.6-mc1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/qMtIuvlI/Steam_Rails-1.4.6%2Bforge-mc1.18.2-build.21.jar",
 					"version": "qMtIuvlI"
@@ -240,6 +427,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/LLyO2sHq/Steam_Rails-1.5.3%2Bforge-mc1.20.1.jar",
 					"version": "LLyO2sHq"
@@ -251,6 +441,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/HqoPLNmf/Steam_Rails-1.5.3%2Bforge-mc1.19.2.jar",
 					"version": "HqoPLNmf"
@@ -259,6 +452,9 @@
 					"content_versions": "1.4.5-mc1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/VLZVzH6M/Steam_Rails-1.4.5%2Bforge-mc1.18.2-build.18.jar",
 					"version": "VLZVzH6M"
@@ -270,6 +466,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/E3cqlz5f/Steam_Rails-1.5.2%2Bforge-mc1.20.1.jar",
 					"version": "E3cqlz5f"
@@ -281,6 +480,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/vVIvVuGn/Steam_Rails-1.5.1%2Bfabric-mc1.20.1.jar",
 					"version": "vVIvVuGn"
@@ -292,6 +494,9 @@
 						"forgelike",
 						"neoforged"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/m1sLaZVs/Steam_Rails-1.5.1%2Bforge-mc1.20.1.jar",
 					"version": "m1sLaZVs"
@@ -300,6 +505,9 @@
 					"content_versions": "1.5.1-mc1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/hfPUXawn/Steam_Rails-1.5.1%2Bforge-mc1.19.2.jar",
 					"version": "hfPUXawn"
@@ -311,6 +519,9 @@
 						"fabriclike",
 						"quilt"
 					],
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/EPD1yRD4/Steam_Rails-1.5.1%2Bfabric-mc1.19.2.jar",
 					"version": "EPD1yRD4"
@@ -319,6 +530,9 @@
 					"content_versions": "1.5.0-mc1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/70QnqALQ/Steam_Rails-1.5.0%2Bforge-mc1.19.2-build.13.jar",
 					"version": "70QnqALQ"
@@ -327,6 +541,9 @@
 					"content_versions": "1.5.0-mc1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/RjYcrod0/Steam_Rails-1.5.0%2Bforge-mc1.20.1-build.14.jar",
 					"version": "RjYcrod0"
@@ -335,6 +552,9 @@
 					"content_versions": "1.5.0-mc1.20.1",
 					"minecraft_versions": "1.20.1",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/TQd7SsHW/Steam_Rails-1.5.0%2Bfabric-mc1.20.1-build.15.jar",
 					"version": "TQd7SsHW"
@@ -343,6 +563,9 @@
 					"content_versions": "1.4.4-mc1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/A89ZTTBx/Steam_Rails-1.4.4%2Bfabric-mc1.18.2-build.13.jar",
 					"version": "A89ZTTBx"
@@ -351,6 +574,9 @@
 					"content_versions": "1.5.0-mc1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/eYUb7Azi/Steam_Rails-1.5.0%2Bfabric-mc1.19.2-build.14.jar",
 					"version": "eYUb7Azi"
@@ -359,6 +585,9 @@
 					"content_versions": "1.4.4-mc1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/BIH3xmGq/Steam_Rails-1.4.4%2Bforge-mc1.18.2-build.12.jar",
 					"version": "BIH3xmGq"
@@ -367,6 +596,9 @@
 					"content_versions": "1.4.3-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/wIQB8AKm/Steam_Rails-1.4.3%2Bforge-mc1.19.2.jar",
 					"version": "wIQB8AKm"
@@ -375,6 +607,9 @@
 					"content_versions": "1.4.3-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/3389qCxv/Steam_Rails-1.4.3%2Bfabric-mc1.19.2.jar",
 					"version": "3389qCxv"
@@ -383,6 +618,9 @@
 					"content_versions": "1.4.3-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/RSVbaDTn/Steam_Rails-1.4.3%2Bforge-mc1.18.2.jar",
 					"version": "RSVbaDTn"
@@ -391,6 +629,9 @@
 					"content_versions": "1.4.3-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/Nn4oVILa/Steam_Rails-1.4.3%2Bfabric-mc1.18.2.jar",
 					"version": "Nn4oVILa"
@@ -399,6 +640,9 @@
 					"content_versions": "1.4.2-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/wqd8yfoS/Steam_Rails-1.4.2%2Bfabric-mc1.19.2.jar",
 					"version": "wqd8yfoS"
@@ -407,6 +651,9 @@
 					"content_versions": "1.4.2-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/weKsrIIx/Steam_Rails-1.4.2%2Bforge-mc1.19.2.jar",
 					"version": "weKsrIIx"
@@ -415,6 +662,9 @@
 					"content_versions": "1.4.1-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/2AKY6jFH/Steam_Rails-1.4.1%2Bforge-mc1.19.2.jar",
 					"version": "2AKY6jFH"
@@ -423,6 +673,9 @@
 					"content_versions": "1.4.1-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/NubLseqe/Steam_Rails-1.4.1%2Bfabric-mc1.19.2.jar",
 					"version": "NubLseqe"
@@ -431,6 +684,9 @@
 					"content_versions": "1.4.1-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/hV6BBigz/Steam_Rails-1.4.1%2Bforge-mc1.18.2.jar",
 					"version": "hV6BBigz"
@@ -439,6 +695,9 @@
 					"content_versions": "1.4.1-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/BUc9bNaU/Steam_Rails-1.4.1%2Bfabric-mc1.18.2.jar",
 					"version": "BUc9bNaU"
@@ -447,6 +706,9 @@
 					"content_versions": "1.4.0-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/aWwsusAg/Steam_Rails-1.4.0%2Bfabric-mc1.19.2.jar",
 					"version": "aWwsusAg"
@@ -455,6 +717,9 @@
 					"content_versions": "1.4.0-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/zEaFHpoR/Steam_Rails-1.4.0%2Bforge-mc1.19.2.jar",
 					"version": "zEaFHpoR"
@@ -463,6 +728,9 @@
 					"content_versions": "1.4.0-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/WAjpkJhQ/Steam_Rails-1.4.0%2Bfabric-mc1.18.2.jar",
 					"version": "WAjpkJhQ"
@@ -471,6 +739,9 @@
 					"content_versions": "1.4.0-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/RtkWBjFy/Steam_Rails-1.4.0%2Bforge-mc1.18.2.jar",
 					"version": "RtkWBjFy"
@@ -479,6 +750,9 @@
 					"content_versions": "1.3.5-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/y3UkSbNg/Steam_Rails-1.3.5%2Bforge-mc1.19.2.jar",
 					"version": "y3UkSbNg"
@@ -487,6 +761,9 @@
 					"content_versions": "1.3.5-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/Z2nUs2kr/Steam_Rails-1.3.5%2Bforge-mc1.18.2.jar",
 					"version": "Z2nUs2kr"
@@ -495,6 +772,9 @@
 					"content_versions": "1.3.4-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/4MDOSzhQ/Steam_Rails-1.3.4%2Bforge-mc1.19.2.jar",
 					"version": "4MDOSzhQ"
@@ -503,6 +783,9 @@
 					"content_versions": "1.3.4-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/Dh4LpVcz/Steam_Rails-1.3.4%2Bforge-mc1.18.2.jar",
 					"version": "Dh4LpVcz"
@@ -511,6 +794,9 @@
 					"content_versions": "1.3.3-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/WVkH740Q/Steam_Rails-1.3.3%2Bforge-mc1.18.2.jar",
 					"version": "WVkH740Q"
@@ -519,6 +805,9 @@
 					"content_versions": "1.3.3-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/ee2PWFjL/Steam_Rails-1.3.3%2Bforge-mc1.19.2.jar",
 					"version": "ee2PWFjL"
@@ -527,6 +816,9 @@
 					"content_versions": "1.3.2-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/Yd8tMe9D/Steam_Rails-1.3.2%2Bforge-mc1.19.2.jar",
 					"version": "Yd8tMe9D"
@@ -535,6 +827,9 @@
 					"content_versions": "1.3.2-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/l9Erta4I/Steam_Rails-1.3.2%2Bforge-mc1.18.2.jar",
 					"version": "l9Erta4I"
@@ -543,6 +838,9 @@
 					"content_versions": "1.3.1-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/lyRv4bg0/Steam_Rails-1.3.1%2Bforge-mc1.18.2.jar",
 					"version": "lyRv4bg0"
@@ -551,6 +849,9 @@
 					"content_versions": "1.3.1-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/q9ivodxW/Steam_Rails-1.3.1%2Bforge-mc1.19.2.jar",
 					"version": "q9ivodxW"
@@ -559,6 +860,9 @@
 					"content_versions": "1.3.0-1.19.2",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/AGvgXYqF/Steam_Rails-1.3.0%2Bforge-mc1.19.2.jar",
 					"version": "AGvgXYqF"
@@ -567,6 +871,9 @@
 					"content_versions": "1.3.0-1.18.2",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/8plSaTYf/Steam_Rails-1.3.0%2Bforge-mc1.18.2.jar",
 					"version": "8plSaTYf"
@@ -575,6 +882,9 @@
 					"content_versions": "1.2.6",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/LGgjOqmU/Steam_Rails-1.2.6%2Bforge-mc1.19.2.jar",
 					"version": "LGgjOqmU"
@@ -583,6 +893,9 @@
 					"content_versions": "1.2.6",
 					"minecraft_versions": "1.19.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/VXh9CeGE/Steam_Rails-1.2.6%2Bfabric-mc1.19.2.jar",
 					"version": "VXh9CeGE"
@@ -591,6 +904,9 @@
 					"content_versions": "1.2.6",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/xBnBLkOZ/Steam_Rails-1.2.6%2Bfabric-mc1.18.2.jar",
 					"version": "xBnBLkOZ"
@@ -599,6 +915,9 @@
 					"content_versions": "1.2.6",
 					"minecraft_versions": "1.18.2",
 					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "create"
+					},
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/BBbN1SjT/Steam_Rails-1.2.6%2Bforge-mc1.18.2.jar",
 					"version": "BBbN1SjT"
@@ -624,29 +943,29 @@
 		"description": "Adding depth to Create's rail network & steam system",
 		"documentation": "https://github.com/Layers-of-Railways/Railway/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/1027adc412c38d2ea073b5a0c5c7f850a98567a2.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/3051e2357a1a5d7c911ded25ebde75bac4f7ee6f.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/373254a059528c242dec5d1d74fc5563eb84cc9b.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/37e664fcc9f8613913419ade4219dc81a44f423e.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/5bbbf18334d180062b2863c1391e4a99cb28755d.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/64a92e01eaee601cba08f7d3ebbdd72f8d43bd2c.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/6d1ae78c9b0b359e6190fff2848f6c4bc7049666.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/7400d2a88ad585e73107ed962fedd30b661f5faf.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/7fcb660bfeab0a308a79d62da6271b949c3a90d0.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/81069e1eb33e4f9df010595d0c05787663e78610.png",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/2b56841813cb4df76f774667b9b0f46fb1d6a230_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/3361e7f62119493de2b5a2b7ac4f0359f14be7db_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/555609659f32a1dc375da6ebacab5f95cea1c2a5_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/6227772948f48aec18298781298a99fc61b79fba_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/622fc904775d844fb614b47ed429f2c44ade3e3d_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/77dc2455c880e4b272007ddaf8e91235bed7f540_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/9bad7574b7ff7efb968cbb6da420bf8710e897cc_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/b3ae47091a80d8b0499346df9b14c4c47f96905c_350.webp",
 			"https://cdn.modrinth.com/data/ZzjhlDgM/images/b541ced05f30da9024e30f28d3cd83520bb1a45f.webp",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/b6270ce3e1bc04eeffdbb6d4cd702f211c5f95e3.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/ba03df6b05f67c9430f082bfe08fa1d8d6d04ceb.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/cd91295324f53aa124a7d4076fe1ed309699b261.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/cf6a7c0277f471d74ad02f86e71b8622a5eee248.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/d23e0a17d240e56ff3ba534ae73444d433b0b189.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/e265a189b456bbf95ab5c143872e9c079e570345.png",
-			"https://cdn.modrinth.com/data/ZzjhlDgM/images/ed524979b5837465cc9f2c7e5202bd4a85a4d380.png"
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/b6c7790dd50ccec800d2ef71dbcd3417b3f82350_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/b713e78942a810ff567fcc04864a1d8867f20f14_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/b953104dbee13eff8868bbfa4794adef6c84ab4d_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/d59ca2eef92a76a432c2f382dae2127a102d9ed3_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/e25dc406a4aae03a27e080e92779a7bec1eeb6f2_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/f315b8becd4e9cf38067aa2364c7c8c61ff57d1c_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/f59be0040f24ba38776c718bfba64232fc51c9d8_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/f84f1f90ccb80bb0e30f5b2e6e70ac10b3f052d7_350.webp",
+			"https://cdn.modrinth.com/data/ZzjhlDgM/images/fc48f244a0a84bc89ecc5aee28c31302a4e78685_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/ZzjhlDgM/23d42e3d1c878cb77f9e74a3f78fed2d011ed937.png",
+		"icon": "https://cdn.modrinth.com/data/ZzjhlDgM/efac0150d612ab52768620dd53a7e8c27ce2fb0d_96.webp",
 		"issues": "https://github.com/Layers-of-Railways/Railway/issues",
 		"license": "LGPL-3.0-only",
-		"long_description": "### Need a server host? We personally recommend Bloom Host! Grab a server [here](https://billing.bloom.host/aff.php?aff=17)!\n[![bloom-gif](https://bloom.host/assets/images/Comp_2.gif)](https://billing.bloom.host/aff.php?aff=17)\n\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/md78MGbEfK)\n\n**Create: Steam & Rails** \n\nAll aboard a mod dedicated to expanding the possibilities of Create’s railway system. We are turning a basic logistical system into an extensive and aesthetic integration of railways into Minecraft.\n\nFeatures\n\n ****Tracks****\n\n*   Decorate your builds and bring new life and depth to your rail networks with _eight_ new rail types! They’re fully compatible with the existing rails, as well as each other. Try our signature dark oak rails to give your build that distinguished look, make it really stand out with gold and nether wood rails or give our monorail track a go..\n*   Additionally you can right-click a track with any slab creates a grade crossing track,works on slopes and turns for that extra bit of spice.  \n      \n    **Semaphores**\n*   Make your train yards and junctions pop with our new Semaphore blocks! They serve the same purpose as nixie tubes, but do so in a far more aesthetically pleasing way.\n\n  \n**Conductors**\n\n*   Construct a cute little conductor. A Remote Redstone operator and toolbox carrier, all in one adorable creature!\n\n**Minecarts**\n\n*   Workbench Cart - Crafting on the move\n*   Jukebox Cart - Music on the move\n\n**Coupling block**\n\n*   Blocks that can connect or disconnect two trains when powered\n\n**Conductor Whistles**\n\n*   whistles that can summon a train driven by a conductor\n\n**Smokestacks**\n\n*   A variety of decorative alternatives to campfires.\n\nSteam 'n Rails development would not be possible without the amazing contributions of the following people:\n\n* ToOpa\n* Luna\n* Rdh\n* Ya\n* Megamikey\n* RakuGaki\n* Flashduke\n* Robotix\n* Tiestoettoet\n* Qirmack\n* Jab_of_jobe\n* Casey\n* Omokage R\n* AndreSk_\n* Poly1810\n* Bluephi09\n* Redcat\n",
+		"long_description": "### Need a server host? We personally recommend Bloom Host! Grab a server [here](https://billing.bloom.host/aff.php?aff=17)!\n[![bloom-gif](https://bloom.host/assets/images/Comp_2.gif)](https://billing.bloom.host/aff.php?aff=17)\n\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/UKFkg5NQzu)\n\n**Create: Steam & Rails** \n\nAll aboard a mod dedicated to expanding the possibilities of Create’s railway system. We are turning a basic logistical system into an extensive and aesthetic integration of railways into Minecraft.\n\nFeatures\n\n ****Tracks****\n\n*   Decorate your builds and bring new life and depth to your rail networks with _eight_ new rail types! They’re fully compatible with the existing rails, as well as each other. Try our signature dark oak rails to give your build that distinguished look, make it really stand out with gold and nether wood rails or give our monorail track a go..\n*   Additionally you can right-click a track with any slab creates a grade crossing track,works on slopes and turns for that extra bit of spice.  \n      \n    **Semaphores**\n*   Make your train yards and junctions pop with our new Semaphore blocks! They serve the same purpose as nixie tubes, but do so in a far more aesthetically pleasing way.\n\n  \n**Conductors**\n\n*   Construct a cute little conductor. A Remote Redstone operator and toolbox carrier, all in one adorable creature!\n\n**Minecarts**\n\n*   Workbench Cart - Crafting on the move\n*   Jukebox Cart - Music on the move\n\n**Coupling block**\n\n*   Blocks that can connect or disconnect two trains when powered\n\n**Conductor Whistles**\n\n*   whistles that can summon a train driven by a conductor\n\n**Smokestacks**\n\n*   A variety of decorative alternatives to campfires.\n\nSteam 'n Rails development would not be possible without the amazing contributions of the following people:\n\n* ToOpa\n* Luna\n* Rdh\n* Ya\n* Megamikey\n* RakuGaki\n* Flashduke\n* Robotix\n* Tiestoettoet\n* Qirmack\n* Jab_of_jobe\n* Casey\n* Omokage R\n* AndreSk_\n* Poly1810\n* Bluephi09\n* Redcat\n",
 		"name": "Create: Steam 'n' Rails",
 		"package_maintainers": [
 			"mcvm"
@@ -656,6 +975,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.6.9-mc1.20.1",
+			"1.6.8-mc1.20.1",
+			"1.6.7-mc1.20.1",
+			"1.6.6-mc1.20.1",
+			"1.6.6-mc1.19.2",
+			"1.6.5-mc1.20.1",
+			"1.6.5-mc1.19.2",
 			"1.6.4-mc1.20.1",
 			"1.6.4-mc1.19.2",
 			"1.6.3-mc1.20.1",
@@ -712,8 +1038,5 @@
 			"1.19.2",
 			"1.20.1"
 		]
-	},
-	"relations": {
-		"dependencies": "create"
 	}
 }

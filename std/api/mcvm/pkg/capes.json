@@ -4,6 +4,77 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.5.5-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/89Wsn8GD/versions/htKsCP2s/capes-1.5.5%2B1.21.5-fabric.jar",
+					"version": "htKsCP2s"
+				},
+				{
+					"content_versions": "1.5.5-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/89Wsn8GD/versions/W8c8LF0s/capes-1.5.5%2B1.21.4-fabric.jar",
+					"version": "W8c8LF0s"
+				},
+				{
+					"content_versions": "1.5.4-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/89Wsn8GD/versions/4X4bIaS0/capes-1.5.4%2B1.21.4-fabric.jar",
+					"version": "4X4bIaS0"
+				},
+				{
+					"content_versions": "1.5.4-1.21.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"fabriclike-api",
+							"kotlin-support"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/89Wsn8GD/versions/mkf1dFwO/capes-1.5.4%2B1.21.2-fabric.jar",
+					"version": "mkf1dFwO"
+				},
+				{
 					"content_versions": "1.5.4-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -322,6 +393,10 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.5.5-1.21.5",
+			"1.5.5-1.21.4",
+			"1.5.4-1.21.4",
+			"1.5.4-1.21.2",
 			"1.5.4-1.21",
 			"1.5.4-1.20.5",
 			"1.5.3-1.20.2",
@@ -367,7 +442,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

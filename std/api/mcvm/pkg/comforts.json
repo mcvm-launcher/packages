@@ -4,6 +4,86 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "9.0.3-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SaCpeal4/versions/duBFOcde/comforts-neoforge-9.0.3%2B1.21.1.jar",
+					"version": "duBFOcde"
+				},
+				{
+					"content_versions": "9.0.3-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SaCpeal4/versions/Vcrs5rk5/comforts-fabric-9.0.3%2B1.21.1.jar",
+					"version": "Vcrs5rk5"
+				},
+				{
+					"content_versions": "9.0.3-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SaCpeal4/versions/RCTeNDpN/comforts-forge-9.0.3%2B1.21.1.jar",
+					"version": "RCTeNDpN"
+				},
+				{
+					"content_versions": "9.0.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SaCpeal4/versions/Amo1EWsq/comforts-neoforge-9.0.2%2B1.21.1.jar",
+					"version": "Amo1EWsq"
+				},
+				{
+					"content_versions": "9.0.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SaCpeal4/versions/JRpmvL81/comforts-fabric-9.0.2%2B1.21.1.jar",
+					"version": "JRpmvL81"
+				},
+				{
+					"content_versions": "9.0.2-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SaCpeal4/versions/81QCOM63/comforts-forge-9.0.2%2B1.21.1.jar",
+					"version": "81QCOM63"
+				},
+				{
+					"content_versions": "9.0.1-1.21",
+					"minecraft_versions": "1.21",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/SaCpeal4/versions/tIbZJEUK/comforts-neoforge-9.0.1%2B1.21.jar",
+					"version": "tIbZJEUK"
+				},
+				{
 					"content_versions": "9.0.0-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -914,16 +994,16 @@
 		"authors": [
 			"TheIllusiveC4"
 		],
-		"banner": "https://cdn.modrinth.com/data/SaCpeal4/images/1133bb5eba25ac3f789c27de227f474c560f8858.png",
+		"banner": "https://cdn.modrinth.com/data/SaCpeal4/images/a9837c941a4ea462ea017de1d8e14902f67a020e_350.webp",
 		"community": "https://discord.gg/JWgrdwt",
 		"description": "Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. Comes in 16 different colors!",
 		"documentation": "https://github.com/illusivesoulworks/comforts/wiki",
 		"gallery": [
-			"https://cdn.modrinth.com/data/SaCpeal4/images/1133bb5eba25ac3f789c27de227f474c560f8858.png",
-			"https://cdn.modrinth.com/data/SaCpeal4/images/5d0d7e789e69f58f82d608e25f25517ea691fe50.png",
+			"https://cdn.modrinth.com/data/SaCpeal4/images/2c12c02f476fc986bb065a67fd118c1e3033d595_350.webp",
 			"https://cdn.modrinth.com/data/SaCpeal4/images/71eeab2d49ede4b4addaff8672091a8368ef3c13.png",
-			"https://cdn.modrinth.com/data/SaCpeal4/images/cb49cf3d99c2cf0ea70936cfedb1a4f81821e34a.png",
-			"https://cdn.modrinth.com/data/SaCpeal4/images/cbf89162554d4563bafa3d8dd8de95d9dab8945b.png"
+			"https://cdn.modrinth.com/data/SaCpeal4/images/a9837c941a4ea462ea017de1d8e14902f67a020e_350.webp",
+			"https://cdn.modrinth.com/data/SaCpeal4/images/ab0d2c0414ae5ebb78edfae6ed0808e6e41c084e_350.webp",
+			"https://cdn.modrinth.com/data/SaCpeal4/images/cb49cf3d99c2cf0ea70936cfedb1a4f81821e34a.png"
 		],
 		"icon": "https://cdn.modrinth.com/data/SaCpeal4/ed4840f0c9a30e04ad88413bd82cd762dd6ec95d.png",
 		"issues": "https://github.com/illusivesoulworks/comforts/issues",
@@ -938,6 +1018,9 @@
 	},
 	"properties": {
 		"content_versions": [
+			"9.0.3-1.21.1",
+			"9.0.2-1.21.1",
+			"9.0.1-1.21",
 			"9.0.0-1.21",
 			"8.0.1-1.20.6",
 			"8.0.0-1.20.6",
@@ -1005,7 +1088,8 @@
 			"1.20.2",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1"
 		]
 	}
 }

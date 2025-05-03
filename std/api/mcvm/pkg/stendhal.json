@@ -4,6 +4,22 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.4.1-1.21.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"conflicts": "fix-book-gui",
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/BWloQ9jK/versions/esRBDwvg/stendhal-1.4.1-1.21.2.jar",
+					"version": "esRBDwvg"
+				},
+				{
 					"content_versions": "1.4.1-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -325,14 +341,14 @@
 		"community": "https://discord.gg/6StChT5m2V",
 		"description": "Stendhal is a client-side Fabric mod offering new and enhanced visual utilities for books, signs, anvil and the in-game chat.",
 		"gallery": [
-			"https://cdn.modrinth.com/data/BWloQ9jK/images/1421d6cb14101d1df54f76748518db47d6463915.png",
 			"https://cdn.modrinth.com/data/BWloQ9jK/images/1f58dc405e3521ae7cf6c2a473a0a878a4447cb8.png",
-			"https://cdn.modrinth.com/data/BWloQ9jK/images/3359721e1d4345e1dbce4e0965f8476629611e91.png",
-			"https://cdn.modrinth.com/data/BWloQ9jK/images/5586999a5aff1cbe01343625e172713c40364ca9.png",
-			"https://cdn.modrinth.com/data/BWloQ9jK/images/87397664645ae6ac40fdde90e5ee3565a74dd695.png",
-			"https://cdn.modrinth.com/data/BWloQ9jK/images/98b1a08aaa5333c9e28e4487763268ce83a1f532.png"
+			"https://cdn.modrinth.com/data/BWloQ9jK/images/249a94bf71f665cf1d765574f435e682878e3af4_350.webp",
+			"https://cdn.modrinth.com/data/BWloQ9jK/images/3cc7e7a98278f767a2863b8b1895d4071e55a4d1_350.webp",
+			"https://cdn.modrinth.com/data/BWloQ9jK/images/76625e21a5434917eb9246d554149639fd89d7f1_350.webp",
+			"https://cdn.modrinth.com/data/BWloQ9jK/images/8488e8f7446644e6df6ef6191d17108eb1521b92_350.webp",
+			"https://cdn.modrinth.com/data/BWloQ9jK/images/87397664645ae6ac40fdde90e5ee3565a74dd695.png"
 		],
-		"icon": "https://cdn.modrinth.com/data/BWloQ9jK/5038b0062081cc4af94eb4dcfdcd2615fa6cbf2f.png",
+		"icon": "https://cdn.modrinth.com/data/BWloQ9jK/488efc88a62495c841ef2dfc462cd1ae5025db94_96.webp",
 		"license": "CC-BY-NC-ND-4.0",
 		"long_description": "<p style=\"text-align: center;\"><a href=\"https://billing.rocketnode.com/aff.php?aff=431\" target=\"_blank\" rel=\"noopener noreferrer\"><img style=\"display: block; margin-left: auto; margin-right: auto; text-align: center;\" src=\"https://i.imgur.com/L4trPpd.png\" alt=\"Rocket Node Sponsor\" /></a></p>\n\n![Stendhal Banner](https://cdn.modrinth.com/data/BWloQ9jK/images/1f58dc405e3521ae7cf6c2a473a0a878a4447cb8.png)\n\n**⚠️ Some newer features might be unavailable if you use older Minecraft versions (1.16, 1.17).**  \n**⚠️ This mod is exclusive to Fabric. There is/will be no Forge version. Take a look at the FAQ below for an alternative.**\n\n## ❤ Description ❤\n\n***Stendhal*** is a ***client-side Fabric mod*** offering new and enhanced visual utilities for books, signs, anvil and the in-game chat.\n\nAll the vanilla GUIs (screens) for ***Book & Quills, Books, Anvils and Signs*** have been reworked, with ***quick access*** to various tools (import & export books and signs to/from disk, copy entire page content, entire books or signs, clear a page or a book entirely in one click, ...), legacy colors and one-click away unicode characters!\n\nOn top of that, it also offers a quick access bar for ***unicode characters when opening the chat***! You can also ***customize your nametags*** with these beautiful vanilla unicodes ***in any Anvil***!\n***Impress your friends*** by using these unicode characters while talking to them, or give directions on signs in a ***beautiful way***!\n\n## ❤ Features ❤\n\n### Configuration options\n\n- Available in many languages thanks to the community! Contribute to your language on [my Discord Community]!\n- Access the detailed configuration file under .minecraft/.config/stendhal/stendhal.properties to change any option related to the mod\n\n### Book Editor\n\n- (1.18) A Unicode (emote) picker to select any unicode supported by the in-game font!\n- (1.18) Reading a signed book is now easier with page index navigation and search features. You can also export them to use their content in a Book & Quill again!\n- (1.17) Import and Export books to the Minecraft folder to load your books on other worlds or servers!\n- Copy, paste and clear page content in writable books\n- Add and remove pages in one click\n- Copy, paste and clear an entire book\n- Choose among all the formatting and legacy colors options to customize your book\n- Keep track of how many characters you typed on the bottom of each page to not go over the vanilla 256 characters limitation\n- Add 70+ unicode characters to enhance your readers experience!\n- Unsatisfied? Remove the page formatting in one click and start again!\n\n### Sign Editor\n\n- (1.18) Import and Export signs to the Minecraft folder to load your books on other worlds or servers!\n- (1.17) Quickly copy and paste entire signs on the same world/server is now a two-click process!\n- Use 70+ unicode characters to customize your signs\n- Unsatisfied with what you wrote? Clear the sign in one click and start writing again!\n\n### Chat & Anvil Utilities\n\n- Use 70+ unicode characters to talk to your friends in a more lively way, or with customized item names!\n\n<details>\n<summary>❤ FAQ ❤</summary>\n\nQ: Does this mod allow anyone that did not install Stendhal to see the books and signs modified with it?  \nA: Yes! This mod is entirely client-side, meaning anyone with or without the mod will see the modifications done by it. It only takes advantages of hidden vanilla features and exposes them to the users without doing any breaking changes.\n\nQ: Can I use your mod in/for my modpack/datapack?  \nA: Please do! A credit would be appreciated in your modlist.  \nSimply do not appropriate yourself this mod.\n\nQ: Will this mod ever come to Forge?  \nA: No! This mod is intended to push a little forward the Fabric community, and this is my choice to explicitly not make it available to another mod loader for the time being.  \nHowever, [Ghostwriter](https://github.com/waffle-stomper/Ghostwriter) is a solid alternative for Forge and the book editing part.\n\nQ: Where can I find the source code of the project?  \nA: As of now, nowhere. This project has been a precious opportunity to make myself comfortable again with Java and a good learning process for modding, as much as I would love some help and see how people could contribute in amazing ways, I still want to practice and learn more for future mods.  \nI don't exclude opening the source code later down the line!\n\nQ: Why is your mod named \"Stendhal\"?  \nA: Glad you are wondering! Marie-Henri Stendhal was a renowned French writer born in the 19th century in my hometown in France.\n</details>\n\n## ❤ Upcoming Updates ❤\n\nStendhal is being actively developed and ported to newer Minecraft versions over time.\n\n> **If you would like to give suggestion and follow the development more actively, please join [my Discord Community]**\n\n## ❤ Community ❤\n\nYou can join me on [my Discord Community] to discuss about Stendhal alongside my various projects, whether they are linked to Minecraft modding or not!\n\nIf you would like, feel free to support me on [Ko-Fi], it would make me really happy and motivated!\n\n[![Support me on Ko-Fi!](https://cdn.ko-fi.com/cdn/kofi2.png?v=2)][Ko-Fi]\n\n[my Discord Community]: https://discord.gg/6StChT5m2V\n[Ko-Fi]: https://ko-fi.com/nebspacefarer\n",
 		"name": "Stendhal",
@@ -343,6 +359,7 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.4.1-1.21.2",
 			"1.4.1-1.21",
 			"1.4.1-1.20.6",
 			"1.4.1-1.20.2",
@@ -391,7 +408,10 @@
 			"1.20.3",
 			"1.20.4",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4"
 		]
 	}
 }

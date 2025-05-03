@@ -4,6 +4,194 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "2.2.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/V3xn4HAL/Gamma-Utils-2.2.3-mc1.21.5.jar",
+					"version": "V3xn4HAL"
+				},
+				{
+					"content_versions": "2.2.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3",
+						"1.21.4",
+						"1.21.5"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/lwiszLIz/Gamma-Utils-2.2.2-mc1.21.4.jar",
+					"version": "lwiszLIz"
+				},
+				{
+					"content_versions": "2.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/JlkeMziD/Gamma-Utils-2.1.2-mc1.21.1.jar",
+					"version": "JlkeMziD"
+				},
+				{
+					"content_versions": "2.2.1",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/TEwI4Dmy/Gamma-Utils-2.2.1-mc1.21.2.jar",
+					"version": "TEwI4Dmy"
+				},
+				{
+					"content_versions": "2.1.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/w5DT7jTj/Gamma-Utils-2.1.1-mc1.21.1.jar",
+					"version": "w5DT7jTj"
+				},
+				{
+					"content_versions": "2.0.1",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/j9zf3oGu/Gamma-Utils-2.0.1-mc1.20.6.jar",
+					"version": "j9zf3oGu"
+				},
+				{
+					"content_versions": "2.1.0",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/ZgCUl9IE/Gamma-Utils-2.1.0-mc1.21.1.jar",
+					"version": "ZgCUl9IE"
+				},
+				{
+					"content_versions": "2.0.0",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/4JhyDk1b/Gamma-Utils-2.0.0-mc1.20.6.jar",
+					"version": "4JhyDk1b"
+				},
+				{
 					"content_versions": "1.9.20",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -956,18 +1144,18 @@
 		"authors": [
 			"Sjouwer"
 		],
-		"banner": "https://cdn.modrinth.com/data/wdLuzzEP/images/f877a47e87e753a2fe502c3130b8c82ec55f01b0.png",
+		"banner": "https://cdn.modrinth.com/data/wdLuzzEP/images/6ad07f15e5f78d39511b7c3dba3b97c66537922c_350.webp",
 		"description": "Gamma / Brightness / Night Vision mod, making it easy to see in the dark. Basically Fullbright for Fabric.",
 		"gallery": [
 			"https://cdn.modrinth.com/data/wdLuzzEP/images/5d0fac9f4cec7bf7e8cd195b01aaa9558cd2c6b6.png",
-			"https://cdn.modrinth.com/data/wdLuzzEP/images/e656eb30925be96d2392a8e57dd56d227ccc3c7b.png",
-			"https://cdn.modrinth.com/data/wdLuzzEP/images/e89e666c3b8a88c31093083aa585cdbb6cdceb63.gif",
-			"https://cdn.modrinth.com/data/wdLuzzEP/images/f877a47e87e753a2fe502c3130b8c82ec55f01b0.png"
+			"https://cdn.modrinth.com/data/wdLuzzEP/images/6ad07f15e5f78d39511b7c3dba3b97c66537922c_350.webp",
+			"https://cdn.modrinth.com/data/wdLuzzEP/images/ba160ae363799db9aa053a75c1c1ef0b3cea2949_350.webp",
+			"https://cdn.modrinth.com/data/wdLuzzEP/images/e89e666c3b8a88c31093083aa585cdbb6cdceb63.gif"
 		],
 		"icon": "https://cdn.modrinth.com/data/wdLuzzEP/b6014c210bbedacf610f7d2dba55149dae9677c8.png",
 		"issues": "https://github.com/Sjouwer/gamma-utils/issues",
 		"license": "LGPL-3.0-only",
-		"long_description": "![Example](https://cdn-raw.modrinth.com/data/wdLuzzEP/images/f877a47e87e753a2fe502c3130b8c82ec55f01b0.png)\n\n<a href=\"https://modrinth.com/mod/fabric-api/versions\">\n  <img src=\"https://i.imgur.com/DZjcl2x.png\" alt=\"Requires Fabric API\" width=\"180\"/>\n</a><b>&emsp;</b>\n<a href=\"https://modrinth.com/mod/cloth-config/versions?l=fabric\">\n  <img src=\"https://i.imgur.com/I0y2xcw.png\" alt=\"Requires Cloth Config\" width=\"180\"/>\n</a>\n\n# **Gamma Utils**\n\nThis is a fully configurable and client side gamma utility mod, making it much easier to see in the dark. \nIt's a really basic mod that allows you to change the gamma value in game way higher than the in game brightness setting allows. Nights will look like day and caves will look like they're fully lit up. \nBasically Fullbright but for fabric.  \n<br>  \n\n**Press G to toggle between 100% and 1500% gamma**  \nIf no shaders are used this is generally the better option since it's a lot more adjustable and consistent  \n\n**Press H to toggle client side Night Vision on or off**  \nThis works better in combination with shaders than gamma, however can't be adjusted like gamma can  \n<br>  \n\n## **Fully adjustable to your liking**  \nTo see everything that can be done and adjusted open the function and configuration spoilers below.  \nHere are some examples of what's possible though:  \n\n<details>\n  <summary>Mod overview video from BlackNinja745</summary>\n<iframe width=\"600\" height=\"340\" src=\"https://www.youtube.com/embed/LcQVX6XIYHY\" title=\"Gamma Utils: BEST Fullbright / Gamma Mod! | Minecraft Mod Tutorial\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</details>\n\n**Toggle Night Vision**  \nHigh gamma won't work in combination with shaders,  \nhowever, night vision will work with at least some shaders:  \n<a href=\"https://cdn.modrinth.com/data/wdLuzzEP/images/e656eb30925be96d2392a8e57dd56d227ccc3c7b.png\">\n  <img src=\"https://cdn.modrinth.com/data/wdLuzzEP/images/e656eb30925be96d2392a8e57dd56d227ccc3c7b.png\" alt=\"Night Vision\" width=\"600\"/>\n</a>\n\n**Smooth Transition**  \nEnable smooth transition (off by default) for a less intense transition when toggling gamma:  \n![Smooth Transition](https://cdn.modrinth.com/data/wdLuzzEP/images/e89e666c3b8a88c31093083aa585cdbb6cdceb63.gif)  \n\n**Status Effects**  \nEnable fully client side status effects (off by default)  \nTo keep you reminded that you've enabled gamma outside normal values:  \n![Status Effects](https://cdn.modrinth.com/data/wdLuzzEP/images/5d0fac9f4cec7bf7e8cd195b01aaa9558cd2c6b6.png)  \n\n\n\n## **All Functions**\n<details>\n  <summary>All functions and commands</summary>\n\n**Toggle Gamma**  \n*Usage: Keybind (default: G)   or   /gamma toggle*  \nToggle between the default gamma percentage and the configured toggled percentage.  \n\n**Increase Gamma**  \n*Usage: Keybind (default: arrow up)   or   /gamma increase \\<value> (value is optional)*  \nIncrease the gamma percentage by the configured step percentage or the given value.  \n\n**Decrease Gamma**  \n*Usage: Keybind (default: arrow down)   or   /gamma decrease \\<value> (value is optional)*  \nDecrease the gamma percentage by the configured step percentage or the given value.  \n\n**Set Gamma**  \n*Usage: /gamma set \\<value>*  \nSet the gamma to a specific percentage.  \n\n**Min Gamma**  \n*Usage: Keybind   or   /gamma min*  \nSets the gamma to the configured minimum limit.  \n\n**Max Gamma**  \n*Usage: Keybind   or   /gamma max*  \nSets the gamma to the configured maximum limit.  \n\n**Toggle Night Vision**  \n*Usage: Keybind (default: H)   or   /gamma nightvision*  \nToggle night vision on or off.  \n</details>\n\n## **Configuration (File / Mod Menu)**\n<details>\n  <summary>All configuration options</summary>\n\n**Default Gamma Percentage**  \n*Default: 100%*  \nGamma percentage for when the mod is toggled off.  \n\n**Toggled Gamma Percentage**  \n*Default: 1500%*  \nGamma percentage for when the mod is toggled on.  \n\n**Update Toggle Value**  \n*Default: false*  \nEnabling this will make the toggle value remember the last non default value you've used.  \n\n**Smooth Transition**  \n*Default: false*  \nMake the transition when toggling gamma smoother.  \n\n**Transition Speed**  \n*Default: 4500*  \nSpeed in gamma percentage per second.  \n\n**Show Status Effect**  \n*Default: false*  \nShow a client side status effect when the gamma percentage is outside normal range.  \n(\"Low Gamma\" below 0% and \"High Gamma\" above 100%)  \n\n**Limit Check**  \n*Default: true*  \nShould the mod enforce the minimum and maximum gamma limits.  \n\n**Minimum Gamma Limit**  \n*Default: -750%*  \nMinimum gamma percentage the mod will allow if the Limit Check is enabled.  \n\n**Maximum Gamma Limit**  \n*Default: 1500%*  \nMaximum gamma percentage the mod will allow if the Limit Check is enabled.  \n\n**Gamma Percentage Step**  \n*Default: 10%*  \nGamma percentage change for every increase or decrease.  \n\n**Show Gamma Message**  \n*Default: true*  \nShow a message with the new gamma value.  \n\n**Reset on Close**  \n*Default: false*  \nReset the gamma value to default when Minecraft closes.  \n</details>\n\n## **Versions & Dependencies**\n\n<details>\n  <summary>1.19+</summary>\n\n  **Required**:  \n[Fabric API](https://modrinth.com/mod/fabric-api)  \n[Cloth Config API](https://modrinth.com/mod/cloth-config) (Is needed to make the config work)  \n\n**Optional:**  \n[Mod Menu](https://modrinth.com/mod/modmenu) (This mod allows you to edit the configs in game)  \n\n</details>\n\n<details>\n  <summary>1.16 - 1.18</summary>\n\n  **Required**:  \n[Fabric API](https://modrinth.com/mod/fabric-api) (0.31.0 or later)  \n\n**Optional:**  \n[Mod Menu](https://modrinth.com/mod/modmenu) (This mod allows you to edit the configs in game)  \n\n**Already included/embedded:**  \n[Cloth Config API](https://modrinth.com/mod/cloth-config) (Is needed to make the config work)  \n\n</details>\n\n<details>\n  <summary>1.14 - 1.15</summary>\n\n**Required:**  \n[Fabric API](https://modrinth.com/mod/fabric-api) (0.14.0 or later)  \n\n**Optional:**  \n[Mod Menu](https://modrinth.com/mod/modmenu) (This mod allows you to edit the configs in game)  \n\n**Already included/embedded:**  \n[Auto Config Updated API](https://github.com/shedaniel/AutoConfig) (Is needed to make the config work)  \n[Cloth Config API](https://modrinth.com/mod/cloth-config) (Required for Auto Config)  \n\n</details>",
+		"long_description": "![Example](https://cdn-raw.modrinth.com/data/wdLuzzEP/images/f877a47e87e753a2fe502c3130b8c82ec55f01b0.png)\n\n<a href=\"https://modrinth.com/mod/fabric-api/versions\">\n  <img src=\"https://i.imgur.com/DZjcl2x.png\" alt=\"Requires Fabric API\" width=\"180\"/>\n</a><b>&emsp;</b>\n<a href=\"https://modrinth.com/mod/cloth-config/versions?l=fabric\">\n  <img src=\"https://i.imgur.com/I0y2xcw.png\" alt=\"Requires Cloth Config\" width=\"180\"/>\n</a>\n\n# **Gamma Utils**\n\nThis is a fully configurable and client side gamma utility mod, making it much easier to see in the dark. \nIt's a really basic mod that allows you to change the gamma value in game way higher than the in game brightness setting allows. Nights will look like day and caves will look like they're fully lit up. \nBasically Fullbright but for fabric.  \n<br>  \n\n**Press G to toggle between 100% and 1500% gamma**  \n\n**Press H to toggle client side Night Vision on or off**  \nThis works better in combination with shaders than gamma  \n<br>  \n\n## **Fully adjustable to your liking**  \nTo see everything that can be done and adjusted open the function and configuration spoilers below.  \nHere are some examples of what's possible though:  \n\n<details>\n  <summary>Mod overview video from BlackNinja745</summary>\n<iframe width=\"600\" height=\"340\" src=\"https://www.youtube.com/embed/LcQVX6XIYHY\" title=\"Gamma Utils: BEST Fullbright / Gamma Mod! | Minecraft Mod Tutorial\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</details>\n\n**Toggle Night Vision**  \nHigh gamma won't work in combination with shaders,  \nhowever, night vision will work with at least some shaders:  \n<a href=\"https://cdn.modrinth.com/data/wdLuzzEP/images/e656eb30925be96d2392a8e57dd56d227ccc3c7b.png\">\n  <img src=\"https://cdn.modrinth.com/data/wdLuzzEP/images/e656eb30925be96d2392a8e57dd56d227ccc3c7b.png\" alt=\"Night Vision\" width=\"600\"/>\n</a>\n\n**Smooth Transition**  \nEnable smooth transition (off by default) for a less intense transition when toggling gamma:  \n![Smooth Transition](https://cdn.modrinth.com/data/wdLuzzEP/images/e89e666c3b8a88c31093083aa585cdbb6cdceb63.gif)  \n\n**Status Effects**  \nEnable fully client side status effects (off by default)  \nTo keep you reminded that you've enabled gamma outside normal values:  \n![Status Effects](https://cdn.modrinth.com/data/wdLuzzEP/images/5d0fac9f4cec7bf7e8cd195b01aaa9558cd2c6b6.png)  \n\n\n\n## **All Functions**\n<details>\n  <summary>All functions and commands</summary>\n\n**Toggle Gamma**  \n*Usage: Keybind (default: G)   or   /gamma toggle*  \nToggle between the default gamma percentage and the configured toggled percentage.  \n\n**Increase Gamma**  \n*Usage: Keybind (default: arrow up)   or   /gamma increase \\<value> (value is optional)*  \nIncrease the gamma percentage by the configured step percentage or the given value.  \n\n**Decrease Gamma**  \n*Usage: Keybind (default: arrow down)   or   /gamma decrease \\<value> (value is optional)*  \nDecrease the gamma percentage by the configured step percentage or the given value.  \n\n**Set Gamma**  \n*Usage: /gamma set \\<value>*  \nSet the gamma to a specific percentage.  \n\n**Min Gamma**  \n*Usage: Keybind   or   /gamma min*  \nSets the gamma to the configured minimum limit.  \n\n**Max Gamma**  \n*Usage: Keybind   or   /gamma max*  \nSets the gamma to the configured maximum limit.  \n\n**Toggle Night Vision**  \n*Usage: Keybind (default: H)   or   /gamma nightvision*  \nToggle night vision on or off.  \n</details>\n\n## **Configuration (File / Mod Menu)**\n<details>\n  <summary>All configuration options</summary>\n\n**Default Gamma Percentage**  \n*Default: 100%*  \nGamma percentage for when the mod is toggled off.  \n\n**Toggled Gamma Percentage**  \n*Default: 1500%*  \nGamma percentage for when the mod is toggled on.  \n\n**Update Toggle Value**  \n*Default: false*  \nEnabling this will make the toggle value remember the last non default value you've used.  \n\n**Smooth Transition**  \n*Default: false*  \nMake the transition when toggling gamma smoother.  \n\n**Transition Speed**  \n*Default: 4500*  \nSpeed in gamma percentage per second.  \n\n**Show Status Effect**  \n*Default: false*  \nShow a client side status effect when the gamma percentage is outside normal range.  \n(\"Low Gamma\" below 0% and \"High Gamma\" above 100%)  \n\n**Limit Check**  \n*Default: true*  \nShould the mod enforce the minimum and maximum gamma limits.  \n\n**Minimum Gamma Limit**  \n*Default: -750%*  \nMinimum gamma percentage the mod will allow if the Limit Check is enabled.  \n\n**Maximum Gamma Limit**  \n*Default: 1500%*  \nMaximum gamma percentage the mod will allow if the Limit Check is enabled.  \n\n**Gamma Percentage Step**  \n*Default: 10%*  \nGamma percentage change for every increase or decrease.  \n\n**Show Gamma Message**  \n*Default: true*  \nShow a message with the new gamma value.  \n\n**Reset on Close**  \n*Default: false*  \nReset the gamma value to default when Minecraft closes.  \n</details>\n\n## **Versions & Dependencies**\n\n<details>\n  <summary>1.19+</summary>\n\n  **Required**:  \n[Fabric API](https://modrinth.com/mod/fabric-api)  \n[Cloth Config API](https://modrinth.com/mod/cloth-config) (Is needed to make the config work)  \n\n**Optional:**  \n[Mod Menu](https://modrinth.com/mod/modmenu) (This mod allows you to edit the configs in game)  \n\n</details>\n\n<details>\n  <summary>1.16 - 1.18</summary>\n\n  **Required**:  \n[Fabric API](https://modrinth.com/mod/fabric-api) (0.31.0 or later)  \n\n**Optional:**  \n[Mod Menu](https://modrinth.com/mod/modmenu) (This mod allows you to edit the configs in game)  \n\n**Already included/embedded:**  \n[Cloth Config API](https://modrinth.com/mod/cloth-config) (Is needed to make the config work)  \n\n</details>\n\n<details>\n  <summary>1.14 - 1.15</summary>\n\n**Required:**  \n[Fabric API](https://modrinth.com/mod/fabric-api) (0.14.0 or later)  \n\n**Optional:**  \n[Mod Menu](https://modrinth.com/mod/modmenu) (This mod allows you to edit the configs in game)  \n\n**Already included/embedded:**  \n[Auto Config Updated API](https://github.com/shedaniel/AutoConfig) (Is needed to make the config work)  \n[Cloth Config API](https://modrinth.com/mod/cloth-config) (Required for Auto Config)  \n\n</details>",
 		"name": "Gamma Utils (Fullbright)",
 		"package_maintainers": [
 			"mcvm"
@@ -976,6 +1164,14 @@
 	},
 	"properties": {
 		"content_versions": [
+			"2.2.3",
+			"2.2.2",
+			"2.2.1",
+			"2.1.2",
+			"2.1.1",
+			"2.1.0",
+			"2.0.1",
+			"2.0.0",
 			"1.9.20",
 			"1.8.20",
 			"1.8.20-beta",
@@ -1113,7 +1309,12 @@
 			"1.20.5-rc3",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

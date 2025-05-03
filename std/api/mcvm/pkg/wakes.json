@@ -81,6 +81,172 @@
 					"version": "mgtR7Ajv"
 				},
 				{
+					"content_versions": "0.4.1-1.21.4",
+					"minecraft_versions": [
+						"1.21.3",
+						"1.21.4"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/kb2DufCl/wakes-0.4.1%2B1.21.4.jar",
+					"version": "kb2DufCl"
+				},
+				{
+					"content_versions": "0.4.1-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1",
+						"1.21.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/WuY7eJX9/wakes-0.4.1%2B1.21.1.jar",
+					"version": "WuY7eJX9"
+				},
+				{
+					"content_versions": "0.4.0-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/hUOdfRBT/wakes-0.4.0%2B1.20.1.jar",
+					"version": "hUOdfRBT"
+				},
+				{
+					"content_versions": "0.4.0-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "mod-menu"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/HIoFb0DP/wakes-0.4.0%2B1.21.1.jar",
+					"version": "HIoFb0DP"
+				},
+				{
+					"content_versions": "0.3.0-1.20.1",
+					"minecraft_versions": [
+						"1.20",
+						"1.20.1",
+						"1.20.2"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/lsSmeonD/wakes-0.3.0%2B1.20.1.jar",
+					"version": "lsSmeonD"
+				},
+				{
+					"content_versions": "0.3.0-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/i5THoeP6/wakes-0.3.0%2B1.21.1.jar",
+					"version": "i5THoeP6"
+				},
+				{
+					"content_versions": "0.3.0-1.20.5",
+					"minecraft_versions": [
+						"1.20.5",
+						"1.20.6"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api",
+						"recommendations": [
+							{
+								"value": "iris"
+							},
+							{
+								"value": "mod-menu"
+							},
+							{
+								"value": "yacl"
+							}
+						]
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/h6X71vuH/wakes-0.3.0%2B1.20.5.jar",
+					"version": "h6X71vuH"
+				},
+				{
 					"content_versions": "0.2.5-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": "fabriclike",
@@ -411,17 +577,20 @@
 		"authors": [
 			"Goby56"
 		],
-		"banner": "https://cdn.modrinth.com/data/dlNu0RQY/images/4b5eb2f7fa404bc64cd8428002d6ffced4fdae37.png",
+		"banner": "https://cdn.modrinth.com/data/dlNu0RQY/images/12c5931d21268d2c628800d1fcfe0bd0fbdb2eb5_350.webp",
 		"description": "Adds splashes and wakes while traveling on water",
 		"gallery": [
-			"https://cdn.modrinth.com/data/dlNu0RQY/images/4b5eb2f7fa404bc64cd8428002d6ffced4fdae37.png",
-			"https://cdn.modrinth.com/data/dlNu0RQY/images/73caecd86a12908081c358da8eb6fc36abc94e42.png",
-			"https://cdn.modrinth.com/data/dlNu0RQY/images/c0c78ba1d2a6756b2c074238804caf1ef81805ae.png"
+			"https://cdn.modrinth.com/data/dlNu0RQY/images/12c5931d21268d2c628800d1fcfe0bd0fbdb2eb5_350.webp",
+			"https://cdn.modrinth.com/data/dlNu0RQY/images/26b0c26dd70d514f6cd982e3c398068d4501d8f1_350.webp",
+			"https://cdn.modrinth.com/data/dlNu0RQY/images/5f0bf8f3495fb793f0b5ea14d5f68f037d049bec_350.webp",
+			"https://cdn.modrinth.com/data/dlNu0RQY/images/cc8b45f27aed8769e6c8c214ad07d85e7a151deb_350.webp",
+			"https://cdn.modrinth.com/data/dlNu0RQY/images/e7f3f03f39ee8685cbbcd79292895b51071b949a_350.webp",
+			"https://cdn.modrinth.com/data/dlNu0RQY/images/37768bc9646f375f0d40680fa5718588532cf476_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/dlNu0RQY/a4ae56b04602060fab56796ac88a4c4fb656c6ac.png",
+		"icon": "https://cdn.modrinth.com/data/dlNu0RQY/46be95a28f27da8a98e9721b6695703fcec2d7d8_96.webp",
 		"issues": "https://github.com/Goby56/wakes/issues",
 		"license": "GPL-3.0-only",
-		"long_description": "[![Modrinth Downloads](https://img.shields.io/modrinth/dt/wakes?logo=modrinth&color=00AF5C)](https://modrinth.com/mod/wakes) [![CurseForge Downloads](https://img.shields.io/curseforge/dt/884267?logo=curseforge&color=ff784d)](https://www.curseforge.com/minecraft/mc-mods/wakes)\n\n# Wakes\n### This mod aims to add simple wakes that fit the spirit of vanilla\n\n![Splashes and wakes](https://github.com/Goby56/wakes/assets/60710855/c4a153ca-ec98-449a-a73d-68ec80934c56)\n\n*Splashes when falling into water and simulated wakes*\n\n### Features\n- Simulation of waves after all entities\n- Waves appear at the oars of the boat\n- Splashes when falling into water\n- Water shooting out on either sides\n- Optional debug and appearence configs with [YACL](https://modrinth.com/mod/yacl) (YetAnotherConfigLib). Access them from the [ModMenu](https://modrinth.com/mod/modmenu) menu.\n- Iris shader support (known compatibilites [here](https://github.com/Goby56/wakes/blob/main/shader_compat.md))\n\n### Future\n- Foam outlines around models and shore lines\n- Splash quads when falling into water\n- Major version ports (1.16 - 1.18)\n- Forge port (maybe)\n\n___\n\n[![Wakes - Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png)](https://github.com/Goby56/wakes)\n\nThe mod is in early development and can therefore be lacking in some areas. Please report any bugs on the issues page over on [GitHub](https://github.com/Goby56/wakes)\n\n___\n\nDid you know you can see wakes behind other players? Try out the mod with your friends on a dedicated server with Bisect Hosting — a perfect choice if you want reliable and hassle-free servers with exceptional customer support. Use code: [Goby](https://bisecthosting.com/Goby) for a 25% discount on your first month!\n\n![Code goby](https://www.bisecthosting.com/partners/custom-banners/b9d65903-691d-498a-857d-955b6257dd04.webp)",
+		"long_description": "[![Modrinth Downloads](https://img.shields.io/modrinth/dt/wakes?logo=modrinth&color=00AF5C)](https://modrinth.com/mod/wakes) [![CurseForge Downloads](https://img.shields.io/curseforge/dt/884267?logo=curseforge&color=ff784d)](https://www.curseforge.com/minecraft/mc-mods/wakes)\n\n# Wakes ![Modrinth Followers](https://img.shields.io/modrinth/followers/wakes)\n## Wakes aims to add simple wakes that fit the spirit of vanilla\n\n![Splashes and wakes](https://github.com/Goby56/wakes/assets/60710855/c4a153ca-ec98-449a-a73d-68ec80934c56)\n\n*Splashes when falling into water and simulated wakes*\n\n### Features\n- Simulation of waves after all entities\n- Waves appear at the oars of the boat\n- Splashes when falling into water\n- Water shooting out on either side\n- Extensive configs embedded with Midnightlib \n- Iris shader support (known incompatibilites [here](https://github.com/Goby56/wakes/issues?q=is%3Aissue%20state%3Aopen%20label%3Ashaders))\n\n### Future\n- Foam outlines around models and shore lines\n- Wakes on lava\n- API for other mods to add Wakes to their liquids\n\n___\n\n[![Wakes - Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png)](https://github.com/Goby56/wakes)\n\nThe mod is in early development and can therefore be lacking in some areas. Please report any bugs on the issues page over on [GitHub](https://github.com/Goby56/wakes)\n\n___\n\nDid you know you can see wakes behind other players? Try out the mod with your friends on a dedicated server with Bisect Hosting — a perfect choice if you want reliable and hassle-free servers with exceptional customer support. Use code: [Goby](https://bisecthosting.com/Goby) for a 25% discount on your first month!\n\n![Code goby](https://www.bisecthosting.com/partners/custom-banners/b9d65903-691d-498a-857d-955b6257dd04.webp)",
 		"name": "Wakes",
 		"package_maintainers": [
 			"mcvm"
@@ -431,6 +600,13 @@
 	},
 	"properties": {
 		"content_versions": [
+			"0.4.1-1.21.4",
+			"0.4.1-1.21.1",
+			"0.4.0-1.21.1",
+			"0.4.0-1.20.1",
+			"0.3.0-1.21.1",
+			"0.3.0-1.20.5",
+			"0.3.0-1.20.1",
 			"0.2.5-1.21",
 			"0.2.4-1.20.1",
 			"0.2.4",
@@ -463,7 +639,13 @@
 			"1.20.2",
 			"1.20.3",
 			"1.20.4",
-			"1.21"
+			"1.20.5",
+			"1.20.6",
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4"
 		]
 	}
 }

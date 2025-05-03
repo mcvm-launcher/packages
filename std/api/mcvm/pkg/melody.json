@@ -4,6 +4,33 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.0.11-1.21.5-neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/ifs75r9u/melody_neoforge_1.0.11_MC_1.21.5.jar",
+					"version": "ifs75r9u"
+				},
+				{
+					"content_versions": "1.0.11-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "forgelike",
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/BYSPaMzs/melody_forge_1.0.11_MC_1.21.5.jar",
+					"version": "BYSPaMzs"
+				},
+				{
+					"content_versions": "1.0.11-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "fabriclike-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/gf84krIk/melody_fabric_1.0.11_MC_1.21.5.jar",
+					"version": "gf84krIk"
+				},
+				{
 					"content_versions": "1.0.10-1.21-neo",
 					"minecraft_versions": "1.21",
 					"modloaders": "neoforged",
@@ -305,6 +332,8 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.0.11-1.21.5",
+			"1.0.11-1.21.5-neo",
 			"1.0.10-1.21",
 			"1.0.10-1.21-neo",
 			"1.0.9-1.20.6",
@@ -342,7 +371,10 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }

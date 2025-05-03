@@ -4,6 +4,311 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.21.4-4.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/W68glo4a/YungsBetterDesertTemples-1.21.4-Fabric-4.4.0.jar",
+					"version": "W68glo4a"
+				},
+				{
+					"content_versions": "1.21.4-Neo-4.4.0",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/eUMO4Bdh/YungsBetterDesertTemples-1.21.4-NeoForge-4.4.0.jar",
+					"version": "eUMO4Bdh"
+				},
+				{
+					"content_versions": "1.21.1-4.1.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/M6eeDRkC/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar",
+					"version": "M6eeDRkC"
+				},
+				{
+					"content_versions": "1.21.1-Neo-4.1.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/GQ9iNWkI/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+					"version": "GQ9iNWkI"
+				},
+				{
+					"content_versions": "1.21.1-4.1.5",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/hHnNYiZy/YungsBetterDesertTemples-1.21.1-Forge-4.1.5.jar",
+					"version": "hHnNYiZy"
+				},
+				{
+					"content_versions": "1.21.1-4.1.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/TWRjrgyx/YungsBetterDesertTemples-1.21.1-Fabric-4.1.4.jar",
+					"version": "TWRjrgyx"
+				},
+				{
+					"content_versions": "1.21.1-Neo-4.1.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/n3dqXFGK/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.4.jar",
+					"version": "n3dqXFGK"
+				},
+				{
+					"content_versions": "1.21.1-4.1.4",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/YfDtyvIb/YungsBetterDesertTemples-1.21.1-Forge-4.1.4.jar",
+					"version": "YfDtyvIb"
+				},
+				{
+					"content_versions": "1.21.1-4.1.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/BizicyDR/YungsBetterDesertTemples-1.21.1-Forge-4.1.3.jar",
+					"version": "BizicyDR"
+				},
+				{
+					"content_versions": "1.21.1-Neo-4.1.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/3J7rwhqh/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.3.jar",
+					"version": "3J7rwhqh"
+				},
+				{
+					"content_versions": "1.21.1-4.1.3",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/24pS4i8d/YungsBetterDesertTemples-1.21.1-Fabric-4.1.3.jar",
+					"version": "24pS4i8d"
+				},
+				{
+					"content_versions": "1.21.1-4.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/wyk3RO8o/YungsBetterDesertTemples-1.21.1-Fabric-4.1.2.jar",
+					"version": "wyk3RO8o"
+				},
+				{
+					"content_versions": "1.21.1-Neo-4.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/TPmwhutI/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.2.jar",
+					"version": "TPmwhutI"
+				},
+				{
+					"content_versions": "1.21.1-4.1.2",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/xmMMCBj8/YungsBetterDesertTemples-1.21.1-Forge-4.1.2.jar",
+					"version": "xmMMCBj8"
+				},
+				{
+					"content_versions": "1.21.1-4.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/7OwwSyUp/YungsBetterDesertTemples-1.21.1-Fabric-4.1.1.jar",
+					"version": "7OwwSyUp"
+				},
+				{
+					"content_versions": "1.21.1-Neo-4.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/TCDeMfz9/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.1.jar",
+					"version": "TCDeMfz9"
+				},
+				{
+					"content_versions": "1.21.1-4.1.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/fKudapvW/YungsBetterDesertTemples-1.21.1-Forge-4.1.1.jar",
+					"version": "fKudapvW"
+				},
+				{
+					"content_versions": "1.21.1-Neo-4.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/5SMNguuV/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.0.jar",
+					"version": "5SMNguuV"
+				},
+				{
+					"content_versions": "1.21.1-4.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "forgelike",
+					"relations": {
+						"dependencies": "yungs-api"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/vAvMUkkj/YungsBetterDesertTemples-1.21.1-Forge-4.1.0.jar",
+					"version": "vAvMUkkj"
+				},
+				{
+					"content_versions": "1.21.1-4.1.0",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": [
+							"cloth-config",
+							"fabriclike-api",
+							"yungs-api"
+						],
+						"recommendations": {
+							"value": "mod-menu"
+						}
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/ZCy75nMX/YungsBetterDesertTemples-1.21.1-Fabric-4.1.0.jar",
+					"version": "ZCy75nMX"
+				},
+				{
 					"content_versions": "1.20.4-3.4.4",
 					"minecraft_versions": "1.20.4",
 					"modloaders": "fabriclike",
@@ -398,27 +703,27 @@
 			"TeraBuildsStuff",
 			"YUNGNICKYOUNG"
 		],
-		"banner": "https://cdn.modrinth.com/data/XNlO7sBv/images/b038f3cf881908855e839d8512f2e5c72d60b554.png",
+		"banner": "https://cdn.modrinth.com/data/XNlO7sBv/images/ecb046381f193016de03b7b988367e99f6f7dd32_350.webp",
 		"categories": [
 			"worldgen"
 		],
 		"community": "https://discord.gg/rns3beq",
 		"description": "A complete redesign of Minecraft's desert temples!",
 		"gallery": [
-			"https://cdn.modrinth.com/data/XNlO7sBv/images/2e73ada29fe12cb01ecdea5916a5c8b76bf92251.png",
-			"https://cdn.modrinth.com/data/XNlO7sBv/images/4666a27bbc0b4b8bf1eb32993c739b4fae5dab5e.png",
-			"https://cdn.modrinth.com/data/XNlO7sBv/images/b038f3cf881908855e839d8512f2e5c72d60b554.png",
-			"https://cdn.modrinth.com/data/XNlO7sBv/images/c0981f08baa9c58eb2693dfd187d58afd3adf770.png",
-			"https://cdn.modrinth.com/data/XNlO7sBv/images/e2f8ce59e0967a2e6244d8ee6073526a54009335.png",
-			"https://cdn.modrinth.com/data/XNlO7sBv/images/e4540d16c2b4d6db2d54a75345492b005f81032e.png"
+			"https://cdn.modrinth.com/data/XNlO7sBv/images/1b5d96197b21ed82af083695330c579e12e40d25_350.webp",
+			"https://cdn.modrinth.com/data/XNlO7sBv/images/340976c573f9aa007f150dd8e4b5f9c568b5012d_350.webp",
+			"https://cdn.modrinth.com/data/XNlO7sBv/images/5ebdaf2839029b3172dbfb042ff66aa3dfb5a847_350.webp",
+			"https://cdn.modrinth.com/data/XNlO7sBv/images/8d37f5b673f926b207f707d6e8bf4600c449d512_350.webp",
+			"https://cdn.modrinth.com/data/XNlO7sBv/images/9ba03b420d8ceb71997a4eab91905732c0e37a06_350.webp",
+			"https://cdn.modrinth.com/data/XNlO7sBv/images/ecb046381f193016de03b7b988367e99f6f7dd32_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/XNlO7sBv/7c28d323155163f64343670e6553b85e681d7796.png",
+		"icon": "https://cdn.modrinth.com/data/XNlO7sBv/32fc82949e922ad9281ac9a8fe965afc04261848_96.webp",
 		"issues": "https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples/issues",
 		"keywords": [
 			"yungs"
 		],
 		"license": "LGPL-3.0-only",
-		"long_description": "<p>\n<img src=\"https://i.imgur.com/NedZCVu.png\" alt=\"YUNG's Better Desert Temples\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/2HNgRET.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nThe ultimate upgrade to Minecraft's desert temples! YUNG's Better Desert Temples redesigns vanilla desert temples to be way more exciting, adding a variety of new puzzles, traps, &amp; parkour challenges. And of course, you'll get much better loot than vanilla's desert temples for your troubles!\n</p>\n<p>\nBy default, mining fatigue will be applied to all players in the Better Desert Temple. Once you clear the temple (i.e. kill the pharaoh at the end of the temple), the mining fatigue effect for that temple will be permanently lifted! You can disable this feature in the config. Additionally, you can re-enable vanilla desert temples to spawn alongside Better Desert Temples in the config.\n</p>\n<p>\nCloser look: <br />\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TpkTeTeDKJo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</p>\n<p>\nAnimated trailer: <br />\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/C1C5Z0DaOQk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</p>\n<p>\n<img src=\"https://i.imgur.com/JR6R3uf.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Desert Temples is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Better Dungeons\" href=\"https://modrinth.com/mod/yungs-better-dungeons\" target=\"_blank\" rel=\"noopener\">YUNG's Better Dungeons</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Repurposed Structures. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of the deser temples! <a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-desert-temples-compat\" target=\"_blank\" rel=\"noopener\">Check it out here.</a></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+		"long_description": "<p>\n<img src=\"https://i.imgur.com/NedZCVu.png\" alt=\"YUNG's Better Desert Temples\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"76\" height=\"27\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/2HNgRET.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nThe ultimate upgrade to Minecraft's desert temples! YUNG's Better Desert Temples redesigns vanilla desert temples to be way more exciting, adding a variety of new puzzles, traps, &amp; parkour challenges. And of course, you'll get much better loot than vanilla's desert temples for your troubles!\n</p>\n<p>\nBy default, mining fatigue will be applied to all players in the Better Desert Temple. Once you clear the temple (i.e. kill the pharaoh at the end of the temple), the mining fatigue effect for that temple will be permanently lifted! You can disable this feature in the config. Additionally, you can re-enable vanilla desert temples to spawn alongside Better Desert Temples in the config.\n</p>\n<p>\nCloser look: <br />\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TpkTeTeDKJo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</p>\n<p>\nAnimated trailer: <br />\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/C1C5Z0DaOQk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</p>\n<p>\n<img src=\"https://i.imgur.com/JR6R3uf.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Desert Temples is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Better Dungeons\" href=\"https://modrinth.com/mod/yungs-better-dungeons\" target=\"_blank\" rel=\"noopener\">YUNG's Better Dungeons</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Repurposed Structures. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of the deser temples! <a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-desert-temples-compat\" target=\"_blank\" rel=\"noopener\">Check it out here.</a></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
 		"name": "YUNG's Better Desert Temples",
 		"package_maintainers": [
 			"mcvm"
@@ -428,6 +733,20 @@
 	},
 	"properties": {
 		"content_versions": [
+			"1.21.4-Neo-4.4.0",
+			"1.21.4-4.4.0",
+			"1.21.1-Neo-4.1.5",
+			"1.21.1-Neo-4.1.4",
+			"1.21.1-Neo-4.1.3",
+			"1.21.1-Neo-4.1.2",
+			"1.21.1-Neo-4.1.1",
+			"1.21.1-Neo-4.1.0",
+			"1.21.1-4.1.5",
+			"1.21.1-4.1.4",
+			"1.21.1-4.1.3",
+			"1.21.1-4.1.2",
+			"1.21.1-4.1.1",
+			"1.21.1-4.1.0",
 			"1.20.4-3.4.4",
 			"1.20.4-3.4.3",
 			"1.20.4-3.4.2",
@@ -459,7 +778,10 @@
 			"1.19.4",
 			"1.20",
 			"1.20.1",
-			"1.20.4"
+			"1.20.4",
+			"1.21",
+			"1.21.1",
+			"1.21.4"
 		]
 	}
 }

@@ -4,6 +4,87 @@
 			"kind": "mod",
 			"versions": [
 				{
+					"content_versions": "1.8.0-beta.3-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Kdz76qQt/iris-fabric-1.8.0-beta.3%2Bmc1.21.1.jar",
+					"version": "Kdz76qQt"
+				},
+				{
+					"content_versions": "1.8.0-beta.3-1.21-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/hfeO55Am/iris-neoforge-1.8.0-beta.3%2Bmc1.21.1.jar",
+					"version": "hfeO55Am"
+				},
+				{
+					"content_versions": "1.8.0-beta.2-1.21-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/CFLzYOBB/iris-neoforge-1.8.0-beta.2%2Bmc1.21.1.jar",
+					"version": "CFLzYOBB"
+				},
+				{
+					"content_versions": "1.8.0-beta.2-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/di7sM681/iris-fabric-1.8.0-beta.2%2Bmc1.21.1.jar",
+					"version": "di7sM681"
+				},
+				{
+					"content_versions": "1.8.0-beta.1-1.21-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/LxHRTZan/iris-neoforge-1.8.0-beta.1%2Bmc1.21.1.jar",
+					"version": "LxHRTZan"
+				},
+				{
+					"content_versions": "1.8.0-beta.1-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/81XVWegK/iris-fabric-1.8.0-beta.1%2Bmc1.21.1.jar",
+					"version": "81XVWegK"
+				},
+				{
 					"content_versions": "1.7.3-1.21",
 					"minecraft_versions": "1.21",
 					"modloaders": [
@@ -180,6 +261,595 @@
 					"stability": "stable",
 					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/ogIRhnAJ/iris-mc1.18.2-1.6.11.jar",
 					"version": "ogIRhnAJ"
+				},
+				{
+					"content_versions": "1.8.11-1.21.5-neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KAopiPos/iris-neoforge-1.8.11%2Bmc1.21.5.jar",
+					"version": "KAopiPos"
+				},
+				{
+					"content_versions": "1.8.11-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/U6evbjd0/iris-fabric-1.8.11%2Bmc1.21.5.jar",
+					"version": "U6evbjd0"
+				},
+				{
+					"content_versions": "1.8.10-1.21.5-neo",
+					"minecraft_versions": "1.21.5",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/ikM5BuoC/iris-neoforge-1.8.10%2Bmc1.21.5.jar",
+					"version": "ikM5BuoC"
+				},
+				{
+					"content_versions": "1.8.10-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/N0ln8GKQ/iris-fabric-1.8.10%2Bmc1.21.5.jar",
+					"version": "N0ln8GKQ"
+				},
+				{
+					"content_versions": "1.8.9-1.21.5",
+					"minecraft_versions": "1.21.5",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/jj2VYAAj/iris-fabric-1.8.9%2Bmc1.21.5.jar",
+					"version": "jj2VYAAj"
+				},
+				{
+					"content_versions": "1.7.6-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6%2Bmc1.20.1.jar",
+					"version": "s5eFLITc"
+				},
+				{
+					"content_versions": "1.8.8-1.21.4-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/FNc0XYTL/iris-neoforge-1.8.8%2Bmc1.21.4.jar",
+					"version": "FNc0XYTL"
+				},
+				{
+					"content_versions": "1.8.8-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar",
+					"version": "Ca054sTe"
+				},
+				{
+					"content_versions": "1.8.8-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
+					"version": "zsoi0dso"
+				},
+				{
+					"content_versions": "1.8.8-1.21.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/oXIoDcGE/iris-neoforge-1.8.8%2Bmc1.21.1.jar",
+					"version": "oXIoDcGE"
+				},
+				{
+					"content_versions": "1.8.7-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fI1GlVsm/iris-fabric-1.8.7%2Bmc1.21.4.jar",
+					"version": "fI1GlVsm"
+				},
+				{
+					"content_versions": "1.8.7-1.21.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/RJ6B9OeB/iris-neoforge-1.8.7%2Bmc1.21.1.jar",
+					"version": "RJ6B9OeB"
+				},
+				{
+					"content_versions": "1.8.7-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/A99vfwJc/iris-fabric-1.8.7%2Bmc1.21.1.jar",
+					"version": "A99vfwJc"
+				},
+				{
+					"content_versions": "1.8.6-1.21.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/pgeobnib/iris-neoforge-1.8.6%2Bmc1.21.1.jar",
+					"version": "pgeobnib"
+				},
+				{
+					"content_versions": "1.8.5-1.21.4-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/8l8TrrQz/iris-neoforge-1.8.5%2Bmc1.21.4.jar",
+					"version": "8l8TrrQz"
+				},
+				{
+					"content_versions": "1.8.5-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/LZrmMq4i/iris-fabric-1.8.5%2Bmc1.21.4.jar",
+					"version": "LZrmMq4i"
+				},
+				{
+					"content_versions": "1.8.4-1.21.4-neo",
+					"minecraft_versions": "1.21.4",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/5OyTT1R6/iris-neoforge-1.8.4%2Bmc1.21.4.jar",
+					"version": "5OyTT1R6"
+				},
+				{
+					"content_versions": "1.8.4-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/J55HRGSf/iris-fabric-1.8.4%2Bmc1.21.4.jar",
+					"version": "J55HRGSf"
+				},
+				{
+					"content_versions": "1.8.3-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/1jDkBRQP/iris-fabric-1.8.3%2Bmc1.21.4.jar",
+					"version": "1jDkBRQP"
+				},
+				{
+					"content_versions": "1.8.2-1.21.4",
+					"minecraft_versions": "1.21.4",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/ZnhzDm36/iris-fabric-1.8.2%2Bmc1.21.4.jar",
+					"version": "ZnhzDm36"
+				},
+				{
+					"content_versions": "1.8.1-1.21.3",
+					"minecraft_versions": "1.21.3",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/xQYJAYTI/iris-fabric-1.8.1%2Bmc1.21.3.jar",
+					"version": "xQYJAYTI"
+				},
+				{
+					"content_versions": "1.8.1-1.21.3-neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/mRdVEpVp/iris-neoforge-1.8.1%2Bmc1.21.3.jar",
+					"version": "mRdVEpVp"
+				},
+				{
+					"content_versions": "1.8.1-1.21.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/QS9F364b/iris-neoforge-1.8.1%2Bmc1.21.1.jar",
+					"version": "QS9F364b"
+				},
+				{
+					"content_versions": "1.8.1-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/IzngD3Cy/iris-fabric-1.8.1%2Bmc1.21.1.jar",
+					"version": "IzngD3Cy"
+				},
+				{
+					"content_versions": "1.8.0-1.21.3-neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zYCRMwJK/iris-neoforge-1.8.0%2Bmc1.21.3.jar",
+					"version": "zYCRMwJK"
+				},
+				{
+					"content_versions": "1.8.0-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "fabriclike",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/qyGMuaY6/iris-fabric-1.8.0%2Bmc1.21.3.jar",
+					"version": "qyGMuaY6"
+				},
+				{
+					"content_versions": "1.8.0-1.21.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/S793sibh/iris-neoforge-1.8.0%2Bmc1.21.1.jar",
+					"version": "S793sibh"
+				},
+				{
+					"content_versions": "1.8.0-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/MA2sKKaG/iris-fabric-1.8.0%2Bmc1.21.1.jar",
+					"version": "MA2sKKaG"
+				},
+				{
+					"content_versions": "1.8.0-beta.9-1.21.3-neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/LZazop7o/iris-neoforge-1.8.0-beta.9%2Bmc1.21.3.jar",
+					"version": "LZazop7o"
+				},
+				{
+					"content_versions": "1.8.0-beta.9-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/OYXyPwMd/iris-fabric-1.8.0-beta.9%2Bmc1.21.3.jar",
+					"version": "OYXyPwMd"
+				},
+				{
+					"content_versions": "1.8.0-beta.8-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KRa2Torg/iris-fabric-1.8.0-beta.8%2Bmc1.21.3.jar",
+					"version": "KRa2Torg"
+				},
+				{
+					"content_versions": "1.8.0-beta.8-1.21.3-neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/jkePzKpI/iris-neoforge-1.8.0-beta.8%2Bmc1.21.3.jar",
+					"version": "jkePzKpI"
+				},
+				{
+					"content_versions": "1.8.0-beta.8-1.21.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/W51fNmnQ/iris-neoforge-1.8.0-beta.8%2Bmc1.21.1.jar",
+					"version": "W51fNmnQ"
+				},
+				{
+					"content_versions": "1.8.0-beta.8-1.21.1",
+					"minecraft_versions": "1.21.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/NqWJ1KIA/iris-fabric-1.8.0-beta.8%2Bmc1.21.1.jar",
+					"version": "NqWJ1KIA"
+				},
+				{
+					"content_versions": "1.8.0-beta.7-1.21.3",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/ljIS26gI/iris-fabric-1.8.0-beta.7%2Bmc1.21.3.jar",
+					"version": "ljIS26gI"
+				},
+				{
+					"content_versions": "1.8.0-beta.7-1.21.3-neo",
+					"minecraft_versions": "1.21.3",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/GXh6E3im/iris-neoforge-1.8.0-beta.7%2Bmc1.21.3.jar",
+					"version": "GXh6E3im"
+				},
+				{
+					"content_versions": "1.8.0-beta.7-1.21.1",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/RyzH5mIp/iris-fabric-1.8.0-beta.7%2Bmc1.21.1.jar",
+					"version": "RyzH5mIp"
+				},
+				{
+					"content_versions": "1.8.0-beta.7-1.21.1-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Wla8rJYn/iris-neoforge-1.8.0-beta.7%2Bmc1.21.1.jar",
+					"version": "Wla8rJYn"
+				},
+				{
+					"content_versions": "1.8.0-beta.6-1.21.2-neo",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/C15qY9cE/iris-neoforge-1.8.0-beta.6%2Bmc1.21.2.jar",
+					"version": "C15qY9cE"
+				},
+				{
+					"content_versions": "1.8.0-beta.6-1.21.2",
+					"minecraft_versions": [
+						"1.21.2",
+						"1.21.3"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/XExINvk9/iris-fabric-1.8.0-beta.6%2Bmc1.21.2.jar",
+					"version": "XExINvk9"
+				},
+				{
+					"content_versions": "1.7.5-1.20.1",
+					"minecraft_versions": "1.20.1",
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "stable",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Bi9nvICq/iris-1.7.5%2Bmc1.20.1.jar",
+					"version": "Bi9nvICq"
+				},
+				{
+					"content_versions": "1.8.0-beta.5-1.21-neo",
+					"minecraft_versions": "1.21.1",
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/ktN143ZD/iris-neoforge-1.8.0-beta.5%2Bmc1.21.1.jar",
+					"version": "ktN143ZD"
+				},
+				{
+					"content_versions": "1.8.0-beta.4-1.21-neo",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": "neoforged",
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/pXkVHWIr/iris-neoforge-1.8.0-beta.4%2Bmc1.21.1.jar",
+					"version": "pXkVHWIr"
+				},
+				{
+					"content_versions": "1.8.0-beta.4-1.21",
+					"minecraft_versions": [
+						"1.21",
+						"1.21.1"
+					],
+					"modloaders": [
+						"fabriclike",
+						"quilt"
+					],
+					"relations": {
+						"dependencies": "sodium"
+					},
+					"stability": "latest",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/u9KvDA4s/iris-fabric-1.8.0-beta.4%2Bmc1.21.1.jar",
+					"version": "u9KvDA4s"
 				},
 				{
 					"content_versions": "1.7.0-1.20.6",
@@ -1764,31 +2434,31 @@
 			"IMS",
 			"coderbot"
 		],
-		"banner": "https://cdn.modrinth.com/data/YL57xq9U/images/d382106b9a2b943d06107c31c139c77849f1a0e8.png",
+		"banner": "https://cdn.modrinth.com/data/YL57xq9U/images/17f09a3d424d6e2005fcecc81838780a6847f8ce_350.webp",
 		"categories": [
 			"shaders",
 			"technical"
 		],
 		"community": "https://discord.gg/jQJnav2jPu",
-		"description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs",
+		"description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs",
 		"gallery": [
-			"https://cdn.modrinth.com/data/YL57xq9U/images/1c3d0dfbedf31dbee4e30e20c5329e5db9a881ae.png",
-			"https://cdn.modrinth.com/data/YL57xq9U/images/2fbd04f5d123577696e29b28bb7981a2bc95a0c8.png",
-			"https://cdn.modrinth.com/data/YL57xq9U/images/d382106b9a2b943d06107c31c139c77849f1a0e8.png"
+			"https://cdn.modrinth.com/data/YL57xq9U/images/17f09a3d424d6e2005fcecc81838780a6847f8ce_350.webp",
+			"https://cdn.modrinth.com/data/YL57xq9U/images/44245979cecbf237a3b26f375a0dc4f3a21dcf3d_350.webp",
+			"https://cdn.modrinth.com/data/YL57xq9U/images/d69f13ea9889652c02f8cf91a3e55c8ef7cd6316_350.webp"
 		],
-		"icon": "https://cdn.modrinth.com/data/YL57xq9U/dc558eece920db435f9823ce86de0c4cde89800b.png",
+		"icon": "https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp",
 		"issues": "https://github.com/IrisShaders/Iris/issues",
 		"keywords": [
 			"graphics"
 		],
 		"license": "LGPL-3.0-only",
-		"long_description": "![Iris: An open-source shaders mod compatible with OptiFine shaderpacks](https://raw.githubusercontent.com/IrisShaders/Iris/trunk/docs/banner.png)\n\n## Links\n\n* **Visit [our website](https://irisshaders.dev) for downloads and pretty screenshots!**\n* **Visit [the shaders section](https://modrinth.com/shaders) to find shader packs!**\n* Visit [our Discord server](https://discord.gg/jQJnav2jPu) to chat about the mod and get support! It's also a great place to get development updates right as they're happening.\n* Visit [the developer documentation](https://github.com/IrisShaders/Iris/tree/trunk/docs/development) for information on developing, building, and contributing to Iris!\n\n## Installation\n\nYou can find a guide to installation [here](https://github.com/IrisShaders/Iris/blob/1.20.3/docs/guide.md).\n\n## FAQ\n\n- Find answers to frequently asked questions on our [FAQ page](https://github.com/IrisShaders/Iris/blob/1.19.4/docs/faq.md).\n- Iris supports almost all shaderpacks, but a list of unsupported shaderpacks is available [here](https://github.com/IrisShaders/Iris/blob/1.19.4/docs/unsupportedshaders.md).\n- A list of unfixable limitations in Iris is available [here](https://github.com/IrisShaders/Iris/blob/1.19.4/docs/usage/limitations.md).\n\n## More Info\n\nMore info can be found on our [README](https://github.com/IrisShaders/Iris/blob/trunk/README.md).",
+		"long_description": "![Iris: An open-source shaders mod compatible with OptiFine shaderpacks](https://raw.githubusercontent.com/IrisShaders/Iris/multiloader-new/docs/banner.png)\n\n## Links\n\n* **Visit [our website](https://irisshaders.dev) for downloads and pretty screenshots!**\n* **Visit [the shaders section](https://modrinth.com/shaders) to find shader packs!**\n* Visit [our Discord server](https://discord.gg/jQJnav2jPu) to chat about the mod and get support! It's also a great place to get development updates right as they're happening.\n* Visit [the developer documentation](https://github.com/IrisShaders/Iris/tree/1.21/docs/development) for information on developing, building, and contributing to Iris!\n\n## Installation\n\nYou can find a guide to installation [here](https://github.com/IrisShaders/Iris/blob/multiloader-new/docs/guide.md).\n\n## FAQ\n\n- Find answers to frequently asked questions on our [FAQ page](https://github.com/IrisShaders/Iris/blob/multiloader-new/docs/faq.md).\n- Iris supports almost all shaderpacks, but a list of unsupported shaderpacks is available [here](https://github.com/IrisShaders/Iris/blob/1.21/docs/unsupportedshaders.md).\n- A list of unfixable limitations in Iris is available [here](https://github.com/IrisShaders/Iris/blob/1.21/docs/usage/limitations.md).\n\n## More Info\n\nMore info can be found on our [README](https://github.com/IrisShaders/Iris/blob/1.21/README.md).",
 		"name": "Iris Shaders",
 		"package_maintainers": [
 			"mcvm"
 		],
 		"source": "https://github.com/IrisShaders/Iris",
-		"support_link": "https://www.patreon.com/coderbot"
+		"support_link": "https://www.patreon.com/ims21"
 	},
 	"properties": {
 		"content_versions": [
@@ -1846,6 +2516,56 @@
 			"mc1.16.5-1.1.2",
 			"mc1.16.5-v1.1.1",
 			"mc1.16.5-v1.1.0",
+			"1.8.11-1.21.5",
+			"1.8.11-1.21.5-neo",
+			"1.8.10-1.21.5",
+			"1.8.10-1.21.5-neo",
+			"1.8.9-1.21.5",
+			"1.8.8-1.21.4",
+			"1.8.8-1.21.4-neo",
+			"1.8.8-1.21.1",
+			"1.8.8-1.21.1-neo",
+			"1.8.7-1.21.4",
+			"1.8.7-1.21.1",
+			"1.8.7-1.21.1-neo",
+			"1.8.6-1.21.1-neo",
+			"1.8.5-1.21.4",
+			"1.8.5-1.21.4-neo",
+			"1.8.4-1.21.4",
+			"1.8.4-1.21.4-neo",
+			"1.8.3-1.21.4",
+			"1.8.2-1.21.4",
+			"1.8.1-1.21.3",
+			"1.8.1-1.21.3-neo",
+			"1.8.1-1.21.1",
+			"1.8.1-1.21.1-neo",
+			"1.8.0-1.21.3",
+			"1.8.0-1.21.3-neo",
+			"1.8.0-1.21.1",
+			"1.8.0-1.21.1-neo",
+			"1.8.0-beta.9-1.21.3",
+			"1.8.0-beta.9-1.21.3-neo",
+			"1.8.0-beta.8-1.21.3",
+			"1.8.0-beta.8-1.21.3-neo",
+			"1.8.0-beta.8-1.21.1",
+			"1.8.0-beta.8-1.21.1-neo",
+			"1.8.0-beta.7-1.21.3",
+			"1.8.0-beta.7-1.21.3-neo",
+			"1.8.0-beta.7-1.21.1",
+			"1.8.0-beta.7-1.21.1-neo",
+			"1.8.0-beta.6-1.21.2",
+			"1.8.0-beta.6-1.21.2-neo",
+			"1.8.0-beta.5-1.21-neo",
+			"1.8.0-beta.4-1.21",
+			"1.8.0-beta.4-1.21-neo",
+			"1.8.0-beta.3-1.21",
+			"1.8.0-beta.3-1.21-neo",
+			"1.8.0-beta.2-1.21",
+			"1.8.0-beta.2-1.21-neo",
+			"1.8.0-beta.1-1.21",
+			"1.8.0-beta.1-1.21-neo",
+			"1.7.6-1.20.1",
+			"1.7.5-1.20.1",
 			"1.7.3-1.21",
 			"1.7.2-1.21",
 			"1.7.2-1.20.6",
@@ -1956,7 +2676,12 @@
 			"1.20.4",
 			"1.20.5",
 			"1.20.6",
-			"1.21"
+			"1.21",
+			"1.21.1",
+			"1.21.2",
+			"1.21.3",
+			"1.21.4",
+			"1.21.5"
 		]
 	}
 }
