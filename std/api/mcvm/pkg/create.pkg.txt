@@ -6,11 +6,11 @@
 }
 
 @install {
-	if modloader fabriclike {
+	if loader fabriclike {
 		bundle "create-fabric";
 	}
 
-	if modloader forgelike {
+	if loader forgelike {
 		bundle "create-forge";
 	}
 }

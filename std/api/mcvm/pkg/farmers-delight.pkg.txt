@@ -6,7 +6,7 @@
 }
 
 @install {
-	if modloader fabriclike {
+	if loader fabriclike {
 		if version "1.20.1+" {
 			require "farmers-delight-refabricated";
 		} else {
@@ -14,7 +14,7 @@
 		}
 		finish;
 	}
-	if modloader forgelike {
+	if loader forgelike {
 		require "farmers-delight-forge";
 		finish;
 	}
